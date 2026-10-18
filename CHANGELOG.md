@@ -13,3 +13,9 @@ versioning: SemVer.
   payload.bin and LZ4 via external tools), provider registry with 11 providers,
   LineageOS wiki metadata discovery, update detection and history reports, `afid` CLI,
   six GitHub Actions workflows, documentation.
+- 353 unverified device candidates from the LineageOS Wiki (CC BY-SA 3.0, attributed) in
+  `database/staging/unresolved/lineageos_wiki/`; not counted as verified devices.
+- Per-source `data_license` metadata in the provider registry and in every staging record
+  (source, revision, snapshot, license, verification requirements, `firmware_payload_ingested`).
+- `afid policy check` rules for staging records; `staging_by_brand` / `staging_unverified`
+  statistics.

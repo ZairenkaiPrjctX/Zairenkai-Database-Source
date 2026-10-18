@@ -38,6 +38,14 @@ providers:
     AFID does not bypass that step: download the package yourself, then run `afid ingest --local <file>
     --provider google_pixel [--sha256 <value from the page>]`.'
   settings: {}
+  data_license:
+    spdx: null
+    status: unknown
+    basis: Firmware and vendor files obtained by the user; proprietary vendor/OEM terms apply. AFID's
+      Apache-2.0 license does not cover them.
+    evidence_urls: &id001 []
+    attribution: null
+    share_alike: false
 - id: samsung
   class: afid.providers.local.SamsungProvider
   brand_ids:
@@ -62,6 +70,14 @@ providers:
     portal (opensource.samsung.com) is kernel/platform source, not firmware, and returned HTTP 403 to
     automated requests during verification.
   settings: {}
+  data_license:
+    spdx: null
+    status: unknown
+    basis: Firmware and vendor files obtained by the user; proprietary vendor/OEM terms apply. AFID's
+      Apache-2.0 license does not cover them.
+    evidence_urls: *id001
+    attribution: null
+    share_alike: false
 - id: xiaomi
   class: afid.providers.local.XiaomiFamilyProvider
   brand_ids:
@@ -85,6 +101,14 @@ providers:
     (payload.bin needs `payload-dumper-go`) or fastboot packages (.tgz, handled natively) that you obtained
     yourself.
   settings: {}
+  data_license:
+    spdx: null
+    status: unknown
+    basis: Firmware and vendor files obtained by the user; proprietary vendor/OEM terms apply. AFID's
+      Apache-2.0 license does not cover them.
+    evidence_urls: *id001
+    attribution: null
+    share_alike: false
 - id: poco
   class: afid.providers.local.XiaomiFamilyProvider
   brand_ids:
@@ -107,6 +131,14 @@ providers:
   limitations: Same packaging and limitations as the xiaomi provider; kept separate so POCO devices keep
     their own brand identity.
   settings: {}
+  data_license:
+    spdx: null
+    status: unknown
+    basis: Firmware and vendor files obtained by the user; proprietary vendor/OEM terms apply. AFID's
+      Apache-2.0 license does not cover them.
+    evidence_urls: *id001
+    attribution: null
+    share_alike: false
 - id: redmi
   class: afid.providers.local.XiaomiFamilyProvider
   brand_ids:
@@ -129,6 +161,14 @@ providers:
   limitations: Same packaging and limitations as the xiaomi provider; kept separate so Redmi devices keep
     their own brand identity.
   settings: {}
+  data_license:
+    spdx: null
+    status: unknown
+    basis: Firmware and vendor files obtained by the user; proprietary vendor/OEM terms apply. AFID's
+      Apache-2.0 license does not cover them.
+    evidence_urls: *id001
+    attribution: null
+    share_alike: false
 - id: oneplus
   class: afid.providers.local.OnePlusProvider
   brand_ids:
@@ -151,6 +191,14 @@ providers:
   limitations: No official, documented, automatable firmware API was verified. Import full OTA ZIPs you
     obtained yourself (payload.bin needs `payload-dumper-go`).
   settings: {}
+  data_license:
+    spdx: null
+    status: unknown
+    basis: Firmware and vendor files obtained by the user; proprietary vendor/OEM terms apply. AFID's
+      Apache-2.0 license does not cover them.
+    evidence_urls: *id001
+    attribution: null
+    share_alike: false
 - id: infinix
   class: afid.providers.local.TranssionProvider
   brand_ids:
@@ -172,6 +220,14 @@ providers:
   last_verified: '2026-10-18'
   limitations: No public official firmware distribution was verified. Local import only.
   settings: {}
+  data_license:
+    spdx: null
+    status: unknown
+    basis: Firmware and vendor files obtained by the user; proprietary vendor/OEM terms apply. AFID's
+      Apache-2.0 license does not cover them.
+    evidence_urls: *id001
+    attribution: null
+    share_alike: false
 - id: tecno
   class: afid.providers.local.TranssionProvider
   brand_ids:
@@ -194,6 +250,14 @@ providers:
   limitations: No public official firmware distribution was verified. Local import only. Brand alias 'Techno'
     is recognised for search.
   settings: {}
+  data_license:
+    spdx: null
+    status: unknown
+    basis: Firmware and vendor files obtained by the user; proprietary vendor/OEM terms apply. AFID's
+      Apache-2.0 license does not cover them.
+    evidence_urls: *id001
+    attribution: null
+    share_alike: false
 - id: nothing
   class: afid.providers.local.NothingProvider
   brand_ids:
@@ -216,6 +280,14 @@ providers:
   limitations: No official, documented, automatable firmware API was verified. Import full OTA ZIPs you
     obtained yourself (payload.bin needs `payload-dumper-go`).
   settings: {}
+  data_license:
+    spdx: null
+    status: unknown
+    basis: Firmware and vendor files obtained by the user; proprietary vendor/OEM terms apply. AFID's
+      Apache-2.0 license does not cover them.
+    evidence_urls: *id001
+    attribution: null
+    share_alike: false
 - id: local_firmware
   class: afid.providers.local.LocalFirmwareProvider
   brand_ids:
@@ -246,6 +318,14 @@ providers:
   limitations: Generic local import of an archive (ZIP/TAR), a partition image or an extracted directory.
     Brand must be given with --brand or derivable from build.prop.
   settings: {}
+  data_license:
+    spdx: null
+    status: unknown
+    basis: Firmware and vendor files obtained by the user; proprietary vendor/OEM terms apply. AFID's
+      Apache-2.0 license does not cover them.
+    evidence_urls: *id001
+    attribution: null
+    share_alike: false
 - id: lineageos_wiki
   class: afid.providers.lineageos_wiki.LineageWikiProvider
   brand_ids:
@@ -275,10 +355,10 @@ providers:
     method: none
   distribution_default: metadata_only
   last_verified: '2026-10-18'
-  limitations: Community device metadata only (no firmware). Its content license is not stated in the
-    repository's licenses/ directory (that MIT license covers the site theme), so only factual metadata
-    with attribution is recorded. Candidates are never 'verified' from this source alone. Covers only
-    devices with LineageOS ports; Infinix and TECNO were not found in the data.
+  limitations: Community device metadata only (no firmware). Content is CC BY-SA 3.0 as declared by the
+    wiki's own footer template (no file-level license for the data); records keep attribution and share-alike
+    terms. Candidates are never 'verified' from this source alone. Covers only devices with LineageOS
+    ports; Infinix and TECNO were not found in the data.
   settings:
     brand_rules:
     - brand_id: google_pixel
@@ -312,3 +392,18 @@ providers:
     - brand_id: nothing
       vendors:
       - Nothing
+  data_license:
+    spdx: CC-BY-SA-3.0
+    status: declared_by_source
+    basis: The repository has no license file for _data/devices/ (licenses/ covers only the site theme,
+      MIT, and Navgoco, BSD). Its footer template _includes/layout/footer.html renders 'Licensed under
+      CC BY-SA 3.0' on every page generated from this data, including device pages; confirmed on https://wiki.lineageos.org/devices/oriole/
+      (2026-10-18).
+    evidence_urls:
+    - https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_includes/layout/footer.html
+    - https://wiki.lineageos.org/devices/oriole/
+    - https://creativecommons.org/licenses/by-sa/3.0/
+    attribution: 'Device metadata from the LineageOS Wiki (https://wiki.lineageos.org), (c) The LineageOS
+      Project, licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). Adapted
+      by AFID: selected factual fields only.'
+    share_alike: true

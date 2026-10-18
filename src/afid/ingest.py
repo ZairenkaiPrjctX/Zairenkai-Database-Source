@@ -400,6 +400,7 @@ def _stage(
     result: IngestResult,
     dry_run: bool,
 ) -> IngestResult:
+    cfg_entry = next(e for e in registry.entries(cfg) if e["id"] == provider_id)
     result.status = "staged" if not dry_run else "dry_run"
     result.detail = "; ".join(reasons)
     claimed = codename or "unknown"
@@ -438,8 +439,20 @@ def _stage(
         ],
         "unresolved_reason": "; ".join(reasons),
         "discovered_at": now,
+        "source": {
+            "provider_id": provider_id,
+            "source_type": "user_supplied_local_firmware",
+            "url": None,
+            "revision": prepared.archive_sha256,
+            "snapshot": None,
+        },
+        "license": dict(cfg_entry["data_license"]),
+        "verification": {"status": "unverified", "outstanding_requirements": list(reasons)},
+        "distribution_status": "user_supplied",
+        "firmware_payload_ingested": False,
     }
     errs = [e.message for e in load_validators(cfg.schemas_dir)["candidate"].iter_errors(cand)]
+    # (the firmware itself stays in the local cache; only this metadata record is written)
     if errs:
         raise ValidationError(f"staging candidate invalid: {errs[:3]}")
     if not dry_run:

@@ -12,8 +12,8 @@ classifications, dependencies, provenance). Proprietary firmware is processed lo
 **not** stored or published unless an explicit, evidence-backed allowlist entry permits it.
 
 > Status: initial release 0.1.0. The engine, schemas, CLI and workflows are implemented and
-> tested with synthetic fixtures. The committed catalog is **empty**: no real firmware has
-> been ingested yet, and no provider can download firmware automatically (see
+> tested with synthetic fixtures. The catalog has **no verified devices** yet (353 unverified
+> LineageOS Wiki candidates wait in staging); no real firmware has been ingested, and no provider can download firmware automatically (see
 > [Provider status](#provider-status)). No CI badges are shown until the workflows have run
 > on GitHub.
 
@@ -138,7 +138,7 @@ Full description, ID rules, validation and migration strategy:
 
 | Provider | Status | What works today |
 |---|---|---|
-| `lineageos_wiki` | metadata_only | device candidates from the LineageOS wiki; tested with fixtures and one real dry run (353 in-scope candidates, 0 parse errors, 2026-10-18) |
+| `lineageos_wiki` | metadata_only | device candidates from the LineageOS Wiki; 353 unverified candidates staged from upstream commit `2c365be2` (2026-10-18), 0 parse errors |
 | `local_firmware` | active | local import of archives, images, extracted trees (fixture-tested) |
 | `google_pixel` | manual_import_required | local import with official SHA-256 check; downloads need terms acceptance in a browser |
 | `samsung`, `xiaomi`, `poco`, `redmi`, `oneplus`, `infinix`, `tecno`, `nothing` | manual_import_required | local import; no official automatable source verified |
@@ -285,6 +285,8 @@ through pull requests.
 ## License and attribution
 
 AFID code, configuration, schemas, documentation and test fixtures: Apache License 2.0
-([LICENSE](LICENSE), [NOTICE](NOTICE)). This license does not cover firmware or vendor files
-referenced by the catalog; those belong to their owners. Community metadata keeps its source
-attribution in each record.
+([LICENSE](LICENSE), [NOTICE](NOTICE)). Third-party data keeps its own license: the LineageOS
+Wiki candidates in `database/staging/unresolved/lineageos_wiki/` are CC BY-SA 3.0, (c) The
+LineageOS Project. Apache-2.0 does not cover firmware, vendor libraries or vendor
+configuration referenced by the catalog; those belong to their owners and are never
+redistributed by default. Details: [docs/LICENSING.md](docs/LICENSING.md).

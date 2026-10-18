@@ -190,7 +190,8 @@ class LineageWikiProvider(FirmwareProvider):
                 result.errors.append(f"{path.name}: unusable codename {codename!r}")
                 continue
             soc = str(doc["soc"]) if doc.get("soc") else None
-            url = RAW + path.name
+            # Prefer an immutable, commit-pinned URL; fall back to the moving branch URL.
+            url = f"{REPO}/blob/{head}/{DATA_DIR}/{path.name}" if head else RAW + path.name
             evidence: Evidence = {
                 "evidence_type": "community_repository",
                 "source": self.provider_id,

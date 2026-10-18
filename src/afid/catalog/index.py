@@ -46,7 +46,7 @@ def build(
     edges: list[dict[str, Any]] = []
     for p in store.dependency_files():
         edges.extend(jsonio.load(p)["edges"])
-    staged = list(store.staging_files())
+    staged = [jsonio.load(p) for p in store.staging_files()]
 
     by_sha: dict[str, set[str]] = {}
     for c in comps:
@@ -123,7 +123,12 @@ def build(
         "pending_license_review": sum(
             1 for c in comps if c["distribution_status"] in PENDING_REVIEW
         ),
+        # Staging candidates are unverified and never counted as devices above.
         "staging_candidates": len(staged),
+        "staging_unverified": sum(1 for s in staged if s["verification"]["status"] == "unverified"),
+        "staging_by_brand": dict(
+            sorted(Counter(s["brand_id"] or "unbranded" for s in staged).items())
+        ),
         "coverage_by_brand": per_brand,
     }
 

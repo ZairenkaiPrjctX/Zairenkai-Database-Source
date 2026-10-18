@@ -26,6 +26,7 @@ REQUIRED = (
     "distribution_default",
     "last_verified",
     "limitations",
+    "data_license",
 )
 
 
@@ -92,6 +93,13 @@ def self_test(cfg: Config, entry: dict[str, Any]) -> list[str]:
         problems.append("status 'active' but no capability implemented")
     if real["download"] and entry["distribution_default"] not in ("unknown", "restricted"):
         problems.append("downloadable sources must default to unknown/restricted distribution")
+    lic = entry["data_license"]
+    if lic.get("status") not in ("verified", "declared_by_source", "unknown"):
+        problems.append(f"data_license.status {lic.get('status')!r} invalid")
+    if lic.get("status") != "unknown" and not (lic.get("spdx") and lic.get("evidence_urls")):
+        problems.append("a declared/verified data license needs spdx and evidence_urls")
+    if (lic.get("share_alike") or lic.get("status") != "unknown") and not lic.get("attribution"):
+        problems.append("licensed third-party data needs an attribution statement")
     for url in entry["source_urls"]:
         if not url.startswith("https://"):
             problems.append(f"non-HTTPS source URL {url}")

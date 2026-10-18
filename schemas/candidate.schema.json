@@ -17,7 +17,12 @@
     "soc",
     "evidence",
     "unresolved_reason",
-    "discovered_at"
+    "discovered_at",
+    "source",
+    "license",
+    "verification",
+    "distribution_status",
+    "firmware_payload_ingested"
   ],
   "properties": {
     "schema_version": {
@@ -159,11 +164,136 @@
       "type": "string"
     },
     "discovered_at": {
-      "type": [
-        "string",
-        "null"
-      ],
+      "type": "string",
       "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$"
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "provider_id",
+        "source_type",
+        "url",
+        "revision",
+        "snapshot"
+      ],
+      "properties": {
+        "provider_id": {
+          "type": "string"
+        },
+        "source_type": {
+          "enum": [
+            "official_firmware",
+            "official_ota_or_factory_image",
+            "official_open_source_repository",
+            "public_device_tree",
+            "community_repository",
+            "user_supplied_local_firmware"
+          ]
+        },
+        "url": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "immutable (commit-pinned) URL when the source has revisions"
+        },
+        "revision": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "per-record revision marker, e.g. git blob SHA-1"
+        },
+        "snapshot": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "source index revision, e.g. git commit"
+        }
+      }
+    },
+    "license": {
+      "$ref": "#/$defs/license"
+    },
+    "verification": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "status",
+        "outstanding_requirements"
+      ],
+      "properties": {
+        "status": {
+          "const": "unverified"
+        },
+        "outstanding_requirements": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "minItems": 1
+        }
+      }
+    },
+    "distribution_status": {
+      "enum": [
+        "metadata_only",
+        "unknown",
+        "user_supplied"
+      ]
+    },
+    "firmware_payload_ingested": {
+      "const": false
+    }
+  },
+  "$defs": {
+    "license": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "spdx",
+        "status",
+        "basis",
+        "evidence_urls",
+        "attribution",
+        "share_alike"
+      ],
+      "properties": {
+        "spdx": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "status": {
+          "enum": [
+            "verified",
+            "declared_by_source",
+            "unknown"
+          ],
+          "description": "declared_by_source: the source states the license for its rendered/published content but not in a file-level grant"
+        },
+        "basis": {
+          "type": "string"
+        },
+        "evidence_urls": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "attribution": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "share_alike": {
+          "type": "boolean"
+        }
+      }
     }
   }
 }

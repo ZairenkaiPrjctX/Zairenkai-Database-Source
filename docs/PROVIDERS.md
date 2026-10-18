@@ -48,17 +48,19 @@ tests. No real vendor firmware was ingested while building this release.
   `Redmi` maps to `redmi`. The basis is stored as `brand_inference` and marked unverified.
 - **Output**: staging candidates (`community_reported`), never verified devices. Shared
   codenames (e.g. `_variant1`/`_variant2` files) become separate candidates.
-- **License**: the repository's `licenses/LICENSE` (MIT) covers the website theme; no license
-  statement for the device data was found. AFID records factual metadata with attribution
-  (URL, blob SHA) and `distribution_default: metadata_only`. Needs maintainer review if
-  candidates are to be committed in bulk.
+- **License**: CC BY-SA 3.0, `declared_by_source`. The repository has no license file for
+  `_data/devices/` (`licenses/` covers the theme, MIT, and Navgoco, BSD), but its footer template
+  `_includes/layout/footer.html` declares CC BY-SA 3.0 for every page generated from the data;
+  confirmed on the live device pages. Records carry attribution and share-alike terms;
+  `distribution_default: metadata_only`. See `docs/LICENSING.md`.
 - **Known limitations**: covers only devices with LineageOS ports; no Infinix or TECNO entries
   (vendor values checked 2026-10-18); release dates and SoC strings are as written by
   contributors.
 - **Real run (2026-10-18)**: against upstream commit `2c365be2b66336e4da1f3ca3bdd71c17eb819005`:
   764 files, 353 in-scope candidates (samsung 118, redmi 66, xiaomi 59, oneplus 55,
-  google_pixel 36, poco 17, nothing 2), 411 out of scope, 0 parse errors. Dry run only; nothing
-  was committed.
+  google_pixel 36, poco 17, nothing 2), 411 out of scope, 0 parse errors. Written to
+  `database/staging/unresolved/lineageos_wiki/` (353 records, all `unverified`); a repeat run
+  wrote nothing.
 - **Tests**: `tests/providers/test_providers.py::test_lineage_discovery_from_fixture`,
   `tests/integration/test_updates_cli.py` (write, rerun-unchanged, failure keeps data,
   changed/removed detection), `tests/integration/test_ingest.py::test_staging_candidate_promoted_on_verified_ingest`.

@@ -10,5 +10,18 @@ binaries or vendor configuration files referenced by the catalog. Those remain t
 their respective owners; the catalog records only metadata about them (paths, checksums,
 classification, provenance). See docs/LICENSING.md.
 
-Third-party metadata sources are attributed in each record's provenance fields, e.g. the
-LineageOS wiki (https://github.com/LineageOS/lineage_wiki) for community device candidates.
+Third-party data included in this repository:
+
+  database/staging/unresolved/lineageos_wiki/*.json
+    Device metadata from the LineageOS Wiki (https://wiki.lineageos.org),
+    (c) The LineageOS Project, licensed under CC BY-SA 3.0
+    (https://creativecommons.org/licenses/by-sa/3.0/). Adapted by AFID (selected factual
+    fields, reshaped). These files are distributed under CC BY-SA 3.0, not Apache-2.0.
+    See the README.md in that directory.
+
+Provenance and license metadata for every source are recorded per record and in
+config/provider_registry.yml (`data_license`).
+
+Contributions: AFID's code was written for this project; no third-party source code is
+copied into it. Contributors certify their right to submit each change with the commit
+trailer `Signed-off-by:` (Developer Certificate of Origin, https://developercertificate.org/).

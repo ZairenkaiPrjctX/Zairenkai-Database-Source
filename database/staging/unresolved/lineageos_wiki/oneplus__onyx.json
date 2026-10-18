@@ -1,0 +1,59 @@
+{
+  "brand_id": "oneplus",
+  "brand_inference": "vendor 'OnePlus' (community data; unverified)",
+  "candidate_id": "oneplus__onyx",
+  "codename": "onyx",
+  "codename_key": "onyx",
+  "codename_status": "community_reported",
+  "discovered_at": "2026-10-18T20:04:35Z",
+  "distribution_status": "metadata_only",
+  "evidence": [
+    {
+      "confidence": 0.5,
+      "detail": "onyx.yml (blob de2b3e3b35fa): codename 'onyx', name 'X'",
+      "evidence_type": "community_repository",
+      "retrieved_at": "2026-10-18T20:04:37Z",
+      "source": "lineageos_wiki",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/onyx.yml"
+    }
+  ],
+  "firmware_payload_ingested": false,
+  "license": {
+    "attribution": "Device metadata from the LineageOS Wiki (https://wiki.lineageos.org), (c) The LineageOS Project, licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). Adapted by AFID: selected factual fields only.",
+    "basis": "The repository has no license file for _data/devices/ (licenses/ covers only the site theme, MIT, and Navgoco, BSD). Its footer template _includes/layout/footer.html renders 'Licensed under CC BY-SA 3.0' on every page generated from this data, including device pages; confirmed on https://wiki.lineageos.org/devices/oriole/ (2026-10-18).",
+    "evidence_urls": [
+      "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_includes/layout/footer.html",
+      "https://wiki.lineageos.org/devices/oriole/",
+      "https://creativecommons.org/licenses/by-sa/3.0/"
+    ],
+    "share_alike": true,
+    "spdx": "CC-BY-SA-3.0",
+    "status": "declared_by_source"
+  },
+  "model_numbers": [],
+  "product_names": [
+    "X"
+  ],
+  "release_date": null,
+  "schema_version": "1.0",
+  "soc": {
+    "architecture": "arm",
+    "platform": "Qualcomm MSM8974AC Snapdragon 801",
+    "vendor": "qualcomm"
+  },
+  "source": {
+    "provider_id": "lineageos_wiki",
+    "revision": "de2b3e3b35faa46195cbec684819f3819a0e0479",
+    "snapshot": "2c365be2b66336e4da1f3ca3bdd71c17eb819005",
+    "source_type": "community_repository",
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/onyx.yml"
+  },
+  "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
+  "verification": {
+    "outstanding_requirements": [
+      "codename confirmed by firmware evidence (ro.product.vendor.device / ro.product.device in build.prop, or OTA metadata pre-device) via `afid ingest --local`, or by an official source",
+      "brand assignment confirmed (community brand inference is unverified)"
+    ],
+    "status": "unverified"
+  }
+}

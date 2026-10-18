@@ -68,7 +68,17 @@ def candidate_id(c: DeviceCandidate) -> str:
     return f"{c.brand_id}__{sanitize_id(c.item_id).lower()}"
 
 
-def candidate_record(c: DeviceCandidate, now: str) -> dict[str, Any]:
+COMMUNITY_REQUIREMENTS = [
+    "codename confirmed by firmware evidence (ro.product.vendor.device / ro.product.device in "
+    "build.prop, or OTA metadata pre-device) via `afid ingest --local`, or by an official source",
+    "brand assignment confirmed (community brand inference is unverified)",
+]
+
+
+def candidate_record(
+    c: DeviceCandidate, now: str, entry: dict[str, Any], snapshot: str | None
+) -> dict[str, Any]:
+    """Staging record for a community candidate: unverified, metadata only, licensed per source."""
     return {
         "schema_version": "1.0",
         "candidate_id": candidate_id(c),
@@ -85,6 +95,20 @@ def candidate_record(c: DeviceCandidate, now: str) -> dict[str, Any]:
         "unresolved_reason": "community source only; needs firmware build.prop or official "
         "source to verify the codename",
         "discovered_at": now,
+        "source": {
+            "provider_id": entry["id"],
+            "source_type": entry["source_type"],
+            "url": c.url,
+            "revision": c.revision,
+            "snapshot": snapshot,
+        },
+        "license": dict(entry["data_license"]),
+        "verification": {
+            "status": "unverified",
+            "outstanding_requirements": COMMUNITY_REQUIREMENTS,
+        },
+        "distribution_status": entry["distribution_default"],
+        "firmware_payload_ingested": False,
     }
 
 
@@ -211,25 +235,28 @@ def check(
             )
 
         if write:
-            outcome.written += _write(store, entry["id"], res, old_items, brand, now)
+            outcome.written += _write(store, entry, res, old_items, brand, now)
     return outcome
 
 
 def _write(
     store: Store,
-    provider_id: str,
+    entry: dict[str, Any],
     res: DiscoveryResult,
     old_items: dict[str, dict[str, Any]],
     brand: str | None,
     now: str,
 ) -> list[str]:
+    provider_id = entry["id"]
     written = []
     for c in res.candidates:
         path = store.staging_path(provider_id, candidate_id(c))
         if store.device_path(c.brand_id or "", codename_key(c.codename)).exists():
             continue  # already verified; the verified record is authoritative
         if jsonio.write_if_changed(
-            path, candidate_record(c, now), ("discovered_at", "retrieved_at")
+            path,
+            candidate_record(c, now, entry, res.index_revision),
+            ("discovered_at", "retrieved_at"),
         ):
             written.append(str(path))
     items = dict(old_items)  # keep items a filtered/partial run did not see

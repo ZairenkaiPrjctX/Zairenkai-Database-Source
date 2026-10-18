@@ -4,6 +4,7 @@ from afid import updates
 from afid.catalog import Store
 from afid.catalog.validate import validate
 from afid.cli import main
+from afid.utils import jsonio
 from tests.conftest import zip_tree
 
 
@@ -103,3 +104,47 @@ def test_cli_validate_fails_on_invalid_record(repo, capsys):
 def test_cli_markdown_report(repo, capsys):
     assert main(["report", "--format", "markdown"]) == 0
     assert "# AFID catalog report" in capsys.readouterr().out
+
+
+def test_candidates_are_unverified_licensed_and_not_devices(repo, capsys):
+    updates.check(repo, provider="lineageos_wiki", write=True)
+    staged = [jsonio.load(p) for p in Store(repo.database).staging_files()]
+    assert len(staged) == 4
+    for c in staged:
+        assert c["codename_status"] == "community_reported"
+        assert c["verification"]["status"] == "unverified"
+        assert c["verification"]["outstanding_requirements"]
+        assert c["firmware_payload_ingested"] is False
+        assert c["distribution_status"] == "metadata_only"
+        assert c["license"]["spdx"] == "CC-BY-SA-3.0" and c["license"]["share_alike"]
+        assert "LineageOS" in c["license"]["attribution"]
+        assert c["source"]["provider_id"] == "lineageos_wiki"
+        assert c["source"]["source_type"] == "community_repository"
+        assert len(c["source"]["revision"]) == 40 and c["source"]["url"]
+    from afid.catalog import index as catalog_index
+
+    _, stats, _ = catalog_index.build(Store(repo.database), repo.brand_ids)
+    assert stats["devices"] == 0 and stats["staging_candidates"] == stats["staging_unverified"] == 4
+    assert stats["staging_by_brand"] == {"google_pixel": 1, "poco": 1, "redmi": 2}
+    assert all(b["devices"] == 0 for b in stats["coverage_by_brand"].values())
+    assert run(capsys, "policy", "check")[0] == 0
+
+
+def test_policy_rejects_tampered_candidates(repo, capsys):
+    updates.check(repo, provider="lineageos_wiki", write=True)
+    p = next(Store(repo.database).staging_files())
+    c = jsonio.load(p)
+    c["license"]["attribution"] = None
+    p.write_text(json.dumps(c))
+    code, out = run(capsys, "policy", "check")
+    assert code == 9 and any("attribution" in x for x in out["problems"])
+
+
+def test_registry_requires_license_evidence(repo):
+    from afid.providers import registry
+
+    e = next(x for x in registry.entries(repo) if x["id"] == "lineageos_wiki")
+    bad = {**e, "data_license": {**e["data_license"], "attribution": None}}
+    assert any("attribution" in p for p in registry.self_test(repo, bad))
+    bad = {**e, "data_license": {**e["data_license"], "evidence_urls": []}}
+    assert any("evidence_urls" in p for p in registry.self_test(repo, bad))

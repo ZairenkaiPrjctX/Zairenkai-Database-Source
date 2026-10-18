@@ -457,6 +457,21 @@ def cmd_policy_check(args: argparse.Namespace, cfg: Config) -> int:
         for c in jsonio.load(p)["components"]:
             if c["distribution_status"] == "allowed" and c["sha256"] not in policy.allow_by_sha:
                 problems.append(f"{p}: {c['component_id']} marked allowed without allowlist entry")
+    for p in store.staging_files():
+        cand = jsonio.load(p)
+        lic = cand.get("license") or {}
+        if cand.get("firmware_payload_ingested") is not False:
+            problems.append(f"{p}: staging records must not carry firmware payloads")
+        if (cand.get("verification") or {}).get("status") != "unverified":
+            problems.append(f"{p}: staging records must stay unverified")
+        if (lic.get("share_alike") or lic.get("status") != "unknown") and not lic.get(
+            "attribution"
+        ):
+            problems.append(f"{p}: licensed third-party data without attribution")
+        if lic.get("status") == "unknown" and policy.can_publish(
+            cand.get("distribution_status", "")
+        ):
+            problems.append(f"{p}: unknown license marked publishable")
     _out(args, {"problems": problems}, "\n".join(problems) or "policy check passed")
     return 9 if problems else 0
 
