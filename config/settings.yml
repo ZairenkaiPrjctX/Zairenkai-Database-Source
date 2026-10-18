@@ -1,0 +1,21 @@
+# AFID runtime settings. Paths are relative to the repository root.
+schema_version: "1.0"
+paths:
+  database: database
+  schemas: schemas
+  cache: .afid-cache            # downloads and extraction work area (gitignored)
+  redistributable: redistributable  # payload files that passed the allowlist (may be committed)
+limits:
+  max_archive_bytes: 21474836480   # 20 GiB: refuse larger archives
+  max_extracted_bytes: 64424509440 # 60 GiB: stop extraction beyond this
+  max_member_count: 500000
+  max_file_hash_bytes: 4294967296  # files larger than 4 GiB are inventoried without hashing
+network:
+  timeout_seconds: 60
+  max_retries: 3
+  backoff_initial_seconds: 2
+  min_interval_seconds: 1.0        # per-host rate limit between requests
+  user_agent: "AFID/0.1 (+https://github.com/ZairenkaiPrjctX/Zairenkai-Database-Source)"
+scan:
+  partitions: [system, system_ext, product, vendor, odm, vendor_dlkm, odm_dlkm, system_dlkm]
+  follow_symlinks: false

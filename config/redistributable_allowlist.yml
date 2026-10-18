@@ -1,0 +1,11 @@
+# Explicit allowlist of payload files that may be published. Empty by default.
+# Each entry needs evidence. A file is publishable only if its SHA-256 matches an entry here.
+#
+#  - sha256: "<64 hex>"
+#    path_glob: "vendor/etc/thermal-example.json"   # informative; sha256 is authoritative
+#    license: "Apache-2.0"
+#    evidence_url: "https://..."                    # where the license/permission is stated
+#    reviewed_by: "<github-username>"
+#    reviewed_at: "YYYY-MM-DD"
+schema_version: "1.0"
+entries: []

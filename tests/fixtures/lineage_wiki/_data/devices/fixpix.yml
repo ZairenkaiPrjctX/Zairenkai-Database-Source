@@ -1,0 +1,7 @@
+architecture: arm64
+codename: fixpix
+models: [GFX01, GFX02]
+name: Pixel Fixture
+release: 2026-01-15
+soc: Google Tensor GFX
+vendor: Google

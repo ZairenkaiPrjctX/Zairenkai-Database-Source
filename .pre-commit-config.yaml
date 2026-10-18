@@ -1,0 +1,33 @@
+# Local hooks that run the repository's own pinned tooling (from requirements.lock), so no
+# third-party hook repositories need to be trusted or pinned separately.
+# Install: pip install pre-commit && pre-commit install
+repos:
+  - repo: local
+    hooks:
+      - id: ruff
+        name: ruff check
+        entry: ruff check
+        language: system
+        types: [python]
+      - id: ruff-format
+        name: ruff format --check
+        entry: ruff format --check
+        language: system
+        types: [python]
+      - id: mypy
+        name: mypy (strict)
+        entry: mypy
+        language: system
+        pass_filenames: false
+        types: [python]
+      - id: afid-validate
+        name: afid database validate
+        entry: afid database validate --check-index
+        language: system
+        pass_filenames: false
+        files: ^(database|schemas|config)/
+      - id: afid-security
+        name: afid security scan
+        entry: afid security scan
+        language: system
+        pass_filenames: false

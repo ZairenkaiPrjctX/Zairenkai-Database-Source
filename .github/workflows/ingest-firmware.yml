@@ -1,0 +1,88 @@
+name: ingest-firmware
+
+# Ingest one firmware build on request. Inputs are validated before any heavy work.
+# Payloads are never uploaded: the only artifact is the policy-checked JSON report.
+on:
+  workflow_dispatch:
+    inputs:
+      provider_id:
+        description: Provider id (see config/provider_registry.yml)
+        required: true
+        default: lineageos_wiki
+      brand:
+        description: Brand
+        type: choice
+        options: [samsung, xiaomi, poco, redmi, infinix, oneplus, tecno, google_pixel, nothing]
+      device_codename:
+        description: Device codename (optional filter / expectation)
+        required: false
+      firmware_id:
+        description: Source item id from database/sources (for mode=ingest)
+        required: false
+      mode:
+        description: metadata_only = discovery for this provider/brand; ingest = fetch and ingest a discovered firmware item
+        type: choice
+        default: metadata_only
+        options: [metadata_only, ingest]
+      force_refresh:
+        description: Ignore cached work directories
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ingest-${{ inputs.provider_id }}-${{ inputs.device_codename }}
+  cancel-in-progress: false
+
+jobs:
+  ingest:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: ./.github/actions/setup-afid
+      - name: Validate inputs
+        env:
+          PROVIDER: ${{ inputs.provider_id }}
+          CODENAME: ${{ inputs.device_codename }}
+          FIRMWARE: ${{ inputs.firmware_id }}
+          MODE: ${{ inputs.mode }}
+        run: |
+          [[ "$PROVIDER" =~ ^[a-z0-9_]+$ ]] || { echo "invalid provider id"; exit 2; }
+          [[ -z "$CODENAME" || "$CODENAME" =~ ^[A-Za-z0-9._-]{1,64}$ ]] || { echo "invalid codename"; exit 2; }
+          [[ -z "$FIRMWARE" || "$FIRMWARE" =~ ^[A-Za-z0-9._:-]{1,200}$ ]] || { echo "invalid firmware id"; exit 2; }
+          if [ "$MODE" = "ingest" ] && [ -z "$FIRMWARE" ]; then echo "mode=ingest needs firmware_id"; exit 2; fi
+          afid providers test --provider "$PROVIDER"
+      - name: Clear cache
+        if: inputs.force_refresh
+        run: afid cache clean --all
+      - name: Run
+        env:
+          PROVIDER: ${{ inputs.provider_id }}
+          BRAND: ${{ inputs.brand }}
+          FIRMWARE: ${{ inputs.firmware_id }}
+          MODE: ${{ inputs.mode }}
+        run: |
+          mkdir -p reports
+          if [ "$MODE" = "metadata_only" ]; then
+            afid --json discover --provider "$PROVIDER" --brand "$BRAND" > reports/ingest-report.json
+          else
+            # Fails with the provider's documented limitation until a provider supports download.
+            afid --json ingest --source "$FIRMWARE" > reports/ingest-report.json
+          fi
+      - name: Policy check before publishing the report
+        if: always()
+        run: |
+          afid policy check
+          find reports -type f ! -name '*.json' -delete 2>/dev/null || true
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        if: always()
+        with:
+          name: ingest-report
+          path: reports/*.json
+          retention-days: 14
+          if-no-files-found: ignore

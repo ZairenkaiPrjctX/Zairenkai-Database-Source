@@ -1,0 +1,25 @@
+name: Add a firmware or metadata source
+description: Propose a provider
+labels: [provider]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Source URL
+    validations:
+      required: true
+  - type: textarea
+    id: access
+    attributes:
+      label: Access and terms
+      description: >-
+        How the source may be accessed (API, documented download, git), whether authentication,
+        terms acceptance or rate limits apply, and the license/redistribution terms. AFID never
+        bypasses authentication, CAPTCHAs, paywalls or click-through terms.
+    validations:
+      required: true
+  - type: textarea
+    id: formats
+    attributes:
+      label: Formats and coverage
+      description: Package formats, brands/devices covered, how integrity can be verified.

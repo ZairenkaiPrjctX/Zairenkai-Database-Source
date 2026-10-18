@@ -1,0 +1,360 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/ZairenkaiPrjctX/Zairenkai-Database-Source/schemas/firmware.schema.json",
+  "title": "AFID firmware build record",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "firmware_id",
+    "device_id",
+    "build_id",
+    "variant",
+    "firmware_version",
+    "android_release",
+    "api_level",
+    "security_patch",
+    "vendor_security_patch",
+    "build_fingerprint",
+    "kernel_version",
+    "release_date",
+    "source",
+    "partitions",
+    "ingestion",
+    "validation_status",
+    "distribution_status",
+    "component_groups",
+    "component_count",
+    "last_checked_at",
+    "last_updated_at",
+    "warnings",
+    "errors"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "1.0"
+    },
+    "firmware_id": {
+      "type": "string",
+      "pattern": "^[a-z_]+_[a-z0-9][a-z0-9._-]*__[A-Za-z0-9._-]+$"
+    },
+    "device_id": {
+      "type": "string"
+    },
+    "build_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "variant": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "region",
+        "channel"
+      ],
+      "properties": {
+        "region": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "channel": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "firmware_version": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "android_release": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "api_level": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 1
+    },
+    "security_patch": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "vendor_security_patch": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "build_fingerprint": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "kernel_version": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "release_date": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "provider_id",
+        "source_type",
+        "url",
+        "archive_name",
+        "archive_sha256",
+        "archive_size",
+        "official_checksum"
+      ],
+      "properties": {
+        "provider_id": {
+          "type": "string"
+        },
+        "source_type": {
+          "enum": [
+            "official_firmware",
+            "official_ota_or_factory_image",
+            "official_open_source_repository",
+            "public_device_tree",
+            "community_repository",
+            "user_supplied_local_firmware"
+          ]
+        },
+        "url": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "archive_name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "archive_sha256": {
+          "oneOf": [
+            {
+              "type": "null"
+            },
+            {
+              "type": "string",
+              "pattern": "^[0-9a-f]{64}$"
+            }
+          ]
+        },
+        "archive_size": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 0
+        },
+        "official_checksum": {
+          "oneOf": [
+            {
+              "type": "null"
+            },
+            {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "algorithm",
+                "value",
+                "matched"
+              ],
+              "properties": {
+                "algorithm": {
+                  "enum": [
+                    "sha256",
+                    "sha1",
+                    "md5"
+                  ]
+                },
+                "value": {
+                  "type": "string"
+                },
+                "matched": {
+                  "type": "boolean"
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "partitions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "name",
+          "container",
+          "filesystem",
+          "extracted"
+        ],
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "container": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "filesystem": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "extracted": {
+            "type": "boolean"
+          },
+          "note": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        }
+      }
+    },
+    "ingestion": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "status",
+        "afid_version",
+        "tools",
+        "ingested_at"
+      ],
+      "properties": {
+        "status": {
+          "enum": [
+            "discovered",
+            "download_pending",
+            "downloaded",
+            "extracted",
+            "validated",
+            "license_review_required",
+            "published",
+            "failed",
+            "unchanged",
+            "unavailable"
+          ]
+        },
+        "afid_version": {
+          "type": "string"
+        },
+        "tools": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "name"
+            ],
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "version": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
+            }
+          }
+        },
+        "ingested_at": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$"
+        }
+      }
+    },
+    "validation_status": {
+      "enum": [
+        "pending",
+        "valid",
+        "invalid"
+      ]
+    },
+    "distribution_status": {
+      "enum": [
+        "allowed",
+        "restricted",
+        "unknown",
+        "user_supplied",
+        "metadata_only"
+      ]
+    },
+    "component_groups": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "component_count": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "last_checked_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$"
+    },
+    "last_updated_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$"
+    },
+    "warnings": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "errors": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}

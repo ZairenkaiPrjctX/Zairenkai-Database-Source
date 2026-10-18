@@ -1,0 +1,3545 @@
+{
+  "checked_at": "2026-10-18T20:04:35Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "_index",
+      "kind": "index",
+      "revision": "2c365be2b66336e4da1f3ca3bdd71c17eb819005",
+      "url": null
+    },
+    {
+      "item_id": "Mi439_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "Mi439"
+      },
+      "revision": "6a8c942b92ee24db39ab84c61ec9cd84530a317e",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/Mi439_variant1.yml"
+    },
+    {
+      "item_id": "Mi439_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "Mi439"
+      },
+      "revision": "0da341006f8904700215f9c8959e1d0e85f34e2e",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/Mi439_variant2.yml"
+    },
+    {
+      "item_id": "Mi439_variant3",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "Mi439"
+      },
+      "revision": "a10c5fe3f58429648938863fbf6a69469797455a",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/Mi439_variant3.yml"
+    },
+    {
+      "item_id": "Mi439_variant4",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "Mi439"
+      },
+      "revision": "69cd1288c74d4988a0c2de98a13740745aad2d67",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/Mi439_variant4.yml"
+    },
+    {
+      "item_id": "Mi8917_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "Mi8917"
+      },
+      "revision": "28a133dae1a0d4194ff144ab9551a950e2caac15",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/Mi8917_variant1.yml"
+    },
+    {
+      "item_id": "Mi8917_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "Mi8917"
+      },
+      "revision": "bb9067a992f827a7f1ff04206fc8d052b6f7e921",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/Mi8917_variant2.yml"
+    },
+    {
+      "item_id": "Mi8917_variant3",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "Mi8917"
+      },
+      "revision": "071c154c92b91847d63dded5b87d35f328602f7b",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/Mi8917_variant3.yml"
+    },
+    {
+      "item_id": "Mi8917_variant4",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "Mi8917"
+      },
+      "revision": "059fc195a181b27e5692ac4bf479474d073eeb93",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/Mi8917_variant4.yml"
+    },
+    {
+      "item_id": "Mi8937_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "Mi8937"
+      },
+      "revision": "ee114b85d8d9d39fa343955212ed2b473f43ab2e",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/Mi8937_variant1.yml"
+    },
+    {
+      "item_id": "Mi8937_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "Mi8937"
+      },
+      "revision": "fcea2a9f8895db7002924a43b0fba1b19aef7943",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/Mi8937_variant2.yml"
+    },
+    {
+      "item_id": "Mi8937_variant3",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "Mi8937"
+      },
+      "revision": "6c57e4cceadd93dfc69d8029eacc5987f1999ab2",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/Mi8937_variant3.yml"
+    },
+    {
+      "item_id": "Mi8937_variant4",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "Mi8937"
+      },
+      "revision": "e9fccbb5a615add59179a10f0abbe5b70117c081",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/Mi8937_variant4.yml"
+    },
+    {
+      "item_id": "Mi8937_variant5",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "Mi8937"
+      },
+      "revision": "e30742cc9311a212070162a83e3c7cc0095d9d3a",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/Mi8937_variant5.yml"
+    },
+    {
+      "item_id": "Mi8937_variant6",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "Mi8937"
+      },
+      "revision": "59dc2c7aa47a537ff1f379acb325c6b0c1e904c9",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/Mi8937_variant6.yml"
+    },
+    {
+      "item_id": "Pong",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "nothing",
+        "codename": "Pong"
+      },
+      "revision": "56a0a26017ea70b347ebea85024850f15c7d1183",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/Pong.yml"
+    },
+    {
+      "item_id": "Spacewar",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "nothing",
+        "codename": "Spacewar"
+      },
+      "revision": "0d534ed5184c3f2f4f61e1760ace4368b540e705",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/Spacewar.yml"
+    },
+    {
+      "item_id": "a21s",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "a21s"
+      },
+      "revision": "df984032ddee482a345eaeab3d9a48b15ba7240a",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/a21s.yml"
+    },
+    {
+      "item_id": "a3xelte",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "a3xelte"
+      },
+      "revision": "98d5595d78c27dbe2dcc9df206ef719b9c8fde16",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/a3xelte.yml"
+    },
+    {
+      "item_id": "a52q",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "a52q"
+      },
+      "revision": "07202ac4e4dc21b39c196cea3b1944350f5d3981",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/a52q.yml"
+    },
+    {
+      "item_id": "a52sxq",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "a52sxq"
+      },
+      "revision": "efaf5fe8533c1889e67b60e895478bfe4b301f30",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/a52sxq.yml"
+    },
+    {
+      "item_id": "a5xelte",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "a5xelte"
+      },
+      "revision": "08d3ae9a9f7a1fa0d3c1cd009854ab12854fe4be",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/a5xelte.yml"
+    },
+    {
+      "item_id": "a5y17lte",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "a5y17lte"
+      },
+      "revision": "f270f02034d71fb7938477d0e11ca49eb3cacaee",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/a5y17lte.yml"
+    },
+    {
+      "item_id": "a71",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "a71"
+      },
+      "revision": "697bedd7dae5296cb084d3bf0123d4b285e9bcf4",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/a71.yml"
+    },
+    {
+      "item_id": "a72q",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "a72q"
+      },
+      "revision": "08bf78fb833c98bf6432c627c11cd143db9d7962",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/a72q.yml"
+    },
+    {
+      "item_id": "a73xq",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "a73xq"
+      },
+      "revision": "55475fe2f0914af7e2d7999af2e775e6553b4e4d",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/a73xq.yml"
+    },
+    {
+      "item_id": "a7xelte",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "a7xelte"
+      },
+      "revision": "0b91097666814acaeb4ba336d68e908d5c993597",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/a7xelte.yml"
+    },
+    {
+      "item_id": "a7y17lte",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "a7y17lte"
+      },
+      "revision": "83cb7b12dd77d9293a6c6936efe3b29cb3b86bf6",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/a7y17lte.yml"
+    },
+    {
+      "item_id": "akita",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "google_pixel",
+        "codename": "akita"
+      },
+      "revision": "f0922bb460167f3cec0a8c9ecdc2445b6f869ab9",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/akita.yml"
+    },
+    {
+      "item_id": "alioth_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "poco",
+        "codename": "alioth"
+      },
+      "revision": "a1284b27d62c6e4f756323e951a52566bb521fea",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/alioth_variant1.yml"
+    },
+    {
+      "item_id": "alioth_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "alioth"
+      },
+      "revision": "68ea1494c915242da8eec628eb2e6787d4b1c63a",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/alioth_variant2.yml"
+    },
+    {
+      "item_id": "alioth_variant3",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "alioth"
+      },
+      "revision": "34ae764698ce6fb3b4f236032cae74ef4401a48b",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/alioth_variant3.yml"
+    },
+    {
+      "item_id": "apollon_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "apollon"
+      },
+      "revision": "9c10d076d38fec879d88a0485a75f7915f1dc7ab",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/apollon_variant1.yml"
+    },
+    {
+      "item_id": "apollon_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "apollon"
+      },
+      "revision": "a08a284abff64d052d816467369856d970d8f16d",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/apollon_variant2.yml"
+    },
+    {
+      "item_id": "apollon_variant3",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "apollon"
+      },
+      "revision": "ccc65bf6ceca29b1ef66f9d7ad9dbf2476d08edb",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/apollon_variant3.yml"
+    },
+    {
+      "item_id": "armani",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "armani"
+      },
+      "revision": "9844bff890d5569f68773010cd197ae1a1a6b0df",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/armani.yml"
+    },
+    {
+      "item_id": "aston",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "aston"
+      },
+      "revision": "728eb309ee1048a74467caf34567f696ada9f1f7",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/aston.yml"
+    },
+    {
+      "item_id": "astonc",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "astonc"
+      },
+      "revision": "873fed19cbf4db5268248941b9062540f831fc41",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/astonc.yml"
+    },
+    {
+      "item_id": "audi",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "audi"
+      },
+      "revision": "d2b7da67a581abbb52441b56ee393bc2fed2e0b9",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/audi.yml"
+    },
+    {
+      "item_id": "avalon",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "avalon"
+      },
+      "revision": "90e5361fb298e4c36b3b97cf11ff0f8fb86de231",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/avalon.yml"
+    },
+    {
+      "item_id": "avicii",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "avicii"
+      },
+      "revision": "1509a84f40efa1e87056419d381ad7dbf2792cb7",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/avicii.yml"
+    },
+    {
+      "item_id": "b0s",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "b0s"
+      },
+      "revision": "1020af09eb2874d3ce1de7d1f8f82ae3f68c3393",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/b0s.yml"
+    },
+    {
+      "item_id": "bacon",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "bacon"
+      },
+      "revision": "3c19ce0619a4ed4092d06ad402757859b382640b",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/bacon.yml"
+    },
+    {
+      "item_id": "barbet",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "google_pixel",
+        "codename": "barbet"
+      },
+      "revision": "8d31627c2fa181216e7d66d63386bc29bf8a90da",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/barbet.yml"
+    },
+    {
+      "item_id": "benz",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "benz"
+      },
+      "revision": "343455f4bff085c52cc45edd0bccfda908e36db5",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/benz.yml"
+    },
+    {
+      "item_id": "beryllium",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "poco",
+        "codename": "beryllium"
+      },
+      "revision": "cb22c678bd0758afb4bedf5e4fc267670beb2f2b",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/beryllium.yml"
+    },
+    {
+      "item_id": "beyond0lte",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "beyond0lte"
+      },
+      "revision": "bad658ac2647ad55aec1db2eaf35940102cf9973",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/beyond0lte.yml"
+    },
+    {
+      "item_id": "beyond1lte",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "beyond1lte"
+      },
+      "revision": "629b5a9840a30f28e854c686f622771e88cbc7d1",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/beyond1lte.yml"
+    },
+    {
+      "item_id": "beyond2lte",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "beyond2lte"
+      },
+      "revision": "8c8bc0ff51930d33b3ff451d7b7f14b7540edf48",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/beyond2lte.yml"
+    },
+    {
+      "item_id": "beyondx",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "beyondx"
+      },
+      "revision": "5dbc323b294ee9e58663567223a933fac34bf279",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/beyondx.yml"
+    },
+    {
+      "item_id": "billie",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "billie"
+      },
+      "revision": "1bf375ac748e1411abd378292aac64d53f392a8e",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/billie.yml"
+    },
+    {
+      "item_id": "blazer",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "google_pixel",
+        "codename": "blazer"
+      },
+      "revision": "f74390a10a293aacfa57550eb3daa3ec6589dfdf",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/blazer.yml"
+    },
+    {
+      "item_id": "bluejay",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "google_pixel",
+        "codename": "bluejay"
+      },
+      "revision": "94feb65e202b100abdb3b288f3399f1efa4f5d5b",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/bluejay.yml"
+    },
+    {
+      "item_id": "blueline",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "google_pixel",
+        "codename": "blueline"
+      },
+      "revision": "08015cba392d40deb02fa457f6ccbcaaca5804b5",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/blueline.yml"
+    },
+    {
+      "item_id": "bonito",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "google_pixel",
+        "codename": "bonito"
+      },
+      "revision": "fa3181dd5294365a61d2fd45139eb5e6d339c583",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/bonito.yml"
+    },
+    {
+      "item_id": "bramble",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "google_pixel",
+        "codename": "bramble"
+      },
+      "revision": "a7f8365052633eccc5f8e7e3c9ed7c2914757d46",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/bramble.yml"
+    },
+    {
+      "item_id": "c1s",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "c1s"
+      },
+      "revision": "82aaf54ac5927ee75c6fb4ce3a458c89ad6e093c",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/c1s.yml"
+    },
+    {
+      "item_id": "c2s",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "c2s"
+      },
+      "revision": "d0cb540a0a47c5c4028c825528e0f7fb16a36d02",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/c2s.yml"
+    },
+    {
+      "item_id": "caihong_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "caihong"
+      },
+      "revision": "14d3612642cdd2a4d12fdff6bee7498902c7b594",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/caihong_variant1.yml"
+    },
+    {
+      "item_id": "caihong_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "caihong"
+      },
+      "revision": "fa8b649ce9732a83d8ae6906ad6bad72069ac6d1",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/caihong_variant2.yml"
+    },
+    {
+      "item_id": "caiman",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "google_pixel",
+        "codename": "caiman"
+      },
+      "revision": "d7bc638f41da8bdeb62dfc41dc753144ca065836",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/caiman.yml"
+    },
+    {
+      "item_id": "cancro_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "cancro"
+      },
+      "revision": "57528f1f7dc9fd3e41c64a4eb481007fe6c92466",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/cancro_variant1.yml"
+    },
+    {
+      "item_id": "cancro_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "cancro"
+      },
+      "revision": "8fe2de2658dc35c67cecdcdeb35445e5c7064c65",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/cancro_variant2.yml"
+    },
+    {
+      "item_id": "capricorn",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "capricorn"
+      },
+      "revision": "3ab565a1f033f0b472d364413d1191c1382ca744",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/capricorn.yml"
+    },
+    {
+      "item_id": "cas",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "cas"
+      },
+      "revision": "92e80110666c9b8c2a17ff5d7fb10151dc30b4b5",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/cas.yml"
+    },
+    {
+      "item_id": "chagalllte",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "chagalllte"
+      },
+      "revision": "27eaa3314657f732bc039cd51fada1a3978a5f2e",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/chagalllte.yml"
+    },
+    {
+      "item_id": "chagallwifi",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "chagallwifi"
+      },
+      "revision": "8cef5fbb2802730cb5063c0a30fcf7e9b82326b6",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/chagallwifi.yml"
+    },
+    {
+      "item_id": "cheeseburger",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "cheeseburger"
+      },
+      "revision": "598df388b3c33b1c58ed05e4ae01bcd6555f1f56",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/cheeseburger.yml"
+    },
+    {
+      "item_id": "cheetah",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "google_pixel",
+        "codename": "cheetah"
+      },
+      "revision": "d7dd1a125aa8f3b16a1edaa7a09cc99315bde786",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/cheetah.yml"
+    },
+    {
+      "item_id": "chiron",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "chiron"
+      },
+      "revision": "4ea58962d935fba02646cbcd7bee66bc25fd5abd",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/chiron.yml"
+    },
+    {
+      "item_id": "cmi",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "cmi"
+      },
+      "revision": "f0464376494cd8d04dfc9deb440ac1f24f972f56",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/cmi.yml"
+    },
+    {
+      "item_id": "comet",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "google_pixel",
+        "codename": "comet"
+      },
+      "revision": "95df1562b7b2c02631df7e001d2feba06f6a67e5",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/comet.yml"
+    },
+    {
+      "item_id": "coral",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "google_pixel",
+        "codename": "coral"
+      },
+      "revision": "2852344fc65a2d80c6b485b252cb560974d60179",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/coral.yml"
+    },
+    {
+      "item_id": "corvette",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "corvette"
+      },
+      "revision": "8408746264adaa66aa925b8eb77f07d5ccaaf93c",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/corvette.yml"
+    },
+    {
+      "item_id": "crosshatch",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "google_pixel",
+        "codename": "crosshatch"
+      },
+      "revision": "6a7fce9ea87793acb3b8bfb2d92b8f9ec051f222",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/crosshatch.yml"
+    },
+    {
+      "item_id": "crownlte",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "crownlte"
+      },
+      "revision": "4a638da56e43897a9d16d72493c8de2d104c56ca",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/crownlte.yml"
+    },
+    {
+      "item_id": "cupid",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "cupid"
+      },
+      "revision": "1311ab90f311e1ed2c676ec04d5db140e01effac",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/cupid.yml"
+    },
+    {
+      "item_id": "d1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "d1"
+      },
+      "revision": "470ddc5c0b35afcc9e4c4d47411dc58400348fba",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/d1.yml"
+    },
+    {
+      "item_id": "d1x",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "d1x"
+      },
+      "revision": "20309a73689bc49127df63dfafec6ebf01247d91",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/d1x.yml"
+    },
+    {
+      "item_id": "d2att",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "d2att"
+      },
+      "revision": "86bb5478c2499f7988872c18556737d4741e2e71",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/d2att.yml"
+    },
+    {
+      "item_id": "d2s",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "d2s"
+      },
+      "revision": "c4265fb32323e1ddb0639539436eefa552430038",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/d2s.yml"
+    },
+    {
+      "item_id": "d2spr",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "d2spr"
+      },
+      "revision": "1ca77b11e8be2445a8d54ff8489255859936efce",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/d2spr.yml"
+    },
+    {
+      "item_id": "d2tmo",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "d2tmo"
+      },
+      "revision": "12bc7e45f14d20ae474f953aeb33102a64970628",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/d2tmo.yml"
+    },
+    {
+      "item_id": "d2vzw",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "d2vzw"
+      },
+      "revision": "1a741bc7299c591af71ec6fb5ce005645df6a9df",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/d2vzw.yml"
+    },
+    {
+      "item_id": "d2x",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "d2x"
+      },
+      "revision": "8c27ae24a00eecb8061f6f94d0b1e28671409394",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/d2x.yml"
+    },
+    {
+      "item_id": "davinci_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "davinci"
+      },
+      "revision": "5b31b036319493e6d1e60eaad167e2df95f2f389",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/davinci_variant1.yml"
+    },
+    {
+      "item_id": "davinci_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "davinci"
+      },
+      "revision": "6b60cee9910f14f00935723fce5020a7a27e15d6",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/davinci_variant2.yml"
+    },
+    {
+      "item_id": "davinci_variant3",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "davinci"
+      },
+      "revision": "87d8727aaaa57c9e0b229358311d239c83cca4b4",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/davinci_variant3.yml"
+    },
+    {
+      "item_id": "dipper",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "dipper"
+      },
+      "revision": "33b5fc35cfb73b1e3ae97b18ff39e7713b24ca48",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/dipper.yml"
+    },
+    {
+      "item_id": "diting_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "diting"
+      },
+      "revision": "64cc6979f6216ec3bbe76c59be21bd36842dd2fa",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/diting_variant1.yml"
+    },
+    {
+      "item_id": "diting_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "diting"
+      },
+      "revision": "014442782a488ca769c55fb5089702c9bc182a38",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/diting_variant2.yml"
+    },
+    {
+      "item_id": "dm1q",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "dm1q"
+      },
+      "revision": "f66892611bc046efabcb076e87bb1f083c679d71",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/dm1q.yml"
+    },
+    {
+      "item_id": "dodge",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "dodge"
+      },
+      "revision": "16731c4880b9c322b7da5457766112f3cb1cc4f4",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/dodge.yml"
+    },
+    {
+      "item_id": "dragon",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "google_pixel",
+        "codename": "dragon"
+      },
+      "revision": "870aef9e3e69249a6f1804148622bf53aaff01a0",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/dragon.yml"
+    },
+    {
+      "item_id": "dre",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "dre"
+      },
+      "revision": "fa615cba5a99cd77b2e631db81d8a710beb6a2fc",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/dre.yml"
+    },
+    {
+      "item_id": "dumpling",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "dumpling"
+      },
+      "revision": "35e9f916d2d22420a25007d03fdc863295f44b47",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/dumpling.yml"
+    },
+    {
+      "item_id": "earth_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "earth"
+      },
+      "revision": "9c7313fc2dcc647e672ad4277eec0c40c875c7f2",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/earth_variant1.yml"
+    },
+    {
+      "item_id": "earth_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "earth"
+      },
+      "revision": "250fffd7b32f59ea07eb8ddc5d55f3438c83be1a",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/earth_variant2.yml"
+    },
+    {
+      "item_id": "earth_variant3",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "poco",
+        "codename": "earth"
+      },
+      "revision": "4abc772ecc4f1f6c460a572bca8981b98be39008",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/earth_variant3.yml"
+    },
+    {
+      "item_id": "enchilada",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "enchilada"
+      },
+      "revision": "792e38e0bf5adfeecac54c53ddaa030d17fb16d5",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/enchilada.yml"
+    },
+    {
+      "item_id": "equuleus",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "equuleus"
+      },
+      "revision": "df1e1c65e08645366ff4989224fd74f57c0e8b1f",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/equuleus.yml"
+    },
+    {
+      "item_id": "erhai_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "erhai"
+      },
+      "revision": "50690e6d185df8739f20f3345ddad0cd5dac46db",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/erhai_variant1.yml"
+    },
+    {
+      "item_id": "erhai_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "erhai"
+      },
+      "revision": "c48c80c89ba74ab0d8da9830308f6d953c4a58f1",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/erhai_variant2.yml"
+    },
+    {
+      "item_id": "espresso3g_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "espresso3g"
+      },
+      "revision": "8fd44f86e6c13d7b6a2ad01fba05ce5fe305426e",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/espresso3g_variant1.yml"
+    },
+    {
+      "item_id": "espresso3g_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "espresso3g"
+      },
+      "revision": "e263834e6d0337f08f4efa50956cfacbd267f050",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/espresso3g_variant2.yml"
+    },
+    {
+      "item_id": "espressowifi_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "espressowifi"
+      },
+      "revision": "512d81d595956542deef955c8ee719f6ec92accb",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/espressowifi_variant1.yml"
+    },
+    {
+      "item_id": "espressowifi_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "espressowifi"
+      },
+      "revision": "eb04baf9349b45c6b94e73f55d40c9d0508f357a",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/espressowifi_variant2.yml"
+    },
+    {
+      "item_id": "f62_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "f62"
+      },
+      "revision": "afe1daa9032d8edc2361cb09b37af804231f029f",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/f62_variant1.yml"
+    },
+    {
+      "item_id": "f62_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "f62"
+      },
+      "revision": "12fe79a909215af647534d768cb3d35019b0d239",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/f62_variant2.yml"
+    },
+    {
+      "item_id": "fairlady",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "fairlady"
+      },
+      "revision": "21800e2c65472844e1de0b15d89ff76ecd3f15f2",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/fairlady.yml"
+    },
+    {
+      "item_id": "fajita_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "fajita"
+      },
+      "revision": "43838fb3aad6e6fdb27eadb9533ac2902af629f0",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/fajita_variant1.yml"
+    },
+    {
+      "item_id": "fajita_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "fajita"
+      },
+      "revision": "0c87007034b09374adf1127dd6f448c56114312f",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/fajita_variant2.yml"
+    },
+    {
+      "item_id": "felix",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "google_pixel",
+        "codename": "felix"
+      },
+      "revision": "e1b93867d1be35e3dbd25ad765e0319f8d5cea83",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/felix.yml"
+    },
+    {
+      "item_id": "flame",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "google_pixel",
+        "codename": "flame"
+      },
+      "revision": "d3a2954b55ecf1f13ed399d6875bfc2f323f1674",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/flame.yml"
+    },
+    {
+      "item_id": "frankel",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "google_pixel",
+        "codename": "frankel"
+      },
+      "revision": "7501e5d27aaf391a346eb6328dd2a0d7a088120c",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/frankel.yml"
+    },
+    {
+      "item_id": "fuxi",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "fuxi"
+      },
+      "revision": "23b4503d971bf7c417eb551e6623d7c09149fef9",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/fuxi.yml"
+    },
+    {
+      "item_id": "g0s",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "g0s"
+      },
+      "revision": "2b4b8b2284655dc0dfccb0712f30e69d457b9532",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/g0s.yml"
+    },
+    {
+      "item_id": "garnet_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "garnet"
+      },
+      "revision": "2d4b8a1b8a2d376dc8acbd8d056a6e6eef58c26f",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/garnet_variant1.yml"
+    },
+    {
+      "item_id": "garnet_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "garnet"
+      },
+      "revision": "1ae6018dcea6781fffc87eae9d51aeaeaec86c34",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/garnet_variant2.yml"
+    },
+    {
+      "item_id": "garnet_variant3",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "garnet"
+      },
+      "revision": "ad22760e3950ba1e6be20f14d9ad3ea2b02fd3ac",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/garnet_variant3.yml"
+    },
+    {
+      "item_id": "garnet_variant4",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "poco",
+        "codename": "garnet"
+      },
+      "revision": "cfa85d5a1793dcb61ceda9bdf9e1c20202a2becd",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/garnet_variant4.yml"
+    },
+    {
+      "item_id": "garnet_variant5",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "poco",
+        "codename": "garnet"
+      },
+      "revision": "c34ecc6e9980e2b938521008807f06353cf6be33",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/garnet_variant5.yml"
+    },
+    {
+      "item_id": "gauguin_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "gauguin"
+      },
+      "revision": "df6068bc03e43e8fd157c280a9054281e12a153e",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/gauguin_variant1.yml"
+    },
+    {
+      "item_id": "gauguin_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "gauguin"
+      },
+      "revision": "4ec80a0ac31cbc11b96608e286b9e771161fef96",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/gauguin_variant2.yml"
+    },
+    {
+      "item_id": "gauguin_variant3",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "gauguin"
+      },
+      "revision": "86486dd59d7af5c320a0ce2e35eef515c058e5d0",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/gauguin_variant3.yml"
+    },
+    {
+      "item_id": "gemini",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "gemini"
+      },
+      "revision": "d78d5883824bbdf2c914996dfcbfad39dd16d586",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/gemini.yml"
+    },
+    {
+      "item_id": "ginkgo_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "ginkgo"
+      },
+      "revision": "42fcc100b2a6b768a583619d63583b40121ab46a",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/ginkgo_variant1.yml"
+    },
+    {
+      "item_id": "ginkgo_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "ginkgo"
+      },
+      "revision": "9f15410ed9e67ff10b7c8f63f1a9b0cb60d80923",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/ginkgo_variant2.yml"
+    },
+    {
+      "item_id": "giulia",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "giulia"
+      },
+      "revision": "2bb54f91bd2e8a0b68872f572a54eb6b871b6934",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/giulia.yml"
+    },
+    {
+      "item_id": "giuliac",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "giuliac"
+      },
+      "revision": "1416b55ea253f2ede69771e6136c08c10100801e",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/giuliac.yml"
+    },
+    {
+      "item_id": "grus",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "grus"
+      },
+      "revision": "58807d9dc6ec912d6641a58bea9251a46d313e2b",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/grus.yml"
+    },
+    {
+      "item_id": "gta4l",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "gta4l"
+      },
+      "revision": "4fb8d7fa68963cc012098b803855301a0a58f29c",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/gta4l.yml"
+    },
+    {
+      "item_id": "gta4lwifi",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "gta4lwifi"
+      },
+      "revision": "4c6ecd6d7d86f7a9eb1158639b8059d6183e6458",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/gta4lwifi.yml"
+    },
+    {
+      "item_id": "gta4xl",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "gta4xl"
+      },
+      "revision": "a607519a306f11c4c789c2022bc20b06af7412bd",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/gta4xl.yml"
+    },
+    {
+      "item_id": "gta4xlswifi",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "gta4xlswifi"
+      },
+      "revision": "989606ee32d210002d244faa979c622125a1153d",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/gta4xlswifi.yml"
+    },
+    {
+      "item_id": "gta4xlwifi",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "gta4xlwifi"
+      },
+      "revision": "14f0159404089b286d7016fc517bfd7564a25340",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/gta4xlwifi.yml"
+    },
+    {
+      "item_id": "gtelwifiue",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "gtelwifiue"
+      },
+      "revision": "1e91f27ffdee41cd9728509d26802fd225cd07ff",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/gtelwifiue.yml"
+    },
+    {
+      "item_id": "gtesqltespr",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "gtesqltespr"
+      },
+      "revision": "a9bbb6c71b1d3bca8476f4bfee647b747077263d",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/gtesqltespr.yml"
+    },
+    {
+      "item_id": "gtowifi",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "gtowifi"
+      },
+      "revision": "9379661bef2e4ce355e9eb161209010caec8b30e",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/gtowifi.yml"
+    },
+    {
+      "item_id": "gts210ltexx",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "gts210ltexx"
+      },
+      "revision": "a71d07537313d6471377702a43f6e31a8e217183",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/gts210ltexx.yml"
+    },
+    {
+      "item_id": "gts210vewifi",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "gts210vewifi"
+      },
+      "revision": "13cd8b2f2a37a17c12214ca9d5bfbee829a06e82",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/gts210vewifi.yml"
+    },
+    {
+      "item_id": "gts210wifi",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "gts210wifi"
+      },
+      "revision": "1c33ba3b00903e9e9cbfab726bdb49a245273017",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/gts210wifi.yml"
+    },
+    {
+      "item_id": "gts28vewifi",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "gts28vewifi"
+      },
+      "revision": "6678ef173b5d5643317b705805d7fc481a7a95bd",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/gts28vewifi.yml"
+    },
+    {
+      "item_id": "gts4lv",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "gts4lv"
+      },
+      "revision": "4533a26d0517adaa5aaf4b743ce59d7084889d88",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/gts4lv.yml"
+    },
+    {
+      "item_id": "gts4lvwifi",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "gts4lvwifi"
+      },
+      "revision": "662703d89fcf6df89a1e4c548310bb15c38e0dbe",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/gts4lvwifi.yml"
+    },
+    {
+      "item_id": "gts7l",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "gts7l"
+      },
+      "revision": "0805249a471128392a1a158e0a451be51527b2a6",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/gts7l.yml"
+    },
+    {
+      "item_id": "gts7lwifi",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "gts7lwifi"
+      },
+      "revision": "23f22f7f99a6ef7b42ab94d4a80626578fbf55eb",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/gts7lwifi.yml"
+    },
+    {
+      "item_id": "gts7xl",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "gts7xl"
+      },
+      "revision": "d7f011fc9585ac6f650c8dcb67885fbac6bb3545",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/gts7xl.yml"
+    },
+    {
+      "item_id": "gts7xlwifi",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "gts7xlwifi"
+      },
+      "revision": "c405e245ae8f35520d0a1ed3add44c591521d241",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/gts7xlwifi.yml"
+    },
+    {
+      "item_id": "guacamole_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "guacamole"
+      },
+      "revision": "b891a8e58da8084ab5a7dba0d077b22f68d1a018",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/guacamole_variant1.yml"
+    },
+    {
+      "item_id": "guacamole_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "guacamole"
+      },
+      "revision": "f86e6ef2aaba574db495a4acb437256ceb3b7cba",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/guacamole_variant2.yml"
+    },
+    {
+      "item_id": "guacamoleb",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "guacamoleb"
+      },
+      "revision": "1a9a21a47f444e4170e8f9734dc5efaabf5657ee",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/guacamoleb.yml"
+    },
+    {
+      "item_id": "gunnar",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "gunnar"
+      },
+      "revision": "66ea087bc64b5b287969728f1749c547f950dcac",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/gunnar.yml"
+    },
+    {
+      "item_id": "ha3g",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "ha3g"
+      },
+      "revision": "1f6dc0181173a46fcdab83a8edf8179bccb541ed",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/ha3g.yml"
+    },
+    {
+      "item_id": "haydn_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "haydn"
+      },
+      "revision": "fbc99c26f91dff7179f17f1d50aa87dfe2fc15f8",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/haydn_variant1.yml"
+    },
+    {
+      "item_id": "haydn_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "haydn"
+      },
+      "revision": "f08c04072ce54c9068e5399bb1654cd30da05638",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/haydn_variant2.yml"
+    },
+    {
+      "item_id": "haydn_variant3",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "haydn"
+      },
+      "revision": "7a1e269ae90af2688a310fe41d382acac7e1bfb1",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/haydn_variant3.yml"
+    },
+    {
+      "item_id": "haydn_variant4",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "haydn"
+      },
+      "revision": "c3d7ab13f90252af2ef6e6f402c642546bfa7fdf",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/haydn_variant4.yml"
+    },
+    {
+      "item_id": "hero2lte",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "hero2lte"
+      },
+      "revision": "5970c5b8624b7813330bafedd1cecfb648620728",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/hero2lte.yml"
+    },
+    {
+      "item_id": "herolte",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "herolte"
+      },
+      "revision": "3d44b4d427fa8d8f7891b58f126097bce6a9204f",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/herolte.yml"
+    },
+    {
+      "item_id": "hlte",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "hlte"
+      },
+      "revision": "3d5ac1cb548523b8270abb0abb9f29306b217ca7",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/hlte.yml"
+    },
+    {
+      "item_id": "hltechn",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "hltechn"
+      },
+      "revision": "e5e830d7d9c1e6517bbc37c2e41a1b624c3ce356",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/hltechn.yml"
+    },
+    {
+      "item_id": "hltekor",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "hltekor"
+      },
+      "revision": "9d35682280693f5a136e480947d89757051a91b4",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/hltekor.yml"
+    },
+    {
+      "item_id": "hltetmo",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "hltetmo"
+      },
+      "revision": "a21b869cfb16bff620897e741fb6c3e77e95587c",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/hltetmo.yml"
+    },
+    {
+      "item_id": "hotdog",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "hotdog"
+      },
+      "revision": "4a65015cbd26e70c5d0b3ffc327443ed43050fbd",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/hotdog.yml"
+    },
+    {
+      "item_id": "hotdogb_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "hotdogb"
+      },
+      "revision": "10c8b415b09346fea66c1cf005aa8922fd145974",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/hotdogb_variant1.yml"
+    },
+    {
+      "item_id": "hotdogb_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "hotdogb"
+      },
+      "revision": "9a07d0d0d6ed6c56c881038be0276efbef62d793",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/hotdogb_variant2.yml"
+    },
+    {
+      "item_id": "hummer",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "hummer"
+      },
+      "revision": "68c9b3f62b7eb625c165b7ce20d47c471fa4b4bb",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/hummer.yml"
+    },
+    {
+      "item_id": "husky",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "google_pixel",
+        "codename": "husky"
+      },
+      "revision": "4e061f28720bd5d1cbafb2cecb021679b483528f",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/husky.yml"
+    },
+    {
+      "item_id": "hydrogen",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "hydrogen"
+      },
+      "revision": "db811a286856a975b6797b5426ce8f69de278741",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/hydrogen.yml"
+    },
+    {
+      "item_id": "i9100",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "i9100"
+      },
+      "revision": "56084e04efa6433d673a7a5e5badbd191dd3119a",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/i9100.yml"
+    },
+    {
+      "item_id": "i9300",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "i9300"
+      },
+      "revision": "e90092da6811e6f94272fd1ca3f1b8fd70abeb7c",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/i9300.yml"
+    },
+    {
+      "item_id": "i9305",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "i9305"
+      },
+      "revision": "c44dc63614ae533721dbf5807d6709aca19b4bd0",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/i9305.yml"
+    },
+    {
+      "item_id": "iceland_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "iceland"
+      },
+      "revision": "c570aa5d78b0972328d2563fd8d77cf62b59ae9b",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/iceland_variant1.yml"
+    },
+    {
+      "item_id": "iceland_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "iceland"
+      },
+      "revision": "198edb2fca25f8142d0184b6005e682f5d994843",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/iceland_variant2.yml"
+    },
+    {
+      "item_id": "ido_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "ido"
+      },
+      "revision": "6d299a008fd3047733533b8c3fd018d38358c25b",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/ido_variant1.yml"
+    },
+    {
+      "item_id": "ido_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "ido"
+      },
+      "revision": "9c9af14131b02fa946ab20b7f468c138a13f74cd",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/ido_variant2.yml"
+    },
+    {
+      "item_id": "infiniti",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "infiniti"
+      },
+      "revision": "27c09840e40a2b0d512e1d97cc10b6bc220f108d",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/infiniti.yml"
+    },
+    {
+      "item_id": "instantnoodle_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "instantnoodle"
+      },
+      "revision": "2421a536a588274be2a707341748059d98863d42",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/instantnoodle_variant1.yml"
+    },
+    {
+      "item_id": "instantnoodle_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "instantnoodle"
+      },
+      "revision": "30bfbb5bd49eb47ccd021eab2255358575b6a587",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/instantnoodle_variant2.yml"
+    },
+    {
+      "item_id": "instantnoodlep",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "instantnoodlep"
+      },
+      "revision": "1397962db420c464e42aa22777703330c87934a4",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/instantnoodlep.yml"
+    },
+    {
+      "item_id": "j7elte",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "j7elte"
+      },
+      "revision": "8205a4009647be4950dbb9fb34e20059493bdda0",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/j7elte.yml"
+    },
+    {
+      "item_id": "jactivelte",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "jactivelte"
+      },
+      "revision": "100d2829b6de321e26893ec0c5c146d31d329f8e",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/jactivelte.yml"
+    },
+    {
+      "item_id": "jasmine_sprout",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "jasmine_sprout"
+      },
+      "revision": "cea6e0fa0d56a417f364f59a4f088cb7a9965a8b",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/jasmine_sprout.yml"
+    },
+    {
+      "item_id": "jason",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "jason"
+      },
+      "revision": "5b79b94944de6ff73ee4d1c32539c1ff1c17f698",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/jason.yml"
+    },
+    {
+      "item_id": "jflteatt",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "jflteatt"
+      },
+      "revision": "74fffd22e857971883fa69b1bb48c0ed42ad2b72",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/jflteatt.yml"
+    },
+    {
+      "item_id": "jfltespr",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "jfltespr"
+      },
+      "revision": "4dfc75e1a8699ae6bd18519db07e7f510e6b4465",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/jfltespr.yml"
+    },
+    {
+      "item_id": "jfltevzw",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "jfltevzw"
+      },
+      "revision": "23db654dc7de0bba9a7afbf33f1995a1ccacb392",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/jfltevzw.yml"
+    },
+    {
+      "item_id": "jfltexx",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "jfltexx"
+      },
+      "revision": "0267230106f5d8202453ddc4d4314d2f6c91eb30",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/jfltexx.yml"
+    },
+    {
+      "item_id": "jfvelte",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "jfvelte"
+      },
+      "revision": "8a72e332f47b10420fd1fda3fa0680890f674822",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/jfvelte.yml"
+    },
+    {
+      "item_id": "k3gxx",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "k3gxx"
+      },
+      "revision": "5d765c588ecece59315976b39be36d0d4249c9cd",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/k3gxx.yml"
+    },
+    {
+      "item_id": "kccat6",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "kccat6"
+      },
+      "revision": "ef0b5b33a8aa964a84a2c29d745fe218809b9246",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/kccat6.yml"
+    },
+    {
+      "item_id": "kebab_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "kebab"
+      },
+      "revision": "7a105ff96da98d828d1eb60d63dbc2117e675c1f",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/kebab_variant1.yml"
+    },
+    {
+      "item_id": "kebab_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "kebab"
+      },
+      "revision": "b6db90ce0c835c5fca5646236d920cbc5b14cbb8",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/kebab_variant2.yml"
+    },
+    {
+      "item_id": "kenzo",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "kenzo"
+      },
+      "revision": "6e00c9556adadd0a1b1faa2b9b706463386363f4",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/kenzo.yml"
+    },
+    {
+      "item_id": "klimtwifi",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "klimtwifi"
+      },
+      "revision": "18efbe4ba4f5bc2762c8904f541840135a2e8a38",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/klimtwifi.yml"
+    },
+    {
+      "item_id": "klte",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "klte"
+      },
+      "revision": "1954aefae396fa9995b403935ed7896a8cadda8e",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/klte.yml"
+    },
+    {
+      "item_id": "klteactivexx",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "klteactivexx"
+      },
+      "revision": "10326ae7ee3564fa614bca13e0c4580cd67958a2",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/klteactivexx.yml"
+    },
+    {
+      "item_id": "klteaio",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "klteaio"
+      },
+      "revision": "6b19d7a4c12bc0a1c2f36af5d8bf72fb4c8dce9f",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/klteaio.yml"
+    },
+    {
+      "item_id": "kltechn",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "kltechn"
+      },
+      "revision": "b08db50dfb0f659bfe98fcd14b80125d020de4c6",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/kltechn.yml"
+    },
+    {
+      "item_id": "kltechnduo",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "kltechnduo"
+      },
+      "revision": "1b5f791e7d1a2e9c86878cf035c5292d37347d9c",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/kltechnduo.yml"
+    },
+    {
+      "item_id": "klteduos",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "klteduos"
+      },
+      "revision": "be02291816c69b726e6aad752cd9f3c0ebeead71",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/klteduos.yml"
+    },
+    {
+      "item_id": "kltedv",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "kltedv"
+      },
+      "revision": "67ea546d3132edc618116af085d570b45d1985d3",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/kltedv.yml"
+    },
+    {
+      "item_id": "kltekdi",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "kltekdi"
+      },
+      "revision": "37ae295f9fecf12e9f8ac5588eeaf5848c682d39",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/kltekdi.yml"
+    },
+    {
+      "item_id": "kltekor",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "kltekor"
+      },
+      "revision": "cc16a3a8dad5e8f7d2ba6470cae32132a30036a6",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/kltekor.yml"
+    },
+    {
+      "item_id": "kltesprsports",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "kltesprsports"
+      },
+      "revision": "77e4b91b583186eee451245561ebbf98029dd7f5",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/kltesprsports.yml"
+    },
+    {
+      "item_id": "komodo",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "google_pixel",
+        "codename": "komodo"
+      },
+      "revision": "dd984ce4bac4493d8ab438d9d31a17776f3a87bf",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/komodo.yml"
+    },
+    {
+      "item_id": "ks01lte",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "ks01lte"
+      },
+      "revision": "b0ab3f1932ffbf8aa89aa72262f8cd547c7cf426",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/ks01lte.yml"
+    },
+    {
+      "item_id": "lancelot",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "lancelot"
+      },
+      "revision": "f475cd5efe72a378c0bb34870ce78ef42edd551c",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/lancelot.yml"
+    },
+    {
+      "item_id": "land",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "land"
+      },
+      "revision": "d0edade5f169408496f5c941aafc0b0485f7c384",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/land.yml"
+    },
+    {
+      "item_id": "larry_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "larry"
+      },
+      "revision": "ba7be2f53c23beb1fea4373e859cbf7aff61b73e",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/larry_variant1.yml"
+    },
+    {
+      "item_id": "larry_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "larry"
+      },
+      "revision": "97a0de4379fd2fb49b54654f5629c81a6c637812",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/larry_variant2.yml"
+    },
+    {
+      "item_id": "laurel_sprout",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "laurel_sprout"
+      },
+      "revision": "5d42dc7657247ec13b8d7756fb69abb3dc580ee4",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/laurel_sprout.yml"
+    },
+    {
+      "item_id": "lavender",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "lavender"
+      },
+      "revision": "fc0a79ddedf932646687ddb2adc7212d9d8e0608",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/lavender.yml"
+    },
+    {
+      "item_id": "lemonade_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "lemonade"
+      },
+      "revision": "d54abcb52a3f75872c61155d4a4d0fb2d5572cd4",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/lemonade_variant1.yml"
+    },
+    {
+      "item_id": "lemonade_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "lemonade"
+      },
+      "revision": "425a32d0f540419fca49db9be0ea29f212c0b449",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/lemonade_variant2.yml"
+    },
+    {
+      "item_id": "lemonadep_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "lemonadep"
+      },
+      "revision": "55aefc648aecac2ba76090582d1e0e3957c8ceaf",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/lemonadep_variant1.yml"
+    },
+    {
+      "item_id": "lemonadep_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "lemonadep"
+      },
+      "revision": "b1aa65b18e6b96148366388392a4e83a7bf4e08f",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/lemonadep_variant2.yml"
+    },
+    {
+      "item_id": "lemonades",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "lemonades"
+      },
+      "revision": "a1b31f34a10def3b77109af88b48fd8cfda7298c",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/lemonades.yml"
+    },
+    {
+      "item_id": "lentislte",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "lentislte"
+      },
+      "revision": "03ee1df3333ac42c044ac7c980ca52ca506122d6",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/lentislte.yml"
+    },
+    {
+      "item_id": "lexus",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "lexus"
+      },
+      "revision": "b71245aedc9cad83b26674900920f0b9136ba45a",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/lexus.yml"
+    },
+    {
+      "item_id": "libra",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "libra"
+      },
+      "revision": "fa1300840d8ab5f1b54e4c33310b0249a818917a",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/libra.yml"
+    },
+    {
+      "item_id": "lisa_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "lisa"
+      },
+      "revision": "bee7d937b3ee9d16f8e5e65b78769bd6de31c8f7",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/lisa_variant1.yml"
+    },
+    {
+      "item_id": "lisa_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "lisa"
+      },
+      "revision": "666d2b309ee0259536a45f2a29b2def42e7e91d8",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/lisa_variant2.yml"
+    },
+    {
+      "item_id": "lisa_variant3",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "lisa"
+      },
+      "revision": "5293b0bd0de3d9f8e908cee34372326eabade0ba",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/lisa_variant3.yml"
+    },
+    {
+      "item_id": "lithium",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "lithium"
+      },
+      "revision": "6ca6c8791affee58d19d41ae9a61ca05c0e89b94",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/lithium.yml"
+    },
+    {
+      "item_id": "lmi_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "poco",
+        "codename": "lmi"
+      },
+      "revision": "6773d71a985f121444265163f481244242843c27",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/lmi_variant1.yml"
+    },
+    {
+      "item_id": "lmi_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "lmi"
+      },
+      "revision": "9fc05aaacaaf68c50725c1147ba8755b2710de53",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/lmi_variant2.yml"
+    },
+    {
+      "item_id": "lmi_variant3",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "lmi"
+      },
+      "revision": "9a967e4962258ab0a5605a40907624ddacd830cb",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/lmi_variant3.yml"
+    },
+    {
+      "item_id": "lt02ltespr",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "lt02ltespr"
+      },
+      "revision": "003a03435e5a4c3fa8c7313af2293f873117d64d",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/lt02ltespr.yml"
+    },
+    {
+      "item_id": "lt03lte",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "lt03lte"
+      },
+      "revision": "2db24927a23c431c353b2a11d231d5ac8376654a",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/lt03lte.yml"
+    },
+    {
+      "item_id": "lynx",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "google_pixel",
+        "codename": "lynx"
+      },
+      "revision": "fa3a5c3629614b9dfdf6f2d343dae186ca54e0e3",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/lynx.yml"
+    },
+    {
+      "item_id": "m20lte",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "m20lte"
+      },
+      "revision": "643875ba3075a2cfa1eff1b6f76195e46169964c",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/m20lte.yml"
+    },
+    {
+      "item_id": "m52xq",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "m52xq"
+      },
+      "revision": "2db73bb4b5ca129d897c8823e22d62f4a7bbcf02",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/m52xq.yml"
+    },
+    {
+      "item_id": "marble_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "poco",
+        "codename": "marble"
+      },
+      "revision": "e8eae260f9979776f6447d2fe798b47c6c64e2bd",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/marble_variant1.yml"
+    },
+    {
+      "item_id": "marble_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "poco",
+        "codename": "marble"
+      },
+      "revision": "6f22f91021ab0473d92c97ee3eb60df9530c27d6",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/marble_variant2.yml"
+    },
+    {
+      "item_id": "marble_variant3",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "marble"
+      },
+      "revision": "ab085ba457b4d66b4030f01a3c9453b87e277963",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/marble_variant3.yml"
+    },
+    {
+      "item_id": "marlin",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "google_pixel",
+        "codename": "marlin"
+      },
+      "revision": "910507934c9742fea1218501caeb7a921db0cfe8",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/marlin.yml"
+    },
+    {
+      "item_id": "mars",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "mars"
+      },
+      "revision": "0f69fc254a9c6b8db27808757084fc4f03e7ba27",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/mars.yml"
+    },
+    {
+      "item_id": "martini",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "martini"
+      },
+      "revision": "06b2bdb8a9e8d2bcf21cae0b37ac41acd0fd4346",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/martini.yml"
+    },
+    {
+      "item_id": "mayfly",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "mayfly"
+      },
+      "revision": "1b3c41b96583e2afd00414a537576418ee8f11fc",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/mayfly.yml"
+    },
+    {
+      "item_id": "merlinx",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "merlinx"
+      },
+      "revision": "52764a563a2e1c95a00a344f917aa8160bc2121c",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/merlinx.yml"
+    },
+    {
+      "item_id": "miatoll_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "poco",
+        "codename": "miatoll"
+      },
+      "revision": "65f6c0da421eb7c0f75ea337f9be2273dec23403",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/miatoll_variant1.yml"
+    },
+    {
+      "item_id": "miatoll_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "miatoll"
+      },
+      "revision": "4cd4268989081448d6e5f7f3f7a679bc63a77ff2",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/miatoll_variant2.yml"
+    },
+    {
+      "item_id": "miatoll_variant3",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "miatoll"
+      },
+      "revision": "a8ca72b924d62a4d2f276e283b54f51214fda6b1",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/miatoll_variant3.yml"
+    },
+    {
+      "item_id": "miatoll_variant4",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "miatoll"
+      },
+      "revision": "1974ac445ffacb62d19e470ff113ba597ec3bc34",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/miatoll_variant4.yml"
+    },
+    {
+      "item_id": "miatoll_variant5",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "miatoll"
+      },
+      "revision": "bf4b6d37d456beda010ca7579b966b32da650a9e",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/miatoll_variant5.yml"
+    },
+    {
+      "item_id": "miatoll_variant6",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "miatoll"
+      },
+      "revision": "06a0d7b593522f7869102e8e90c07a4bdddfde8d",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/miatoll_variant6.yml"
+    },
+    {
+      "item_id": "mido",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "mido"
+      },
+      "revision": "1cd9532dda5becf2c7d82aa43f894456e73c75a5",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/mido.yml"
+    },
+    {
+      "item_id": "mondrian_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "poco",
+        "codename": "mondrian"
+      },
+      "revision": "dc5ee2fa9dc777ae78717de856f595cc63fa799c",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/mondrian_variant1.yml"
+    },
+    {
+      "item_id": "mondrian_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "mondrian"
+      },
+      "revision": "b871f31790b42b360627b53641b9519e61c34652",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/mondrian_variant2.yml"
+    },
+    {
+      "item_id": "mondrianwifi",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "mondrianwifi"
+      },
+      "revision": "7f27702281ec0581a1a657bd7213c2579a1d56f5",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/mondrianwifi.yml"
+    },
+    {
+      "item_id": "monet",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "monet"
+      },
+      "revision": "223ad2b19ac601f98377e9a1c460a9fc151516ad",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/monet.yml"
+    },
+    {
+      "item_id": "ms013g",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "ms013g"
+      },
+      "revision": "eb30247643a20980e499aaf8c774593903ddd5ee",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/ms013g.yml"
+    },
+    {
+      "item_id": "munch_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "poco",
+        "codename": "munch"
+      },
+      "revision": "49a300b865cf69cec6607f408878d9cab926dda6",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/munch_variant1.yml"
+    },
+    {
+      "item_id": "munch_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "munch"
+      },
+      "revision": "e38a52799376d7c7613592e926ea6ca1f2e88d88",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/munch_variant2.yml"
+    },
+    {
+      "item_id": "mustang",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "google_pixel",
+        "codename": "mustang"
+      },
+      "revision": "b8b32c7573b6339c5a516291091c6a06f6986b9d",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/mustang.yml"
+    },
+    {
+      "item_id": "n1awifi",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "n1awifi"
+      },
+      "revision": "d873c47a7c57f5fe883007c7740909d102564752",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/n1awifi.yml"
+    },
+    {
+      "item_id": "n2awifi",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "n2awifi"
+      },
+      "revision": "b1a12fcdebb83f5ff7851eaf7cb02c25431f2050",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/n2awifi.yml"
+    },
+    {
+      "item_id": "n5100",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "n5100"
+      },
+      "revision": "3355bc94c474ececa6612f611f82ce5762a79f4b",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/n5100.yml"
+    },
+    {
+      "item_id": "n5110",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "n5110"
+      },
+      "revision": "66630dea65e6940cb27d0c3a1149585760ab2df3",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/n5110.yml"
+    },
+    {
+      "item_id": "n5120",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "n5120"
+      },
+      "revision": "a7dc937001f536bd5885dadd5ece41703044565e",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/n5120.yml"
+    },
+    {
+      "item_id": "natrium",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "natrium"
+      },
+      "revision": "412c01e876863477c5bec8b0d6f46278558ade03",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/natrium.yml"
+    },
+    {
+      "item_id": "nuwa",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "nuwa"
+      },
+      "revision": "72c0b0ab46b8022bd10c75f35bd4d1caa9256d75",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/nuwa.yml"
+    },
+    {
+      "item_id": "onclite_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "onclite"
+      },
+      "revision": "458d626446e57698e01c15811324281c7c197422",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/onclite_variant1.yml"
+    },
+    {
+      "item_id": "onclite_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "onclite"
+      },
+      "revision": "829e5721531fb7d82b606990225aa8b770de0f01",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/onclite_variant2.yml"
+    },
+    {
+      "item_id": "oneplus2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "oneplus2"
+      },
+      "revision": "ec69f9fd9518c2963a899352a153f4266ce29c7b",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/oneplus2.yml"
+    },
+    {
+      "item_id": "oneplus3_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "oneplus3"
+      },
+      "revision": "b44b1ced0ff554b08cd6886d7cd4a7c4e0a78929",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/oneplus3_variant1.yml"
+    },
+    {
+      "item_id": "oneplus3_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "oneplus3"
+      },
+      "revision": "58e4931fd2d1cb0e024ef3071fcf2e16d7c4d6be",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/oneplus3_variant2.yml"
+    },
+    {
+      "item_id": "onyx",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "onyx"
+      },
+      "revision": "de2b3e3b35faa46195cbec684819f3819a0e0479",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/onyx.yml"
+    },
+    {
+      "item_id": "oriole",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "google_pixel",
+        "codename": "oriole"
+      },
+      "revision": "05fc1f70bc1a01a4e4f29c9c2ae1c01167fc311c",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/oriole.yml"
+    },
+    {
+      "item_id": "oscaro",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "oscaro"
+      },
+      "revision": "a189f8bd33f85556569e4d5aa22372c26ac00dec",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/oscaro.yml"
+    },
+    {
+      "item_id": "panther",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "google_pixel",
+        "codename": "panther"
+      },
+      "revision": "d2764786bc47c238d0adf3b78ea5dd25ce1a969f",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/panther.yml"
+    },
+    {
+      "item_id": "peridot_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "poco",
+        "codename": "peridot"
+      },
+      "revision": "15ea81b941a56ac97a012799b5b789e5566446ac",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/peridot_variant1.yml"
+    },
+    {
+      "item_id": "peridot_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "peridot"
+      },
+      "revision": "389c2855e9d1bff9071a937190df35c2ef3ee095",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/peridot_variant2.yml"
+    },
+    {
+      "item_id": "perseus",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "perseus"
+      },
+      "revision": "63f31c8d5d4ef9e9dc4210da82f2c109b3456410",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/perseus.yml"
+    },
+    {
+      "item_id": "platina",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "platina"
+      },
+      "revision": "1ade0cfd1540deef37c1e50caf5f75138e8f35c9",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/platina.yml"
+    },
+    {
+      "item_id": "polaris",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "polaris"
+      },
+      "revision": "95d843828b729c744c295c927fd4be47f049ddf6",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/polaris.yml"
+    },
+    {
+      "item_id": "pyxis_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "pyxis"
+      },
+      "revision": "a41f10d3d80e1eed19c0a6496db38643e557f008",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/pyxis_variant1.yml"
+    },
+    {
+      "item_id": "pyxis_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "pyxis"
+      },
+      "revision": "e4cd97901039c6247bb984be11e278cb2e6dea47",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/pyxis_variant2.yml"
+    },
+    {
+      "item_id": "r0s",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "r0s"
+      },
+      "revision": "967b30d668a8e479d63d75d063f357c38e420cb7",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/r0s.yml"
+    },
+    {
+      "item_id": "r8q_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "r8q"
+      },
+      "revision": "682ae78da1b764096f9c7c73673fb18d6bac4802",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/r8q_variant1.yml"
+    },
+    {
+      "item_id": "r8q_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "r8q"
+      },
+      "revision": "3d1a833ce6e295e3246a188546d9da5d5a6cef0c",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/r8q_variant2.yml"
+    },
+    {
+      "item_id": "r8s",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "r8s"
+      },
+      "revision": "a37e9f87aed71892a64d9ff8811f8f9b5c64a1b5",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/r8s.yml"
+    },
+    {
+      "item_id": "rango",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "google_pixel",
+        "codename": "rango"
+      },
+      "revision": "c3722f3132ad28d7858a740f53891ae0f5bed915",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/rango.yml"
+    },
+    {
+      "item_id": "raven",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "google_pixel",
+        "codename": "raven"
+      },
+      "revision": "8b2b4b154a036c79e62362e725991509c7d1c55a",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/raven.yml"
+    },
+    {
+      "item_id": "redfin",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "google_pixel",
+        "codename": "redfin"
+      },
+      "revision": "5c104ba0ae291c174a0780b01642b8c44bcda3fa",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/redfin.yml"
+    },
+    {
+      "item_id": "renoir",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "renoir"
+      },
+      "revision": "ef643093a05174caf78d20701f741ddd59bcc65d",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/renoir.yml"
+    },
+    {
+      "item_id": "rosemary_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "rosemary"
+      },
+      "revision": "2a7fe07a8aa78bdeefcb3f5ea775cb555e187d42",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/rosemary_variant1.yml"
+    },
+    {
+      "item_id": "rosemary_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "rosemary"
+      },
+      "revision": "6d1de2127c5b3b3b8d893bbd3766a91022a200a7",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/rosemary_variant2.yml"
+    },
+    {
+      "item_id": "rosemary_variant3",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "rosemary"
+      },
+      "revision": "e6aa03a16a17cedd5d1e3b6d9357eaa510a0a8ec",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/rosemary_variant3.yml"
+    },
+    {
+      "item_id": "rosemary_variant4",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "poco",
+        "codename": "rosemary"
+      },
+      "revision": "5d0f4f28957fdaa43d3890bb7884f162ce05c426",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/rosemary_variant4.yml"
+    },
+    {
+      "item_id": "s3ve3gds",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "s3ve3gds"
+      },
+      "revision": "837f212f089d1f54f5acf12690db67f71c57551c",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/s3ve3gds.yml"
+    },
+    {
+      "item_id": "s3ve3gjv",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "s3ve3gjv"
+      },
+      "revision": "b4d122fc8c9c5b9b4c1f6d9be03008a6700fd719",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/s3ve3gjv.yml"
+    },
+    {
+      "item_id": "s3ve3gxx",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "s3ve3gxx"
+      },
+      "revision": "3cafebe0f6b310cf9f56b649e2d06369c90c0389",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/s3ve3gxx.yml"
+    },
+    {
+      "item_id": "s5neolte",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "s5neolte"
+      },
+      "revision": "91faf44076e4b4518b01433c7dd6a846588078b5",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/s5neolte.yml"
+    },
+    {
+      "item_id": "sagit",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "sagit"
+      },
+      "revision": "c9117624af177fc4d951e7a5e3d197ccb086a2b4",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/sagit.yml"
+    },
+    {
+      "item_id": "sailfish",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "google_pixel",
+        "codename": "sailfish"
+      },
+      "revision": "0cbe3fde2ee3a7543f9887a7a0be2e526a14f60f",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/sailfish.yml"
+    },
+    {
+      "item_id": "salami",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "salami"
+      },
+      "revision": "011ca07f02cfe5c9ebeff3bf6415bad31924df97",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/salami.yml"
+    },
+    {
+      "item_id": "santoni",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "santoni"
+      },
+      "revision": "1786314ce068b6f284e060f017cf9f3b64582228",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/santoni.yml"
+    },
+    {
+      "item_id": "sargo",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "google_pixel",
+        "codename": "sargo"
+      },
+      "revision": "b66c680642259aa935810f9cfdcfa3c58e943683",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/sargo.yml"
+    },
+    {
+      "item_id": "scorpio",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "scorpio"
+      },
+      "revision": "df149fcb5dd62ed18a2fca20a9671b5e30dad044",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/scorpio.yml"
+    },
+    {
+      "item_id": "serrano3gxx",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "serrano3gxx"
+      },
+      "revision": "4f39c9d1507864ab2403226bff1ac9402308a5d5",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/serrano3gxx.yml"
+    },
+    {
+      "item_id": "serranodsdd",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "serranodsdd"
+      },
+      "revision": "bc0abfe7b4f74fd6243765809f57670e1bceb943",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/serranodsdd.yml"
+    },
+    {
+      "item_id": "serranoltexx",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "serranoltexx"
+      },
+      "revision": "feec8f2762117a62cb18b34b6fec3e6a84fbeeac",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/serranoltexx.yml"
+    },
+    {
+      "item_id": "shark",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "shark"
+      },
+      "revision": "6a83d573a98456f5bc9e5e46f934d4faeec2638a",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/shark.yml"
+    },
+    {
+      "item_id": "shiba",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "google_pixel",
+        "codename": "shiba"
+      },
+      "revision": "39e536bcbf9aa87c2bd39e61c90eb92e424d3250",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/shiba.yml"
+    },
+    {
+      "item_id": "socrates",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "socrates"
+      },
+      "revision": "1f59d652debde2a6f4cb43bd49612189981a39f5",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/socrates.yml"
+    },
+    {
+      "item_id": "stallion",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "google_pixel",
+        "codename": "stallion"
+      },
+      "revision": "1e65b319224d9ed1eb6cb3bdb1e6e9639f3332f6",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/stallion.yml"
+    },
+    {
+      "item_id": "star2lte",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "star2lte"
+      },
+      "revision": "43d055b0944092ed2a4e4dc640bd887910978e3b",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/star2lte.yml"
+    },
+    {
+      "item_id": "starlte",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "starlte"
+      },
+      "revision": "1c36450f5c028fd152c40a8308cfd85d047cfa1b",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/starlte.yml"
+    },
+    {
+      "item_id": "sunfish",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "google_pixel",
+        "codename": "sunfish"
+      },
+      "revision": "fec985c7093f53cf8df375fb4222effd8a5196ae",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/sunfish.yml"
+    },
+    {
+      "item_id": "surya",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "poco",
+        "codename": "surya"
+      },
+      "revision": "77f4767f3660a38f1fdc7d388fcb16c9cc330b59",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/surya.yml"
+    },
+    {
+      "item_id": "sweet_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "sweet"
+      },
+      "revision": "f6044984048211d3824745ad0928519d80149d92",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/sweet_variant1.yml"
+    },
+    {
+      "item_id": "sweet_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "sweet"
+      },
+      "revision": "d0c63c8e3c09db3f6964b8012f50a0087bada753",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/sweet_variant2.yml"
+    },
+    {
+      "item_id": "sweet_variant3",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "sweet"
+      },
+      "revision": "fc07c0fcbcad8590a1a371bfec78ce3dfeb01396",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/sweet_variant3.yml"
+    },
+    {
+      "item_id": "t0lte",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "t0lte"
+      },
+      "revision": "1783d1ef7102322519c1ed5a4cc2c1cf3634138c",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/t0lte.yml"
+    },
+    {
+      "item_id": "taimen",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "google_pixel",
+        "codename": "taimen"
+      },
+      "revision": "b96a6558f879f2f62323302a20a69a5a1eea3d64",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/taimen.yml"
+    },
+    {
+      "item_id": "tangorpro",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "google_pixel",
+        "codename": "tangorpro"
+      },
+      "revision": "4ed08b37bf9433adec35f1ea75b6698a3afcbbbb",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/tangorpro.yml"
+    },
+    {
+      "item_id": "tegu",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "google_pixel",
+        "codename": "tegu"
+      },
+      "revision": "fbd08752e851a4e8dc9a67dbf6ccca03527c483a",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/tegu.yml"
+    },
+    {
+      "item_id": "thor",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "thor"
+      },
+      "revision": "3bdb6f2d61e636bd48e69db6be120eca690a83c9",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/thor.yml"
+    },
+    {
+      "item_id": "thyme",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "thyme"
+      },
+      "revision": "e98a55213f9507b75829496f367ab9646a6e84d2",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/thyme.yml"
+    },
+    {
+      "item_id": "tissot",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "tissot"
+      },
+      "revision": "7415e20095dac8fb5897f3c4c3fd4c69b57f59f5",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/tissot.yml"
+    },
+    {
+      "item_id": "tokay",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "google_pixel",
+        "codename": "tokay"
+      },
+      "revision": "036e338b8ae234caaa1bebd059b3fd29b4dda333",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/tokay.yml"
+    },
+    {
+      "item_id": "tucana_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "tucana"
+      },
+      "revision": "e9f1ffd6443a84dc2cd7762a98b12b8e31ea4e04",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/tucana_variant1.yml"
+    },
+    {
+      "item_id": "tucana_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "tucana"
+      },
+      "revision": "a34877c4e81e0010ad1e99b0dee33192c1fe3a08",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/tucana_variant2.yml"
+    },
+    {
+      "item_id": "tucana_variant3",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "tucana"
+      },
+      "revision": "6a179146fa6ddd1c906e408b6446f62fd847014a",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/tucana_variant3.yml"
+    },
+    {
+      "item_id": "twolip",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "twolip"
+      },
+      "revision": "429cec5be243070e36706fd206737d3fe62bf9ec",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/twolip.yml"
+    },
+    {
+      "item_id": "umi",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "umi"
+      },
+      "revision": "bad457c312cb3b13fd321606d06179c0a2505adb",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/umi.yml"
+    },
+    {
+      "item_id": "unicorn",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "unicorn"
+      },
+      "revision": "2fb4452eb7ef018c9a371b1eb4081a3521f61a98",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/unicorn.yml"
+    },
+    {
+      "item_id": "ursa",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "ursa"
+      },
+      "revision": "fa1b244e7878be6e17ba182249739a7ef1136a39",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/ursa.yml"
+    },
+    {
+      "item_id": "v1awifi",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "v1awifi"
+      },
+      "revision": "3d14daa8ef8855bbd469099b171bc2d61657167e",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/v1awifi.yml"
+    },
+    {
+      "item_id": "vayu",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "poco",
+        "codename": "vayu"
+      },
+      "revision": "0028168b879d14ed6941c3b4f449239ff9eff779",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/vayu.yml"
+    },
+    {
+      "item_id": "vela",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "vela"
+      },
+      "revision": "7e4f100b419bd13b6e8f7a800a636d99a196fe40",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/vela.yml"
+    },
+    {
+      "item_id": "venus",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "venus"
+      },
+      "revision": "a1a8bec6907212317c6bea98ce8a108110644e19",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/venus.yml"
+    },
+    {
+      "item_id": "vermeer_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "poco",
+        "codename": "vermeer"
+      },
+      "revision": "390e3356c024746dd50dcc8d9f6e809d6385b678",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/vermeer_variant1.yml"
+    },
+    {
+      "item_id": "vermeer_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "vermeer"
+      },
+      "revision": "0c38d8f7034f742c673b9087160072857f9fff28",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/vermeer_variant2.yml"
+    },
+    {
+      "item_id": "violet",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "violet"
+      },
+      "revision": "82aa55fce766908c2b059e00a8d99e513a60c67b",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/violet.yml"
+    },
+    {
+      "item_id": "waffle",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "oneplus",
+        "codename": "waffle"
+      },
+      "revision": "cd92c2d59dccbc85b118082889a16479696113d4",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/waffle.yml"
+    },
+    {
+      "item_id": "walleye",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "google_pixel",
+        "codename": "walleye"
+      },
+      "revision": "108d82d3681cc69faf23f0ffdb1b0cf6f959d50a",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/walleye.yml"
+    },
+    {
+      "item_id": "wayne",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "wayne"
+      },
+      "revision": "bb8bebf94204d2bee1b42164a00ad0e6d4d824ee",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/wayne.yml"
+    },
+    {
+      "item_id": "whyred",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "whyred"
+      },
+      "revision": "abfc9005a4cd73906e6d9a7a8e5243a60537bee9",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/whyred.yml"
+    },
+    {
+      "item_id": "x1s",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "x1s"
+      },
+      "revision": "89490e963c26e253ef28f909cf219c65a0ea122b",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/x1s.yml"
+    },
+    {
+      "item_id": "xaga_variant1",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "poco",
+        "codename": "xaga"
+      },
+      "revision": "78aaf82ffc103483a54727b192e825b0251ed3a1",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/xaga_variant1.yml"
+    },
+    {
+      "item_id": "xaga_variant2",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "xaga"
+      },
+      "revision": "987aa46183dc92c1d4b8f8ee9e63d6a3017cad3f",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/xaga_variant2.yml"
+    },
+    {
+      "item_id": "xaga_variant3",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "xaga"
+      },
+      "revision": "1fc467a6b3e316cc13080f21e8416fd67f0cc8d0",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/xaga_variant3.yml"
+    },
+    {
+      "item_id": "xaga_variant4",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "redmi",
+        "codename": "xaga"
+      },
+      "revision": "41f01822ae596cfaac5af961b3fe95f8cfea9ca3",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/xaga_variant4.yml"
+    },
+    {
+      "item_id": "xmsirius",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "xmsirius"
+      },
+      "revision": "bd4272f95711bff9c62f0f53156ad48d75475bac",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/xmsirius.yml"
+    },
+    {
+      "item_id": "y2s",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "y2s"
+      },
+      "revision": "70738b687a6b8c370f9d0725cacff9bce1593e42",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/y2s.yml"
+    },
+    {
+      "item_id": "z3s",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "z3s"
+      },
+      "revision": "4174a123c3f713f4aaee2ff4d890c0c46d03bd5e",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/z3s.yml"
+    },
+    {
+      "item_id": "zerofltexx",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "zerofltexx"
+      },
+      "revision": "97ef3171f14b6175650ba60423a051d3fddb7073",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/zerofltexx.yml"
+    },
+    {
+      "item_id": "zeroltexx",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "samsung",
+        "codename": "zeroltexx"
+      },
+      "revision": "5e779558bef0dd8fcf3ae60fc55eb03092dc9730",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/zeroltexx.yml"
+    },
+    {
+      "item_id": "zeus",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "zeus"
+      },
+      "revision": "ec6f162d2fa0eb901f80cc7f9afd0525e416591a",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/zeus.yml"
+    },
+    {
+      "item_id": "zizhan",
+      "kind": "device",
+      "metadata": {
+        "brand_id": "xiaomi",
+        "codename": "zizhan"
+      },
+      "revision": "5a3ac1f243365b676aa2ff4c87426a2bcfd49a32",
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/zizhan.yml"
+    }
+  ],
+  "provider_id": "lineageos_wiki",
+  "schema_version": "1.0",
+  "status": "ok"
+}

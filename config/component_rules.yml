@@ -1,0 +1,229 @@
+# Component classification rules. Edit this file to extend classification; no code change needed.
+#
+# Paths are matched against "<partition>/<path inside partition>", e.g.
+#   vendor/bin/hw/android.hardware.thermal-service.example
+# Globs: "*" matches within one path segment, "**" matches across segments.
+#
+# A file can match several rules. The highest-confidence match wins; every matching rule id is
+# recorded on the component as classification evidence. A name match is never proof on its own,
+# so name-only rules carry low confidence and say so in `reason`.
+#
+# Fields:
+#   id            unique, stable
+#   category      one of the categories in schemas/component.schema.json
+#   subcategory   free-form, stable
+#   paths         globs (any must match)
+#   require_elf   true: file must parse as ELF; false: must not be ELF; omit: either
+#   soc_vendors   informative tag: the rule is known for these SoC vendors only
+#   confidence    0.0-1.0
+#   reason        human-readable justification stored with each classification
+schema_version: "1.0"
+
+# Files that match no rule are recorded as "unknown" in the catalog only when they live under
+# one of these globs (candidates for new rules). All other unmatched files stay in the local
+# scan inventory, not the Git catalog.
+catalog_unknown_globs:
+  - "*/bin/hw/**"
+  - "*/lib/hw/**"
+  - "*/lib64/hw/**"
+  - "*/etc/thermal*/**"
+  - "*/etc/perf/**"
+  - "*/etc/power*/**"
+
+# Keywords that make an init service or config relevant to thermal/power work.
+relevance_keywords: [thermal, power, perf, perfd, powerhint, throttl, cpufreq, devfreq, gpufreq]
+
+rules:
+  # ---- Thermal HAL ------------------------------------------------------------------------
+  - id: thermal_hal.service.aidl_or_hidl
+    category: thermal_hal
+    subcategory: service_binary
+    paths: ["*/bin/hw/android.hardware.thermal-service*", "*/bin/hw/android.hardware.thermal@*-service*"]
+    require_elf: true
+    confidence: 0.95
+    reason: "AOSP Thermal HAL service naming under */bin/hw/ and file is ELF"
+  - id: thermal_hal.impl.legacy_hw_module
+    category: thermal_hal
+    subcategory: hal_impl_library
+    paths: ["*/lib/hw/thermal.*.so", "*/lib64/hw/thermal.*.so",
+            "*/lib/hw/android.hardware.thermal@*-impl*.so", "*/lib64/hw/android.hardware.thermal@*-impl*.so"]
+    require_elf: true
+    confidence: 0.9
+    reason: "Thermal HAL implementation naming under */lib*/hw/ and file is ELF"
+  - id: thermal_hal.interface_library
+    category: thermal_hal
+    subcategory: interface_library
+    paths: ["*/lib/android.hardware.thermal-V*.so", "*/lib64/android.hardware.thermal-V*.so",
+            "*/lib/android.hardware.thermal@*.so", "*/lib64/android.hardware.thermal@*.so"]
+    require_elf: true
+    confidence: 0.85
+    reason: "Generated Thermal HAL interface library naming; links clients to the HAL, not an implementation"
+  - id: vendor_library.thermal_name_only
+    category: vendor_library
+    subcategory: thermal_related
+    paths: ["*/lib/**/*thermal*.so", "*/lib64/**/*thermal*.so"]
+    require_elf: true
+    confidence: 0.4
+    reason: "File name contains 'thermal'; name alone does not prove a Thermal HAL implementation"
+
+  # ---- Thermal engine and thermal configuration --------------------------------------------
+  - id: thermal_engine.binary
+    category: thermal_engine
+    subcategory: daemon_binary
+    paths: ["*/bin/thermal-engine*"]
+    require_elf: true
+    soc_vendors: [qualcomm]
+    confidence: 0.85
+    reason: "Qualcomm thermal-engine daemon naming and file is ELF"
+  - id: thermal_config.thermal_engine_conf
+    category: thermal_config
+    subcategory: thermal_engine_conf
+    paths: ["*/etc/thermal-engine*.conf", "*/etc/thermal-engine/**/*.conf", "*/etc/thermal/thermal-engine*.conf"]
+    require_elf: false
+    soc_vendors: [qualcomm]
+    confidence: 0.9
+    reason: "thermal-engine configuration naming"
+  - id: thermal_config.thermal_info_config
+    category: thermal_config
+    subcategory: thermal_hal_config_json
+    paths: ["*/etc/thermal_info_config*.json", "*/etc/**/thermal_info_config*.json"]
+    require_elf: false
+    confidence: 0.9
+    reason: "thermal_info_config JSON naming used by AOSP-derived Thermal HAL implementations"
+  - id: thermal_config.generic
+    category: thermal_config
+    subcategory: generic
+    paths: ["*/etc/thermal*.conf", "*/etc/thermal*.json", "*/etc/thermal*.xml",
+            "*/etc/**/thermal*.conf", "*/etc/**/thermal*.json", "*/etc/**/thermal*.xml"]
+    require_elf: false
+    confidence: 0.7
+    reason: "Configuration file whose name starts with 'thermal' under */etc/"
+  - id: thermal_config.thermal_dir
+    category: thermal_config
+    subcategory: thermal_directory_file
+    paths: ["*/etc/thermal/**", "*/etc/thermal-engine/**"]
+    require_elf: false
+    confidence: 0.6
+    reason: "Non-ELF file inside an */etc/thermal*/ directory"
+
+  # ---- Power HAL, power configuration, performance -----------------------------------------
+  - id: power_hal.service.aidl_or_hidl
+    category: power_hal
+    subcategory: service_binary
+    paths: ["*/bin/hw/android.hardware.power-service*", "*/bin/hw/android.hardware.power@*-service*"]
+    require_elf: true
+    confidence: 0.95
+    reason: "AOSP Power HAL service naming under */bin/hw/ and file is ELF"
+  - id: power_hal.impl.legacy_hw_module
+    category: power_hal
+    subcategory: hal_impl_library
+    paths: ["*/lib/hw/power.*.so", "*/lib64/hw/power.*.so"]
+    require_elf: true
+    confidence: 0.85
+    reason: "Legacy power HAL module naming under */lib*/hw/ and file is ELF"
+  - id: power_hal.interface_library
+    category: power_hal
+    subcategory: interface_library
+    paths: ["*/lib/android.hardware.power-V*.so", "*/lib64/android.hardware.power-V*.so",
+            "*/lib/android.hardware.power@*.so", "*/lib64/android.hardware.power@*.so"]
+    require_elf: true
+    confidence: 0.85
+    reason: "Generated Power HAL interface library naming"
+  - id: power_hal.qti_perf_service
+    category: power_hal
+    subcategory: vendor_perf_service
+    paths: ["*/bin/hw/vendor.qti.hardware.perf*-service*"]
+    require_elf: true
+    soc_vendors: [qualcomm]
+    confidence: 0.7
+    reason: "Qualcomm perf HAL service naming; related to power management but not the AOSP Power HAL"
+  - id: power_json.powerhint
+    category: power_json
+    subcategory: powerhint_json
+    paths: ["*/etc/powerhint*.json", "*/etc/**/powerhint*.json", "*/etc/power.json", "*/etc/**/power.json"]
+    require_elf: false
+    confidence: 0.9
+    reason: "powerhint/power JSON naming used by libperfmgr-based Power HAL configurations"
+  - id: power_config.powerhint_xml
+    category: power_config
+    subcategory: powerhint_xml
+    paths: ["*/etc/powerhint*.xml", "*/etc/**/powerhint*.xml"]
+    require_elf: false
+    confidence: 0.85
+    reason: "powerhint XML naming"
+  - id: power_profile.xml
+    category: power_profile
+    subcategory: power_profile_xml
+    paths: ["**/power_profile*.xml"]
+    require_elf: false
+    confidence: 0.8
+    reason: "power_profile XML naming (framework power model)"
+  - id: performance_config.qti_perf_dir
+    category: performance_config
+    subcategory: qti_perf_config
+    paths: ["*/etc/perf/**"]
+    require_elf: false
+    soc_vendors: [qualcomm]
+    confidence: 0.75
+    reason: "File under */etc/perf/, the Qualcomm perf configuration directory"
+  - id: vendor_library.qti_perf
+    category: vendor_library
+    subcategory: perf_library
+    paths: ["*/lib/libqti-perf*.so", "*/lib64/libqti-perf*.so", "*/lib/libqti-perfd*.so", "*/lib64/libqti-perfd*.so"]
+    require_elf: true
+    soc_vendors: [qualcomm]
+    confidence: 0.85
+    reason: "Qualcomm perf library naming and file is ELF"
+  - id: vendor_library.libperfmgr
+    category: vendor_library
+    subcategory: perf_library
+    paths: ["*/lib/libperfmgr*.so", "*/lib64/libperfmgr*.so"]
+    require_elf: true
+    confidence: 0.85
+    reason: "libperfmgr (AOSP power/perf manager library) naming and file is ELF"
+  - id: vendor_library.power_name_only
+    category: vendor_library
+    subcategory: power_related
+    paths: ["*/lib/**/*power*.so", "*/lib64/**/*power*.so", "*/lib/**/*perf*.so", "*/lib64/**/*perf*.so"]
+    require_elf: true
+    confidence: 0.35
+    reason: "File name contains 'power' or 'perf'; name alone does not prove a role"
+
+  # ---- Init and VINTF ----------------------------------------------------------------------
+  - id: init.rc
+    category: init_script
+    subcategory: init_rc
+    paths: ["*/etc/init/**/*.rc", "*/init*.rc", "*/etc/init/hw/*.rc"]
+    require_elf: false
+    confidence: 0.9
+    reason: "Android init language file location; relevance decided by parsing its services"
+  - id: init.ueventd
+    category: init_script
+    subcategory: ueventd_rc
+    paths: ["*/ueventd*.rc", "*/etc/ueventd*.rc"]
+    require_elf: false
+    confidence: 0.9
+    reason: "ueventd configuration naming"
+  - id: vintf.manifest
+    category: vintf_manifest
+    subcategory: manifest
+    paths: ["*/etc/vintf/manifest.xml", "*/etc/vintf/manifest/*.xml", "*/etc/vintf/manifest_*.xml"]
+    require_elf: false
+    confidence: 0.9
+    reason: "VINTF manifest location"
+  - id: vintf.compatibility_matrix
+    category: vintf_manifest
+    subcategory: compatibility_matrix
+    paths: ["*/etc/vintf/compatibility_matrix*.xml"]
+    require_elf: false
+    confidence: 0.9
+    reason: "VINTF compatibility matrix location"
+
+  # ---- Supporting metadata -----------------------------------------------------------------
+  - id: metadata.build_prop
+    category: supporting_metadata
+    subcategory: build_prop
+    paths: ["*/build.prop", "*/etc/build.prop", "*/default.prop"]
+    require_elf: false
+    confidence: 0.95
+    reason: "Android build properties file"

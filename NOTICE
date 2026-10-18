@@ -1,0 +1,27 @@
+AFID - Android Firmware Intelligence Database
+Copyright 2026 ZairenkaiPrjctX contributors
+
+This product includes software developed by the ZairenkaiPrjctX project, licensed under the
+Apache License, Version 2.0 (see LICENSE).
+
+Scope of this license: the AFID source code, configuration, schemas, documentation and the
+self-built test fixtures in tests/fixtures/. It does NOT grant any rights to firmware, vendor
+binaries or vendor configuration files referenced by the catalog. Those remain the property of
+their respective owners; the catalog records only metadata about them (paths, checksums,
+classification, provenance). See docs/LICENSING.md.
+
+Third-party data included in this repository:
+
+  database/staging/unresolved/lineageos_wiki/*.json
+    Device metadata from the LineageOS Wiki (https://wiki.lineageos.org),
+    (c) The LineageOS Project, licensed under CC BY-SA 3.0
+    (https://creativecommons.org/licenses/by-sa/3.0/). Adapted by AFID (selected factual
+    fields, reshaped). These files are distributed under CC BY-SA 3.0, not Apache-2.0.
+    See the README.md in that directory.
+
+Provenance and license metadata for every source are recorded per record and in
+config/provider_registry.yml (`data_license`).
+
+Contributions: AFID's code was written for this project; no third-party source code is
+copied into it. Contributors certify their right to submit each change with the commit
+trailer `Signed-off-by:` (Developer Certificate of Origin, https://developercertificate.org/).

@@ -1,0 +1,8 @@
+* text=auto eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.py text eol=lf
+*.sh text eol=lf
+# Self-built ELF fixtures
+tests/fixtures/elf/arm/* binary
+tests/fixtures/elf/arm64/* binary

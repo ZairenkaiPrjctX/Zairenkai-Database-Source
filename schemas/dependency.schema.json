@@ -1,0 +1,75 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/ZairenkaiPrjctX/Zairenkai-Database-Source/schemas/dependency.schema.json",
+  "title": "AFID dependency graph for one firmware build",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "firmware_id",
+    "edges"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "1.0"
+    },
+    "firmware_id": {
+      "type": "string"
+    },
+    "edges": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "edge_id",
+          "type",
+          "from",
+          "to",
+          "to_name",
+          "status",
+          "evidence"
+        ],
+        "properties": {
+          "edge_id": {
+            "type": "string",
+            "pattern": "^d_[0-9a-f]{20}$"
+          },
+          "type": {
+            "enum": [
+              "dt_needed",
+              "init_service_binary",
+              "vintf_declares_hal",
+              "service_registers_vintf",
+              "config_reference",
+              "hal_config",
+              "firmware_contains"
+            ]
+          },
+          "from": {
+            "type": "string"
+          },
+          "to": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "to_name": {
+            "type": "string"
+          },
+          "status": {
+            "enum": [
+              "resolved",
+              "unresolved",
+              "inferred"
+            ]
+          },
+          "evidence": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

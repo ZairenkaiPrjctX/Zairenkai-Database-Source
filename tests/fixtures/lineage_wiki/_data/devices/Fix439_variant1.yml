@@ -1,0 +1,6 @@
+codename: Fix439
+models: [FX1903A, FX1903B]
+name: Redmi Fixture 7A
+release: 2019-05-28
+soc: Qualcomm SDM439 Snapdragon 439
+vendor: Xiaomi
