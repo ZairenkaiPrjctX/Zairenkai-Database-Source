@@ -4,7 +4,7 @@ description: Assess whether a revision is ready to release and return a pass/fai
 argument-hint: "<revision> <version> [channel]"
 disable-model-invocation: true
 ---
-<!-- Managed by ZairenkaiPrjctX/.github agent-foundation v1.0.0. Edit the central template, then re-sync. -->
+<!-- Managed by ZairenkaiPrjctX/.github agent-foundation v1.1.0. Edit the central template, then re-sync. -->
 # /release-readiness
 
 **When:** a human is considering a release.

@@ -5,7 +5,7 @@ paths:
   - "AGENT/**"
   - ".claude/**"
 ---
-<!-- Managed by ZairenkaiPrjctX/.github agent-foundation v1.0.0. Edit the central template, then re-sync. -->
+<!-- Managed by ZairenkaiPrjctX/.github agent-foundation v1.1.0. Edit the central template, then re-sync. -->
 # Rule: editing agent foundation files
 
 - Files listed in `AGENT/.foundation-manifest.json` are managed centrally. Change them in

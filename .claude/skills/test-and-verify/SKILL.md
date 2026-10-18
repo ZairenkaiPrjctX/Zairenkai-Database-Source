@@ -3,7 +3,7 @@ name: test-and-verify
 description: Run the repository's configured checks against a change and produce a verification report that separates configured, executed, and passing. Use before opening a PR or when asked whether a change works.
 argument-hint: "[branch, commit range, or description of the change]"
 ---
-<!-- Managed by ZairenkaiPrjctX/.github agent-foundation v1.0.0. Edit the central template, then re-sync. -->
+<!-- Managed by ZairenkaiPrjctX/.github agent-foundation v1.1.0. Edit the central template, then re-sync. -->
 # /test-and-verify
 
 **When:** before a PR, or to answer "does this work?".

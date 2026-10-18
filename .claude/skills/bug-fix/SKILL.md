@@ -3,7 +3,7 @@ name: bug-fix
 description: Reproduce a reported defect, identify its root cause, and fix it with a regression test. Use when something behaves incorrectly and the expected behaviour is known.
 argument-hint: "<observed behaviour> / <expected behaviour> / <repro steps>"
 ---
-<!-- Managed by ZairenkaiPrjctX/.github agent-foundation v1.0.0. Edit the central template, then re-sync. -->
+<!-- Managed by ZairenkaiPrjctX/.github agent-foundation v1.1.0. Edit the central template, then re-sync. -->
 # /bug-fix
 
 **When:** a defect with known expected behaviour.

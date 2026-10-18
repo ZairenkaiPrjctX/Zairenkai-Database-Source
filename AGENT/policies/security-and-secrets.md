@@ -1,4 +1,4 @@
-<!-- Managed by ZairenkaiPrjctX/.github agent-foundation v1.0.0. Edit the central template, then re-sync. -->
+<!-- Managed by ZairenkaiPrjctX/.github agent-foundation v1.1.0. Edit the central template, then re-sync. -->
 # Policy: Security and secrets
 
 Canonical standard: `.github/agent-foundation/standards/security-and-secrets.md`.

@@ -1,4 +1,4 @@
-<!-- Managed by ZairenkaiPrjctX/.github agent-foundation v1.0.0. Edit the central template, then re-sync. -->
+<!-- Managed by ZairenkaiPrjctX/.github agent-foundation v1.1.0. Edit the central template, then re-sync. -->
 # Prompt: Commit and pull request
 
 ## Role and objective
@@ -18,12 +18,11 @@ You prepare signed commits and a draft pull request for completed, verified work
 - Stage only files that belong to this change.
 
 ## Discovery and planning
-1. Resolve the GitHub username of the person directing the work from the authenticated account.
-2. Check signing: `git config commit.gpgsign` is `true` and a signing key is configured.
+1. Check signing: `git config commit.gpgsign` is `true` and a signing key is configured.
 
 ## Procedure
 1. Commit with an imperative subject (≤72 chars), a body explaining why, and the trailers
-   from the policy.
+   from the policy, starting with `Signed-off-by: FebriCahyaa <febricahya12345@gmail.com>`.
 2. Confirm the commit is signed: `git cat-file commit HEAD | grep -c gpgsig` returns 1.
    If not, stop and report; do not retry unsigned.
 3. Push the topic branch; open a **draft** PR using the template.

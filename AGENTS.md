@@ -1,4 +1,4 @@
-<!-- Managed by ZairenkaiPrjctX/.github agent-foundation v1.0.0. Edit the central template, then re-sync. -->
+<!-- Managed by ZairenkaiPrjctX/.github agent-foundation v1.1.0. Edit the central template, then re-sync. -->
 # AGENTS.md: engineering instructions for coding agents
 
 Portable instructions for any coding agent working in `ZairenkaiPrjctX/Zairenkai-Database-Source`.

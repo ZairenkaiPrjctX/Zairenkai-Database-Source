@@ -3,7 +3,7 @@ name: repo-audit
 description: Audit what this repository actually contains and update AGENT/PROJECT_CONTEXT.md and AGENT/ARCHITECTURE.md with evidence. Use when starting work in an unfamiliar area, after significant code lands, or when the context files look stale.
 argument-hint: "[focus area] [quick|full]"
 ---
-<!-- Managed by ZairenkaiPrjctX/.github agent-foundation v1.0.0. Edit the central template, then re-sync. -->
+<!-- Managed by ZairenkaiPrjctX/.github agent-foundation v1.1.0. Edit the central template, then re-sync. -->
 # /repo-audit
 
 **When:** context files are missing, stale, or you are about to work in an unfamiliar area.

@@ -3,7 +3,7 @@ name: implement-feature
 description: Implement a new feature against explicit acceptance criteria with tests, docs, and a verification report. Use when asked to add or extend behaviour (not for bug fixes or pure refactors).
 argument-hint: "<feature description and acceptance criteria>"
 ---
-<!-- Managed by ZairenkaiPrjctX/.github agent-foundation v1.0.0. Edit the central template, then re-sync. -->
+<!-- Managed by ZairenkaiPrjctX/.github agent-foundation v1.1.0. Edit the central template, then re-sync. -->
 # /implement-feature
 
 **When:** adding or extending behaviour.

@@ -1,4 +1,4 @@
-<!-- Managed by ZairenkaiPrjctX/.github agent-foundation v1.0.0. Edit the central template, then re-sync. -->
+<!-- Managed by ZairenkaiPrjctX/.github agent-foundation v1.1.0. Edit the central template, then re-sync. -->
 # Playbook: Debugging
 
 1. **Pin the symptom.** Exact error, logs, version, device/OS, and steps. Write them down.
