@@ -1,0 +1,32 @@
+name: Add or correct a device
+description: Propose a device identity (codename) with evidence
+labels: [device]
+body:
+  - type: dropdown
+    id: brand
+    attributes:
+      label: Brand
+      options: [samsung, xiaomi, poco, redmi, infinix, oneplus, tecno, google_pixel, nothing]
+    validations:
+      required: true
+  - type: input
+    id: codename
+    attributes:
+      label: Device codename
+      description: As reported by the firmware (ro.product.vendor.device), not the marketing name.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: >-
+        Where the codename is stated: official source URL, OTA metadata, build.prop line
+        (no serial numbers), device tree. Community sources alone cannot verify a codename.
+    validations:
+      required: true
+  - type: textarea
+    id: identity
+    attributes:
+      label: Models, regions, rebrands
+      description: Model numbers, regional variants, and any rebrand relationship with evidence.

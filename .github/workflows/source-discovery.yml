@@ -1,0 +1,94 @@
+name: source-discovery
+
+# Metadata-only discovery. Never downloads firmware. Changes are proposed as a pull request.
+on:
+  workflow_dispatch:
+    inputs:
+      provider:
+        description: Provider id (empty = every provider that supports discovery)
+        required: false
+        default: lineageos_wiki
+      brand:
+        description: Limit to one brand
+        type: choice
+        default: all
+        options: [all, samsung, xiaomi, poco, redmi, infinix, oneplus, tecno, google_pixel, nothing]
+      open_pr:
+        description: Open a pull request with new or changed metadata
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: source-discovery
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    outputs:
+      changed: ${{ steps.diff.outputs.changed }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: ./.github/actions/setup-afid
+      - name: Discover (metadata only)
+        env:
+          PROVIDER: ${{ inputs.provider }}
+          BRAND: ${{ inputs.brand }}
+        run: |
+          args=(--write)
+          if [ -n "$PROVIDER" ]; then args+=(--provider "$PROVIDER"); fi
+          if [ "$BRAND" != "all" ]; then args+=(--brand "$BRAND"); fi
+          set +e
+          afid --json discover "${args[@]}" > discovery.json
+          status=$?
+          set -e
+          cat discovery.json
+          afid database index
+          afid database validate --check-index
+          afid policy check
+          exit $status
+      - id: diff
+        name: Package metadata changes
+        run: |
+          git add -A database
+          git diff --cached --binary > database-changes.patch
+          if [ -s database-changes.patch ]; then echo "changed=true" >> "$GITHUB_OUTPUT"; else echo "changed=false" >> "$GITHUB_OUTPUT"; fi
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: discovery
+          path: |
+            discovery.json
+            database-changes.patch
+          retention-days: 14
+
+  propose:
+    needs: discover
+    if: inputs.open_pr && needs.discover.outputs.changed == 'true'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    permissions:
+      contents: write
+      pull-requests: write
+      actions: write
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: ./.github/actions/setup-afid
+      - uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
+        with:
+          name: discovery
+          path: ${{ runner.temp }}/artifact
+      - name: Open pull request
+        env:
+          GH_TOKEN: ${{ github.token }}
+          AFID_COMMIT_TRAILER: ${{ vars.AFID_COMMIT_TRAILER }}
+        run: |
+          git apply --index "$RUNNER_TEMP/artifact/database-changes.patch"
+          python scripts/open_data_pr.py --branch-prefix afid/discovery --title "AFID: source discovery metadata"

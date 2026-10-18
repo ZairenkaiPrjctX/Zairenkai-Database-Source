@@ -1,0 +1,513 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/ZairenkaiPrjctX/Zairenkai-Database-Source/schemas/component.schema.json",
+  "title": "AFID component group file",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "firmware_id",
+    "group",
+    "components"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "1.0"
+    },
+    "firmware_id": {
+      "type": "string"
+    },
+    "group": {
+      "enum": [
+        "thermal_hal",
+        "thermal_config",
+        "power_hal",
+        "power_config",
+        "vendor_libraries",
+        "init",
+        "vintf",
+        "metadata",
+        "unknown"
+      ]
+    },
+    "components": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "component_id",
+          "firmware_id",
+          "category",
+          "subcategory",
+          "partition",
+          "path",
+          "filename",
+          "file_type",
+          "size",
+          "sha256",
+          "symlink_target",
+          "classification",
+          "parser",
+          "details",
+          "license_status",
+          "distribution_status",
+          "provenance",
+          "dependency_refs",
+          "duplicate_of",
+          "validation_status"
+        ],
+        "properties": {
+          "component_id": {
+            "type": "string",
+            "pattern": "^c_[0-9a-f]{20}$"
+          },
+          "firmware_id": {
+            "type": "string"
+          },
+          "category": {
+            "enum": [
+              "thermal_hal",
+              "thermal_service",
+              "thermal_config",
+              "thermal_engine",
+              "power_hal",
+              "power_config",
+              "power_json",
+              "power_profile",
+              "performance_config",
+              "vendor_library",
+              "init_service",
+              "init_script",
+              "vintf_manifest",
+              "supporting_metadata",
+              "unknown"
+            ]
+          },
+          "subcategory": {
+            "type": "string"
+          },
+          "partition": {
+            "type": "string",
+            "pattern": "^[a-z0-9_]+$"
+          },
+          "path": {
+            "type": "string",
+            "pattern": "^(?!/)(?!.*(^|/)\\.\\.(/|$)).+$",
+            "description": "partition-relative POSIX path"
+          },
+          "filename": {
+            "type": "string"
+          },
+          "file_type": {
+            "enum": [
+              "elf",
+              "json",
+              "xml",
+              "text",
+              "binary",
+              "symlink"
+            ]
+          },
+          "size": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 0
+          },
+          "sha256": {
+            "oneOf": [
+              {
+                "type": "null"
+              },
+              {
+                "type": "string",
+                "pattern": "^[0-9a-f]{64}$"
+              }
+            ]
+          },
+          "symlink_target": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "classification": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "method",
+              "rule_ids",
+              "confidence",
+              "reasons",
+              "soc_vendors"
+            ],
+            "properties": {
+              "method": {
+                "enum": [
+                  "rule",
+                  "content",
+                  "unmatched"
+                ]
+              },
+              "rule_ids": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "confidence": {
+                "type": "number",
+                "minimum": 0,
+                "maximum": 1
+              },
+              "reasons": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "soc_vendors": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "parser": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "name",
+              "status",
+              "error"
+            ],
+            "properties": {
+              "name": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "status": {
+                "enum": [
+                  "ok",
+                  "failed",
+                  "not_applicable"
+                ]
+              },
+              "error": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
+            }
+          },
+          "details": {
+            "type": "object"
+          },
+          "license_status": {
+            "enum": [
+              "unknown",
+              "proprietary",
+              "open_source",
+              "reviewed"
+            ]
+          },
+          "distribution_status": {
+            "enum": [
+              "allowed",
+              "restricted",
+              "unknown",
+              "user_supplied",
+              "metadata_only"
+            ]
+          },
+          "provenance": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "firmware_id",
+              "source_provider",
+              "container"
+            ],
+            "properties": {
+              "firmware_id": {
+                "type": "string"
+              },
+              "source_provider": {
+                "type": "string"
+              },
+              "container": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
+            }
+          },
+          "dependency_refs": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "duplicate_of": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "validation_status": {
+            "enum": [
+              "valid",
+              "review_required"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "$defs": {
+    "component": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "component_id",
+        "firmware_id",
+        "category",
+        "subcategory",
+        "partition",
+        "path",
+        "filename",
+        "file_type",
+        "size",
+        "sha256",
+        "symlink_target",
+        "classification",
+        "parser",
+        "details",
+        "license_status",
+        "distribution_status",
+        "provenance",
+        "dependency_refs",
+        "duplicate_of",
+        "validation_status"
+      ],
+      "properties": {
+        "component_id": {
+          "type": "string",
+          "pattern": "^c_[0-9a-f]{20}$"
+        },
+        "firmware_id": {
+          "type": "string"
+        },
+        "category": {
+          "enum": [
+            "thermal_hal",
+            "thermal_service",
+            "thermal_config",
+            "thermal_engine",
+            "power_hal",
+            "power_config",
+            "power_json",
+            "power_profile",
+            "performance_config",
+            "vendor_library",
+            "init_service",
+            "init_script",
+            "vintf_manifest",
+            "supporting_metadata",
+            "unknown"
+          ]
+        },
+        "subcategory": {
+          "type": "string"
+        },
+        "partition": {
+          "type": "string",
+          "pattern": "^[a-z0-9_]+$"
+        },
+        "path": {
+          "type": "string",
+          "pattern": "^(?!/)(?!.*(^|/)\\.\\.(/|$)).+$",
+          "description": "partition-relative POSIX path"
+        },
+        "filename": {
+          "type": "string"
+        },
+        "file_type": {
+          "enum": [
+            "elf",
+            "json",
+            "xml",
+            "text",
+            "binary",
+            "symlink"
+          ]
+        },
+        "size": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 0
+        },
+        "sha256": {
+          "oneOf": [
+            {
+              "type": "null"
+            },
+            {
+              "type": "string",
+              "pattern": "^[0-9a-f]{64}$"
+            }
+          ]
+        },
+        "symlink_target": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "classification": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "method",
+            "rule_ids",
+            "confidence",
+            "reasons",
+            "soc_vendors"
+          ],
+          "properties": {
+            "method": {
+              "enum": [
+                "rule",
+                "content",
+                "unmatched"
+              ]
+            },
+            "rule_ids": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "confidence": {
+              "type": "number",
+              "minimum": 0,
+              "maximum": 1
+            },
+            "reasons": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "soc_vendors": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "parser": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "name",
+            "status",
+            "error"
+          ],
+          "properties": {
+            "name": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "status": {
+              "enum": [
+                "ok",
+                "failed",
+                "not_applicable"
+              ]
+            },
+            "error": {
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          }
+        },
+        "details": {
+          "type": "object"
+        },
+        "license_status": {
+          "enum": [
+            "unknown",
+            "proprietary",
+            "open_source",
+            "reviewed"
+          ]
+        },
+        "distribution_status": {
+          "enum": [
+            "allowed",
+            "restricted",
+            "unknown",
+            "user_supplied",
+            "metadata_only"
+          ]
+        },
+        "provenance": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "firmware_id",
+            "source_provider",
+            "container"
+          ],
+          "properties": {
+            "firmware_id": {
+              "type": "string"
+            },
+            "source_provider": {
+              "type": "string"
+            },
+            "container": {
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          }
+        },
+        "dependency_refs": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "duplicate_of": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "validation_status": {
+          "enum": [
+            "valid",
+            "review_required"
+          ]
+        }
+      }
+    }
+  }
+}

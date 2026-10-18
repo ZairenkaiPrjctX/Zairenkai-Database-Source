@@ -1,0 +1,67 @@
+name: validate
+
+on:
+  pull_request:
+  push:
+    branches: [dev, main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: validate-${{ github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
+jobs:
+  test:
+    name: test (python ${{ matrix.python }})
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    strategy:
+      fail-fast: false
+      matrix:
+        python: ["3.11", "3.12", "3.13"]
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: ./.github/actions/setup-afid
+        with:
+          python-version: ${{ matrix.python }}
+      - name: Lint and format
+        run: |
+          ruff check src tests scripts
+          ruff format --check src tests scripts
+      - name: Type check
+        run: mypy
+      - name: Validate JSON schemas and workflow files
+        run: |
+          python - <<'PY'
+          import glob, json
+          from jsonschema import Draft202012Validator
+          for f in sorted(glob.glob("schemas/*.json")):
+              Draft202012Validator.check_schema(json.load(open(f)))
+              print("schema ok:", f)
+          PY
+          check-jsonschema --builtin-schema vendor.github-workflows .github/workflows/*.yml
+          check-jsonschema --builtin-schema vendor.github-actions .github/actions/*/action.yml
+          actionlint
+      - name: Validate database (schemas, references, codenames, generated index)
+        run: afid database validate --check-index
+      - name: Provider registry consistency
+        run: afid providers test
+      - name: Unit, integration, provider, extraction and security tests
+        run: python -m pytest -q --junitxml=reports/junit-${{ matrix.python }}.xml
+      - name: Distribution policy and repository audit
+        run: |
+          afid policy check
+          afid security scan
+      - name: Upload test report
+        if: always()
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: junit-${{ matrix.python }}
+          path: reports/junit-${{ matrix.python }}.xml
+          retention-days: 14
+          if-no-files-found: ignore

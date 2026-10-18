@@ -1,0 +1,34 @@
+name: security-audit
+
+on:
+  schedule:
+    - cron: "29 5 * * 0"
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: security-audit-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  audit:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: ./.github/actions/setup-afid
+      - name: Dependency vulnerabilities (locked set)
+        run: pip-audit --strict --require-hashes --disable-pip -r requirements.lock
+      - name: Secrets, payloads, large files, workflow permissions and pinning
+        run: afid security scan
+      - name: Distribution policy
+        run: afid policy check
+      - name: Malformed archive, traversal and symlink handling
+        run: python -m pytest -q tests/extraction tests/security
+      - name: Schema compatibility of the committed database
+        run: afid database validate --check-index

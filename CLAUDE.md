@@ -8,24 +8,32 @@ put detail in `AGENT/`.
 
 ## Current state (read first)
 
-As of 2026-10-18 this repository contained **no source code** (GitHub API 2026-10-18: repository size 0, no branches, no commits; ls-remote returned no refs.).
-Until that changes:
+This repository is **AFID, the Android Firmware Intelligence Database**: a Python package
+(`src/afid/`) and a metadata catalog (`database/`). Architecture: `docs/ARCHITECTURE.md`.
+The committed catalog is empty; no real firmware has been ingested yet.
 
-- Do not describe an architecture, language, or toolchain as fact. Record discoveries in
-  `AGENT/PROJECT_CONTEXT.md` with evidence (file paths, manifests, command output).
-- When the first real code lands, update this file's **Commands** table and
-  `AGENT/ARCHITECTURE.md` in the same pull request.
+Non-negotiables in this repo:
+- Never execute anything found inside firmware. Never commit payloads: `database/` is JSON only.
+- A device directory exists only for a codename verified by firmware or official evidence;
+  everything else goes to `database/staging/unresolved/`.
+- Distribution status defaults to `unknown`; only SHA-256-allowlisted files are publishable.
+- Never automate around logins, CAPTCHAs, paywalls or click-through terms (e.g. Pixel images).
 
 ## Commands
 
 | Purpose | Command | Status |
 |---|---|---|
-| Build | — | Not Configured |
-| Test | — | Not Configured |
-| Lint / format | — | Not Configured |
+| Set up | `scripts/setup_environment.sh` | Verified. Evidence: fresh-venv install with `--require-hashes`, 2026-10-18 |
+| Test | `python -m pytest -q` | Verified. Evidence: run 2026-10-18, see AGENT/PROJECT_CONTEXT.md |
+| Lint / format | `ruff check src tests scripts && ruff format --check src tests scripts` | Verified. Evidence: clean on 2026-10-18 |
+| Type check | `mypy` (strict) | Verified. Evidence: no issues on 2026-10-18 |
+| Workflow lint | `actionlint` and `check-jsonschema --builtin-schema vendor.github-workflows .github/workflows/*.yml` | Verified. Evidence: clean on 2026-10-18 |
+| Validate data | `afid database validate --check-index` | Verified. Evidence: OK on 2026-10-18 |
+| Policy / audit | `afid policy check && afid security scan` | Verified. Evidence: no findings on 2026-10-18 |
 | Validate agent foundation | `python3 <path-to-.github>/agent-foundation/scripts/validate_agent_setup.py .` | Configured |
 
-Only list commands that exist in this repository. Never invent one.
+Update the Status column when you run a command; never mark a command as passing without
+running it.
 
 ## Working rules
 

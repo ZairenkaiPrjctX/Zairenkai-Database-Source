@@ -1,0 +1,6 @@
+codename: Fix439
+models: [FX1908C]
+name: Redmi Fixture 8
+release: [{FX1908C: 2019-10-09}]
+soc: Qualcomm SDM439 Snapdragon 439
+vendor: Xiaomi

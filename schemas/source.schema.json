@@ -1,0 +1,85 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/ZairenkaiPrjctX/Zairenkai-Database-Source/schemas/source.schema.json",
+  "title": "AFID provider discovery snapshot",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "provider_id",
+    "status",
+    "checked_at",
+    "items",
+    "errors"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "1.0"
+    },
+    "provider_id": {
+      "type": "string"
+    },
+    "status": {
+      "enum": [
+        "ok",
+        "partial",
+        "failed",
+        "unsupported"
+      ]
+    },
+    "checked_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$"
+    },
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "item_id",
+          "kind",
+          "url",
+          "revision"
+        ],
+        "properties": {
+          "item_id": {
+            "type": "string"
+          },
+          "kind": {
+            "enum": [
+              "device",
+              "firmware",
+              "index"
+            ]
+          },
+          "url": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "revision": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "content hash, ETag or source-specific version marker"
+          },
+          "metadata": {
+            "type": "object"
+          }
+        }
+      }
+    },
+    "errors": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}

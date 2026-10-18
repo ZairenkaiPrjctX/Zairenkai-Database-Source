@@ -1,0 +1,42 @@
+# Canonical brand registry. brand_id values are stable and used in directory names.
+schema_version: "1.0"
+brands:
+  - brand_id: samsung
+    display_name: Samsung
+    aliases: [Samsung, SAMSUNG, samsung]
+    ecosystem: samsung
+  - brand_id: xiaomi
+    display_name: Xiaomi
+    aliases: [Xiaomi, XIAOMI, Mi, xiaomi]
+    ecosystem: xiaomi
+  - brand_id: poco
+    display_name: POCO
+    aliases: [POCO, Poco, poco]
+    ecosystem: xiaomi
+    product_name_prefixes: [POCO, Poco]
+  - brand_id: redmi
+    display_name: Redmi
+    aliases: [Redmi, REDMI, redmi]
+    ecosystem: xiaomi
+    product_name_prefixes: [Redmi]
+  - brand_id: infinix
+    display_name: Infinix
+    aliases: [Infinix, INFINIX, infinix]
+    ecosystem: transsion
+  - brand_id: oneplus
+    display_name: OnePlus
+    aliases: [OnePlus, ONEPLUS, oneplus, One Plus]
+    ecosystem: oplus
+  - brand_id: tecno
+    display_name: TECNO
+    aliases: [TECNO, Tecno, tecno, Techno, TECHNO]   # "Techno" is a search alias only
+    ecosystem: transsion
+  - brand_id: google_pixel
+    display_name: Google Pixel
+    aliases: [Google, google, Pixel]
+    ecosystem: google
+    product_name_prefixes: [Pixel]
+  - brand_id: nothing
+    display_name: Nothing Phone
+    aliases: [Nothing, NOTHING, nothing, Nothing Phone]
+    ecosystem: nothing

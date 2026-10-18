@@ -1,0 +1,33 @@
+# Source and distribution policy. Enforced by afid.licensing.
+schema_version: "1.0"
+
+# Status used when nothing else is known. MUST stay "unknown".
+default_distribution_status: unknown
+
+distribution_statuses:
+  allowed: "Redistribution permitted; basis recorded in redistributable_allowlist.yml"
+  restricted: "Known not to be freely redistributable (e.g. proprietary vendor blob, OEM terms)"
+  unknown: "No verified basis for redistribution. Treated as restricted for publishing."
+  user_supplied: "Provided by a user for local processing; never published by default"
+  metadata_only: "Only metadata (path, checksum, provenance) may be stored"
+
+# Only these statuses may be published anywhere (Git, releases, workflow artifacts).
+publishable_statuses: [allowed]
+
+# What may be stored in Git under database/: metadata only. Payload bytes never go there.
+catalog_contains_payload: false
+
+# Source types, in priority order (1 = most authoritative).
+source_priority:
+  - official_firmware
+  - official_ota_or_factory_image
+  - official_open_source_repository
+  - public_device_tree
+  - community_repository
+  - user_supplied_local_firmware
+
+# Codename verification: which evidence may mark a codename "verified".
+codename_verification:
+  verifying_evidence: [firmware_build_prop, official_ota_metadata, official_source]
+  corroborating_evidence: [public_device_tree, community_repository]
+  min_corroborating_sources_without_verifying: 0   # community data alone never verifies

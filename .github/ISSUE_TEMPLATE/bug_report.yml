@@ -1,0 +1,26 @@
+name: Bug report
+description: Something in AFID behaves incorrectly
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: Command run, exact output, expected behaviour.
+    validations:
+      required: true
+  - type: textarea
+    id: env
+    attributes:
+      label: Environment
+      description: Output of `afid --json doctor`.
+      render: json
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Safety
+      options:
+        - label: I have not attached firmware, vendor binaries, tokens, serial numbers or IMEIs.
+          required: true

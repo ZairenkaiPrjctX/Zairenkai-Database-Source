@@ -1,0 +1,78 @@
+{
+  "brands": 9,
+  "by_category": {},
+  "components": 0,
+  "coverage_by_brand": {
+    "google_pixel": {
+      "components": 0,
+      "devices": 0,
+      "devices_with_firmware": 0,
+      "firmware_builds": 0
+    },
+    "infinix": {
+      "components": 0,
+      "devices": 0,
+      "devices_with_firmware": 0,
+      "firmware_builds": 0
+    },
+    "nothing": {
+      "components": 0,
+      "devices": 0,
+      "devices_with_firmware": 0,
+      "firmware_builds": 0
+    },
+    "oneplus": {
+      "components": 0,
+      "devices": 0,
+      "devices_with_firmware": 0,
+      "firmware_builds": 0
+    },
+    "poco": {
+      "components": 0,
+      "devices": 0,
+      "devices_with_firmware": 0,
+      "firmware_builds": 0
+    },
+    "redmi": {
+      "components": 0,
+      "devices": 0,
+      "devices_with_firmware": 0,
+      "firmware_builds": 0
+    },
+    "samsung": {
+      "components": 0,
+      "devices": 0,
+      "devices_with_firmware": 0,
+      "firmware_builds": 0
+    },
+    "tecno": {
+      "components": 0,
+      "devices": 0,
+      "devices_with_firmware": 0,
+      "firmware_builds": 0
+    },
+    "xiaomi": {
+      "components": 0,
+      "devices": 0,
+      "devices_with_firmware": 0,
+      "firmware_builds": 0
+    }
+  },
+  "database_digest": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "dependencies_inferred": 0,
+  "dependencies_resolved": 0,
+  "dependencies_unresolved": 0,
+  "devices": 0,
+  "firmware_builds": 0,
+  "init_related": 0,
+  "pending_license_review": 0,
+  "power_config": 0,
+  "power_hal": 0,
+  "schema_version": "1.0",
+  "staging_candidates": 0,
+  "thermal_config": 0,
+  "thermal_hal": 0,
+  "unknown": 0,
+  "vendor_libraries": 0,
+  "vintf": 0
+}

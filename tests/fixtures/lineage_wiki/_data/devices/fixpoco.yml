@@ -1,0 +1,6 @@
+architecture: {cpu: arm64, userspace: arm64}
+codename: fixpoco
+name: POCO Fixture F1
+release: '2018-08-22'
+soc: Qualcomm SDM845 Snapdragon 845
+vendor: Xiaomi

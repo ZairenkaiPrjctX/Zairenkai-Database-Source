@@ -10,3 +10,30 @@
 *.p12
 *.jks
 *.keystore
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+reports/
+
+# AFID local work areas: downloads, extraction trees, provider caches (never committed)
+.afid-cache/
+
+# Firmware payloads and images must never be committed (see docs/LICENSING.md).
+# tests/fixtures/ holds only small self-built fixtures, whitelisted below.
+*.zip
+*.tgz
+*.tar
+*.tar.gz
+*.tar.md5
+*.img
+*.bin
+*.lz4
+*.apk
+*.so
+!tests/fixtures/**/*.so
