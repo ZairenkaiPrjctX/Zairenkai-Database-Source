@@ -1,0 +1,298 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "unknown/aop@AOP_000F_FTM-user-8.1.0-OPM1.171019.026-000F_1_66B-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "AOP_000F_FTM-user-8.1.0-OPM1.171019.026-000F_1_66B-dev-keys",
+        "commit": "0df611ca52e44b9516af5259ba0f53ac2b7c7a6f",
+        "committed_date": "2021-01-05T16:34:48.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T00:35:27.589Z",
+        "namespace_hint": "unknown",
+        "project_hint": "aop",
+        "project_id": 1437,
+        "project_path": "unknown/aop"
+      },
+      "revision": "0df611ca52e44b9516af5259ba0f53ac2b7c7a6f",
+      "url": "https://dumps.tadiphone.dev/dumps/unknown/aop/-/tree/0df611ca52e44b9516af5259ba0f53ac2b7c7a6f"
+    },
+    {
+      "item_id": "unknown/aop@AOP_00WW_FIH-user-8.1.0-OPM1.171019.026-00WW_1_720-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "AOP_00WW_FIH-user-8.1.0-OPM1.171019.026-00WW_1_720-dev-keys",
+        "commit": "e42a34f1e135e680b038a8766b47f9f3d2672054",
+        "committed_date": "2019-11-19T18:46:21.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T00:35:27.589Z",
+        "namespace_hint": "unknown",
+        "project_hint": "aop",
+        "project_id": 1437,
+        "project_path": "unknown/aop"
+      },
+      "revision": "e42a34f1e135e680b038a8766b47f9f3d2672054",
+      "url": "https://dumps.tadiphone.dev/dumps/unknown/aop/-/tree/e42a34f1e135e680b038a8766b47f9f3d2672054"
+    },
+    {
+      "item_id": "unknown/aop@Beholder_00CN-user-8.1.0-OPM1.171019.026-00CN_1_840-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Beholder_00CN-user-8.1.0-OPM1.171019.026-00CN_1_840-release-keys",
+        "commit": "bc97d56e994d228cf69d6a6dd4535ca5e1be1346",
+        "committed_date": "2019-10-20T14:10:01.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T00:35:27.589Z",
+        "namespace_hint": "unknown",
+        "project_hint": "aop",
+        "project_id": 1437,
+        "project_path": "unknown/aop"
+      },
+      "revision": "bc97d56e994d228cf69d6a6dd4535ca5e1be1346",
+      "url": "https://dumps.tadiphone.dev/dumps/unknown/aop/-/tree/bc97d56e994d228cf69d6a6dd4535ca5e1be1346"
+    },
+    {
+      "item_id": "unknown/b2n@B2N_00WW_FIH-user-10-QKQ1.190828.002-00WW_4_15T-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "B2N_00WW_FIH-user-10-QKQ1.190828.002-00WW_4_15T-release-keys",
+        "commit": "1e1f11464c3fa047b3c80f2ddac1fb1edf42d71e",
+        "committed_date": "2022-08-08T20:30:56.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-08-08T17:29:22.062Z",
+        "namespace_hint": "unknown",
+        "project_hint": "b2n",
+        "project_id": 2388,
+        "project_path": "unknown/b2n"
+      },
+      "revision": "1e1f11464c3fa047b3c80f2ddac1fb1edf42d71e",
+      "url": "https://dumps.tadiphone.dev/dumps/unknown/b2n/-/tree/1e1f11464c3fa047b3c80f2ddac1fb1edf42d71e"
+    },
+    {
+      "item_id": "unknown/danube@Danube-user-8.1.0-OPM1.171019.026-00WW_0_140-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Danube-user-8.1.0-OPM1.171019.026-00WW_0_140-dev-keys",
+        "commit": "3bf139dd613ac608dfe7d277080395635b699c22",
+        "committed_date": "2021-01-28T11:43:49.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T00:54:29.479Z",
+        "namespace_hint": "unknown",
+        "project_hint": "danube",
+        "project_id": 1456,
+        "project_path": "unknown/danube"
+      },
+      "revision": "3bf139dd613ac608dfe7d277080395635b699c22",
+      "url": "https://dumps.tadiphone.dev/dumps/unknown/danube/-/tree/3bf139dd613ac608dfe7d277080395635b699c22"
+    },
+    {
+      "item_id": "unknown/danube@Danube-userdebug-8.1.0-OPM1.171019.011-00WW_0_093-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Danube-userdebug-8.1.0-OPM1.171019.011-00WW_0_093-dev-keys",
+        "commit": "b8b21d5c465aa8b7131bf47a59c8210b3d090b35",
+        "committed_date": "2021-01-26T02:06:47.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T00:54:29.479Z",
+        "namespace_hint": "unknown",
+        "project_hint": "danube",
+        "project_id": 1456,
+        "project_path": "unknown/danube"
+      },
+      "revision": "b8b21d5c465aa8b7131bf47a59c8210b3d090b35",
+      "url": "https://dumps.tadiphone.dev/dumps/unknown/danube/-/tree/b8b21d5c465aa8b7131bf47a59c8210b3d090b35"
+    },
+    {
+      "item_id": "unknown/flame@Flame-userdebug-8.1.0-O11008-1509650591-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Flame-userdebug-8.1.0-O11008-1509650591-release-keys",
+        "commit": "224894ec84cd3d77f7bbe672ff5bbc2794beb748",
+        "committed_date": "2021-01-25T15:33:29.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T17:09:56.757Z",
+        "namespace_hint": "unknown",
+        "project_hint": "flame",
+        "project_id": 1965,
+        "project_path": "unknown/flame"
+      },
+      "revision": "224894ec84cd3d77f7bbe672ff5bbc2794beb748",
+      "url": "https://dumps.tadiphone.dev/dumps/unknown/flame/-/tree/224894ec84cd3d77f7bbe672ff5bbc2794beb748"
+    },
+    {
+      "item_id": "unknown/flame@Flame-userdebug-OMR1-O10802-1506064903-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Flame-userdebug-OMR1-O10802-1506064903-release-keys",
+        "commit": "4c77534f44a8c099821c82a02f0a57930d916b03",
+        "committed_date": "2021-01-25T16:15:32.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T17:09:56.757Z",
+        "namespace_hint": "unknown",
+        "project_hint": "flame",
+        "project_id": 1965,
+        "project_path": "unknown/flame"
+      },
+      "revision": "4c77534f44a8c099821c82a02f0a57930d916b03",
+      "url": "https://dumps.tadiphone.dev/dumps/unknown/flame/-/tree/4c77534f44a8c099821c82a02f0a57930d916b03"
+    },
+    {
+      "item_id": "unknown/generic_a15@generic_a15-eng-8.0.0-OPR6.170623.010-eng.root.20180530.022443-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "generic_a15-eng-8.0.0-OPR6.170623.010-eng.root.20180530.022443-test-keys",
+        "commit": "aeca3866daaac702ba483db22446fe5feacadcac",
+        "committed_date": "2019-12-16T19:32:53.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T12:31:25.197Z",
+        "namespace_hint": "unknown",
+        "project_hint": "generic_a15",
+        "project_id": 1751,
+        "project_path": "unknown/generic_a15"
+      },
+      "revision": "aeca3866daaac702ba483db22446fe5feacadcac",
+      "url": "https://dumps.tadiphone.dev/dumps/unknown/generic_a15/-/tree/aeca3866daaac702ba483db22446fe5feacadcac"
+    },
+    {
+      "item_id": "unknown/generic_a15@generic_a15-user-9-PPR1.180610.011-eng.root.20191113.124341-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "generic_a15-user-9-PPR1.180610.011-eng.root.20191113.124341-test-keys",
+        "commit": "72792c19434eaf298504de3697c0289fbf6c377e",
+        "committed_date": "2019-12-15T14:42:03.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T12:31:25.197Z",
+        "namespace_hint": "unknown",
+        "project_hint": "generic_a15",
+        "project_id": 1751,
+        "project_path": "unknown/generic_a15"
+      },
+      "revision": "72792c19434eaf298504de3697c0289fbf6c377e",
+      "url": "https://dumps.tadiphone.dev/dumps/unknown/generic_a15/-/tree/72792c19434eaf298504de3697c0289fbf6c377e"
+    },
+    {
+      "item_id": "unknown/generic_a53@generic_a53-user-8.0.0-OPR6.170623.013-eng.jenkin.20191129.201635-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "generic_a53-user-8.0.0-OPR6.170623.013-eng.jenkin.20191129.201635-test-keys",
+        "commit": "10a3ec5aee3998c720f04766ab316b8344335378",
+        "committed_date": "2019-12-15T12:11:18.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T08:33:51.432Z",
+        "namespace_hint": "unknown",
+        "project_hint": "generic_a53",
+        "project_id": 1610,
+        "project_path": "unknown/generic_a53"
+      },
+      "revision": "10a3ec5aee3998c720f04766ab316b8344335378",
+      "url": "https://dumps.tadiphone.dev/dumps/unknown/generic_a53/-/tree/10a3ec5aee3998c720f04766ab316b8344335378"
+    },
+    {
+      "item_id": "unknown/nb1_bsp@NB1-userdebug-7.1.1-NMF26F-eng.cm.20170301.173123-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "NB1-userdebug-7.1.1-NMF26F-eng.cm.20170301.173123-test-keys",
+        "commit": "9c77dd72c7326b49b75380b1c682aae4e1f0f47c",
+        "committed_date": "2020-11-06T16:34:07.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T14:11:00.308Z",
+        "namespace_hint": "unknown",
+        "project_hint": "nb1_bsp",
+        "project_id": 1820,
+        "project_path": "unknown/nb1_bsp"
+      },
+      "revision": "9c77dd72c7326b49b75380b1c682aae4e1f0f47c",
+      "url": "https://dumps.tadiphone.dev/dumps/unknown/nb1_bsp/-/tree/9c77dd72c7326b49b75380b1c682aae4e1f0f47c"
+    },
+    {
+      "item_id": "unknown/pnx@PNX_00WW_FIH-user-10-QKQ1.190406.002-00WW_4_011-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "PNX_00WW_FIH-user-10-QKQ1.190406.002-00WW_4_011-release-keys",
+        "commit": "b8aa62a6b751c1d6d94f70dbaa0d21f6a292f048",
+        "committed_date": "2019-07-20T22:37:29.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T17:14:04.927Z",
+        "namespace_hint": "unknown",
+        "project_hint": "pnx",
+        "project_id": 1972,
+        "project_path": "unknown/pnx"
+      },
+      "revision": "b8aa62a6b751c1d6d94f70dbaa0d21f6a292f048",
+      "url": "https://dumps.tadiphone.dev/dumps/unknown/pnx/-/tree/b8aa62a6b751c1d6d94f70dbaa0d21f6a292f048"
+    },
+    {
+      "item_id": "unknown/pnx@PNX_00WW_FIH-user-10-QKQ1.190611.002-00WW_4_075-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "PNX_00WW_FIH-user-10-QKQ1.190611.002-00WW_4_075-dev-keys",
+        "commit": "377fc26bf749abed053bd2723b7c7c9051903436",
+        "committed_date": "2019-08-20T01:55:03.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T17:14:04.927Z",
+        "namespace_hint": "unknown",
+        "project_hint": "pnx",
+        "project_id": 1972,
+        "project_path": "unknown/pnx"
+      },
+      "revision": "377fc26bf749abed053bd2723b7c7c9051903436",
+      "url": "https://dumps.tadiphone.dev/dumps/unknown/pnx/-/tree/377fc26bf749abed053bd2723b7c7c9051903436"
+    },
+    {
+      "item_id": "unknown/unknown@Unknown-user-7.0-NRD90M-00WW_1_39M-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Unknown-user-7.0-NRD90M-00WW_1_39M-release-keys",
+        "commit": "11d4d1f5d0171a826c3eacb19734d495fa941029",
+        "committed_date": "2022-03-05T16:52:00.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T17:07:53.670Z",
+        "namespace_hint": "unknown",
+        "project_hint": "unknown",
+        "project_id": 1963,
+        "project_path": "unknown/unknown"
+      },
+      "revision": "11d4d1f5d0171a826c3eacb19734d495fa941029",
+      "url": "https://dumps.tadiphone.dev/dumps/unknown/unknown/-/tree/11d4d1f5d0171a826c3eacb19734d495fa941029"
+    },
+    {
+      "item_id": "unknown/unknown@Unknown-user-7.1.1-NMF26O-00WW_2_15H-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Unknown-user-7.1.1-NMF26O-00WW_2_15H-release-keys",
+        "commit": "a9a4bc7d6b0bdbbca0fdfa5b0885a9b333e6e751",
+        "committed_date": "2019-12-15T08:01:14.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T17:07:53.670Z",
+        "namespace_hint": "unknown",
+        "project_hint": "unknown",
+        "project_id": 1963,
+        "project_path": "unknown/unknown"
+      },
+      "revision": "a9a4bc7d6b0bdbbca0fdfa5b0885a9b333e6e751",
+      "url": "https://dumps.tadiphone.dev/dumps/unknown/unknown/-/tree/a9a4bc7d6b0bdbbca0fdfa5b0885a9b333e6e751"
+    },
+    {
+      "item_id": "unknown/unknown@unknown_000F-user-7.1.1-NMF26F-000F_0_220-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "unknown_000F-user-7.1.1-NMF26F-000F_0_220-dev-keys",
+        "commit": "130de99820705ffd81ab607343854d1829f2342c",
+        "committed_date": "2021-01-26T02:11:17.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T17:07:53.670Z",
+        "namespace_hint": "unknown",
+        "project_hint": "unknown",
+        "project_id": 1963,
+        "project_path": "unknown/unknown"
+      },
+      "revision": "130de99820705ffd81ab607343854d1829f2342c",
+      "url": "https://dumps.tadiphone.dev/dumps/unknown/unknown/-/tree/130de99820705ffd81ab607343854d1829f2342c"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

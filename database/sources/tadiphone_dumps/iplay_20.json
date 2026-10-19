@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "iplay_20/iplay_20@s9863a1h10_Natv-user-10-QP1A.190711.020-51335-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "s9863a1h10_Natv-user-10-QP1A.190711.020-51335-release-keys",
+        "commit": "9c9421f79f619c7211bd6d6258b90d5bd5db4a68",
+        "committed_date": "2022-05-17T16:10:06.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T20:21:38.832Z",
+        "namespace_hint": "iplay_20",
+        "project_hint": "iplay_20",
+        "project_id": 790,
+        "project_path": "iplay_20/iplay_20"
+      },
+      "revision": "9c9421f79f619c7211bd6d6258b90d5bd5db4a68",
+      "url": "https://dumps.tadiphone.dev/dumps/iplay_20/iplay_20/-/tree/9c9421f79f619c7211bd6d6258b90d5bd5db4a68"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

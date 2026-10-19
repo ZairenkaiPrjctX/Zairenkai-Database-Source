@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "rokid/station@RES102-user-12-STTC.230104.002-HMD14-release-keys--",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "RES102-user-12-STTC.230104.002-HMD14-release-keys--",
+        "commit": "b417a97ae5e43a2aff99ac82a4ad89d21f1ae6c4",
+        "committed_date": "2025-02-11T21:19:50.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-02-11T18:19:00.172Z",
+        "namespace_hint": "rokid",
+        "project_hint": "station",
+        "project_id": 5573,
+        "project_path": "rokid/station"
+      },
+      "revision": "b417a97ae5e43a2aff99ac82a4ad89d21f1ae6c4",
+      "url": "https://dumps.tadiphone.dev/dumps/rokid/station/-/tree/b417a97ae5e43a2aff99ac82a4ad89d21f1ae6c4"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

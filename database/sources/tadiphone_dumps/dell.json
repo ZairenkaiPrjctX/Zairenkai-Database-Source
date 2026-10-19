@@ -1,0 +1,77 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "dell/lw@byt_t_crv2_64-user-4.4.4-KTU84P-LW3741A312400-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "byt_t_crv2_64-user-4.4.4-KTU84P-LW3741A312400-release-keys",
+        "commit": "6291fe69171046a6eeaa0a7ca14b3a4af0dfa3c9",
+        "committed_date": "2024-08-17T20:06:10.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-08-17T17:05:20.700Z",
+        "namespace_hint": "dell",
+        "project_hint": "lw",
+        "project_id": 5388,
+        "project_path": "dell/lw"
+      },
+      "revision": "6291fe69171046a6eeaa0a7ca14b3a4af0dfa3c9",
+      "url": "https://dumps.tadiphone.dev/dumps/dell/lw/-/tree/6291fe69171046a6eeaa0a7ca14b3a4af0dfa3c9"
+    },
+    {
+      "item_id": "dell/saltbay@saltbay_64-user-4.4.2-KOT49H-eng.YTD802A519500.20140716.024230-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "saltbay_64-user-4.4.2-KOT49H-eng.YTD802A519500.20140716.024230-release-keys",
+        "commit": "3586dc47ed2b8c2bbb377ba86d1f592724c4a895",
+        "committed_date": "2024-08-17T19:57:15.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-08-17T16:56:25.332Z",
+        "namespace_hint": "dell",
+        "project_hint": "saltbay",
+        "project_id": 5387,
+        "project_path": "dell/saltbay"
+      },
+      "revision": "3586dc47ed2b8c2bbb377ba86d1f592724c4a895",
+      "url": "https://dumps.tadiphone.dev/dumps/dell/saltbay/-/tree/3586dc47ed2b8c2bbb377ba86d1f592724c4a895"
+    },
+    {
+      "item_id": "dell/saltbay@saltbay_64-user-4.4.2-KOT49H-eng.YTP802A119500.20140716.013553-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "saltbay_64-user-4.4.2-KOT49H-eng.YTP802A119500.20140716.013553-release-keys",
+        "commit": "c1ebc54350cad5c451cc15409a5a56bfce7ee0d3",
+        "committed_date": "2024-08-17T20:01:16.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-08-17T16:56:25.332Z",
+        "namespace_hint": "dell",
+        "project_hint": "saltbay",
+        "project_id": 5387,
+        "project_path": "dell/saltbay"
+      },
+      "revision": "c1ebc54350cad5c451cc15409a5a56bfce7ee0d3",
+      "url": "https://dumps.tadiphone.dev/dumps/dell/saltbay/-/tree/c1ebc54350cad5c451cc15409a5a56bfce7ee0d3"
+    },
+    {
+      "item_id": "dell/yellowtail@P801_NoModem-user-4.3-JSS15Q-eng.songdeliang.20140211.141314-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "P801_NoModem-user-4.3-JSS15Q-eng.songdeliang.20140211.141314-release-keys",
+        "commit": "63bcd964cce42380ad717a2fbf23ea00c5624f2e",
+        "committed_date": "2024-08-17T20:09:32.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-08-17T17:09:04.197Z",
+        "namespace_hint": "dell",
+        "project_hint": "yellowtail",
+        "project_id": 5389,
+        "project_path": "dell/yellowtail"
+      },
+      "revision": "63bcd964cce42380ad717a2fbf23ea00c5624f2e",
+      "url": "https://dumps.tadiphone.dev/dumps/dell/yellowtail/-/tree/63bcd964cce42380ad717a2fbf23ea00c5624f2e"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

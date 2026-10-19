@@ -1,0 +1,38 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "_project/5228",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": null,
+        "project_id": 5228,
+        "project_path": "zebra/helios",
+        "reason": "repository_not_readable"
+      },
+      "revision": null,
+      "url": "https://dumps.tadiphone.dev/dumps/zebra/helios"
+    },
+    {
+      "item_id": "zebra/atlas@02-32-04.00-OG-U00-STD",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "02-32-04.00-OG-U00-STD",
+        "commit": "f6da3abca91e1748e1a808ef0efe095d6cb6836c",
+        "committed_date": "2021-05-12T19:24:48.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T02:19:38.559Z",
+        "namespace_hint": "zebra",
+        "project_hint": "atlas",
+        "project_id": 861,
+        "project_path": "zebra/atlas"
+      },
+      "revision": "f6da3abca91e1748e1a808ef0efe095d6cb6836c",
+      "url": "https://dumps.tadiphone.dev/dumps/zebra/atlas/-/tree/f6da3abca91e1748e1a808ef0efe095d6cb6836c"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

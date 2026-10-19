@@ -1,0 +1,94 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "panasonic/eluga_x1@full_k71v1_64_bsp-user-8.1.0-O11019-1536216693-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k71v1_64_bsp-user-8.1.0-O11019-1536216693-release-keys",
+        "commit": "1e4b3629852ec02b3596c668f3e4e5dbcb52337f",
+        "committed_date": "2019-09-13T09:49:12.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T20:29:02.723Z",
+        "namespace_hint": "panasonic",
+        "project_hint": "eluga_x1",
+        "project_id": 2134,
+        "project_path": "panasonic/eluga_x1"
+      },
+      "revision": "1e4b3629852ec02b3596c668f3e4e5dbcb52337f",
+      "url": "https://dumps.tadiphone.dev/dumps/panasonic/eluga_x1/-/tree/1e4b3629852ec02b3596c668f3e4e5dbcb52337f"
+    },
+    {
+      "item_id": "panasonic/eluga_z1@full_k62v1_64_bsp-user-8.1.0-O11019-1536172036-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k62v1_64_bsp-user-8.1.0-O11019-1536172036-release-keys",
+        "commit": "2b597f9f603426c001193e2fbcb39732e7b75367",
+        "committed_date": "2019-09-13T09:52:14.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T21:43:23.058Z",
+        "namespace_hint": "panasonic",
+        "project_hint": "eluga_z1",
+        "project_id": 1334,
+        "project_path": "panasonic/eluga_z1"
+      },
+      "revision": "2b597f9f603426c001193e2fbcb39732e7b75367",
+      "url": "https://dumps.tadiphone.dev/dumps/panasonic/eluga_z1/-/tree/2b597f9f603426c001193e2fbcb39732e7b75367"
+    },
+    {
+      "item_id": "panasonic/fz-a3@FZ_A3-user-11-RKQ1.210924.001-18.01.100.065-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "FZ_A3-user-11-RKQ1.210924.001-18.01.100.065-release-keys",
+        "commit": "c0e469b1b06575bdcfae6ac48614f9bee228e7f2",
+        "committed_date": "2023-12-06T20:11:41.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-12-06T17:09:49.626Z",
+        "namespace_hint": "panasonic",
+        "project_hint": "fz-a3",
+        "project_id": 4635,
+        "project_path": "panasonic/fz-a3"
+      },
+      "revision": "c0e469b1b06575bdcfae6ac48614f9bee228e7f2",
+      "url": "https://dumps.tadiphone.dev/dumps/panasonic/fz-a3/-/tree/c0e469b1b06575bdcfae6ac48614f9bee228e7f2"
+    },
+    {
+      "item_id": "panasonic/fz-n1evf@FZ_N1EVF_N-user-11-RKQ1.210924.001-18.01.300.074-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "FZ_N1EVF_N-user-11-RKQ1.210924.001-18.01.300.074-release-keys",
+        "commit": "549ce2c06450095b146809083d4f585df3e80616",
+        "committed_date": "2023-12-06T21:06:58.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-12-06T18:05:07.427Z",
+        "namespace_hint": "panasonic",
+        "project_hint": "fz-n1evf",
+        "project_id": 4637,
+        "project_path": "panasonic/fz-n1evf"
+      },
+      "revision": "549ce2c06450095b146809083d4f585df3e80616",
+      "url": "https://dumps.tadiphone.dev/dumps/panasonic/fz-n1evf/-/tree/549ce2c06450095b146809083d4f585df3e80616"
+    },
+    {
+      "item_id": "panasonic/fz-s1@FZ_S1-user-11-RKQ1.210924.001-18.01.200.073-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "FZ_S1-user-11-RKQ1.210924.001-18.01.200.073-release-keys",
+        "commit": "04c345e039af49f53d485b9529e56bc0b0f22305",
+        "committed_date": "2023-12-06T21:17:02.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-12-06T18:15:06.113Z",
+        "namespace_hint": "panasonic",
+        "project_hint": "fz-s1",
+        "project_id": 4638,
+        "project_path": "panasonic/fz-s1"
+      },
+      "revision": "04c345e039af49f53d485b9529e56bc0b0f22305",
+      "url": "https://dumps.tadiphone.dev/dumps/panasonic/fz-s1/-/tree/04c345e039af49f53d485b9529e56bc0b0f22305"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

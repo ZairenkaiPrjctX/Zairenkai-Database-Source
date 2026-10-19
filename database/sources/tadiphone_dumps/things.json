@@ -1,0 +1,77 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "things/msm8x53_som@iot_msm8x53_som-user-7.0-NIJ1.180321.013-4749625-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "iot_msm8x53_som-user-7.0-NIJ1.180321.013-4749625-test-keys",
+        "commit": "e452122d64ed8173b9c33b969acffe1f5bb79efa",
+        "committed_date": "2022-07-04T20:42:02.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-07-04T17:43:21.345Z",
+        "namespace_hint": "things",
+        "project_hint": "msm8x53_som",
+        "project_id": 2016,
+        "project_path": "things/msm8x53_som"
+      },
+      "revision": "e452122d64ed8173b9c33b969acffe1f5bb79efa",
+      "url": "https://dumps.tadiphone.dev/dumps/things/msm8x53_som/-/tree/e452122d64ed8173b9c33b969acffe1f5bb79efa"
+    },
+    {
+      "item_id": "things/msm8x53_som@iot_msm8x53_som-user-8.1.0-OIM6.190107.031-5459842-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "iot_msm8x53_som-user-8.1.0-OIM6.190107.031-5459842-release-keys",
+        "commit": "647abfe3245c6eb4c8947b02ffbdb6f31f2d4558",
+        "committed_date": "2022-07-04T21:00:29.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-07-04T17:43:21.345Z",
+        "namespace_hint": "things",
+        "project_hint": "msm8x53_som",
+        "project_id": 2016,
+        "project_path": "things/msm8x53_som"
+      },
+      "revision": "647abfe3245c6eb4c8947b02ffbdb6f31f2d4558",
+      "url": "https://dumps.tadiphone.dev/dumps/things/msm8x53_som/-/tree/647abfe3245c6eb4c8947b02ffbdb6f31f2d4558"
+    },
+    {
+      "item_id": "things/msm8x53_som@iot_msm8x53_som-userdebug-7.0-NIT1.180611.010.D1-4961342-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "iot_msm8x53_som-userdebug-7.0-NIT1.180611.010.D1-4961342-test-keys",
+        "commit": "316b96c5f75796c7bfa9cb32256ced1e3da857c8",
+        "committed_date": "2020-10-07T05:09:00.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-07-04T17:43:21.345Z",
+        "namespace_hint": "things",
+        "project_hint": "msm8x53_som",
+        "project_id": 2016,
+        "project_path": "things/msm8x53_som"
+      },
+      "revision": "316b96c5f75796c7bfa9cb32256ced1e3da857c8",
+      "url": "https://dumps.tadiphone.dev/dumps/things/msm8x53_som/-/tree/316b96c5f75796c7bfa9cb32256ced1e3da857c8"
+    },
+    {
+      "item_id": "things/mt8167s_som@iot_mt8167s_som-user-8.1.0-OIM6.190107.007.A5-5341849-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "iot_mt8167s_som-user-8.1.0-OIM6.190107.007.A5-5341849-release-keys",
+        "commit": "1cf72a2d4971e9cd598b6710d9a26b207d7f4e84",
+        "committed_date": "2020-06-26T16:54:33.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T14:00:04.697Z",
+        "namespace_hint": "things",
+        "project_hint": "mt8167s_som",
+        "project_id": 1063,
+        "project_path": "things/mt8167s_som"
+      },
+      "revision": "1cf72a2d4971e9cd598b6710d9a26b207d7f4e84",
+      "url": "https://dumps.tadiphone.dev/dumps/things/mt8167s_som/-/tree/1cf72a2d4971e9cd598b6710d9a26b207d7f4e84"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "gpd/xp@sys_mssi_t_64_cn-user-11-RP1A.200720.011-202110130126-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_t_64_cn-user-11-RP1A.200720.011-202110130126-test-keys",
+        "commit": "746ab1d84233732a6374976217f6b87938a1456d",
+        "committed_date": "2021-11-29T22:00:21.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T04:11:44.493Z",
+        "namespace_hint": "gpd",
+        "project_hint": "xp",
+        "project_id": 887,
+        "project_path": "gpd/xp"
+      },
+      "revision": "746ab1d84233732a6374976217f6b87938a1456d",
+      "url": "https://dumps.tadiphone.dev/dumps/gpd/xp/-/tree/746ab1d84233732a6374976217f6b87938a1456d"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

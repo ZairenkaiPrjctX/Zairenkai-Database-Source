@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "bpi/m5_mbox@m5_mbox-userdebug-9-PPR1.180610.011-20210427-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "m5_mbox-userdebug-9-PPR1.180610.011-20210427-test-keys",
+        "commit": "337a0d4d65575f5027da6f54fd8df6cdb4a7d10e",
+        "committed_date": "2021-06-26T00:25:24.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T09:16:20.142Z",
+        "namespace_hint": "bpi",
+        "project_hint": "m5_mbox",
+        "project_id": 1637,
+        "project_path": "bpi/m5_mbox"
+      },
+      "revision": "337a0d4d65575f5027da6f54fd8df6cdb4a7d10e",
+      "url": "https://dumps.tadiphone.dev/dumps/bpi/m5_mbox/-/tree/337a0d4d65575f5027da6f54fd8df6cdb4a7d10e"
+    },
+    {
+      "item_id": "bpi/m5_tablet@m5_tablet-userdebug-9-PPR1.180610.011-20210520-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "m5_tablet-userdebug-9-PPR1.180610.011-20210520-test-keys",
+        "commit": "b3b80c1d2ef881f18124882476b3d1edc81d797f",
+        "committed_date": "2021-06-26T00:24:51.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T00:21:27.565Z",
+        "namespace_hint": "bpi",
+        "project_hint": "m5_tablet",
+        "project_id": 1419,
+        "project_path": "bpi/m5_tablet"
+      },
+      "revision": "b3b80c1d2ef881f18124882476b3d1edc81d797f",
+      "url": "https://dumps.tadiphone.dev/dumps/bpi/m5_tablet/-/tree/b3b80c1d2ef881f18124882476b3d1edc81d797f"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

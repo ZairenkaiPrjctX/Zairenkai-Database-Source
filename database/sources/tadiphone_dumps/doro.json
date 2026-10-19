@@ -1,0 +1,128 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "doro/dsb0230@qssi-user-12-S10A_123-eng.jiangd.20230630.034657-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-S10A_123-eng.jiangd.20230630.034657-test-keys",
+        "commit": "d7ac6632bf895a3224ee49cb45185c1a88eec6c5",
+        "committed_date": "2024-06-16T17:36:40.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-06-16T14:19:38.004Z",
+        "namespace_hint": "doro",
+        "project_hint": "dsb0230",
+        "project_id": 5311,
+        "project_path": "doro/dsb0230"
+      },
+      "revision": "d7ac6632bf895a3224ee49cb45185c1a88eec6c5",
+      "url": "https://dumps.tadiphone.dev/dumps/doro/dsb0230/-/tree/d7ac6632bf895a3224ee49cb45185c1a88eec6c5"
+    },
+    {
+      "item_id": "doro/dsb0230@qssi-user-13-S10A_123-eng.zhangz.20231020.002411-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-S10A_123-eng.zhangz.20231020.002411-test-keys",
+        "commit": "cbbeb34b31ed3ee1d3cf63fcb74c5848f35d3e09",
+        "committed_date": "2024-06-16T17:21:58.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-06-16T14:19:38.004Z",
+        "namespace_hint": "doro",
+        "project_hint": "dsb0230",
+        "project_id": 5311,
+        "project_path": "doro/dsb0230"
+      },
+      "revision": "cbbeb34b31ed3ee1d3cf63fcb74c5848f35d3e09",
+      "url": "https://dumps.tadiphone.dev/dumps/doro/dsb0230/-/tree/cbbeb34b31ed3ee1d3cf63fcb74c5848f35d3e09"
+    },
+    {
+      "item_id": "doro/qcm6125@qssi-user-11-S10A_123-eng.jiangd.20230701.013355-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-S10A_123-eng.jiangd.20230701.013355-test-keys",
+        "commit": "7091c64737e090a9df85315e37c462af0d1bdf32",
+        "committed_date": "2024-06-16T18:06:18.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-10-22T21:39:00.852Z",
+        "namespace_hint": "doro",
+        "project_hint": "qcm6125",
+        "project_id": 36,
+        "project_path": "doro/qcm6125"
+      },
+      "revision": "7091c64737e090a9df85315e37c462af0d1bdf32",
+      "url": "https://dumps.tadiphone.dev/dumps/doro/qcm6125/-/tree/7091c64737e090a9df85315e37c462af0d1bdf32"
+    },
+    {
+      "item_id": "doro/qcm6125@qssi-userdebug-13-S10A_123-eng.hct.20241223.182400-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-userdebug-13-S10A_123-eng.hct.20241223.182400-release-keys",
+        "commit": "1618c01a8d59d550d1ba17b449b0c5517e050f2d",
+        "committed_date": "2025-03-10T04:38:41.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-10-22T21:39:00.852Z",
+        "namespace_hint": "doro",
+        "project_hint": "qcm6125",
+        "project_id": 36,
+        "project_path": "doro/qcm6125"
+      },
+      "revision": "1618c01a8d59d550d1ba17b449b0c5517e050f2d",
+      "url": "https://dumps.tadiphone.dev/dumps/doro/qcm6125/-/tree/1618c01a8d59d550d1ba17b449b0c5517e050f2d"
+    },
+    {
+      "item_id": "doro/qcm6125@sc138-userdebug-10-S10A_123-eng.hct.20211227.112722-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sc138-userdebug-10-S10A_123-eng.hct.20211227.112722-test-keys",
+        "commit": "6047ddf00e8761bd40101a35eac6d6ddd2626581",
+        "committed_date": "2022-01-30T06:56:27.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2025-10-22T21:39:00.852Z",
+        "namespace_hint": "doro",
+        "project_hint": "qcm6125",
+        "project_id": 36,
+        "project_path": "doro/qcm6125"
+      },
+      "revision": "6047ddf00e8761bd40101a35eac6d6ddd2626581",
+      "url": "https://dumps.tadiphone.dev/dumps/doro/qcm6125/-/tree/6047ddf00e8761bd40101a35eac6d6ddd2626581"
+    },
+    {
+      "item_id": "doro/qcm6125@sc138-userdebug-10-S10A_123-eng.hct.20220326.175041-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sc138-userdebug-10-S10A_123-eng.hct.20220326.175041-test-keys",
+        "commit": "8d8d5ec04ac2220c7ad1afd003cce28f17a62566",
+        "committed_date": "2022-03-28T18:19:01.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-10-22T21:39:00.852Z",
+        "namespace_hint": "doro",
+        "project_hint": "qcm6125",
+        "project_id": 36,
+        "project_path": "doro/qcm6125"
+      },
+      "revision": "8d8d5ec04ac2220c7ad1afd003cce28f17a62566",
+      "url": "https://dumps.tadiphone.dev/dumps/doro/qcm6125/-/tree/8d8d5ec04ac2220c7ad1afd003cce28f17a62566"
+    },
+    {
+      "item_id": "doro/qcm6125@sc138-userdebug-10-S10A_123-eng.hct.20250704.100752-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sc138-userdebug-10-S10A_123-eng.hct.20250704.100752-release-keys",
+        "commit": "18855b50b2b6ac52c02e6f0b149dbe42d5eae980",
+        "committed_date": "2025-10-23T00:33:58.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-10-22T21:39:00.852Z",
+        "namespace_hint": "doro",
+        "project_hint": "qcm6125",
+        "project_id": 36,
+        "project_path": "doro/qcm6125"
+      },
+      "revision": "18855b50b2b6ac52c02e6f0b149dbe42d5eae980",
+      "url": "https://dumps.tadiphone.dev/dumps/doro/qcm6125/-/tree/18855b50b2b6ac52c02e6f0b149dbe42d5eae980"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

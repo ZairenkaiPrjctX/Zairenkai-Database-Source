@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "shift4/shift4@full_joyasz6582_we_l1-user-5.1.1-LMY47I-1496657965-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_joyasz6582_we_l1-user-5.1.1-LMY47I-1496657965-test-keys",
+        "commit": "e914624fab1f1edefa08e16800057104b50e0e2f",
+        "committed_date": "2021-12-02T11:48:17.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T06:58:38.971Z",
+        "namespace_hint": "shift4",
+        "project_hint": "shift4",
+        "project_id": 1535,
+        "project_path": "shift4/shift4"
+      },
+      "revision": "e914624fab1f1edefa08e16800057104b50e0e2f",
+      "url": "https://dumps.tadiphone.dev/dumps/shift4/shift4/-/tree/e914624fab1f1edefa08e16800057104b50e0e2f"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

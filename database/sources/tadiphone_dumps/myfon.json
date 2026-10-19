@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "myfon/fs5722e@FS5722E-user-8.1.0-OPM2.171019.012-MYFON_S7_V1.0_20180810-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "FS5722E-user-8.1.0-OPM2.171019.012-MYFON_S7_V1.0_20180810-release-keys",
+        "commit": "b24b1dc0c2badd987227895a16cd3364e7a4f3d8",
+        "committed_date": "2019-11-12T22:00:15.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T10:13:14.669Z",
+        "namespace_hint": "myfon",
+        "project_hint": "fs5722e",
+        "project_id": 1703,
+        "project_path": "myfon/fs5722e"
+      },
+      "revision": "b24b1dc0c2badd987227895a16cd3364e7a4f3d8",
+      "url": "https://dumps.tadiphone.dev/dumps/myfon/fs5722e/-/tree/b24b1dc0c2badd987227895a16cd3364e7a4f3d8"
+    },
+    {
+      "item_id": "myfon/mypad_8@MYPAD_8-user-8.1.0-O11019-1524739537-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "MYPAD_8-user-8.1.0-O11019-1524739537-release-keys",
+        "commit": "7aa1fc117825deba0509cdfe3a2588ae339bcf86",
+        "committed_date": "2019-09-13T11:40:59.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T19:55:39.083Z",
+        "namespace_hint": "myfon",
+        "project_hint": "mypad_8",
+        "project_id": 1281,
+        "project_path": "myfon/mypad_8"
+      },
+      "revision": "7aa1fc117825deba0509cdfe3a2588ae339bcf86",
+      "url": "https://dumps.tadiphone.dev/dumps/myfon/mypad_8/-/tree/7aa1fc117825deba0509cdfe3a2588ae339bcf86"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

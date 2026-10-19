@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "jiaguwen/t3a@t3a-user-8.1.0-OPM1.171019.019-eng.root.20190308.110603-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "t3a-user-8.1.0-OPM1.171019.019-eng.root.20190308.110603-test-keys",
+        "commit": "f3c3fce424c1320d100d336ccde4819e9928738a",
+        "committed_date": "2020-08-19T03:24:21.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T19:53:05.477Z",
+        "namespace_hint": "jiaguwen",
+        "project_hint": "t3a",
+        "project_id": 1279,
+        "project_path": "jiaguwen/t3a"
+      },
+      "revision": "f3c3fce424c1320d100d336ccde4819e9928738a",
+      "url": "https://dumps.tadiphone.dev/dumps/jiaguwen/t3a/-/tree/f3c3fce424c1320d100d336ccde4819e9928738a"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

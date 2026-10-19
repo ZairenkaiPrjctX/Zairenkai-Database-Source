@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "telkom/dv8219@p212-user-7.1.2-NHG47L-20171128-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "p212-user-7.1.2-NHG47L-20171128-release-keys",
+        "commit": "f4479d5a4ebe25e9e54833d5ee8df3779b64f2df",
+        "committed_date": "2021-01-12T08:04:15.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T23:32:23.418Z",
+        "namespace_hint": "telkom",
+        "project_hint": "dv8219",
+        "project_id": 2213,
+        "project_path": "telkom/dv8219"
+      },
+      "revision": "f4479d5a4ebe25e9e54833d5ee8df3779b64f2df",
+      "url": "https://dumps.tadiphone.dev/dumps/telkom/dv8219/-/tree/f4479d5a4ebe25e9e54833d5ee8df3779b64f2df"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

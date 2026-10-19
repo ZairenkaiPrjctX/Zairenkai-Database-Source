@@ -1,0 +1,315 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "razer/aura@aura-user-9-P-MR0-RC014-RZR-190220-3040-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aura-user-9-P-MR0-RC014-RZR-190220-3040-release-keys",
+        "commit": "4737a15c21fbfafb584ef8e6e8aae6ff025d0cb7",
+        "committed_date": "2021-09-12T22:39:10.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T16:00:18.175Z",
+        "namespace_hint": "razer",
+        "project_hint": "aura",
+        "project_id": 1157,
+        "project_path": "razer/aura"
+      },
+      "revision": "4737a15c21fbfafb584ef8e6e8aae6ff025d0cb7",
+      "url": "https://dumps.tadiphone.dev/dumps/razer/aura/-/tree/4737a15c21fbfafb584ef8e6e8aae6ff025d0cb7"
+    },
+    {
+      "item_id": "razer/aura@aura-user-9-P-MR1-RC003-RZR-190305-3110-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aura-user-9-P-MR1-RC003-RZR-190305-3110-release-keys",
+        "commit": "3208da64fa831d4b10323b9f34327873095af1bf",
+        "committed_date": "2019-07-06T15:05:35.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T16:00:18.175Z",
+        "namespace_hint": "razer",
+        "project_hint": "aura",
+        "project_id": 1157,
+        "project_path": "razer/aura"
+      },
+      "revision": "3208da64fa831d4b10323b9f34327873095af1bf",
+      "url": "https://dumps.tadiphone.dev/dumps/razer/aura/-/tree/3208da64fa831d4b10323b9f34327873095af1bf"
+    },
+    {
+      "item_id": "razer/aura@aura-user-9-P-MR2-RC001-RZR-190914-3123-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aura-user-9-P-MR2-RC001-RZR-190914-3123-release-keys",
+        "commit": "a77da74da4136b786eb9ab9809df86a1d6be0aae",
+        "committed_date": "2019-10-14T17:22:25.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T16:00:18.175Z",
+        "namespace_hint": "razer",
+        "project_hint": "aura",
+        "project_id": 1157,
+        "project_path": "razer/aura"
+      },
+      "revision": "a77da74da4136b786eb9ab9809df86a1d6be0aae",
+      "url": "https://dumps.tadiphone.dev/dumps/razer/aura/-/tree/a77da74da4136b786eb9ab9809df86a1d6be0aae"
+    },
+    {
+      "item_id": "razer/aura@aura-user-9-P-SMR3-RC002-RZR-200226-3141-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aura-user-9-P-SMR3-RC002-RZR-200226-3141-release-keys",
+        "commit": "3b862039610484bca87256d86ae913608f762a55",
+        "committed_date": "2020-03-23T12:48:33.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T16:00:18.175Z",
+        "namespace_hint": "razer",
+        "project_hint": "aura",
+        "project_id": 1157,
+        "project_path": "razer/aura"
+      },
+      "revision": "3b862039610484bca87256d86ae913608f762a55",
+      "url": "https://dumps.tadiphone.dev/dumps/razer/aura/-/tree/3b862039610484bca87256d86ae913608f762a55"
+    },
+    {
+      "item_id": "razer/aura@aura-user-9-P-SMR6-RC001-RZR-201022-3201-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aura-user-9-P-SMR6-RC001-RZR-201022-3201-release-keys",
+        "commit": "2c9a8af61b4d73de0b202831c189d544922effb6",
+        "committed_date": "2020-12-15T20:55:22.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T16:00:18.175Z",
+        "namespace_hint": "razer",
+        "project_hint": "aura",
+        "project_id": 1157,
+        "project_path": "razer/aura"
+      },
+      "revision": "2c9a8af61b4d73de0b202831c189d544922effb6",
+      "url": "https://dumps.tadiphone.dev/dumps/razer/aura/-/tree/2c9a8af61b4d73de0b202831c189d544922effb6"
+    },
+    {
+      "item_id": "razer/aura@aura-user-9-P-SMR7-RC003-RZR-210107-3225-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aura-user-9-P-SMR7-RC003-RZR-210107-3225-release-keys",
+        "commit": "b0c5fb8832cf40b16501130ad8807afbbf828a67",
+        "committed_date": "2021-06-15T03:31:32.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T16:00:18.175Z",
+        "namespace_hint": "razer",
+        "project_hint": "aura",
+        "project_id": 1157,
+        "project_path": "razer/aura"
+      },
+      "revision": "b0c5fb8832cf40b16501130ad8807afbbf828a67",
+      "url": "https://dumps.tadiphone.dev/dumps/razer/aura/-/tree/b0c5fb8832cf40b16501130ad8807afbbf828a67"
+    },
+    {
+      "item_id": "razer/bolt@bolt-user-9-P-MR2-RC001-ATT-191014-3262-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "bolt-user-9-P-MR2-RC001-ATT-191014-3262-release-keys",
+        "commit": "c5dc481d6415e57f7b1782f1430791a880db126a",
+        "committed_date": "2020-01-03T23:57:52.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T16:40:29.304Z",
+        "namespace_hint": "razer",
+        "project_hint": "bolt",
+        "project_id": 1192,
+        "project_path": "razer/bolt"
+      },
+      "revision": "c5dc481d6415e57f7b1782f1430791a880db126a",
+      "url": "https://dumps.tadiphone.dev/dumps/razer/bolt/-/tree/c5dc481d6415e57f7b1782f1430791a880db126a"
+    },
+    {
+      "item_id": "razer/bolt@bolt-user-9-P-SMR1-RC008-ATT-190626-3239-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "bolt-user-9-P-SMR1-RC008-ATT-190626-3239-release-keys",
+        "commit": "68e74a1122ed2cc93837d5091a17be7d7561eb30",
+        "committed_date": "2020-09-11T10:49:13.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T16:40:29.304Z",
+        "namespace_hint": "razer",
+        "project_hint": "bolt",
+        "project_id": 1192,
+        "project_path": "razer/bolt"
+      },
+      "revision": "68e74a1122ed2cc93837d5091a17be7d7561eb30",
+      "url": "https://dumps.tadiphone.dev/dumps/razer/bolt/-/tree/68e74a1122ed2cc93837d5091a17be7d7561eb30"
+    },
+    {
+      "item_id": "razer/cheryl@cheryl-user-8.1.0-OPM1.171019.011-RZR-180803-6033-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "cheryl-user-8.1.0-OPM1.171019.011-RZR-180803-6033-release-keys",
+        "commit": "0c477b5f2f6b97f5df829ef7a220349da6b04596",
+        "committed_date": "2019-07-12T03:13:31.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T16:38:20.341Z",
+        "namespace_hint": "razer",
+        "project_hint": "cheryl",
+        "project_id": 1946,
+        "project_path": "razer/cheryl"
+      },
+      "revision": "0c477b5f2f6b97f5df829ef7a220349da6b04596",
+      "url": "https://dumps.tadiphone.dev/dumps/razer/cheryl/-/tree/0c477b5f2f6b97f5df829ef7a220349da6b04596"
+    },
+    {
+      "item_id": "razer/cheryl@cheryl-user-9-P-MR0-RC006-RZR-N-7069-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "cheryl-user-9-P-MR0-RC006-RZR-N-7069-release-keys",
+        "commit": "738d8b52dc7f0f7ccf81f8064614c5f8a45cd52f",
+        "committed_date": "2019-09-26T13:36:51.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T16:38:20.341Z",
+        "namespace_hint": "razer",
+        "project_hint": "cheryl",
+        "project_id": 1946,
+        "project_path": "razer/cheryl"
+      },
+      "revision": "738d8b52dc7f0f7ccf81f8064614c5f8a45cd52f",
+      "url": "https://dumps.tadiphone.dev/dumps/razer/cheryl/-/tree/738d8b52dc7f0f7ccf81f8064614c5f8a45cd52f"
+    },
+    {
+      "item_id": "razer/cheryl@cheryl-user-9-P-MR2-RC001-RZR-N-7083-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "cheryl-user-9-P-MR2-RC001-RZR-N-7083-release-keys",
+        "commit": "3ef940e771581a8c269f5ad865dfc5edcf7d363c",
+        "committed_date": "2020-01-03T23:59:24.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T16:38:20.341Z",
+        "namespace_hint": "razer",
+        "project_hint": "cheryl",
+        "project_id": 1946,
+        "project_path": "razer/cheryl"
+      },
+      "revision": "3ef940e771581a8c269f5ad865dfc5edcf7d363c",
+      "url": "https://dumps.tadiphone.dev/dumps/razer/cheryl/-/tree/3ef940e771581a8c269f5ad865dfc5edcf7d363c"
+    },
+    {
+      "item_id": "razer/cheryl_ckh@cheryl_ckh-user-9-P-MR2-RC001-CKH-N-7087-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "cheryl_ckh-user-9-P-MR2-RC001-CKH-N-7087-release-keys",
+        "commit": "0edc268c5ddf6d3901b1e852d60b036e93aeab1e",
+        "committed_date": "2022-08-31T04:50:01.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-08-31T01:48:09.348Z",
+        "namespace_hint": "razer",
+        "project_hint": "cheryl_ckh",
+        "project_id": 2410,
+        "project_path": "razer/cheryl_ckh"
+      },
+      "revision": "0edc268c5ddf6d3901b1e852d60b036e93aeab1e",
+      "url": "https://dumps.tadiphone.dev/dumps/razer/cheryl_ckh/-/tree/0edc268c5ddf6d3901b1e852d60b036e93aeab1e"
+    },
+    {
+      "item_id": "razer/linus@linus-user-9-P-MR1-RC003-CKH-190305-3110-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "linus-user-9-P-MR1-RC003-CKH-190305-3110-release-keys",
+        "commit": "92b0a66b4abb2e92ff48c8b08f900a607ab5facd",
+        "committed_date": "2019-08-19T11:29:57.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T19:10:10.655Z",
+        "namespace_hint": "razer",
+        "project_hint": "linus",
+        "project_id": 2080,
+        "project_path": "razer/linus"
+      },
+      "revision": "92b0a66b4abb2e92ff48c8b08f900a607ab5facd",
+      "url": "https://dumps.tadiphone.dev/dumps/razer/linus/-/tree/92b0a66b4abb2e92ff48c8b08f900a607ab5facd"
+    },
+    {
+      "item_id": "razer/linus@linus-user-9-P-MR2-RC001-CKH-190914-3118-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "linus-user-9-P-MR2-RC001-CKH-190914-3118-release-keys",
+        "commit": "7dd91e3490d1e4b94f721f130d850c9793201409",
+        "committed_date": "2019-12-23T16:31:39.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T19:10:10.655Z",
+        "namespace_hint": "razer",
+        "project_hint": "linus",
+        "project_id": 2080,
+        "project_path": "razer/linus"
+      },
+      "revision": "7dd91e3490d1e4b94f721f130d850c9793201409",
+      "url": "https://dumps.tadiphone.dev/dumps/razer/linus/-/tree/7dd91e3490d1e4b94f721f130d850c9793201409"
+    },
+    {
+      "item_id": "razer/pearlyn@pearlyn-user-5.1.1-L-LMY47V-rzs-us-sf-bld2-07FO-01.12.PM-52-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "pearlyn-user-5.1.1-L-LMY47V-rzs-us-sf-bld2-07FO-01.12.PM-52-release-keys",
+        "commit": "4f8650d481271465cb154d109bb4c765d7f98bcb",
+        "committed_date": "2020-02-26T18:07:42.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T16:02:21.934Z",
+        "namespace_hint": "razer",
+        "project_hint": "pearlyn",
+        "project_id": 1158,
+        "project_path": "razer/pearlyn"
+      },
+      "revision": "4f8650d481271465cb154d109bb4c765d7f98bcb",
+      "url": "https://dumps.tadiphone.dev/dumps/razer/pearlyn/-/tree/4f8650d481271465cb154d109bb4c765d7f98bcb"
+    },
+    {
+      "item_id": "razer/pearlyn@pearlyn-user-6.0.1-M-MMB29M-rzs-us-sf-bld2-19HP-08.02.AM-144-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "pearlyn-user-6.0.1-M-MMB29M-rzs-us-sf-bld2-19HP-08.02.AM-144-release-keys",
+        "commit": "a2461da123e2962df93c1c6c005caffa3700c56f",
+        "committed_date": "2020-02-26T11:05:58.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T16:02:21.934Z",
+        "namespace_hint": "razer",
+        "project_hint": "pearlyn",
+        "project_id": 1158,
+        "project_path": "razer/pearlyn"
+      },
+      "revision": "a2461da123e2962df93c1c6c005caffa3700c56f",
+      "url": "https://dumps.tadiphone.dev/dumps/razer/pearlyn/-/tree/a2461da123e2962df93c1c6c005caffa3700c56f"
+    },
+    {
+      "item_id": "razer/razer-edge-wifi@qssi-user-12-SKQ1.211103.001-172-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211103.001-172-release-keys",
+        "commit": "fc46ced97a97ead945f9e56cda269f0d777e4f13",
+        "committed_date": "2025-01-14T09:17:57.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-01-14T06:15:29.186Z",
+        "namespace_hint": "razer",
+        "project_hint": "razer-edge-wifi",
+        "project_id": 5547,
+        "project_path": "razer/razer-edge-wifi"
+      },
+      "revision": "fc46ced97a97ead945f9e56cda269f0d777e4f13",
+      "url": "https://dumps.tadiphone.dev/dumps/razer/razer-edge-wifi/-/tree/fc46ced97a97ead945f9e56cda269f0d777e4f13"
+    },
+    {
+      "item_id": "razer/rz45-0460@qssi-user-12-SKQ1.211103.001-155-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211103.001-155-release-keys",
+        "commit": "160aeac5f04eb9c23189374263b547fdfc85543d",
+        "committed_date": "2025-01-14T11:49:26.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-01-14T08:46:40.334Z",
+        "namespace_hint": "razer",
+        "project_hint": "rz45-0460",
+        "project_id": 5549,
+        "project_path": "razer/rz45-0460"
+      },
+      "revision": "160aeac5f04eb9c23189374263b547fdfc85543d",
+      "url": "https://dumps.tadiphone.dev/dumps/razer/rz45-0460/-/tree/160aeac5f04eb9c23189374263b547fdfc85543d"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

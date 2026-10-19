@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "pax/sl8541e_1h10_go@sl8541e_1h10_gofu_osll-user-8.1.0-SPRD-1.48_20230513-180448-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sl8541e_1h10_gofu_osll-user-8.1.0-SPRD-1.48_20230513-180448-release-keys",
+        "commit": "fd63534216bcbb88c9e27fa24ef733ce80b9269d",
+        "committed_date": "2025-08-27T03:23:53.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-08-27T00:23:10.487Z",
+        "namespace_hint": "pax",
+        "project_hint": "sl8541e_1h10_go",
+        "project_id": 5681,
+        "project_path": "pax/sl8541e_1h10_go"
+      },
+      "revision": "fd63534216bcbb88c9e27fa24ef733ce80b9269d",
+      "url": "https://dumps.tadiphone.dev/dumps/pax/sl8541e_1h10_go/-/tree/fd63534216bcbb88c9e27fa24ef733ce80b9269d"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

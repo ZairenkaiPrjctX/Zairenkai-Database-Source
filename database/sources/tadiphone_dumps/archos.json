@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "archos/ac57as4g@SCAC57AS4G-user-8.1.0-O21019-1533785009-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "SCAC57AS4G-user-8.1.0-O21019-1533785009-release-keys",
+        "commit": "aad806058671a7a6160416fd61d37360ca51a287",
+        "committed_date": "2019-11-12T21:52:43.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T21:19:16.930Z",
+        "namespace_hint": "archos",
+        "project_hint": "ac57as4g",
+        "project_id": 1316,
+        "project_path": "archos/ac57as4g"
+      },
+      "revision": "aad806058671a7a6160416fd61d37360ca51a287",
+      "url": "https://dumps.tadiphone.dev/dumps/archos/ac57as4g/-/tree/aad806058671a7a6160416fd61d37360ca51a287"
+    },
+    {
+      "item_id": "archos/ac70dti@MTKAC70DTI-user-7.0-NRD90M-20170602.033254-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "MTKAC70DTI-user-7.0-NRD90M-20170602.033254-release-keys",
+        "commit": "554e5e70aabd921c8e529a642f347a3605eeea08",
+        "committed_date": "2021-07-02T02:46:09.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T00:24:48.370Z",
+        "namespace_hint": "archos",
+        "project_hint": "ac70dti",
+        "project_id": 27,
+        "project_path": "archos/ac70dti"
+      },
+      "revision": "554e5e70aabd921c8e529a642f347a3605eeea08",
+      "url": "https://dumps.tadiphone.dev/dumps/archos/ac70dti/-/tree/554e5e70aabd921c8e529a642f347a3605eeea08"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

@@ -1,0 +1,60 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "zuk/z2_plus@z2_plus-user-7.0-NRD90M-2.5.334_170116-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "z2_plus-user-7.0-NRD90M-2.5.334_170116-release-keys",
+        "commit": "26c5ff02188e0fdad2a2b8a11f0555da1d3215e3",
+        "committed_date": "2023-11-28T23:33:18.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-11-28T20:36:55.948Z",
+        "namespace_hint": "zuk",
+        "project_hint": "z2_plus",
+        "project_id": 2385,
+        "project_path": "zuk/z2_plus"
+      },
+      "revision": "26c5ff02188e0fdad2a2b8a11f0555da1d3215e3",
+      "url": "https://dumps.tadiphone.dev/dumps/zuk/z2_plus/-/tree/26c5ff02188e0fdad2a2b8a11f0555da1d3215e3"
+    },
+    {
+      "item_id": "zuk/z2_plus@z2_plus-user-8.0.0-OPR1.170623.032-4.0.199_181018-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "z2_plus-user-8.0.0-OPR1.170623.032-4.0.199_181018-release-keys",
+        "commit": "0e3900c082212bf9ee37a750c39b91d402d30f11",
+        "committed_date": "2022-08-05T17:21:05.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-11-28T20:36:55.948Z",
+        "namespace_hint": "zuk",
+        "project_hint": "z2_plus",
+        "project_id": 2385,
+        "project_path": "zuk/z2_plus"
+      },
+      "revision": "0e3900c082212bf9ee37a750c39b91d402d30f11",
+      "url": "https://dumps.tadiphone.dev/dumps/zuk/z2_plus/-/tree/0e3900c082212bf9ee37a750c39b91d402d30f11"
+    },
+    {
+      "item_id": "zuk/z2_plus_hw@z2_plus_hw-user-6.0.1-MMB29M-2.0.093_160811-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "z2_plus_hw-user-6.0.1-MMB29M-2.0.093_160811-release-keys",
+        "commit": "edf70af69b9eef77a1e7f4a87984bcfed1bc43de",
+        "committed_date": "2022-03-09T12:37:15.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T02:18:49.805Z",
+        "namespace_hint": "zuk",
+        "project_hint": "z2_plus_hw",
+        "project_id": 860,
+        "project_path": "zuk/z2_plus_hw"
+      },
+      "revision": "edf70af69b9eef77a1e7f4a87984bcfed1bc43de",
+      "url": "https://dumps.tadiphone.dev/dumps/zuk/z2_plus_hw/-/tree/edf70af69b9eef77a1e7f4a87984bcfed1bc43de"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

@@ -1,0 +1,60 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "sonyaudio/icx1293@icx1293_002-user-9-4.06.00-316-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "icx1293_002-user-9-4.06.00-316-release-keys",
+        "commit": "580dd8c5ab350afdf25f17c484e5ed80c2af8cae",
+        "committed_date": "2024-08-03T15:03:58.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-08-03T12:02:43.280Z",
+        "namespace_hint": "sonyaudio",
+        "project_hint": "icx1293",
+        "project_id": 5364,
+        "project_path": "sonyaudio/icx1293"
+      },
+      "revision": "580dd8c5ab350afdf25f17c484e5ed80c2af8cae",
+      "url": "https://dumps.tadiphone.dev/dumps/sonyaudio/icx1293/-/tree/580dd8c5ab350afdf25f17c484e5ed80c2af8cae"
+    },
+    {
+      "item_id": "sonyaudio/icx1295@icx1295_002-user-9-4.06.00-316-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "icx1295_002-user-9-4.06.00-316-release-keys",
+        "commit": "c1d6f8c916fcc980a452be14339ef2c1ba4587bd",
+        "committed_date": "2024-08-03T14:53:27.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-08-03T11:52:10.159Z",
+        "namespace_hint": "sonyaudio",
+        "project_hint": "icx1295",
+        "project_id": 5363,
+        "project_path": "sonyaudio/icx1295"
+      },
+      "revision": "c1d6f8c916fcc980a452be14339ef2c1ba4587bd",
+      "url": "https://dumps.tadiphone.dev/dumps/sonyaudio/icx1295/-/tree/c1d6f8c916fcc980a452be14339ef2c1ba4587bd"
+    },
+    {
+      "item_id": "sonyaudio/icx1295@icx1295_005-user-9-4.04.00-308-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "icx1295_005-user-9-4.04.00-308-release-keys",
+        "commit": "ad78836523a61ea4a952a84a7dfac7ef330d94bf",
+        "committed_date": "2024-08-03T15:12:13.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-08-03T11:52:10.159Z",
+        "namespace_hint": "sonyaudio",
+        "project_hint": "icx1295",
+        "project_id": 5363,
+        "project_path": "sonyaudio/icx1295"
+      },
+      "revision": "ad78836523a61ea4a952a84a7dfac7ef330d94bf",
+      "url": "https://dumps.tadiphone.dev/dumps/sonyaudio/icx1295/-/tree/ad78836523a61ea4a952a84a7dfac7ef330d94bf"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

@@ -1,0 +1,60 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "yandex/amber@yphone-user-8.1.0-8710.1.A.0041.20181119-11190039-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "yphone-user-8.1.0-8710.1.A.0041.20181119-11190039-release-keys",
+        "commit": "25e101212adca2a390e5eafb78273deb34f58d1e",
+        "committed_date": "2019-08-16T15:09:02.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T10:02:31.546Z",
+        "namespace_hint": "yandex",
+        "project_hint": "amber",
+        "project_id": 1688,
+        "project_path": "yandex/amber"
+      },
+      "revision": "25e101212adca2a390e5eafb78273deb34f58d1e",
+      "url": "https://dumps.tadiphone.dev/dumps/yandex/amber/-/tree/25e101212adca2a390e5eafb78273deb34f58d1e"
+    },
+    {
+      "item_id": "yandex/amber@yphone-user-8.1.0-8710.1.A.0045.20181206-12061600-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "yphone-user-8.1.0-8710.1.A.0045.20181206-12061600-release-keys",
+        "commit": "c32fc7079c6249e4444fe0b9d78be59d8e8817e3",
+        "committed_date": "2019-11-17T03:39:43.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T10:02:31.546Z",
+        "namespace_hint": "yandex",
+        "project_hint": "amber",
+        "project_id": 1688,
+        "project_path": "yandex/amber"
+      },
+      "revision": "c32fc7079c6249e4444fe0b9d78be59d8e8817e3",
+      "url": "https://dumps.tadiphone.dev/dumps/yandex/amber/-/tree/c32fc7079c6249e4444fe0b9d78be59d8e8817e3"
+    },
+    {
+      "item_id": "yandex/amber@yphone-user-8.1.0-8710.1.A.0063.20190415-04150906-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "yphone-user-8.1.0-8710.1.A.0063.20190415-04150906-release-keys",
+        "commit": "a4fea8a544f36b0e79a6773520951253dc781176",
+        "committed_date": "2019-08-16T14:58:08.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T10:02:31.546Z",
+        "namespace_hint": "yandex",
+        "project_hint": "amber",
+        "project_id": 1688,
+        "project_path": "yandex/amber"
+      },
+      "revision": "a4fea8a544f36b0e79a6773520951253dc781176",
+      "url": "https://dumps.tadiphone.dev/dumps/yandex/amber/-/tree/a4fea8a544f36b0e79a6773520951253dc781176"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

@@ -1,0 +1,1641 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "meizu/15@meizu_15-user-7.1.1-NGI77B-1530694553-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_15-user-7.1.1-NGI77B-1530694553-release-keys",
+        "commit": "d81325db7506202ef464a6300f885d355834a278",
+        "committed_date": "2019-11-08T07:34:40.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T00:21:45.804Z",
+        "namespace_hint": "meizu",
+        "project_hint": "15",
+        "project_id": 830,
+        "project_path": "meizu/15"
+      },
+      "revision": "d81325db7506202ef464a6300f885d355834a278",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/15/-/tree/d81325db7506202ef464a6300f885d355834a278"
+    },
+    {
+      "item_id": "meizu/15@meizu_15_CN-user-7.1.1-NGI77B-1523428748-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_15_CN-user-7.1.1-NGI77B-1523428748-release-keys",
+        "commit": "475483a10761ab888a582fc9e4436373aa74e1a4",
+        "committed_date": "2018-05-26T17:59:39.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T00:21:45.804Z",
+        "namespace_hint": "meizu",
+        "project_hint": "15",
+        "project_id": 830,
+        "project_path": "meizu/15"
+      },
+      "revision": "475483a10761ab888a582fc9e4436373aa74e1a4",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/15/-/tree/475483a10761ab888a582fc9e4436373aa74e1a4"
+    },
+    {
+      "item_id": "meizu/15@meizu_15_CN-user-7.1.1-NGI77B-1527661986-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_15_CN-user-7.1.1-NGI77B-1527661986-release-keys",
+        "commit": "e39b196726f239e3e4ddd2842822a33cb22c335e",
+        "committed_date": "2018-07-27T21:16:36.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T00:21:45.804Z",
+        "namespace_hint": "meizu",
+        "project_hint": "15",
+        "project_id": 830,
+        "project_path": "meizu/15"
+      },
+      "revision": "e39b196726f239e3e4ddd2842822a33cb22c335e",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/15/-/tree/e39b196726f239e3e4ddd2842822a33cb22c335e"
+    },
+    {
+      "item_id": "meizu/15@meizu_15_CN-user-7.1.1-NGI77B-1555472313-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_15_CN-user-7.1.1-NGI77B-1555472313-release-keys",
+        "commit": "95a9ae33655b142c0f34e84790a1caf4b998d39a",
+        "committed_date": "2019-09-02T23:09:59.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T00:21:45.804Z",
+        "namespace_hint": "meizu",
+        "project_hint": "15",
+        "project_id": 830,
+        "project_path": "meizu/15"
+      },
+      "revision": "95a9ae33655b142c0f34e84790a1caf4b998d39a",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/15/-/tree/95a9ae33655b142c0f34e84790a1caf4b998d39a"
+    },
+    {
+      "item_id": "meizu/15@meizu_15_CN-user-7.1.1-NGI77B-1569405428-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_15_CN-user-7.1.1-NGI77B-1569405428-release-keys",
+        "commit": "e90fc1c0a4df2a50d18bf6e7cb412654d8c5f8b7",
+        "committed_date": "2019-11-08T07:55:07.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T00:21:45.804Z",
+        "namespace_hint": "meizu",
+        "project_hint": "15",
+        "project_id": 830,
+        "project_path": "meizu/15"
+      },
+      "revision": "e90fc1c0a4df2a50d18bf6e7cb412654d8c5f8b7",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/15/-/tree/e90fc1c0a4df2a50d18bf6e7cb412654d8c5f8b7"
+    },
+    {
+      "item_id": "meizu/15plus@Meizu_15Plus_CN-user-7.0-NRD90M-1523520245-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Meizu_15Plus_CN-user-7.0-NRD90M-1523520245-release-keys",
+        "commit": "a141caa6a13a5cddfbb0a44e00e273df946711b2",
+        "committed_date": "2018-05-26T22:48:21.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T23:46:03.420Z",
+        "namespace_hint": "meizu",
+        "project_hint": "15plus",
+        "project_id": 2236,
+        "project_path": "meizu/15plus"
+      },
+      "revision": "a141caa6a13a5cddfbb0a44e00e273df946711b2",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/15plus/-/tree/a141caa6a13a5cddfbb0a44e00e273df946711b2"
+    },
+    {
+      "item_id": "meizu/16s@meizu_16s-user-9-PKQ1.190202.001-1558508547-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_16s-user-9-PKQ1.190202.001-1558508547-release-keys",
+        "commit": "da5450833c77bca4361c80d066a6d87233ae0e6e",
+        "committed_date": "2019-09-13T10:12:59.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T18:17:42.209Z",
+        "namespace_hint": "meizu",
+        "project_hint": "16s",
+        "project_id": 2024,
+        "project_path": "meizu/16s"
+      },
+      "revision": "da5450833c77bca4361c80d066a6d87233ae0e6e",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/16s/-/tree/da5450833c77bca4361c80d066a6d87233ae0e6e"
+    },
+    {
+      "item_id": "meizu/16s@meizu_16s_CN-user-9-PKQ1.190202.001-1560752082-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_16s_CN-user-9-PKQ1.190202.001-1560752082-release-keys",
+        "commit": "9c64afbe39817abf8b9939719d47beb185f957df",
+        "committed_date": "2019-11-08T08:17:53.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T18:17:42.209Z",
+        "namespace_hint": "meizu",
+        "project_hint": "16s",
+        "project_id": 2024,
+        "project_path": "meizu/16s"
+      },
+      "revision": "9c64afbe39817abf8b9939719d47beb185f957df",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/16s/-/tree/9c64afbe39817abf8b9939719d47beb185f957df"
+    },
+    {
+      "item_id": "meizu/16s@meizu_16s_CN-user-9-PKQ1.190202.001-1565061542-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_16s_CN-user-9-PKQ1.190202.001-1565061542-release-keys",
+        "commit": "30cee50ddcf176bdcac05077e6e1bffb0c8f7058",
+        "committed_date": "2019-10-13T17:41:01.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T18:17:42.209Z",
+        "namespace_hint": "meizu",
+        "project_hint": "16s",
+        "project_id": 2024,
+        "project_path": "meizu/16s"
+      },
+      "revision": "30cee50ddcf176bdcac05077e6e1bffb0c8f7058",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/16s/-/tree/30cee50ddcf176bdcac05077e6e1bffb0c8f7058"
+    },
+    {
+      "item_id": "meizu/16s@meizu_16s_CN-user-9-PKQ1.190202.001-1572418626-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_16s_CN-user-9-PKQ1.190202.001-1572418626-release-keys",
+        "commit": "dbd77a532b4d86b2fe57061aa49daf9a1441eafb",
+        "committed_date": "2020-01-07T21:48:26.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T18:17:42.209Z",
+        "namespace_hint": "meizu",
+        "project_hint": "16s",
+        "project_id": 2024,
+        "project_path": "meizu/16s"
+      },
+      "revision": "dbd77a532b4d86b2fe57061aa49daf9a1441eafb",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/16s/-/tree/dbd77a532b4d86b2fe57061aa49daf9a1441eafb"
+    },
+    {
+      "item_id": "meizu/16th@meizu_16th_CN-user-8.1.0-OPM1.171019.026-1533779885-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_16th_CN-user-8.1.0-OPM1.171019.026-1533779885-release-keys",
+        "commit": "43b4fa94f6db59c62862f74a3b4570d2e5cc590c",
+        "committed_date": "2018-09-05T23:21:54.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T10:20:33.632Z",
+        "namespace_hint": "meizu",
+        "project_hint": "16th",
+        "project_id": 1711,
+        "project_path": "meizu/16th"
+      },
+      "revision": "43b4fa94f6db59c62862f74a3b4570d2e5cc590c",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/16th/-/tree/43b4fa94f6db59c62862f74a3b4570d2e5cc590c"
+    },
+    {
+      "item_id": "meizu/16th@meizu_16th_CN-user-8.1.0-OPM1.171019.026-1554749207-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_16th_CN-user-8.1.0-OPM1.171019.026-1554749207-release-keys",
+        "commit": "2e6f2ab772a4fd41067d458b686db343b7203599",
+        "committed_date": "2019-08-30T11:14:48.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T10:20:33.632Z",
+        "namespace_hint": "meizu",
+        "project_hint": "16th",
+        "project_id": 1711,
+        "project_path": "meizu/16th"
+      },
+      "revision": "2e6f2ab772a4fd41067d458b686db343b7203599",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/16th/-/tree/2e6f2ab772a4fd41067d458b686db343b7203599"
+    },
+    {
+      "item_id": "meizu/16th@meizu_16th_CN-user-8.1.0-OPM1.171019.026-1572332128-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_16th_CN-user-8.1.0-OPM1.171019.026-1572332128-release-keys",
+        "commit": "c30ae1914b539aaa2387684dc9b3ea778445eb14",
+        "committed_date": "2020-01-07T22:07:55.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T10:20:33.632Z",
+        "namespace_hint": "meizu",
+        "project_hint": "16th",
+        "project_id": 1711,
+        "project_path": "meizu/16th"
+      },
+      "revision": "c30ae1914b539aaa2387684dc9b3ea778445eb14",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/16th/-/tree/c30ae1914b539aaa2387684dc9b3ea778445eb14"
+    },
+    {
+      "item_id": "meizu/16th@qssi-user-10-QKQ1.191222.002-1587117718-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.191222.002-1587117718-release-keys",
+        "commit": "4aa1d20fb95d7baf346f2e77fc61a017fdcb6e94",
+        "committed_date": "2020-07-24T23:22:27.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T10:20:33.632Z",
+        "namespace_hint": "meizu",
+        "project_hint": "16th",
+        "project_id": 1711,
+        "project_path": "meizu/16th"
+      },
+      "revision": "4aa1d20fb95d7baf346f2e77fc61a017fdcb6e94",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/16th/-/tree/4aa1d20fb95d7baf346f2e77fc61a017fdcb6e94"
+    },
+    {
+      "item_id": "meizu/16thplus@meizu_16thPlus_CN-user-8.1.0-OPM1.171019.026-1533779901-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_16thPlus_CN-user-8.1.0-OPM1.171019.026-1533779901-release-keys",
+        "commit": "0257b205c66c8d84b5a1146d57ad6827982ac60d",
+        "committed_date": "2018-09-05T22:52:00.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T01:31:43.585Z",
+        "namespace_hint": "meizu",
+        "project_hint": "16thplus",
+        "project_id": 2294,
+        "project_path": "meizu/16thplus"
+      },
+      "revision": "0257b205c66c8d84b5a1146d57ad6827982ac60d",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/16thplus/-/tree/0257b205c66c8d84b5a1146d57ad6827982ac60d"
+    },
+    {
+      "item_id": "meizu/16thplus@meizu_16thPlus_CN-user-8.1.0-OPM1.171019.026-1572924246-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_16thPlus_CN-user-8.1.0-OPM1.171019.026-1572924246-release-keys",
+        "commit": "5eb4f8169d8c4d2309446975f15fb8b7380994d2",
+        "committed_date": "2020-01-07T21:49:29.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-17T01:31:43.585Z",
+        "namespace_hint": "meizu",
+        "project_hint": "16thplus",
+        "project_id": 2294,
+        "project_path": "meizu/16thplus"
+      },
+      "revision": "5eb4f8169d8c4d2309446975f15fb8b7380994d2",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/16thplus/-/tree/5eb4f8169d8c4d2309446975f15fb8b7380994d2"
+    },
+    {
+      "item_id": "meizu/16x@meizu_16X_CN-user-8.1.0-OPM1.171019.026-1572938190-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_16X_CN-user-8.1.0-OPM1.171019.026-1572938190-release-keys",
+        "commit": "c34b8d67984ea0b67ad10bdc083f98e1f4a96873",
+        "committed_date": "2019-12-24T15:41:33.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T18:14:44.416Z",
+        "namespace_hint": "meizu",
+        "project_hint": "16x",
+        "project_id": 2022,
+        "project_path": "meizu/16x"
+      },
+      "revision": "c34b8d67984ea0b67ad10bdc083f98e1f4a96873",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/16x/-/tree/c34b8d67984ea0b67ad10bdc083f98e1f4a96873"
+    },
+    {
+      "item_id": "meizu/16x@qssi-user-10-QKQ1.191222.002-1592241852-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.191222.002-1592241852-release-keys",
+        "commit": "a893658ebe952b52fb210dab7b70c8e3a5533057",
+        "committed_date": "2021-05-02T23:11:12.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T18:14:44.416Z",
+        "namespace_hint": "meizu",
+        "project_hint": "16x",
+        "project_id": 2022,
+        "project_path": "meizu/16x"
+      },
+      "revision": "a893658ebe952b52fb210dab7b70c8e3a5533057",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/16x/-/tree/a893658ebe952b52fb210dab7b70c8e3a5533057"
+    },
+    {
+      "item_id": "meizu/a8@A8-userdebug-4.4.2-KVT49L-20180726-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "A8-userdebug-4.4.2-KVT49L-20180726-test-keys",
+        "commit": "6d697885b5a4958eac11ee2e936b79eaff71d097",
+        "committed_date": "2020-08-14T15:16:30.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T12:57:18.944Z",
+        "namespace_hint": "meizu",
+        "project_hint": "a8",
+        "project_id": 1008,
+        "project_path": "meizu/a8"
+      },
+      "revision": "6d697885b5a4958eac11ee2e936b79eaff71d097",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/a8/-/tree/6d697885b5a4958eac11ee2e936b79eaff71d097"
+    },
+    {
+      "item_id": "meizu/m15@Meizu_M15_CN-user-7.1.2-N2G47H-1555439922-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Meizu_M15_CN-user-7.1.2-N2G47H-1555439922-release-keys",
+        "commit": "69c60f5ce0c1e34deb8448b3259885f3fc478558",
+        "committed_date": "2019-11-09T11:00:19.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T14:01:54.122Z",
+        "namespace_hint": "meizu",
+        "project_hint": "m15",
+        "project_id": 1812,
+        "project_path": "meizu/m15"
+      },
+      "revision": "69c60f5ce0c1e34deb8448b3259885f3fc478558",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/m15/-/tree/69c60f5ce0c1e34deb8448b3259885f3fc478558"
+    },
+    {
+      "item_id": "meizu/m1822@meizu_M1822_CN-user-8.1.0-OPM1.171019.026-1574132388-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_M1822_CN-user-8.1.0-OPM1.171019.026-1574132388-release-keys",
+        "commit": "441a5cee538794189ca748183c0394f523d93efb",
+        "committed_date": "2020-01-07T21:53:55.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T01:41:49.924Z",
+        "namespace_hint": "meizu",
+        "project_hint": "m1822",
+        "project_id": 2304,
+        "project_path": "meizu/m1822"
+      },
+      "revision": "441a5cee538794189ca748183c0394f523d93efb",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/m1822/-/tree/441a5cee538794189ca748183c0394f523d93efb"
+    },
+    {
+      "item_id": "meizu/m1852@meizu_M1852_CN-user-8.1.0-OPM1.171019.026-1575272080-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_M1852_CN-user-8.1.0-OPM1.171019.026-1575272080-release-keys",
+        "commit": "9bba0cb6481735f58e51735f97765cdc33d464e1",
+        "committed_date": "2020-01-07T22:15:23.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T13:38:45.396Z",
+        "namespace_hint": "meizu",
+        "project_hint": "m1852",
+        "project_id": 1044,
+        "project_path": "meizu/m1852"
+      },
+      "revision": "9bba0cb6481735f58e51735f97765cdc33d464e1",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/m1852/-/tree/9bba0cb6481735f58e51735f97765cdc33d464e1"
+    },
+    {
+      "item_id": "meizu/m1e@meizu_M1E-user-6.0-MRA58K-1482289808-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_M1E-user-6.0-MRA58K-1482289808-release-keys",
+        "commit": "c0a6045087a0b04c5e93a1d15895ec8de2a87818",
+        "committed_date": "2022-03-09T16:47:18.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T19:43:49.424Z",
+        "namespace_hint": "meizu",
+        "project_hint": "m1e",
+        "project_id": 778,
+        "project_path": "meizu/m1e"
+      },
+      "revision": "c0a6045087a0b04c5e93a1d15895ec8de2a87818",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/m1e/-/tree/c0a6045087a0b04c5e93a1d15895ec8de2a87818"
+    },
+    {
+      "item_id": "meizu/m2481@qssi_64-userdebug-14-UKQ1.230917.001-1706070675-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-userdebug-14-UKQ1.230917.001-1706070675-test-keys",
+        "commit": "a0790fcc0f15197737b79d59ab411819ed265188",
+        "committed_date": "2024-08-10T12:25:39.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-08-10T09:19:50.266Z",
+        "namespace_hint": "meizu",
+        "project_hint": "m2481",
+        "project_id": 5376,
+        "project_path": "meizu/m2481"
+      },
+      "revision": "a0790fcc0f15197737b79d59ab411819ed265188",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/m2481/-/tree/a0790fcc0f15197737b79d59ab411819ed265188"
+    },
+    {
+      "item_id": "meizu/m2@meizu_m2-user-5.1-LMY47D-1552275154-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_m2-user-5.1-LMY47D-1552275154-release-keys",
+        "commit": "d27d444f86c70fff7a73d28fb4c4900c1b80ca7d",
+        "committed_date": "2019-11-08T07:15:21.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T23:39:16.187Z",
+        "namespace_hint": "meizu",
+        "project_hint": "m2",
+        "project_id": 2225,
+        "project_path": "meizu/m2"
+      },
+      "revision": "d27d444f86c70fff7a73d28fb4c4900c1b80ca7d",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/m2/-/tree/d27d444f86c70fff7a73d28fb4c4900c1b80ca7d"
+    },
+    {
+      "item_id": "meizu/m2note@meizu_m2note-user-5.1-LMY47D-1555411023-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_m2note-user-5.1-LMY47D-1555411023-release-keys",
+        "commit": "e1d07dd1bffffac6b3a41a295e44f213454a697a",
+        "committed_date": "2022-07-10T09:48:41.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-07-10T06:47:57.954Z",
+        "namespace_hint": "meizu",
+        "project_hint": "m2note",
+        "project_id": 2351,
+        "project_path": "meizu/m2note"
+      },
+      "revision": "e1d07dd1bffffac6b3a41a295e44f213454a697a",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/m2note/-/tree/e1d07dd1bffffac6b3a41a295e44f213454a697a"
+    },
+    {
+      "item_id": "meizu/m3max@meizu_M3Max-user-6.0-MRA58K-1477625270-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_M3Max-user-6.0-MRA58K-1477625270-release-keys",
+        "commit": "81565101e7c855a46bdd6422daee55048eb653f1",
+        "committed_date": "2022-03-09T17:11:46.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T04:14:55.443Z",
+        "namespace_hint": "meizu",
+        "project_hint": "m3max",
+        "project_id": 892,
+        "project_path": "meizu/m3max"
+      },
+      "revision": "81565101e7c855a46bdd6422daee55048eb653f1",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/m3max/-/tree/81565101e7c855a46bdd6422daee55048eb653f1"
+    },
+    {
+      "item_id": "meizu/m5note@M1621-user-6.0-MRA58K-1490176951-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "M1621-user-6.0-MRA58K-1490176951-release-keys",
+        "commit": "44014f2c4fe8dc4113d84da892cc48130ea95163",
+        "committed_date": "2022-03-09T16:21:00.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T06:18:10.600Z",
+        "namespace_hint": "meizu",
+        "project_hint": "m5note",
+        "project_id": 913,
+        "project_path": "meizu/m5note"
+      },
+      "revision": "44014f2c4fe8dc4113d84da892cc48130ea95163",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/m5note/-/tree/44014f2c4fe8dc4113d84da892cc48130ea95163"
+    },
+    {
+      "item_id": "meizu/meizu16spro@meizu_16sPro_CN-user-9-PKQ1.190616.001-1564630973-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_16sPro_CN-user-9-PKQ1.190616.001-1564630973-release-keys",
+        "commit": "7a34188795b38676063589705f8c58c8ddc8cdde",
+        "committed_date": "2019-10-07T20:52:01.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T01:45:59.997Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu16spro",
+        "project_id": 2310,
+        "project_path": "meizu/meizu16spro"
+      },
+      "revision": "7a34188795b38676063589705f8c58c8ddc8cdde",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu16spro/-/tree/7a34188795b38676063589705f8c58c8ddc8cdde"
+    },
+    {
+      "item_id": "meizu/meizu16spro@meizu_16sPro_CN-user-9-PKQ1.190616.001-1572446663-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_16sPro_CN-user-9-PKQ1.190616.001-1572446663-release-keys",
+        "commit": "ec3ae0a600dcd236ea525ba982724eee89081f48",
+        "committed_date": "2019-11-12T09:22:00.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-17T01:45:59.997Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu16spro",
+        "project_id": 2310,
+        "project_path": "meizu/meizu16spro"
+      },
+      "revision": "ec3ae0a600dcd236ea525ba982724eee89081f48",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu16spro/-/tree/ec3ae0a600dcd236ea525ba982724eee89081f48"
+    },
+    {
+      "item_id": "meizu/meizu16spro@qssi-user-10-QKQ1.191222.002-1624931394-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.191222.002-1624931394-release-keys",
+        "commit": "1fbc62f0b332966a6c37d8a7ae00823f1e363c42",
+        "committed_date": "2021-08-20T08:45:06.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-17T01:45:59.997Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu16spro",
+        "project_id": 2310,
+        "project_path": "meizu/meizu16spro"
+      },
+      "revision": "1fbc62f0b332966a6c37d8a7ae00823f1e363c42",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu16spro/-/tree/1fbc62f0b332966a6c37d8a7ae00823f1e363c42"
+    },
+    {
+      "item_id": "meizu/meizu16t@meizu_16T_CN-user-9-PKQ1.190616.001-1568972225-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_16T_CN-user-9-PKQ1.190616.001-1568972225-release-keys",
+        "commit": "a825bf6fd7cddcdee13f146647b7061169d352a0",
+        "committed_date": "2019-11-08T08:08:42.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T19:37:11.839Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu16t",
+        "project_id": 2094,
+        "project_path": "meizu/meizu16t"
+      },
+      "revision": "a825bf6fd7cddcdee13f146647b7061169d352a0",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu16t/-/tree/a825bf6fd7cddcdee13f146647b7061169d352a0"
+    },
+    {
+      "item_id": "meizu/meizu16t@meizu_16T_CN-user-9-PKQ1.190616.001-1578911086-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_16T_CN-user-9-PKQ1.190616.001-1578911086-release-keys",
+        "commit": "56ad86f4b17f371fd5af64a94add4af8bd88462f",
+        "committed_date": "2020-04-01T03:07:26.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T19:37:11.839Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu16t",
+        "project_id": 2094,
+        "project_path": "meizu/meizu16t"
+      },
+      "revision": "56ad86f4b17f371fd5af64a94add4af8bd88462f",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu16t/-/tree/56ad86f4b17f371fd5af64a94add4af8bd88462f"
+    },
+    {
+      "item_id": "meizu/meizu16xs@meizu_16Xs-user-9-PKQ1.190302.001-1560830588-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_16Xs-user-9-PKQ1.190302.001-1560830588-release-keys",
+        "commit": "84e96400aa10f03ca376af2f7318098e96a3ea5a",
+        "committed_date": "2019-11-08T07:32:56.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T23:20:15.512Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu16xs",
+        "project_id": 1386,
+        "project_path": "meizu/meizu16xs"
+      },
+      "revision": "84e96400aa10f03ca376af2f7318098e96a3ea5a",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu16xs/-/tree/84e96400aa10f03ca376af2f7318098e96a3ea5a"
+    },
+    {
+      "item_id": "meizu/meizu16xs@meizu_16Xs_CN-user-9-PKQ1.190302.001-1557466325-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_16Xs_CN-user-9-PKQ1.190302.001-1557466325-release-keys",
+        "commit": "d772bf43d698660b3f4135b88d4e826a51c3150b",
+        "committed_date": "2019-06-28T23:17:51.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T23:20:15.512Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu16xs",
+        "project_id": 1386,
+        "project_path": "meizu/meizu16xs"
+      },
+      "revision": "d772bf43d698660b3f4135b88d4e826a51c3150b",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu16xs/-/tree/d772bf43d698660b3f4135b88d4e826a51c3150b"
+    },
+    {
+      "item_id": "meizu/meizu16xs@meizu_16Xs_CN-user-9-PKQ1.190302.001-1565243374-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_16Xs_CN-user-9-PKQ1.190302.001-1565243374-release-keys",
+        "commit": "e9abddca9b7bf66bc1bd9c4bdc7ae5490d292f43",
+        "committed_date": "2019-10-12T09:57:29.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T23:20:15.512Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu16xs",
+        "project_id": 1386,
+        "project_path": "meizu/meizu16xs"
+      },
+      "revision": "e9abddca9b7bf66bc1bd9c4bdc7ae5490d292f43",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu16xs/-/tree/e9abddca9b7bf66bc1bd9c4bdc7ae5490d292f43"
+    },
+    {
+      "item_id": "meizu/meizu16xs@meizu_16Xs_CN-user-9-PKQ1.190302.001-1573695900-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_16Xs_CN-user-9-PKQ1.190302.001-1573695900-release-keys",
+        "commit": "1a303781b73bd5d0145983d3a0716189eedb8295",
+        "committed_date": "2020-01-07T21:47:49.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T23:20:15.512Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu16xs",
+        "project_id": 1386,
+        "project_path": "meizu/meizu16xs"
+      },
+      "revision": "1a303781b73bd5d0145983d3a0716189eedb8295",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu16xs/-/tree/1a303781b73bd5d0145983d3a0716189eedb8295"
+    },
+    {
+      "item_id": "meizu/meizu17@qssi-user-10-QKQ1.200223.002-1605678843-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.200223.002-1605678843-release-keys",
+        "commit": "b6d77a2754b5ef8e25896a45c1ae73df49c109de",
+        "committed_date": "2021-03-04T14:24:41.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T08:02:24.432Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu17",
+        "project_id": 1587,
+        "project_path": "meizu/meizu17"
+      },
+      "revision": "b6d77a2754b5ef8e25896a45c1ae73df49c109de",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu17/-/tree/b6d77a2754b5ef8e25896a45c1ae73df49c109de"
+    },
+    {
+      "item_id": "meizu/meizu17@qssi-user-10-QKQ1.200223.002-1611672362-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.200223.002-1611672362-release-keys",
+        "commit": "753604876df14ff9b7030ddb398024cb0ed77b14",
+        "committed_date": "2021-08-20T09:43:41.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:02:24.432Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu17",
+        "project_id": 1587,
+        "project_path": "meizu/meizu17"
+      },
+      "revision": "753604876df14ff9b7030ddb398024cb0ed77b14",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu17/-/tree/753604876df14ff9b7030ddb398024cb0ed77b14"
+    },
+    {
+      "item_id": "meizu/meizu17@qssi-user-11-QKQ1.200223.002-1616440705-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-QKQ1.200223.002-1616440705-release-keys",
+        "commit": "1ba1b9069cd7ca216e6faf0af1b7cda558bfbc65",
+        "committed_date": "2021-04-06T07:30:00.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:02:24.432Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu17",
+        "project_id": 1587,
+        "project_path": "meizu/meizu17"
+      },
+      "revision": "1ba1b9069cd7ca216e6faf0af1b7cda558bfbc65",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu17/-/tree/1ba1b9069cd7ca216e6faf0af1b7cda558bfbc65"
+    },
+    {
+      "item_id": "meizu/meizu17pro@qssi-user-10-QKQ1.200127.002-1605679128-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.200127.002-1605679128-release-keys",
+        "commit": "3d80bdb268804b0ad00efa6a48b381c54d557843",
+        "committed_date": "2021-03-04T14:25:41.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-08-05T08:27:46.402Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu17pro",
+        "project_id": 1706,
+        "project_path": "meizu/meizu17pro"
+      },
+      "revision": "3d80bdb268804b0ad00efa6a48b381c54d557843",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu17pro/-/tree/3d80bdb268804b0ad00efa6a48b381c54d557843"
+    },
+    {
+      "item_id": "meizu/meizu17pro@qssi-user-10-QKQ1.200127.002-1611672362-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.200127.002-1611672362-release-keys",
+        "commit": "edf23971bb2feab4ebf631ff138b1d4ba876609a",
+        "committed_date": "2021-08-20T09:29:44.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-08-05T08:27:46.402Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu17pro",
+        "project_id": 1706,
+        "project_path": "meizu/meizu17pro"
+      },
+      "revision": "edf23971bb2feab4ebf631ff138b1d4ba876609a",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu17pro/-/tree/edf23971bb2feab4ebf631ff138b1d4ba876609a"
+    },
+    {
+      "item_id": "meizu/meizu17pro@qssi-user-13-TKQ1.221114.001-1686084544-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.221114.001-1686084544-release-keys",
+        "commit": "2d111a7d23e821bd9a15513f180aa9decba9a83f",
+        "committed_date": "2023-08-05T11:19:54.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-08-05T08:27:46.402Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu17pro",
+        "project_id": 1706,
+        "project_path": "meizu/meizu17pro"
+      },
+      "revision": "2d111a7d23e821bd9a15513f180aa9decba9a83f",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu17pro/-/tree/2d111a7d23e821bd9a15513f180aa9decba9a83f"
+    },
+    {
+      "item_id": "meizu/meizu18@qssi-user-11-RKQ1.201105.002-1607588916-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201105.002-1607588916-release-keys",
+        "commit": "40237e67a642a106805a8e06d12aeb2c9361efb4",
+        "committed_date": "2021-03-08T13:04:36.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2024-01-26T14:29:08.634Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu18",
+        "project_id": 1418,
+        "project_path": "meizu/meizu18"
+      },
+      "revision": "40237e67a642a106805a8e06d12aeb2c9361efb4",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu18/-/tree/40237e67a642a106805a8e06d12aeb2c9361efb4"
+    },
+    {
+      "item_id": "meizu/meizu18@qssi-user-11-RKQ1.201105.002-1620783132-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201105.002-1620783132-release-keys",
+        "commit": "29b021ab60c4cbb77058f8c37cde9dfea04c0fd0",
+        "committed_date": "2021-08-20T09:00:13.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-01-26T14:29:08.634Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu18",
+        "project_id": 1418,
+        "project_path": "meizu/meizu18"
+      },
+      "revision": "29b021ab60c4cbb77058f8c37cde9dfea04c0fd0",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu18/-/tree/29b021ab60c4cbb77058f8c37cde9dfea04c0fd0"
+    },
+    {
+      "item_id": "meizu/meizu18@qssi-user-11-RKQ1.201105.002-1621305502-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201105.002-1621305502-release-keys",
+        "commit": "13541cf69efe5ae00517dfd5f4b9fc4b46fa310d",
+        "committed_date": "2021-06-11T01:46:29.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-01-26T14:29:08.634Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu18",
+        "project_id": 1418,
+        "project_path": "meizu/meizu18"
+      },
+      "revision": "13541cf69efe5ae00517dfd5f4b9fc4b46fa310d",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu18/-/tree/13541cf69efe5ae00517dfd5f4b9fc4b46fa310d"
+    },
+    {
+      "item_id": "meizu/meizu18@qssi-user-11-RKQ1.201105.002-1628496599-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201105.002-1628496599-release-keys",
+        "commit": "9e339692bf8584b0644ff042d7d0bdba09ac0604",
+        "committed_date": "2021-09-26T02:12:29.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-01-26T14:29:08.634Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu18",
+        "project_id": 1418,
+        "project_path": "meizu/meizu18"
+      },
+      "revision": "9e339692bf8584b0644ff042d7d0bdba09ac0604",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu18/-/tree/9e339692bf8584b0644ff042d7d0bdba09ac0604"
+    },
+    {
+      "item_id": "meizu/meizu18@qssi-user-11-RKQ1.210715.001-1621305502-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210715.001-1621305502-release-keys",
+        "commit": "b61807db10f7907e9ca4bf2b48f873e4c625ae10",
+        "committed_date": "2022-05-10T09:43:27.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-01-26T14:29:08.634Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu18",
+        "project_id": 1418,
+        "project_path": "meizu/meizu18"
+      },
+      "revision": "b61807db10f7907e9ca4bf2b48f873e4c625ae10",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu18/-/tree/b61807db10f7907e9ca4bf2b48f873e4c625ae10"
+    },
+    {
+      "item_id": "meizu/meizu18@qssi-user-11-RKQ1.210715.001-1635405383-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210715.001-1635405383-release-keys",
+        "commit": "6fad3c994fc79429172a6e04a3fe877f228d7000",
+        "committed_date": "2022-03-16T08:02:16.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-01-26T14:29:08.634Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu18",
+        "project_id": 1418,
+        "project_path": "meizu/meizu18"
+      },
+      "revision": "6fad3c994fc79429172a6e04a3fe877f228d7000",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu18/-/tree/6fad3c994fc79429172a6e04a3fe877f228d7000"
+    },
+    {
+      "item_id": "meizu/meizu18@qssi-user-13-TKQ1.221114.001-1682853611-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.221114.001-1682853611-release-keys",
+        "commit": "e020e5a0d8dbda4f8c25e8e70821332a81157a28",
+        "committed_date": "2024-01-26T17:19:29.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-01-26T14:29:08.634Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu18",
+        "project_id": 1418,
+        "project_path": "meizu/meizu18"
+      },
+      "revision": "e020e5a0d8dbda4f8c25e8e70821332a81157a28",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu18/-/tree/e020e5a0d8dbda4f8c25e8e70821332a81157a28"
+    },
+    {
+      "item_id": "meizu/meizu18pro@qssi-user-11-RKQ1.201105.002-1620814528-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201105.002-1620814528-release-keys",
+        "commit": "bd0ecb185dca5248a936d7f1de6beaea89136929",
+        "committed_date": "2021-08-20T09:15:18.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T22:55:56.064Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu18pro",
+        "project_id": 1372,
+        "project_path": "meizu/meizu18pro"
+      },
+      "revision": "bd0ecb185dca5248a936d7f1de6beaea89136929",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu18pro/-/tree/bd0ecb185dca5248a936d7f1de6beaea89136929"
+    },
+    {
+      "item_id": "meizu/meizu18pro@qssi-user-11-RKQ1.201105.002-1628680600-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201105.002-1628680600-release-keys",
+        "commit": "14310f082c12df0ebc3dbc46b2f79ef9e88ad0dc",
+        "committed_date": "2021-09-26T02:27:30.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T22:55:56.064Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu18pro",
+        "project_id": 1372,
+        "project_path": "meizu/meizu18pro"
+      },
+      "revision": "14310f082c12df0ebc3dbc46b2f79ef9e88ad0dc",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu18pro/-/tree/14310f082c12df0ebc3dbc46b2f79ef9e88ad0dc"
+    },
+    {
+      "item_id": "meizu/meizu18pro@qssi-user-11-RKQ1.210715.001-1635405635-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210715.001-1635405635-release-keys",
+        "commit": "a032923cb051b9990d08c9c1eb1719a21f085c13",
+        "committed_date": "2022-03-16T08:16:21.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T22:55:56.064Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu18pro",
+        "project_id": 1372,
+        "project_path": "meizu/meizu18pro"
+      },
+      "revision": "a032923cb051b9990d08c9c1eb1719a21f085c13",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu18pro/-/tree/a032923cb051b9990d08c9c1eb1719a21f085c13"
+    },
+    {
+      "item_id": "meizu/meizu18s@qssi-user-11-RKQ1.210408.001-1626683778-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210408.001-1626683778-release-keys",
+        "commit": "c39e7aa2d45df9af96e8c66a368394c7ab92f900",
+        "committed_date": "2021-09-26T03:02:43.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T17:07:34.091Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu18s",
+        "project_id": 1220,
+        "project_path": "meizu/meizu18s"
+      },
+      "revision": "c39e7aa2d45df9af96e8c66a368394c7ab92f900",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu18s/-/tree/c39e7aa2d45df9af96e8c66a368394c7ab92f900"
+    },
+    {
+      "item_id": "meizu/meizu18s@qssi-user-11-RKQ1.210408.001-1635318539-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210408.001-1635318539-release-keys",
+        "commit": "a748511c85015e4c443697c24d682cd9bc5ed114",
+        "committed_date": "2022-03-16T08:47:26.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T17:07:34.091Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu18s",
+        "project_id": 1220,
+        "project_path": "meizu/meizu18s"
+      },
+      "revision": "a748511c85015e4c443697c24d682cd9bc5ed114",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu18s/-/tree/a748511c85015e4c443697c24d682cd9bc5ed114"
+    },
+    {
+      "item_id": "meizu/meizu18spro@qssi-user-11-RKQ1.210408.001-1626715793-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210408.001-1626715793-release-keys",
+        "commit": "9fc6c158f8c485caf42be92e977b9ddf6c6f79dd",
+        "committed_date": "2022-03-16T09:04:43.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-07-26T14:27:49.288Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu18spro",
+        "project_id": 1887,
+        "project_path": "meizu/meizu18spro"
+      },
+      "revision": "9fc6c158f8c485caf42be92e977b9ddf6c6f79dd",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu18spro/-/tree/9fc6c158f8c485caf42be92e977b9ddf6c6f79dd"
+    },
+    {
+      "item_id": "meizu/meizu18spro@qssi-user-11-RKQ1.210408.001-1626768240-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210408.001-1626768240-release-keys",
+        "commit": "0ec364edb70be2addd1423813d848e7d05440dbb",
+        "committed_date": "2021-09-26T03:20:00.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-07-26T14:27:49.288Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu18spro",
+        "project_id": 1887,
+        "project_path": "meizu/meizu18spro"
+      },
+      "revision": "0ec364edb70be2addd1423813d848e7d05440dbb",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu18spro/-/tree/0ec364edb70be2addd1423813d848e7d05440dbb"
+    },
+    {
+      "item_id": "meizu/meizu18spro@qssi-user-11-RKQ1.210408.001-1652422074-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210408.001-1652422074-release-keys",
+        "commit": "1b254389e9bdb58b746085a69c7116befbba6264",
+        "committed_date": "2022-07-26T17:19:55.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-07-26T14:27:49.288Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu18spro",
+        "project_id": 1887,
+        "project_path": "meizu/meizu18spro"
+      },
+      "revision": "1b254389e9bdb58b746085a69c7116befbba6264",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu18spro/-/tree/1b254389e9bdb58b746085a69c7116befbba6264"
+    },
+    {
+      "item_id": "meizu/meizu18x@qssi-user-11-RKQ1.210614.002-1627441401-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210614.002-1627441401-release-keys",
+        "commit": "d142c68058c646c43ca1a6b29a6ccad96675123c",
+        "committed_date": "2021-09-26T02:45:33.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-02-13T21:53:24.194Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu18x",
+        "project_id": 1189,
+        "project_path": "meizu/meizu18x"
+      },
+      "revision": "d142c68058c646c43ca1a6b29a6ccad96675123c",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu18x/-/tree/d142c68058c646c43ca1a6b29a6ccad96675123c"
+    },
+    {
+      "item_id": "meizu/meizu18x@qssi-user-11-RKQ1.210614.002-1634548721-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210614.002-1634548721-release-keys",
+        "commit": "b9397b3962d674b526f18bb04d4c2c46e267244b",
+        "committed_date": "2022-03-16T08:32:28.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-02-13T21:53:24.194Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu18x",
+        "project_id": 1189,
+        "project_path": "meizu/meizu18x"
+      },
+      "revision": "b9397b3962d674b526f18bb04d4c2c46e267244b",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu18x/-/tree/b9397b3962d674b526f18bb04d4c2c46e267244b"
+    },
+    {
+      "item_id": "meizu/meizu18x@qssi-user-11-RKQ1.210614.002-1645597308-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210614.002-1645597308-release-keys",
+        "commit": "5cdbb3f970e2b9502fd015147773dc0011e2c020",
+        "committed_date": "2024-01-22T21:37:46.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-02-13T21:53:24.194Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu18x",
+        "project_id": 1189,
+        "project_path": "meizu/meizu18x"
+      },
+      "revision": "5cdbb3f970e2b9502fd015147773dc0011e2c020",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu18x/-/tree/5cdbb3f970e2b9502fd015147773dc0011e2c020"
+    },
+    {
+      "item_id": "meizu/meizu18x@qssi-user-13-TKQ1.221114.001-1686512123-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.221114.001-1686512123-release-keys",
+        "commit": "fc6afea8e50ce372cb588bfa22efa922966e6d9b",
+        "committed_date": "2024-02-14T00:45:29.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-02-13T21:53:24.194Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu18x",
+        "project_id": 1189,
+        "project_path": "meizu/meizu18x"
+      },
+      "revision": "fc6afea8e50ce372cb588bfa22efa922966e6d9b",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu18x/-/tree/fc6afea8e50ce372cb588bfa22efa922966e6d9b"
+    },
+    {
+      "item_id": "meizu/meizu20@qssi-user-13-TKQ1.221114.001-1673212581-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.221114.001-1673212581-release-keys",
+        "commit": "0e8f4c92aa2a2d442800a3998dacbf411c3d2f54",
+        "committed_date": "2023-09-18T12:53:29.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-09-18T10:03:15.357Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu20",
+        "project_id": 4110,
+        "project_path": "meizu/meizu20"
+      },
+      "revision": "0e8f4c92aa2a2d442800a3998dacbf411c3d2f54",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu20/-/tree/0e8f4c92aa2a2d442800a3998dacbf411c3d2f54"
+    },
+    {
+      "item_id": "meizu/meizu20@qssi-user-13-TKQ1.221114.001-1673355743-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.221114.001-1673355743-release-keys",
+        "commit": "c969f1ff18d4f03a974888932b553c4abf4f24dd",
+        "committed_date": "2023-04-12T18:29:38.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-09-18T10:03:15.357Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu20",
+        "project_id": 4110,
+        "project_path": "meizu/meizu20"
+      },
+      "revision": "c969f1ff18d4f03a974888932b553c4abf4f24dd",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu20/-/tree/c969f1ff18d4f03a974888932b553c4abf4f24dd"
+    },
+    {
+      "item_id": "meizu/meizu20inf@qssi-user-13-TKQ1.221114.001-685-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.221114.001-685-release-keys",
+        "commit": "160a1d2f391d840017f0096fc7b510362473add9",
+        "committed_date": "2024-04-10T04:02:06.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-23T10:35:10.097Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu20inf",
+        "project_id": 5229,
+        "project_path": "meizu/meizu20inf"
+      },
+      "revision": "160a1d2f391d840017f0096fc7b510362473add9",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu20inf/-/tree/160a1d2f391d840017f0096fc7b510362473add9"
+    },
+    {
+      "item_id": "meizu/meizu20inf@qssi-user-14-UKQ1.230917.001-1131-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230917.001-1131-release-keys",
+        "commit": "fae8d2583ab7af606fc982d9280a712738eb70d4",
+        "committed_date": "2024-11-23T13:20:28.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-11-23T10:35:10.097Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu20inf",
+        "project_id": 5229,
+        "project_path": "meizu/meizu20inf"
+      },
+      "revision": "fae8d2583ab7af606fc982d9280a712738eb70d4",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu20inf/-/tree/fae8d2583ab7af606fc982d9280a712738eb70d4"
+    },
+    {
+      "item_id": "meizu/meizu20pro@qssi-user-13-TKQ1.221114.001-1673212412-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.221114.001-1673212412-release-keys",
+        "commit": "d6d9ebdada1c558d6c2053a45ce6bb752f05bdfa",
+        "committed_date": "2023-08-23T02:50:05.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-11-15T14:51:01.005Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu20pro",
+        "project_id": 4111,
+        "project_path": "meizu/meizu20pro"
+      },
+      "revision": "d6d9ebdada1c558d6c2053a45ce6bb752f05bdfa",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu20pro/-/tree/d6d9ebdada1c558d6c2053a45ce6bb752f05bdfa"
+    },
+    {
+      "item_id": "meizu/meizu20pro@qssi-user-13-TKQ1.221114.001-1673212739-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.221114.001-1673212739-release-keys",
+        "commit": "2c92ba8d69d03540213d37163076b05713486090",
+        "committed_date": "2023-04-12T18:45:44.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-11-15T14:51:01.005Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu20pro",
+        "project_id": 4111,
+        "project_path": "meizu/meizu20pro"
+      },
+      "revision": "2c92ba8d69d03540213d37163076b05713486090",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu20pro/-/tree/2c92ba8d69d03540213d37163076b05713486090"
+    },
+    {
+      "item_id": "meizu/meizu20pro@qssi-user-13-TKQ1.221114.001-1681412208-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.221114.001-1681412208-release-keys",
+        "commit": "38578a910bffb34f67a52d49380eddd7148517ca",
+        "committed_date": "2023-07-30T16:10:41.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-11-15T14:51:01.005Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu20pro",
+        "project_id": 4111,
+        "project_path": "meizu/meizu20pro"
+      },
+      "revision": "38578a910bffb34f67a52d49380eddd7148517ca",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu20pro/-/tree/38578a910bffb34f67a52d49380eddd7148517ca"
+    },
+    {
+      "item_id": "meizu/meizu20pro@qssi-user-13-TKQ1.221114.001-1692864302-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.221114.001-1692864302-release-keys",
+        "commit": "a2cf330e6f6faa64ef07e285afdd5de14220f208",
+        "committed_date": "2023-11-15T17:40:35.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-11-15T14:51:01.005Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu20pro",
+        "project_id": 4111,
+        "project_path": "meizu/meizu20pro"
+      },
+      "revision": "a2cf330e6f6faa64ef07e285afdd5de14220f208",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu20pro/-/tree/a2cf330e6f6faa64ef07e285afdd5de14220f208"
+    },
+    {
+      "item_id": "meizu/meizu21@qssi_64-user-14-UKQ1.230917.001-1697429828-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-14-UKQ1.230917.001-1697429828-release-keys",
+        "commit": "a3bd7aa70ebe96999e3b54208ad8028826491015",
+        "committed_date": "2023-12-12T19:21:26.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-20T08:56:40.024Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu21",
+        "project_id": 4659,
+        "project_path": "meizu/meizu21"
+      },
+      "revision": "a3bd7aa70ebe96999e3b54208ad8028826491015",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu21/-/tree/a3bd7aa70ebe96999e3b54208ad8028826491015"
+    },
+    {
+      "item_id": "meizu/meizu21@qssi_64-user-14-UKQ1.230917.001-1712365125-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-14-UKQ1.230917.001-1712365125-release-keys",
+        "commit": "ef45c042c4d0018aa2df1fe1d2ca9b3dd1189057",
+        "committed_date": "2024-11-23T12:39:40.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-20T08:56:40.024Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu21",
+        "project_id": 4659,
+        "project_path": "meizu/meizu21"
+      },
+      "revision": "ef45c042c4d0018aa2df1fe1d2ca9b3dd1189057",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu21/-/tree/ef45c042c4d0018aa2df1fe1d2ca9b3dd1189057"
+    },
+    {
+      "item_id": "meizu/meizu21@qssi_64-user-14-UKQ1.230917.001-1714244615-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-14-UKQ1.230917.001-1714244615-release-keys",
+        "commit": "8908167848efcefdaecca25882824191ed7ba645",
+        "committed_date": "2024-07-31T17:47:26.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-20T08:56:40.024Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu21",
+        "project_id": 4659,
+        "project_path": "meizu/meizu21"
+      },
+      "revision": "8908167848efcefdaecca25882824191ed7ba645",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu21/-/tree/8908167848efcefdaecca25882824191ed7ba645"
+    },
+    {
+      "item_id": "meizu/meizu21@qssi_64-user-14-UKQ1.230917.001-1724151849-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-14-UKQ1.230917.001-1724151849-release-keys",
+        "commit": "dfa9ff8d508840d844bc84e6900922ad2cbf19bb",
+        "committed_date": "2025-02-20T11:47:07.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-02-20T08:56:40.024Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu21",
+        "project_id": 4659,
+        "project_path": "meizu/meizu21"
+      },
+      "revision": "dfa9ff8d508840d844bc84e6900922ad2cbf19bb",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu21/-/tree/dfa9ff8d508840d844bc84e6900922ad2cbf19bb"
+    },
+    {
+      "item_id": "meizu/meizu21note@qssi-user-14-UKQ1.230917.001-1711913844-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230917.001-1711913844-release-keys",
+        "commit": "60284bbf4ac34498970d50902da8a1e92b0f967e",
+        "committed_date": "2024-05-17T15:45:13.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-05-17T12:37:27.205Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu21note",
+        "project_id": 5275,
+        "project_path": "meizu/meizu21note"
+      },
+      "revision": "60284bbf4ac34498970d50902da8a1e92b0f967e",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu21note/-/tree/60284bbf4ac34498970d50902da8a1e92b0f967e"
+    },
+    {
+      "item_id": "meizu/meizu21pro@qssi_64-user-14-UKQ1.230917.001-1681788841-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-14-UKQ1.230917.001-1681788841-release-keys",
+        "commit": "9ab0380f2cf3d15d49c8fef378c867ad1ffdeb1d",
+        "committed_date": "2024-04-08T17:15:48.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-19T14:40:27.349Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu21pro",
+        "project_id": 5227,
+        "project_path": "meizu/meizu21pro"
+      },
+      "revision": "9ab0380f2cf3d15d49c8fef378c867ad1ffdeb1d",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu21pro/-/tree/9ab0380f2cf3d15d49c8fef378c867ad1ffdeb1d"
+    },
+    {
+      "item_id": "meizu/meizu21pro@qssi_64-user-14-UKQ1.230917.001-1714142572-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-14-UKQ1.230917.001-1714142572-release-keys",
+        "commit": "d4714a875ec95813ee448b21ba7187ce738fc843",
+        "committed_date": "2024-12-25T19:33:58.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-19T14:40:27.349Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu21pro",
+        "project_id": 5227,
+        "project_path": "meizu/meizu21pro"
+      },
+      "revision": "d4714a875ec95813ee448b21ba7187ce738fc843",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu21pro/-/tree/d4714a875ec95813ee448b21ba7187ce738fc843"
+    },
+    {
+      "item_id": "meizu/meizu21pro@qssi_64-user-15-AQ3A.250129.001-1740478319-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-15-AQ3A.250129.001-1740478319-release-keys",
+        "commit": "9f785e7ad2648237fde38163aa71be28537fc44a",
+        "committed_date": "2025-05-19T17:23:43.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-05-19T14:40:27.349Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu21pro",
+        "project_id": 5227,
+        "project_path": "meizu/meizu21pro"
+      },
+      "revision": "9f785e7ad2648237fde38163aa71be28537fc44a",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu21pro/-/tree/9f785e7ad2648237fde38163aa71be28537fc44a"
+    },
+    {
+      "item_id": "meizu/meizu_m5@meizu_M5-user-6.0-MRA58K-1494477473-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_M5-user-6.0-MRA58K-1494477473-release-keys",
+        "commit": "3ebd7cba977de8f8e30c2aa3884132df33758113",
+        "committed_date": "2022-03-09T16:28:07.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T04:13:55.476Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizu_m5",
+        "project_id": 890,
+        "project_path": "meizu/meizu_m5"
+      },
+      "revision": "3ebd7cba977de8f8e30c2aa3884132df33758113",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizu_m5/-/tree/3ebd7cba977de8f8e30c2aa3884132df33758113"
+    },
+    {
+      "item_id": "meizu/meizuc9pro@SM1802A03_A-user-8.1.0-OPM2.171019.012-23-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "SM1802A03_A-user-8.1.0-OPM2.171019.012-23-release-keys",
+        "commit": "0b5553d070628f1da706f2de79cfe1790e5ce81d",
+        "committed_date": "2019-11-12T21:14:49.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T07:36:58.797Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizuc9pro",
+        "project_id": 1547,
+        "project_path": "meizu/meizuc9pro"
+      },
+      "revision": "0b5553d070628f1da706f2de79cfe1790e5ce81d",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizuc9pro/-/tree/0b5553d070628f1da706f2de79cfe1790e5ce81d"
+    },
+    {
+      "item_id": "meizu/meizum6t@Meizu_M6T-user-7.0-NRD90M-1561103369-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Meizu_M6T-user-7.0-NRD90M-1561103369-release-keys",
+        "commit": "b13561eb84e66f2bb14bfc630c86936a55ca3422",
+        "committed_date": "2019-09-13T11:45:30.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T09:29:44.471Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizum6t",
+        "project_id": 1655,
+        "project_path": "meizu/meizum6t"
+      },
+      "revision": "b13561eb84e66f2bb14bfc630c86936a55ca3422",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizum6t/-/tree/b13561eb84e66f2bb14bfc630c86936a55ca3422"
+    },
+    {
+      "item_id": "meizu/meizum6t@Meizu_M6T-user-7.0-NRD90M-1570608172-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Meizu_M6T-user-7.0-NRD90M-1570608172-release-keys",
+        "commit": "c9c60dc0d0bf702019560559646a8705a06be706",
+        "committed_date": "2019-10-29T06:56:13.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T09:29:44.471Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizum6t",
+        "project_id": 1655,
+        "project_path": "meizu/meizum6t"
+      },
+      "revision": "c9c60dc0d0bf702019560559646a8705a06be706",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizum6t/-/tree/c9c60dc0d0bf702019560559646a8705a06be706"
+    },
+    {
+      "item_id": "meizu/meizunote16@ussi_arm64_full-user-15-AP3A.240905.015.A2-184-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ussi_arm64_full-user-15-AP3A.240905.015.A2-184-release-keys",
+        "commit": "ab34da59bb3233813f5f4b5b3d92a28852ab5858",
+        "committed_date": "2025-05-19T13:48:39.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-05-19T10:40:02.565Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizunote16",
+        "project_id": 5643,
+        "project_path": "meizu/meizunote16"
+      },
+      "revision": "ab34da59bb3233813f5f4b5b3d92a28852ab5858",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizunote16/-/tree/ab34da59bb3233813f5f4b5b3d92a28852ab5858"
+    },
+    {
+      "item_id": "meizu/meizunote16pro@qssi_64-user-15-AQ3A.250129.001-1746774637-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-15-AQ3A.250129.001-1746774637-release-keys",
+        "commit": "8314a7c912ff011123185d53d766efaf7bfa7111",
+        "committed_date": "2025-05-19T18:01:20.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-05-19T14:55:15.697Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizunote16pro",
+        "project_id": 5644,
+        "project_path": "meizu/meizunote16pro"
+      },
+      "revision": "8314a7c912ff011123185d53d766efaf7bfa7111",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizunote16pro/-/tree/8314a7c912ff011123185d53d766efaf7bfa7111"
+    },
+    {
+      "item_id": "meizu/meizunote8@meizu_note8_EEA-user-8.1.0-OPM1.171019.026-1563415055-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_note8_EEA-user-8.1.0-OPM1.171019.026-1563415055-release-keys",
+        "commit": "b3232e3975286fab678dbf27606b0d728e5671e3",
+        "committed_date": "2019-10-13T23:31:28.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T09:45:35.925Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizunote8",
+        "project_id": 1672,
+        "project_path": "meizu/meizunote8"
+      },
+      "revision": "b3232e3975286fab678dbf27606b0d728e5671e3",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizunote8/-/tree/b3232e3975286fab678dbf27606b0d728e5671e3"
+    },
+    {
+      "item_id": "meizu/meizunote9@meizu_note9-user-9-PKQ1.181203.001-1552448469-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_note9-user-9-PKQ1.181203.001-1552448469-release-keys",
+        "commit": "d5f82b0b4aa77e2200400b168dd08e4a58380f0e",
+        "committed_date": "2019-09-13T10:24:21.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T16:12:42.507Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizunote9",
+        "project_id": 1931,
+        "project_path": "meizu/meizunote9"
+      },
+      "revision": "d5f82b0b4aa77e2200400b168dd08e4a58380f0e",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizunote9/-/tree/d5f82b0b4aa77e2200400b168dd08e4a58380f0e"
+    },
+    {
+      "item_id": "meizu/meizuvenus@qssi-user-14-UKQ1.240523.001-1721478536-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.240523.001-1721478536-release-keys",
+        "commit": "5450a12d95c2a95b227bb54cc046c2a3fc4dce87",
+        "committed_date": "2024-11-18T20:34:54.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-11-18T17:29:27.290Z",
+        "namespace_hint": "meizu",
+        "project_hint": "meizuvenus",
+        "project_id": 5495,
+        "project_path": "meizu/meizuvenus"
+      },
+      "revision": "5450a12d95c2a95b227bb54cc046c2a3fc4dce87",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/meizuvenus/-/tree/5450a12d95c2a95b227bb54cc046c2a3fc4dce87"
+    },
+    {
+      "item_id": "meizu/mx4@meizu_mx4-user-5.1-LMY47I-1514879487-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_mx4-user-5.1-LMY47I-1514879487-release-keys",
+        "commit": "80bfc6bafa7f6cbf245fa6b7b66c69f6e214321d",
+        "committed_date": "2019-11-08T07:24:25.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T16:34:49.508Z",
+        "namespace_hint": "meizu",
+        "project_hint": "mx4",
+        "project_id": 1943,
+        "project_path": "meizu/mx4"
+      },
+      "revision": "80bfc6bafa7f6cbf245fa6b7b66c69f6e214321d",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/mx4/-/tree/80bfc6bafa7f6cbf245fa6b7b66c69f6e214321d"
+    },
+    {
+      "item_id": "meizu/note9@meizu_Note9_CN-user-9-PKQ1.181203.001-1560695780-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_Note9_CN-user-9-PKQ1.181203.001-1560695780-release-keys",
+        "commit": "5b4bb9dd3e8085dd8e38da2ba6bbea44c2278ed4",
+        "committed_date": "2019-11-08T08:15:58.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T08:42:13.074Z",
+        "namespace_hint": "meizu",
+        "project_hint": "note9",
+        "project_id": 1620,
+        "project_path": "meizu/note9"
+      },
+      "revision": "5b4bb9dd3e8085dd8e38da2ba6bbea44c2278ed4",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/note9/-/tree/5b4bb9dd3e8085dd8e38da2ba6bbea44c2278ed4"
+    },
+    {
+      "item_id": "meizu/note9@meizu_Note9_CN-user-9-PKQ1.181203.001-1575543729-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_Note9_CN-user-9-PKQ1.181203.001-1575543729-release-keys",
+        "commit": "27f71c3c11b0951e4c1049cfb4b11cbe8890859e",
+        "committed_date": "2019-12-24T16:19:42.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:42:13.074Z",
+        "namespace_hint": "meizu",
+        "project_hint": "note9",
+        "project_id": 1620,
+        "project_path": "meizu/note9"
+      },
+      "revision": "27f71c3c11b0951e4c1049cfb4b11cbe8890859e",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/note9/-/tree/27f71c3c11b0951e4c1049cfb4b11cbe8890859e"
+    },
+    {
+      "item_id": "meizu/pro6plus@meizu_PRO6Plus-user-7.0.0-NRD90M-m96.Flyme_7.0.1533805452-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_PRO6Plus-user-7.0.0-NRD90M-m96.Flyme_7.0.1533805452-release-keys",
+        "commit": "400ef820db8a382a730824db34bfc86237ab7c9e",
+        "committed_date": "2022-03-05T16:27:33.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-13T21:08:25.380Z",
+        "namespace_hint": "meizu",
+        "project_hint": "pro6plus",
+        "project_id": 2,
+        "project_path": "meizu/pro6plus"
+      },
+      "revision": "400ef820db8a382a730824db34bfc86237ab7c9e",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/pro6plus/-/tree/400ef820db8a382a730824db34bfc86237ab7c9e"
+    },
+    {
+      "item_id": "meizu/pro6plus@meizu_PRO6Plus-user-7.0.0-NRD90M-m96.Flyme_8.0.1573754082-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_PRO6Plus-user-7.0.0-NRD90M-m96.Flyme_8.0.1573754082-release-keys",
+        "commit": "cf9e459002b031ed8a9be0796fbfda71b1ff26ae",
+        "committed_date": "2019-11-15T18:43:23.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-13T21:08:25.380Z",
+        "namespace_hint": "meizu",
+        "project_hint": "pro6plus",
+        "project_id": 2,
+        "project_path": "meizu/pro6plus"
+      },
+      "revision": "cf9e459002b031ed8a9be0796fbfda71b1ff26ae",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/pro6plus/-/tree/cf9e459002b031ed8a9be0796fbfda71b1ff26ae"
+    },
+    {
+      "item_id": "meizu/pro7plus@meizu_PRO7Plus_CN-user-7.0-NRD90M-1571742948-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_PRO7Plus_CN-user-7.0-NRD90M-1571742948-release-keys",
+        "commit": "d5ebc5668268953976d96eee5da8e692a4e8cc67",
+        "committed_date": "2019-11-08T07:46:15.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T16:33:28.952Z",
+        "namespace_hint": "meizu",
+        "project_hint": "pro7plus",
+        "project_id": 1942,
+        "project_path": "meizu/pro7plus"
+      },
+      "revision": "d5ebc5668268953976d96eee5da8e692a4e8cc67",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/pro7plus/-/tree/d5ebc5668268953976d96eee5da8e692a4e8cc67"
+    },
+    {
+      "item_id": "meizu/u10@meizu_U10-user-6.0-MRA58K-1474911011-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_U10-user-6.0-MRA58K-1474911011-release-keys",
+        "commit": "5b70c05d729222474dbdb0267a2f66523a5ee85b",
+        "committed_date": "2022-03-09T16:11:25.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T07:14:03.151Z",
+        "namespace_hint": "meizu",
+        "project_hint": "u10",
+        "project_id": 920,
+        "project_path": "meizu/u10"
+      },
+      "revision": "5b70c05d729222474dbdb0267a2f66523a5ee85b",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/u10/-/tree/5b70c05d729222474dbdb0267a2f66523a5ee85b"
+    },
+    {
+      "item_id": "meizu/u20@meizu_U20-user-6.0-MRA58K-1473213776-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_U20-user-6.0-MRA58K-1473213776-release-keys",
+        "commit": "b1743972d4476ef666b85b30a58eaa37a3ba6be1",
+        "committed_date": "2022-03-09T16:05:55.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T06:17:42.698Z",
+        "namespace_hint": "meizu",
+        "project_hint": "u20",
+        "project_id": 912,
+        "project_path": "meizu/u20"
+      },
+      "revision": "b1743972d4476ef666b85b30a58eaa37a3ba6be1",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/u20/-/tree/b1743972d4476ef666b85b30a58eaa37a3ba6be1"
+    },
+    {
+      "item_id": "meizu/x8@meizu_X8-user-8.1.0-OPM1.171019.026-1556996821-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "meizu_X8-user-8.1.0-OPM1.171019.026-1556996821-release-keys",
+        "commit": "726fc1d560928435f891065bbba8d1e9aef0b8d0",
+        "committed_date": "2019-10-28T19:51:35.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T14:24:08.423Z",
+        "namespace_hint": "meizu",
+        "project_hint": "x8",
+        "project_id": 1086,
+        "project_path": "meizu/x8"
+      },
+      "revision": "726fc1d560928435f891065bbba8d1e9aef0b8d0",
+      "url": "https://dumps.tadiphone.dev/dumps/meizu/x8/-/tree/726fc1d560928435f891065bbba8d1e9aef0b8d0"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

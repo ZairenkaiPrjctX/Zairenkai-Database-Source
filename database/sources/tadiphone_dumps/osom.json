@@ -1,0 +1,94 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "osom/ingot@ingot-user-13-TKQ1.221220.425-550-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ingot-user-13-TKQ1.221220.425-550-release-keys",
+        "commit": "87e7d04fae487e076c2a9caefa1cfba83447435d",
+        "committed_date": "2023-07-22T20:12:22.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-09-04T18:37:28.329Z",
+        "namespace_hint": "osom",
+        "project_hint": "ingot",
+        "project_id": 4364,
+        "project_path": "osom/ingot"
+      },
+      "revision": "87e7d04fae487e076c2a9caefa1cfba83447435d",
+      "url": "https://dumps.tadiphone.dev/dumps/osom/ingot/-/tree/87e7d04fae487e076c2a9caefa1cfba83447435d"
+    },
+    {
+      "item_id": "osom/ingot@ingot-user-13-TKQ1.221220.499-629-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ingot-user-13-TKQ1.221220.499-629-release-keys",
+        "commit": "bee0d25446cc679778e68ed24d9c352d8274c583",
+        "committed_date": "2023-11-13T00:08:54.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-09-04T18:37:28.329Z",
+        "namespace_hint": "osom",
+        "project_hint": "ingot",
+        "project_id": 4364,
+        "project_path": "osom/ingot"
+      },
+      "revision": "bee0d25446cc679778e68ed24d9c352d8274c583",
+      "url": "https://dumps.tadiphone.dev/dumps/osom/ingot/-/tree/bee0d25446cc679778e68ed24d9c352d8274c583"
+    },
+    {
+      "item_id": "osom/ingot@ingot-user-13-TKQ1.221220.548-685-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ingot-user-13-TKQ1.221220.548-685-release-keys",
+        "commit": "d374e57bc4c17a268417f4b1d8242b32f297e3d8",
+        "committed_date": "2024-03-03T15:04:11.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-09-04T18:37:28.329Z",
+        "namespace_hint": "osom",
+        "project_hint": "ingot",
+        "project_id": 4364,
+        "project_path": "osom/ingot"
+      },
+      "revision": "d374e57bc4c17a268417f4b1d8242b32f297e3d8",
+      "url": "https://dumps.tadiphone.dev/dumps/osom/ingot/-/tree/d374e57bc4c17a268417f4b1d8242b32f297e3d8"
+    },
+    {
+      "item_id": "osom/ingot@ingot-user-14-UKQ1.231121.127-127-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ingot-user-14-UKQ1.231121.127-127-release-keys",
+        "commit": "914815f38e94d314b9e20e40139b0b95adf6b4d6",
+        "committed_date": "2024-05-18T11:44:12.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-09-04T18:37:28.329Z",
+        "namespace_hint": "osom",
+        "project_hint": "ingot",
+        "project_id": 4364,
+        "project_path": "osom/ingot"
+      },
+      "revision": "914815f38e94d314b9e20e40139b0b95adf6b4d6",
+      "url": "https://dumps.tadiphone.dev/dumps/osom/ingot/-/tree/914815f38e94d314b9e20e40139b0b95adf6b4d6"
+    },
+    {
+      "item_id": "osom/ingot@ingot-user-14-UKQ1.240227.155-155-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ingot-user-14-UKQ1.240227.155-155-release-keys",
+        "commit": "e1209452843080b31905efed8a79c2cc388d236f",
+        "committed_date": "2024-09-04T21:30:01.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-09-04T18:37:28.329Z",
+        "namespace_hint": "osom",
+        "project_hint": "ingot",
+        "project_id": 4364,
+        "project_path": "osom/ingot"
+      },
+      "revision": "e1209452843080b31905efed8a79c2cc388d236f",
+      "url": "https://dumps.tadiphone.dev/dumps/osom/ingot/-/tree/e1209452843080b31905efed8a79c2cc388d236f"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

@@ -1,0 +1,706 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "zte/ailsa_ii@P996A01_O-user-8.0.0-OPR1.170623.032-28-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "P996A01_O-user-8.0.0-OPR1.170623.032-28-release-keys",
+        "commit": "f703b7c9641a5c756ec7176b889f4984bce1f10a",
+        "committed_date": "2019-09-24T05:38:15.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T13:37:58.104Z",
+        "namespace_hint": "zte",
+        "project_hint": "ailsa_ii",
+        "project_id": 1795,
+        "project_path": "zte/ailsa_ii"
+      },
+      "revision": "f703b7c9641a5c756ec7176b889f4984bce1f10a",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/ailsa_ii/-/tree/f703b7c9641a5c756ec7176b889f4984bce1f10a"
+    },
+    {
+      "item_id": "zte/fujisan@Z999-user-7.1.2-N2G47H-20170727.205944-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Z999-user-7.1.2-N2G47H-20170727.205944-release-keys",
+        "commit": "40be4a867eca17476da764a98ed09e769a6df245",
+        "committed_date": "2023-03-08T23:44:13.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-03-08T20:41:44.335Z",
+        "namespace_hint": "zte",
+        "project_hint": "fujisan",
+        "project_id": 4087,
+        "project_path": "zte/fujisan"
+      },
+      "revision": "40be4a867eca17476da764a98ed09e769a6df245",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/fujisan/-/tree/40be4a867eca17476da764a98ed09e769a6df245"
+    },
+    {
+      "item_id": "zte/jerry@Z988-user-6.0.1-MMB29M-20160918.091427-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Z988-user-6.0.1-MMB29M-20160918.091427-release-keys",
+        "commit": "5bd598b047953f7d06996061f09429191fc2d5c6",
+        "committed_date": "2019-10-30T10:17:19.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T19:21:22.924Z",
+        "namespace_hint": "zte",
+        "project_hint": "jerry",
+        "project_id": 2084,
+        "project_path": "zte/jerry"
+      },
+      "revision": "5bd598b047953f7d06996061f09429191fc2d5c6",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/jerry/-/tree/5bd598b047953f7d06996061f09429191fc2d5c6"
+    },
+    {
+      "item_id": "zte/k87@msm8937_32-user-10-QKQ1.200517.002-20200630.162006-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_32-user-10-QKQ1.200517.002-20200630.162006-release-keys",
+        "commit": "fe1f76639975b6af64dadd7b9f307341feb166a8",
+        "committed_date": "2020-11-14T06:28:48.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T19:25:01.678Z",
+        "namespace_hint": "zte",
+        "project_hint": "k87",
+        "project_id": 2087,
+        "project_path": "zte/k87"
+      },
+      "revision": "fe1f76639975b6af64dadd7b9f307341feb166a8",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/k87/-/tree/fe1f76639975b6af64dadd7b9f307341feb166a8"
+    },
+    {
+      "item_id": "zte/lol@Z958-user-5.1-LMY47O-20150612.162917-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Z958-user-5.1-LMY47O-20150612.162917-release-keys",
+        "commit": "177d6408254c97071c57baedf5ed74d532e08d2c",
+        "committed_date": "2023-04-22T03:00:22.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-04-21T23:59:18.115Z",
+        "namespace_hint": "zte",
+        "project_hint": "lol",
+        "project_id": 4257,
+        "project_path": "zte/lol"
+      },
+      "revision": "177d6408254c97071c57baedf5ed74d532e08d2c",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/lol/-/tree/177d6408254c97071c57baedf5ed74d532e08d2c"
+    },
+    {
+      "item_id": "zte/msm8909w@ZW20-user-8.1.0-OPM1.171019.011-148-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ZW20-user-8.1.0-OPM1.171019.011-148-release-keys",
+        "commit": "b6481e23eb38147129accce373f8e9ac39a77f64",
+        "committed_date": "2020-03-07T20:29:17.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T18:45:12.063Z",
+        "namespace_hint": "zte",
+        "project_hint": "msm8909w",
+        "project_id": 2050,
+        "project_path": "zte/msm8909w"
+      },
+      "revision": "b6481e23eb38147129accce373f8e9ac39a77f64",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/msm8909w/-/tree/b6481e23eb38147129accce373f8e9ac39a77f64"
+    },
+    {
+      "item_id": "zte/msmnile@msmnile-userdebug-9-PKQ1.191027.001-eng.zte.20191203.143911-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msmnile-userdebug-9-PKQ1.191027.001-eng.zte.20191203.143911-test-keys",
+        "commit": "5d5d30791fbef762190239298ff82a33f276883c",
+        "committed_date": "2026-02-03T16:28:33.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-02-03T13:26:40.950Z",
+        "namespace_hint": "zte",
+        "project_hint": "msmnile",
+        "project_id": 5743,
+        "project_path": "zte/msmnile"
+      },
+      "revision": "5d5d30791fbef762190239298ff82a33f276883c",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/msmnile/-/tree/5d5d30791fbef762190239298ff82a33f276883c"
+    },
+    {
+      "item_id": "zte/p633f08@full_k6833v1_64-user-11-RP1A.200720.011-20230531.165747-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6833v1_64-user-11-RP1A.200720.011-20230531.165747-release-keys",
+        "commit": "29625a1f453a8b601d0ee68995c3af0f18674a55",
+        "committed_date": "2024-09-29T22:19:38.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-09-29T19:16:51.622Z",
+        "namespace_hint": "zte",
+        "project_hint": "p633f08",
+        "project_id": 5436,
+        "project_path": "zte/p633f08"
+      },
+      "revision": "29625a1f453a8b601d0ee68995c3af0f18674a55",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/p633f08/-/tree/29625a1f453a8b601d0ee68995c3af0f18674a55"
+    },
+    {
+      "item_id": "zte/p633s05@full_k6833v1_64-user-11-RP1A.200720.011-20220407.012504-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6833v1_64-user-11-RP1A.200720.011-20220407.012504-release-keys",
+        "commit": "ebedb9573662f2b852221546e578c66741b8029f",
+        "committed_date": "2023-05-14T22:08:28.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-05-14T19:05:02.551Z",
+        "namespace_hint": "zte",
+        "project_hint": "p633s05",
+        "project_id": 4296,
+        "project_path": "zte/p633s05"
+      },
+      "revision": "ebedb9573662f2b852221546e578c66741b8029f",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/p633s05/-/tree/ebedb9573662f2b852221546e578c66741b8029f"
+    },
+    {
+      "item_id": "zte/p725a02@lito-user-10-QKQ1.200628.002-20200824.174440-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "lito-user-10-QKQ1.200628.002-20200824.174440-release-keys",
+        "commit": "3ec776b95ecb51e7c008802e67b696e8bd62c147",
+        "committed_date": "2020-09-09T17:07:04.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T18:55:05.556Z",
+        "namespace_hint": "zte",
+        "project_hint": "p725a02",
+        "project_id": 2065,
+        "project_path": "zte/p725a02"
+      },
+      "revision": "3ec776b95ecb51e7c008802e67b696e8bd62c147",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/p725a02/-/tree/3ec776b95ecb51e7c008802e67b696e8bd62c147"
+    },
+    {
+      "item_id": "zte/p725a12@lito-user-10-QKQ1.200415.002-20200522.150951-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "lito-user-10-QKQ1.200415.002-20200522.150951-release-keys",
+        "commit": "a8ff258d236924172d242d11339131aa3049493c",
+        "committed_date": "2020-06-26T15:13:48.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T09:02:42.639Z",
+        "namespace_hint": "zte",
+        "project_hint": "p725a12",
+        "project_id": 1634,
+        "project_path": "zte/p725a12"
+      },
+      "revision": "a8ff258d236924172d242d11339131aa3049493c",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/p725a12/-/tree/a8ff258d236924172d242d11339131aa3049493c"
+    },
+    {
+      "item_id": "zte/p731f20@sp7731e_1h10_native-user-9-PPR1.180610.011-300-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sp7731e_1h10_native-user-9-PPR1.180610.011-300-release-keys",
+        "commit": "610ccf7c96a0591a34bae8ac9f4ef7485b4e4cd1",
+        "committed_date": "2019-11-10T22:20:39.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T12:37:19.557Z",
+        "namespace_hint": "zte",
+        "project_hint": "p731f20",
+        "project_id": 1753,
+        "project_path": "zte/p731f20"
+      },
+      "revision": "610ccf7c96a0591a34bae8ac9f4ef7485b4e4cd1",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/p731f20/-/tree/610ccf7c96a0591a34bae8ac9f4ef7485b4e4cd1"
+    },
+    {
+      "item_id": "zte/p731f30@sp7731e_1h20_native-user-9-PPR1.180610.011-152-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sp7731e_1h20_native-user-9-PPR1.180610.011-152-release-keys",
+        "commit": "d2d9ae2fa33a70692440519aaecd134108a9efb2",
+        "committed_date": "2019-11-18T09:15:25.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T17:59:52.238Z",
+        "namespace_hint": "zte",
+        "project_hint": "p731f30",
+        "project_id": 2009,
+        "project_path": "zte/p731f30"
+      },
+      "revision": "d2d9ae2fa33a70692440519aaecd134108a9efb2",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/p731f30/-/tree/d2d9ae2fa33a70692440519aaecd134108a9efb2"
+    },
+    {
+      "item_id": "zte/p845a02@sdm845-user-9-PKQ1.181105.001-559-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm845-user-9-PKQ1.181105.001-559-release-keys",
+        "commit": "0548d9bfe8451f8d727503a3952fc1703ae243a5",
+        "committed_date": "2019-12-06T08:22:29.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T16:00:22.371Z",
+        "namespace_hint": "zte",
+        "project_hint": "p845a02",
+        "project_id": 1917,
+        "project_path": "zte/p845a02"
+      },
+      "revision": "0548d9bfe8451f8d727503a3952fc1703ae243a5",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/p845a02/-/tree/0548d9bfe8451f8d727503a3952fc1703ae243a5"
+    },
+    {
+      "item_id": "zte/p855a01@msmnile-user-11-RKQ1.201221.002-20211215.223102-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msmnile-user-11-RKQ1.201221.002-20211215.223102-release-keys",
+        "commit": "9c88f819e4d9ecd6430fd95cbfffde450728e296",
+        "committed_date": "2024-01-27T15:59:47.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-01-27T13:04:28.694Z",
+        "namespace_hint": "zte",
+        "project_hint": "p855a01",
+        "project_id": 2012,
+        "project_path": "zte/p855a01"
+      },
+      "revision": "9c88f819e4d9ecd6430fd95cbfffde450728e296",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/p855a01/-/tree/9c88f819e4d9ecd6430fd95cbfffde450728e296"
+    },
+    {
+      "item_id": "zte/p855a01@msmnile-user-9-PKQ1.190328.001-68-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msmnile-user-9-PKQ1.190328.001-68-release-keys",
+        "commit": "98cf120b194fc7d1ab2f3c4bb4b54d1da7bc733d",
+        "committed_date": "2019-09-07T19:32:43.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2024-01-27T13:04:28.694Z",
+        "namespace_hint": "zte",
+        "project_hint": "p855a01",
+        "project_id": 2012,
+        "project_path": "zte/p855a01"
+      },
+      "revision": "98cf120b194fc7d1ab2f3c4bb4b54d1da7bc733d",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/p855a01/-/tree/98cf120b194fc7d1ab2f3c4bb4b54d1da7bc733d"
+    },
+    {
+      "item_id": "zte/p855a02@msmnile-user-10-QKQ1.191014.001-20200103.065735-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msmnile-user-10-QKQ1.191014.001-20200103.065735-release-keys",
+        "commit": "cac4f2da5a8620f5447d550edcbc7409d304f198",
+        "committed_date": "2020-02-06T18:48:07.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T15:45:47.580Z",
+        "namespace_hint": "zte",
+        "project_hint": "p855a02",
+        "project_id": 1900,
+        "project_path": "zte/p855a02"
+      },
+      "revision": "cac4f2da5a8620f5447d550edcbc7409d304f198",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/p855a02/-/tree/cac4f2da5a8620f5447d550edcbc7409d304f198"
+    },
+    {
+      "item_id": "zte/p855a02@msmnile-user-9-PKQ1.190328.001-213-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msmnile-user-9-PKQ1.190328.001-213-release-keys",
+        "commit": "7f2413e25ed0b40892299b29106af8aa4610569b",
+        "committed_date": "2019-09-24T06:28:34.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T15:45:47.580Z",
+        "namespace_hint": "zte",
+        "project_hint": "p855a02",
+        "project_id": 1900,
+        "project_path": "zte/p855a02"
+      },
+      "revision": "7f2413e25ed0b40892299b29106af8aa4610569b",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/p855a02/-/tree/7f2413e25ed0b40892299b29106af8aa4610569b"
+    },
+    {
+      "item_id": "zte/p855a03_na@msmnile-user-10-GEN_NA_A2020U_PROV2.06-20200107.152718-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msmnile-user-10-GEN_NA_A2020U_PROV2.06-20200107.152718-release-keys",
+        "commit": "4834fcbd0bf48b403dd7fb97e3bed41488a172fd",
+        "committed_date": "2020-03-24T15:28:19.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-27T23:40:58.119Z",
+        "namespace_hint": "zte",
+        "project_hint": "p855a03_na",
+        "project_id": 1794,
+        "project_path": "zte/p855a03_na"
+      },
+      "revision": "4834fcbd0bf48b403dd7fb97e3bed41488a172fd",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/p855a03_na/-/tree/4834fcbd0bf48b403dd7fb97e3bed41488a172fd"
+    },
+    {
+      "item_id": "zte/p855a03_na@msmnile-user-10-QKQ1.200415.002-20200728.172112-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msmnile-user-10-QKQ1.200415.002-20200728.172112-release-keys",
+        "commit": "4e3fc7e7b496e09a16998e27610e6d0b8df55be1",
+        "committed_date": "2022-06-28T02:30:48.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-27T23:40:58.119Z",
+        "namespace_hint": "zte",
+        "project_hint": "p855a03_na",
+        "project_id": 1794,
+        "project_path": "zte/p855a03_na"
+      },
+      "revision": "4e3fc7e7b496e09a16998e27610e6d0b8df55be1",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/p855a03_na/-/tree/4e3fc7e7b496e09a16998e27610e6d0b8df55be1"
+    },
+    {
+      "item_id": "zte/p855a03_na@msmnile-user-9-PKQ1.190519.001-158-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msmnile-user-9-PKQ1.190519.001-158-release-keys",
+        "commit": "e3255fe14151dbcbc855a1ddf8aa19b8be50c75e",
+        "committed_date": "2019-09-11T08:16:48.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-27T23:40:58.119Z",
+        "namespace_hint": "zte",
+        "project_hint": "p855a03_na",
+        "project_id": 1794,
+        "project_path": "zte/p855a03_na"
+      },
+      "revision": "e3255fe14151dbcbc855a1ddf8aa19b8be50c75e",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/p855a03_na/-/tree/e3255fe14151dbcbc855a1ddf8aa19b8be50c75e"
+    },
+    {
+      "item_id": "zte/p855a21@msmnile-user-9-PKQ1.190414.001-47-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msmnile-user-9-PKQ1.190414.001-47-release-keys",
+        "commit": "5a240e1d5ff647a36478cb66463e376c9f443e32",
+        "committed_date": "2020-02-08T17:56:41.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T15:38:00.485Z",
+        "namespace_hint": "zte",
+        "project_hint": "p855a21",
+        "project_id": 1892,
+        "project_path": "zte/p855a21"
+      },
+      "revision": "5a240e1d5ff647a36478cb66463e376c9f443e32",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/p855a21/-/tree/5a240e1d5ff647a36478cb66463e376c9f443e32"
+    },
+    {
+      "item_id": "zte/p855a21@msmnile-user-9-PKQ1.190616.001-179-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msmnile-user-9-PKQ1.190616.001-179-release-keys",
+        "commit": "4be328990860975d0a631d1f51b5e0090b74370a",
+        "committed_date": "2019-09-24T05:56:47.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T15:38:00.485Z",
+        "namespace_hint": "zte",
+        "project_hint": "p855a21",
+        "project_id": 1892,
+        "project_path": "zte/p855a21"
+      },
+      "revision": "4be328990860975d0a631d1f51b5e0090b74370a",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/p855a21/-/tree/4be328990860975d0a631d1f51b5e0090b74370a"
+    },
+    {
+      "item_id": "zte/p855a21@msmnile-user-9-PKQ1.190821.001-219-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msmnile-user-9-PKQ1.190821.001-219-release-keys",
+        "commit": "ac10be4a458e1ba085552d8fde5470a3d2c6324f",
+        "committed_date": "2020-02-06T17:28:54.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T15:38:00.485Z",
+        "namespace_hint": "zte",
+        "project_hint": "p855a21",
+        "project_id": 1892,
+        "project_path": "zte/p855a21"
+      },
+      "revision": "ac10be4a458e1ba085552d8fde5470a3d2c6324f",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/p855a21/-/tree/ac10be4a458e1ba085552d8fde5470a3d2c6324f"
+    },
+    {
+      "item_id": "zte/p870a02@qssi-user-12-SKQ1.220213.001-20221126.160139-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220213.001-20221126.160139-release-keys",
+        "commit": "46520bcbba5932f859796e31e38d7f1a8634e500",
+        "committed_date": "2023-09-18T17:36:38.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-09-18T14:33:11.362Z",
+        "namespace_hint": "zte",
+        "project_hint": "p870a02",
+        "project_id": 4431,
+        "project_path": "zte/p870a02"
+      },
+      "revision": "46520bcbba5932f859796e31e38d7f1a8634e500",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/p870a02/-/tree/46520bcbba5932f859796e31e38d7f1a8634e500"
+    },
+    {
+      "item_id": "zte/p875a02@qssi-user-11-RKQ1.201221.002-20210410.190230-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201221.002-20210410.190230-release-keys",
+        "commit": "fe3351652038672d1b23beeb8672da29b86aaff5",
+        "committed_date": "2021-04-22T07:52:10.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T09:37:06.410Z",
+        "namespace_hint": "zte",
+        "project_hint": "p875a02",
+        "project_id": 1663,
+        "project_path": "zte/p875a02"
+      },
+      "revision": "fe3351652038672d1b23beeb8672da29b86aaff5",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/p875a02/-/tree/fe3351652038672d1b23beeb8672da29b86aaff5"
+    },
+    {
+      "item_id": "zte/p875a12@qssi-user-11-RKQ1.201221.002-20210503.005154-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201221.002-20210503.005154-release-keys",
+        "commit": "d976c99036a913ca5b2ad19a1f20f9202f0a8f6c",
+        "committed_date": "2021-08-11T22:32:46.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T19:35:12.151Z",
+        "namespace_hint": "zte",
+        "project_hint": "p875a12",
+        "project_id": 1272,
+        "project_path": "zte/p875a12"
+      },
+      "revision": "d976c99036a913ca5b2ad19a1f20f9202f0a8f6c",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/p875a12/-/tree/d976c99036a913ca5b2ad19a1f20f9202f0a8f6c"
+    },
+    {
+      "item_id": "zte/p875a12@qssi-user-11-SPB1.210331.013-eng.zte.20210515.103847-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-SPB1.210331.013-eng.zte.20210515.103847-release-keys",
+        "commit": "4112a77effd9409a4116b1822bbd38f5f5c6153a",
+        "committed_date": "2021-05-18T19:11:01.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T19:35:12.151Z",
+        "namespace_hint": "zte",
+        "project_hint": "p875a12",
+        "project_id": 1272,
+        "project_path": "zte/p875a12"
+      },
+      "revision": "4112a77effd9409a4116b1822bbd38f5f5c6153a",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/p875a12/-/tree/4112a77effd9409a4116b1822bbd38f5f5c6153a"
+    },
+    {
+      "item_id": "zte/p875a12@qssi-user-11-SPB1.210331.013-eng.zte.20210601.210631-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-SPB1.210331.013-eng.zte.20210601.210631-release-keys",
+        "commit": "9adab823f7a3e5859313f8187155b6d021fbf18c",
+        "committed_date": "2021-08-11T22:15:51.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T19:35:12.151Z",
+        "namespace_hint": "zte",
+        "project_hint": "p875a12",
+        "project_id": 1272,
+        "project_path": "zte/p875a12"
+      },
+      "revision": "9adab823f7a3e5859313f8187155b6d021fbf18c",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/p875a12/-/tree/9adab823f7a3e5859313f8187155b6d021fbf18c"
+    },
+    {
+      "item_id": "zte/p898a01@qssi-user-12-SKQ1.220213.001-20220705.225255-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220213.001-20220705.225255-release-keys",
+        "commit": "192a5fbf3830f7fe9cccbea0c2bb95bb85bd94a3",
+        "committed_date": "2022-07-23T18:43:32.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-12-02T19:57:23.408Z",
+        "namespace_hint": "zte",
+        "project_hint": "p898a01",
+        "project_id": 2371,
+        "project_path": "zte/p898a01"
+      },
+      "revision": "192a5fbf3830f7fe9cccbea0c2bb95bb85bd94a3",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/p898a01/-/tree/192a5fbf3830f7fe9cccbea0c2bb95bb85bd94a3"
+    },
+    {
+      "item_id": "zte/p898a01@qssi-user-12-SKQ1.220213.001-20221001.091315-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220213.001-20221001.091315-release-keys",
+        "commit": "69923e9ed6b8f596414fe525d45971214f127f67",
+        "committed_date": "2022-12-02T22:48:13.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-12-02T19:57:23.408Z",
+        "namespace_hint": "zte",
+        "project_hint": "p898a01",
+        "project_id": 2371,
+        "project_path": "zte/p898a01"
+      },
+      "revision": "69923e9ed6b8f596414fe525d45971214f127f67",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/p898a01/-/tree/69923e9ed6b8f596414fe525d45971214f127f67"
+    },
+    {
+      "item_id": "zte/p898f01@qssi-user-12-SKQ1.220213.001-20220714.011432-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220213.001-20220714.011432-release-keys",
+        "commit": "ce8bc4d77434cc7f75e0e340cf294ef1a12c8605",
+        "committed_date": "2024-04-08T15:17:08.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-04-08T12:12:51.878Z",
+        "namespace_hint": "zte",
+        "project_hint": "p898f01",
+        "project_id": 5226,
+        "project_path": "zte/p898f01"
+      },
+      "revision": "ce8bc4d77434cc7f75e0e340cf294ef1a12c8605",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/p898f01/-/tree/ce8bc4d77434cc7f75e0e340cf294ef1a12c8605"
+    },
+    {
+      "item_id": "zte/p932f20@sp9832e_1h10_gofu-user-9-PPR1.180610.011-248-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sp9832e_1h10_gofu-user-9-PPR1.180610.011-248-release-keys",
+        "commit": "7284850eaa8608dd4069b0613a979150eb8d8a0a",
+        "committed_date": "2019-11-10T23:31:14.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T18:19:06.814Z",
+        "namespace_hint": "zte",
+        "project_hint": "p932f20",
+        "project_id": 2027,
+        "project_path": "zte/p932f20"
+      },
+      "revision": "7284850eaa8608dd4069b0613a979150eb8d8a0a",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/p932f20/-/tree/7284850eaa8608dd4069b0613a979150eb8d8a0a"
+    },
+    {
+      "item_id": "zte/p963f01d@s9863a1h10_Natv-user-9-PPR1.180610.011-165-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "s9863a1h10_Natv-user-9-PPR1.180610.011-165-release-keys",
+        "commit": "03740f4913359d640e2e372286814bfec63f6a2d",
+        "committed_date": "2019-11-10T22:24:01.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T23:32:51.878Z",
+        "namespace_hint": "zte",
+        "project_hint": "p963f01d",
+        "project_id": 2215,
+        "project_path": "zte/p963f01d"
+      },
+      "revision": "03740f4913359d640e2e372286814bfec63f6a2d",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/p963f01d/-/tree/03740f4913359d640e2e372286814bfec63f6a2d"
+    },
+    {
+      "item_id": "zte/p963f02@s9863a1h10_Natv-user-9-PPR1.180610.011-173-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "s9863a1h10_Natv-user-9-PPR1.180610.011-173-release-keys",
+        "commit": "afef56e3b8465742e348a760298d052c9c1a9625",
+        "committed_date": "2019-11-10T23:37:05.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T17:48:30.278Z",
+        "namespace_hint": "zte",
+        "project_hint": "p963f02",
+        "project_id": 1233,
+        "project_path": "zte/p963f02"
+      },
+      "revision": "afef56e3b8465742e348a760298d052c9c1a9625",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/p963f02/-/tree/afef56e3b8465742e348a760298d052c9c1a9625"
+    },
+    {
+      "item_id": "zte/p963f30p@s9863a1h10_Natv-user-9-PPR1.180610.011-47-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "s9863a1h10_Natv-user-9-PPR1.180610.011-47-release-keys",
+        "commit": "11ee835091670ae2e3639983b987914f5192bad5",
+        "committed_date": "2019-11-10T22:54:59.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T18:59:05.571Z",
+        "namespace_hint": "zte",
+        "project_hint": "p963f30p",
+        "project_id": 2068,
+        "project_path": "zte/p963f30p"
+      },
+      "revision": "11ee835091670ae2e3639983b987914f5192bad5",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/p963f30p/-/tree/11ee835091670ae2e3639983b987914f5192bad5"
+    },
+    {
+      "item_id": "zte/z5151@Z5151V-user-8.1.0-OPM1.171019.026-322-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Z5151V-user-8.1.0-OPM1.171019.026-322-release-keys",
+        "commit": "29cbe54762c6b3098fed79faab28d087c566117f",
+        "committed_date": "2019-07-18T08:21:08.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T18:08:56.556Z",
+        "namespace_hint": "zte",
+        "project_hint": "z5151",
+        "project_id": 2018,
+        "project_path": "zte/z5151"
+      },
+      "revision": "29cbe54762c6b3098fed79faab28d087c566117f",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/z5151/-/tree/29cbe54762c6b3098fed79faab28d087c566117f"
+    },
+    {
+      "item_id": "zte/z6201@full_k61v1_32_bsp_hdp-user-9-PPR1.180610.011-149-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k61v1_32_bsp_hdp-user-9-PPR1.180610.011-149-release-keys",
+        "commit": "d399eaaee955819e10339c5d70804f246faec911",
+        "committed_date": "2019-11-08T10:27:45.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T23:42:10.775Z",
+        "namespace_hint": "zte",
+        "project_hint": "z6201",
+        "project_id": 1401,
+        "project_path": "zte/z6201"
+      },
+      "revision": "d399eaaee955819e10339c5d70804f246faec911",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/z6201/-/tree/d399eaaee955819e10339c5d70804f246faec911"
+    },
+    {
+      "item_id": "zte/z6530@full_k71v1_64_bsp-user-9-PPR1.180610.011-126-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k71v1_64_bsp-user-9-PPR1.180610.011-126-release-keys",
+        "commit": "8d81d71aaf2f007b723c1e7eae3a898e893b5755",
+        "committed_date": "2019-11-08T10:25:05.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T15:53:32.079Z",
+        "namespace_hint": "zte",
+        "project_hint": "z6530",
+        "project_id": 1908,
+        "project_path": "zte/z6530"
+      },
+      "revision": "8d81d71aaf2f007b723c1e7eae3a898e893b5755",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/z6530/-/tree/8d81d71aaf2f007b723c1e7eae3a898e893b5755"
+    },
+    {
+      "item_id": "zte/z6530@full_k71v1_64_bsp-user-9-PPR1.180610.011-56-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k71v1_64_bsp-user-9-PPR1.180610.011-56-release-keys",
+        "commit": "3559735bb27b10a3f8ad09375a5c1a8ecbe8fe8e",
+        "committed_date": "2019-11-09T08:58:31.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T15:53:32.079Z",
+        "namespace_hint": "zte",
+        "project_hint": "z6530",
+        "project_id": 1908,
+        "project_path": "zte/z6530"
+      },
+      "revision": "3559735bb27b10a3f8ad09375a5c1a8ecbe8fe8e",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/z6530/-/tree/3559735bb27b10a3f8ad09375a5c1a8ecbe8fe8e"
+    },
+    {
+      "item_id": "zte/zte_blade_v0820@full_zte6750_35g_n-user-7.0-NRD90M-1506315374-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_zte6750_35g_n-user-7.0-NRD90M-1506315374-release-keys",
+        "commit": "4123fb5512652b09ff966d73fd584470b17ac784",
+        "committed_date": "2022-03-09T17:50:50.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T03:25:23.225Z",
+        "namespace_hint": "zte",
+        "project_hint": "zte_blade_v0820",
+        "project_id": 876,
+        "project_path": "zte/zte_blade_v0820"
+      },
+      "revision": "4123fb5512652b09ff966d73fd584470b17ac784",
+      "url": "https://dumps.tadiphone.dev/dumps/zte/zte_blade_v0820/-/tree/4123fb5512652b09ff966d73fd584470b17ac784"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

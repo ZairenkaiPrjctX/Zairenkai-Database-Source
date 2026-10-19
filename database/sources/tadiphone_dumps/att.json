@@ -1,0 +1,128 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "att/ea211005@FLC_01US-user-11-RP1A.200720.011-01US_2_080-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "FLC_01US-user-11-RP1A.200720.011-01US_2_080-release-keys",
+        "commit": "98b478a292715882af33784722f780459473e7da",
+        "committed_date": "2023-05-17T02:39:44.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-05-16T23:37:50.787Z",
+        "namespace_hint": "att",
+        "project_hint": "ea211005",
+        "project_id": 4300,
+        "project_path": "att/ea211005"
+      },
+      "revision": "98b478a292715882af33784722f780459473e7da",
+      "url": "https://dumps.tadiphone.dev/dumps/att/ea211005/-/tree/98b478a292715882af33784722f780459473e7da"
+    },
+    {
+      "item_id": "att/u202aa@U202AA-user-9-P00610-1592988351-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "U202AA-user-9-P00610-1592988351-release-keys",
+        "commit": "f3d635b9d989025c2ff70104c7dd5345ab0b3bdf",
+        "committed_date": "2020-07-09T16:10:47.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T14:10:16.164Z",
+        "namespace_hint": "att",
+        "project_hint": "u202aa",
+        "project_id": 101,
+        "project_path": "att/u202aa"
+      },
+      "revision": "f3d635b9d989025c2ff70104c7dd5345ab0b3bdf",
+      "url": "https://dumps.tadiphone.dev/dumps/att/u202aa/-/tree/f3d635b9d989025c2ff70104c7dd5345ab0b3bdf"
+    },
+    {
+      "item_id": "att/u304aa@U304AA-user-9-P00610-1593308989-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "U304AA-user-9-P00610-1593308989-release-keys",
+        "commit": "121af85a5197f06a54ee477a4943bb01edf1eb9f",
+        "committed_date": "2020-07-09T16:11:01.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T10:09:08.139Z",
+        "namespace_hint": "att",
+        "project_hint": "u304aa",
+        "project_id": 1696,
+        "project_path": "att/u304aa"
+      },
+      "revision": "121af85a5197f06a54ee477a4943bb01edf1eb9f",
+      "url": "https://dumps.tadiphone.dev/dumps/att/u304aa/-/tree/121af85a5197f06a54ee477a4943bb01edf1eb9f"
+    },
+    {
+      "item_id": "att/u318aa@full_u318-user-10-QP1A.190711.020-1587454740-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_u318-user-10-QP1A.190711.020-1587454740-release-keys",
+        "commit": "7ba05ffaff1172f8fd91624e5a694ee0c23dad14",
+        "committed_date": "2021-02-02T10:14:47.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T21:19:46.940Z",
+        "namespace_hint": "att",
+        "project_hint": "u318aa",
+        "project_id": 1317,
+        "project_path": "att/u318aa"
+      },
+      "revision": "7ba05ffaff1172f8fd91624e5a694ee0c23dad14",
+      "url": "https://dumps.tadiphone.dev/dumps/att/u318aa/-/tree/7ba05ffaff1172f8fd91624e5a694ee0c23dad14"
+    },
+    {
+      "item_id": "att/u325ac@full_u325-userdebug-10-QP1A.190711.020-1590118216-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_u325-userdebug-10-QP1A.190711.020-1590118216-release-keys",
+        "commit": "c762bb0da2c6fda3bbd677e07b820ca4082fda98",
+        "committed_date": "2021-02-02T10:20:06.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T21:02:11.837Z",
+        "namespace_hint": "att",
+        "project_hint": "u325ac",
+        "project_id": 1300,
+        "project_path": "att/u325ac"
+      },
+      "revision": "c762bb0da2c6fda3bbd677e07b820ca4082fda98",
+      "url": "https://dumps.tadiphone.dev/dumps/att/u325ac/-/tree/c762bb0da2c6fda3bbd677e07b820ca4082fda98"
+    },
+    {
+      "item_id": "att/u325ac@full_u325-userdebug-10-QP1A.190711.020-174-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_u325-userdebug-10-QP1A.190711.020-174-release-keys",
+        "commit": "6778a91babd2ffd8c5aeb03624b486e36d890d23",
+        "committed_date": "2021-02-02T10:16:06.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T21:02:11.837Z",
+        "namespace_hint": "att",
+        "project_hint": "u325ac",
+        "project_id": 1300,
+        "project_path": "att/u325ac"
+      },
+      "revision": "6778a91babd2ffd8c5aeb03624b486e36d890d23",
+      "url": "https://dumps.tadiphone.dev/dumps/att/u325ac/-/tree/6778a91babd2ffd8c5aeb03624b486e36d890d23"
+    },
+    {
+      "item_id": "att/u705aa@full_u705-user-10-QP1A.190711.020-1593412500-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_u705-user-10-QP1A.190711.020-1593412500-release-keys",
+        "commit": "13604941efdeefcb7939d4aed92aed463488400d",
+        "committed_date": "2021-02-02T10:21:17.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T14:09:28.277Z",
+        "namespace_hint": "att",
+        "project_hint": "u705aa",
+        "project_id": 100,
+        "project_path": "att/u705aa"
+      },
+      "revision": "13604941efdeefcb7939d4aed92aed463488400d",
+      "url": "https://dumps.tadiphone.dev/dumps/att/u705aa/-/tree/13604941efdeefcb7939d4aed92aed463488400d"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

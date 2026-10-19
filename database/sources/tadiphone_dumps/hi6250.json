@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "hi6250/hi6250@generic_a15-user-8.0.0-OPR6.170623.010-eng.root.20201005.154232-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "generic_a15-user-8.0.0-OPR6.170623.010-eng.root.20201005.154232-test-keys",
+        "commit": "b108794acc3dc38c369df47920b67dc78edfce52",
+        "committed_date": "2024-10-09T20:55:59.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-09T17:58:50.517Z",
+        "namespace_hint": "hi6250",
+        "project_hint": "hi6250",
+        "project_id": 1353,
+        "project_path": "hi6250/hi6250"
+      },
+      "revision": "b108794acc3dc38c369df47920b67dc78edfce52",
+      "url": "https://dumps.tadiphone.dev/dumps/hi6250/hi6250/-/tree/b108794acc3dc38c369df47920b67dc78edfce52"
+    },
+    {
+      "item_id": "hi6250/hi6250@generic_a15-user-9-PPR1.180610.011-eng.jslave.20190705.035530-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "generic_a15-user-9-PPR1.180610.011-eng.jslave.20190705.035530-test-keys",
+        "commit": "e4609f957f7047f50f394084728508758266fba0",
+        "committed_date": "2019-12-06T17:06:18.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2024-10-09T17:58:50.517Z",
+        "namespace_hint": "hi6250",
+        "project_hint": "hi6250",
+        "project_id": 1353,
+        "project_path": "hi6250/hi6250"
+      },
+      "revision": "e4609f957f7047f50f394084728508758266fba0",
+      "url": "https://dumps.tadiphone.dev/dumps/hi6250/hi6250/-/tree/e4609f957f7047f50f394084728508758266fba0"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

@@ -1,0 +1,60 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "blackberry/bbf100@ABE181",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ABE181",
+        "commit": "3de2ac8b4524902ee7a9ad358511bbcd736200fe",
+        "committed_date": "2018-08-21T23:54:37.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T21:20:20.735Z",
+        "namespace_hint": "blackberry",
+        "project_hint": "bbf100",
+        "project_id": 1318,
+        "project_path": "blackberry/bbf100"
+      },
+      "revision": "3de2ac8b4524902ee7a9ad358511bbcd736200fe",
+      "url": "https://dumps.tadiphone.dev/dumps/blackberry/bbf100/-/tree/3de2ac8b4524902ee7a9ad358511bbcd736200fe"
+    },
+    {
+      "item_id": "blackberry/unknown@bbry_qc8953_sfi-user-7-NMF26F-AAL093-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "bbry_qc8953_sfi-user-7-NMF26F-AAL093-release-keys",
+        "commit": "afb9191beca794f04a879e24ef284f0dbbe89091",
+        "committed_date": "2019-12-30T02:04:12.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T03:15:37.840Z",
+        "namespace_hint": "blackberry",
+        "project_hint": "unknown",
+        "project_id": 871,
+        "project_path": "blackberry/unknown"
+      },
+      "revision": "afb9191beca794f04a879e24ef284f0dbbe89091",
+      "url": "https://dumps.tadiphone.dev/dumps/blackberry/unknown/-/tree/afb9191beca794f04a879e24ef284f0dbbe89091"
+    },
+    {
+      "item_id": "blackberry/unknown@bbry_sdm636_sfi-user-8-OPM1.171019.026-ACE748-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "bbry_sdm636_sfi-user-8-OPM1.171019.026-ACE748-release-keys",
+        "commit": "5715c832b9ee71ded2bd8608ec7977c23b12dbac",
+        "committed_date": "2019-12-30T02:26:52.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T03:15:37.840Z",
+        "namespace_hint": "blackberry",
+        "project_hint": "unknown",
+        "project_id": 871,
+        "project_path": "blackberry/unknown"
+      },
+      "revision": "5715c832b9ee71ded2bd8608ec7977c23b12dbac",
+      "url": "https://dumps.tadiphone.dev/dumps/blackberry/unknown/-/tree/5715c832b9ee71ded2bd8608ec7977c23b12dbac"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

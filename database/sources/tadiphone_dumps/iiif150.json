@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "iiif150/air1_ultra_pro@Air1_Ultra_Pro_EEA-user-12-SP1A.210812.016-1677338620-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Air1_Ultra_Pro_EEA-user-12-SP1A.210812.016-1677338620-release-keys",
+        "commit": "75d74afdc020dda319d4ce37f9b0128660d6b192",
+        "committed_date": "2023-12-04T09:00:38.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-12-04T05:58:16.495Z",
+        "namespace_hint": "iiif150",
+        "project_hint": "air1_ultra_pro",
+        "project_id": 4630,
+        "project_path": "iiif150/air1_ultra_pro"
+      },
+      "revision": "75d74afdc020dda319d4ce37f9b0128660d6b192",
+      "url": "https://dumps.tadiphone.dev/dumps/iiif150/air1_ultra_pro/-/tree/75d74afdc020dda319d4ce37f9b0128660d6b192"
+    },
+    {
+      "item_id": "iiif150/raptor@Raptor_EEA-user-13-TP1A.220624.014-1688699822-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Raptor_EEA-user-13-TP1A.220624.014-1688699822-release-keys",
+        "commit": "32f0534a2e878425c5650b162a2cb8155dafbe4c",
+        "committed_date": "2023-12-04T08:46:05.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-12-04T05:43:16.159Z",
+        "namespace_hint": "iiif150",
+        "project_hint": "raptor",
+        "project_id": 4629,
+        "project_path": "iiif150/raptor"
+      },
+      "revision": "32f0534a2e878425c5650b162a2cb8155dafbe4c",
+      "url": "https://dumps.tadiphone.dev/dumps/iiif150/raptor/-/tree/32f0534a2e878425c5650b162a2cb8155dafbe4c"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

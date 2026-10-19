@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "hiby/rs6@RS6-user-9-PKQ1.190821.001-eng.HiBy.20230309.190421-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "RS6-user-9-PKQ1.190821.001-eng.HiBy.20230309.190421-dev-keys",
+        "commit": "5ab7b31918f0b6275c063eda65bb9bdfeefb2a71",
+        "committed_date": "2024-07-22T12:04:20.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-07-22T09:03:02.696Z",
+        "namespace_hint": "hiby",
+        "project_hint": "rs6",
+        "project_id": 5350,
+        "project_path": "hiby/rs6"
+      },
+      "revision": "5ab7b31918f0b6275c063eda65bb9bdfeefb2a71",
+      "url": "https://dumps.tadiphone.dev/dumps/hiby/rs6/-/tree/5ab7b31918f0b6275c063eda65bb9bdfeefb2a71"
+    },
+    {
+      "item_id": "hiby/rs8@qssi-user-12-SKQ1.211006.001-eng.HiBy.20231017.165822-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211006.001-eng.HiBy.20231017.165822-dev-keys",
+        "commit": "6a137f8411d04cf9cadac3a15ff1ff39d900c64b",
+        "committed_date": "2024-01-29T14:50:34.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-01-29T11:49:08.919Z",
+        "namespace_hint": "hiby",
+        "project_hint": "rs8",
+        "project_id": 4723,
+        "project_path": "hiby/rs8"
+      },
+      "revision": "6a137f8411d04cf9cadac3a15ff1ff39d900c64b",
+      "url": "https://dumps.tadiphone.dev/dumps/hiby/rs8/-/tree/6a137f8411d04cf9cadac3a15ff1ff39d900c64b"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

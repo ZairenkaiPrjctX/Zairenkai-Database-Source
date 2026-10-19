@@ -1,0 +1,60 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "leeco/le_s2@s2-user-6.0.1-IEXCNFN6003009094S-86-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "s2-user-6.0.1-IEXCNFN6003009094S-86-release-keys",
+        "commit": "fe0535cff5ac62358ca907a44da29fb592c9c901",
+        "committed_date": "2019-12-04T07:28:56.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T01:41:08.288Z",
+        "namespace_hint": "leeco",
+        "project_hint": "le_s2",
+        "project_id": 2303,
+        "project_path": "leeco/le_s2"
+      },
+      "revision": "fe0535cff5ac62358ca907a44da29fb592c9c901",
+      "url": "https://dumps.tadiphone.dev/dumps/leeco/le_s2/-/tree/fe0535cff5ac62358ca907a44da29fb592c9c901"
+    },
+    {
+      "item_id": "leeco/le_x6@full_s2_plus-user-6.0-HEXCNFN6003009092S-1536441333-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_s2_plus-user-6.0-HEXCNFN6003009092S-1536441333-release-keys",
+        "commit": "367111094d890c0b22b6f6d41f6d610e814503f6",
+        "committed_date": "2019-12-04T00:00:35.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T15:51:24.309Z",
+        "namespace_hint": "leeco",
+        "project_hint": "le_x6",
+        "project_id": 1905,
+        "project_path": "leeco/le_x6"
+      },
+      "revision": "367111094d890c0b22b6f6d41f6d610e814503f6",
+      "url": "https://dumps.tadiphone.dev/dumps/leeco/le_x6/-/tree/367111094d890c0b22b6f6d41f6d610e814503f6"
+    },
+    {
+      "item_id": "leeco/le_x7@full_x7-user-6.0-KGXCNFN6003009091S-1536424892-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_x7-user-6.0-KGXCNFN6003009091S-1536424892-release-keys",
+        "commit": "ca90e084e3a15de6492995d5e4d192e87933ec78",
+        "committed_date": "2024-09-01T21:27:51.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-09-01T18:25:46.744Z",
+        "namespace_hint": "leeco",
+        "project_hint": "le_x7",
+        "project_id": 5405,
+        "project_path": "leeco/le_x7"
+      },
+      "revision": "ca90e084e3a15de6492995d5e4d192e87933ec78",
+      "url": "https://dumps.tadiphone.dev/dumps/leeco/le_x7/-/tree/ca90e084e3a15de6492995d5e4d192e87933ec78"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

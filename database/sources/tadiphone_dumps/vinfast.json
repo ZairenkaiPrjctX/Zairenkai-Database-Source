@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "vinfast/EEP10005557@master",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "master",
+        "commit": "4a903e5c9ee2d50eb70429c0c9929f0bb2281579",
+        "committed_date": "2021-08-16T18:27:20.000+08:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T22:52:23.649Z",
+        "namespace_hint": "vinfast",
+        "project_hint": "EEP10005557",
+        "project_id": 2180,
+        "project_path": "vinfast/EEP10005557"
+      },
+      "revision": "4a903e5c9ee2d50eb70429c0c9929f0bb2281579",
+      "url": "https://dumps.tadiphone.dev/dumps/vinfast/EEP10005557/-/tree/4a903e5c9ee2d50eb70429c0c9929f0bb2281579"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

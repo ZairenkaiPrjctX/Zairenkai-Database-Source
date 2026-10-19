@@ -1,0 +1,213 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "htc/europe_magnids@1.05.401.3-CL144761-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "1.05.401.3-CL144761-release-keys",
+        "commit": "67032d01f2d64c1761980fdd77ff75605efbee8e",
+        "committed_date": "2019-10-19T09:31:41.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T15:00:20.838Z",
+        "namespace_hint": "htc",
+        "project_hint": "europe_magnids",
+        "project_id": 1115,
+        "project_path": "htc/europe_magnids"
+      },
+      "revision": "67032d01f2d64c1761980fdd77ff75605efbee8e",
+      "url": "https://dumps.tadiphone.dev/dumps/htc/europe_magnids/-/tree/67032d01f2d64c1761980fdd77ff75605efbee8e"
+    },
+    {
+      "item_id": "htc/htc_acawhl@1.17.651.15-8.0_g-CL821651-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "1.17.651.15-8.0_g-CL821651-release-keys",
+        "commit": "699c919c8021d6de35d58513a15ffd9b1bfa68fd",
+        "committed_date": "2021-03-08T12:07:46.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T13:47:01.643Z",
+        "namespace_hint": "htc",
+        "project_hint": "htc_acawhl",
+        "project_id": 1051,
+        "project_path": "htc/htc_acawhl"
+      },
+      "revision": "699c919c8021d6de35d58513a15ffd9b1bfa68fd",
+      "url": "https://dumps.tadiphone.dev/dumps/htc/htc_acawhl/-/tree/699c919c8021d6de35d58513a15ffd9b1bfa68fd"
+    },
+    {
+      "item_id": "htc/htc_himaulatt@4.30.617.12-CL894012-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "4.30.617.12-CL894012-release-keys",
+        "commit": "428f146c4d82900b13b4380a784b1146573472da",
+        "committed_date": "2023-11-28T02:42:19.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-11-27T23:40:02.254Z",
+        "namespace_hint": "htc",
+        "project_hint": "htc_himaulatt",
+        "project_id": 4615,
+        "project_path": "htc/htc_himaulatt"
+      },
+      "revision": "428f146c4d82900b13b4380a784b1146573472da",
+      "url": "https://dumps.tadiphone.dev/dumps/htc/htc_himaulatt/-/tree/428f146c4d82900b13b4380a784b1146573472da"
+    },
+    {
+      "item_id": "htc/htc_imeuhl@1.30.617.2-10.0_g-CL1050003-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "1.30.617.2-10.0_g-CL1050003-release-keys",
+        "commit": "09646aeba47afef97bb7aaf60a8204008ae8d9ec",
+        "committed_date": "2019-12-16T11:10:58.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T12:37:37.138Z",
+        "namespace_hint": "htc",
+        "project_hint": "htc_imeuhl",
+        "project_id": 995,
+        "project_path": "htc/htc_imeuhl"
+      },
+      "revision": "09646aeba47afef97bb7aaf60a8204008ae8d9ec",
+      "url": "https://dumps.tadiphone.dev/dumps/htc/htc_imeuhl/-/tree/09646aeba47afef97bb7aaf60a8204008ae8d9ec"
+    },
+    {
+      "item_id": "htc/htc_m8@5.07.1700.15-CL648564-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "5.07.1700.15-CL648564-release-keys",
+        "commit": "c58aba8d07d0945c6479d0dcd4981b4182ca75be",
+        "committed_date": "2021-08-18T08:33:47.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T11:50:01.259Z",
+        "namespace_hint": "htc",
+        "project_hint": "htc_m8",
+        "project_id": 1742,
+        "project_path": "htc/htc_m8"
+      },
+      "revision": "c58aba8d07d0945c6479d0dcd4981b4182ca75be",
+      "url": "https://dumps.tadiphone.dev/dumps/htc/htc_m8/-/tree/c58aba8d07d0945c6479d0dcd4981b4182ca75be"
+    },
+    {
+      "item_id": "htc/htc_m8@6.12.1540.4-CL662736-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "6.12.1540.4-CL662736-release-keys",
+        "commit": "a7e5d83eda4533c36bab61a24eb2b10dceb4b8c0",
+        "committed_date": "2021-08-18T08:27:48.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T11:50:01.259Z",
+        "namespace_hint": "htc",
+        "project_hint": "htc_m8",
+        "project_id": 1742,
+        "project_path": "htc/htc_m8"
+      },
+      "revision": "a7e5d83eda4533c36bab61a24eb2b10dceb4b8c0",
+      "url": "https://dumps.tadiphone.dev/dumps/htc/htc_m8/-/tree/a7e5d83eda4533c36bab61a24eb2b10dceb4b8c0"
+    },
+    {
+      "item_id": "htc/htc_m8whl@6.20.654.3-CL682910-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "6.20.654.3-CL682910-release-keys",
+        "commit": "f77f74cddc608eb833c71f5d8ce23c4e520cd392",
+        "committed_date": "2021-08-18T10:31:42.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T11:23:00.454Z",
+        "namespace_hint": "htc",
+        "project_hint": "htc_m8whl",
+        "project_id": 983,
+        "project_path": "htc/htc_m8whl"
+      },
+      "revision": "f77f74cddc608eb833c71f5d8ce23c4e520cd392",
+      "url": "https://dumps.tadiphone.dev/dumps/htc/htc_m8whl/-/tree/f77f74cddc608eb833c71f5d8ce23c4e520cd392"
+    },
+    {
+      "item_id": "htc/htc_ocnwhl@2.33.651.10-9.0_g-CL1002308-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "2.33.651.10-9.0_g-CL1002308-release-keys",
+        "commit": "8069fefd17dd648ac25e3023753e4f21d5837d6f",
+        "committed_date": "2019-12-16T11:08:07.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T07:35:59.667Z",
+        "namespace_hint": "htc",
+        "project_hint": "htc_ocnwhl",
+        "project_id": 1546,
+        "project_path": "htc/htc_ocnwhl"
+      },
+      "revision": "8069fefd17dd648ac25e3023753e4f21d5837d6f",
+      "url": "https://dumps.tadiphone.dev/dumps/htc/htc_ocnwhl/-/tree/8069fefd17dd648ac25e3023753e4f21d5837d6f"
+    },
+    {
+      "item_id": "htc/htc_pmeuhl@3.16.401.2-9.0_g-CL1012001-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "3.16.401.2-9.0_g-CL1012001-release-keys",
+        "commit": "626d254adddd5a9ab932c028be5104af4f4c2f39",
+        "committed_date": "2024-09-19T00:09:02.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-09-18T21:13:22.462Z",
+        "namespace_hint": "htc",
+        "project_hint": "htc_pmeuhl",
+        "project_id": 1323,
+        "project_path": "htc/htc_pmeuhl"
+      },
+      "revision": "626d254adddd5a9ab932c028be5104af4f4c2f39",
+      "url": "https://dumps.tadiphone.dev/dumps/htc/htc_pmeuhl/-/tree/626d254adddd5a9ab932c028be5104af4f4c2f39"
+    },
+    {
+      "item_id": "htc/htc_pmeuhl@3.16.709.8-9.0_g-CL1012001-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "3.16.709.8-9.0_g-CL1012001-release-keys",
+        "commit": "0587f8f233ab8c05073e13ebfd92c6f076a60241",
+        "committed_date": "2020-05-11T20:28:05.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2024-09-18T21:13:22.462Z",
+        "namespace_hint": "htc",
+        "project_hint": "htc_pmeuhl",
+        "project_id": 1323,
+        "project_path": "htc/htc_pmeuhl"
+      },
+      "revision": "0587f8f233ab8c05073e13ebfd92c6f076a60241",
+      "url": "https://dumps.tadiphone.dev/dumps/htc/htc_pmeuhl/-/tree/0587f8f233ab8c05073e13ebfd92c6f076a60241"
+    },
+    {
+      "item_id": "htc/htc_rtxspcs@1.30.651.6-10.0_g-CL1107380-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "1.30.651.6-10.0_g-CL1107380-release-keys",
+        "commit": "adfede4651e309c538424014887cbb12f4900674",
+        "committed_date": "2020-11-25T05:11:14.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T01:49:16.034Z",
+        "namespace_hint": "htc",
+        "project_hint": "htc_rtxspcs",
+        "project_id": 1502,
+        "project_path": "htc/htc_rtxspcs"
+      },
+      "revision": "adfede4651e309c538424014887cbb12f4900674",
+      "url": "https://dumps.tadiphone.dev/dumps/htc/htc_rtxspcs/-/tree/adfede4651e309c538424014887cbb12f4900674"
+    },
+    {
+      "item_id": "htc/ocmdugl@1.24.401.2-9.0_g-CL1010171-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "1.24.401.2-9.0_g-CL1010171-release-keys",
+        "commit": "15257e21ab1a12a11ab18ad124785d4a26b727ce",
+        "committed_date": "2018-03-31T22:33:05.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T09:44:17.294Z",
+        "namespace_hint": "htc",
+        "project_hint": "ocmdugl",
+        "project_id": 1670,
+        "project_path": "htc/ocmdugl"
+      },
+      "revision": "15257e21ab1a12a11ab18ad124785d4a26b727ce",
+      "url": "https://dumps.tadiphone.dev/dumps/htc/ocmdugl/-/tree/15257e21ab1a12a11ab18ad124785d4a26b727ce"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

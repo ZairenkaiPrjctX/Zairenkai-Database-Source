@@ -1,0 +1,383 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "surface/duo2@duo2-user-duo2-2021.827.34-202108270034-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "duo2-user-duo2-2021.827.34-202108270034-release-keys",
+        "commit": "1d2c16a04ca0ed4258b1b6d965467e811e9a20ea",
+        "committed_date": "2021-10-23T13:06:56.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-10-24T21:12:18.944Z",
+        "namespace_hint": "surface",
+        "project_hint": "duo2",
+        "project_id": 2278,
+        "project_path": "surface/duo2"
+      },
+      "revision": "1d2c16a04ca0ed4258b1b6d965467e811e9a20ea",
+      "url": "https://dumps.tadiphone.dev/dumps/surface/duo2/-/tree/1d2c16a04ca0ed4258b1b6d965467e811e9a20ea"
+    },
+    {
+      "item_id": "surface/duo2@duo2-user-duo2-2022.815.179-202208150179-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "duo2-user-duo2-2022.815.179-202208150179-release-keys",
+        "commit": "2824908ab3afb51c75f6d61d00b5764a3885fefe",
+        "committed_date": "2022-10-25T00:02:09.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-10-24T21:12:18.944Z",
+        "namespace_hint": "surface",
+        "project_hint": "duo2",
+        "project_id": 2278,
+        "project_path": "surface/duo2"
+      },
+      "revision": "2824908ab3afb51c75f6d61d00b5764a3885fefe",
+      "url": "https://dumps.tadiphone.dev/dumps/surface/duo2/-/tree/2824908ab3afb51c75f6d61d00b5764a3885fefe"
+    },
+    {
+      "item_id": "surface/duo@duo-user-duo-2020.1014.61-202010140061-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "duo-user-duo-2020.1014.61-202010140061-release-keys",
+        "commit": "fffdfa3f9311facfc3ccd51a0d66fc94d8f6bac6",
+        "committed_date": "2020-11-15T16:07:45.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-10-15T14:53:30.189Z",
+        "namespace_hint": "surface",
+        "project_hint": "duo",
+        "project_id": 2148,
+        "project_path": "surface/duo"
+      },
+      "revision": "fffdfa3f9311facfc3ccd51a0d66fc94d8f6bac6",
+      "url": "https://dumps.tadiphone.dev/dumps/surface/duo/-/tree/fffdfa3f9311facfc3ccd51a0d66fc94d8f6bac6"
+    },
+    {
+      "item_id": "surface/duo@duo-user-duo-2020.1211.85-202012110085-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "duo-user-duo-2020.1211.85-202012110085-release-keys",
+        "commit": "a58bdb2a25031816fa46197e65b9da0c9ec770a7",
+        "committed_date": "2021-02-25T09:42:04.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-10-15T14:53:30.189Z",
+        "namespace_hint": "surface",
+        "project_hint": "duo",
+        "project_id": 2148,
+        "project_path": "surface/duo"
+      },
+      "revision": "a58bdb2a25031816fa46197e65b9da0c9ec770a7",
+      "url": "https://dumps.tadiphone.dev/dumps/surface/duo/-/tree/a58bdb2a25031816fa46197e65b9da0c9ec770a7"
+    },
+    {
+      "item_id": "surface/duo@duo-user-duo-2020.812.86-202008120086-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "duo-user-duo-2020.812.86-202008120086-release-keys",
+        "commit": "b669aa69ac9c675ab591b94249ccc8f05d14f1b7",
+        "committed_date": "2020-09-12T04:10:09.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-10-15T14:53:30.189Z",
+        "namespace_hint": "surface",
+        "project_hint": "duo",
+        "project_id": 2148,
+        "project_path": "surface/duo"
+      },
+      "revision": "b669aa69ac9c675ab591b94249ccc8f05d14f1b7",
+      "url": "https://dumps.tadiphone.dev/dumps/surface/duo/-/tree/b669aa69ac9c675ab591b94249ccc8f05d14f1b7"
+    },
+    {
+      "item_id": "surface/duo@duo-user-duo-2020.910.72-202009100072-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "duo-user-duo-2020.910.72-202009100072-release-keys",
+        "commit": "02687cc2dacffd597e160b2b4736fdbe9f776f9b",
+        "committed_date": "2020-11-12T00:43:57.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-10-15T14:53:30.189Z",
+        "namespace_hint": "surface",
+        "project_hint": "duo",
+        "project_id": 2148,
+        "project_path": "surface/duo"
+      },
+      "revision": "02687cc2dacffd597e160b2b4736fdbe9f776f9b",
+      "url": "https://dumps.tadiphone.dev/dumps/surface/duo/-/tree/02687cc2dacffd597e160b2b4736fdbe9f776f9b"
+    },
+    {
+      "item_id": "surface/duo@duo-user-duo-2021.1027.156-202110270156-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "duo-user-duo-2021.1027.156-202110270156-release-keys",
+        "commit": "0d6fbdcc50aa24bb46ff75b575786cd710d3e6fd",
+        "committed_date": "2022-01-24T22:47:35.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-10-15T14:53:30.189Z",
+        "namespace_hint": "surface",
+        "project_hint": "duo",
+        "project_id": 2148,
+        "project_path": "surface/duo"
+      },
+      "revision": "0d6fbdcc50aa24bb46ff75b575786cd710d3e6fd",
+      "url": "https://dumps.tadiphone.dev/dumps/surface/duo/-/tree/0d6fbdcc50aa24bb46ff75b575786cd710d3e6fd"
+    },
+    {
+      "item_id": "surface/duo@duo-user-duo-2022.115.10-202201150010-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "duo-user-duo-2022.115.10-202201150010-release-keys",
+        "commit": "7e3f5b5b056c0015043cce36b2f5e7bc80b7ae13",
+        "committed_date": "2022-04-15T12:55:49.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-10-15T14:53:30.189Z",
+        "namespace_hint": "surface",
+        "project_hint": "duo",
+        "project_id": 2148,
+        "project_path": "surface/duo"
+      },
+      "revision": "7e3f5b5b056c0015043cce36b2f5e7bc80b7ae13",
+      "url": "https://dumps.tadiphone.dev/dumps/surface/duo/-/tree/7e3f5b5b056c0015043cce36b2f5e7bc80b7ae13"
+    },
+    {
+      "item_id": "surface/duo@duo-user-duo-2022.215.137-202202150137-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "duo-user-duo-2022.215.137-202202150137-release-keys",
+        "commit": "c71b273aa7a89f8fc1325563186b3471a3f76596",
+        "committed_date": "2022-05-23T07:38:54.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-10-15T14:53:30.189Z",
+        "namespace_hint": "surface",
+        "project_hint": "duo",
+        "project_id": 2148,
+        "project_path": "surface/duo"
+      },
+      "revision": "c71b273aa7a89f8fc1325563186b3471a3f76596",
+      "url": "https://dumps.tadiphone.dev/dumps/surface/duo/-/tree/c71b273aa7a89f8fc1325563186b3471a3f76596"
+    },
+    {
+      "item_id": "surface/duo@duo-user-duo-2022.519.29-202205190029-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "duo-user-duo-2022.519.29-202205190029-release-keys",
+        "commit": "3a311b4992e33aede98207d69e964ab615186165",
+        "committed_date": "2022-09-06T17:21:20.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-10-15T14:53:30.189Z",
+        "namespace_hint": "surface",
+        "project_hint": "duo",
+        "project_id": 2148,
+        "project_path": "surface/duo"
+      },
+      "revision": "3a311b4992e33aede98207d69e964ab615186165",
+      "url": "https://dumps.tadiphone.dev/dumps/surface/duo/-/tree/3a311b4992e33aede98207d69e964ab615186165"
+    },
+    {
+      "item_id": "surface/duo@duo-user-duo-2022.519.41-202205190041-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "duo-user-duo-2022.519.41-202205190041-release-keys",
+        "commit": "5ba61894ed5f95dd3f2640184c7b7c7ace6167d4",
+        "committed_date": "2022-10-24T21:18:25.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-10-15T14:53:30.189Z",
+        "namespace_hint": "surface",
+        "project_hint": "duo",
+        "project_id": 2148,
+        "project_path": "surface/duo"
+      },
+      "revision": "5ba61894ed5f95dd3f2640184c7b7c7ace6167d4",
+      "url": "https://dumps.tadiphone.dev/dumps/surface/duo/-/tree/5ba61894ed5f95dd3f2640184c7b7c7ace6167d4"
+    },
+    {
+      "item_id": "surface/duo@duo-user-duo-2022.815.152-202208150152-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "duo-user-duo-2022.815.152-202208150152-release-keys",
+        "commit": "e32c498a2f0379a5fd18bf49c0f70fe6b8938c08",
+        "committed_date": "2022-10-25T00:20:25.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-10-15T14:53:30.189Z",
+        "namespace_hint": "surface",
+        "project_hint": "duo",
+        "project_id": 2148,
+        "project_path": "surface/duo"
+      },
+      "revision": "e32c498a2f0379a5fd18bf49c0f70fe6b8938c08",
+      "url": "https://dumps.tadiphone.dev/dumps/surface/duo/-/tree/e32c498a2f0379a5fd18bf49c0f70fe6b8938c08"
+    },
+    {
+      "item_id": "surface/duo@duo-user-duo-2022.827.21-202208270021-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "duo-user-duo-2022.827.21-202208270021-release-keys",
+        "commit": "ba5c6e3768f275784880778c80c5c70a53d13203",
+        "committed_date": "2023-05-24T02:08:16.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-10-15T14:53:30.189Z",
+        "namespace_hint": "surface",
+        "project_hint": "duo",
+        "project_id": 2148,
+        "project_path": "surface/duo"
+      },
+      "revision": "ba5c6e3768f275784880778c80c5c70a53d13203",
+      "url": "https://dumps.tadiphone.dev/dumps/surface/duo/-/tree/ba5c6e3768f275784880778c80c5c70a53d13203"
+    },
+    {
+      "item_id": "surface/duo@duo-user-duo-2022.902.32-202209020032-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "duo-user-duo-2022.902.32-202209020032-release-keys",
+        "commit": "0c934bdc388167b06c041d7cd63393d01489defa",
+        "committed_date": "2023-08-18T17:48:45.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-10-15T14:53:30.189Z",
+        "namespace_hint": "surface",
+        "project_hint": "duo",
+        "project_id": 2148,
+        "project_path": "surface/duo"
+      },
+      "revision": "0c934bdc388167b06c041d7cd63393d01489defa",
+      "url": "https://dumps.tadiphone.dev/dumps/surface/duo/-/tree/0c934bdc388167b06c041d7cd63393d01489defa"
+    },
+    {
+      "item_id": "surface/duo@duo-user-duo-2022.902.48-202209020048-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "duo-user-duo-2022.902.48-202209020048-release-keys",
+        "commit": "8ae6bba48a46e44812592b50deca0b4be97cf9fd",
+        "committed_date": "2023-10-15T17:42:15.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-10-15T14:53:30.189Z",
+        "namespace_hint": "surface",
+        "project_hint": "duo",
+        "project_id": 2148,
+        "project_path": "surface/duo"
+      },
+      "revision": "8ae6bba48a46e44812592b50deca0b4be97cf9fd",
+      "url": "https://dumps.tadiphone.dev/dumps/surface/duo/-/tree/8ae6bba48a46e44812592b50deca0b4be97cf9fd"
+    },
+    {
+      "item_id": "surface/duo_emulator@duo_emulator-user-10-duo_emulator-public-preview-2020.624.2-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "duo_emulator-user-10-duo_emulator-public-preview-2020.624.2-test-keys",
+        "commit": "0b0c314f9b0d141d38b9d4c00cda987290e87fca",
+        "committed_date": "2020-06-26T18:07:14.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T15:59:45.152Z",
+        "namespace_hint": "surface",
+        "project_hint": "duo_emulator",
+        "project_id": 1155,
+        "project_path": "surface/duo_emulator"
+      },
+      "revision": "0b0c314f9b0d141d38b9d4c00cda987290e87fca",
+      "url": "https://dumps.tadiphone.dev/dumps/surface/duo_emulator/-/tree/0b0c314f9b0d141d38b9d4c00cda987290e87fca"
+    },
+    {
+      "item_id": "surface/eos_emulator@10",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "10",
+        "commit": "823f2974d2dd423f3b2e95d8703cae2a8c0993e9",
+        "committed_date": "2020-02-26T20:41:32.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T23:07:21.793Z",
+        "namespace_hint": "surface",
+        "project_hint": "eos_emulator",
+        "project_id": 2189,
+        "project_path": "surface/eos_emulator"
+      },
+      "revision": "823f2974d2dd423f3b2e95d8703cae2a8c0993e9",
+      "url": "https://dumps.tadiphone.dev/dumps/surface/eos_emulator/-/tree/823f2974d2dd423f3b2e95d8703cae2a8c0993e9"
+    },
+    {
+      "item_id": "surface/eos_emulator@eos_emulator-user-10-emu-q-pub-user-2020.319.2-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "eos_emulator-user-10-emu-q-pub-user-2020.319.2-test-keys",
+        "commit": "e2f17f241e3e5838ea360459263fb9ef25efbbcf",
+        "committed_date": "2020-04-03T10:54:28.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T23:07:21.793Z",
+        "namespace_hint": "surface",
+        "project_hint": "eos_emulator",
+        "project_id": 2189,
+        "project_path": "surface/eos_emulator"
+      },
+      "revision": "e2f17f241e3e5838ea360459263fb9ef25efbbcf",
+      "url": "https://dumps.tadiphone.dev/dumps/surface/eos_emulator/-/tree/e2f17f241e3e5838ea360459263fb9ef25efbbcf"
+    },
+    {
+      "item_id": "surface/eos_emulator@eos_emulator-user-10-emu-q-pub-user-2020.429.3-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "eos_emulator-user-10-emu-q-pub-user-2020.429.3-test-keys",
+        "commit": "9d5ec9fec5080c5384df3093c6bdf64ac75d92a2",
+        "committed_date": "2020-06-26T17:06:07.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T23:07:21.793Z",
+        "namespace_hint": "surface",
+        "project_hint": "eos_emulator",
+        "project_id": 2189,
+        "project_path": "surface/eos_emulator"
+      },
+      "revision": "9d5ec9fec5080c5384df3093c6bdf64ac75d92a2",
+      "url": "https://dumps.tadiphone.dev/dumps/surface/eos_emulator/-/tree/9d5ec9fec5080c5384df3093c6bdf64ac75d92a2"
+    },
+    {
+      "item_id": "surface/eos_emulator@eos_emulator-userdebug-10-emu-q-pub-userdebug-2020.113.2-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "eos_emulator-userdebug-10-emu-q-pub-userdebug-2020.113.2-test-keys",
+        "commit": "988cb247998d614ab877661a6ed40d4e4cfd1b46",
+        "committed_date": "2020-01-22T22:15:36.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T23:07:21.793Z",
+        "namespace_hint": "surface",
+        "project_hint": "eos_emulator",
+        "project_id": 2189,
+        "project_path": "surface/eos_emulator"
+      },
+      "revision": "988cb247998d614ab877661a6ed40d4e4cfd1b46",
+      "url": "https://dumps.tadiphone.dev/dumps/surface/eos_emulator/-/tree/988cb247998d614ab877661a6ed40d4e4cfd1b46"
+    },
+    {
+      "item_id": "surface/eos_emulator@eos_emulator-userdebug-10-emu-q-pub-userdebug-2020.117.2-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "eos_emulator-userdebug-10-emu-q-pub-userdebug-2020.117.2-test-keys",
+        "commit": "44932b748fd997d8f72c9c2b8de49bcc2c0d1d2a",
+        "committed_date": "2020-02-18T21:39:57.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T23:07:21.793Z",
+        "namespace_hint": "surface",
+        "project_hint": "eos_emulator",
+        "project_id": 2189,
+        "project_path": "surface/eos_emulator"
+      },
+      "revision": "44932b748fd997d8f72c9c2b8de49bcc2c0d1d2a",
+      "url": "https://dumps.tadiphone.dev/dumps/surface/eos_emulator/-/tree/44932b748fd997d8f72c9c2b8de49bcc2c0d1d2a"
+    },
+    {
+      "item_id": "surface/ssi_sdk_x86_64@ssi_sdk_x86_64_sdk-user-11-hlos-ssi-sdk-x86_64-sdk-user-2021.824.97-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ssi_sdk_x86_64_sdk-user-11-hlos-ssi-sdk-x86_64-sdk-user-2021.824.97-test-keys",
+        "commit": "bcb3724ef2d3267e8659b52b10f1e26ec49e1b8b",
+        "committed_date": "2021-09-24T02:29:09.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T22:50:14.047Z",
+        "namespace_hint": "surface",
+        "project_hint": "ssi_sdk_x86_64",
+        "project_id": 2177,
+        "project_path": "surface/ssi_sdk_x86_64"
+      },
+      "revision": "bcb3724ef2d3267e8659b52b10f1e26ec49e1b8b",
+      "url": "https://dumps.tadiphone.dev/dumps/surface/ssi_sdk_x86_64/-/tree/bcb3724ef2d3267e8659b52b10f1e26ec49e1b8b"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

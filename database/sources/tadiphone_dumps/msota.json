@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "msota/nobby_s500@sp7731e_fs286_project-user-8.1.0-OPM2.171019.012-00410-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sp7731e_fs286_project-user-8.1.0-OPM2.171019.012-00410-release-keys",
+        "commit": "47fd744f19fe3aa77e257226f61ea5e97ea3f026",
+        "committed_date": "2019-11-10T23:37:57.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T09:36:00.595Z",
+        "namespace_hint": "msota",
+        "project_hint": "nobby_s500",
+        "project_id": 1661,
+        "project_path": "msota/nobby_s500"
+      },
+      "revision": "47fd744f19fe3aa77e257226f61ea5e97ea3f026",
+      "url": "https://dumps.tadiphone.dev/dumps/msota/nobby_s500/-/tree/47fd744f19fe3aa77e257226f61ea5e97ea3f026"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

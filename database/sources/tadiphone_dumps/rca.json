@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "rca/osaki@RCA_2K_ATV_PA-user-11-RTO7.250806.002-13895404-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "RCA_2K_ATV_PA-user-11-RTO7.250806.002-13895404-release-keys",
+        "commit": "a77575dd5fafed686451bb76d397b671032be3d7",
+        "committed_date": "2026-09-17T20:43:59.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-09-17T17:43:04.824Z",
+        "namespace_hint": "rca",
+        "project_hint": "osaki",
+        "project_id": 5837,
+        "project_path": "rca/osaki"
+      },
+      "revision": "a77575dd5fafed686451bb76d397b671032be3d7",
+      "url": "https://dumps.tadiphone.dev/dumps/rca/osaki/-/tree/a77575dd5fafed686451bb76d397b671032be3d7"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

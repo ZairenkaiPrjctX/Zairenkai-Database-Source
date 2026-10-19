@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "sky/ef71k@msm8937_32-user-6.0.1-MMB29M-IM-100K.005-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_32-user-6.0.1-MMB29M-IM-100K.005-release-keys",
+        "commit": "da2daa2b05aed812dfd8d7e6a3281cf10f1fd2af",
+        "committed_date": "2020-08-07T07:23:44.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T01:10:35.101Z",
+        "namespace_hint": "sky",
+        "project_hint": "ef71k",
+        "project_id": 2276,
+        "project_path": "sky/ef71k"
+      },
+      "revision": "da2daa2b05aed812dfd8d7e6a3281cf10f1fd2af",
+      "url": "https://dumps.tadiphone.dev/dumps/sky/ef71k/-/tree/da2daa2b05aed812dfd8d7e6a3281cf10f1fd2af"
+    },
+    {
+      "item_id": "sky/platinum_c4@sp7731e_fs280_project-user-8.1.0-OPM2.171019.012-38515-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sp7731e_fs280_project-user-8.1.0-OPM2.171019.012-38515-release-keys",
+        "commit": "cf5a82180b224a7634796ebf8d12b38f50d8550b",
+        "committed_date": "2019-11-12T21:28:35.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T00:52:39.986Z",
+        "namespace_hint": "sky",
+        "project_hint": "platinum_c4",
+        "project_id": 1453,
+        "project_path": "sky/platinum_c4"
+      },
+      "revision": "cf5a82180b224a7634796ebf8d12b38f50d8550b",
+      "url": "https://dumps.tadiphone.dev/dumps/sky/platinum_c4/-/tree/cf5a82180b224a7634796ebf8d12b38f50d8550b"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

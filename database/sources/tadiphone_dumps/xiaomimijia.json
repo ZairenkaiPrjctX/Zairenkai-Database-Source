@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "xiaomimijia/babel@Mitranslator-user-8.1.0-O11019-1570874214-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Mitranslator-user-8.1.0-O11019-1570874214-release-keys",
+        "commit": "6a7d9a798c166e184b7f0548a0645ce9dff29dc0",
+        "committed_date": "2020-05-06T15:01:13.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T00:56:00.141Z",
+        "namespace_hint": "xiaomimijia",
+        "project_hint": "babel",
+        "project_id": 1457,
+        "project_path": "xiaomimijia/babel"
+      },
+      "revision": "6a7d9a798c166e184b7f0548a0645ce9dff29dc0",
+      "url": "https://dumps.tadiphone.dev/dumps/xiaomimijia/babel/-/tree/6a7d9a798c166e184b7f0548a0645ce9dff29dc0"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

@@ -1,0 +1,208 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "_project/5423",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": null,
+        "project_id": 5423,
+        "project_path": "cubot/kingkong_8",
+        "reason": "repository_not_readable"
+      },
+      "revision": null,
+      "url": "https://dumps.tadiphone.dev/dumps/cubot/kingkong_8"
+    },
+    {
+      "item_id": "cubot/cubot_j3@CUBOT_J3-user-8.1.0-O11019-1592896975-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "CUBOT_J3-user-8.1.0-O11019-1592896975-release-keys",
+        "commit": "2f8466099e05f139a5e0ee1cb9ce0e60ef3a2886",
+        "committed_date": "2021-07-02T02:49:38.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T06:24:30.108Z",
+        "namespace_hint": "cubot",
+        "project_hint": "cubot_j3",
+        "project_id": 1506,
+        "project_path": "cubot/cubot_j3"
+      },
+      "revision": "2f8466099e05f139a5e0ee1cb9ce0e60ef3a2886",
+      "url": "https://dumps.tadiphone.dev/dumps/cubot/cubot_j3/-/tree/2f8466099e05f139a5e0ee1cb9ce0e60ef3a2886"
+    },
+    {
+      "item_id": "cubot/kingkong_9@sys_mssi_64_ww_armv82-user-14-UP1A.231005.007-mp1rck6989v164P3-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_ww_armv82-user-14-UP1A.231005.007-mp1rck6989v164P3-release-keys",
+        "commit": "df0c0b7716a0b496002f5e44a54941d520458146",
+        "committed_date": "2025-09-25T13:23:37.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-09-25T10:20:37.162Z",
+        "namespace_hint": "cubot",
+        "project_hint": "kingkong_9",
+        "project_id": 5692,
+        "project_path": "cubot/kingkong_9"
+      },
+      "revision": "df0c0b7716a0b496002f5e44a54941d520458146",
+      "url": "https://dumps.tadiphone.dev/dumps/cubot/kingkong_9/-/tree/df0c0b7716a0b496002f5e44a54941d520458146"
+    },
+    {
+      "item_id": "cubot/kingkong_mini@full_d936p-user-9-PPR1.180610.011-20191014-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_d936p-user-9-PPR1.180610.011-20191014-release-keys",
+        "commit": "6cc5e3dc50a7f4f84ff15d073afce9a312a59e07",
+        "committed_date": "2020-01-18T20:05:58.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T14:02:26.064Z",
+        "namespace_hint": "cubot",
+        "project_hint": "kingkong_mini",
+        "project_id": 1068,
+        "project_path": "cubot/kingkong_mini"
+      },
+      "revision": "6cc5e3dc50a7f4f84ff15d073afce9a312a59e07",
+      "url": "https://dumps.tadiphone.dev/dumps/cubot/kingkong_mini/-/tree/6cc5e3dc50a7f4f84ff15d073afce9a312a59e07"
+    },
+    {
+      "item_id": "cubot/p60@full_k65v1_64_bsp-user-12-SP1A.210812.016-23140-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k65v1_64_bsp-user-12-SP1A.210812.016-23140-release-keys",
+        "commit": "46800679e1ad03753cb18997f9f18dfbaf915d96",
+        "committed_date": "2024-02-18T13:14:58.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-02-18T10:21:17.060Z",
+        "namespace_hint": "cubot",
+        "project_hint": "p60",
+        "project_id": 4012,
+        "project_path": "cubot/p60"
+      },
+      "revision": "46800679e1ad03753cb18997f9f18dfbaf915d96",
+      "url": "https://dumps.tadiphone.dev/dumps/cubot/p60/-/tree/46800679e1ad03753cb18997f9f18dfbaf915d96"
+    },
+    {
+      "item_id": "cubot/p60@full_k65v1_64_bsp-user-12-SP1A.210812.016-39338-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k65v1_64_bsp-user-12-SP1A.210812.016-39338-release-keys",
+        "commit": "05299eb1df2dc0421a5f799109dbdbbef04213ac",
+        "committed_date": "2022-12-29T22:02:43.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-02-18T10:21:17.060Z",
+        "namespace_hint": "cubot",
+        "project_hint": "p60",
+        "project_id": 4012,
+        "project_path": "cubot/p60"
+      },
+      "revision": "05299eb1df2dc0421a5f799109dbdbbef04213ac",
+      "url": "https://dumps.tadiphone.dev/dumps/cubot/p60/-/tree/05299eb1df2dc0421a5f799109dbdbbef04213ac"
+    },
+    {
+      "item_id": "cubot/p80@sys_mssi_t_64_cn-user-13-TP1A.220624.014-2024311-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_t_64_cn-user-13-TP1A.220624.014-2024311-release-keys",
+        "commit": "419909c0fe46cf7d5b3abb619acdc91055d8696a",
+        "committed_date": "2024-09-23T03:53:02.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-09-23T00:50:35.670Z",
+        "namespace_hint": "cubot",
+        "project_hint": "p80",
+        "project_id": 5424,
+        "project_path": "cubot/p80"
+      },
+      "revision": "419909c0fe46cf7d5b3abb619acdc91055d8696a",
+      "url": "https://dumps.tadiphone.dev/dumps/cubot/p80/-/tree/419909c0fe46cf7d5b3abb619acdc91055d8696a"
+    },
+    {
+      "item_id": "cubot/quest_lite@QUEST_LITE_EEA-user-9-P00610-1553333305-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "QUEST_LITE_EEA-user-9-P00610-1553333305-release-keys",
+        "commit": "6c5bf05e3981c30a47ef697f2a98282fd7a79167",
+        "committed_date": "2024-10-10T12:46:01.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-10T09:44:39.427Z",
+        "namespace_hint": "cubot",
+        "project_hint": "quest_lite",
+        "project_id": 5449,
+        "project_path": "cubot/quest_lite"
+      },
+      "revision": "6c5bf05e3981c30a47ef697f2a98282fd7a79167",
+      "url": "https://dumps.tadiphone.dev/dumps/cubot/quest_lite/-/tree/6c5bf05e3981c30a47ef697f2a98282fd7a79167"
+    },
+    {
+      "item_id": "cubot/r15_pro@full_v625p-user-9-PPR1.180610.011-20190809-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_v625p-user-9-PPR1.180610.011-20190809-release-keys",
+        "commit": "c9f29dcec399efb7849b2b4ea59073b40ab099dd",
+        "committed_date": "2020-02-03T07:03:55.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T14:05:06.447Z",
+        "namespace_hint": "cubot",
+        "project_hint": "r15_pro",
+        "project_id": 1072,
+        "project_path": "cubot/r15_pro"
+      },
+      "revision": "c9f29dcec399efb7849b2b4ea59073b40ab099dd",
+      "url": "https://dumps.tadiphone.dev/dumps/cubot/r15_pro/-/tree/c9f29dcec399efb7849b2b4ea59073b40ab099dd"
+    },
+    {
+      "item_id": "cubot/r19@R19_EEA-user-9-P00610-1565594044-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "R19_EEA-user-9-P00610-1565594044-release-keys",
+        "commit": "8e8cc0c5f31f78462145d809322cef8538d6db9b",
+        "committed_date": "2020-02-03T07:08:49.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T14:05:36.326Z",
+        "namespace_hint": "cubot",
+        "project_hint": "r19",
+        "project_id": 1073,
+        "project_path": "cubot/r19"
+      },
+      "revision": "8e8cc0c5f31f78462145d809322cef8538d6db9b",
+      "url": "https://dumps.tadiphone.dev/dumps/cubot/r19/-/tree/8e8cc0c5f31f78462145d809322cef8538d6db9b"
+    },
+    {
+      "item_id": "cubot/x30@full_v965-user-10-QP1A.190711.020-20200603-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_v965-user-10-QP1A.190711.020-20200603-release-keys",
+        "commit": "3c8491b4c411c52a468b856cc3911094a52b72c4",
+        "committed_date": "2021-07-02T02:52:35.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T17:31:53.368Z",
+        "namespace_hint": "cubot",
+        "project_hint": "x30",
+        "project_id": 1993,
+        "project_path": "cubot/x30"
+      },
+      "revision": "3c8491b4c411c52a468b856cc3911094a52b72c4",
+      "url": "https://dumps.tadiphone.dev/dumps/cubot/x30/-/tree/3c8491b4c411c52a468b856cc3911094a52b72c4"
+    },
+    {
+      "item_id": "cubot/x50@full_lv970-user-11-RP1A.200720.011-20220709-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_lv970-user-11-RP1A.200720.011-20220709-release-keys",
+        "commit": "29f1988c03f11fa15483003b8fe5f0b4dbccc4ee",
+        "committed_date": "2024-09-23T03:17:11.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-09-23T00:14:55.814Z",
+        "namespace_hint": "cubot",
+        "project_hint": "x50",
+        "project_id": 5422,
+        "project_path": "cubot/x50"
+      },
+      "revision": "29f1988c03f11fa15483003b8fe5f0b4dbccc4ee",
+      "url": "https://dumps.tadiphone.dev/dumps/cubot/x50/-/tree/29f1988c03f11fa15483003b8fe5f0b4dbccc4ee"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

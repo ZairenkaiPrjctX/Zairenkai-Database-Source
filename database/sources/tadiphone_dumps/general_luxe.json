@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "general_luxe/shahin_iii@full_k6833v1_64-user-11-RP1A.200720.011-1642417636-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6833v1_64-user-11-RP1A.200720.011-1642417636-release-keys",
+        "commit": "8e82b90e78917a85ac3ff4abfcddaaf8809a18dd",
+        "committed_date": "2022-07-20T19:50:04.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-07-20T16:48:09.120Z",
+        "namespace_hint": "general_luxe",
+        "project_hint": "shahin_iii",
+        "project_id": 2364,
+        "project_path": "general_luxe/shahin_iii"
+      },
+      "revision": "8e82b90e78917a85ac3ff4abfcddaaf8809a18dd",
+      "url": "https://dumps.tadiphone.dev/dumps/general_luxe/shahin_iii/-/tree/8e82b90e78917a85ac3ff4abfcddaaf8809a18dd"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

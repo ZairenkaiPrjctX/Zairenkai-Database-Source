@@ -1,0 +1,162 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "deutschetelekom/caracal@qssi_64-user-16-BQ2A.250925.001-535BA1_W_V022-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-16-BQ2A.250925.001-535BA1_W_V022-release-keys",
+        "commit": "8d3c9c173d63c6464e722b02ed65e2950eeb2254",
+        "committed_date": "2026-09-05T02:56:27.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-09-04T23:52:51.897Z",
+        "namespace_hint": "deutschetelekom",
+        "project_hint": "caracal",
+        "project_id": 5827,
+        "project_path": "deutschetelekom/caracal"
+      },
+      "revision": "8d3c9c173d63c6464e722b02ed65e2950eeb2254",
+      "url": "https://dumps.tadiphone.dev/dumps/deutschetelekom/caracal/-/tree/8d3c9c173d63c6464e722b02ed65e2950eeb2254"
+    },
+    {
+      "item_id": "deutschetelekom/cheetah@qssi-user-14-UKQ1.230924.001-823BA1_V035-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-823BA1_V035-release-keys",
+        "commit": "ca4de92609a9bd1e99e8cb15a7c075f17b34a40b",
+        "committed_date": "2024-10-24T20:23:29.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-24T17:20:05.739Z",
+        "namespace_hint": "deutschetelekom",
+        "project_hint": "cheetah",
+        "project_id": 5471,
+        "project_path": "deutschetelekom/cheetah"
+      },
+      "revision": "ca4de92609a9bd1e99e8cb15a7c075f17b34a40b",
+      "url": "https://dumps.tadiphone.dev/dumps/deutschetelekom/cheetah/-/tree/ca4de92609a9bd1e99e8cb15a7c075f17b34a40b"
+    },
+    {
+      "item_id": "deutschetelekom/jaguar@sys_S98317AA1T-user-14-UP1A.231005.007-p1rck6989v164P31-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_S98317AA1T-user-14-UP1A.231005.007-p1rck6989v164P31-release-keys",
+        "commit": "24f5035002564c9f219f4c9b79cd43e515074c8d",
+        "committed_date": "2024-10-24T18:50:24.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-24T15:47:30.359Z",
+        "namespace_hint": "deutschetelekom",
+        "project_hint": "jaguar",
+        "project_id": 5466,
+        "project_path": "deutschetelekom/jaguar"
+      },
+      "revision": "24f5035002564c9f219f4c9b79cd43e515074c8d",
+      "url": "https://dumps.tadiphone.dev/dumps/deutschetelekom/jaguar/-/tree/24f5035002564c9f219f4c9b79cd43e515074c8d"
+    },
+    {
+      "item_id": "deutschetelekom/leopard@sys_S98317CA1-user-14-UP1A.231005.007-p1rck6989v164P31-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_S98317CA1-user-14-UP1A.231005.007-p1rck6989v164P31-release-keys",
+        "commit": "e5bec75cef130534798f6c447f7c7afd9fb52209",
+        "committed_date": "2024-10-24T19:41:16.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-24T16:38:17.057Z",
+        "namespace_hint": "deutschetelekom",
+        "project_hint": "leopard",
+        "project_id": 5469,
+        "project_path": "deutschetelekom/leopard"
+      },
+      "revision": "e5bec75cef130534798f6c447f7c7afd9fb52209",
+      "url": "https://dumps.tadiphone.dev/dumps/deutschetelekom/leopard/-/tree/e5bec75cef130534798f6c447f7c7afd9fb52209"
+    },
+    {
+      "item_id": "deutschetelekom/lion@sys_S98215AA1T-user-14-UP1A.231005.007-p1rck6989v164P31-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_S98215AA1T-user-14-UP1A.231005.007-p1rck6989v164P31-release-keys",
+        "commit": "3523ae3ff29bba49b6bbf507b6d5f65e92c2e643",
+        "committed_date": "2024-10-24T19:06:29.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-24T16:03:34.356Z",
+        "namespace_hint": "deutschetelekom",
+        "project_hint": "lion",
+        "project_id": 5467,
+        "project_path": "deutschetelekom/lion"
+      },
+      "revision": "3523ae3ff29bba49b6bbf507b6d5f65e92c2e643",
+      "url": "https://dumps.tadiphone.dev/dumps/deutschetelekom/lion/-/tree/3523ae3ff29bba49b6bbf507b6d5f65e92c2e643"
+    },
+    {
+      "item_id": "deutschetelekom/lynx@qssi_64-user-16-BQ2A.250925.001-531AA1_W_V013-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-16-BQ2A.250925.001-531AA1_W_V013-release-keys",
+        "commit": "5bd8fd5b96bcda705c78bc3dced0dbe199b20a04",
+        "committed_date": "2026-02-18T01:51:58.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-08-09T10:41:22.454Z",
+        "namespace_hint": "deutschetelekom",
+        "project_hint": "lynx",
+        "project_id": 5747,
+        "project_path": "deutschetelekom/lynx"
+      },
+      "revision": "5bd8fd5b96bcda705c78bc3dced0dbe199b20a04",
+      "url": "https://dumps.tadiphone.dev/dumps/deutschetelekom/lynx/-/tree/5bd8fd5b96bcda705c78bc3dced0dbe199b20a04"
+    },
+    {
+      "item_id": "deutschetelekom/lynx@qssi_64-user-16-BQ2A.250925.001-531AA1_W_V022-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-16-BQ2A.250925.001-531AA1_W_V022-release-keys",
+        "commit": "c62ab5be999797ab673ad168f6c3de98050fe014",
+        "committed_date": "2026-08-09T13:31:55.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-08-09T10:41:22.454Z",
+        "namespace_hint": "deutschetelekom",
+        "project_hint": "lynx",
+        "project_id": 5747,
+        "project_path": "deutschetelekom/lynx"
+      },
+      "revision": "c62ab5be999797ab673ad168f6c3de98050fe014",
+      "url": "https://dumps.tadiphone.dev/dumps/deutschetelekom/lynx/-/tree/c62ab5be999797ab673ad168f6c3de98050fe014"
+    },
+    {
+      "item_id": "deutschetelekom/puma@qssi-user-14-UKQ1.230924.001-SW_S88528AA1_V035-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-SW_S88528AA1_V035-release-keys",
+        "commit": "0593883baf5ba98a0f54d1fd3a9aec4259c02cde",
+        "committed_date": "2024-10-24T20:01:08.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-24T16:57:37.310Z",
+        "namespace_hint": "deutschetelekom",
+        "project_hint": "puma",
+        "project_id": 5470,
+        "project_path": "deutschetelekom/puma"
+      },
+      "revision": "0593883baf5ba98a0f54d1fd3a9aec4259c02cde",
+      "url": "https://dumps.tadiphone.dev/dumps/deutschetelekom/puma/-/tree/0593883baf5ba98a0f54d1fd3a9aec4259c02cde"
+    },
+    {
+      "item_id": "deutschetelekom/tiger@sys_S98215CA2-user-14-UP1A.231005.007-p1rck6989v164P31-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_S98215CA2-user-14-UP1A.231005.007-p1rck6989v164P31-release-keys",
+        "commit": "1ad01c5ecef73eefaf0c9197b4078355a0628759",
+        "committed_date": "2024-10-24T19:24:05.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-24T16:21:04.024Z",
+        "namespace_hint": "deutschetelekom",
+        "project_hint": "tiger",
+        "project_id": 5468,
+        "project_path": "deutschetelekom/tiger"
+      },
+      "revision": "1ad01c5ecef73eefaf0c9197b4078355a0628759",
+      "url": "https://dumps.tadiphone.dev/dumps/deutschetelekom/tiger/-/tree/1ad01c5ecef73eefaf0c9197b4078355a0628759"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

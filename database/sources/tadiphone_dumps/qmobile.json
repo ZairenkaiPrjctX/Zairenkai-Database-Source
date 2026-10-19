@@ -1,0 +1,60 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "qmobile/q_infinity_d@full_k200_1g-user-8.1.0-O11019-1525339343-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k200_1g-user-8.1.0-O11019-1525339343-release-keys",
+        "commit": "1b6a120c754d84dd41e958752a39f77f4c7e78d9",
+        "committed_date": "2020-01-23T09:44:20.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T06:48:08.404Z",
+        "namespace_hint": "qmobile",
+        "project_hint": "q_infinity_d",
+        "project_id": 37,
+        "project_path": "qmobile/q_infinity_d"
+      },
+      "revision": "1b6a120c754d84dd41e958752a39f77f4c7e78d9",
+      "url": "https://dumps.tadiphone.dev/dumps/qmobile/q_infinity_d/-/tree/1b6a120c754d84dd41e958752a39f77f4c7e78d9"
+    },
+    {
+      "item_id": "qmobile/qmobile_i9i@full_d5270_qmobile_g1-user-7.0-NRD90M-1500527042-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_d5270_qmobile_g1-user-7.0-NRD90M-1500527042-release-keys",
+        "commit": "e8d9323691c2ee5d9a5cf587f92d7f8ec08534d4",
+        "committed_date": "2024-09-29T20:37:06.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-09-29T17:35:23.689Z",
+        "namespace_hint": "qmobile",
+        "project_hint": "qmobile_i9i",
+        "project_id": 5435,
+        "project_path": "qmobile/qmobile_i9i"
+      },
+      "revision": "e8d9323691c2ee5d9a5cf587f92d7f8ec08534d4",
+      "url": "https://dumps.tadiphone.dev/dumps/qmobile/qmobile_i9i/-/tree/e8d9323691c2ee5d9a5cf587f92d7f8ec08534d4"
+    },
+    {
+      "item_id": "qmobile/smart@te99_s4001q-user-8.1.0-OPM2.171019.012-40015-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "te99_s4001q-user-8.1.0-OPM2.171019.012-40015-release-keys",
+        "commit": "279bb501133c7dc44636ff2418ebf554066e3430",
+        "committed_date": "2019-11-12T21:11:44.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T23:57:00.223Z",
+        "namespace_hint": "qmobile",
+        "project_hint": "smart",
+        "project_id": 1414,
+        "project_path": "qmobile/smart"
+      },
+      "revision": "279bb501133c7dc44636ff2418ebf554066e3430",
+      "url": "https://dumps.tadiphone.dev/dumps/qmobile/smart/-/tree/279bb501133c7dc44636ff2418ebf554066e3430"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

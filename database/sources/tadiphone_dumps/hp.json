@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "hp/butler@butler-user-7.1.2-N2G47H-238-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "butler-user-7.1.2-N2G47H-238-release-keys",
+        "commit": "55c120350f58e37b104746d5e81f542f5def6bcc",
+        "committed_date": "2022-10-08T10:27:30.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-10-08T07:26:20.300Z",
+        "namespace_hint": "hp",
+        "project_hint": "butler",
+        "project_id": 2469,
+        "project_path": "hp/butler"
+      },
+      "revision": "55c120350f58e37b104746d5e81f542f5def6bcc",
+      "url": "https://dumps.tadiphone.dev/dumps/hp/butler/-/tree/55c120350f58e37b104746d5e81f542f5def6bcc"
+    },
+    {
+      "item_id": "hp/pioneer@fih_sdm660_64-userdebug-10-QKQ1.200519.001-0UWW_2_250-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "fih_sdm660_64-userdebug-10-QKQ1.200519.001-0UWW_2_250-dev-keys",
+        "commit": "6e40feaf7dc6419cbd24c5057b483158de86bcbb",
+        "committed_date": "2024-07-17T09:59:07.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-07-17T06:57:29.088Z",
+        "namespace_hint": "hp",
+        "project_hint": "pioneer",
+        "project_id": 5337,
+        "project_path": "hp/pioneer"
+      },
+      "revision": "6e40feaf7dc6419cbd24c5057b483158de86bcbb",
+      "url": "https://dumps.tadiphone.dev/dumps/hp/pioneer/-/tree/6e40feaf7dc6419cbd24c5057b483158de86bcbb"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

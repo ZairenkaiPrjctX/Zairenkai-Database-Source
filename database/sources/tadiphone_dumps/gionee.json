@@ -1,0 +1,94 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "gionee/f10@F10-user-9-PPR1.180610.011-94-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "F10-user-9-PPR1.180610.011-94-release-keys",
+        "commit": "518e2e835cb264b90699067f134ae8df947c6011",
+        "committed_date": "2020-03-06T05:20:19.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T10:34:59.836Z",
+        "namespace_hint": "gionee",
+        "project_hint": "f10",
+        "project_id": 1725,
+        "project_path": "gionee/f10"
+      },
+      "revision": "518e2e835cb264b90699067f134ae8df947c6011",
+      "url": "https://dumps.tadiphone.dev/dumps/gionee/f10/-/tree/518e2e835cb264b90699067f134ae8df947c6011"
+    },
+    {
+      "item_id": "gionee/f10_plus@full_k63v2_64_bsp-userdebug-9-PPR1.180610.011-1575621639-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k63v2_64_bsp-userdebug-9-PPR1.180610.011-1575621639-release-keys",
+        "commit": "c574d3cd2af3cf90cc6cfc2371ba7ade5c5c5799",
+        "committed_date": "2020-03-06T05:02:09.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T22:13:51.546Z",
+        "namespace_hint": "gionee",
+        "project_hint": "f10_plus",
+        "project_id": 1352,
+        "project_path": "gionee/f10_plus"
+      },
+      "revision": "c574d3cd2af3cf90cc6cfc2371ba7ade5c5c5799",
+      "url": "https://dumps.tadiphone.dev/dumps/gionee/f10_plus/-/tree/c574d3cd2af3cf90cc6cfc2371ba7ade5c5c5799"
+    },
+    {
+      "item_id": "gionee/gionee_bj17g06@msm8937_64-user-7.1.1-NMF26F-2194-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_64-user-7.1.1-NMF26F-2194-release-keys",
+        "commit": "7c301ec24111f6ae15a063b2954f901438a6e3f2",
+        "committed_date": "2019-09-12T17:00:49.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T21:07:50.036Z",
+        "namespace_hint": "gionee",
+        "project_hint": "gionee_bj17g06",
+        "project_id": 1306,
+        "project_path": "gionee/gionee_bj17g06"
+      },
+      "revision": "7c301ec24111f6ae15a063b2954f901438a6e3f2",
+      "url": "https://dumps.tadiphone.dev/dumps/gionee/gionee_bj17g06/-/tree/7c301ec24111f6ae15a063b2954f901438a6e3f2"
+    },
+    {
+      "item_id": "gionee/gionee_sw17g12@full_gnsz6758_66_n-user-7.1.1-N6F26Q-1509594663-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_gnsz6758_66_n-user-7.1.1-N6F26Q-1509594663-release-keys",
+        "commit": "bf33878f052eee8c185f2af58e70e41ab08f1bd1",
+        "committed_date": "2019-09-12T17:17:30.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-13T22:23:11.552Z",
+        "namespace_hint": "gionee",
+        "project_hint": "gionee_sw17g12",
+        "project_id": 6,
+        "project_path": "gionee/gionee_sw17g12"
+      },
+      "revision": "bf33878f052eee8c185f2af58e70e41ab08f1bd1",
+      "url": "https://dumps.tadiphone.dev/dumps/gionee/gionee_sw17g12/-/tree/bf33878f052eee8c185f2af58e70e41ab08f1bd1"
+    },
+    {
+      "item_id": "gionee/gionee_wbw5617@user-5.1-LMY47I-1453173610-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-5.1-LMY47I-1453173610-release-keys",
+        "commit": "bf223c9f8e731669b3e7df47b0f8e7653b93b815",
+        "committed_date": "2023-12-08T14:53:40.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-12-08T11:52:24.043Z",
+        "namespace_hint": "gionee",
+        "project_hint": "gionee_wbw5617",
+        "project_id": 4650,
+        "project_path": "gionee/gionee_wbw5617"
+      },
+      "revision": "bf223c9f8e731669b3e7df47b0f8e7653b93b815",
+      "url": "https://dumps.tadiphone.dev/dumps/gionee/gionee_wbw5617/-/tree/bf223c9f8e731669b3e7df47b0f8e7653b93b815"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

@@ -1,0 +1,700 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "_project/5773",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": "2026-06-05T21:03:07.680Z",
+        "project_id": 5773,
+        "project_path": "nvidia/hawkeye"
+      },
+      "revision": "2026-06-05T21:03:07.680Z",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/hawkeye"
+    },
+    {
+      "item_id": "nvidia/darcy@darcy-user-11-RQ1A.210105.003-13961458_3871.0251-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "darcy-user-11-RQ1A.210105.003-13961458_3871.0251-release-keys",
+        "commit": "77c1001890ea23cf52b727debf5a8f935c301d76",
+        "committed_date": "2025-02-06T02:44:06.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-02-05T23:47:08.441Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "darcy",
+        "project_id": 33,
+        "project_path": "nvidia/darcy"
+      },
+      "revision": "77c1001890ea23cf52b727debf5a8f935c301d76",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/darcy/-/tree/77c1001890ea23cf52b727debf5a8f935c301d76"
+    },
+    {
+      "item_id": "nvidia/darcy@darcy-user-11-RQ1A.210105.003-7094531_2914.3416-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "darcy-user-11-RQ1A.210105.003-7094531_2914.3416-release-keys",
+        "commit": "6ed7885f0f856e2dc50aefeb718d7e508f82fb5b",
+        "committed_date": "2021-12-15T14:59:52.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-05T23:47:08.441Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "darcy",
+        "project_id": 33,
+        "project_path": "nvidia/darcy"
+      },
+      "revision": "6ed7885f0f856e2dc50aefeb718d7e508f82fb5b",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/darcy/-/tree/6ed7885f0f856e2dc50aefeb718d7e508f82fb5b"
+    },
+    {
+      "item_id": "nvidia/darcy@darcy-user-11-RQ1A.210105.003-7825230_3062.3935-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "darcy-user-11-RQ1A.210105.003-7825230_3062.3935-release-keys",
+        "commit": "2a97f1fa937079bbc3e2f7dcf01d1fdaf5f829c8",
+        "committed_date": "2022-07-24T22:47:13.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-05T23:47:08.441Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "darcy",
+        "project_id": 33,
+        "project_path": "nvidia/darcy"
+      },
+      "revision": "2a97f1fa937079bbc3e2f7dcf01d1fdaf5f829c8",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/darcy/-/tree/2a97f1fa937079bbc3e2f7dcf01d1fdaf5f829c8"
+    },
+    {
+      "item_id": "nvidia/darcy@darcy-user-9-PPR1.180610.011-4079208_2740.7538-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "darcy-user-9-PPR1.180610.011-4079208_2740.7538-release-keys",
+        "commit": "c886ac9c3eb84bd3a5e828771e15a2721aa4c10d",
+        "committed_date": "2021-08-18T07:53:38.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-05T23:47:08.441Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "darcy",
+        "project_id": 33,
+        "project_path": "nvidia/darcy"
+      },
+      "revision": "c886ac9c3eb84bd3a5e828771e15a2721aa4c10d",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/darcy/-/tree/c886ac9c3eb84bd3a5e828771e15a2721aa4c10d"
+    },
+    {
+      "item_id": "nvidia/darcy@darcy-user-9-PPR1.180610.011-4086637_1697.8089-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "darcy-user-9-PPR1.180610.011-4086637_1697.8089-release-keys",
+        "commit": "1c525a61b750f791055b68d41fa8fae1573ede2d",
+        "committed_date": "2020-03-26T18:00:59.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-05T23:47:08.441Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "darcy",
+        "project_id": 33,
+        "project_path": "nvidia/darcy"
+      },
+      "revision": "1c525a61b750f791055b68d41fa8fae1573ede2d",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/darcy/-/tree/1c525a61b750f791055b68d41fa8fae1573ede2d"
+    },
+    {
+      "item_id": "nvidia/darcy@darcy-userdebug-9-PPR1.180610.011-4079199_2740.7538-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "darcy-userdebug-9-PPR1.180610.011-4079199_2740.7538-release-keys",
+        "commit": "b2eacf875ade73017eb94aecb2828a1f75030440",
+        "committed_date": "2021-08-18T07:44:43.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-05T23:47:08.441Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "darcy",
+        "project_id": 33,
+        "project_path": "nvidia/darcy"
+      },
+      "revision": "b2eacf875ade73017eb94aecb2828a1f75030440",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/darcy/-/tree/b2eacf875ade73017eb94aecb2828a1f75030440"
+    },
+    {
+      "item_id": "nvidia/foster@foster_e-user-11-RQ1A.210105.003-13961456_3871.0251-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "foster_e-user-11-RQ1A.210105.003-13961456_3871.0251-release-keys",
+        "commit": "0125c4358952fc4270f69589a39f80a5f7a04a1d",
+        "committed_date": "2025-02-06T02:26:14.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-05T23:29:10.632Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "foster",
+        "project_id": 2117,
+        "project_path": "nvidia/foster"
+      },
+      "revision": "0125c4358952fc4270f69589a39f80a5f7a04a1d",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/foster/-/tree/0125c4358952fc4270f69589a39f80a5f7a04a1d"
+    },
+    {
+      "item_id": "nvidia/foster@foster_e-user-11-RQ1A.210105.003-7094531_2914.3416-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "foster_e-user-11-RQ1A.210105.003-7094531_2914.3416-release-keys",
+        "commit": "251e6c63e071f95d7f464f66d2ff433f39fe135d",
+        "committed_date": "2021-12-15T14:42:44.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-05T23:29:10.632Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "foster",
+        "project_id": 2117,
+        "project_path": "nvidia/foster"
+      },
+      "revision": "251e6c63e071f95d7f464f66d2ff433f39fe135d",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/foster/-/tree/251e6c63e071f95d7f464f66d2ff433f39fe135d"
+    },
+    {
+      "item_id": "nvidia/foster@foster_e-user-11-RQ1A.210105.003-7825230_3062.3935-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "foster_e-user-11-RQ1A.210105.003-7825230_3062.3935-release-keys",
+        "commit": "e9e287bcd455971ce6d5db527a6a1c907cad6597",
+        "committed_date": "2022-07-24T22:54:49.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-05T23:29:10.632Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "foster",
+        "project_id": 2117,
+        "project_path": "nvidia/foster"
+      },
+      "revision": "e9e287bcd455971ce6d5db527a6a1c907cad6597",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/foster/-/tree/e9e287bcd455971ce6d5db527a6a1c907cad6597"
+    },
+    {
+      "item_id": "nvidia/foster@foster_e-user-9-PPR1.180610.011-4086637_1697.8089-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "foster_e-user-9-PPR1.180610.011-4086637_1697.8089-release-keys",
+        "commit": "76d9d1f2656a51902767d0e296f6d84565d25961",
+        "committed_date": "2020-03-26T17:18:55.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-05T23:29:10.632Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "foster",
+        "project_id": 2117,
+        "project_path": "nvidia/foster"
+      },
+      "revision": "76d9d1f2656a51902767d0e296f6d84565d25961",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/foster/-/tree/76d9d1f2656a51902767d0e296f6d84565d25961"
+    },
+    {
+      "item_id": "nvidia/foster@foster_e_hdd-user-11-RQ1A.210105.003-13961457_3871.0251-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "foster_e_hdd-user-11-RQ1A.210105.003-13961457_3871.0251-release-keys",
+        "commit": "186541de7e65d1381c321960be3da55f6c0cea73",
+        "committed_date": "2025-02-06T02:36:18.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-02-05T23:29:10.632Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "foster",
+        "project_id": 2117,
+        "project_path": "nvidia/foster"
+      },
+      "revision": "186541de7e65d1381c321960be3da55f6c0cea73",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/foster/-/tree/186541de7e65d1381c321960be3da55f6c0cea73"
+    },
+    {
+      "item_id": "nvidia/foster@foster_e_hdd-user-11-RQ1A.210105.003-7094531_2914.3416-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "foster_e_hdd-user-11-RQ1A.210105.003-7094531_2914.3416-release-keys",
+        "commit": "c740f9c9b72a5e93877abf67d896c52c5ca16743",
+        "committed_date": "2021-12-15T14:51:18.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-05T23:29:10.632Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "foster",
+        "project_id": 2117,
+        "project_path": "nvidia/foster"
+      },
+      "revision": "c740f9c9b72a5e93877abf67d896c52c5ca16743",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/foster/-/tree/c740f9c9b72a5e93877abf67d896c52c5ca16743"
+    },
+    {
+      "item_id": "nvidia/foster@foster_e_hdd-user-11-RQ1A.210105.003-7825230_3062.3935-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "foster_e_hdd-user-11-RQ1A.210105.003-7825230_3062.3935-release-keys",
+        "commit": "597ba8f29d9c00f6d27435565b0bd65e191d132f",
+        "committed_date": "2022-07-24T23:02:15.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-05T23:29:10.632Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "foster",
+        "project_id": 2117,
+        "project_path": "nvidia/foster"
+      },
+      "revision": "597ba8f29d9c00f6d27435565b0bd65e191d132f",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/foster/-/tree/597ba8f29d9c00f6d27435565b0bd65e191d132f"
+    },
+    {
+      "item_id": "nvidia/foster@foster_e_hdd-user-9-PPR1.180610.011-4079208_2740.7538-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "foster_e_hdd-user-9-PPR1.180610.011-4079208_2740.7538-release-keys",
+        "commit": "af2aa028eda4813972e253e8c40dbb1a9e7d79df",
+        "committed_date": "2021-08-18T07:35:04.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-05T23:29:10.632Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "foster",
+        "project_id": 2117,
+        "project_path": "nvidia/foster"
+      },
+      "revision": "af2aa028eda4813972e253e8c40dbb1a9e7d79df",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/foster/-/tree/af2aa028eda4813972e253e8c40dbb1a9e7d79df"
+    },
+    {
+      "item_id": "nvidia/foster@foster_e_hdd-user-9-PPR1.180610.011-4086637_1604.6430-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "foster_e_hdd-user-9-PPR1.180610.011-4086637_1604.6430-release-keys",
+        "commit": "5c7f45ba9e76a3f9279d2b2facc9f27461a946ef",
+        "committed_date": "2019-07-31T18:16:23.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-05T23:29:10.632Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "foster",
+        "project_id": 2117,
+        "project_path": "nvidia/foster"
+      },
+      "revision": "5c7f45ba9e76a3f9279d2b2facc9f27461a946ef",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/foster/-/tree/5c7f45ba9e76a3f9279d2b2facc9f27461a946ef"
+    },
+    {
+      "item_id": "nvidia/foster@foster_e_hdd-user-9-PPR1.180610.011-4086637_1697.8089-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "foster_e_hdd-user-9-PPR1.180610.011-4086637_1697.8089-release-keys",
+        "commit": "c6f40d45ec0a3ffe07e5201b6972dc5f6440e456",
+        "committed_date": "2020-03-26T16:45:06.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-05T23:29:10.632Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "foster",
+        "project_id": 2117,
+        "project_path": "nvidia/foster"
+      },
+      "revision": "c6f40d45ec0a3ffe07e5201b6972dc5f6440e456",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/foster/-/tree/c6f40d45ec0a3ffe07e5201b6972dc5f6440e456"
+    },
+    {
+      "item_id": "nvidia/foster@foster_e_hdd-userdebug-9-PPR1.180610.011-4079199_2740.7538-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "foster_e_hdd-userdebug-9-PPR1.180610.011-4079199_2740.7538-release-keys",
+        "commit": "a03f739c10d335fce4a0bb0192c5919cab79d9b5",
+        "committed_date": "2021-08-18T07:26:23.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-05T23:29:10.632Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "foster",
+        "project_id": 2117,
+        "project_path": "nvidia/foster"
+      },
+      "revision": "a03f739c10d335fce4a0bb0192c5919cab79d9b5",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/foster/-/tree/a03f739c10d335fce4a0bb0192c5919cab79d9b5"
+    },
+    {
+      "item_id": "nvidia/he2290@he_na_wf-user-6.0-MRA58K-45803_708.9883-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "he_na_wf-user-6.0-MRA58K-45803_708.9883-release-keys",
+        "commit": "c2882d44cac5a88e44c73c7d947672c5edf9d807",
+        "committed_date": "2026-06-07T00:21:38.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-06-06T21:20:26.204Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "he2290",
+        "project_id": 5774,
+        "project_path": "nvidia/he2290"
+      },
+      "revision": "c2882d44cac5a88e44c73c7d947672c5edf9d807",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/he2290/-/tree/c2882d44cac5a88e44c73c7d947672c5edf9d807"
+    },
+    {
+      "item_id": "nvidia/he2290@he_un_do-eng-5.1.1-LMY48E-eng.dpu.20180404.114948-debug,test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "he_un_do-eng-5.1.1-LMY48E-eng.dpu.20180404.114948-debug,test-keys",
+        "commit": "16e6434957b8ac44add7ee998dc0017feec020be",
+        "committed_date": "2026-06-07T00:54:41.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-06-06T21:20:26.204Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "he2290",
+        "project_id": 5774,
+        "project_path": "nvidia/he2290"
+      },
+      "revision": "16e6434957b8ac44add7ee998dc0017feec020be",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/he2290/-/tree/16e6434957b8ac44add7ee998dc0017feec020be"
+    },
+    {
+      "item_id": "nvidia/loki@loki_e_wifi-user-6.0-MRA58K-411109_752.7809-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "loki_e_wifi-user-6.0-MRA58K-411109_752.7809-release-keys",
+        "commit": "f6a7ad4040fd3f11fdfe5ccbb6b7fbccab9a2db7",
+        "committed_date": "2022-06-24T21:54:36.000-04:00",
+        "default_branch": false,
+        "last_activity_at": "2025-12-21T18:58:43.296Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "loki",
+        "project_id": 2332,
+        "project_path": "nvidia/loki"
+      },
+      "revision": "f6a7ad4040fd3f11fdfe5ccbb6b7fbccab9a2db7",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/loki/-/tree/f6a7ad4040fd3f11fdfe5ccbb6b7fbccab9a2db7"
+    },
+    {
+      "item_id": "nvidia/loki@loki_e_wifi-userdebug-6.0-MRA58K-411090_752.7809-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "loki_e_wifi-userdebug-6.0-MRA58K-411090_752.7809-release-keys",
+        "commit": "52c95c7df310211d6e6c0b14366961a376177800",
+        "committed_date": "2025-12-21T14:44:08.000-05:00",
+        "default_branch": true,
+        "last_activity_at": "2025-12-21T18:58:43.296Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "loki",
+        "project_id": 2332,
+        "project_path": "nvidia/loki"
+      },
+      "revision": "52c95c7df310211d6e6c0b14366961a376177800",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/loki/-/tree/52c95c7df310211d6e6c0b14366961a376177800"
+    },
+    {
+      "item_id": "nvidia/mdarcy@com.nvidia.tegrazone3_5.51.3166805",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "com.nvidia.tegrazone3_5.51.3166805",
+        "commit": "dd7dd2cd21386de5a772c7a8fba8fda49743ec88",
+        "committed_date": "2025-01-09T19:43:08.000-05:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-05T23:54:28.436Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "mdarcy",
+        "project_id": 894,
+        "project_path": "nvidia/mdarcy"
+      },
+      "revision": "dd7dd2cd21386de5a772c7a8fba8fda49743ec88",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/mdarcy/-/tree/dd7dd2cd21386de5a772c7a8fba8fda49743ec88"
+    },
+    {
+      "item_id": "nvidia/mdarcy@mdarcy-user-11-RQ1A.210105.003-7094531_2914.3416-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "mdarcy-user-11-RQ1A.210105.003-7094531_2914.3416-release-keys",
+        "commit": "172c2d7856462ef8fe9a25ff3dddae4e73052ac2",
+        "committed_date": "2021-12-15T15:12:34.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-05T23:54:28.436Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "mdarcy",
+        "project_id": 894,
+        "project_path": "nvidia/mdarcy"
+      },
+      "revision": "172c2d7856462ef8fe9a25ff3dddae4e73052ac2",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/mdarcy/-/tree/172c2d7856462ef8fe9a25ff3dddae4e73052ac2"
+    },
+    {
+      "item_id": "nvidia/mdarcy@mdarcy-user-11-RQ1A.210105.003-7825230_3062.3935-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "mdarcy-user-11-RQ1A.210105.003-7825230_3062.3935-release-keys",
+        "commit": "677526946bfd552089b9bc12ba36789bcdcf5e1d",
+        "committed_date": "2022-07-24T22:35:13.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-05T23:54:28.436Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "mdarcy",
+        "project_id": 894,
+        "project_path": "nvidia/mdarcy"
+      },
+      "revision": "677526946bfd552089b9bc12ba36789bcdcf5e1d",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/mdarcy/-/tree/677526946bfd552089b9bc12ba36789bcdcf5e1d"
+    },
+    {
+      "item_id": "nvidia/mdarcy@mdarcy-user-11-RQ1A.210105.003-7825230_3871.0251-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "mdarcy-user-11-RQ1A.210105.003-7825230_3871.0251-release-keys",
+        "commit": "e330bc2304afcf4d23b554d78ea67ef7995b695e",
+        "committed_date": "2025-02-06T02:51:49.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-02-05T23:54:28.436Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "mdarcy",
+        "project_id": 894,
+        "project_path": "nvidia/mdarcy"
+      },
+      "revision": "e330bc2304afcf4d23b554d78ea67ef7995b695e",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/mdarcy/-/tree/e330bc2304afcf4d23b554d78ea67ef7995b695e"
+    },
+    {
+      "item_id": "nvidia/mdarcy@mdarcy-user-9-PPR1.180610.011-4079208_2740.7538-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "mdarcy-user-9-PPR1.180610.011-4079208_2740.7538-release-keys",
+        "commit": "a10c85e9822b750ea95bfd0c7fd5fd08b0479394",
+        "committed_date": "2021-08-18T08:07:26.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-05T23:54:28.436Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "mdarcy",
+        "project_id": 894,
+        "project_path": "nvidia/mdarcy"
+      },
+      "revision": "a10c85e9822b750ea95bfd0c7fd5fd08b0479394",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/mdarcy/-/tree/a10c85e9822b750ea95bfd0c7fd5fd08b0479394"
+    },
+    {
+      "item_id": "nvidia/mdarcy@mdarcy-user-9-PPR1.180610.011-4199437_1739.5219-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "mdarcy-user-9-PPR1.180610.011-4199437_1739.5219-release-keys",
+        "commit": "079e32dcb9dd253721ef057e4031b6fbfce70012",
+        "committed_date": "2019-12-06T01:37:00.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-05T23:54:28.436Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "mdarcy",
+        "project_id": 894,
+        "project_path": "nvidia/mdarcy"
+      },
+      "revision": "079e32dcb9dd253721ef057e4031b6fbfce70012",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/mdarcy/-/tree/079e32dcb9dd253721ef057e4031b6fbfce70012"
+    },
+    {
+      "item_id": "nvidia/roth@thor_gms-user-5.1-LMY47N-01.00.32208_722.2550-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "thor_gms-user-5.1-LMY47N-01.00.32208_722.2550-release-keys",
+        "commit": "3b2f614275f0bc21a8d9b30952f1255d449e2860",
+        "committed_date": "2020-03-26T19:24:46.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T17:34:27.083Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "roth",
+        "project_id": 1995,
+        "project_path": "nvidia/roth"
+      },
+      "revision": "3b2f614275f0bc21a8d9b30952f1255d449e2860",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/roth/-/tree/3b2f614275f0bc21a8d9b30952f1255d449e2860"
+    },
+    {
+      "item_id": "nvidia/shieldtablet@sb_na_wf-user-7.0-NRD90M-1928188_1065.2559-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sb_na_wf-user-7.0-NRD90M-1928188_1065.2559-release-keys",
+        "commit": "5695fc8b2d373c350674776c684907b764274875",
+        "committed_date": "2020-03-30T19:49:02.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-07-24T21:44:18.315Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "shieldtablet",
+        "project_id": 2133,
+        "project_path": "nvidia/shieldtablet"
+      },
+      "revision": "5695fc8b2d373c350674776c684907b764274875",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/shieldtablet/-/tree/5695fc8b2d373c350674776c684907b764274875"
+    },
+    {
+      "item_id": "nvidia/shieldtablet@sb_na_wf-user-7.0-NRD90M-1928188_904.2811-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sb_na_wf-user-7.0-NRD90M-1928188_904.2811-release-keys",
+        "commit": "26652dcb5a655f30eca427f3ed867d6d3c0c3f94",
+        "committed_date": "2021-08-18T08:12:15.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-07-24T21:44:18.315Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "shieldtablet",
+        "project_id": 2133,
+        "project_path": "nvidia/shieldtablet"
+      },
+      "revision": "26652dcb5a655f30eca427f3ed867d6d3c0c3f94",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/shieldtablet/-/tree/26652dcb5a655f30eca427f3ed867d6d3c0c3f94"
+    },
+    {
+      "item_id": "nvidia/shieldtablet@wx_na_do-user-5.1.1-LMY48C-35398_567.2193-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "wx_na_do-user-5.1.1-LMY48C-35398_567.2193-release-keys",
+        "commit": "8689a9fc9df0179ac5f6468127dada1ebcda4f65",
+        "committed_date": "2022-07-25T01:02:48.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-07-24T21:44:18.315Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "shieldtablet",
+        "project_id": 2133,
+        "project_path": "nvidia/shieldtablet"
+      },
+      "revision": "8689a9fc9df0179ac5f6468127dada1ebcda4f65",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/shieldtablet/-/tree/8689a9fc9df0179ac5f6468127dada1ebcda4f65"
+    },
+    {
+      "item_id": "nvidia/shieldtablet@wx_na_wf-user-7.0-NRD90M-1928188_1006.1489-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "wx_na_wf-user-7.0-NRD90M-1928188_1006.1489-release-keys",
+        "commit": "6b0585b2f68c3ca460b1a6353960aad483a1ce47",
+        "committed_date": "2022-07-25T00:42:32.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-07-24T21:44:18.315Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "shieldtablet",
+        "project_id": 2133,
+        "project_path": "nvidia/shieldtablet"
+      },
+      "revision": "6b0585b2f68c3ca460b1a6353960aad483a1ce47",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/shieldtablet/-/tree/6b0585b2f68c3ca460b1a6353960aad483a1ce47"
+    },
+    {
+      "item_id": "nvidia/shieldtablet@wx_na_wf-user-7.0-NRD90M-1928188_904.2811-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "wx_na_wf-user-7.0-NRD90M-1928188_904.2811-release-keys",
+        "commit": "9d873aa25a2b9ed7e30258fc6ab6ec757091e252",
+        "committed_date": "2021-08-18T08:20:14.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-07-24T21:44:18.315Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "shieldtablet",
+        "project_id": 2133,
+        "project_path": "nvidia/shieldtablet"
+      },
+      "revision": "9d873aa25a2b9ed7e30258fc6ab6ec757091e252",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/shieldtablet/-/tree/9d873aa25a2b9ed7e30258fc6ab6ec757091e252"
+    },
+    {
+      "item_id": "nvidia/shieldtablet@wx_un_do-user-7.0-NRD90M-1928188_1065.2559-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "wx_un_do-user-7.0-NRD90M-1928188_1065.2559-release-keys",
+        "commit": "4cefae03ffe16fc9b40332c5482c100ba58636c7",
+        "committed_date": "2022-07-25T00:46:50.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-07-24T21:44:18.315Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "shieldtablet",
+        "project_id": 2133,
+        "project_path": "nvidia/shieldtablet"
+      },
+      "revision": "4cefae03ffe16fc9b40332c5482c100ba58636c7",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/shieldtablet/-/tree/4cefae03ffe16fc9b40332c5482c100ba58636c7"
+    },
+    {
+      "item_id": "nvidia/shieldtablet@wx_un_do-user-7.0-NRD90M-1928188_904.2811-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "wx_un_do-user-7.0-NRD90M-1928188_904.2811-release-keys",
+        "commit": "6338b56de29705f964b9e454d0fc2600f9d43a0a",
+        "committed_date": "2020-03-26T19:05:46.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-07-24T21:44:18.315Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "shieldtablet",
+        "project_id": 2133,
+        "project_path": "nvidia/shieldtablet"
+      },
+      "revision": "6338b56de29705f964b9e454d0fc2600f9d43a0a",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/shieldtablet/-/tree/6338b56de29705f964b9e454d0fc2600f9d43a0a"
+    },
+    {
+      "item_id": "nvidia/sif@sif-user-11-RQ1A.210105.003-7094503_2914.3416-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sif-user-11-RQ1A.210105.003-7094503_2914.3416-release-keys",
+        "commit": "9fcb9041a3bc8350d7e613f6765ce03b4627d65d",
+        "committed_date": "2021-12-15T15:06:42.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-02-06T00:00:08.501Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "sif",
+        "project_id": 7,
+        "project_path": "nvidia/sif"
+      },
+      "revision": "9fcb9041a3bc8350d7e613f6765ce03b4627d65d",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/sif/-/tree/9fcb9041a3bc8350d7e613f6765ce03b4627d65d"
+    },
+    {
+      "item_id": "nvidia/sif@sif-user-11-RQ1A.210105.003-7825199_3062.3935-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sif-user-11-RQ1A.210105.003-7825199_3062.3935-release-keys",
+        "commit": "02a5d0e2d854fc92c1bcc852636fdedaaad81d7c",
+        "committed_date": "2022-07-24T22:41:01.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-06T00:00:08.501Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "sif",
+        "project_id": 7,
+        "project_path": "nvidia/sif"
+      },
+      "revision": "02a5d0e2d854fc92c1bcc852636fdedaaad81d7c",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/sif/-/tree/02a5d0e2d854fc92c1bcc852636fdedaaad81d7c"
+    },
+    {
+      "item_id": "nvidia/sif@sif-user-11-RQ1A.210105.003-7825199_3871.0251-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sif-user-11-RQ1A.210105.003-7825199_3871.0251-release-keys",
+        "commit": "2fb04070546acc1a0ac9adf1a3550ab9039b69b1",
+        "committed_date": "2025-02-06T02:57:57.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-06T00:00:08.501Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "sif",
+        "project_id": 7,
+        "project_path": "nvidia/sif"
+      },
+      "revision": "2fb04070546acc1a0ac9adf1a3550ab9039b69b1",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/sif/-/tree/2fb04070546acc1a0ac9adf1a3550ab9039b69b1"
+    },
+    {
+      "item_id": "nvidia/sif@sif-user-9-PPR1.180610.011-4079180_2740.7538-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sif-user-9-PPR1.180610.011-4079180_2740.7538-release-keys",
+        "commit": "8497443da3f52e649ce55a379159d010db4390f3",
+        "committed_date": "2021-08-18T08:01:44.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-06T00:00:08.501Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "sif",
+        "project_id": 7,
+        "project_path": "nvidia/sif"
+      },
+      "revision": "8497443da3f52e649ce55a379159d010db4390f3",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/sif/-/tree/8497443da3f52e649ce55a379159d010db4390f3"
+    },
+    {
+      "item_id": "nvidia/sif@sif-user-9-PPR1.180610.011-4199485_1739.5219-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sif-user-9-PPR1.180610.011-4199485_1739.5219-release-keys",
+        "commit": "0a63eb4c24ffb1e385708b0ddfea9a38734ba745",
+        "committed_date": "2020-03-26T17:39:36.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-06T00:00:08.501Z",
+        "namespace_hint": "nvidia",
+        "project_hint": "sif",
+        "project_id": 7,
+        "project_path": "nvidia/sif"
+      },
+      "revision": "0a63eb4c24ffb1e385708b0ddfea9a38734ba745",
+      "url": "https://dumps.tadiphone.dev/dumps/nvidia/sif/-/tree/0a63eb4c24ffb1e385708b0ddfea9a38734ba745"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

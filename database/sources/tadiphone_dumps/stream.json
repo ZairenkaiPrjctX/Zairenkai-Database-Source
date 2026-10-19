@@ -1,0 +1,60 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "stream/dv8555-altice@franklin-user-10-QTT8.201201.004-20230601-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "franklin-user-10-QTT8.201201.004-20230601-release-keys",
+        "commit": "80fb68d7dfa167a4d124867a30f104cf94ba34f8",
+        "committed_date": "2024-03-08T03:14:22.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T00:05:56.869Z",
+        "namespace_hint": "stream",
+        "project_hint": "dv8555-altice",
+        "project_id": 4869,
+        "project_path": "stream/dv8555-altice"
+      },
+      "revision": "80fb68d7dfa167a4d124867a30f104cf94ba34f8",
+      "url": "https://dumps.tadiphone.dev/dumps/stream/dv8555-altice/-/tree/80fb68d7dfa167a4d124867a30f104cf94ba34f8"
+    },
+    {
+      "item_id": "stream/dv8555-altice@franklin-user-12-STTC.220815.001-20230722-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "franklin-user-12-STTC.220815.001-20230722-release-keys",
+        "commit": "d7f476beba63794518e033246c915e9b526683e5",
+        "committed_date": "2024-03-08T03:06:54.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T00:05:56.869Z",
+        "namespace_hint": "stream",
+        "project_hint": "dv8555-altice",
+        "project_id": 4869,
+        "project_path": "stream/dv8555-altice"
+      },
+      "revision": "d7f476beba63794518e033246c915e9b526683e5",
+      "url": "https://dumps.tadiphone.dev/dumps/stream/dv8555-altice/-/tree/d7f476beba63794518e033246c915e9b526683e5"
+    },
+    {
+      "item_id": "stream/everest@full_k50v1_64-user-8.1.0-O11019-1543055299-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k50v1_64-user-8.1.0-O11019-1543055299-release-keys",
+        "commit": "1a103ca06f41e0d237b7953a395433ad90c18196",
+        "committed_date": "2020-03-06T05:02:04.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T18:49:01.228Z",
+        "namespace_hint": "stream",
+        "project_hint": "everest",
+        "project_id": 2056,
+        "project_path": "stream/everest"
+      },
+      "revision": "1a103ca06f41e0d237b7953a395433ad90c18196",
+      "url": "https://dumps.tadiphone.dev/dumps/stream/everest/-/tree/1a103ca06f41e0d237b7953a395433ad90c18196"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

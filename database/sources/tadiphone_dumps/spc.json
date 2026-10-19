@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "spc/l62@sp9850ka_1h10_go-user-8.1.0-OPM2.171019.012-45117-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sp9850ka_1h10_go-user-8.1.0-OPM2.171019.012-45117-release-keys",
+        "commit": "89950d3266110b79ebef61f6b2cc9122dfb4841a",
+        "committed_date": "2019-11-12T21:06:12.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T18:47:37.851Z",
+        "namespace_hint": "spc",
+        "project_hint": "l62",
+        "project_id": 2053,
+        "project_path": "spc/l62"
+      },
+      "revision": "89950d3266110b79ebef61f6b2cc9122dfb4841a",
+      "url": "https://dumps.tadiphone.dev/dumps/spc/l62/-/tree/89950d3266110b79ebef61f6b2cc9122dfb4841a"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

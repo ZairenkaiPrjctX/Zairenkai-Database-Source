@@ -1,0 +1,94 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "mobvoi/catfish@catfish_sw-user-8.0.0-OWDM.180807.005.A1-5008766-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "catfish_sw-user-8.0.0-OWDM.180807.005.A1-5008766-release-keys",
+        "commit": "94f2233f94d4093c35b7bdcb21253fcb51a8052b",
+        "committed_date": "2019-07-06T11:33:50.000-05:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T00:44:35.566Z",
+        "namespace_hint": "mobvoi",
+        "project_hint": "catfish",
+        "project_id": 1447,
+        "project_path": "mobvoi/catfish"
+      },
+      "revision": "94f2233f94d4093c35b7bdcb21253fcb51a8052b",
+      "url": "https://dumps.tadiphone.dev/dumps/mobvoi/catfish/-/tree/94f2233f94d4093c35b7bdcb21253fcb51a8052b"
+    },
+    {
+      "item_id": "mobvoi/dace@dace-user-13-TMDB.240809.001-432-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "dace-user-13-TMDB.240809.001-432-release-keys",
+        "commit": "ceeb8364cfefda8d79bf2279edaee79a58703cb3",
+        "committed_date": "2024-10-26T18:08:03.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-26T15:06:41.783Z",
+        "namespace_hint": "mobvoi",
+        "project_hint": "dace",
+        "project_id": 5473,
+        "project_path": "mobvoi/dace"
+      },
+      "revision": "ceeb8364cfefda8d79bf2279edaee79a58703cb3",
+      "url": "https://dumps.tadiphone.dev/dumps/mobvoi/dace/-/tree/ceeb8364cfefda8d79bf2279edaee79a58703cb3"
+    },
+    {
+      "item_id": "mobvoi/ricefish@ricefish-user-11-RMKB.231020.007-228-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ricefish-user-11-RMKB.231020.007-228-release-keys",
+        "commit": "4f95b153fd2d3be44c00e9843098767be9b09be8",
+        "committed_date": "2024-10-26T18:23:55.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-26T15:22:56.339Z",
+        "namespace_hint": "mobvoi",
+        "project_hint": "ricefish",
+        "project_id": 5474,
+        "project_path": "mobvoi/ricefish"
+      },
+      "revision": "4f95b153fd2d3be44c00e9843098767be9b09be8",
+      "url": "https://dumps.tadiphone.dev/dumps/mobvoi/ricefish/-/tree/4f95b153fd2d3be44c00e9843098767be9b09be8"
+    },
+    {
+      "item_id": "mobvoi/rover@rover-user-11-RMRL.240228.002-374-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "rover-user-11-RMRL.240228.002-374-release-keys",
+        "commit": "409cc75b5ab4245255aacda8a0348845c9cb6446",
+        "committed_date": "2024-10-26T18:34:50.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-26T15:33:49.635Z",
+        "namespace_hint": "mobvoi",
+        "project_hint": "rover",
+        "project_id": 5475,
+        "project_path": "mobvoi/rover"
+      },
+      "revision": "409cc75b5ab4245255aacda8a0348845c9cb6446",
+      "url": "https://dumps.tadiphone.dev/dumps/mobvoi/rover/-/tree/409cc75b5ab4245255aacda8a0348845c9cb6446"
+    },
+    {
+      "item_id": "mobvoi/rubyfish@rubyfish-user-11-RMRB.231020.007-310-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "rubyfish-user-11-RMRB.231020.007-310-release-keys",
+        "commit": "325971cecc4226f390e4c8e6df335b7279ef23c1",
+        "committed_date": "2024-10-14T16:18:52.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-14T13:17:46.976Z",
+        "namespace_hint": "mobvoi",
+        "project_hint": "rubyfish",
+        "project_id": 5457,
+        "project_path": "mobvoi/rubyfish"
+      },
+      "revision": "325971cecc4226f390e4c8e6df335b7279ef23c1",
+      "url": "https://dumps.tadiphone.dev/dumps/mobvoi/rubyfish/-/tree/325971cecc4226f390e4c8e6df335b7279ef23c1"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

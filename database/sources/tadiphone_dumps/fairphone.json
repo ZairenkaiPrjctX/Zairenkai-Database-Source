@@ -1,0 +1,757 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "fairphone/fp2@fp2_gms-user-10-22.02.0-rel.0-gms-f257e06b-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "fp2_gms-user-10-22.02.0-rel.0-gms-f257e06b-release-keys",
+        "commit": "89d43db6c1cf3c148b11f594f3b0ac0f719f6d4c",
+        "committed_date": "2022-03-10T00:59:07.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-20T00:45:39.808Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp2",
+        "project_id": 1204,
+        "project_path": "fairphone/fp2"
+      },
+      "revision": "89d43db6c1cf3c148b11f594f3b0ac0f719f6d4c",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp2/-/tree/89d43db6c1cf3c148b11f594f3b0ac0f719f6d4c"
+    },
+    {
+      "item_id": "fairphone/fp2@fp2_gms-user-10-23.02.0-rel.0-gms-9bba2609-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "fp2_gms-user-10-23.02.0-rel.0-gms-9bba2609-release-keys",
+        "commit": "8e1ee72d7f078ba5b2bc7582cb360d4091e6f4f1",
+        "committed_date": "2023-04-20T03:43:00.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-04-20T00:45:39.808Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp2",
+        "project_id": 1204,
+        "project_path": "fairphone/fp2"
+      },
+      "revision": "8e1ee72d7f078ba5b2bc7582cb360d4091e6f4f1",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp2/-/tree/8e1ee72d7f078ba5b2bc7582cb360d4091e6f4f1"
+    },
+    {
+      "item_id": "fairphone/fp2@fp2_gms-user-7.1.2-19.05.3-gms-404195ba-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "fp2_gms-user-7.1.2-19.05.3-gms-404195ba-release-keys",
+        "commit": "e1d509846d1ebc0c667bb6ece08b3981adced1dd",
+        "committed_date": "2019-08-28T11:45:48.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-20T00:45:39.808Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp2",
+        "project_id": 1204,
+        "project_path": "fairphone/fp2"
+      },
+      "revision": "e1d509846d1ebc0c667bb6ece08b3981adced1dd",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp2/-/tree/e1d509846d1ebc0c667bb6ece08b3981adced1dd"
+    },
+    {
+      "item_id": "fairphone/fp2@fp2_gms-user-7.1.2-19.08.1-gms-fad0fe00-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "fp2_gms-user-7.1.2-19.08.1-gms-fad0fe00-release-keys",
+        "commit": "a109395a3da103c08814bdd070fc12c116536018",
+        "committed_date": "2019-12-20T22:21:27.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-20T00:45:39.808Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp2",
+        "project_id": 1204,
+        "project_path": "fairphone/fp2"
+      },
+      "revision": "a109395a3da103c08814bdd070fc12c116536018",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp2/-/tree/a109395a3da103c08814bdd070fc12c116536018"
+    },
+    {
+      "item_id": "fairphone/fp2@fp2_gms-user-7.1.2-19.11.2-gms-24df0be9-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "fp2_gms-user-7.1.2-19.11.2-gms-24df0be9-release-keys",
+        "commit": "af0e84152e2d2f76fbfadcd8f165fcf076d527a1",
+        "committed_date": "2022-01-24T10:09:56.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-20T00:45:39.808Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp2",
+        "project_id": 1204,
+        "project_path": "fairphone/fp2"
+      },
+      "revision": "af0e84152e2d2f76fbfadcd8f165fcf076d527a1",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp2/-/tree/af0e84152e2d2f76fbfadcd8f165fcf076d527a1"
+    },
+    {
+      "item_id": "fairphone/fp2@fp2_gms-user-9-21.10.0-rel.2-gms-1ee7158a-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "fp2_gms-user-9-21.10.0-rel.2-gms-1ee7158a-release-keys",
+        "commit": "c479fdb2c82393cf7d7b656872c2941bc74d5a25",
+        "committed_date": "2021-11-25T16:32:13.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-20T00:45:39.808Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp2",
+        "project_id": 1204,
+        "project_path": "fairphone/fp2"
+      },
+      "revision": "c479fdb2c82393cf7d7b656872c2941bc74d5a25",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp2/-/tree/c479fdb2c82393cf7d7b656872c2941bc74d5a25"
+    },
+    {
+      "item_id": "fairphone/fp2@fp2_gms-user-9-21.12.0-rel.1-gms-dd018702-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "fp2_gms-user-9-21.12.0-rel.1-gms-dd018702-release-keys",
+        "commit": "264a2209a1c790cfbf6bf6cdeac694f43f232e05",
+        "committed_date": "2022-01-24T10:04:41.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-20T00:45:39.808Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp2",
+        "project_id": 1204,
+        "project_path": "fairphone/fp2"
+      },
+      "revision": "264a2209a1c790cfbf6bf6cdeac694f43f232e05",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp2/-/tree/264a2209a1c790cfbf6bf6cdeac694f43f232e05"
+    },
+    {
+      "item_id": "fairphone/fp2@fp2_sibon-userdebug-10-22.02.0-rel.0-sibon-f257e06b-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "fp2_sibon-userdebug-10-22.02.0-rel.0-sibon-f257e06b-release-keys",
+        "commit": "726a6af3148f22d300b4bd78ae34b8d1b14e2d19",
+        "committed_date": "2022-03-10T01:04:21.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-20T00:45:39.808Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp2",
+        "project_id": 1204,
+        "project_path": "fairphone/fp2"
+      },
+      "revision": "726a6af3148f22d300b4bd78ae34b8d1b14e2d19",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp2/-/tree/726a6af3148f22d300b4bd78ae34b8d1b14e2d19"
+    },
+    {
+      "item_id": "fairphone/fp2@fp2_sibon-userdebug-7.1.2-19.08.1-sibon-fad0fe00-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "fp2_sibon-userdebug-7.1.2-19.08.1-sibon-fad0fe00-release-keys",
+        "commit": "771953e78ee19fd19025c5d1880683ca6d15ab80",
+        "committed_date": "2019-11-03T16:37:44.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-20T00:45:39.808Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp2",
+        "project_id": 1204,
+        "project_path": "fairphone/fp2"
+      },
+      "revision": "771953e78ee19fd19025c5d1880683ca6d15ab80",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp2/-/tree/771953e78ee19fd19025c5d1880683ca6d15ab80"
+    },
+    {
+      "item_id": "fairphone/fp2@fp2_sibon-userdebug-7.1.2-19.11.2-sibon-24df0be9-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "fp2_sibon-userdebug-7.1.2-19.11.2-sibon-24df0be9-release-keys",
+        "commit": "ac9ed6b94878a82f9f671a8cb38444ec38a83289",
+        "committed_date": "2022-01-24T10:13:55.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-20T00:45:39.808Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp2",
+        "project_id": 1204,
+        "project_path": "fairphone/fp2"
+      },
+      "revision": "ac9ed6b94878a82f9f671a8cb38444ec38a83289",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp2/-/tree/ac9ed6b94878a82f9f671a8cb38444ec38a83289"
+    },
+    {
+      "item_id": "fairphone/fp2@fp2_sibon-userdebug-9-21.12.0-rel.1-sibon-dd018702-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "fp2_sibon-userdebug-9-21.12.0-rel.1-sibon-dd018702-release-keys",
+        "commit": "22f77e878bd9190744de6d16364e256c7291f5e2",
+        "committed_date": "2022-01-24T09:59:52.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-20T00:45:39.808Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp2",
+        "project_id": 1204,
+        "project_path": "fairphone/fp2"
+      },
+      "revision": "22f77e878bd9190744de6d16364e256c7291f5e2",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp2/-/tree/22f77e878bd9190744de6d16364e256c7291f5e2"
+    },
+    {
+      "item_id": "fairphone/fp3@FP3-user-11-8901.4.A.0010-gms-f74c58a8-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "FP3-user-11-8901.4.A.0010-gms-f74c58a8-release-keys",
+        "commit": "25ace42d28e248a64dfe885025f45228e2b49fac",
+        "committed_date": "2022-05-14T01:18:51.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-13T00:10:46.103Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp3",
+        "project_id": 1528,
+        "project_path": "fairphone/fp3"
+      },
+      "revision": "25ace42d28e248a64dfe885025f45228e2b49fac",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp3/-/tree/25ace42d28e248a64dfe885025f45228e2b49fac"
+    },
+    {
+      "item_id": "fairphone/fp3@FP3-user-9-8901.2.A.0110.20200109-01092024-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "FP3-user-9-8901.2.A.0110.20200109-01092024-release-keys",
+        "commit": "2440c44df24eef9a3c3519c20c124976dbe24168",
+        "committed_date": "2020-02-04T21:02:33.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-13T00:10:46.103Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp3",
+        "project_id": 1528,
+        "project_path": "fairphone/fp3"
+      },
+      "revision": "2440c44df24eef9a3c3519c20c124976dbe24168",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp3/-/tree/2440c44df24eef9a3c3519c20c124976dbe24168"
+    },
+    {
+      "item_id": "fairphone/fp3@fp3-user-10-8901.3.A.0045.20200905-09051550-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "fp3-user-10-8901.3.A.0045.20200905-09051550-release-keys",
+        "commit": "62c7e7edac116b056ae559bb5c8cf22d59c42cbe",
+        "committed_date": "2020-10-15T19:19:57.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-13T00:10:46.103Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp3",
+        "project_id": 1528,
+        "project_path": "fairphone/fp3"
+      },
+      "revision": "62c7e7edac116b056ae559bb5c8cf22d59c42cbe",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp3/-/tree/62c7e7edac116b056ae559bb5c8cf22d59c42cbe"
+    },
+    {
+      "item_id": "fairphone/fp3@fp3-user-10-8901.3.A.0054.20200929-09290922-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "fp3-user-10-8901.3.A.0054.20200929-09290922-release-keys",
+        "commit": "c595a2f135e671bfaf3eb41d8b8e1d24367c941a",
+        "committed_date": "2020-11-07T05:37:42.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-13T00:10:46.103Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp3",
+        "project_id": 1528,
+        "project_path": "fairphone/fp3"
+      },
+      "revision": "c595a2f135e671bfaf3eb41d8b8e1d24367c941a",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp3/-/tree/c595a2f135e671bfaf3eb41d8b8e1d24367c941a"
+    },
+    {
+      "item_id": "fairphone/fp3@fp3-user-10-8901.3.A.0084.20210204-02041053-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "fp3-user-10-8901.3.A.0084.20210204-02041053-release-keys",
+        "commit": "232d06369cba6a9140d74759964ca79bcc4d0f4a",
+        "committed_date": "2021-03-25T20:26:23.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-13T00:10:46.103Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp3",
+        "project_id": 1528,
+        "project_path": "fairphone/fp3"
+      },
+      "revision": "232d06369cba6a9140d74759964ca79bcc4d0f4a",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp3/-/tree/232d06369cba6a9140d74759964ca79bcc4d0f4a"
+    },
+    {
+      "item_id": "fairphone/fp3@fp3-user-10-8901.3.A.0129.20210805-08051356-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "fp3-user-10-8901.3.A.0129.20210805-08051356-release-keys",
+        "commit": "8ea1b8c4ce3187295941286e32e6cb9df5539082",
+        "committed_date": "2021-09-15T03:43:52.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-13T00:10:46.103Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp3",
+        "project_id": 1528,
+        "project_path": "fairphone/fp3"
+      },
+      "revision": "8ea1b8c4ce3187295941286e32e6cb9df5539082",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp3/-/tree/8ea1b8c4ce3187295941286e32e6cb9df5539082"
+    },
+    {
+      "item_id": "fairphone/fp3@fp3-user-10-8901.3.A.0134.20211116-gms-12ee4a80-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "fp3-user-10-8901.3.A.0134.20211116-gms-12ee4a80-release-keys",
+        "commit": "a64dbe13d58c5dbbe47f4cea0008fcae20fb775e",
+        "committed_date": "2021-11-27T18:56:08.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-13T00:10:46.103Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp3",
+        "project_id": 1528,
+        "project_path": "fairphone/fp3"
+      },
+      "revision": "a64dbe13d58c5dbbe47f4cea0008fcae20fb775e",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp3/-/tree/a64dbe13d58c5dbbe47f4cea0008fcae20fb775e"
+    },
+    {
+      "item_id": "fairphone/fp3@fp3_gms-user-11-8901.4.A.0019.1-gms-edfd6a4e-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "fp3_gms-user-11-8901.4.A.0019.1-gms-edfd6a4e-release-keys",
+        "commit": "a4a8540c7568d23c0de65caf664eae2d7fb10397",
+        "committed_date": "2023-07-11T02:51:49.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-13T00:10:46.103Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp3",
+        "project_id": 1528,
+        "project_path": "fairphone/fp3"
+      },
+      "revision": "a4a8540c7568d23c0de65caf664eae2d7fb10397",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp3/-/tree/a4a8540c7568d23c0de65caf664eae2d7fb10397"
+    },
+    {
+      "item_id": "fairphone/fp3@fp3_gms-user-13-6.A.028.1-gms-fb581341-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "fp3_gms-user-13-6.A.028.1-gms-fb581341-release-keys",
+        "commit": "b1aa5db63ad962a711cde1b7c54266fa66af8f0c",
+        "committed_date": "2024-05-13T12:57:24.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-13T00:10:46.103Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp3",
+        "project_id": 1528,
+        "project_path": "fairphone/fp3"
+      },
+      "revision": "b1aa5db63ad962a711cde1b7c54266fa66af8f0c",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp3/-/tree/b1aa5db63ad962a711cde1b7c54266fa66af8f0c"
+    },
+    {
+      "item_id": "fairphone/fp3@fp3_gms-user-13-6.A.029.0-gms-d294663c-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "fp3_gms-user-13-6.A.029.0-gms-d294663c-release-keys",
+        "commit": "da88a5c8e3cd72942982d1f53707b5b469e3a458",
+        "committed_date": "2024-09-05T18:16:28.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-13T00:10:46.103Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp3",
+        "project_id": 1528,
+        "project_path": "fairphone/fp3"
+      },
+      "revision": "da88a5c8e3cd72942982d1f53707b5b469e3a458",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp3/-/tree/da88a5c8e3cd72942982d1f53707b5b469e3a458"
+    },
+    {
+      "item_id": "fairphone/fp3@fp3_gms-user-13-6.A.031.5-gms-fa7632b5-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "fp3_gms-user-13-6.A.031.5-gms-fa7632b5-release-keys",
+        "commit": "3b054b1e4d72ddbbd0ef251c3c662c70f9c85f0b",
+        "committed_date": "2025-01-13T03:05:01.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-01-13T00:10:46.103Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp3",
+        "project_id": 1528,
+        "project_path": "fairphone/fp3"
+      },
+      "revision": "3b054b1e4d72ddbbd0ef251c3c662c70f9c85f0b",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp3/-/tree/3b054b1e4d72ddbbd0ef251c3c662c70f9c85f0b"
+    },
+    {
+      "item_id": "fairphone/fp4@qssi-user-11-RKQ1.210503.001-FP3I-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210503.001-FP3I-release-keys",
+        "commit": "5231be54213c22b777dd2b22918201315caae710",
+        "committed_date": "2021-11-24T19:49:54.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-27T08:54:20.290Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp4",
+        "project_id": 1130,
+        "project_path": "fairphone/fp4"
+      },
+      "revision": "5231be54213c22b777dd2b22918201315caae710",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp4/-/tree/5231be54213c22b777dd2b22918201315caae710"
+    },
+    {
+      "item_id": "fairphone/fp4@qssi-user-11-RKQ1.210503.001-FP3N-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210503.001-FP3N-release-keys",
+        "commit": "4e0dd0c7ed42aba4f746b8f22d5776440bd142d8",
+        "committed_date": "2022-01-24T09:01:38.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-27T08:54:20.290Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp4",
+        "project_id": 1130,
+        "project_path": "fairphone/fp4"
+      },
+      "revision": "4e0dd0c7ed42aba4f746b8f22d5776440bd142d8",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp4/-/tree/4e0dd0c7ed42aba4f746b8f22d5776440bd142d8"
+    },
+    {
+      "item_id": "fairphone/fp4@qssi-user-11-RKQ1.210503.001-FP3Q-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210503.001-FP3Q-release-keys",
+        "commit": "45df2073661e3c0829dbdb930e46b8a0fd9d0a60",
+        "committed_date": "2022-01-01T19:58:45.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-27T08:54:20.290Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp4",
+        "project_id": 1130,
+        "project_path": "fairphone/fp4"
+      },
+      "revision": "45df2073661e3c0829dbdb930e46b8a0fd9d0a60",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp4/-/tree/45df2073661e3c0829dbdb930e46b8a0fd9d0a60"
+    },
+    {
+      "item_id": "fairphone/fp4@qssi-user-11-RKQ1.210503.001-FP3T-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210503.001-FP3T-release-keys",
+        "commit": "c27225740aeb4ce05fea4f7eebdd12a6cadd48a5",
+        "committed_date": "2022-05-14T01:30:44.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-27T08:54:20.290Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp4",
+        "project_id": 1130,
+        "project_path": "fairphone/fp4"
+      },
+      "revision": "c27225740aeb4ce05fea4f7eebdd12a6cadd48a5",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp4/-/tree/c27225740aeb4ce05fea4f7eebdd12a6cadd48a5"
+    },
+    {
+      "item_id": "fairphone/fp4@qssi-user-11-RKQ1.210503.001-FP3W-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210503.001-FP3W-release-keys",
+        "commit": "b90d4b77ae08993a1a504b48979a2f2669050db7",
+        "committed_date": "2022-07-09T02:21:39.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-27T08:54:20.290Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp4",
+        "project_id": 1130,
+        "project_path": "fairphone/fp4"
+      },
+      "revision": "b90d4b77ae08993a1a504b48979a2f2669050db7",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp4/-/tree/b90d4b77ae08993a1a504b48979a2f2669050db7"
+    },
+    {
+      "item_id": "fairphone/fp4@qssi-user-11-RKQ1.210503.001-FP4D-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210503.001-FP4D-release-keys",
+        "commit": "3d9694225d19dccd43dcc0ff2ea9c6e182a2cc42",
+        "committed_date": "2022-09-25T00:00:34.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-27T08:54:20.290Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp4",
+        "project_id": 1130,
+        "project_path": "fairphone/fp4"
+      },
+      "revision": "3d9694225d19dccd43dcc0ff2ea9c6e182a2cc42",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp4/-/tree/3d9694225d19dccd43dcc0ff2ea9c6e182a2cc42"
+    },
+    {
+      "item_id": "fairphone/fp4@qssi-user-12-SKQ1.220201.001-SP25-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220201.001-SP25-release-keys",
+        "commit": "bcdd4fa586993ec5789f16c26fc0334819601072",
+        "committed_date": "2023-04-20T03:24:00.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-27T08:54:20.290Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp4",
+        "project_id": 1130,
+        "project_path": "fairphone/fp4"
+      },
+      "revision": "bcdd4fa586993ec5789f16c26fc0334819601072",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp4/-/tree/bcdd4fa586993ec5789f16c26fc0334819601072"
+    },
+    {
+      "item_id": "fairphone/fp4@qssi-user-12-SKQ1.220201.001-SP29-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220201.001-SP29-release-keys",
+        "commit": "8475e0ea37c01757ccd25de148d3d7806e60779f",
+        "committed_date": "2023-07-11T03:01:49.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-27T08:54:20.290Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp4",
+        "project_id": 1130,
+        "project_path": "fairphone/fp4"
+      },
+      "revision": "8475e0ea37c01757ccd25de148d3d7806e60779f",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp4/-/tree/8475e0ea37c01757ccd25de148d3d7806e60779f"
+    },
+    {
+      "item_id": "fairphone/fp4@qssi-user-13-TKQ1.230127.002-TP1V-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.230127.002-TP1V-release-keys",
+        "commit": "84dad8b99af535f792058788df7d21e29588771c",
+        "committed_date": "2023-10-15T04:22:01.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-27T08:54:20.290Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp4",
+        "project_id": 1130,
+        "project_path": "fairphone/fp4"
+      },
+      "revision": "84dad8b99af535f792058788df7d21e29588771c",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp4/-/tree/84dad8b99af535f792058788df7d21e29588771c"
+    },
+    {
+      "item_id": "fairphone/fp4@qssi-user-13-TKQ1.230127.002-TP29-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.230127.002-TP29-release-keys",
+        "commit": "4c569b34d44f1f150530dd43080d063741ea8f7f",
+        "committed_date": "2024-03-23T16:03:00.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-27T08:54:20.290Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp4",
+        "project_id": 1130,
+        "project_path": "fairphone/fp4"
+      },
+      "revision": "4c569b34d44f1f150530dd43080d063741ea8f7f",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp4/-/tree/4c569b34d44f1f150530dd43080d063741ea8f7f"
+    },
+    {
+      "item_id": "fairphone/fp4@qssi-user-13-TKQ1.230127.002-TP2D-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.230127.002-TP2D-release-keys",
+        "commit": "655c3b09f50b84fd762baf45765639bebb1847e7",
+        "committed_date": "2024-05-12T20:21:24.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-27T08:54:20.290Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp4",
+        "project_id": 1130,
+        "project_path": "fairphone/fp4"
+      },
+      "revision": "655c3b09f50b84fd762baf45765639bebb1847e7",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp4/-/tree/655c3b09f50b84fd762baf45765639bebb1847e7"
+    },
+    {
+      "item_id": "fairphone/fp4@qssi-user-13-TKQ1.230127.002-TP2I-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.230127.002-TP2I-release-keys",
+        "commit": "1c6d3842bc39f06f30adbc107730848e07816131",
+        "committed_date": "2024-09-17T17:08:07.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-27T08:54:20.290Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp4",
+        "project_id": 1130,
+        "project_path": "fairphone/fp4"
+      },
+      "revision": "1c6d3842bc39f06f30adbc107730848e07816131",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp4/-/tree/1c6d3842bc39f06f30adbc107730848e07816131"
+    },
+    {
+      "item_id": "fairphone/fp4@qssi-user-13-TKQ1.230127.002-TP2L-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.230127.002-TP2L-release-keys",
+        "commit": "daef7c2da3754b4ea80a0b82a533fa73d67bc75c",
+        "committed_date": "2024-11-27T11:46:54.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-11-27T08:54:20.290Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp4",
+        "project_id": 1130,
+        "project_path": "fairphone/fp4"
+      },
+      "revision": "daef7c2da3754b4ea80a0b82a533fa73d67bc75c",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp4/-/tree/daef7c2da3754b4ea80a0b82a533fa73d67bc75c"
+    },
+    {
+      "item_id": "fairphone/fp5@qssi-user-13-TKQ1.230127.002-TT3G-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.230127.002-TT3G-release-keys",
+        "commit": "560c39d628a607775aeab53a254bc821f6908cb2",
+        "committed_date": "2023-08-30T19:18:51.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-04-03T18:50:31.901Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp5",
+        "project_id": 4416,
+        "project_path": "fairphone/fp5"
+      },
+      "revision": "560c39d628a607775aeab53a254bc821f6908cb2",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp5/-/tree/560c39d628a607775aeab53a254bc821f6908cb2"
+    },
+    {
+      "item_id": "fairphone/fp5@qssi-user-13-TKQ1.230127.002-TT3L-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.230127.002-TT3L-release-keys",
+        "commit": "a43a722b418abe221c2b3aed1e73703d5c6f11e0",
+        "committed_date": "2023-10-15T04:08:28.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-04-03T18:50:31.901Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp5",
+        "project_id": 4416,
+        "project_path": "fairphone/fp5"
+      },
+      "revision": "a43a722b418abe221c2b3aed1e73703d5c6f11e0",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp5/-/tree/a43a722b418abe221c2b3aed1e73703d5c6f11e0"
+    },
+    {
+      "item_id": "fairphone/fp5@qssi-user-13-TKQ1.230127.002-TT46-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.230127.002-TT46-release-keys",
+        "commit": "c60a3b93101ba54d72d6b9c52ea5813dd46fc65c",
+        "committed_date": "2024-04-06T09:10:15.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-04-03T18:50:31.901Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp5",
+        "project_id": 4416,
+        "project_path": "fairphone/fp5"
+      },
+      "revision": "c60a3b93101ba54d72d6b9c52ea5813dd46fc65c",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp5/-/tree/c60a3b93101ba54d72d6b9c52ea5813dd46fc65c"
+    },
+    {
+      "item_id": "fairphone/fp5@qssi-user-13-TKQ1.230127.002-TT4C-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.230127.002-TT4C-release-keys",
+        "commit": "33943f4d18b24e8556fc425c88435197388be052",
+        "committed_date": "2024-05-08T16:13:05.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-04-03T18:50:31.901Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp5",
+        "project_id": 4416,
+        "project_path": "fairphone/fp5"
+      },
+      "revision": "33943f4d18b24e8556fc425c88435197388be052",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp5/-/tree/33943f4d18b24e8556fc425c88435197388be052"
+    },
+    {
+      "item_id": "fairphone/fp5@qssi-user-14-UKQ1.230924.001-UT27-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-UT27-release-keys",
+        "commit": "ac3cae4511a8b4943202ad1e19a5f770f3cffac0",
+        "committed_date": "2024-09-14T18:09:42.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-04-03T18:50:31.901Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp5",
+        "project_id": 4416,
+        "project_path": "fairphone/fp5"
+      },
+      "revision": "ac3cae4511a8b4943202ad1e19a5f770f3cffac0",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp5/-/tree/ac3cae4511a8b4943202ad1e19a5f770f3cffac0"
+    },
+    {
+      "item_id": "fairphone/fp5@qssi-user-14-UKQ1.230924.001-UT2L-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-UT2L-release-keys",
+        "commit": "fd01e4c3c8f765fffb6ad8c7ec7faefb7ededb4e",
+        "committed_date": "2025-04-03T21:42:26.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-04-03T18:50:31.901Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp5",
+        "project_id": 4416,
+        "project_path": "fairphone/fp5"
+      },
+      "revision": "fd01e4c3c8f765fffb6ad8c7ec7faefb7ededb4e",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp5/-/tree/fd01e4c3c8f765fffb6ad8c7ec7faefb7ededb4e"
+    },
+    {
+      "item_id": "fairphone/fp6@qssi_64-user-15-FP6.QREL.15.105.0-VS1C-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-15-FP6.QREL.15.105.0-VS1C-release-keys",
+        "commit": "95e4d18c51c76b40c427b393ad47201428118a8b",
+        "committed_date": "2025-07-24T09:42:18.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-07-30T20:36:09.883Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp6",
+        "project_id": 5677,
+        "project_path": "fairphone/fp6"
+      },
+      "revision": "95e4d18c51c76b40c427b393ad47201428118a8b",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp6/-/tree/95e4d18c51c76b40c427b393ad47201428118a8b"
+    },
+    {
+      "item_id": "fairphone/fp6@qssi_64-user-16-FP6.QREL.16.61.0-WS19-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-16-FP6.QREL.16.61.0-WS19-release-keys",
+        "commit": "4035d783056c7b199b7df6f00c65fa4b040fb9ef",
+        "committed_date": "2026-05-26T15:11:50.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-07-30T20:36:09.883Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp6",
+        "project_id": 5677,
+        "project_path": "fairphone/fp6"
+      },
+      "revision": "4035d783056c7b199b7df6f00c65fa4b040fb9ef",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp6/-/tree/4035d783056c7b199b7df6f00c65fa4b040fb9ef"
+    },
+    {
+      "item_id": "fairphone/fp6@qssi_64-user-16-FP6.QREL.16.95.0-WS1J-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-16-FP6.QREL.16.95.0-WS1J-release-keys",
+        "commit": "4e722ab2bdfef21c1736a876c641bbe9de9eee17",
+        "committed_date": "2026-07-30T23:27:02.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-07-30T20:36:09.883Z",
+        "namespace_hint": "fairphone",
+        "project_hint": "fp6",
+        "project_id": 5677,
+        "project_path": "fairphone/fp6"
+      },
+      "revision": "4e722ab2bdfef21c1736a876c641bbe9de9eee17",
+      "url": "https://dumps.tadiphone.dev/dumps/fairphone/fp6/-/tree/4e722ab2bdfef21c1736a876c641bbe9de9eee17"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

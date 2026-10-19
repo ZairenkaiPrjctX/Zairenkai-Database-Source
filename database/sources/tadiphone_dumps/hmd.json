@@ -1,0 +1,230 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "hmd/lgd@ussi_Legend_arm64_full-user-14-UP1A.231005.007-00WW_1_120-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ussi_Legend_arm64_full-user-14-UP1A.231005.007-00WW_1_120-release-keys",
+        "commit": "bf2723bcd5e631f7ef6919034d13b2fa16b0fbb8",
+        "committed_date": "2024-04-30T14:00:37.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-24T22:26:26.476Z",
+        "namespace_hint": "hmd",
+        "project_hint": "lgd",
+        "project_id": 5250,
+        "project_path": "hmd/lgd"
+      },
+      "revision": "bf2723bcd5e631f7ef6919034d13b2fa16b0fbb8",
+      "url": "https://dumps.tadiphone.dev/dumps/hmd/lgd/-/tree/bf2723bcd5e631f7ef6919034d13b2fa16b0fbb8"
+    },
+    {
+      "item_id": "hmd/lgd@ussi_Legend_arm64_full-user-14-UP1A.231005.007-00WW_1_330-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ussi_Legend_arm64_full-user-14-UP1A.231005.007-00WW_1_330-release-keys",
+        "commit": "eb715cce458ccf9ba11a33738a3a9d7d3663989b",
+        "committed_date": "2024-07-30T04:25:47.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-24T22:26:26.476Z",
+        "namespace_hint": "hmd",
+        "project_hint": "lgd",
+        "project_id": 5250,
+        "project_path": "hmd/lgd"
+      },
+      "revision": "eb715cce458ccf9ba11a33738a3a9d7d3663989b",
+      "url": "https://dumps.tadiphone.dev/dumps/hmd/lgd/-/tree/eb715cce458ccf9ba11a33738a3a9d7d3663989b"
+    },
+    {
+      "item_id": "hmd/lgd@ussi_Legend_full-user-15-AP3A.240905.015.A2-00WW_2_370-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ussi_Legend_full-user-15-AP3A.240905.015.A2-00WW_2_370-release-keys",
+        "commit": "527b45bd6fd112b00db6e20964eabe5c68b96173",
+        "committed_date": "2024-12-25T01:18:47.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-12-24T22:26:26.476Z",
+        "namespace_hint": "hmd",
+        "project_hint": "lgd",
+        "project_id": 5250,
+        "project_path": "hmd/lgd"
+      },
+      "revision": "527b45bd6fd112b00db6e20964eabe5c68b96173",
+      "url": "https://dumps.tadiphone.dev/dumps/hmd/lgd/-/tree/527b45bd6fd112b00db6e20964eabe5c68b96173"
+    },
+    {
+      "item_id": "hmd/nhk@qssi-user-14-UKQ1.231121.002-eng.jenkin.20240925.134105-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.231121.002-eng.jenkin.20240925.134105-release-keys",
+        "commit": "be19d4df1d5193959d67e1fcfc77f5666fbef0ee",
+        "committed_date": "2024-10-01T06:26:50.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-01T10:28:36.062Z",
+        "namespace_hint": "hmd",
+        "project_hint": "nhk",
+        "project_id": 5438,
+        "project_path": "hmd/nhk"
+      },
+      "revision": "be19d4df1d5193959d67e1fcfc77f5666fbef0ee",
+      "url": "https://dumps.tadiphone.dev/dumps/hmd/nhk/-/tree/be19d4df1d5193959d67e1fcfc77f5666fbef0ee"
+    },
+    {
+      "item_id": "hmd/nhk@qssi-user-14-UKQ1.231121.002-eng.jenkin.20241030.153138-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.231121.002-eng.jenkin.20241030.153138-release-keys",
+        "commit": "273f8c9cd194865743cc2877ac92b44801f4fcec",
+        "committed_date": "2024-12-01T13:19:07.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-12-01T10:28:36.062Z",
+        "namespace_hint": "hmd",
+        "project_hint": "nhk",
+        "project_id": 5438,
+        "project_path": "hmd/nhk"
+      },
+      "revision": "273f8c9cd194865743cc2877ac92b44801f4fcec",
+      "url": "https://dumps.tadiphone.dev/dumps/hmd/nhk/-/tree/273f8c9cd194865743cc2877ac92b44801f4fcec"
+    },
+    {
+      "item_id": "hmd/nighthawk@qssi-user-15-AQ3A.240912.001-eng.androi.00000000.000000-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-15-AQ3A.240912.001-eng.androi.00000000.000000-release-keys",
+        "commit": "205d4c6de3f3df60a35775f2dd5ad1cae4261865",
+        "committed_date": "2025-05-25T11:59:07.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-05-25T08:54:32.714Z",
+        "namespace_hint": "hmd",
+        "project_hint": "nighthawk",
+        "project_id": 5652,
+        "project_path": "hmd/nighthawk"
+      },
+      "revision": "205d4c6de3f3df60a35775f2dd5ad1cae4261865",
+      "url": "https://dumps.tadiphone.dev/dumps/hmd/nighthawk/-/tree/205d4c6de3f3df60a35775f2dd5ad1cae4261865"
+    },
+    {
+      "item_id": "hmd/nyx@ussi_arm64_go-user-14-UP1A.231005.007-00WW_1_140-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ussi_arm64_go-user-14-UP1A.231005.007-00WW_1_140-release-keys",
+        "commit": "e0c6f1cc6370670602eaaddf2a93591a7cf844d7",
+        "committed_date": "2025-02-02T17:42:06.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-02-02T14:39:32.227Z",
+        "namespace_hint": "hmd",
+        "project_hint": "nyx",
+        "project_id": 5561,
+        "project_path": "hmd/nyx"
+      },
+      "revision": "e0c6f1cc6370670602eaaddf2a93591a7cf844d7",
+      "url": "https://dumps.tadiphone.dev/dumps/hmd/nyx/-/tree/e0c6f1cc6370670602eaaddf2a93591a7cf844d7"
+    },
+    {
+      "item_id": "hmd/rpt@qssi-user-15-AQ3A.241114.001-eng.androi.00000000.000000-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-15-AQ3A.241114.001-eng.androi.00000000.000000-release-keys",
+        "commit": "c1e3326398afabc957c57baa400aa6e794377af5",
+        "committed_date": "2025-08-26T12:50:53.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-08-26T09:47:10.100Z",
+        "namespace_hint": "hmd",
+        "project_hint": "rpt",
+        "project_id": 5680,
+        "project_path": "hmd/rpt"
+      },
+      "revision": "c1e3326398afabc957c57baa400aa6e794377af5",
+      "url": "https://dumps.tadiphone.dev/dumps/hmd/rpt/-/tree/c1e3326398afabc957c57baa400aa6e794377af5"
+    },
+    {
+      "item_id": "hmd/shk@qssi-userdebug-14-UKQ1.231025.001-eng.jenkin.20240305.081352-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-userdebug-14-UKQ1.231025.001-eng.jenkin.20240305.081352-release-keys",
+        "commit": "b34d64ed64e27d93629aeeb720aa96f05a1ec742",
+        "committed_date": "2024-06-05T02:17:35.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-06-04T23:15:56.025Z",
+        "namespace_hint": "hmd",
+        "project_hint": "shk",
+        "project_id": 5297,
+        "project_path": "hmd/shk"
+      },
+      "revision": "b34d64ed64e27d93629aeeb720aa96f05a1ec742",
+      "url": "https://dumps.tadiphone.dev/dumps/hmd/shk/-/tree/b34d64ed64e27d93629aeeb720aa96f05a1ec742"
+    },
+    {
+      "item_id": "hmd/tct@qssi-user-14-UKQ1.231121.002-eng.jenkin.20240807.091854-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.231121.002-eng.jenkin.20240807.091854-release-keys",
+        "commit": "5e8042eaa86733deeaac78736fae172d41e8bb95",
+        "committed_date": "2024-08-27T16:40:45.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-12T11:31:40.752Z",
+        "namespace_hint": "hmd",
+        "project_hint": "tct",
+        "project_id": 5398,
+        "project_path": "hmd/tct"
+      },
+      "revision": "5e8042eaa86733deeaac78736fae172d41e8bb95",
+      "url": "https://dumps.tadiphone.dev/dumps/hmd/tct/-/tree/5e8042eaa86733deeaac78736fae172d41e8bb95"
+    },
+    {
+      "item_id": "hmd/tct@qssi-user-14-UKQ1.231121.002-eng.jenkin.20240924.121448-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.231121.002-eng.jenkin.20240924.121448-release-keys",
+        "commit": "b2d6663650d722877fa7a2f259e56b467795ae03",
+        "committed_date": "2024-09-30T17:10:50.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-12T11:31:40.752Z",
+        "namespace_hint": "hmd",
+        "project_hint": "tct",
+        "project_id": 5398,
+        "project_path": "hmd/tct"
+      },
+      "revision": "b2d6663650d722877fa7a2f259e56b467795ae03",
+      "url": "https://dumps.tadiphone.dev/dumps/hmd/tct/-/tree/b2d6663650d722877fa7a2f259e56b467795ae03"
+    },
+    {
+      "item_id": "hmd/tct@qssi-user-14-UKQ1.231121.002-eng.jenkin.20241122.035212-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.231121.002-eng.jenkin.20241122.035212-release-keys",
+        "commit": "8149c3f5924c8f0f225f537bc185a52efec35e9d",
+        "committed_date": "2024-12-21T21:51:06.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-12T11:31:40.752Z",
+        "namespace_hint": "hmd",
+        "project_hint": "tct",
+        "project_id": 5398,
+        "project_path": "hmd/tct"
+      },
+      "revision": "8149c3f5924c8f0f225f537bc185a52efec35e9d",
+      "url": "https://dumps.tadiphone.dev/dumps/hmd/tct/-/tree/8149c3f5924c8f0f225f537bc185a52efec35e9d"
+    },
+    {
+      "item_id": "hmd/tct@qssi-user-15-AQ3A.240912.001-eng.androi.00000000.000000-release-keys--",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-15-AQ3A.240912.001-eng.androi.00000000.000000-release-keys--",
+        "commit": "c3b8ae9831595381e98c8434aadecb29d2d11768",
+        "committed_date": "2025-02-12T14:22:49.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-02-12T11:31:40.752Z",
+        "namespace_hint": "hmd",
+        "project_hint": "tct",
+        "project_id": 5398,
+        "project_path": "hmd/tct"
+      },
+      "revision": "c3b8ae9831595381e98c8434aadecb29d2d11768",
+      "url": "https://dumps.tadiphone.dev/dumps/hmd/tct/-/tree/c3b8ae9831595381e98c8434aadecb29d2d11768"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "myphone/mynx1@te97_s57my-user-8.1.0-OPM2.171019.012-41221-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "te97_s57my-user-8.1.0-OPM2.171019.012-41221-release-keys",
+        "commit": "f1435bfa753a568ce1e69178a7a33d19f5ef1b63",
+        "committed_date": "2019-11-12T21:10:12.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T15:52:34.879Z",
+        "namespace_hint": "myphone",
+        "project_hint": "mynx1",
+        "project_id": 1906,
+        "project_path": "myphone/mynx1"
+      },
+      "revision": "f1435bfa753a568ce1e69178a7a33d19f5ef1b63",
+      "url": "https://dumps.tadiphone.dev/dumps/myphone/mynx1/-/tree/f1435bfa753a568ce1e69178a7a33d19f5ef1b63"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

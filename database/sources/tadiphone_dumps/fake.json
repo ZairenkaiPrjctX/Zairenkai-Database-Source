@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "fake/asus_ai2302@qssi-user-15-AQ3A.240812.002-35.0604.0404.131-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-15-AQ3A.240812.002-35.0604.0404.131-release-keys",
+        "commit": "69bb5137d6be9f01f7edbf9ec1d3cc5989f5787a",
+        "committed_date": "2025-08-06T14:39:15.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-08-06T11:53:39.499Z",
+        "namespace_hint": "fake",
+        "project_hint": "asus_ai2302",
+        "project_id": 5590,
+        "project_path": "fake/asus_ai2302"
+      },
+      "revision": "69bb5137d6be9f01f7edbf9ec1d3cc5989f5787a",
+      "url": "https://dumps.tadiphone.dev/dumps/fake/asus_ai2302/-/tree/69bb5137d6be9f01f7edbf9ec1d3cc5989f5787a"
+    },
+    {
+      "item_id": "fake/asus_ai2302@qssi-user-15-AQ3A.240812.002-35.0604.0404.65-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-15-AQ3A.240812.002-35.0604.0404.65-release-keys",
+        "commit": "cd5fb434fa64dbeeffe6114340b8abdb672592d4",
+        "committed_date": "2025-02-27T13:49:10.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-08-06T11:53:39.499Z",
+        "namespace_hint": "fake",
+        "project_hint": "asus_ai2302",
+        "project_id": 5590,
+        "project_path": "fake/asus_ai2302"
+      },
+      "revision": "cd5fb434fa64dbeeffe6114340b8abdb672592d4",
+      "url": "https://dumps.tadiphone.dev/dumps/fake/asus_ai2302/-/tree/cd5fb434fa64dbeeffe6114340b8abdb672592d4"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

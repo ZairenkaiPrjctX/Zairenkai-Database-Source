@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "fxtec/qx1000@QX1000-user-9-PKQ1.190723.001-20200306124530-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "QX1000-user-9-PKQ1.190723.001-20200306124530-release-keys",
+        "commit": "c73d01db28f43228f378d8a0e0a2bf368a2c2bf5",
+        "committed_date": "2020-03-19T20:11:18.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T12:01:43.005Z",
+        "namespace_hint": "fxtec",
+        "project_hint": "qx1000",
+        "project_id": 56,
+        "project_path": "fxtec/qx1000"
+      },
+      "revision": "c73d01db28f43228f378d8a0e0a2bf368a2c2bf5",
+      "url": "https://dumps.tadiphone.dev/dumps/fxtec/qx1000/-/tree/c73d01db28f43228f378d8a0e0a2bf368a2c2bf5"
+    },
+    {
+      "item_id": "fxtec/qx1000@QX1000-user-9-PKQ1.190723.001-20200825231443-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "QX1000-user-9-PKQ1.190723.001-20200825231443-release-keys",
+        "commit": "c31aa212f4ec6bd6c60952b2ae3d7c78643063cc",
+        "committed_date": "2020-09-30T16:19:27.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-14T12:01:43.005Z",
+        "namespace_hint": "fxtec",
+        "project_hint": "qx1000",
+        "project_id": 56,
+        "project_path": "fxtec/qx1000"
+      },
+      "revision": "c31aa212f4ec6bd6c60952b2ae3d7c78643063cc",
+      "url": "https://dumps.tadiphone.dev/dumps/fxtec/qx1000/-/tree/c31aa212f4ec6bd6c60952b2ae3d7c78643063cc"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "yu/yu5014@YU5014-user-8.1.0-O11019-1543909657-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "YU5014-user-8.1.0-O11019-1543909657-release-keys",
+        "commit": "43a2a77ed367451bdc43dfeda402f87d2e21eadb",
+        "committed_date": "2019-11-09T02:13:42.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T11:05:18.895Z",
+        "namespace_hint": "yu",
+        "project_hint": "yu5014",
+        "project_id": 963,
+        "project_path": "yu/yu5014"
+      },
+      "revision": "43a2a77ed367451bdc43dfeda402f87d2e21eadb",
+      "url": "https://dumps.tadiphone.dev/dumps/yu/yu5014/-/tree/43a2a77ed367451bdc43dfeda402f87d2e21eadb"
+    },
+    {
+      "item_id": "yu/yureka@YUREKA-user-5.1.1-LMY48B-YOG4PAS3JM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "YUREKA-user-5.1.1-LMY48B-YOG4PAS3JM-release-keys",
+        "commit": "54704f26ca87b69a8e954653685141507f7c0068",
+        "committed_date": "2019-10-20T23:48:56.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T16:28:37.974Z",
+        "namespace_hint": "yu",
+        "project_hint": "yureka",
+        "project_id": 1177,
+        "project_path": "yu/yureka"
+      },
+      "revision": "54704f26ca87b69a8e954653685141507f7c0068",
+      "url": "https://dumps.tadiphone.dev/dumps/yu/yureka/-/tree/54704f26ca87b69a8e954653685141507f7c0068"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

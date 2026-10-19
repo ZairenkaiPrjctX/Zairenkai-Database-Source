@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "colorfly/shift7@reallytek82_tb_kk-user-4.4.2-KOT49H-eng.rc-buildsrv8.1421148464-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "reallytek82_tb_kk-user-4.4.2-KOT49H-eng.rc-buildsrv8.1421148464-test-keys",
+        "commit": "0cef6520fd13326fce52d7974bdfdcf8c37d4b8a",
+        "committed_date": "2021-12-02T11:31:43.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T17:31:10.493Z",
+        "namespace_hint": "colorfly",
+        "project_hint": "shift7",
+        "project_id": 1991,
+        "project_path": "colorfly/shift7"
+      },
+      "revision": "0cef6520fd13326fce52d7974bdfdcf8c37d4b8a",
+      "url": "https://dumps.tadiphone.dev/dumps/colorfly/shift7/-/tree/0cef6520fd13326fce52d7974bdfdcf8c37d4b8a"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

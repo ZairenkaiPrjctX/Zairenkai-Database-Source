@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "mi/pissarroin@pissarro-user-11-RP1A.200720.011-V12.5.5.0.RKTCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "pissarro-user-11-RP1A.200720.011-V12.5.5.0.RKTCNXM-release-keys",
+        "commit": "ce3f00d041756e5dd702584fade065f176570d94",
+        "committed_date": "2021-11-02T12:53:22.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T17:25:43.453Z",
+        "namespace_hint": "mi",
+        "project_hint": "pissarroin",
+        "project_id": 1989,
+        "project_path": "mi/pissarroin"
+      },
+      "revision": "ce3f00d041756e5dd702584fade065f176570d94",
+      "url": "https://dumps.tadiphone.dev/dumps/mi/pissarroin/-/tree/ce3f00d041756e5dd702584fade065f176570d94"
+    },
+    {
+      "item_id": "mi/pissarroin@pissarro-user-11-RP1A.200720.011-V12.5.6.0.RKTCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "pissarro-user-11-RP1A.200720.011-V12.5.6.0.RKTCNXM-release-keys",
+        "commit": "648c722161f1bac5b84b9bf2882ca97f9e86bb93",
+        "committed_date": "2021-11-12T17:35:14.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T17:25:43.453Z",
+        "namespace_hint": "mi",
+        "project_hint": "pissarroin",
+        "project_id": 1989,
+        "project_path": "mi/pissarroin"
+      },
+      "revision": "648c722161f1bac5b84b9bf2882ca97f9e86bb93",
+      "url": "https://dumps.tadiphone.dev/dumps/mi/pissarroin/-/tree/648c722161f1bac5b84b9bf2882ca97f9e86bb93"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

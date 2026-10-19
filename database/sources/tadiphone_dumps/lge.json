@@ -1,0 +1,1148 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "lge/alpha@alpha_lao_com-userdebug-9-PKQ1.181021.001-1831315336c6c-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "alpha_lao_com-userdebug-9-PKQ1.181021.001-1831315336c6c-test-keys",
+        "commit": "023935bc9f00e27908c470b57a5969dc39060693",
+        "committed_date": "2021-03-17T06:12:51.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T23:29:08.466Z",
+        "namespace_hint": "lge",
+        "project_hint": "alpha",
+        "project_id": 2210,
+        "project_path": "lge/alpha"
+      },
+      "revision": "023935bc9f00e27908c470b57a5969dc39060693",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/alpha/-/tree/023935bc9f00e27908c470b57a5969dc39060693"
+    },
+    {
+      "item_id": "lge/alphalm@alphalm_lao_com-user-12-SKQ1.211103.001-2233316083708-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "alphalm_lao_com-user-12-SKQ1.211103.001-2233316083708-release-keys",
+        "commit": "a8979b8e788453d92c26bcd964e58b9b5465d1b9",
+        "committed_date": "2024-08-26T19:39:57.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-08-26T16:49:59.055Z",
+        "namespace_hint": "lge",
+        "project_hint": "alphalm",
+        "project_id": 1738,
+        "project_path": "lge/alphalm"
+      },
+      "revision": "a8979b8e788453d92c26bcd964e58b9b5465d1b9",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/alphalm/-/tree/a8979b8e788453d92c26bcd964e58b9b5465d1b9"
+    },
+    {
+      "item_id": "lge/alphalm@alphalm_lao_com-user-9-PKQ1.181203.001-190911746d0fb-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "alphalm_lao_com-user-9-PKQ1.181203.001-190911746d0fb-release-keys",
+        "commit": "df96cf8aa31aa33e99e0fbbe89675108fcea75fd",
+        "committed_date": "2019-12-15T10:51:13.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2024-08-26T16:49:59.055Z",
+        "namespace_hint": "lge",
+        "project_hint": "alphalm",
+        "project_id": 1738,
+        "project_path": "lge/alphalm"
+      },
+      "revision": "df96cf8aa31aa33e99e0fbbe89675108fcea75fd",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/alphalm/-/tree/df96cf8aa31aa33e99e0fbbe89675108fcea75fd"
+    },
+    {
+      "item_id": "lge/alphaplus@alphaplus_lao_com-user-9-PKQ1.181203.001-190742236c291-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "alphaplus_lao_com-user-9-PKQ1.181203.001-190742236c291-release-keys",
+        "commit": "a73b0be428024e63475ab237e05512d654ed325d",
+        "committed_date": "2020-01-21T01:07:23.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T13:45:07.219Z",
+        "namespace_hint": "lge",
+        "project_hint": "alphaplus",
+        "project_id": 1801,
+        "project_path": "lge/alphaplus"
+      },
+      "revision": "a73b0be428024e63475ab237e05512d654ed325d",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/alphaplus/-/tree/a73b0be428024e63475ab237e05512d654ed325d"
+    },
+    {
+      "item_id": "lge/caymanlm@caymanlm-user-13-TKQ1.220829.002-231811419f557-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "caymanlm-user-13-TKQ1.220829.002-231811419f557-release-keys",
+        "commit": "8b232c1ef91ba9abfcb04bcb8a05de2d3501c437",
+        "committed_date": "2024-04-08T14:04:18.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-04-08T11:13:28.580Z",
+        "namespace_hint": "lge",
+        "project_hint": "caymanlm",
+        "project_id": 4100,
+        "project_path": "lge/caymanlm"
+      },
+      "revision": "8b232c1ef91ba9abfcb04bcb8a05de2d3501c437",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/caymanlm/-/tree/8b232c1ef91ba9abfcb04bcb8a05de2d3501c437"
+    },
+    {
+      "item_id": "lge/caymanlm@caymanlm_fg-user-13-TKQ1.220829.002-2305813374ac7-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "caymanlm_fg-user-13-TKQ1.220829.002-2305813374ac7-release-keys",
+        "commit": "bc21449b0cf38b5a07d532f3b2db7dcc802fd420",
+        "committed_date": "2023-04-11T23:34:21.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-04-08T11:13:28.580Z",
+        "namespace_hint": "lge",
+        "project_hint": "caymanlm",
+        "project_id": 4100,
+        "project_path": "lge/caymanlm"
+      },
+      "revision": "bc21449b0cf38b5a07d532f3b2db7dcc802fd420",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/caymanlm/-/tree/bc21449b0cf38b5a07d532f3b2db7dcc802fd420"
+    },
+    {
+      "item_id": "lge/caymanslm@caymanslm-user-10-QKQ1.200412.002-2118321040e9f-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "caymanslm-user-10-QKQ1.200412.002-2118321040e9f-release-keys",
+        "commit": "7e4bf3a130434297fe352bffbba9b3d67420caba",
+        "committed_date": "2023-01-30T19:07:13.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-11-21T16:18:44.800Z",
+        "namespace_hint": "lge",
+        "project_hint": "caymanslm",
+        "project_id": 2444,
+        "project_path": "lge/caymanslm"
+      },
+      "revision": "7e4bf3a130434297fe352bffbba9b3d67420caba",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/caymanslm/-/tree/7e4bf3a130434297fe352bffbba9b3d67420caba"
+    },
+    {
+      "item_id": "lge/caymanslm@caymanslm-user-12-SKQ1.211103.001-2222823249237-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "caymanslm-user-12-SKQ1.211103.001-2222823249237-release-keys",
+        "commit": "e6ebd7d51627637ad6b68372c2e103db43cf9463",
+        "committed_date": "2022-09-21T01:04:29.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-11-21T16:18:44.800Z",
+        "namespace_hint": "lge",
+        "project_hint": "caymanslm",
+        "project_id": 2444,
+        "project_path": "lge/caymanslm"
+      },
+      "revision": "e6ebd7d51627637ad6b68372c2e103db43cf9463",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/caymanslm/-/tree/e6ebd7d51627637ad6b68372c2e103db43cf9463"
+    },
+    {
+      "item_id": "lge/caymanslm@caymanslm-user-12-SKQ1.211103.001-231250317a5f6-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "caymanslm-user-12-SKQ1.211103.001-231250317a5f6-release-keys",
+        "commit": "04fb82854c7b02ec1fdd37d394ec5588b3ae644f",
+        "committed_date": "2023-11-21T19:08:08.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-11-21T16:18:44.800Z",
+        "namespace_hint": "lge",
+        "project_hint": "caymanslm",
+        "project_id": 2444,
+        "project_path": "lge/caymanslm"
+      },
+      "revision": "04fb82854c7b02ec1fdd37d394ec5588b3ae644f",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/caymanslm/-/tree/04fb82854c7b02ec1fdd37d394ec5588b3ae644f"
+    },
+    {
+      "item_id": "lge/cf2@cf2_skt_kr-user-7.1.2-N2G47H-1926716323e6f-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "cf2_skt_kr-user-7.1.2-N2G47H-1926716323e6f-release-keys",
+        "commit": "277df563759d2dac647bae6b02b0e02bbb14fff6",
+        "committed_date": "2024-06-30T05:55:25.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-06-30T02:53:35.374Z",
+        "namespace_hint": "lge",
+        "project_hint": "cf2",
+        "project_id": 5325,
+        "project_path": "lge/cf2"
+      },
+      "revision": "277df563759d2dac647bae6b02b0e02bbb14fff6",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/cf2/-/tree/277df563759d2dac647bae6b02b0e02bbb14fff6"
+    },
+    {
+      "item_id": "lge/cf@cf_global_com-user-5.1.1-LMY47V-160701349ee0b-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "cf_global_com-user-5.1.1-LMY47V-160701349ee0b-release-keys",
+        "commit": "148b70a64fb0ebda6b08a189adade6bacc9b7665",
+        "committed_date": "2024-06-29T01:07:19.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-06-28T22:00:51.310Z",
+        "namespace_hint": "lge",
+        "project_hint": "cf",
+        "project_id": 5321,
+        "project_path": "lge/cf"
+      },
+      "revision": "148b70a64fb0ebda6b08a189adade6bacc9b7665",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/cf/-/tree/148b70a64fb0ebda6b08a189adade6bacc9b7665"
+    },
+    {
+      "item_id": "lge/cf@cf_global_com-user-5.1.1-LMY47V-1811516474155-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "cf_global_com-user-5.1.1-LMY47V-1811516474155-release-keys",
+        "commit": "47399bbab64fc138b22c53dd4f40c0bdfba64b7f",
+        "committed_date": "2024-06-29T01:01:39.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-06-28T22:00:51.310Z",
+        "namespace_hint": "lge",
+        "project_hint": "cf",
+        "project_id": 5321,
+        "project_path": "lge/cf"
+      },
+      "revision": "47399bbab64fc138b22c53dd4f40c0bdfba64b7f",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/cf/-/tree/47399bbab64fc138b22c53dd4f40c0bdfba64b7f"
+    },
+    {
+      "item_id": "lge/elsa@elsa_kt_kr-user-9-PKQ1.190522.001-20192161159c5-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "elsa_kt_kr-user-9-PKQ1.190522.001-20192161159c5-release-keys",
+        "commit": "6696edf830133b317e02394ca8add713fbf954a9",
+        "committed_date": "2023-03-19T09:43:07.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-03-19T06:40:48.867Z",
+        "namespace_hint": "lge",
+        "project_hint": "elsa",
+        "project_id": 4096,
+        "project_path": "lge/elsa"
+      },
+      "revision": "6696edf830133b317e02394ca8add713fbf954a9",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/elsa/-/tree/6696edf830133b317e02394ca8add713fbf954a9"
+    },
+    {
+      "item_id": "lge/elsa@elsa_nao_us-user-8.0.0-OPR1.170623.032-183241436cd40-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "elsa_nao_us-user-8.0.0-OPR1.170623.032-183241436cd40-release-keys",
+        "commit": "056c365366cea6e48aba0fc67e0a3ea3c26a4a75",
+        "committed_date": "2023-03-19T10:08:54.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-03-19T06:40:48.867Z",
+        "namespace_hint": "lge",
+        "project_hint": "elsa",
+        "project_id": 4096,
+        "project_path": "lge/elsa"
+      },
+      "revision": "056c365366cea6e48aba0fc67e0a3ea3c26a4a75",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/elsa/-/tree/056c365366cea6e48aba0fc67e0a3ea3c26a4a75"
+    },
+    {
+      "item_id": "lge/falcon@falcon_global_com-user-9-PKQ1.190522.001-2025116455163-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "falcon_global_com-user-9-PKQ1.190522.001-2025116455163-release-keys",
+        "commit": "9568eca6d3c182c5a8e5eaeb39f83cf6ef9eaa15",
+        "committed_date": "2023-12-05T14:32:18.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-12-05T11:30:05.587Z",
+        "namespace_hint": "lge",
+        "project_hint": "falcon",
+        "project_id": 4632,
+        "project_path": "lge/falcon"
+      },
+      "revision": "9568eca6d3c182c5a8e5eaeb39f83cf6ef9eaa15",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/falcon/-/tree/9568eca6d3c182c5a8e5eaeb39f83cf6ef9eaa15"
+    },
+    {
+      "item_id": "lge/flashlmdd@flashlmdd_lao_com-user-12-SKQ1.211103.001-22300122594d9-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "flashlmdd_lao_com-user-12-SKQ1.211103.001-22300122594d9-release-keys",
+        "commit": "265b2c750df349be9c481bfe2eea947f5c7594e3",
+        "committed_date": "2023-07-30T06:24:25.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-07-30T03:32:24.996Z",
+        "namespace_hint": "lge",
+        "project_hint": "flashlmdd",
+        "project_id": 2100,
+        "project_path": "lge/flashlmdd"
+      },
+      "revision": "265b2c750df349be9c481bfe2eea947f5c7594e3",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/flashlmdd/-/tree/265b2c750df349be9c481bfe2eea947f5c7594e3"
+    },
+    {
+      "item_id": "lge/flashlmdd@flashlmdd_lao_com-user-9-PKQ1.190223.001-192032055e5c2-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "flashlmdd_lao_com-user-9-PKQ1.190223.001-192032055e5c2-release-keys",
+        "commit": "44d7c849319935fbf33dea69483546ba692123e5",
+        "committed_date": "2021-05-07T16:26:26.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-07-30T03:32:24.996Z",
+        "namespace_hint": "lge",
+        "project_hint": "flashlmdd",
+        "project_id": 2100,
+        "project_path": "lge/flashlmdd"
+      },
+      "revision": "44d7c849319935fbf33dea69483546ba692123e5",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/flashlmdd/-/tree/44d7c849319935fbf33dea69483546ba692123e5"
+    },
+    {
+      "item_id": "lge/g2@g2_tmo_us-user-5.0.2-LRX22G-1507914346dda-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "g2_tmo_us-user-5.0.2-LRX22G-1507914346dda-release-keys",
+        "commit": "42956c2b0bc5410021a00cf8f2c2efe49ff04355",
+        "committed_date": "2020-11-06T06:59:14.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T21:29:11.764Z",
+        "namespace_hint": "lge",
+        "project_hint": "g2",
+        "project_id": 1327,
+        "project_path": "lge/g2"
+      },
+      "revision": "42956c2b0bc5410021a00cf8f2c2efe49ff04355",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/g2/-/tree/42956c2b0bc5410021a00cf8f2c2efe49ff04355"
+    },
+    {
+      "item_id": "lge/g2m@g2m_global_com-user-4.4.2-KOT49I.A1405488334-1405488334-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "g2m_global_com-user-4.4.2-KOT49I.A1405488334-1405488334-release-keys",
+        "commit": "885054d9afa1d01e463cbc65ca23edea7042d96b",
+        "committed_date": "2025-01-01T01:18:42.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-12-31T22:11:09.978Z",
+        "namespace_hint": "lge",
+        "project_hint": "g2m",
+        "project_id": 5530,
+        "project_path": "lge/g2m"
+      },
+      "revision": "885054d9afa1d01e463cbc65ca23edea7042d96b",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/g2m/-/tree/885054d9afa1d01e463cbc65ca23edea7042d96b"
+    },
+    {
+      "item_id": "lge/g2m@g2m_global_com-user-5.0.2-LRX22G-181351250309c-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "g2m_global_com-user-5.0.2-LRX22G-181351250309c-release-keys",
+        "commit": "20df2541b080cbe4f45d18d3cd3b8eae773c8540",
+        "committed_date": "2025-01-01T01:12:19.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-31T22:11:09.978Z",
+        "namespace_hint": "lge",
+        "project_hint": "g2m",
+        "project_id": 5530,
+        "project_path": "lge/g2m"
+      },
+      "revision": "20df2541b080cbe4f45d18d3cd3b8eae773c8540",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/g2m/-/tree/20df2541b080cbe4f45d18d3cd3b8eae773c8540"
+    },
+    {
+      "item_id": "lge/gf2@gf2_kt_kr-user-6.0.1-MXB48T-183021107ac22-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "gf2_kt_kr-user-6.0.1-MXB48T-183021107ac22-release-keys",
+        "commit": "007ec5909f2623def956cca681cb73ed9ed7a42b",
+        "committed_date": "2024-06-30T06:02:02.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-06-30T03:01:18.406Z",
+        "namespace_hint": "lge",
+        "project_hint": "gf2",
+        "project_id": 5326,
+        "project_path": "lge/gf2"
+      },
+      "revision": "007ec5909f2623def956cca681cb73ed9ed7a42b",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/gf2/-/tree/007ec5909f2623def956cca681cb73ed9ed7a42b"
+    },
+    {
+      "item_id": "lge/h1@h1_tmo_us-user-8.0.0-OPR1.170623.032-182251913485f-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "h1_tmo_us-user-8.0.0-OPR1.170623.032-182251913485f-release-keys",
+        "commit": "1af49be1237289f07f81268506faf58a1bfe16be",
+        "committed_date": "2023-03-19T09:20:11.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-03-19T06:17:56.899Z",
+        "namespace_hint": "lge",
+        "project_hint": "h1",
+        "project_id": 4095,
+        "project_path": "lge/h1"
+      },
+      "revision": "1af49be1237289f07f81268506faf58a1bfe16be",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/h1/-/tree/1af49be1237289f07f81268506faf58a1bfe16be"
+    },
+    {
+      "item_id": "lge/jagnm@jagnm_global_com-user-5.0.2-LRX22G-153150245bb96-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "jagnm_global_com-user-5.0.2-LRX22G-153150245bb96-release-keys",
+        "commit": "504e90b471663035c399ce6f9884d0ca2e4e0157",
+        "committed_date": "2025-01-01T06:43:59.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-01-01T03:42:55.025Z",
+        "namespace_hint": "lge",
+        "project_hint": "jagnm",
+        "project_id": 5531,
+        "project_path": "lge/jagnm"
+      },
+      "revision": "504e90b471663035c399ce6f9884d0ca2e4e0157",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/jagnm/-/tree/504e90b471663035c399ce6f9884d0ca2e4e0157"
+    },
+    {
+      "item_id": "lge/joan@joan_global_com-user-9-PKQ1.190414.001-193091504cde8-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "joan_global_com-user-9-PKQ1.190414.001-193091504cde8-release-keys",
+        "commit": "9ead3671e58ccf7d185b419f82d7268d3cdda52d",
+        "committed_date": "2021-08-20T03:52:01.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-06-21T17:08:27.207Z",
+        "namespace_hint": "lge",
+        "project_hint": "joan",
+        "project_id": 1593,
+        "project_path": "lge/joan"
+      },
+      "revision": "9ead3671e58ccf7d185b419f82d7268d3cdda52d",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/joan/-/tree/9ead3671e58ccf7d185b419f82d7268d3cdda52d"
+    },
+    {
+      "item_id": "lge/joan@joan_tmo_us-user-9-PKQ1.190414.001-192451428be1d-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "joan_tmo_us-user-9-PKQ1.190414.001-192451428be1d-release-keys",
+        "commit": "3d112c3e3938496dc3db9dd6447bcb8fd6d0f83d",
+        "committed_date": "2024-06-21T20:02:26.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-06-21T17:08:27.207Z",
+        "namespace_hint": "lge",
+        "project_hint": "joan",
+        "project_id": 1593,
+        "project_path": "lge/joan"
+      },
+      "revision": "3d112c3e3938496dc3db9dd6447bcb8fd6d0f83d",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/joan/-/tree/3d112c3e3938496dc3db9dd6447bcb8fd6d0f83d"
+    },
+    {
+      "item_id": "lge/judyln@judyln_lao_com-user-10-QKQ1.191222.002-203181146b00d-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "judyln_lao_com-user-10-QKQ1.191222.002-203181146b00d-release-keys",
+        "commit": "a387c1940cae4080d68da09f9e7af3a774f58087",
+        "committed_date": "2022-01-03T19:11:00.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-04-29T22:35:48.218Z",
+        "namespace_hint": "lge",
+        "project_hint": "judyln",
+        "project_id": 23,
+        "project_path": "lge/judyln"
+      },
+      "revision": "a387c1940cae4080d68da09f9e7af3a774f58087",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/judyln/-/tree/a387c1940cae4080d68da09f9e7af3a774f58087"
+    },
+    {
+      "item_id": "lge/judyln@judyln_vzw-user-9-PKQ1.181105.001-202251246e1a8-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "judyln_vzw-user-9-PKQ1.181105.001-202251246e1a8-release-keys",
+        "commit": "8ebbc092f4f74193f748295a694e41bde5182ec4",
+        "committed_date": "2024-04-30T01:30:19.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-04-29T22:35:48.218Z",
+        "namespace_hint": "lge",
+        "project_hint": "judyln",
+        "project_id": 23,
+        "project_path": "lge/judyln"
+      },
+      "revision": "8ebbc092f4f74193f748295a694e41bde5182ec4",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/judyln/-/tree/8ebbc092f4f74193f748295a694e41bde5182ec4"
+    },
+    {
+      "item_id": "lge/judyp@judyp_lao_com-user-10-QKQ1.191222.002-2127217366356-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "judyp_lao_com-user-10-QKQ1.191222.002-2127217366356-release-keys",
+        "commit": "1812ad6092e1c156781072550d686d1fb3c2feda",
+        "committed_date": "2023-12-09T16:02:00.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-04-29T22:06:54.018Z",
+        "namespace_hint": "lge",
+        "project_hint": "judyp",
+        "project_id": 1652,
+        "project_path": "lge/judyp"
+      },
+      "revision": "1812ad6092e1c156781072550d686d1fb3c2feda",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/judyp/-/tree/1812ad6092e1c156781072550d686d1fb3c2feda"
+    },
+    {
+      "item_id": "lge/judyp@judyp_lao_com-user-8.0.0-OPR1.170623.032-181981635d682-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "judyp_lao_com-user-8.0.0-OPR1.170623.032-181981635d682-release-keys",
+        "commit": "1863d3342fae4cda7e082d6b34e894633f38621b",
+        "committed_date": "2020-02-11T23:03:40.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2024-04-29T22:06:54.018Z",
+        "namespace_hint": "lge",
+        "project_hint": "judyp",
+        "project_id": 1652,
+        "project_path": "lge/judyp"
+      },
+      "revision": "1863d3342fae4cda7e082d6b34e894633f38621b",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/judyp/-/tree/1863d3342fae4cda7e082d6b34e894633f38621b"
+    },
+    {
+      "item_id": "lge/judyp@judyp_lao_com-user-9-PKQ1.181105.001-200981754206e-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "judyp_lao_com-user-9-PKQ1.181105.001-200981754206e-release-keys",
+        "commit": "407a1fcc4b51ac1fc2a0bf79e3d6b72faa413aec",
+        "committed_date": "2024-04-30T01:01:09.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-04-29T22:06:54.018Z",
+        "namespace_hint": "lge",
+        "project_hint": "judyp",
+        "project_id": 1652,
+        "project_path": "lge/judyp"
+      },
+      "revision": "407a1fcc4b51ac1fc2a0bf79e3d6b72faa413aec",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/judyp/-/tree/407a1fcc4b51ac1fc2a0bf79e3d6b72faa413aec"
+    },
+    {
+      "item_id": "lge/judypn@judypn_lao_com-user-10-QKQ1.191222.002-2225217090e9f-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "judypn_lao_com-user-10-QKQ1.191222.002-2225217090e9f-release-keys",
+        "commit": "82424b524a3a6a5e2208edd75e588dfc75ac3e8f",
+        "committed_date": "2024-03-04T20:42:10.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-04-29T22:22:08.352Z",
+        "namespace_hint": "lge",
+        "project_hint": "judypn",
+        "project_id": 4753,
+        "project_path": "lge/judypn"
+      },
+      "revision": "82424b524a3a6a5e2208edd75e588dfc75ac3e8f",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/judypn/-/tree/82424b524a3a6a5e2208edd75e588dfc75ac3e8f"
+    },
+    {
+      "item_id": "lge/judypn@judypn_lao_com-user-9-PKQ1.190202.001-8450900200901-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "judypn_lao_com-user-9-PKQ1.190202.001-8450900200901-release-keys",
+        "commit": "1dc1529e452aad07b1c3b5def311f1a8f614d685",
+        "committed_date": "2024-04-30T01:16:16.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-04-29T22:22:08.352Z",
+        "namespace_hint": "lge",
+        "project_hint": "judypn",
+        "project_id": 4753,
+        "project_path": "lge/judypn"
+      },
+      "revision": "1dc1529e452aad07b1c3b5def311f1a8f614d685",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/judypn/-/tree/1dc1529e452aad07b1c3b5def311f1a8f614d685"
+    },
+    {
+      "item_id": "lge/l-01k@joan_dcm_jp-user-9-PKQ1.190414.001-20072184679ed-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "joan_dcm_jp-user-9-PKQ1.190414.001-20072184679ed-release-keys",
+        "commit": "c798959e940e385f1b5faa3cfb2fdf2cbca0c7a4",
+        "committed_date": "2024-06-22T22:27:22.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-06-22T19:24:35.391Z",
+        "namespace_hint": "lge",
+        "project_hint": "l-01k",
+        "project_id": 5316,
+        "project_path": "lge/l-01k"
+      },
+      "revision": "c798959e940e385f1b5faa3cfb2fdf2cbca0c7a4",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/l-01k/-/tree/c798959e940e385f1b5faa3cfb2fdf2cbca0c7a4"
+    },
+    {
+      "item_id": "lge/l-41a@style3lm_dcm_jp-user-10-QKQ1.200308.002-2012901066540-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "style3lm_dcm_jp-user-10-QKQ1.200308.002-2012901066540-release-keys",
+        "commit": "ff15e981c82873d49da3c923761d5ad7617c9060",
+        "committed_date": "2024-06-25T08:45:30.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-06-25T05:42:34.392Z",
+        "namespace_hint": "lge",
+        "project_hint": "l-41a",
+        "project_id": 5318,
+        "project_path": "lge/l-41a"
+      },
+      "revision": "ff15e981c82873d49da3c923761d5ad7617c9060",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/l-41a/-/tree/ff15e981c82873d49da3c923761d5ad7617c9060"
+    },
+    {
+      "item_id": "lge/l-51a@timelm_dcm_jp-user-12-SKQ1.211103.001-231641238fda7-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "timelm_dcm_jp-user-12-SKQ1.211103.001-231641238fda7-release-keys",
+        "commit": "624c0e007fe3f0a0c47108ea4be79025b4eae564",
+        "committed_date": "2025-02-06T10:49:39.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-02-06T07:45:05.444Z",
+        "namespace_hint": "lge",
+        "project_hint": "l-51a",
+        "project_id": 5566,
+        "project_path": "lge/l-51a"
+      },
+      "revision": "624c0e007fe3f0a0c47108ea4be79025b4eae564",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/l-51a/-/tree/624c0e007fe3f0a0c47108ea4be79025b4eae564"
+    },
+    {
+      "item_id": "lge/lucye@lucye_global_com-user-9-PKQ1.190522.001-1930916292597-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "lucye_global_com-user-9-PKQ1.190522.001-1930916292597-release-keys",
+        "commit": "364b76fdd2f30fabc90d33a4df675e775d80814e",
+        "committed_date": "2021-02-17T20:02:49.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-03-19T07:03:56.954Z",
+        "namespace_hint": "lge",
+        "project_hint": "lucye",
+        "project_id": 1046,
+        "project_path": "lge/lucye"
+      },
+      "revision": "364b76fdd2f30fabc90d33a4df675e775d80814e",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/lucye/-/tree/364b76fdd2f30fabc90d33a4df675e775d80814e"
+    },
+    {
+      "item_id": "lge/lucye@lucye_kt_kr-user-9-PKQ1.190522.001-1929016322356-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "lucye_kt_kr-user-9-PKQ1.190522.001-1929016322356-release-keys",
+        "commit": "c32303483f843bd033bd9953480e56346af3c261",
+        "committed_date": "2023-03-19T09:57:38.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-03-19T07:03:56.954Z",
+        "namespace_hint": "lge",
+        "project_hint": "lucye",
+        "project_id": 1046,
+        "project_path": "lge/lucye"
+      },
+      "revision": "c32303483f843bd033bd9953480e56346af3c261",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/lucye/-/tree/c32303483f843bd033bd9953480e56346af3c261"
+    },
+    {
+      "item_id": "lge/mcaymanlm@mcaymanlm-user-12-SKQ1.211103.001-6885120230801-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "mcaymanlm-user-12-SKQ1.211103.001-6885120230801-release-keys",
+        "commit": "316313c6a6c2f117b3a0af6c7b5ae848fecf477d",
+        "committed_date": "2026-08-13T19:54:26.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-08-13T16:50:37.903Z",
+        "namespace_hint": "lge",
+        "project_hint": "mcaymanlm",
+        "project_id": 5815,
+        "project_path": "lge/mcaymanlm"
+      },
+      "revision": "316313c6a6c2f117b3a0af6c7b5ae848fecf477d",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/mcaymanlm/-/tree/316313c6a6c2f117b3a0af6c7b5ae848fecf477d"
+    },
+    {
+      "item_id": "lge/mfh505glm@full_mfh505glm-userdebug-11-RP1A.200720.011-45-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_mfh505glm-userdebug-11-RP1A.200720.011-45-test-keys",
+        "commit": "6bc07e6278b72a304dfa7ac7b9871cdd7c3a2593",
+        "committed_date": "2021-11-30T01:53:26.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T22:47:37.441Z",
+        "namespace_hint": "lge",
+        "project_hint": "mfh505glm",
+        "project_id": 2173,
+        "project_path": "lge/mfh505glm"
+      },
+      "revision": "6bc07e6278b72a304dfa7ac7b9871cdd7c3a2593",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/mfh505glm/-/tree/6bc07e6278b72a304dfa7ac7b9871cdd7c3a2593"
+    },
+    {
+      "item_id": "lge/mh2lm@mh2lm-user-10-QKQ1.200216.002-2027919104908-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "mh2lm-user-10-QKQ1.200216.002-2027919104908-release-keys",
+        "commit": "12be9d106715af6c8f21955afcd77258af01be1b",
+        "committed_date": "2020-12-20T19:38:17.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-12-11T17:11:06.850Z",
+        "namespace_hint": "lge",
+        "project_hint": "mh2lm",
+        "project_id": 1441,
+        "project_path": "lge/mh2lm"
+      },
+      "revision": "12be9d106715af6c8f21955afcd77258af01be1b",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/mh2lm/-/tree/12be9d106715af6c8f21955afcd77258af01be1b"
+    },
+    {
+      "item_id": "lge/mh2lm@mh2lm-user-9-PKQ1.190522.001-193302209c0a6-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "mh2lm-user-9-PKQ1.190522.001-193302209c0a6-release-keys",
+        "commit": "9a377eb0c61b8874f9fdceb0070dc854ef8f7ea7",
+        "committed_date": "2020-12-20T18:59:30.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-12-11T17:11:06.850Z",
+        "namespace_hint": "lge",
+        "project_hint": "mh2lm",
+        "project_id": 1441,
+        "project_path": "lge/mh2lm"
+      },
+      "revision": "9a377eb0c61b8874f9fdceb0070dc854ef8f7ea7",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/mh2lm/-/tree/9a377eb0c61b8874f9fdceb0070dc854ef8f7ea7"
+    },
+    {
+      "item_id": "lge/mh2lm@mh2lm_5g-user-12-SKQ1.211103.001-2231911563102-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "mh2lm_5g-user-12-SKQ1.211103.001-2231911563102-release-keys",
+        "commit": "cf4cfd7afba4684f8d69b207e6623e83a6dfd874",
+        "committed_date": "2023-12-11T20:02:51.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-12-11T17:11:06.850Z",
+        "namespace_hint": "lge",
+        "project_hint": "mh2lm",
+        "project_id": 1441,
+        "project_path": "lge/mh2lm"
+      },
+      "revision": "cf4cfd7afba4684f8d69b207e6623e83a6dfd874",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/mh2lm/-/tree/cf4cfd7afba4684f8d69b207e6623e83a6dfd874"
+    },
+    {
+      "item_id": "lge/mh5lm@mh5lm-user-10-QKQ1.200308.002-2012019078fe8-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "mh5lm-user-10-QKQ1.200308.002-2012019078fe8-release-keys",
+        "commit": "c527304ce608fb6add7205687dd7533c25b09776",
+        "committed_date": "2021-01-06T08:16:28.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T11:40:21.501Z",
+        "namespace_hint": "lge",
+        "project_hint": "mh5lm",
+        "project_id": 1736,
+        "project_path": "lge/mh5lm"
+      },
+      "revision": "c527304ce608fb6add7205687dd7533c25b09776",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/mh5lm/-/tree/c527304ce608fb6add7205687dd7533c25b09776"
+    },
+    {
+      "item_id": "lge/mlv5@mlv5_global_com-user-8.1.0-O11019-182250859ccd6-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "mlv5_global_com-user-8.1.0-O11019-182250859ccd6-release-keys",
+        "commit": "79f538fd5d00faa9bd3b8474ff576a5404bf7328",
+        "committed_date": "2025-06-22T16:46:30.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-06-22T13:45:01.847Z",
+        "namespace_hint": "lge",
+        "project_hint": "mlv5",
+        "project_id": 5661,
+        "project_path": "lge/mlv5"
+      },
+      "revision": "79f538fd5d00faa9bd3b8474ff576a5404bf7328",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/mlv5/-/tree/79f538fd5d00faa9bd3b8474ff576a5404bf7328"
+    },
+    {
+      "item_id": "lge/phoenix_sprout@phoenix_lao_com-user-10-QKQ1.190918.001-202681220e953-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "phoenix_lao_com-user-10-QKQ1.190918.001-202681220e953-release-keys",
+        "commit": "c2081349eb9b711f80e4066f722791a05e35b6eb",
+        "committed_date": "2023-02-24T13:40:47.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-27T18:11:08.472Z",
+        "namespace_hint": "lge",
+        "project_hint": "phoenix_sprout",
+        "project_id": 1125,
+        "project_path": "lge/phoenix_sprout"
+      },
+      "revision": "c2081349eb9b711f80e4066f722791a05e35b6eb",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/phoenix_sprout/-/tree/c2081349eb9b711f80e4066f722791a05e35b6eb"
+    },
+    {
+      "item_id": "lge/phoenix_sprout@phoenix_lao_com-user-11-RKQ1.201123.002-210641533e0c8-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "phoenix_lao_com-user-11-RKQ1.201123.002-210641533e0c8-release-keys",
+        "commit": "672611d1128c097657cb2d9eba2f81f9231e696e",
+        "committed_date": "2021-04-07T06:02:40.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-27T18:11:08.472Z",
+        "namespace_hint": "lge",
+        "project_hint": "phoenix_sprout",
+        "project_id": 1125,
+        "project_path": "lge/phoenix_sprout"
+      },
+      "revision": "672611d1128c097657cb2d9eba2f81f9231e696e",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/phoenix_sprout/-/tree/672611d1128c097657cb2d9eba2f81f9231e696e"
+    },
+    {
+      "item_id": "lge/phoenix_sprout@phoenix_lao_com-user-11-RKQ1.201123.002-211181009fda7-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "phoenix_lao_com-user-11-RKQ1.201123.002-211181009fda7-release-keys",
+        "commit": "52dd5d729cdfe0d8cd8beca61d02070d39aa77c6",
+        "committed_date": "2021-08-23T05:34:03.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-27T18:11:08.472Z",
+        "namespace_hint": "lge",
+        "project_hint": "phoenix_sprout",
+        "project_id": 1125,
+        "project_path": "lge/phoenix_sprout"
+      },
+      "revision": "52dd5d729cdfe0d8cd8beca61d02070d39aa77c6",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/phoenix_sprout/-/tree/52dd5d729cdfe0d8cd8beca61d02070d39aa77c6"
+    },
+    {
+      "item_id": "lge/phoenix_sprout@phoenix_lao_com-user-11-RKQ1.201123.002-21274101794d9-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "phoenix_lao_com-user-11-RKQ1.201123.002-21274101794d9-release-keys",
+        "commit": "ebb6335ebded6090fdbcc958dbc7934ac6e93099",
+        "committed_date": "2023-02-24T13:49:10.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-27T18:11:08.472Z",
+        "namespace_hint": "lge",
+        "project_hint": "phoenix_sprout",
+        "project_id": 1125,
+        "project_path": "lge/phoenix_sprout"
+      },
+      "revision": "ebb6335ebded6090fdbcc958dbc7934ac6e93099",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/phoenix_sprout/-/tree/ebb6335ebded6090fdbcc958dbc7934ac6e93099"
+    },
+    {
+      "item_id": "lge/phoenix_sprout@phoenix_lgu_kr-user-11-RKQ1.201123.002-22005163197a5-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "phoenix_lgu_kr-user-11-RKQ1.201123.002-22005163197a5-release-keys",
+        "commit": "18d0a783b197d099c16ef88fda88684e3bc2c87b",
+        "committed_date": "2024-01-10T04:31:40.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-27T18:11:08.472Z",
+        "namespace_hint": "lge",
+        "project_hint": "phoenix_sprout",
+        "project_id": 1125,
+        "project_path": "lge/phoenix_sprout"
+      },
+      "revision": "18d0a783b197d099c16ef88fda88684e3bc2c87b",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/phoenix_sprout/-/tree/18d0a783b197d099c16ef88fda88684e3bc2c87b"
+    },
+    {
+      "item_id": "lge/phoenix_sprout@phoenix_sb_jp-user-11-RKQ1.201123.002-2134412239185-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "phoenix_sb_jp-user-11-RKQ1.201123.002-2134412239185-release-keys",
+        "commit": "0289fdc4631426f550220a30a4cbecb91c0d0092",
+        "committed_date": "2025-02-27T21:07:06.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-02-27T18:11:08.472Z",
+        "namespace_hint": "lge",
+        "project_hint": "phoenix_sprout",
+        "project_id": 1125,
+        "project_path": "lge/phoenix_sprout"
+      },
+      "revision": "0289fdc4631426f550220a30a4cbecb91c0d0092",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/phoenix_sprout/-/tree/0289fdc4631426f550220a30a4cbecb91c0d0092"
+    },
+    {
+      "item_id": "lge/rainbowlm@rainbowlm-user-11-RKQ1.210106.002-21198091194d9-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "rainbowlm-user-11-RKQ1.210106.002-21198091194d9-release-keys",
+        "commit": "a505789bd50d100896935514b59bea4da42803cf",
+        "committed_date": "2023-12-01T17:20:24.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-12-01T14:16:02.349Z",
+        "namespace_hint": "lge",
+        "project_hint": "rainbowlm",
+        "project_id": 4624,
+        "project_path": "lge/rainbowlm"
+      },
+      "revision": "a505789bd50d100896935514b59bea4da42803cf",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/rainbowlm/-/tree/a505789bd50d100896935514b59bea4da42803cf"
+    },
+    {
+      "item_id": "lge/t8lte@t8lte_usc_refresh-user-6.0-MRA58K-170881244472a-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "t8lte_usc_refresh-user-6.0-MRA58K-170881244472a-release-keys",
+        "commit": "228c337a1a90fe2d8c3fe6f547de008f120dc9fc",
+        "committed_date": "2024-12-31T14:42:52.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-12-31T11:41:32.854Z",
+        "namespace_hint": "lge",
+        "project_hint": "t8lte",
+        "project_id": 5528,
+        "project_path": "lge/t8lte"
+      },
+      "revision": "228c337a1a90fe2d8c3fe6f547de008f120dc9fc",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/t8lte/-/tree/228c337a1a90fe2d8c3fe6f547de008f120dc9fc"
+    },
+    {
+      "item_id": "lge/tf10@tf10_lao_com-user-9-PKQ1.190522.001-220351428582c-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "tf10_lao_com-user-9-PKQ1.190522.001-220351428582c-release-keys",
+        "commit": "9725952fb7286a108962695103e2363acbed8625",
+        "committed_date": "2023-12-26T15:18:03.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-12-26T12:15:54.347Z",
+        "namespace_hint": "lge",
+        "project_hint": "tf10",
+        "project_id": 4670,
+        "project_path": "lge/tf10"
+      },
+      "revision": "9725952fb7286a108962695103e2363acbed8625",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/tf10/-/tree/9725952fb7286a108962695103e2363acbed8625"
+    },
+    {
+      "item_id": "lge/timelm@timelm-user-13-TKQ1.220829.002-2326319175c92-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "timelm-user-13-TKQ1.220829.002-2326319175c92-release-keys",
+        "commit": "1d5cdd0330bc6350f3aab3ad7f2c2081c32ec89e",
+        "committed_date": "2024-02-18T10:09:19.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-02-18T07:04:34.664Z",
+        "namespace_hint": "lge",
+        "project_hint": "timelm",
+        "project_id": 4736,
+        "project_path": "lge/timelm"
+      },
+      "revision": "1d5cdd0330bc6350f3aab3ad7f2c2081c32ec89e",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/timelm/-/tree/1d5cdd0330bc6350f3aab3ad7f2c2081c32ec89e"
+    },
+    {
+      "item_id": "lge/w3voip@w3voip_lgu_kr-user-4.4.2-KOT49I.FL40L10c-FL40L10c.1414377377-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "w3voip_lgu_kr-user-4.4.2-KOT49I.FL40L10c-FL40L10c.1414377377-release-keys",
+        "commit": "44a5a2f1617bd072eaece6be7ffead70850b6371",
+        "committed_date": "2024-06-29T01:12:48.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-06-28T22:11:55.156Z",
+        "namespace_hint": "lge",
+        "project_hint": "w3voip",
+        "project_id": 5322,
+        "project_path": "lge/w3voip"
+      },
+      "revision": "44a5a2f1617bd072eaece6be7ffead70850b6371",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/w3voip/-/tree/44a5a2f1617bd072eaece6be7ffead70850b6371"
+    },
+    {
+      "item_id": "lge/w5c@w5c_spr_us-user-4.4.2-KOT49I.LS620ZV3-LS620ZV3.1401441831-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "w5c_spr_us-user-4.4.2-KOT49I.LS620ZV3-LS620ZV3.1401441831-release-keys",
+        "commit": "45a99c7027762bf47c96f038cadb50c80ab289f5",
+        "committed_date": "2020-10-31T20:31:55.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2024-06-30T02:31:23.487Z",
+        "namespace_hint": "lge",
+        "project_hint": "w5c",
+        "project_id": 1866,
+        "project_path": "lge/w5c"
+      },
+      "revision": "45a99c7027762bf47c96f038cadb50c80ab289f5",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/w5c/-/tree/45a99c7027762bf47c96f038cadb50c80ab289f5"
+    },
+    {
+      "item_id": "lge/w5c@w5c_vzw-user-4.4.2-KOT49I.VS450PP1-VS450PP1.1393919562-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "w5c_vzw-user-4.4.2-KOT49I.VS450PP1-VS450PP1.1393919562-release-keys",
+        "commit": "19804801da75624dda835d392451eff6074d0763",
+        "committed_date": "2020-10-12T10:51:45.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2024-06-30T02:31:23.487Z",
+        "namespace_hint": "lge",
+        "project_hint": "w5c",
+        "project_id": 1866,
+        "project_path": "lge/w5c"
+      },
+      "revision": "19804801da75624dda835d392451eff6074d0763",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/w5c/-/tree/19804801da75624dda835d392451eff6074d0763"
+    },
+    {
+      "item_id": "lge/w5c@w5c_vzw-user-4.4.2-KOT49I.VS450PP2-VS450PP2.1441345142-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "w5c_vzw-user-4.4.2-KOT49I.VS450PP2-VS450PP2.1441345142-release-keys",
+        "commit": "3165997aee2597be4d9a93e851bdbcc9e0ab8602",
+        "committed_date": "2024-06-30T05:29:33.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-06-30T02:31:23.487Z",
+        "namespace_hint": "lge",
+        "project_hint": "w5c",
+        "project_id": 1866,
+        "project_path": "lge/w5c"
+      },
+      "revision": "3165997aee2597be4d9a93e851bdbcc9e0ab8602",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/w5c/-/tree/3165997aee2597be4d9a93e851bdbcc9e0ab8602"
+    },
+    {
+      "item_id": "lge/w7@w7_tmo_us-user-5.0.2-LRX22G-1701013346e3b-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "w7_tmo_us-user-5.0.2-LRX22G-1701013346e3b-release-keys",
+        "commit": "7c8232454bb4027ff5cc9dd2544e466d05bf90b3",
+        "committed_date": "2025-01-02T12:45:42.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-01-02T09:44:30.609Z",
+        "namespace_hint": "lge",
+        "project_hint": "w7",
+        "project_id": 5535,
+        "project_path": "lge/w7"
+      },
+      "revision": "7c8232454bb4027ff5cc9dd2544e466d05bf90b3",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/w7/-/tree/7c8232454bb4027ff5cc9dd2544e466d05bf90b3"
+    },
+    {
+      "item_id": "lge/w7ds@w7ds_global_com-user-5.0.2-LRX22G.A1442475207-152601633537e-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "w7ds_global_com-user-5.0.2-LRX22G.A1442475207-152601633537e-release-keys",
+        "commit": "3b565d0bba05ae84c705a514ebc11fc7402dc63f",
+        "committed_date": "2025-01-01T01:05:46.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-12-31T22:04:40.036Z",
+        "namespace_hint": "lge",
+        "project_hint": "w7ds",
+        "project_id": 5529,
+        "project_path": "lge/w7ds"
+      },
+      "revision": "3b565d0bba05ae84c705a514ebc11fc7402dc63f",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/w7ds/-/tree/3b565d0bba05ae84c705a514ebc11fc7402dc63f"
+    },
+    {
+      "item_id": "lge/winglm@winglm-user-11-RKQ1.210420.001-2206113586356-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "winglm-user-11-RKQ1.210420.001-2206113586356-release-keys",
+        "commit": "46d33978afa2b07b81691891a7097607d7a87772",
+        "committed_date": "2022-09-18T17:51:21.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-04-08T10:50:11.012Z",
+        "namespace_hint": "lge",
+        "project_hint": "winglm",
+        "project_id": 2438,
+        "project_path": "lge/winglm"
+      },
+      "revision": "46d33978afa2b07b81691891a7097607d7a87772",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/winglm/-/tree/46d33978afa2b07b81691891a7097607d7a87772"
+    },
+    {
+      "item_id": "lge/winglm@winglm-user-12-SKQ1.211103.001-2220212034ac7-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "winglm-user-12-SKQ1.211103.001-2220212034ac7-release-keys",
+        "commit": "14c6c9e8ad811c14db006738d5d7268b17089a2a",
+        "committed_date": "2022-09-21T00:32:34.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-04-08T10:50:11.012Z",
+        "namespace_hint": "lge",
+        "project_hint": "winglm",
+        "project_id": 2438,
+        "project_path": "lge/winglm"
+      },
+      "revision": "14c6c9e8ad811c14db006738d5d7268b17089a2a",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/winglm/-/tree/14c6c9e8ad811c14db006738d5d7268b17089a2a"
+    },
+    {
+      "item_id": "lge/winglm@winglm-user-13-TKQ1.220829.002-7250130230901-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "winglm-user-13-TKQ1.220829.002-7250130230901-release-keys",
+        "commit": "0744d532fcf4a66aed0a5f727be98f409ce84364",
+        "committed_date": "2024-04-08T13:39:36.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-04-08T10:50:11.012Z",
+        "namespace_hint": "lge",
+        "project_hint": "winglm",
+        "project_id": 2438,
+        "project_path": "lge/winglm"
+      },
+      "revision": "0744d532fcf4a66aed0a5f727be98f409ce84364",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/winglm/-/tree/0744d532fcf4a66aed0a5f727be98f409ce84364"
+    },
+    {
+      "item_id": "lge/x10@x10_pp_vzw-user-5.1.1-LMY47V-2024814082dff-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "x10_pp_vzw-user-5.1.1-LMY47V-2024814082dff-release-keys",
+        "commit": "a828aede594a46373838490df91513e2b3a27db3",
+        "committed_date": "2024-12-31T13:39:25.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-31T10:41:57.862Z",
+        "namespace_hint": "lge",
+        "project_hint": "x10",
+        "project_id": 5324,
+        "project_path": "lge/x10"
+      },
+      "revision": "a828aede594a46373838490df91513e2b3a27db3",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/x10/-/tree/a828aede594a46373838490df91513e2b3a27db3"
+    },
+    {
+      "item_id": "lge/x10@x10_vzw-user-4.4.2-KOT49I.VS88012A-VS88012A.1425386426-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "x10_vzw-user-4.4.2-KOT49I.VS88012A-VS88012A.1425386426-release-keys",
+        "commit": "06783da48d5ecde71c15986f563c2e57fe648a51",
+        "committed_date": "2024-06-30T05:44:57.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-31T10:41:57.862Z",
+        "namespace_hint": "lge",
+        "project_hint": "x10",
+        "project_id": 5324,
+        "project_path": "lge/x10"
+      },
+      "revision": "06783da48d5ecde71c15986f563c2e57fe648a51",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/x10/-/tree/06783da48d5ecde71c15986f563c2e57fe648a51"
+    },
+    {
+      "item_id": "lge/x10@x10_vzw-user-5.1.1-LMY47V-2024018333bd0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "x10_vzw-user-5.1.1-LMY47V-2024018333bd0-release-keys",
+        "commit": "b4712c644d9250998d4dd5a72c17c1b8c3e48191",
+        "committed_date": "2024-12-31T13:53:15.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-12-31T10:41:57.862Z",
+        "namespace_hint": "lge",
+        "project_hint": "x10",
+        "project_id": 5324,
+        "project_path": "lge/x10"
+      },
+      "revision": "b4712c644d9250998d4dd5a72c17c1b8c3e48191",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/x10/-/tree/b4712c644d9250998d4dd5a72c17c1b8c3e48191"
+    },
+    {
+      "item_id": "lge/x5@x5_vzw-user-4.4.2-KOT49I.VS87612A-VS87612A.1441783694-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "x5_vzw-user-4.4.2-KOT49I.VS87612A-VS87612A.1441783694-release-keys",
+        "commit": "5032c60d3db2b19f64481783dbd989f1a470e643",
+        "committed_date": "2024-06-30T05:38:07.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-06-30T02:36:54.050Z",
+        "namespace_hint": "lge",
+        "project_hint": "x5",
+        "project_id": 5323,
+        "project_path": "lge/x5"
+      },
+      "revision": "5032c60d3db2b19f64481783dbd989f1a470e643",
+      "url": "https://dumps.tadiphone.dev/dumps/lge/x5/-/tree/5032c60d3db2b19f64481783dbd989f1a470e643"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

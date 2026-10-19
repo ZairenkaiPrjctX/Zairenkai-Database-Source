@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "huami/msm8909w@xihu-user-8.1.0-OPM1.171019.011-eng.ubuntu.20190617.190836-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "xihu-user-8.1.0-OPM1.171019.011-eng.ubuntu.20190617.190836-release-keys",
+        "commit": "fcb43bea80d32b15ce1aa949974f9fd0bccb1b31",
+        "committed_date": "2019-07-06T11:28:55.000-05:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T14:59:57.852Z",
+        "namespace_hint": "huami",
+        "project_hint": "msm8909w",
+        "project_id": 1114,
+        "project_path": "huami/msm8909w"
+      },
+      "revision": "fcb43bea80d32b15ce1aa949974f9fd0bccb1b31",
+      "url": "https://dumps.tadiphone.dev/dumps/huami/msm8909w/-/tree/fcb43bea80d32b15ce1aa949974f9fd0bccb1b31"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

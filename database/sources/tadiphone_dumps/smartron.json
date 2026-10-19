@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "smartron/rimo02a@rimo02a-user-8.0.0-T5524INDURC-475-475-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "rimo02a-user-8.0.0-T5524INDURC-475-475-release-keys",
+        "commit": "8bbb96d22b12dccc12d13e6127f8b6523ed605ba",
+        "committed_date": "2020-05-23T13:42:12.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T01:31:47.789Z",
+        "namespace_hint": "smartron",
+        "project_hint": "rimo02a",
+        "project_id": 2295,
+        "project_path": "smartron/rimo02a"
+      },
+      "revision": "8bbb96d22b12dccc12d13e6127f8b6523ed605ba",
+      "url": "https://dumps.tadiphone.dev/dumps/smartron/rimo02a/-/tree/8bbb96d22b12dccc12d13e6127f8b6523ed605ba"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

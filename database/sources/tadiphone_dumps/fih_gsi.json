@@ -1,0 +1,60 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "fih_gsi/fih_sdm660_64@Plate2_00WW-user-9-PPR1.180610.011-00WW_3_54E-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Plate2_00WW-user-9-PPR1.180610.011-00WW_3_54E-release-keys",
+        "commit": "a398f96c0b2e30039c37b2fa7ab84ea97ef4f39a",
+        "committed_date": "2024-03-03T20:54:15.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-05T23:29:31.216Z",
+        "namespace_hint": "fih_gsi",
+        "project_hint": "fih_sdm660_64",
+        "project_id": 4749,
+        "project_path": "fih_gsi/fih_sdm660_64"
+      },
+      "revision": "a398f96c0b2e30039c37b2fa7ab84ea97ef4f39a",
+      "url": "https://dumps.tadiphone.dev/dumps/fih_gsi/fih_sdm660_64/-/tree/a398f96c0b2e30039c37b2fa7ab84ea97ef4f39a"
+    },
+    {
+      "item_id": "fih_gsi/fih_sdm660_64@Taishan_00WW-user-9-PPR1.180610.011-00WW_1_18F-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Taishan_00WW-user-9-PPR1.180610.011-00WW_1_18F-release-keys",
+        "commit": "231b7233065d91b60c42af3f1a89bd99cc6de5a7",
+        "committed_date": "2025-05-06T02:25:01.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-05-05T23:29:31.216Z",
+        "namespace_hint": "fih_gsi",
+        "project_hint": "fih_sdm660_64",
+        "project_id": 4749,
+        "project_path": "fih_gsi/fih_sdm660_64"
+      },
+      "revision": "231b7233065d91b60c42af3f1a89bd99cc6de5a7",
+      "url": "https://dumps.tadiphone.dev/dumps/fih_gsi/fih_sdm660_64/-/tree/231b7233065d91b60c42af3f1a89bd99cc6de5a7"
+    },
+    {
+      "item_id": "fih_gsi/pda_sprout@Panda_00WW-user-9-PPR1.180610.011-00WW_2_20A-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Panda_00WW-user-9-PPR1.180610.011-00WW_2_20A-release-keys",
+        "commit": "40b1754e5c8e178cc7146d955afcf04d1d780cb0",
+        "committed_date": "2020-09-01T21:52:43.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T17:56:43.170Z",
+        "namespace_hint": "fih_gsi",
+        "project_hint": "pda_sprout",
+        "project_id": 2004,
+        "project_path": "fih_gsi/pda_sprout"
+      },
+      "revision": "40b1754e5c8e178cc7146d955afcf04d1d780cb0",
+      "url": "https://dumps.tadiphone.dev/dumps/fih_gsi/pda_sprout/-/tree/40b1754e5c8e178cc7146d955afcf04d1d780cb0"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

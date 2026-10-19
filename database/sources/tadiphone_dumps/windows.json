@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "windows/windows_x86_64@windows_x86_64-user-11-RD2A.210905.003-eng.latteu.20211008.000710-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "windows_x86_64-user-11-RD2A.210905.003-eng.latteu.20211008.000710-release-keys",
+        "commit": "07a64ed7627613111bfecfbd33a25a1ed57ab50c",
+        "committed_date": "2021-10-20T21:00:37.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-02-11T01:01:58.233Z",
+        "namespace_hint": "windows",
+        "project_hint": "windows_x86_64",
+        "project_id": 1314,
+        "project_path": "windows/windows_x86_64"
+      },
+      "revision": "07a64ed7627613111bfecfbd33a25a1ed57ab50c",
+      "url": "https://dumps.tadiphone.dev/dumps/windows/windows_x86_64/-/tree/07a64ed7627613111bfecfbd33a25a1ed57ab50c"
+    },
+    {
+      "item_id": "windows/windows_x86_64@windows_x86_64-user-13-TQ1A.230105.002.A1-2301.40000.4.0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "windows_x86_64-user-13-TQ1A.230105.002.A1-2301.40000.4.0-release-keys",
+        "commit": "4ce9de09654aa631867824c21071f968fb931ff3",
+        "committed_date": "2023-02-11T03:59:50.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-02-11T01:01:58.233Z",
+        "namespace_hint": "windows",
+        "project_hint": "windows_x86_64",
+        "project_id": 1314,
+        "project_path": "windows/windows_x86_64"
+      },
+      "revision": "4ce9de09654aa631867824c21071f968fb931ff3",
+      "url": "https://dumps.tadiphone.dev/dumps/windows/windows_x86_64/-/tree/4ce9de09654aa631867824c21071f968fb931ff3"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

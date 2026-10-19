@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "texet/tm-5584@full_g1859ph_v2_ga_txdz_5584_go-user-8.1.0-O11019-1559646594-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_g1859ph_v2_ga_txdz_5584_go-user-8.1.0-O11019-1559646594-release-keys",
+        "commit": "2f5524a340b07015ce0a7fb3cb8221effcb96c82",
+        "committed_date": "2019-11-29T07:47:24.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T13:45:45.241Z",
+        "namespace_hint": "texet",
+        "project_hint": "tm-5584",
+        "project_id": 1802,
+        "project_path": "texet/tm-5584"
+      },
+      "revision": "2f5524a340b07015ce0a7fb3cb8221effcb96c82",
+      "url": "https://dumps.tadiphone.dev/dumps/texet/tm-5584/-/tree/2f5524a340b07015ce0a7fb3cb8221effcb96c82"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

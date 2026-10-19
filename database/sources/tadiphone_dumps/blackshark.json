@@ -1,0 +1,361 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "_project/5249",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": null,
+        "project_id": 5249,
+        "project_path": "blackshark/klein",
+        "reason": "repository_not_readable"
+      },
+      "revision": null,
+      "url": "https://dumps.tadiphone.dev/dumps/blackshark/klein"
+    },
+    {
+      "item_id": "blackshark/darklighter@darklighter-user-10-DLTR1912210CN00DQX-V11.0.4.0.JOYUI-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "darklighter-user-10-DLTR1912210CN00DQX-V11.0.4.0.JOYUI-release-keys",
+        "commit": "bd5171bd7c0a9881673b88f8f7ef855cabf7b224",
+        "committed_date": "2020-02-04T20:40:13.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T09:57:51.489Z",
+        "namespace_hint": "blackshark",
+        "project_hint": "darklighter",
+        "project_id": 1685,
+        "project_path": "blackshark/darklighter"
+      },
+      "revision": "bd5171bd7c0a9881673b88f8f7ef855cabf7b224",
+      "url": "https://dumps.tadiphone.dev/dumps/blackshark/darklighter/-/tree/bd5171bd7c0a9881673b88f8f7ef855cabf7b224"
+    },
+    {
+      "item_id": "blackshark/darklighter@darklighter-user-10-DLTR2103030CN00MQ5-V11.0.4.0.JOYUI-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "darklighter-user-10-DLTR2103030CN00MQ5-V11.0.4.0.JOYUI-release-keys",
+        "commit": "b56eb1d6245eaf0ff6467b01e4ebaa7b213b6266",
+        "committed_date": "2021-05-16T13:29:42.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T09:57:51.489Z",
+        "namespace_hint": "blackshark",
+        "project_hint": "darklighter",
+        "project_id": 1685,
+        "project_path": "blackshark/darklighter"
+      },
+      "revision": "b56eb1d6245eaf0ff6467b01e4ebaa7b213b6266",
+      "url": "https://dumps.tadiphone.dev/dumps/blackshark/darklighter/-/tree/b56eb1d6245eaf0ff6467b01e4ebaa7b213b6266"
+    },
+    {
+      "item_id": "blackshark/darklighter@darklighter-user-11-DLTR2203210CN00MR1-V11.0.4.0.JOYUI-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "darklighter-user-11-DLTR2203210CN00MR1-V11.0.4.0.JOYUI-release-keys",
+        "commit": "520e202a7d5fc59b139786a501ada41ce4ddcef3",
+        "committed_date": "2022-05-07T15:10:18.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T09:57:51.489Z",
+        "namespace_hint": "blackshark",
+        "project_hint": "darklighter",
+        "project_id": 1685,
+        "project_path": "blackshark/darklighter"
+      },
+      "revision": "520e202a7d5fc59b139786a501ada41ce4ddcef3",
+      "url": "https://dumps.tadiphone.dev/dumps/blackshark/darklighter/-/tree/520e202a7d5fc59b139786a501ada41ce4ddcef3"
+    },
+    {
+      "item_id": "blackshark/katyusha@missi-user-12-KTUS2208100OS00MP2-V11.0.0.0.SKTUSOS-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-KTUS2208100OS00MP2-V11.0.0.0.SKTUSOS-release-keys",
+        "commit": "f26be8b2d05274decb089783c42958203df3444c",
+        "committed_date": "2024-01-20T08:30:02.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-07-28T17:04:30.343Z",
+        "namespace_hint": "blackshark",
+        "project_hint": "katyusha",
+        "project_id": 4705,
+        "project_path": "blackshark/katyusha"
+      },
+      "revision": "f26be8b2d05274decb089783c42958203df3444c",
+      "url": "https://dumps.tadiphone.dev/dumps/blackshark/katyusha/-/tree/f26be8b2d05274decb089783c42958203df3444c"
+    },
+    {
+      "item_id": "blackshark/katyusha@missi-user-12-KTUS2208110CN00MP5-V11.0.0.0.SKTUSCN-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-KTUS2208110CN00MP5-V11.0.0.0.SKTUSCN-release-keys",
+        "commit": "0b3d76ba324b315f5e552221cd07def832c54bb3",
+        "committed_date": "2024-07-28T19:52:01.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-07-28T17:04:30.343Z",
+        "namespace_hint": "blackshark",
+        "project_hint": "katyusha",
+        "project_id": 4705,
+        "project_path": "blackshark/katyusha"
+      },
+      "revision": "0b3d76ba324b315f5e552221cd07def832c54bb3",
+      "url": "https://dumps.tadiphone.dev/dumps/blackshark/katyusha/-/tree/0b3d76ba324b315f5e552221cd07def832c54bb3"
+    },
+    {
+      "item_id": "blackshark/missi@missi-user-11-KASE2201030CN00MR2-V12.0.1.0.RBHCNBS-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-11-KASE2201030CN00MR2-V12.0.1.0.RBHCNBS-release-keys",
+        "commit": "6154d059a7871a70de35f066fcd6c0033026f41c",
+        "committed_date": "2022-05-08T03:10:48.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T00:25:32.626Z",
+        "namespace_hint": "blackshark",
+        "project_hint": "missi",
+        "project_id": 29,
+        "project_path": "blackshark/missi"
+      },
+      "revision": "6154d059a7871a70de35f066fcd6c0033026f41c",
+      "url": "https://dumps.tadiphone.dev/dumps/blackshark/missi/-/tree/6154d059a7871a70de35f066fcd6c0033026f41c"
+    },
+    {
+      "item_id": "blackshark/mobius@qssi-user-10-MOBS2005121OS00MP1-V11.0.4.0.JOYUI-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-MOBS2005121OS00MP1-V11.0.4.0.JOYUI-release-keys",
+        "commit": "004eb9a66f0faa9b886cc4114ddb3daff72b346b",
+        "committed_date": "2020-07-04T20:59:09.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T19:49:20.339Z",
+        "namespace_hint": "blackshark",
+        "project_hint": "mobius",
+        "project_id": 1278,
+        "project_path": "blackshark/mobius"
+      },
+      "revision": "004eb9a66f0faa9b886cc4114ddb3daff72b346b",
+      "url": "https://dumps.tadiphone.dev/dumps/blackshark/mobius/-/tree/004eb9a66f0faa9b886cc4114ddb3daff72b346b"
+    },
+    {
+      "item_id": "blackshark/mobius@qssi-user-10-MOBS2005212CN00MP4-V11.0.4.0.JOYUI-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-MOBS2005212CN00MP4-V11.0.4.0.JOYUI-release-keys",
+        "commit": "eb69dbf12f3ec554d55e2da023643f5b8da3ecac",
+        "committed_date": "2020-07-04T22:36:17.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T19:49:20.339Z",
+        "namespace_hint": "blackshark",
+        "project_hint": "mobius",
+        "project_id": 1278,
+        "project_path": "blackshark/mobius"
+      },
+      "revision": "eb69dbf12f3ec554d55e2da023643f5b8da3ecac",
+      "url": "https://dumps.tadiphone.dev/dumps/blackshark/mobius/-/tree/eb69dbf12f3ec554d55e2da023643f5b8da3ecac"
+    },
+    {
+      "item_id": "blackshark/penrose@qssi-user-11-PROS2203050CN00MR2-V12.0.1.0.RBICNBS-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-PROS2203050CN00MR2-V12.0.1.0.RBICNBS-release-keys",
+        "commit": "347f2c0446d3b3e971921b17a2840f21267e2f24",
+        "committed_date": "2023-07-23T19:21:29.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-07-23T16:17:13.561Z",
+        "namespace_hint": "blackshark",
+        "project_hint": "penrose",
+        "project_id": 4366,
+        "project_path": "blackshark/penrose"
+      },
+      "revision": "347f2c0446d3b3e971921b17a2840f21267e2f24",
+      "url": "https://dumps.tadiphone.dev/dumps/blackshark/penrose/-/tree/347f2c0446d3b3e971921b17a2840f21267e2f24"
+    },
+    {
+      "item_id": "blackshark/qssi@qssi-user-10-KLEN2011100CN00MQ3-V11.0.4.0.JOYUI-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-KLEN2011100CN00MQ3-V11.0.4.0.JOYUI-release-keys",
+        "commit": "ee18855755ec5bb0e7e29408ce8b9d7685e78dd8",
+        "committed_date": "2021-07-31T11:57:59.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T17:37:14.249Z",
+        "namespace_hint": "blackshark",
+        "project_hint": "qssi",
+        "project_id": 1998,
+        "project_path": "blackshark/qssi"
+      },
+      "revision": "ee18855755ec5bb0e7e29408ce8b9d7685e78dd8",
+      "url": "https://dumps.tadiphone.dev/dumps/blackshark/qssi/-/tree/ee18855755ec5bb0e7e29408ce8b9d7685e78dd8"
+    },
+    {
+      "item_id": "blackshark/qssi@qssi-user-11-KLEN2202130CN00MR4-V11.0.4.0.JOYUI-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-KLEN2202130CN00MR4-V11.0.4.0.JOYUI-release-keys",
+        "commit": "9ee33f687b47942289952b263993ae5ede4e9928",
+        "committed_date": "2022-05-07T03:16:12.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T17:37:14.249Z",
+        "namespace_hint": "blackshark",
+        "project_hint": "qssi",
+        "project_id": 1998,
+        "project_path": "blackshark/qssi"
+      },
+      "revision": "9ee33f687b47942289952b263993ae5ede4e9928",
+      "url": "https://dumps.tadiphone.dev/dumps/blackshark/qssi/-/tree/9ee33f687b47942289952b263993ae5ede4e9928"
+    },
+    {
+      "item_id": "blackshark/qssi@qssi-user-11-MOBS2202130CN00MR4-V11.0.4.0.JOYUI-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-MOBS2202130CN00MR4-V11.0.4.0.JOYUI-release-keys",
+        "commit": "8f5940ab0c01706caed00456ce4b1f7c7623f1ed",
+        "committed_date": "2022-05-06T20:15:59.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T17:37:14.249Z",
+        "namespace_hint": "blackshark",
+        "project_hint": "qssi",
+        "project_id": 1998,
+        "project_path": "blackshark/qssi"
+      },
+      "revision": "8f5940ab0c01706caed00456ce4b1f7c7623f1ed",
+      "url": "https://dumps.tadiphone.dev/dumps/blackshark/qssi/-/tree/8f5940ab0c01706caed00456ce4b1f7c7623f1ed"
+    },
+    {
+      "item_id": "blackshark/qssi@qssi-user-11-PROS2201111CN00MR1-V12.0.1.0.RBICNBS-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-PROS2201111CN00MR1-V12.0.1.0.RBICNBS-release-keys",
+        "commit": "eb73ceb8e4134121d1cc2f485870d4925e243307",
+        "committed_date": "2022-05-07T15:31:51.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T17:37:14.249Z",
+        "namespace_hint": "blackshark",
+        "project_hint": "qssi",
+        "project_id": 1998,
+        "project_path": "blackshark/qssi"
+      },
+      "revision": "eb73ceb8e4134121d1cc2f485870d4925e243307",
+      "url": "https://dumps.tadiphone.dev/dumps/blackshark/qssi/-/tree/eb73ceb8e4134121d1cc2f485870d4925e243307"
+    },
+    {
+      "item_id": "blackshark/shark@shark-user-10-G66X1912230CN00DQX-V11.0.4.0.JOYUI-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "shark-user-10-G66X1912230CN00DQX-V11.0.4.0.JOYUI-release-keys",
+        "commit": "ac6a8a7c1bfb80ba3b93c103a16815b7021ce16f",
+        "committed_date": "2020-02-04T20:16:52.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T08:43:15.526Z",
+        "namespace_hint": "blackshark",
+        "project_hint": "shark",
+        "project_id": 1622,
+        "project_path": "blackshark/shark"
+      },
+      "revision": "ac6a8a7c1bfb80ba3b93c103a16815b7021ce16f",
+      "url": "https://dumps.tadiphone.dev/dumps/blackshark/shark/-/tree/ac6a8a7c1bfb80ba3b93c103a16815b7021ce16f"
+    },
+    {
+      "item_id": "blackshark/shark@shark-user-10-G66X2004100CN00DQX-V11.0.4.0.JOYUI-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "shark-user-10-G66X2004100CN00DQX-V11.0.4.0.JOYUI-release-keys",
+        "commit": "727d1b10012eb198140f3dd9806c30ec7ede2fa8",
+        "committed_date": "2020-12-19T18:29:33.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:43:15.526Z",
+        "namespace_hint": "blackshark",
+        "project_hint": "shark",
+        "project_id": 1622,
+        "project_path": "blackshark/shark"
+      },
+      "revision": "727d1b10012eb198140f3dd9806c30ec7ede2fa8",
+      "url": "https://dumps.tadiphone.dev/dumps/blackshark/shark/-/tree/727d1b10012eb198140f3dd9806c30ec7ede2fa8"
+    },
+    {
+      "item_id": "blackshark/shark@shark-user-8.1.0-G66X1812291CN00MPX-eng.18.1229.150048-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "shark-user-8.1.0-G66X1812291CN00MPX-eng.18.1229.150048-release-keys",
+        "commit": "27f8f18d43d9d2fb0c4b2a9c3eeb5510a06d540d",
+        "committed_date": "2019-07-27T14:47:24.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:43:15.526Z",
+        "namespace_hint": "blackshark",
+        "project_hint": "shark",
+        "project_id": 1622,
+        "project_path": "blackshark/shark"
+      },
+      "revision": "27f8f18d43d9d2fb0c4b2a9c3eeb5510a06d540d",
+      "url": "https://dumps.tadiphone.dev/dumps/blackshark/shark/-/tree/27f8f18d43d9d2fb0c4b2a9c3eeb5510a06d540d"
+    },
+    {
+      "item_id": "blackshark/shark@shark-user-8.1.0-G66X1906170OS00MPX-bs.20190617.1746-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "shark-user-8.1.0-G66X1906170OS00MPX-bs.20190617.1746-release-keys",
+        "commit": "e0f0c4e9cc0556e264613e508408380bcb46a826",
+        "committed_date": "2020-12-30T16:48:01.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:43:15.526Z",
+        "namespace_hint": "blackshark",
+        "project_hint": "shark",
+        "project_id": 1622,
+        "project_path": "blackshark/shark"
+      },
+      "revision": "e0f0c4e9cc0556e264613e508408380bcb46a826",
+      "url": "https://dumps.tadiphone.dev/dumps/blackshark/shark/-/tree/e0f0c4e9cc0556e264613e508408380bcb46a826"
+    },
+    {
+      "item_id": "blackshark/shark@shark-user-9-G66X1911240CN00MPP-bs.20191124.0211-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "shark-user-9-G66X1911240CN00MPP-bs.20191124.0211-release-keys",
+        "commit": "c0b37da97d8b49d18662fc1b1b49d10d83437f01",
+        "committed_date": "2020-12-15T22:55:39.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:43:15.526Z",
+        "namespace_hint": "blackshark",
+        "project_hint": "shark",
+        "project_id": 1622,
+        "project_path": "blackshark/shark"
+      },
+      "revision": "c0b37da97d8b49d18662fc1b1b49d10d83437f01",
+      "url": "https://dumps.tadiphone.dev/dumps/blackshark/shark/-/tree/c0b37da97d8b49d18662fc1b1b49d10d83437f01"
+    },
+    {
+      "item_id": "blackshark/skywalker@skywalker-user-10-SKYW1912210CN00DQX-V11.0.4.0.JOYUI-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "skywalker-user-10-SKYW1912210CN00DQX-V11.0.4.0.JOYUI-release-keys",
+        "commit": "1287b48354c3c5c84a422ab3c88fea33d93da487",
+        "committed_date": "2020-02-04T18:39:32.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T10:20:24.658Z",
+        "namespace_hint": "blackshark",
+        "project_hint": "skywalker",
+        "project_id": 949,
+        "project_path": "blackshark/skywalker"
+      },
+      "revision": "1287b48354c3c5c84a422ab3c88fea33d93da487",
+      "url": "https://dumps.tadiphone.dev/dumps/blackshark/skywalker/-/tree/1287b48354c3c5c84a422ab3c88fea33d93da487"
+    },
+    {
+      "item_id": "blackshark/skywalker@skywalker-user-11-SKYW2203210CN00MR1-V11.0.4.0.JOYUI-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "skywalker-user-11-SKYW2203210CN00MR1-V11.0.4.0.JOYUI-release-keys",
+        "commit": "1231350de456e2f9f6e691bafb6f2b35d6f8ddaf",
+        "committed_date": "2022-05-07T19:33:53.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T10:20:24.658Z",
+        "namespace_hint": "blackshark",
+        "project_hint": "skywalker",
+        "project_id": 949,
+        "project_path": "blackshark/skywalker"
+      },
+      "revision": "1231350de456e2f9f6e691bafb6f2b35d6f8ddaf",
+      "url": "https://dumps.tadiphone.dev/dumps/blackshark/skywalker/-/tree/1231350de456e2f9f6e691bafb6f2b35d6f8ddaf"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

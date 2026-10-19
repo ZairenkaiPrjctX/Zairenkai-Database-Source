@@ -1,0 +1,201 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "_project/2326",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": "2022-06-23T10:50:31.439Z",
+        "project_id": 2326,
+        "project_path": "sharp/oj6"
+      },
+      "revision": "2022-06-23T10:50:31.439Z",
+      "url": "https://dumps.tadiphone.dev/dumps/sharp/oj6"
+    },
+    {
+      "item_id": "_project/5782",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": "2026-06-29T20:34:17.742Z",
+        "project_id": 5782,
+        "project_path": "sharp/aquos"
+      },
+      "revision": "2026-06-29T20:34:17.742Z",
+      "url": "https://dumps.tadiphone.dev/dumps/sharp/aquos"
+    },
+    {
+      "item_id": "sharp/hd1@FS8024_00CN-user-8.0.0-OPR1.170623.027-00CN_0_060-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "FS8024_00CN-user-8.0.0-OPR1.170623.027-00CN_0_060-release-keys",
+        "commit": "ca06099631e1abd26b0b3261a44c5b47d4419b22",
+        "committed_date": "2020-03-16T10:45:05.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T09:46:41.696Z",
+        "namespace_hint": "sharp",
+        "project_hint": "hd1",
+        "project_id": 1674,
+        "project_path": "sharp/hd1"
+      },
+      "revision": "ca06099631e1abd26b0b3261a44c5b47d4419b22",
+      "url": "https://dumps.tadiphone.dev/dumps/sharp/hd1/-/tree/ca06099631e1abd26b0b3261a44c5b47d4419b22"
+    },
+    {
+      "item_id": "sharp/hh6_sprout@FS8032_00A0-user-9-PPR1.180610.011-FS8032S0114P-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "FS8032_00A0-user-9-PPR1.180610.011-FS8032S0114P-release-keys",
+        "commit": "c7753efc91311dc8933add34f6b33bfddcea2cf4",
+        "committed_date": "2019-11-13T07:16:17.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T15:57:29.264Z",
+        "namespace_hint": "sharp",
+        "project_hint": "hh6_sprout",
+        "project_id": 1154,
+        "project_path": "sharp/hh6_sprout"
+      },
+      "revision": "c7753efc91311dc8933add34f6b33bfddcea2cf4",
+      "url": "https://dumps.tadiphone.dev/dumps/sharp/hh6_sprout/-/tree/c7753efc91311dc8933add34f6b33bfddcea2cf4"
+    },
+    {
+      "item_id": "sharp/hh6_sprout@HH6_00WW_FIH-user-10-QKQ1.190828.002-FS8032T0225Q-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "HH6_00WW_FIH-user-10-QKQ1.190828.002-FS8032T0225Q-release-keys",
+        "commit": "721d4933341244b52dfb59e3df08e4581b48ff3f",
+        "committed_date": "2020-03-02T00:50:08.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T15:57:29.264Z",
+        "namespace_hint": "sharp",
+        "project_hint": "hh6_sprout",
+        "project_id": 1154,
+        "project_path": "sharp/hh6_sprout"
+      },
+      "revision": "721d4933341244b52dfb59e3df08e4581b48ff3f",
+      "url": "https://dumps.tadiphone.dev/dumps/sharp/hh6_sprout/-/tree/721d4933341244b52dfb59e3df08e4581b48ff3f"
+    },
+    {
+      "item_id": "sharp/hh6_sprout@HH6_00WW_FIH-user-10-QKQ1.190828.002-FS8032T0305Q-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "HH6_00WW_FIH-user-10-QKQ1.190828.002-FS8032T0305Q-release-keys",
+        "commit": "19822d2d997af7bd6e3ccbe4d388b9743864cf88",
+        "committed_date": "2020-03-22T00:21:56.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T15:57:29.264Z",
+        "namespace_hint": "sharp",
+        "project_hint": "hh6_sprout",
+        "project_id": 1154,
+        "project_path": "sharp/hh6_sprout"
+      },
+      "revision": "19822d2d997af7bd6e3ccbe4d388b9743864cf88",
+      "url": "https://dumps.tadiphone.dev/dumps/sharp/hh6_sprout/-/tree/19822d2d997af7bd6e3ccbe4d388b9743864cf88"
+    },
+    {
+      "item_id": "sharp/sat@FS8008_000A-userdebug-7.1.1-NMF26X-000A_1_15h-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "FS8008_000A-userdebug-7.1.1-NMF26X-000A_1_15h-release-keys",
+        "commit": "665b1c026a97d5c3ab30e8075afe7076ed861fff",
+        "committed_date": "2021-01-30T13:23:34.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-12-02T04:55:07.694Z",
+        "namespace_hint": "sharp",
+        "project_hint": "sat",
+        "project_id": 2227,
+        "project_path": "sharp/sat"
+      },
+      "revision": "665b1c026a97d5c3ab30e8075afe7076ed861fff",
+      "url": "https://dumps.tadiphone.dev/dumps/sharp/sat/-/tree/665b1c026a97d5c3ab30e8075afe7076ed861fff"
+    },
+    {
+      "item_id": "sharp/sat@FS8016_00WW-user-7.1.1-NMF26X-00WW_1_35F-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "FS8016_00WW-user-7.1.1-NMF26X-00WW_1_35F-release-keys",
+        "commit": "dd415d803bebac7c121ce7ac51470a6053443f07",
+        "committed_date": "2023-12-02T07:51:50.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-12-02T04:55:07.694Z",
+        "namespace_hint": "sharp",
+        "project_hint": "sat",
+        "project_id": 2227,
+        "project_path": "sharp/sat"
+      },
+      "revision": "dd415d803bebac7c121ce7ac51470a6053443f07",
+      "url": "https://dumps.tadiphone.dev/dumps/sharp/sat/-/tree/dd415d803bebac7c121ce7ac51470a6053443f07"
+    },
+    {
+      "item_id": "sharp/sat@master",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "master",
+        "commit": "4478fcbf89dc9bb83c0a0814bd80180a1d94f9ad",
+        "committed_date": "2018-07-06T23:58:31.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2023-12-02T04:55:07.694Z",
+        "namespace_hint": "sharp",
+        "project_hint": "sat",
+        "project_id": 2227,
+        "project_path": "sharp/sat"
+      },
+      "revision": "4478fcbf89dc9bb83c0a0814bd80180a1d94f9ad",
+      "url": "https://dumps.tadiphone.dev/dumps/sharp/sat/-/tree/4478fcbf89dc9bb83c0a0814bd80180a1d94f9ad"
+    },
+    {
+      "item_id": "sharp/sd1@FS8015_00WW-user-8.0.0-OPR1.170623.027-00WW_1_380-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "FS8015_00WW-user-8.0.0-OPR1.170623.027-00WW_1_380-release-keys",
+        "commit": "651f9eb399c0170422e933242ca5d3b444ec6cad",
+        "committed_date": "2018-07-06T23:53:50.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T17:36:55.519Z",
+        "namespace_hint": "sharp",
+        "project_hint": "sd1",
+        "project_id": 1997,
+        "project_path": "sharp/sd1"
+      },
+      "revision": "651f9eb399c0170422e933242ca5d3b444ec6cad",
+      "url": "https://dumps.tadiphone.dev/dumps/sharp/sd1/-/tree/651f9eb399c0170422e933242ca5d3b444ec6cad"
+    },
+    {
+      "item_id": "sharp/sindang@tcbrae_a-userdebug-9-PTM6.200722.265-eng.ot9026.20211019.165015-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "tcbrae_a-userdebug-9-PTM6.200722.265-eng.ot9026.20211019.165015-test-keys",
+        "commit": "a9541f362c8ece8ecd75a0d4891fd0c49a28a6cd",
+        "committed_date": "2021-11-10T22:32:36.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T23:27:40.983Z",
+        "namespace_hint": "sharp",
+        "project_hint": "sindang",
+        "project_id": 2208,
+        "project_path": "sharp/sindang"
+      },
+      "revision": "a9541f362c8ece8ecd75a0d4891fd0c49a28a6cd",
+      "url": "https://dumps.tadiphone.dev/dumps/sharp/sindang/-/tree/a9541f362c8ece8ecd75a0d4891fd0c49a28a6cd"
+    },
+    {
+      "item_id": "sharp/sttm21vapp@TTM_1KN0_FIH-user-12-SP1A.210812.016-1KN0_0_460-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "TTM_1KN0_FIH-user-12-SP1A.210812.016-1KN0_0_460-release-keys",
+        "commit": "d2f43ac311aa826e5104ad3c5236bf3e885898bc",
+        "committed_date": "2023-04-24T09:29:37.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-04-24T06:27:29.236Z",
+        "namespace_hint": "sharp",
+        "project_hint": "sttm21vapp",
+        "project_id": 4259,
+        "project_path": "sharp/sttm21vapp"
+      },
+      "revision": "d2f43ac311aa826e5104ad3c5236bf3e885898bc",
+      "url": "https://dumps.tadiphone.dev/dumps/sharp/sttm21vapp/-/tree/d2f43ac311aa826e5104ad3c5236bf3e885898bc"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

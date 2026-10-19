@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "true/4gwifi@HL6180W-eng-4.4.4-KTU84P-eng.lbcsu.20211017-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "HL6180W-eng-4.4.4-KTU84P-eng.lbcsu.20211017-release-keys",
+        "commit": "974d211bbfa03d913de43d462ee71dee39c87de9",
+        "committed_date": "2022-07-16T19:04:47.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-07-16T16:04:30.561Z",
+        "namespace_hint": "true",
+        "project_hint": "4gwifi",
+        "project_id": 2358,
+        "project_path": "true/4gwifi"
+      },
+      "revision": "974d211bbfa03d913de43d462ee71dee39c87de9",
+      "url": "https://dumps.tadiphone.dev/dumps/true/4gwifi/-/tree/974d211bbfa03d913de43d462ee71dee39c87de9"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

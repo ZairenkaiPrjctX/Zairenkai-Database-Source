@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "minix/byt_t_crv2@byt_t_crv2_64-userdebug-4.4.4-KTU84P-eng.root.20150413.131247-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "byt_t_crv2_64-userdebug-4.4.4-KTU84P-eng.root.20150413.131247-release-keys",
+        "commit": "76d5fea707d4e2f569c000cb052350dd1c24d77d",
+        "committed_date": "2020-03-12T19:57:13.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T20:05:26.587Z",
+        "namespace_hint": "minix",
+        "project_hint": "byt_t_crv2",
+        "project_id": 2115,
+        "project_path": "minix/byt_t_crv2"
+      },
+      "revision": "76d5fea707d4e2f569c000cb052350dd1c24d77d",
+      "url": "https://dumps.tadiphone.dev/dumps/minix/byt_t_crv2/-/tree/76d5fea707d4e2f569c000cb052350dd1c24d77d"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

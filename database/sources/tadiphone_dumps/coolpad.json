@@ -1,0 +1,111 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "coolpad/c558@full_k39tv1_bsp_512-user-8.1.0-O11019-1544695559-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k39tv1_bsp_512-user-8.1.0-O11019-1544695559-release-keys",
+        "commit": "baa347733ae4a59e386a410042bea62b30bfe245",
+        "committed_date": "2019-10-14T06:47:40.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T18:18:39.824Z",
+        "namespace_hint": "coolpad",
+        "project_hint": "c558",
+        "project_id": 2026,
+        "project_path": "coolpad/c558"
+      },
+      "revision": "baa347733ae4a59e386a410042bea62b30bfe245",
+      "url": "https://dumps.tadiphone.dev/dumps/coolpad/c558/-/tree/baa347733ae4a59e386a410042bea62b30bfe245"
+    },
+    {
+      "item_id": "coolpad/coolpad@full_bird6739tv1_bsp_512-user-8.1.0-O11019-1539144115-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_bird6739tv1_bsp_512-user-8.1.0-O11019-1539144115-release-keys",
+        "commit": "f24d2356d806514f5c2cae033c949cc3d5a67992",
+        "committed_date": "2019-10-14T14:18:07.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T23:17:01.338Z",
+        "namespace_hint": "coolpad",
+        "project_hint": "coolpad",
+        "project_id": 1382,
+        "project_path": "coolpad/coolpad"
+      },
+      "revision": "f24d2356d806514f5c2cae033c949cc3d5a67992",
+      "url": "https://dumps.tadiphone.dev/dumps/coolpad/coolpad/-/tree/f24d2356d806514f5c2cae033c949cc3d5a67992"
+    },
+    {
+      "item_id": "coolpad/coolpad_1803@sp9850ka_1h10_gofOsea-user-8.1.0-OPM2.171019.012-49420-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sp9850ka_1h10_gofOsea-user-8.1.0-OPM2.171019.012-49420-release-keys",
+        "commit": "aca4ea7221f4b38f2710120830c22f19ecc08c8b",
+        "committed_date": "2019-11-11T14:59:59.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T11:13:40.642Z",
+        "namespace_hint": "coolpad",
+        "project_hint": "coolpad_1803",
+        "project_id": 976,
+        "project_path": "coolpad/coolpad_1803"
+      },
+      "revision": "aca4ea7221f4b38f2710120830c22f19ecc08c8b",
+      "url": "https://dumps.tadiphone.dev/dumps/coolpad/coolpad_1803/-/tree/aca4ea7221f4b38f2710120830c22f19ecc08c8b"
+    },
+    {
+      "item_id": "coolpad/le_ares@le_ares-user-6.0.1-VDXCNCM5810105230S-eng.buildfarm.20170523.204421-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "le_ares-user-6.0.1-VDXCNCM5810105230S-eng.buildfarm.20170523.204421-release-keys",
+        "commit": "e62cae64837c69ab85f333c8a973c63428a598ad",
+        "committed_date": "2022-07-24T18:20:51.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-07-24T15:19:12.239Z",
+        "namespace_hint": "coolpad",
+        "project_hint": "le_ares",
+        "project_id": 2373,
+        "project_path": "coolpad/le_ares"
+      },
+      "revision": "e62cae64837c69ab85f333c8a973c63428a598ad",
+      "url": "https://dumps.tadiphone.dev/dumps/coolpad/le_ares/-/tree/e62cae64837c69ab85f333c8a973c63428a598ad"
+    },
+    {
+      "item_id": "coolpad/n3_mini@full_t939w_v4_k_zxt_za76ew_go-user-8.1.0-O11019-1538015370-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_t939w_v4_k_zxt_za76ew_go-user-8.1.0-O11019-1538015370-release-keys",
+        "commit": "443ad3d37b102fbd119d22153f1ab2dfd5f653c5",
+        "committed_date": "2019-10-14T14:15:35.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T12:55:42.192Z",
+        "namespace_hint": "coolpad",
+        "project_hint": "n3_mini",
+        "project_id": 1005,
+        "project_path": "coolpad/n3_mini"
+      },
+      "revision": "443ad3d37b102fbd119d22153f1ab2dfd5f653c5",
+      "url": "https://dumps.tadiphone.dev/dumps/coolpad/n3_mini/-/tree/443ad3d37b102fbd119d22153f1ab2dfd5f653c5"
+    },
+    {
+      "item_id": "coolpad/roadie@msm8909_512go-user-8.1.0-OPM1.171019.026-eng.builde.20180623.215200-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8909_512go-user-8.1.0-OPM1.171019.026-eng.builde.20180623.215200-test-keys",
+        "commit": "7f570ceda5f7c90e1dcdafcbd74fc4ac188841a2",
+        "committed_date": "2019-09-25T10:58:54.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T01:48:40.288Z",
+        "namespace_hint": "coolpad",
+        "project_hint": "roadie",
+        "project_id": 2311,
+        "project_path": "coolpad/roadie"
+      },
+      "revision": "7f570ceda5f7c90e1dcdafcbd74fc4ac188841a2",
+      "url": "https://dumps.tadiphone.dev/dumps/coolpad/roadie/-/tree/7f570ceda5f7c90e1dcdafcbd74fc4ac188841a2"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

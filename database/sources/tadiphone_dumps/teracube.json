@@ -1,0 +1,145 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "teracube/teracube_2e@full_emerald-user-12-SP1A.210812.016-p1rck61v164bspP6-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_emerald-user-12-SP1A.210812.016-p1rck61v164bspP6-release-keys",
+        "commit": "65b18c7ce9cfc2349cb59152f3caac5ff713a861",
+        "committed_date": "2023-01-15T12:17:02.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-05-02T06:05:58.945Z",
+        "namespace_hint": "teracube",
+        "project_hint": "teracube_2e",
+        "project_id": 755,
+        "project_path": "teracube/teracube_2e"
+      },
+      "revision": "65b18c7ce9cfc2349cb59152f3caac5ff713a861",
+      "url": "https://dumps.tadiphone.dev/dumps/teracube/teracube_2e/-/tree/65b18c7ce9cfc2349cb59152f3caac5ff713a861"
+    },
+    {
+      "item_id": "teracube/teracube_2e@full_emernia-user-12-SP1A.210812.016-s0rc0emerniabsp-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_emernia-user-12-SP1A.210812.016-s0rc0emerniabsp-release-keys",
+        "commit": "dd6e8ff273dc14d9cd84a2a5814600ded547298b",
+        "committed_date": "2023-07-20T14:40:58.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-05-02T06:05:58.945Z",
+        "namespace_hint": "teracube",
+        "project_hint": "teracube_2e",
+        "project_id": 755,
+        "project_path": "teracube/teracube_2e"
+      },
+      "revision": "dd6e8ff273dc14d9cd84a2a5814600ded547298b",
+      "url": "https://dumps.tadiphone.dev/dumps/teracube/teracube_2e/-/tree/dd6e8ff273dc14d9cd84a2a5814600ded547298b"
+    },
+    {
+      "item_id": "teracube/teracube_2e@full_emernia-user-13-TQ3A.230805.001.B1-t0pr4emerniabsp-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_emernia-user-13-TQ3A.230805.001.B1-t0pr4emerniabsp-release-keys",
+        "commit": "91d7ed5336d39b9e7670613c539a79e45b4af895",
+        "committed_date": "2024-05-02T09:00:34.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-05-02T06:05:58.945Z",
+        "namespace_hint": "teracube",
+        "project_hint": "teracube_2e",
+        "project_id": 755,
+        "project_path": "teracube/teracube_2e"
+      },
+      "revision": "91d7ed5336d39b9e7670613c539a79e45b4af895",
+      "url": "https://dumps.tadiphone.dev/dumps/teracube/teracube_2e/-/tree/91d7ed5336d39b9e7670613c539a79e45b4af895"
+    },
+    {
+      "item_id": "teracube/teracube_2e@full_yk673v6_lwg62_64-user-10-QP1A.190711.020-p1k61v164bspP29-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_yk673v6_lwg62_64-user-10-QP1A.190711.020-p1k61v164bspP29-release-keys",
+        "commit": "ba53719d5b9c7f562de762bea8f6e1844a76c1e2",
+        "committed_date": "2021-12-21T22:22:03.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-05-02T06:05:58.945Z",
+        "namespace_hint": "teracube",
+        "project_hint": "teracube_2e",
+        "project_id": 755,
+        "project_path": "teracube/teracube_2e"
+      },
+      "revision": "ba53719d5b9c7f562de762bea8f6e1844a76c1e2",
+      "url": "https://dumps.tadiphone.dev/dumps/teracube/teracube_2e/-/tree/ba53719d5b9c7f562de762bea8f6e1844a76c1e2"
+    },
+    {
+      "item_id": "teracube/teracube_2e@full_yk673v6_lwg62_64-user-11-RP1A.200720.011-p1k61v164bspP19-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_yk673v6_lwg62_64-user-11-RP1A.200720.011-p1k61v164bspP19-release-keys",
+        "commit": "264c67b1f5c365cac9eec8207c7e794150e544f9",
+        "committed_date": "2022-05-13T17:53:23.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-05-02T06:05:58.945Z",
+        "namespace_hint": "teracube",
+        "project_hint": "teracube_2e",
+        "project_id": 755,
+        "project_path": "teracube/teracube_2e"
+      },
+      "revision": "264c67b1f5c365cac9eec8207c7e794150e544f9",
+      "url": "https://dumps.tadiphone.dev/dumps/teracube/teracube_2e/-/tree/264c67b1f5c365cac9eec8207c7e794150e544f9"
+    },
+    {
+      "item_id": "teracube/teracube_2e@full_zirconia-user-12-SP1A.210812.016-p1rck61v164bspP6-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_zirconia-user-12-SP1A.210812.016-p1rck61v164bspP6-release-keys",
+        "commit": "6404b4c5b5c18295e7fd8b1c926c83c4bdfc53b3",
+        "committed_date": "2023-02-08T13:05:43.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-05-02T06:05:58.945Z",
+        "namespace_hint": "teracube",
+        "project_hint": "teracube_2e",
+        "project_id": 755,
+        "project_path": "teracube/teracube_2e"
+      },
+      "revision": "6404b4c5b5c18295e7fd8b1c926c83c4bdfc53b3",
+      "url": "https://dumps.tadiphone.dev/dumps/teracube/teracube_2e/-/tree/6404b4c5b5c18295e7fd8b1c926c83c4bdfc53b3"
+    },
+    {
+      "item_id": "teracube/teracube_one@full_v7101o-user-9-PPR1.180610.011-20191028-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_v7101o-user-9-PPR1.180610.011-20191028-release-keys",
+        "commit": "4f43e1bf2c1839800ec1b58f4913ba9521ecaff0",
+        "committed_date": "2020-03-27T13:11:28.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T17:21:17.378Z",
+        "namespace_hint": "teracube",
+        "project_hint": "teracube_one",
+        "project_id": 1982,
+        "project_path": "teracube/teracube_one"
+      },
+      "revision": "4f43e1bf2c1839800ec1b58f4913ba9521ecaff0",
+      "url": "https://dumps.tadiphone.dev/dumps/teracube/teracube_one/-/tree/4f43e1bf2c1839800ec1b58f4913ba9521ecaff0"
+    },
+    {
+      "item_id": "teracube/teracube_one@full_v7101o-user-9-PPR1.180610.011-20200610-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_v7101o-user-9-PPR1.180610.011-20200610-release-keys",
+        "commit": "1e78a6abce5db370586ec539f7a4777e84ae4c95",
+        "committed_date": "2020-10-20T20:52:49.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T17:21:17.378Z",
+        "namespace_hint": "teracube",
+        "project_hint": "teracube_one",
+        "project_id": 1982,
+        "project_path": "teracube/teracube_one"
+      },
+      "revision": "1e78a6abce5db370586ec539f7a4777e84ae4c95",
+      "url": "https://dumps.tadiphone.dev/dumps/teracube/teracube_one/-/tree/1e78a6abce5db370586ec539f7a4777e84ae4c95"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

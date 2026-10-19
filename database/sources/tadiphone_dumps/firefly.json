@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "firefly/rk3588_firefly_itx_3588j@rk3588_firefly_itx_3588j-userdebug-12-SQ1D.211205.016.A5-eng.chenjp.20220311.102747-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "rk3588_firefly_itx_3588j-userdebug-12-SQ1D.211205.016.A5-eng.chenjp.20220311.102747-release-keys",
+        "commit": "6213d628846dd5ac1321f7a0325aa345bda7e60b",
+        "committed_date": "2022-03-17T19:16:30.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T00:08:39.881Z",
+        "namespace_hint": "firefly",
+        "project_hint": "rk3588_firefly_itx_3588j",
+        "project_id": 823,
+        "project_path": "firefly/rk3588_firefly_itx_3588j"
+      },
+      "revision": "6213d628846dd5ac1321f7a0325aa345bda7e60b",
+      "url": "https://dumps.tadiphone.dev/dumps/firefly/rk3588_firefly_itx_3588j/-/tree/6213d628846dd5ac1321f7a0325aa345bda7e60b"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

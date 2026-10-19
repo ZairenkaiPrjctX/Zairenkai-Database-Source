@@ -1,0 +1,162 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "doogee/m23@sys_mssi_64_ww_armv82-user-12-SP1A.210812.016-1rck61v164bspP31-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_ww_armv82-user-12-SP1A.210812.016-1rck61v164bspP31-release-keys",
+        "commit": "6b3525a61af33b69d189fec109123341264488b0",
+        "committed_date": "2024-04-07T04:01:42.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-04-07T00:59:21.495Z",
+        "namespace_hint": "doogee",
+        "project_hint": "m23",
+        "project_id": 5224,
+        "project_path": "doogee/m23"
+      },
+      "revision": "6b3525a61af33b69d189fec109123341264488b0",
+      "url": "https://dumps.tadiphone.dev/dumps/doogee/m23/-/tree/6b3525a61af33b69d189fec109123341264488b0"
+    },
+    {
+      "item_id": "doogee/m23u@sys_mssi_64_ww_armv82-user-13-TP1A.220624.014-p1rck6985v164P35-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_ww_armv82-user-13-TP1A.220624.014-p1rck6985v164P35-release-keys",
+        "commit": "780a6ad23c1157e773ad351c0fcef241da872b9a",
+        "committed_date": "2024-04-08T14:21:33.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-04-08T11:18:57.197Z",
+        "namespace_hint": "doogee",
+        "project_hint": "m23u",
+        "project_id": 5225,
+        "project_path": "doogee/m23u"
+      },
+      "revision": "780a6ad23c1157e773ad351c0fcef241da872b9a",
+      "url": "https://dumps.tadiphone.dev/dumps/doogee/m23u/-/tree/780a6ad23c1157e773ad351c0fcef241da872b9a"
+    },
+    {
+      "item_id": "doogee/s68pro@S68Pro_EEA-user-9-P00610-1572524041-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "S68Pro_EEA-user-9-P00610-1572524041-release-keys",
+        "commit": "278794ca67f71a6c4f955daa87f3758a82011dde",
+        "committed_date": "2020-01-07T19:22:33.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T13:48:25.252Z",
+        "namespace_hint": "doogee",
+        "project_hint": "s68pro",
+        "project_id": 1053,
+        "project_path": "doogee/s68pro"
+      },
+      "revision": "278794ca67f71a6c4f955daa87f3758a82011dde",
+      "url": "https://dumps.tadiphone.dev/dumps/doogee/s68pro/-/tree/278794ca67f71a6c4f955daa87f3758a82011dde"
+    },
+    {
+      "item_id": "doogee/s80@full_k63v2_64_bsp-user-8.1.0-O11019-1536869854-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k63v2_64_bsp-user-8.1.0-O11019-1536869854-release-keys",
+        "commit": "d35deef2982c8585f8cd6db259b2808f4f37bf6d",
+        "committed_date": "2019-11-16T01:40:35.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T23:58:32.416Z",
+        "namespace_hint": "doogee",
+        "project_hint": "s80",
+        "project_id": 2246,
+        "project_path": "doogee/s80"
+      },
+      "revision": "d35deef2982c8585f8cd6db259b2808f4f37bf6d",
+      "url": "https://dumps.tadiphone.dev/dumps/doogee/s80/-/tree/d35deef2982c8585f8cd6db259b2808f4f37bf6d"
+    },
+    {
+      "item_id": "doogee/v10@full_k6833v1_64-user-11-RP1A.200720.011-mp3V240-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6833v1_64-user-11-RP1A.200720.011-mp3V240-release-keys",
+        "commit": "d3624622b98dedf51a430e778b3c246e4f088f72",
+        "committed_date": "2024-06-06T15:12:38.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-06-06T12:10:54.469Z",
+        "namespace_hint": "doogee",
+        "project_hint": "v10",
+        "project_id": 5301,
+        "project_path": "doogee/v10"
+      },
+      "revision": "d3624622b98dedf51a430e778b3c246e4f088f72",
+      "url": "https://dumps.tadiphone.dev/dumps/doogee/v10/-/tree/d3624622b98dedf51a430e778b3c246e4f088f72"
+    },
+    {
+      "item_id": "doogee/x90@full_k80hd_bsp_fwv_512m-user-8.1.0-O11019-1558923087-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k80hd_bsp_fwv_512m-user-8.1.0-O11019-1558923087-release-keys",
+        "commit": "2b1c2ce032a228abef4ed10c0d6b8c0573d4b049",
+        "committed_date": "2019-11-16T01:14:36.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T14:01:25.723Z",
+        "namespace_hint": "doogee",
+        "project_hint": "x90",
+        "project_id": 1066,
+        "project_path": "doogee/x90"
+      },
+      "revision": "2b1c2ce032a228abef4ed10c0d6b8c0573d4b049",
+      "url": "https://dumps.tadiphone.dev/dumps/doogee/x90/-/tree/2b1c2ce032a228abef4ed10c0d6b8c0573d4b049"
+    },
+    {
+      "item_id": "doogee/x90l@X90L-user-9-P00610-1553768670-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "X90L-user-9-P00610-1553768670-release-keys",
+        "commit": "9c62738a8b3336491fca07c96513ec82764223d1",
+        "committed_date": "2020-03-10T06:20:57.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T01:27:46.159Z",
+        "namespace_hint": "doogee",
+        "project_hint": "x90l",
+        "project_id": 2290,
+        "project_path": "doogee/x90l"
+      },
+      "revision": "9c62738a8b3336491fca07c96513ec82764223d1",
+      "url": "https://dumps.tadiphone.dev/dumps/doogee/x90l/-/tree/9c62738a8b3336491fca07c96513ec82764223d1"
+    },
+    {
+      "item_id": "doogee/y7@s9863a1h10_Natv-user-8.1.0-OPM2.171019.012-20190321-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "s9863a1h10_Natv-user-8.1.0-OPM2.171019.012-20190321-release-keys",
+        "commit": "af4b4778f9cbc85e40d3d9fd4b39b1c7e1b5b84e",
+        "committed_date": "2019-11-11T13:58:36.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T14:49:37.627Z",
+        "namespace_hint": "doogee",
+        "project_hint": "y7",
+        "project_id": 235,
+        "project_path": "doogee/y7"
+      },
+      "revision": "af4b4778f9cbc85e40d3d9fd4b39b1c7e1b5b84e",
+      "url": "https://dumps.tadiphone.dev/dumps/doogee/y7/-/tree/af4b4778f9cbc85e40d3d9fd4b39b1c7e1b5b84e"
+    },
+    {
+      "item_id": "doogee/y8@Y8-user-9-P00610-1547663710-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Y8-user-9-P00610-1547663710-release-keys",
+        "commit": "b2f28d7818ded2914c356cf37fc3497cab0999d2",
+        "committed_date": "2019-07-19T07:39:26.000+08:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T15:35:34.278Z",
+        "namespace_hint": "doogee",
+        "project_hint": "y8",
+        "project_id": 1888,
+        "project_path": "doogee/y8"
+      },
+      "revision": "b2f28d7818ded2914c356cf37fc3497cab0999d2",
+      "url": "https://dumps.tadiphone.dev/dumps/doogee/y8/-/tree/b2f28d7818ded2914c356cf37fc3497cab0999d2"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

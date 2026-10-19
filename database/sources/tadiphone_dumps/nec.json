@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "nec/achilles6_row_wifi@full_achilles6_row_wifi-user-10-QP1A.190711.020-LAVIETabE1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_achilles6_row_wifi-user-10-QP1A.190711.020-LAVIETabE1-release-keys",
+        "commit": "a78e30ab6db02aa2cb10bea91965afe966556700",
+        "committed_date": "2022-02-03T11:51:09.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T10:36:42.861Z",
+        "namespace_hint": "nec",
+        "project_hint": "achilles6_row_wifi",
+        "project_id": 48,
+        "project_path": "nec/achilles6_row_wifi"
+      },
+      "revision": "a78e30ab6db02aa2cb10bea91965afe966556700",
+      "url": "https://dumps.tadiphone.dev/dumps/nec/achilles6_row_wifi/-/tree/a78e30ab6db02aa2cb10bea91965afe966556700"
+    },
+    {
+      "item_id": "nec/lavietab9qhd1@LAVIETab9QHD1-user-14-UKQ1.231025.001-LAVIETab9QHD1_NEC_OPEN_USER_Q00031.0_U_ZUI_16.0.024_ST_240930-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "LAVIETab9QHD1-user-14-UKQ1.231025.001-LAVIETab9QHD1_NEC_OPEN_USER_Q00031.0_U_ZUI_16.0.024_ST_240930-release-keys",
+        "commit": "b3a34f41c41f2a7ff7a83d5e3151e19c2f750c51",
+        "committed_date": "2024-10-21T14:39:38.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-21T11:35:04.663Z",
+        "namespace_hint": "nec",
+        "project_hint": "lavietab9qhd1",
+        "project_id": 5464,
+        "project_path": "nec/lavietab9qhd1"
+      },
+      "revision": "b3a34f41c41f2a7ff7a83d5e3151e19c2f750c51",
+      "url": "https://dumps.tadiphone.dev/dumps/nec/lavietab9qhd1/-/tree/b3a34f41c41f2a7ff7a83d5e3151e19c2f750c51"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

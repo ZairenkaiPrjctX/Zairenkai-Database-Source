@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "blocks/sombrero@blocks_sombrero-user-8.0.0-OPR5.170623.007-Oreo.1806.326.USR-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "blocks_sombrero-user-8.0.0-OPR5.170623.007-Oreo.1806.326.USR-release-keys",
+        "commit": "40a22fd68c6ac411baa154607450f10135b5aa63",
+        "committed_date": "2019-10-30T10:29:26.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T00:28:34.609Z",
+        "namespace_hint": "blocks",
+        "project_hint": "sombrero",
+        "project_id": 31,
+        "project_path": "blocks/sombrero"
+      },
+      "revision": "40a22fd68c6ac411baa154607450f10135b5aa63",
+      "url": "https://dumps.tadiphone.dev/dumps/blocks/sombrero/-/tree/40a22fd68c6ac411baa154607450f10135b5aa63"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

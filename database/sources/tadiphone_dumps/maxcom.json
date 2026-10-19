@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "maxcom/msm8909_512@msm8909_512-user-6.0.1-MMB29M-eng.liufeicong.20190426.161016-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8909_512-user-6.0.1-MMB29M-eng.liufeicong.20190426.161016-dev-keys",
+        "commit": "b77652350f1e40336c66fe3341f852629f05cdea",
+        "committed_date": "2021-08-16T01:38:56.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T15:39:24.368Z",
+        "namespace_hint": "maxcom",
+        "project_hint": "msm8909_512",
+        "project_id": 1893,
+        "project_path": "maxcom/msm8909_512"
+      },
+      "revision": "b77652350f1e40336c66fe3341f852629f05cdea",
+      "url": "https://dumps.tadiphone.dev/dumps/maxcom/msm8909_512/-/tree/b77652350f1e40336c66fe3341f852629f05cdea"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

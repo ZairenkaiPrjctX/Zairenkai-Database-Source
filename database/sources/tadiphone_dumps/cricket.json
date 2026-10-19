@@ -1,0 +1,128 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "cricket/u304ac@U304AC-user-9-P00610-1582351073-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "U304AC-user-9-P00610-1582351073-release-keys",
+        "commit": "a35242bdff481fd7d8f0a1ff61e2987a9c4710ca",
+        "committed_date": "2020-07-09T16:12:02.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T16:31:21.919Z",
+        "namespace_hint": "cricket",
+        "project_hint": "u304ac",
+        "project_id": 1182,
+        "project_path": "cricket/u304ac"
+      },
+      "revision": "a35242bdff481fd7d8f0a1ff61e2987a9c4710ca",
+      "url": "https://dumps.tadiphone.dev/dumps/cricket/u304ac/-/tree/a35242bdff481fd7d8f0a1ff61e2987a9c4710ca"
+    },
+    {
+      "item_id": "cricket/u304ac@U304AC-user-9-P00610-1590463625-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "U304AC-user-9-P00610-1590463625-release-keys",
+        "commit": "21fc2b8373b261a7f06664c34f14b70650603e88",
+        "committed_date": "2021-02-02T10:12:24.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T16:31:21.919Z",
+        "namespace_hint": "cricket",
+        "project_hint": "u304ac",
+        "project_id": 1182,
+        "project_path": "cricket/u304ac"
+      },
+      "revision": "21fc2b8373b261a7f06664c34f14b70650603e88",
+      "url": "https://dumps.tadiphone.dev/dumps/cricket/u304ac/-/tree/21fc2b8373b261a7f06664c34f14b70650603e88"
+    },
+    {
+      "item_id": "cricket/u304ac@U304AC-userdebug-9-P00610-1590463625-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "U304AC-userdebug-9-P00610-1590463625-release-keys",
+        "commit": "304a599c3f329e9a935aa9d54cd94db8d2940dcc",
+        "committed_date": "2021-02-02T10:12:48.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T16:31:21.919Z",
+        "namespace_hint": "cricket",
+        "project_hint": "u304ac",
+        "project_id": 1182,
+        "project_path": "cricket/u304ac"
+      },
+      "revision": "304a599c3f329e9a935aa9d54cd94db8d2940dcc",
+      "url": "https://dumps.tadiphone.dev/dumps/cricket/u304ac/-/tree/304a599c3f329e9a935aa9d54cd94db8d2940dcc"
+    },
+    {
+      "item_id": "cricket/u325ac@full_u325-user-10-QP1A.190711.020-1593679502-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_u325-user-10-QP1A.190711.020-1593679502-release-keys",
+        "commit": "86e4d7b5fb8bdbe806a1a9537881dac43971fb4a",
+        "committed_date": "2021-02-02T10:15:51.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T01:48:11.979Z",
+        "namespace_hint": "cricket",
+        "project_hint": "u325ac",
+        "project_id": 1499,
+        "project_path": "cricket/u325ac"
+      },
+      "revision": "86e4d7b5fb8bdbe806a1a9537881dac43971fb4a",
+      "url": "https://dumps.tadiphone.dev/dumps/cricket/u325ac/-/tree/86e4d7b5fb8bdbe806a1a9537881dac43971fb4a"
+    },
+    {
+      "item_id": "cricket/u325ac@full_u325-userdebug-10-QP1A.190711.020-1592018278-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_u325-userdebug-10-QP1A.190711.020-1592018278-release-keys",
+        "commit": "94035b2cd6778f1ba61da9cb9b223a2686db6e3b",
+        "committed_date": "2021-02-02T10:11:44.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T01:48:11.979Z",
+        "namespace_hint": "cricket",
+        "project_hint": "u325ac",
+        "project_id": 1499,
+        "project_path": "cricket/u325ac"
+      },
+      "revision": "94035b2cd6778f1ba61da9cb9b223a2686db6e3b",
+      "url": "https://dumps.tadiphone.dev/dumps/cricket/u325ac/-/tree/94035b2cd6778f1ba61da9cb9b223a2686db6e3b"
+    },
+    {
+      "item_id": "cricket/u705ac@full_u705-user-10-QP1A.190711.020-1593415980-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_u705-user-10-QP1A.190711.020-1593415980-release-keys",
+        "commit": "0fc1a316db1a85db9f4b59db7c24a988a5b6a6cc",
+        "committed_date": "2021-02-02T10:23:22.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T15:47:47.441Z",
+        "namespace_hint": "cricket",
+        "project_hint": "u705ac",
+        "project_id": 1145,
+        "project_path": "cricket/u705ac"
+      },
+      "revision": "0fc1a316db1a85db9f4b59db7c24a988a5b6a6cc",
+      "url": "https://dumps.tadiphone.dev/dumps/cricket/u705ac/-/tree/0fc1a316db1a85db9f4b59db7c24a988a5b6a6cc"
+    },
+    {
+      "item_id": "cricket/u705ac@full_u705-userdebug-10-QP1A.190711.020-1593342480-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_u705-userdebug-10-QP1A.190711.020-1593342480-release-keys",
+        "commit": "af8494ee698985a05bf51d7585b51c7ce778e256",
+        "committed_date": "2021-02-02T10:23:28.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T15:47:47.441Z",
+        "namespace_hint": "cricket",
+        "project_hint": "u705ac",
+        "project_id": 1145,
+        "project_path": "cricket/u705ac"
+      },
+      "revision": "af8494ee698985a05bf51d7585b51c7ce778e256",
+      "url": "https://dumps.tadiphone.dev/dumps/cricket/u705ac/-/tree/af8494ee698985a05bf51d7585b51c7ce778e256"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "wiite/c7s@sys_mssi_64_cn-userdebug-10-QP1A.190711.020-mp1V91221-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn-userdebug-10-QP1A.190711.020-mp1V91221-test-keys",
+        "commit": "069e3e2d427238f30c3be4c4a7a5e82863eee023",
+        "committed_date": "2020-08-03T04:54:15.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T08:27:57.800Z",
+        "namespace_hint": "wiite",
+        "project_hint": "c7s",
+        "project_id": 1607,
+        "project_path": "wiite/c7s"
+      },
+      "revision": "069e3e2d427238f30c3be4c4a7a5e82863eee023",
+      "url": "https://dumps.tadiphone.dev/dumps/wiite/c7s/-/tree/069e3e2d427238f30c3be4c4a7a5e82863eee023"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

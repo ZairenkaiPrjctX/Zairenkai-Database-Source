@@ -1,0 +1,230 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "unihertz/atom_l@Atom_L-user-10-QP1A.190711.020-root.20200925.171920-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Atom_L-user-10-QP1A.190711.020-root.20200925.171920-release-keys",
+        "commit": "620dce20a6c86ee716cc2595093c7cb991b2c6e7",
+        "committed_date": "2021-03-11T12:13:12.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T20:29:44.485Z",
+        "namespace_hint": "unihertz",
+        "project_hint": "atom_l",
+        "project_id": 1288,
+        "project_path": "unihertz/atom_l"
+      },
+      "revision": "620dce20a6c86ee716cc2595093c7cb991b2c6e7",
+      "url": "https://dumps.tadiphone.dev/dumps/unihertz/atom_l/-/tree/620dce20a6c86ee716cc2595093c7cb991b2c6e7"
+    },
+    {
+      "item_id": "unihertz/atom_l@Atom_L_EEA-user-10-QP1A.190711.020-root.20200312.120804-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Atom_L_EEA-user-10-QP1A.190711.020-root.20200312.120804-release-keys",
+        "commit": "5c3fb176021ed6c27887730d8ac82fca15027d53",
+        "committed_date": "2020-10-08T05:48:14.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T20:29:44.485Z",
+        "namespace_hint": "unihertz",
+        "project_hint": "atom_l",
+        "project_id": 1288,
+        "project_path": "unihertz/atom_l"
+      },
+      "revision": "5c3fb176021ed6c27887730d8ac82fca15027d53",
+      "url": "https://dumps.tadiphone.dev/dumps/unihertz/atom_l/-/tree/5c3fb176021ed6c27887730d8ac82fca15027d53"
+    },
+    {
+      "item_id": "unihertz/atom_l@Atom_L_EEA-user-11-RP1A.200720.011-root.20210722.143145-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Atom_L_EEA-user-11-RP1A.200720.011-root.20210722.143145-release-keys",
+        "commit": "43c37a91408a6e71815f280ffeb1b9d4d1f6f46c",
+        "committed_date": "2022-04-26T06:39:52.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T20:29:44.485Z",
+        "namespace_hint": "unihertz",
+        "project_hint": "atom_l",
+        "project_id": 1288,
+        "project_path": "unihertz/atom_l"
+      },
+      "revision": "43c37a91408a6e71815f280ffeb1b9d4d1f6f46c",
+      "url": "https://dumps.tadiphone.dev/dumps/unihertz/atom_l/-/tree/43c37a91408a6e71815f280ffeb1b9d4d1f6f46c"
+    },
+    {
+      "item_id": "unihertz/jelly2@Jelly2_EEA-user-10-QP1A.190711.020-root.20200702.183111-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Jelly2_EEA-user-10-QP1A.190711.020-root.20200702.183111-release-keys",
+        "commit": "6101b049ff474cc43871a11869a3fff3ee372d72",
+        "committed_date": "2021-03-26T12:18:19.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T00:40:52.950Z",
+        "namespace_hint": "unihertz",
+        "project_hint": "jelly2",
+        "project_id": 1444,
+        "project_path": "unihertz/jelly2"
+      },
+      "revision": "6101b049ff474cc43871a11869a3fff3ee372d72",
+      "url": "https://dumps.tadiphone.dev/dumps/unihertz/jelly2/-/tree/6101b049ff474cc43871a11869a3fff3ee372d72"
+    },
+    {
+      "item_id": "unihertz/jelly2@Jelly2_EEA-user-11-RP1A.200720.011-root.20210727.095406-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Jelly2_EEA-user-11-RP1A.200720.011-root.20210727.095406-release-keys",
+        "commit": "f73678d12fad7d469f9a602c54c4e752c527651a",
+        "committed_date": "2022-04-26T06:49:45.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T00:40:52.950Z",
+        "namespace_hint": "unihertz",
+        "project_hint": "jelly2",
+        "project_id": 1444,
+        "project_path": "unihertz/jelly2"
+      },
+      "revision": "f73678d12fad7d469f9a602c54c4e752c527651a",
+      "url": "https://dumps.tadiphone.dev/dumps/unihertz/jelly2/-/tree/f73678d12fad7d469f9a602c54c4e752c527651a"
+    },
+    {
+      "item_id": "unihertz/jelly_max@sys_mssi_64_64only_ww_armv82_g78v78c2k_dfl_eea-user-14-UP1A.231005.007-V01.00.00-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_64only_ww_armv82_g78v78c2k_dfl_eea-user-14-UP1A.231005.007-V01.00.00-release-keys",
+        "commit": "0ee1c7bbcb21408cbe80bdb45613ca49b204fb21",
+        "committed_date": "2024-10-15T21:12:00.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-15T18:20:17.237Z",
+        "namespace_hint": "unihertz",
+        "project_hint": "jelly_max",
+        "project_id": 5445,
+        "project_path": "unihertz/jelly_max"
+      },
+      "revision": "0ee1c7bbcb21408cbe80bdb45613ca49b204fb21",
+      "url": "https://dumps.tadiphone.dev/dumps/unihertz/jelly_max/-/tree/0ee1c7bbcb21408cbe80bdb45613ca49b204fb21"
+    },
+    {
+      "item_id": "unihertz/jelly_max@sys_mssi_64_64only_ww_armv82_g78v78c2k_dfl_tee-user-14-UP1A.231005.007-V01.00.03-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_64only_ww_armv82_g78v78c2k_dfl_tee-user-14-UP1A.231005.007-V01.00.03-release-keys",
+        "commit": "6cc336063a480a42b222691daa282cf012f39715",
+        "committed_date": "2024-10-04T04:38:52.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-10-15T18:20:17.237Z",
+        "namespace_hint": "unihertz",
+        "project_hint": "jelly_max",
+        "project_id": 5445,
+        "project_path": "unihertz/jelly_max"
+      },
+      "revision": "6cc336063a480a42b222691daa282cf012f39715",
+      "url": "https://dumps.tadiphone.dev/dumps/unihertz/jelly_max/-/tree/6cc336063a480a42b222691daa282cf012f39715"
+    },
+    {
+      "item_id": "unihertz/jelly_star@sys_mssi_g58v89c2k_dfl_eea-user-13-TP1A.220624.014-root.20230627.201104-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_g58v89c2k_dfl_eea-user-13-TP1A.220624.014-root.20230627.201104-release-keys",
+        "commit": "362258c6c607c8b063fe35f82cbd8875e808e1a9",
+        "committed_date": "2023-08-25T05:34:32.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-08-25T02:40:46.918Z",
+        "namespace_hint": "unihertz",
+        "project_hint": "jelly_star",
+        "project_id": 4410,
+        "project_path": "unihertz/jelly_star"
+      },
+      "revision": "362258c6c607c8b063fe35f82cbd8875e808e1a9",
+      "url": "https://dumps.tadiphone.dev/dumps/unihertz/jelly_star/-/tree/362258c6c607c8b063fe35f82cbd8875e808e1a9"
+    },
+    {
+      "item_id": "unihertz/jelly_star@sys_mssi_g58v89c2k_dfl_tee-user-13-TP1A.220624.014-root.20230626.190119-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_g58v89c2k_dfl_tee-user-13-TP1A.220624.014-root.20230626.190119-release-keys",
+        "commit": "1bcbd89de114009a66829848614f8b036b0a9a39",
+        "committed_date": "2023-08-22T06:54:48.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-08-25T02:40:46.918Z",
+        "namespace_hint": "unihertz",
+        "project_hint": "jelly_star",
+        "project_id": 4410,
+        "project_path": "unihertz/jelly_star"
+      },
+      "revision": "1bcbd89de114009a66829848614f8b036b0a9a39",
+      "url": "https://dumps.tadiphone.dev/dumps/unihertz/jelly_star/-/tree/1bcbd89de114009a66829848614f8b036b0a9a39"
+    },
+    {
+      "item_id": "unihertz/luna@Luna-user-12-SP1A.210812.016-root.20221216.184036-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Luna-user-12-SP1A.210812.016-root.20221216.184036-release-keys",
+        "commit": "e1a1664ef5e5f37979cdddb45b509c08dca82e89",
+        "committed_date": "2023-04-19T01:20:15.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-04-18T22:17:56.679Z",
+        "namespace_hint": "unihertz",
+        "project_hint": "luna",
+        "project_id": 4250,
+        "project_path": "unihertz/luna"
+      },
+      "revision": "e1a1664ef5e5f37979cdddb45b509c08dca82e89",
+      "url": "https://dumps.tadiphone.dev/dumps/unihertz/luna/-/tree/e1a1664ef5e5f37979cdddb45b509c08dca82e89"
+    },
+    {
+      "item_id": "unihertz/titan-2@Titan_2_EEA-user-16-BP2A.250605.031.A3-V01.00.14-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Titan_2_EEA-user-16-BP2A.250605.031.A3-V01.00.14-release-keys",
+        "commit": "e901d26da9e48ba75417b50108162732a7e07101",
+        "committed_date": "2026-09-09T02:20:09.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-09-08T23:01:34.016Z",
+        "namespace_hint": "unihertz",
+        "project_hint": "titan-2",
+        "project_id": 5830,
+        "project_path": "unihertz/titan-2"
+      },
+      "revision": "e901d26da9e48ba75417b50108162732a7e07101",
+      "url": "https://dumps.tadiphone.dev/dumps/unihertz/titan-2/-/tree/e901d26da9e48ba75417b50108162732a7e07101"
+    },
+    {
+      "item_id": "unihertz/titan-2@Titan_2_EEA-user-16-BP2A.250605.031.A3-V02.00.04-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Titan_2_EEA-user-16-BP2A.250605.031.A3-V02.00.04-release-keys",
+        "commit": "24963b60ee281e184534a3995784a25e9997f781",
+        "committed_date": "2026-09-09T02:04:59.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-09-08T23:01:34.016Z",
+        "namespace_hint": "unihertz",
+        "project_hint": "titan-2",
+        "project_id": 5830,
+        "project_path": "unihertz/titan-2"
+      },
+      "revision": "24963b60ee281e184534a3995784a25e9997f781",
+      "url": "https://dumps.tadiphone.dev/dumps/unihertz/titan-2/-/tree/24963b60ee281e184534a3995784a25e9997f781"
+    },
+    {
+      "item_id": "unihertz/titan@Titan_EEA-user-9-PPR1.180610.011-root.20191205.185324-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Titan_EEA-user-9-PPR1.180610.011-root.20191205.185324-release-keys",
+        "commit": "cba73741be54ec307ee9b39c92e74f50791788cb",
+        "committed_date": "2020-03-22T16:21:29.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T15:54:59.107Z",
+        "namespace_hint": "unihertz",
+        "project_hint": "titan",
+        "project_id": 1911,
+        "project_path": "unihertz/titan"
+      },
+      "revision": "cba73741be54ec307ee9b39c92e74f50791788cb",
+      "url": "https://dumps.tadiphone.dev/dumps/unihertz/titan/-/tree/cba73741be54ec307ee9b39c92e74f50791788cb"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

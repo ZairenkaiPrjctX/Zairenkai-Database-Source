@@ -1,0 +1,128 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "cat/cats60@msm8952_64-user-6.0.1-MMB29M-2654-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8952_64-user-6.0.1-MMB29M-2654-release-keys",
+        "commit": "dc6e2a5eb7b0f3487a6e4523631e414bded5c3fb",
+        "committed_date": "2019-11-15T07:58:33.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T11:14:21.365Z",
+        "namespace_hint": "cat",
+        "project_hint": "cats60",
+        "project_id": 977,
+        "project_path": "cat/cats60"
+      },
+      "revision": "dc6e2a5eb7b0f3487a6e4523631e414bded5c3fb",
+      "url": "https://dumps.tadiphone.dev/dumps/cat/cats60/-/tree/dc6e2a5eb7b0f3487a6e4523631e414bded5c3fb"
+    },
+    {
+      "item_id": "cat/cats61@CatS61-user-8.1.0-OPM1.171019.011-LTE_D0201121.0_S61_0.053.02-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "CatS61-user-8.1.0-OPM1.171019.011-LTE_D0201121.0_S61_0.053.02-release-keys",
+        "commit": "36a00734f0d4050047646e15c249a2112bfb93fa",
+        "committed_date": "2022-02-10T13:09:19.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T07:14:32.589Z",
+        "namespace_hint": "cat",
+        "project_hint": "cats61",
+        "project_id": 921,
+        "project_path": "cat/cats61"
+      },
+      "revision": "36a00734f0d4050047646e15c249a2112bfb93fa",
+      "url": "https://dumps.tadiphone.dev/dumps/cat/cats61/-/tree/36a00734f0d4050047646e15c249a2112bfb93fa"
+    },
+    {
+      "item_id": "cat/s22flip@msm8937_32go-user-11-RKQ1.210416.002-LTE_S02113.11_N_S22Flip_0.029.04-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_32go-user-11-RKQ1.210416.002-LTE_S02113.11_N_S22Flip_0.029.04-release-keys",
+        "commit": "3cd23c7c420ca4b3d0348dfa52475d941d9c85dd",
+        "committed_date": "2023-08-17T18:43:34.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-08-17T15:42:05.953Z",
+        "namespace_hint": "cat",
+        "project_hint": "s22flip",
+        "project_id": 4406,
+        "project_path": "cat/s22flip"
+      },
+      "revision": "3cd23c7c420ca4b3d0348dfa52475d941d9c85dd",
+      "url": "https://dumps.tadiphone.dev/dumps/cat/s22flip/-/tree/3cd23c7c420ca4b3d0348dfa52475d941d9c85dd"
+    },
+    {
+      "item_id": "cat/s62@sdm660_64-user-11-RKQ1.210924.001-LTE_S02111.11_N_S62_1.009.04-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-11-RKQ1.210924.001-LTE_S02111.11_N_S62_1.009.04-release-keys",
+        "commit": "8c883ba4d9ac8e6f25a662758fddddf7a73e0ddf",
+        "committed_date": "2023-08-17T18:34:12.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-08-17T15:32:05.627Z",
+        "namespace_hint": "cat",
+        "project_hint": "s62",
+        "project_id": 4405,
+        "project_path": "cat/s62"
+      },
+      "revision": "8c883ba4d9ac8e6f25a662758fddddf7a73e0ddf",
+      "url": "https://dumps.tadiphone.dev/dumps/cat/s62/-/tree/8c883ba4d9ac8e6f25a662758fddddf7a73e0ddf"
+    },
+    {
+      "item_id": "cat/s62pro@sdm660_64-user-11-RKQ1.210406.002-1.014.01-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-11-RKQ1.210406.002-1.014.01-release-keys",
+        "commit": "d38661403cc70adff7407e4c6e6bdc062c327c8d",
+        "committed_date": "2021-11-16T08:47:45.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-08-17T15:29:30.548Z",
+        "namespace_hint": "cat",
+        "project_hint": "s62pro",
+        "project_id": 1603,
+        "project_path": "cat/s62pro"
+      },
+      "revision": "d38661403cc70adff7407e4c6e6bdc062c327c8d",
+      "url": "https://dumps.tadiphone.dev/dumps/cat/s62pro/-/tree/d38661403cc70adff7407e4c6e6bdc062c327c8d"
+    },
+    {
+      "item_id": "cat/s62pro@sdm660_64-user-11-RKQ1.210406.002-1.015.00-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-11-RKQ1.210406.002-1.015.00-release-keys",
+        "commit": "acc6949084428a7778035b54e7a6d7f0a002155b",
+        "committed_date": "2022-01-28T15:38:31.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-08-17T15:29:30.548Z",
+        "namespace_hint": "cat",
+        "project_hint": "s62pro",
+        "project_id": 1603,
+        "project_path": "cat/s62pro"
+      },
+      "revision": "acc6949084428a7778035b54e7a6d7f0a002155b",
+      "url": "https://dumps.tadiphone.dev/dumps/cat/s62pro/-/tree/acc6949084428a7778035b54e7a6d7f0a002155b"
+    },
+    {
+      "item_id": "cat/s62pro@sdm660_64-user-11-RKQ1.210406.002-1.016.00-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-11-RKQ1.210406.002-1.016.00-release-keys",
+        "commit": "2a696cc60ed59c2369c927bf747963ade39eddab",
+        "committed_date": "2023-08-17T18:24:32.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-08-17T15:29:30.548Z",
+        "namespace_hint": "cat",
+        "project_hint": "s62pro",
+        "project_id": 1603,
+        "project_path": "cat/s62pro"
+      },
+      "revision": "2a696cc60ed59c2369c927bf747963ade39eddab",
+      "url": "https://dumps.tadiphone.dev/dumps/cat/s62pro/-/tree/2a696cc60ed59c2369c927bf747963ade39eddab"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

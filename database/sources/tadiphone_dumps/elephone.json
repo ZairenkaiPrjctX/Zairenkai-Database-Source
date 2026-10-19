@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "elephone/u_pro@sdm660_64-user-8.0.0-Elephone_U_Pro_20180918-09180928-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-8.0.0-Elephone_U_Pro_20180918-09180928-release-keys",
+        "commit": "ce5066216f6490b9ae6f6b98b711ecf65d49ef88",
+        "committed_date": "2019-08-29T14:15:57.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T15:23:29.304Z",
+        "namespace_hint": "elephone",
+        "project_hint": "u_pro",
+        "project_id": 1878,
+        "project_path": "elephone/u_pro"
+      },
+      "revision": "ce5066216f6490b9ae6f6b98b711ecf65d49ef88",
+      "url": "https://dumps.tadiphone.dev/dumps/elephone/u_pro/-/tree/ce5066216f6490b9ae6f6b98b711ecf65d49ef88"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

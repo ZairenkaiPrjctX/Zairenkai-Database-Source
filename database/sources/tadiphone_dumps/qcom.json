@@ -1,0 +1,111 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "qcom/msm8909@msm8909-user-5.1.1-LMY47V-12-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8909-user-5.1.1-LMY47V-12-release-keys",
+        "commit": "112847511be4201179aa193055cda88294082e48",
+        "committed_date": "2022-08-24T17:58:25.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-10-28T20:45:37.924Z",
+        "namespace_hint": "qcom",
+        "project_hint": "msm8909",
+        "project_id": 2408,
+        "project_path": "qcom/msm8909"
+      },
+      "revision": "112847511be4201179aa193055cda88294082e48",
+      "url": "https://dumps.tadiphone.dev/dumps/qcom/msm8909/-/tree/112847511be4201179aa193055cda88294082e48"
+    },
+    {
+      "item_id": "qcom/msm8909@msm8909-userdebug-6.0.1-MMB29M-eng.marco.20190408.075852-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8909-userdebug-6.0.1-MMB29M-eng.marco.20190408.075852-test-keys",
+        "commit": "930506dd1b077becef417ec589bccea69f9c2b67",
+        "committed_date": "2024-10-28T23:44:53.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-28T20:45:37.924Z",
+        "namespace_hint": "qcom",
+        "project_hint": "msm8909",
+        "project_id": 2408,
+        "project_path": "qcom/msm8909"
+      },
+      "revision": "930506dd1b077becef417ec589bccea69f9c2b67",
+      "url": "https://dumps.tadiphone.dev/dumps/qcom/msm8909/-/tree/930506dd1b077becef417ec589bccea69f9c2b67"
+    },
+    {
+      "item_id": "qcom/msm8953-32@msm8953_32-user-8.1.0-OPM1.171019.026-2020000-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8953_32-user-8.1.0-OPM1.171019.026-2020000-release-keys",
+        "commit": "67e83066ecb44b5078ee6e1b24bc56393aaf2def",
+        "committed_date": "2026-09-17T02:23:07.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-09-16T23:22:13.096Z",
+        "namespace_hint": "qcom",
+        "project_hint": "msm8953-32",
+        "project_id": 5836,
+        "project_path": "qcom/msm8953-32"
+      },
+      "revision": "67e83066ecb44b5078ee6e1b24bc56393aaf2def",
+      "url": "https://dumps.tadiphone.dev/dumps/qcom/msm8953-32/-/tree/67e83066ecb44b5078ee6e1b24bc56393aaf2def"
+    },
+    {
+      "item_id": "qcom/msm8974@msm8974-user-4.2.2-JDQ39-42-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8974-user-4.2.2-JDQ39-42-test-keys",
+        "commit": "715d2e3cc4c324c3d479b02314dfe442d8e86ff7",
+        "committed_date": "2022-12-14T02:25:42.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-12-13T23:25:29.821Z",
+        "namespace_hint": "qcom",
+        "project_hint": "msm8974",
+        "project_id": 3996,
+        "project_path": "qcom/msm8974"
+      },
+      "revision": "715d2e3cc4c324c3d479b02314dfe442d8e86ff7",
+      "url": "https://dumps.tadiphone.dev/dumps/qcom/msm8974/-/tree/715d2e3cc4c324c3d479b02314dfe442d8e86ff7"
+    },
+    {
+      "item_id": "qcom/ow20w3@msm8937_32go-user-8.1.0-OPM1.171019.026-1442-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_32go-user-8.1.0-OPM1.171019.026-1442-release-keys",
+        "commit": "8f62e0005afa17069f8b291a471c4e5bfe36882b",
+        "committed_date": "2022-03-04T18:40:05.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T00:10:10.663Z",
+        "namespace_hint": "qcom",
+        "project_hint": "ow20w3",
+        "project_id": 824,
+        "project_path": "qcom/ow20w3"
+      },
+      "revision": "8f62e0005afa17069f8b291a471c4e5bfe36882b",
+      "url": "https://dumps.tadiphone.dev/dumps/qcom/ow20w3/-/tree/8f62e0005afa17069f8b291a471c4e5bfe36882b"
+    },
+    {
+      "item_id": "qcom/unknown@ara-eng-4.3-JLS36C-eng.zhonfu.20140416.151703-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ara-eng-4.3-JLS36C-eng.zhonfu.20140416.151703-test-keys",
+        "commit": "8f9188852812ec4df130698de99066632c3340d0",
+        "committed_date": "2021-08-14T12:18:34.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T16:07:15.248Z",
+        "namespace_hint": "qcom",
+        "project_hint": "unknown",
+        "project_id": 1163,
+        "project_path": "qcom/unknown"
+      },
+      "revision": "8f9188852812ec4df130698de99066632c3340d0",
+      "url": "https://dumps.tadiphone.dev/dumps/qcom/unknown/-/tree/8f9188852812ec4df130698de99066632c3340d0"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

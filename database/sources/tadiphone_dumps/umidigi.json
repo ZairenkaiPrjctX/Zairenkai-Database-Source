@@ -1,0 +1,417 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "umidigi/a13@g2207hud_v1_6g_ym_a13_eea_r_Natv-user-11-RP1A.201005.001-2203011659-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "g2207hud_v1_6g_ym_a13_eea_r_Natv-user-11-RP1A.201005.001-2203011659-release-keys",
+        "commit": "aaa6dac644f7fd9266e34b8ab9309946b772c7fa",
+        "committed_date": "2022-04-26T10:10:40.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T05:25:22.156Z",
+        "namespace_hint": "umidigi",
+        "project_hint": "a13",
+        "project_id": 901,
+        "project_path": "umidigi/a13"
+      },
+      "revision": "aaa6dac644f7fd9266e34b8ab9309946b772c7fa",
+      "url": "https://dumps.tadiphone.dev/dumps/umidigi/a13/-/tree/aaa6dac644f7fd9266e34b8ab9309946b772c7fa"
+    },
+    {
+      "item_id": "umidigi/a13_pro@g2207hud_v1_6c_ym_a13pro_r_Natv-user-11-RP1A.201005.001-2202121319-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "g2207hud_v1_6c_ym_a13pro_r_Natv-user-11-RP1A.201005.001-2202121319-release-keys",
+        "commit": "c23580ec4facabe11aa241d4e723e0394d11151d",
+        "committed_date": "2022-04-26T10:21:03.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T13:48:52.889Z",
+        "namespace_hint": "umidigi",
+        "project_hint": "a13_pro",
+        "project_id": 1054,
+        "project_path": "umidigi/a13_pro"
+      },
+      "revision": "c23580ec4facabe11aa241d4e723e0394d11151d",
+      "url": "https://dumps.tadiphone.dev/dumps/umidigi/a13_pro/-/tree/c23580ec4facabe11aa241d4e723e0394d11151d"
+    },
+    {
+      "item_id": "umidigi/a13s@g2207eua_v1_ga_ym_a13s_eea_r_Natv-user-11-RP1A.201005.001-2202261613-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "g2207eua_v1_ga_ym_a13s_eea_r_Natv-user-11-RP1A.201005.001-2202261613-release-keys",
+        "commit": "e8a047a080e910be937eae2908365c8f6cfb7f48",
+        "committed_date": "2022-04-26T09:59:48.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T13:47:15.823Z",
+        "namespace_hint": "umidigi",
+        "project_hint": "a13s",
+        "project_id": 1052,
+        "project_path": "umidigi/a13s"
+      },
+      "revision": "e8a047a080e910be937eae2908365c8f6cfb7f48",
+      "url": "https://dumps.tadiphone.dev/dumps/umidigi/a13s/-/tree/e8a047a080e910be937eae2908365c8f6cfb7f48"
+    },
+    {
+      "item_id": "umidigi/a5_pro@A5_Pro-user-9-PPR1.180610.011-1559618636-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "A5_Pro-user-9-PPR1.180610.011-1559618636-release-keys",
+        "commit": "e84b901c66abead18874a5eba200b092bdb2ff4b",
+        "committed_date": "2019-10-22T23:08:47.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T15:02:27.182Z",
+        "namespace_hint": "umidigi",
+        "project_hint": "a5_pro",
+        "project_id": 1855,
+        "project_path": "umidigi/a5_pro"
+      },
+      "revision": "e84b901c66abead18874a5eba200b092bdb2ff4b",
+      "url": "https://dumps.tadiphone.dev/dumps/umidigi/a5_pro/-/tree/e84b901c66abead18874a5eba200b092bdb2ff4b"
+    },
+    {
+      "item_id": "umidigi/a5_pro@A5_Pro_EEA-user-9-PPR1.180610.011-1559618658-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "A5_Pro_EEA-user-9-PPR1.180610.011-1559618658-release-keys",
+        "commit": "4b9dbcdaa897f6a7c93edd34a56f1b14aa289f55",
+        "committed_date": "2019-07-20T23:14:20.000+08:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T15:02:27.182Z",
+        "namespace_hint": "umidigi",
+        "project_hint": "a5_pro",
+        "project_id": 1855,
+        "project_path": "umidigi/a5_pro"
+      },
+      "revision": "4b9dbcdaa897f6a7c93edd34a56f1b14aa289f55",
+      "url": "https://dumps.tadiphone.dev/dumps/umidigi/a5_pro/-/tree/4b9dbcdaa897f6a7c93edd34a56f1b14aa289f55"
+    },
+    {
+      "item_id": "umidigi/a5_pro@A5_Pro_EEA-user-9-PPR1.180610.011-1559618661-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "A5_Pro_EEA-user-9-PPR1.180610.011-1559618661-release-keys",
+        "commit": "9c9dfc97ba2ab39e8a7ad43de03eee170cd89a76",
+        "committed_date": "2019-10-22T23:37:46.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T15:02:27.182Z",
+        "namespace_hint": "umidigi",
+        "project_hint": "a5_pro",
+        "project_id": 1855,
+        "project_path": "umidigi/a5_pro"
+      },
+      "revision": "9c9dfc97ba2ab39e8a7ad43de03eee170cd89a76",
+      "url": "https://dumps.tadiphone.dev/dumps/umidigi/a5_pro/-/tree/9c9dfc97ba2ab39e8a7ad43de03eee170cd89a76"
+    },
+    {
+      "item_id": "umidigi/a7_eea@full_g1922epf_v1_ga_ym_a7_eea_q-user-10-QP1A.190711.020-2008201806-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_g1922epf_v1_ga_ym_a7_eea_q-user-10-QP1A.190711.020-2008201806-release-keys",
+        "commit": "5ae4d64cf425147b8178aed3dee206e37fcd43f9",
+        "committed_date": "2021-02-01T01:10:19.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T18:50:16.166Z",
+        "namespace_hint": "umidigi",
+        "project_hint": "a7_eea",
+        "project_id": 2058,
+        "project_path": "umidigi/a7_eea"
+      },
+      "revision": "5ae4d64cf425147b8178aed3dee206e37fcd43f9",
+      "url": "https://dumps.tadiphone.dev/dumps/umidigi/a7_eea/-/tree/5ae4d64cf425147b8178aed3dee206e37fcd43f9"
+    },
+    {
+      "item_id": "umidigi/a7_pro@full_g1929ep_v1_gb_ym_a7pro_eea_q-user-10-QP1A.190711.020-2004301546-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_g1929ep_v1_gb_ym_a7pro_eea_q-user-10-QP1A.190711.020-2004301546-release-keys",
+        "commit": "0d2ab46b0c5c49a9c5ddacb4f13244a704835940",
+        "committed_date": "2020-08-23T23:47:34.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T15:06:13.678Z",
+        "namespace_hint": "umidigi",
+        "project_hint": "a7_pro",
+        "project_id": 1859,
+        "project_path": "umidigi/a7_pro"
+      },
+      "revision": "0d2ab46b0c5c49a9c5ddacb4f13244a704835940",
+      "url": "https://dumps.tadiphone.dev/dumps/umidigi/a7_pro/-/tree/0d2ab46b0c5c49a9c5ddacb4f13244a704835940"
+    },
+    {
+      "item_id": "umidigi/a7s@full_g2037spb_v1_ga_ym_a7s_eea_gq-user-10-QP1A.190711.020-2010131237-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_g2037spb_v1_ga_ym_a7s_eea_gq-user-10-QP1A.190711.020-2010131237-release-keys",
+        "commit": "aca36117a0a9893a766ef866821889aa6c683719",
+        "committed_date": "2021-02-01T01:08:55.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T18:42:26.370Z",
+        "namespace_hint": "umidigi",
+        "project_hint": "a7s",
+        "project_id": 2046,
+        "project_path": "umidigi/a7s"
+      },
+      "revision": "aca36117a0a9893a766ef866821889aa6c683719",
+      "url": "https://dumps.tadiphone.dev/dumps/umidigi/a7s/-/tree/aca36117a0a9893a766ef866821889aa6c683719"
+    },
+    {
+      "item_id": "umidigi/a9_pro@full_g2029upt_v1_gd_ym_a9pro1_eea_q-user-10-QP1A.190711.020-2011211821-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_g2029upt_v1_gd_ym_a9pro1_eea_q-user-10-QP1A.190711.020-2011211821-release-keys",
+        "commit": "7b8595923cd092db6d0a80eaf739e93065e4f78d",
+        "committed_date": "2021-02-01T00:34:56.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T19:07:35.592Z",
+        "namespace_hint": "umidigi",
+        "project_hint": "a9_pro",
+        "project_id": 2077,
+        "project_path": "umidigi/a9_pro"
+      },
+      "revision": "7b8595923cd092db6d0a80eaf739e93065e4f78d",
+      "url": "https://dumps.tadiphone.dev/dumps/umidigi/a9_pro/-/tree/7b8595923cd092db6d0a80eaf739e93065e4f78d"
+    },
+    {
+      "item_id": "umidigi/bison@full_g2033upt_v1_ga_ym_bison_eea_q-user-10-QP1A.190711.0202010221715release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_g2033upt_v1_ga_ym_bison_eea_q-user-10-QP1A.190711.0202010221715release-keys",
+        "commit": "ae1ab9b2b9eb27e3d92ecdc2a8f3adb70e6135ae",
+        "committed_date": "2021-01-13T06:19:45.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T15:07:22.925Z",
+        "namespace_hint": "umidigi",
+        "project_hint": "bison",
+        "project_id": 1860,
+        "project_path": "umidigi/bison"
+      },
+      "revision": "ae1ab9b2b9eb27e3d92ecdc2a8f3adb70e6135ae",
+      "url": "https://dumps.tadiphone.dev/dumps/umidigi/bison/-/tree/ae1ab9b2b9eb27e3d92ecdc2a8f3adb70e6135ae"
+    },
+    {
+      "item_id": "umidigi/bison_pro@full_g2069dpd_v2_gd_ym_bisonpro_n_r-user-11-RP1A.200720.011-2105241743-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_g2069dpd_v2_gd_ym_bisonpro_n_r-user-11-RP1A.200720.011-2105241743-release-keys",
+        "commit": "d7862ae63e38007f23723ad2b809480160d58fe0",
+        "committed_date": "2021-10-10T06:51:31.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T09:24:30.868Z",
+        "namespace_hint": "umidigi",
+        "project_hint": "bison_pro",
+        "project_id": 1647,
+        "project_path": "umidigi/bison_pro"
+      },
+      "revision": "d7862ae63e38007f23723ad2b809480160d58fe0",
+      "url": "https://dumps.tadiphone.dev/dumps/umidigi/bison_pro/-/tree/d7862ae63e38007f23723ad2b809480160d58fe0"
+    },
+    {
+      "item_id": "umidigi/bison_x10s_nfc@g2190eua_v1_gc_ym_x10s_r_Natv-user-11-RP1A.201005.001-2112142207-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "g2190eua_v1_gc_ym_x10s_r_Natv-user-11-RP1A.201005.001-2112142207-release-keys",
+        "commit": "848ed33c37acf873771df874756200d85df7d5fd",
+        "committed_date": "2022-04-26T10:31:45.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T07:19:03.249Z",
+        "namespace_hint": "umidigi",
+        "project_hint": "bison_x10s_nfc",
+        "project_id": 925,
+        "project_path": "umidigi/bison_x10s_nfc"
+      },
+      "revision": "848ed33c37acf873771df874756200d85df7d5fd",
+      "url": "https://dumps.tadiphone.dev/dumps/umidigi/bison_x10s_nfc/-/tree/848ed33c37acf873771df874756200d85df7d5fd"
+    },
+    {
+      "item_id": "umidigi/f1@F1-user-9-PPR1.180610.011-root.20190724.172148-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "F1-user-9-PPR1.180610.011-root.20190724.172148-release-keys",
+        "commit": "03490f54db1bcfd8a0cfc10265cf5ae4bdca2d81",
+        "committed_date": "2019-11-13T07:56:24.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T14:55:15.105Z",
+        "namespace_hint": "umidigi",
+        "project_hint": "f1",
+        "project_id": 1847,
+        "project_path": "umidigi/f1"
+      },
+      "revision": "03490f54db1bcfd8a0cfc10265cf5ae4bdca2d81",
+      "url": "https://dumps.tadiphone.dev/dumps/umidigi/f1/-/tree/03490f54db1bcfd8a0cfc10265cf5ae4bdca2d81"
+    },
+    {
+      "item_id": "umidigi/f1@F1_EEA-user-9-PPR1.180610.011-eng.root.20190125.104625-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "F1_EEA-user-9-PPR1.180610.011-eng.root.20190125.104625-release-keys",
+        "commit": "c75e26e500257cadec2f8ee69dbdacc44a2ba80a",
+        "committed_date": "2019-07-20T16:55:54.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T14:55:15.105Z",
+        "namespace_hint": "umidigi",
+        "project_hint": "f1",
+        "project_id": 1847,
+        "project_path": "umidigi/f1"
+      },
+      "revision": "c75e26e500257cadec2f8ee69dbdacc44a2ba80a",
+      "url": "https://dumps.tadiphone.dev/dumps/umidigi/f1/-/tree/c75e26e500257cadec2f8ee69dbdacc44a2ba80a"
+    },
+    {
+      "item_id": "umidigi/f2@full_px556_kw-user-10-QP1A.190711.020-1574406670-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_px556_kw-user-10-QP1A.190711.020-1574406670-release-keys",
+        "commit": "cbeb9315d69acf1c6fa3264b6c25924c0760f701",
+        "committed_date": "2019-12-24T07:20:17.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T22:46:36.598Z",
+        "namespace_hint": "umidigi",
+        "project_hint": "f2",
+        "project_id": 2172,
+        "project_path": "umidigi/f2"
+      },
+      "revision": "cbeb9315d69acf1c6fa3264b6c25924c0760f701",
+      "url": "https://dumps.tadiphone.dev/dumps/umidigi/f2/-/tree/cbeb9315d69acf1c6fa3264b6c25924c0760f701"
+    },
+    {
+      "item_id": "umidigi/f2@full_px556_kw-user-10-QP1A.190711.020-1585833944-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_px556_kw-user-10-QP1A.190711.020-1585833944-release-keys",
+        "commit": "23bd28f60a419313c0e17af6cbc7383e3ce79f69",
+        "committed_date": "2020-08-24T00:23:23.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T22:46:36.598Z",
+        "namespace_hint": "umidigi",
+        "project_hint": "f2",
+        "project_id": 2172,
+        "project_path": "umidigi/f2"
+      },
+      "revision": "23bd28f60a419313c0e17af6cbc7383e3ce79f69",
+      "url": "https://dumps.tadiphone.dev/dumps/umidigi/f2/-/tree/23bd28f60a419313c0e17af6cbc7383e3ce79f69"
+    },
+    {
+      "item_id": "umidigi/f2@full_px556_kw_e-user-10-QP1A.190711.020-1585020952-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_px556_kw_e-user-10-QP1A.190711.020-1585020952-release-keys",
+        "commit": "d0fab380c4320c43cb13b87a5f8d5f1c76d186e9",
+        "committed_date": "2021-08-26T19:43:05.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T22:46:36.598Z",
+        "namespace_hint": "umidigi",
+        "project_hint": "f2",
+        "project_id": 2172,
+        "project_path": "umidigi/f2"
+      },
+      "revision": "d0fab380c4320c43cb13b87a5f8d5f1c76d186e9",
+      "url": "https://dumps.tadiphone.dev/dumps/umidigi/f2/-/tree/d0fab380c4320c43cb13b87a5f8d5f1c76d186e9"
+    },
+    {
+      "item_id": "umidigi/g100x@UMIDIGI_G100x_V1.0_20260522",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "UMIDIGI_G100x_V1.0_20260522",
+        "commit": "8efaf1589d32c8d937a5039f9f18fdfd0ef987ee",
+        "committed_date": "2026-06-14T16:17:17.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-06-14T13:14:19.080Z",
+        "namespace_hint": "umidigi",
+        "project_hint": "g100x",
+        "project_id": 5779,
+        "project_path": "umidigi/g100x"
+      },
+      "revision": "8efaf1589d32c8d937a5039f9f18fdfd0ef987ee",
+      "url": "https://dumps.tadiphone.dev/dumps/umidigi/g100x/-/tree/8efaf1589d32c8d937a5039f9f18fdfd0ef987ee"
+    },
+    {
+      "item_id": "umidigi/one_max@One_Max_EEA-user-8.1.0-PPR1.180610.011-eng.root.20190124.132022-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "One_Max_EEA-user-8.1.0-PPR1.180610.011-eng.root.20190124.132022-release-keys",
+        "commit": "38704d1031a778480955c9fcd62f73b801d905b7",
+        "committed_date": "2019-10-22T23:16:52.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T18:52:49.405Z",
+        "namespace_hint": "umidigi",
+        "project_hint": "one_max",
+        "project_id": 2063,
+        "project_path": "umidigi/one_max"
+      },
+      "revision": "38704d1031a778480955c9fcd62f73b801d905b7",
+      "url": "https://dumps.tadiphone.dev/dumps/umidigi/one_max/-/tree/38704d1031a778480955c9fcd62f73b801d905b7"
+    },
+    {
+      "item_id": "umidigi/s3_pro@S3_Pro_EEA-user-9-PPR1.180610.011-eng.root.20190329.175027-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "S3_Pro_EEA-user-9-PPR1.180610.011-eng.root.20190329.175027-release-keys",
+        "commit": "93146a86fd12201f02e7cfbf03c80717c5592878",
+        "committed_date": "2020-08-13T13:44:29.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T14:53:31.605Z",
+        "namespace_hint": "umidigi",
+        "project_hint": "s3_pro",
+        "project_id": 1844,
+        "project_path": "umidigi/s3_pro"
+      },
+      "revision": "93146a86fd12201f02e7cfbf03c80717c5592878",
+      "url": "https://dumps.tadiphone.dev/dumps/umidigi/s3_pro/-/tree/93146a86fd12201f02e7cfbf03c80717c5592878"
+    },
+    {
+      "item_id": "umidigi/umidigi_x@full_px154_kw-user-9-PPR1.180610.011-1568283240-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_px154_kw-user-9-PPR1.180610.011-1568283240-release-keys",
+        "commit": "0f55f92122e4ea46c5a454e8e470c820bac2b75e",
+        "committed_date": "2019-10-14T13:46:12.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T15:36:42.180Z",
+        "namespace_hint": "umidigi",
+        "project_hint": "umidigi_x",
+        "project_id": 1889,
+        "project_path": "umidigi/umidigi_x"
+      },
+      "revision": "0f55f92122e4ea46c5a454e8e470c820bac2b75e",
+      "url": "https://dumps.tadiphone.dev/dumps/umidigi/umidigi_x/-/tree/0f55f92122e4ea46c5a454e8e470c820bac2b75e"
+    },
+    {
+      "item_id": "umidigi/z2@full_g36v63c2k_kw-user-8.1.0-O11019-1529639592-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_g36v63c2k_kw-user-8.1.0-O11019-1529639592-release-keys",
+        "commit": "01a8b9d9d1e0fd366f334b09c5193b73feec9468",
+        "committed_date": "2018-08-05T20:20:45.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T13:33:12.882Z",
+        "namespace_hint": "umidigi",
+        "project_hint": "z2",
+        "project_id": 1792,
+        "project_path": "umidigi/z2"
+      },
+      "revision": "01a8b9d9d1e0fd366f334b09c5193b73feec9468",
+      "url": "https://dumps.tadiphone.dev/dumps/umidigi/z2/-/tree/01a8b9d9d1e0fd366f334b09c5193b73feec9468"
+    },
+    {
+      "item_id": "umidigi/z2_pro@full_g37v71c2k_kw-userdebug-8.1.0-O11019-1535559876-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_g37v71c2k_kw-userdebug-8.1.0-O11019-1535559876-dev-keys",
+        "commit": "105204fdd457d5f38636b364ea7ad835030be9b4",
+        "committed_date": "2019-10-22T23:28:18.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T11:06:03.494Z",
+        "namespace_hint": "umidigi",
+        "project_hint": "z2_pro",
+        "project_id": 964,
+        "project_path": "umidigi/z2_pro"
+      },
+      "revision": "105204fdd457d5f38636b364ea7ad835030be9b4",
+      "url": "https://dumps.tadiphone.dev/dumps/umidigi/z2_pro/-/tree/105204fdd457d5f38636b364ea7ad835030be9b4"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

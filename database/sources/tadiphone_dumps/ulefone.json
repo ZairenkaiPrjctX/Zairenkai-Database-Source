@@ -1,0 +1,162 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "ulefone/armor_10_5g@full_k6873v1_64-user-10-QP1A.190711.020-1606878559-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6873v1_64-user-10-QP1A.190711.020-1606878559-release-keys",
+        "commit": "89e1d96584426b323fd840c17799de5d4dd59277",
+        "committed_date": "2021-02-01T02:14:40.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-12-20T19:52:16.479Z",
+        "namespace_hint": "ulefone",
+        "project_hint": "armor_10_5g",
+        "project_id": 2064,
+        "project_path": "ulefone/armor_10_5g"
+      },
+      "revision": "89e1d96584426b323fd840c17799de5d4dd59277",
+      "url": "https://dumps.tadiphone.dev/dumps/ulefone/armor_10_5g/-/tree/89e1d96584426b323fd840c17799de5d4dd59277"
+    },
+    {
+      "item_id": "ulefone/armor_10_5g@full_k6873v1_64-user-11-RP1A.200720.011-1641790547-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6873v1_64-user-11-RP1A.200720.011-1641790547-release-keys",
+        "commit": "88ed1362216bdd00447f954a6c60ecaac93950d8",
+        "committed_date": "2023-12-20T22:47:05.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-12-20T19:52:16.479Z",
+        "namespace_hint": "ulefone",
+        "project_hint": "armor_10_5g",
+        "project_id": 2064,
+        "project_path": "ulefone/armor_10_5g"
+      },
+      "revision": "88ed1362216bdd00447f954a6c60ecaac93950d8",
+      "url": "https://dumps.tadiphone.dev/dumps/ulefone/armor_10_5g/-/tree/88ed1362216bdd00447f954a6c60ecaac93950d8"
+    },
+    {
+      "item_id": "ulefone/armor_6e@full_k71v1_64_bsp-user-9-PPR1.180610.011-eng.releas.20190919.182639-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k71v1_64_bsp-user-9-PPR1.180610.011-eng.releas.20190919.182639-release-keys",
+        "commit": "5833a6af529ae33534548fd0f088f16f62e7102c",
+        "committed_date": "2020-01-07T18:52:45.000-05:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T18:02:41.443Z",
+        "namespace_hint": "ulefone",
+        "project_hint": "armor_6e",
+        "project_id": 2014,
+        "project_path": "ulefone/armor_6e"
+      },
+      "revision": "5833a6af529ae33534548fd0f088f16f62e7102c",
+      "url": "https://dumps.tadiphone.dev/dumps/ulefone/armor_6e/-/tree/5833a6af529ae33534548fd0f088f16f62e7102c"
+    },
+    {
+      "item_id": "ulefone/armor_7@full_k79v1_64-user-9-PPR1.180610.011-1567770737-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k79v1_64-user-9-PPR1.180610.011-1567770737-release-keys",
+        "commit": "e22a47919e4c6c097facdbe516f29a7975947f3b",
+        "committed_date": "2020-02-24T19:46:41.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T18:51:46.461Z",
+        "namespace_hint": "ulefone",
+        "project_hint": "armor_7",
+        "project_id": 2061,
+        "project_path": "ulefone/armor_7"
+      },
+      "revision": "e22a47919e4c6c097facdbe516f29a7975947f3b",
+      "url": "https://dumps.tadiphone.dev/dumps/ulefone/armor_7/-/tree/e22a47919e4c6c097facdbe516f29a7975947f3b"
+    },
+    {
+      "item_id": "ulefone/armor_7@full_k79v1_64-user-9-PPR1.180610.011-1568174536-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k79v1_64-user-9-PPR1.180610.011-1568174536-release-keys",
+        "commit": "fc8f9a262c55ce166542ef9cfdd8f7c0e953a2d9",
+        "committed_date": "2020-02-24T19:46:18.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T18:51:46.461Z",
+        "namespace_hint": "ulefone",
+        "project_hint": "armor_7",
+        "project_id": 2061,
+        "project_path": "ulefone/armor_7"
+      },
+      "revision": "fc8f9a262c55ce166542ef9cfdd8f7c0e953a2d9",
+      "url": "https://dumps.tadiphone.dev/dumps/ulefone/armor_7/-/tree/fc8f9a262c55ce166542ef9cfdd8f7c0e953a2d9"
+    },
+    {
+      "item_id": "ulefone/note_15@full_g2231fmw_v1_ga_gq_gq3110_ea_gs-user-12-SP1A.210812.016-2305082113-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_g2231fmw_v1_ga_gq_gq3110_ea_gs-user-12-SP1A.210812.016-2305082113-release-keys",
+        "commit": "9962d7ac06190c329b8a5af8ef71061877253c08",
+        "committed_date": "2023-12-17T02:36:11.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-12-16T23:34:34.465Z",
+        "namespace_hint": "ulefone",
+        "project_hint": "note_15",
+        "project_id": 4665,
+        "project_path": "ulefone/note_15"
+      },
+      "revision": "9962d7ac06190c329b8a5af8ef71061877253c08",
+      "url": "https://dumps.tadiphone.dev/dumps/ulefone/note_15/-/tree/9962d7ac06190c329b8a5af8ef71061877253c08"
+    },
+    {
+      "item_id": "ulefone/power_6@full_k65v1_64_bsp-user-9-PPR1.180610.011-eng.releas.20190922.011138-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k65v1_64_bsp-user-9-PPR1.180610.011-eng.releas.20190922.011138-release-keys",
+        "commit": "128d518bcf8ec07f2204df071b0d915d0b83aed9",
+        "committed_date": "2020-02-24T19:49:31.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T12:56:08.972Z",
+        "namespace_hint": "ulefone",
+        "project_hint": "power_6",
+        "project_id": 1767,
+        "project_path": "ulefone/power_6"
+      },
+      "revision": "128d518bcf8ec07f2204df071b0d915d0b83aed9",
+      "url": "https://dumps.tadiphone.dev/dumps/ulefone/power_6/-/tree/128d518bcf8ec07f2204df071b0d915d0b83aed9"
+    },
+    {
+      "item_id": "ulefone/power_armor_13@full_k85v1_64-user-11-RP1A.200720.011-1626784999-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k85v1_64-user-11-RP1A.200720.011-1626784999-release-keys",
+        "commit": "0d4e2e6acaf2cbfd21695b97e838f4a08638b18c",
+        "committed_date": "2021-10-10T22:07:03.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T23:28:38.490Z",
+        "namespace_hint": "ulefone",
+        "project_hint": "power_armor_13",
+        "project_id": 2209,
+        "project_path": "ulefone/power_armor_13"
+      },
+      "revision": "0d4e2e6acaf2cbfd21695b97e838f4a08638b18c",
+      "url": "https://dumps.tadiphone.dev/dumps/ulefone/power_armor_13/-/tree/0d4e2e6acaf2cbfd21695b97e838f4a08638b18c"
+    },
+    {
+      "item_id": "ulefone/ulefone_s11@full_k80hd_bsp_fwv_512m-user-9-PPR1.180610.011-1565753768-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k80hd_bsp_fwv_512m-user-9-PPR1.180610.011-1565753768-release-keys",
+        "commit": "410de6d25b56984993c6eb6ef4943313eb6271ce",
+        "committed_date": "2020-02-24T19:45:23.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T09:40:35.083Z",
+        "namespace_hint": "ulefone",
+        "project_hint": "ulefone_s11",
+        "project_id": 1665,
+        "project_path": "ulefone/ulefone_s11"
+      },
+      "revision": "410de6d25b56984993c6eb6ef4943313eb6271ce",
+      "url": "https://dumps.tadiphone.dev/dumps/ulefone/ulefone_s11/-/tree/410de6d25b56984993c6eb6ef4943313eb6271ce"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "litbyleia/lpd-10w@qssi-user-10-QKQ1.200308.002-LUME_UI_1.2.6_LPD10_RoW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.200308.002-LUME_UI_1.2.6_LPD10_RoW-release-keys",
+        "commit": "e8d4920030a5972695d5f7ca67aeab92b627f033",
+        "committed_date": "2021-11-06T08:04:54.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T07:25:03.693Z",
+        "namespace_hint": "litbyleia",
+        "project_hint": "lpd-10w",
+        "project_id": 1540,
+        "project_path": "litbyleia/lpd-10w"
+      },
+      "revision": "e8d4920030a5972695d5f7ca67aeab92b627f033",
+      "url": "https://dumps.tadiphone.dev/dumps/litbyleia/lpd-10w/-/tree/e8d4920030a5972695d5f7ca67aeab92b627f033"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

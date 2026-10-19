@@ -1,0 +1,298 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "essential/gem@gem-userdebug-9-262-262-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "gem-userdebug-9-262-262-test-keys",
+        "commit": "2e1a91deeb6b86c7907413d1e1ff6262e66039fa",
+        "committed_date": "2024-09-18T04:50:46.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-09-18T01:49:44.630Z",
+        "namespace_hint": "essential",
+        "project_hint": "gem",
+        "project_id": 5418,
+        "project_path": "essential/gem"
+      },
+      "revision": "2e1a91deeb6b86c7907413d1e1ff6262e66039fa",
+      "url": "https://dumps.tadiphone.dev/dumps/essential/gem/-/tree/2e1a91deeb6b86c7907413d1e1ff6262e66039fa"
+    },
+    {
+      "item_id": "essential/mata@mata-user-10-QP1A.190502.046-241-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "mata-user-10-QP1A.190502.046-241-release-keys",
+        "commit": "33f138acd141346c0af4ddb039447c94179e4d9a",
+        "committed_date": "2019-07-08T16:54:53.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T08:17:25.006Z",
+        "namespace_hint": "essential",
+        "project_hint": "mata",
+        "project_id": 1597,
+        "project_path": "essential/mata"
+      },
+      "revision": "33f138acd141346c0af4ddb039447c94179e4d9a",
+      "url": "https://dumps.tadiphone.dev/dumps/essential/mata/-/tree/33f138acd141346c0af4ddb039447c94179e4d9a"
+    },
+    {
+      "item_id": "essential/mata@mata-user-10-QP1A.190530.044-298-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "mata-user-10-QP1A.190530.044-298-release-keys",
+        "commit": "362f28971b07e18096d99116a576b55e397719ef",
+        "committed_date": "2019-07-17T17:40:11.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:17:25.006Z",
+        "namespace_hint": "essential",
+        "project_hint": "mata",
+        "project_id": 1597,
+        "project_path": "essential/mata"
+      },
+      "revision": "362f28971b07e18096d99116a576b55e397719ef",
+      "url": "https://dumps.tadiphone.dev/dumps/essential/mata/-/tree/362f28971b07e18096d99116a576b55e397719ef"
+    },
+    {
+      "item_id": "essential/mata@mata-user-10-QP1A.190711.052-351-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "mata-user-10-QP1A.190711.052-351-release-keys",
+        "commit": "adf0e32222e8dc677147d29c888a8e86893397a1",
+        "committed_date": "2019-08-11T19:18:22.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:17:25.006Z",
+        "namespace_hint": "essential",
+        "project_hint": "mata",
+        "project_id": 1597,
+        "project_path": "essential/mata"
+      },
+      "revision": "adf0e32222e8dc677147d29c888a8e86893397a1",
+      "url": "https://dumps.tadiphone.dev/dumps/essential/mata/-/tree/adf0e32222e8dc677147d29c888a8e86893397a1"
+    },
+    {
+      "item_id": "essential/mata@mata-user-10-QP1A.190711.107-405-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "mata-user-10-QP1A.190711.107-405-release-keys",
+        "commit": "a6d32c7d442219fe090b55bbcb9e39154f3ee237",
+        "committed_date": "2019-09-03T20:16:58.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:17:25.006Z",
+        "namespace_hint": "essential",
+        "project_hint": "mata",
+        "project_id": 1597,
+        "project_path": "essential/mata"
+      },
+      "revision": "a6d32c7d442219fe090b55bbcb9e39154f3ee237",
+      "url": "https://dumps.tadiphone.dev/dumps/essential/mata/-/tree/a6d32c7d442219fe090b55bbcb9e39154f3ee237"
+    },
+    {
+      "item_id": "essential/mata@mata-user-10-QP1A.190711.122-420-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "mata-user-10-QP1A.190711.122-420-release-keys",
+        "commit": "753e0271a4d9b2eb8fe7f279e19f9be040eddb64",
+        "committed_date": "2019-09-12T18:37:36.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:17:25.006Z",
+        "namespace_hint": "essential",
+        "project_hint": "mata",
+        "project_id": 1597,
+        "project_path": "essential/mata"
+      },
+      "revision": "753e0271a4d9b2eb8fe7f279e19f9be040eddb64",
+      "url": "https://dumps.tadiphone.dev/dumps/essential/mata/-/tree/753e0271a4d9b2eb8fe7f279e19f9be040eddb64"
+    },
+    {
+      "item_id": "essential/mata@mata-user-10-QP1A.190711.148-446-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "mata-user-10-QP1A.190711.148-446-release-keys",
+        "commit": "1c036e99cbd99e29975f65361b43d2183ef4df10",
+        "committed_date": "2019-10-07T20:34:05.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:17:25.006Z",
+        "namespace_hint": "essential",
+        "project_hint": "mata",
+        "project_id": 1597,
+        "project_path": "essential/mata"
+      },
+      "revision": "1c036e99cbd99e29975f65361b43d2183ef4df10",
+      "url": "https://dumps.tadiphone.dev/dumps/essential/mata/-/tree/1c036e99cbd99e29975f65361b43d2183ef4df10"
+    },
+    {
+      "item_id": "essential/mata@mata-user-10-QP1A.191005.014-478-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "mata-user-10-QP1A.191005.014-478-release-keys",
+        "commit": "b9fedec7af92a9fb9a7cb66cf691204aef5e064c",
+        "committed_date": "2019-11-04T20:29:25.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:17:25.006Z",
+        "namespace_hint": "essential",
+        "project_hint": "mata",
+        "project_id": 1597,
+        "project_path": "essential/mata"
+      },
+      "revision": "b9fedec7af92a9fb9a7cb66cf691204aef5e064c",
+      "url": "https://dumps.tadiphone.dev/dumps/essential/mata/-/tree/b9fedec7af92a9fb9a7cb66cf691204aef5e064c"
+    },
+    {
+      "item_id": "essential/mata@mata-user-10-QQ1A.191205.017-499-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "mata-user-10-QQ1A.191205.017-499-release-keys",
+        "commit": "93c61c74e3b8dcc3ec82a07032da3f74b0fca211",
+        "committed_date": "2019-12-02T21:05:54.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:17:25.006Z",
+        "namespace_hint": "essential",
+        "project_hint": "mata",
+        "project_id": 1597,
+        "project_path": "essential/mata"
+      },
+      "revision": "93c61c74e3b8dcc3ec82a07032da3f74b0fca211",
+      "url": "https://dumps.tadiphone.dev/dumps/essential/mata/-/tree/93c61c74e3b8dcc3ec82a07032da3f74b0fca211"
+    },
+    {
+      "item_id": "essential/mata@mata-user-10-QQ1A.200105.007-515-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "mata-user-10-QQ1A.200105.007-515-release-keys",
+        "commit": "c2d04b67c92e7c6adb0001b455654043d579c943",
+        "committed_date": "2020-01-07T04:03:28.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:17:25.006Z",
+        "namespace_hint": "essential",
+        "project_hint": "mata",
+        "project_id": 1597,
+        "project_path": "essential/mata"
+      },
+      "revision": "c2d04b67c92e7c6adb0001b455654043d579c943",
+      "url": "https://dumps.tadiphone.dev/dumps/essential/mata/-/tree/c2d04b67c92e7c6adb0001b455654043d579c943"
+    },
+    {
+      "item_id": "essential/mata@mata-user-10-QQ1A.200105.032-540-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "mata-user-10-QQ1A.200105.032-540-release-keys",
+        "commit": "4e867c37dbf1d88bb55b0dcdbf80ccd432bafee7",
+        "committed_date": "2020-02-05T23:35:10.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:17:25.006Z",
+        "namespace_hint": "essential",
+        "project_hint": "mata",
+        "project_id": 1597,
+        "project_path": "essential/mata"
+      },
+      "revision": "4e867c37dbf1d88bb55b0dcdbf80ccd432bafee7",
+      "url": "https://dumps.tadiphone.dev/dumps/essential/mata/-/tree/4e867c37dbf1d88bb55b0dcdbf80ccd432bafee7"
+    },
+    {
+      "item_id": "essential/mata@mata-user-9-PPR1.180610.091-249-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "mata-user-9-PPR1.180610.091-249-release-keys",
+        "commit": "1788d328ff07268cf52766820ac88ffcf046e7d0",
+        "committed_date": "2018-08-23T08:19:25.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:17:25.006Z",
+        "namespace_hint": "essential",
+        "project_hint": "mata",
+        "project_id": 1597,
+        "project_path": "essential/mata"
+      },
+      "revision": "1788d328ff07268cf52766820ac88ffcf046e7d0",
+      "url": "https://dumps.tadiphone.dev/dumps/essential/mata/-/tree/1788d328ff07268cf52766820ac88ffcf046e7d0"
+    },
+    {
+      "item_id": "essential/mata@mata-user-9-PQ1A.190105.090-528-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "mata-user-9-PQ1A.190105.090-528-release-keys",
+        "commit": "4b9d4e3934ba22493e9a7c14fd910e6a525011c3",
+        "committed_date": "2019-07-07T16:10:38.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:17:25.006Z",
+        "namespace_hint": "essential",
+        "project_hint": "mata",
+        "project_id": 1597,
+        "project_path": "essential/mata"
+      },
+      "revision": "4b9d4e3934ba22493e9a7c14fd910e6a525011c3",
+      "url": "https://dumps.tadiphone.dev/dumps/essential/mata/-/tree/4b9d4e3934ba22493e9a7c14fd910e6a525011c3"
+    },
+    {
+      "item_id": "essential/mata@mata-user-9-PQ1A.190105.112-550-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "mata-user-9-PQ1A.190105.112-550-release-keys",
+        "commit": "9d524c2df22f4909f19bb78a3b50ace4dad3729a",
+        "committed_date": "2019-08-11T07:00:15.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:17:25.006Z",
+        "namespace_hint": "essential",
+        "project_hint": "mata",
+        "project_id": 1597,
+        "project_path": "essential/mata"
+      },
+      "revision": "9d524c2df22f4909f19bb78a3b50ace4dad3729a",
+      "url": "https://dumps.tadiphone.dev/dumps/essential/mata/-/tree/9d524c2df22f4909f19bb78a3b50ace4dad3729a"
+    },
+    {
+      "item_id": "essential/mata@mata-user-P-PPR1.180412.048-69-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "mata-user-P-PPR1.180412.048-69-release-keys",
+        "commit": "69337532b476ed91e9b66fa2304fc3545147e674",
+        "committed_date": "2018-05-12T20:22:31.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:17:25.006Z",
+        "namespace_hint": "essential",
+        "project_hint": "mata",
+        "project_id": 1597,
+        "project_path": "essential/mata"
+      },
+      "revision": "69337532b476ed91e9b66fa2304fc3545147e674",
+      "url": "https://dumps.tadiphone.dev/dumps/essential/mata/-/tree/69337532b476ed91e9b66fa2304fc3545147e674"
+    },
+    {
+      "item_id": "essential/mata@mata-userdebug-10-QQ1A.200105.088-540-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "mata-userdebug-10-QQ1A.200105.088-540-test-keys",
+        "commit": "6371af671758b4ab36f8fd47654a2c45c03b18a7",
+        "committed_date": "2021-08-18T03:07:39.000-04:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:17:25.006Z",
+        "namespace_hint": "essential",
+        "project_hint": "mata",
+        "project_id": 1597,
+        "project_path": "essential/mata"
+      },
+      "revision": "6371af671758b4ab36f8fd47654a2c45c03b18a7",
+      "url": "https://dumps.tadiphone.dev/dumps/essential/mata/-/tree/6371af671758b4ab36f8fd47654a2c45c03b18a7"
+    },
+    {
+      "item_id": "essential/mata@mata-userdebug-8.0.0-OPM1.170911.175-187-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "mata-userdebug-8.0.0-OPM1.170911.175-187-test-keys",
+        "commit": "d3ec6f84299b550ce5e1e375f24ad61efa91e5f5",
+        "committed_date": "2021-02-02T10:41:39.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:17:25.006Z",
+        "namespace_hint": "essential",
+        "project_hint": "mata",
+        "project_id": 1597,
+        "project_path": "essential/mata"
+      },
+      "revision": "d3ec6f84299b550ce5e1e375f24ad61efa91e5f5",
+      "url": "https://dumps.tadiphone.dev/dumps/essential/mata/-/tree/d3ec6f84299b550ce5e1e375f24ad61efa91e5f5"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

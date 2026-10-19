@@ -1,0 +1,519 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "tecno/full-64-armv82@sys_tssi_64_armv82_tecno-user-12-SP1A.210812.016-294843-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_tecno-user-12-SP1A.210812.016-294843-release-keys",
+        "commit": "4534e6115ab3fed5cf737c5f45a0c3d1b2ae6b28",
+        "committed_date": "2022-07-14T00:34:16.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-07-18T13:20:02.337Z",
+        "namespace_hint": "tecno",
+        "project_hint": "full-64-armv82",
+        "project_id": 2354,
+        "project_path": "tecno/full-64-armv82"
+      },
+      "revision": "4534e6115ab3fed5cf737c5f45a0c3d1b2ae6b28",
+      "url": "https://dumps.tadiphone.dev/dumps/tecno/full-64-armv82/-/tree/4534e6115ab3fed5cf737c5f45a0c3d1b2ae6b28"
+    },
+    {
+      "item_id": "tecno/full-64-armv82@sys_tssi_64_armv82_tecno-user-Tiramisu-TP1A.220310.002-292244-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_tecno-user-Tiramisu-TP1A.220310.002-292244-release-keys",
+        "commit": "cb093fc82e05fd693773552bfa6c888d7b889de2",
+        "committed_date": "2022-07-18T16:13:23.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-07-18T13:20:02.337Z",
+        "namespace_hint": "tecno",
+        "project_hint": "full-64-armv82",
+        "project_id": 2354,
+        "project_path": "tecno/full-64-armv82"
+      },
+      "revision": "cb093fc82e05fd693773552bfa6c888d7b889de2",
+      "url": "https://dumps.tadiphone.dev/dumps/tecno/full-64-armv82/-/tree/cb093fc82e05fd693773552bfa6c888d7b889de2"
+    },
+    {
+      "item_id": "tecno/full-64@sys_tssi_64_tecno-user-11-RP1A.200720.011-237731-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_tecno-user-11-RP1A.200720.011-237731-release-keys",
+        "commit": "388dfdf0e0121760237c0304054d31ac3af4b587",
+        "committed_date": "2022-07-20T13:10:54.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-07-20T10:08:16.459Z",
+        "namespace_hint": "tecno",
+        "project_hint": "full-64",
+        "project_id": 2361,
+        "project_path": "tecno/full-64"
+      },
+      "revision": "388dfdf0e0121760237c0304054d31ac3af4b587",
+      "url": "https://dumps.tadiphone.dev/dumps/tecno/full-64/-/tree/388dfdf0e0121760237c0304054d31ac3af4b587"
+    },
+    {
+      "item_id": "tecno/tecno-ac8@sys_tssi_64_tecno-user-11-RP1A.200720.011-113150-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_tecno-user-11-RP1A.200720.011-113150-release-keys",
+        "commit": "d2386f0db03270c665e5f59c1c41a366e764d33b",
+        "committed_date": "2024-04-04T19:53:54.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-04-04T16:50:28.912Z",
+        "namespace_hint": "tecno",
+        "project_hint": "tecno-ac8",
+        "project_id": 5222,
+        "project_path": "tecno/tecno-ac8"
+      },
+      "revision": "d2386f0db03270c665e5f59c1c41a366e764d33b",
+      "url": "https://dumps.tadiphone.dev/dumps/tecno/tecno-ac8/-/tree/d2386f0db03270c665e5f59c1c41a366e764d33b"
+    },
+    {
+      "item_id": "tecno/tecno-bb4k@full_bb4k_h6114-user-9-PPR1.180610.011-57802-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_bb4k_h6114-user-9-PPR1.180610.011-57802-release-keys",
+        "commit": "32ba2185d8d30761199ec9de6ccde2b3f297e5a4",
+        "committed_date": "2020-03-09T05:01:41.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T01:38:16.016Z",
+        "namespace_hint": "tecno",
+        "project_hint": "tecno-bb4k",
+        "project_id": 1491,
+        "project_path": "tecno/tecno-bb4k"
+      },
+      "revision": "32ba2185d8d30761199ec9de6ccde2b3f297e5a4",
+      "url": "https://dumps.tadiphone.dev/dumps/tecno/tecno-bb4k/-/tree/32ba2185d8d30761199ec9de6ccde2b3f297e5a4"
+    },
+    {
+      "item_id": "tecno/tecno-bf7n@sys_tssi_64_tecno-user-12-SP1A.210812.016-303456-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_tecno-user-12-SP1A.210812.016-303456-release-keys",
+        "commit": "d35ed94bafddc20126727f15bdd5a271bdd80129",
+        "committed_date": "2024-10-03T12:37:04.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-03T09:33:56.460Z",
+        "namespace_hint": "tecno",
+        "project_hint": "tecno-bf7n",
+        "project_id": 5444,
+        "project_path": "tecno/tecno-bf7n"
+      },
+      "revision": "d35ed94bafddc20126727f15bdd5a271bdd80129",
+      "url": "https://dumps.tadiphone.dev/dumps/tecno/tecno-bf7n/-/tree/d35ed94bafddc20126727f15bdd5a271bdd80129"
+    },
+    {
+      "item_id": "tecno/tecno-cc9@full_cc9_h626-user-9-PPR1.180610.011-3753-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_cc9_h626-user-9-PPR1.180610.011-3753-release-keys",
+        "commit": "8ec84d59ac13c5528a498b32c192eb4330046a19",
+        "committed_date": "2020-03-06T05:07:06.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T15:03:43.372Z",
+        "namespace_hint": "tecno",
+        "project_hint": "tecno-cc9",
+        "project_id": 1856,
+        "project_path": "tecno/tecno-cc9"
+      },
+      "revision": "8ec84d59ac13c5528a498b32c192eb4330046a19",
+      "url": "https://dumps.tadiphone.dev/dumps/tecno/tecno-cc9/-/tree/8ec84d59ac13c5528a498b32c192eb4330046a19"
+    },
+    {
+      "item_id": "tecno/tecno-cd6@full_cd6_h6211-user-10-QP1A.190711.020-90026-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_cd6_h6211-user-10-QP1A.190711.020-90026-release-keys",
+        "commit": "8d086df5b11818711b539add6176535bbeb8b61a",
+        "committed_date": "2021-08-11T07:55:38.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T10:17:19.439Z",
+        "namespace_hint": "tecno",
+        "project_hint": "tecno-cd6",
+        "project_id": 1709,
+        "project_path": "tecno/tecno-cd6"
+      },
+      "revision": "8d086df5b11818711b539add6176535bbeb8b61a",
+      "url": "https://dumps.tadiphone.dev/dumps/tecno/tecno-cd6/-/tree/8d086df5b11818711b539add6176535bbeb8b61a"
+    },
+    {
+      "item_id": "tecno/tecno-cg6@full_cg6_h696-user-S-SPB1.210331.013-108308-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_cg6_h696-user-S-SPB1.210331.013-108308-release-keys",
+        "commit": "83900f18734e1cdc5e166f0e04ac5cf429ebc528",
+        "committed_date": "2021-10-04T07:33:26.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T09:25:46.383Z",
+        "namespace_hint": "tecno",
+        "project_hint": "tecno-cg6",
+        "project_id": 1650,
+        "project_path": "tecno/tecno-cg6"
+      },
+      "revision": "83900f18734e1cdc5e166f0e04ac5cf429ebc528",
+      "url": "https://dumps.tadiphone.dev/dumps/tecno/tecno-cg6/-/tree/83900f18734e1cdc5e166f0e04ac5cf429ebc528"
+    },
+    {
+      "item_id": "tecno/tecno-ck8n@sys_tssi_64_armv82_tecno-user-13-TP1A.220624.014-406597-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_tecno-user-13-TP1A.220624.014-406597-release-keys",
+        "commit": "2a1ee0b557cadb1b3f52165b1b6b6420e364630b",
+        "committed_date": "2023-11-28T00:12:16.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-09-16T01:51:39.856Z",
+        "namespace_hint": "tecno",
+        "project_hint": "tecno-ck8n",
+        "project_id": 4614,
+        "project_path": "tecno/tecno-ck8n"
+      },
+      "revision": "2a1ee0b557cadb1b3f52165b1b6b6420e364630b",
+      "url": "https://dumps.tadiphone.dev/dumps/tecno/tecno-ck8n/-/tree/2a1ee0b557cadb1b3f52165b1b6b6420e364630b"
+    },
+    {
+      "item_id": "tecno/tecno-ck8n@sys_tssi_64_armv82_tecno-user-14-UP1A.231005.007-614108-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_tecno-user-14-UP1A.231005.007-614108-release-keys",
+        "commit": "432fc15825dddd75d5c289f2221ca6f75a35e792",
+        "committed_date": "2024-09-16T04:41:13.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-09-16T01:51:39.856Z",
+        "namespace_hint": "tecno",
+        "project_hint": "tecno-ck8n",
+        "project_id": 4614,
+        "project_path": "tecno/tecno-ck8n"
+      },
+      "revision": "432fc15825dddd75d5c289f2221ca6f75a35e792",
+      "url": "https://dumps.tadiphone.dev/dumps/tecno/tecno-ck8n/-/tree/432fc15825dddd75d5c289f2221ca6f75a35e792"
+    },
+    {
+      "item_id": "tecno/tecno-ck8nb@sys_tssi_64_armv82_tecno-user-14-UP1A.231005.007-614106-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_tecno-user-14-UP1A.231005.007-614106-release-keys",
+        "commit": "01a0d8272bdabea767448295683455cba4c98d02",
+        "committed_date": "2024-09-14T17:42:28.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-09-14T14:37:28.191Z",
+        "namespace_hint": "tecno",
+        "project_hint": "tecno-ck8nb",
+        "project_id": 5412,
+        "project_path": "tecno/tecno-ck8nb"
+      },
+      "revision": "01a0d8272bdabea767448295683455cba4c98d02",
+      "url": "https://dumps.tadiphone.dev/dumps/tecno/tecno-ck8nb/-/tree/01a0d8272bdabea767448295683455cba4c98d02"
+    },
+    {
+      "item_id": "tecno/tecno-kb8@full_kb8_h624-user-10-QP1A.190404.002-eng.user2.20190501.165435-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_kb8_h624-user-10-QP1A.190404.002-eng.user2.20190501.165435-release-keys",
+        "commit": "b1352aaa0fb677fb5dc6495bc44efce61d38a6d0",
+        "committed_date": "2019-07-20T21:13:58.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T09:01:53.989Z",
+        "namespace_hint": "tecno",
+        "project_hint": "tecno-kb8",
+        "project_id": 1633,
+        "project_path": "tecno/tecno-kb8"
+      },
+      "revision": "b1352aaa0fb677fb5dc6495bc44efce61d38a6d0",
+      "url": "https://dumps.tadiphone.dev/dumps/tecno/tecno-kb8/-/tree/b1352aaa0fb677fb5dc6495bc44efce61d38a6d0"
+    },
+    {
+      "item_id": "tecno/tecno-kc2@full_kc2_h6113-user-9-PPR1.180610.011-44623-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_kc2_h6113-user-9-PPR1.180610.011-44623-release-keys",
+        "commit": "c6bc5e88352e9646504a87c2d1b68a9877d67d03",
+        "committed_date": "2020-05-01T19:21:05.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T17:18:46.131Z",
+        "namespace_hint": "tecno",
+        "project_hint": "tecno-kc2",
+        "project_id": 1979,
+        "project_path": "tecno/tecno-kc2"
+      },
+      "revision": "c6bc5e88352e9646504a87c2d1b68a9877d67d03",
+      "url": "https://dumps.tadiphone.dev/dumps/tecno/tecno-kc2/-/tree/c6bc5e88352e9646504a87c2d1b68a9877d67d03"
+    },
+    {
+      "item_id": "tecno/tecno-kc3@full_kc3_h627mt62-user-9-PPR1.180610.011-133848-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_kc3_h627mt62-user-9-PPR1.180610.011-133848-release-keys",
+        "commit": "3e86bcc22554b3d32d8d3ac08561a65b0e71dc31",
+        "committed_date": "2023-10-23T13:38:01.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-10-23T10:42:12.991Z",
+        "namespace_hint": "tecno",
+        "project_hint": "tecno-kc3",
+        "project_id": 1798,
+        "project_path": "tecno/tecno-kc3"
+      },
+      "revision": "3e86bcc22554b3d32d8d3ac08561a65b0e71dc31",
+      "url": "https://dumps.tadiphone.dev/dumps/tecno/tecno-kc3/-/tree/3e86bcc22554b3d32d8d3ac08561a65b0e71dc31"
+    },
+    {
+      "item_id": "tecno/tecno-kc3@full_kc3_h627mt62-user-9-PPR1.180610.011-42714-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_kc3_h627mt62-user-9-PPR1.180610.011-42714-release-keys",
+        "commit": "f0430a61794fa1a0dd7c7235dbd0b31664f0df46",
+        "committed_date": "2019-10-13T16:16:19.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-10-23T10:42:12.991Z",
+        "namespace_hint": "tecno",
+        "project_hint": "tecno-kc3",
+        "project_id": 1798,
+        "project_path": "tecno/tecno-kc3"
+      },
+      "revision": "f0430a61794fa1a0dd7c7235dbd0b31664f0df46",
+      "url": "https://dumps.tadiphone.dev/dumps/tecno/tecno-kc3/-/tree/f0430a61794fa1a0dd7c7235dbd0b31664f0df46"
+    },
+    {
+      "item_id": "tecno/tecno-ki5n@sys_tssi_64_tecno-user-13-TP1A.220624.014-213382-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_tecno-user-13-TP1A.220624.014-213382-release-keys",
+        "commit": "5fc7aff38d09a4373954d2f0279cf925cd2eca75",
+        "committed_date": "2024-12-09T22:17:24.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-12-09T19:13:53.940Z",
+        "namespace_hint": "tecno",
+        "project_hint": "tecno-ki5n",
+        "project_id": 5511,
+        "project_path": "tecno/tecno-ki5n"
+      },
+      "revision": "5fc7aff38d09a4373954d2f0279cf925cd2eca75",
+      "url": "https://dumps.tadiphone.dev/dumps/tecno/tecno-ki5n/-/tree/5fc7aff38d09a4373954d2f0279cf925cd2eca75"
+    },
+    {
+      "item_id": "tecno/tecno-ki7@sys_tssi_64_armv82_tecno-user-13-TP1A.220624.014-680176-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_tecno-user-13-TP1A.220624.014-680176-release-keys",
+        "commit": "36388666a5b00f83316bc1b9ff045d7ed2b1497d",
+        "committed_date": "2024-10-29T22:08:44.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-29T19:03:42.454Z",
+        "namespace_hint": "tecno",
+        "project_hint": "tecno-ki7",
+        "project_id": 5480,
+        "project_path": "tecno/tecno-ki7"
+      },
+      "revision": "36388666a5b00f83316bc1b9ff045d7ed2b1497d",
+      "url": "https://dumps.tadiphone.dev/dumps/tecno/tecno-ki7/-/tree/36388666a5b00f83316bc1b9ff045d7ed2b1497d"
+    },
+    {
+      "item_id": "tecno/tecno-kj5@sys_tssi_64_tecno-user-13-TP1A.220624.014-629930-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_tecno-user-13-TP1A.220624.014-629930-release-keys",
+        "commit": "c0190d7e3555a994c53619416117f92d1da1e1c4",
+        "committed_date": "2024-08-31T21:46:20.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-06-27T20:00:04.002Z",
+        "namespace_hint": "tecno",
+        "project_hint": "tecno-kj5",
+        "project_id": 5404,
+        "project_path": "tecno/tecno-kj5"
+      },
+      "revision": "c0190d7e3555a994c53619416117f92d1da1e1c4",
+      "url": "https://dumps.tadiphone.dev/dumps/tecno/tecno-kj5/-/tree/c0190d7e3555a994c53619416117f92d1da1e1c4"
+    },
+    {
+      "item_id": "tecno/tecno-kj5@sys_tssi_64_tecno-user-13-TP1A.220624.014-798204-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_tecno-user-13-TP1A.220624.014-798204-release-keys",
+        "commit": "270a05d83b3c12c1ebd776bcdc2db7600bbceef8",
+        "committed_date": "2026-06-27T22:52:51.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-06-27T20:00:04.002Z",
+        "namespace_hint": "tecno",
+        "project_hint": "tecno-kj5",
+        "project_id": 5404,
+        "project_path": "tecno/tecno-kj5"
+      },
+      "revision": "270a05d83b3c12c1ebd776bcdc2db7600bbceef8",
+      "url": "https://dumps.tadiphone.dev/dumps/tecno/tecno-kj5/-/tree/270a05d83b3c12c1ebd776bcdc2db7600bbceef8"
+    },
+    {
+      "item_id": "tecno/tecno-lb8@full_lb8_h6110-user-9-PPR1.180610.011-33787-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_lb8_h6110-user-9-PPR1.180610.011-33787-release-keys",
+        "commit": "4504d0337e7de1273e287987944bafd4daa6f042",
+        "committed_date": "2020-03-06T04:50:56.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T15:44:33.096Z",
+        "namespace_hint": "tecno",
+        "project_hint": "tecno-lb8",
+        "project_id": 1898,
+        "project_path": "tecno/tecno-lb8"
+      },
+      "revision": "4504d0337e7de1273e287987944bafd4daa6f042",
+      "url": "https://dumps.tadiphone.dev/dumps/tecno/tecno-lb8/-/tree/4504d0337e7de1273e287987944bafd4daa6f042"
+    },
+    {
+      "item_id": "tecno/tecno-lb8a@full_lb8a_h6113-user-9-PPR1.180610.011-58925-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_lb8a_h6113-user-9-PPR1.180610.011-58925-release-keys",
+        "commit": "84389c1d48def2dc109273a3ff86b78e25630ff9",
+        "committed_date": "2020-05-03T15:34:40.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T14:51:22.396Z",
+        "namespace_hint": "tecno",
+        "project_hint": "tecno-lb8a",
+        "project_id": 1842,
+        "project_path": "tecno/tecno-lb8a"
+      },
+      "revision": "84389c1d48def2dc109273a3ff86b78e25630ff9",
+      "url": "https://dumps.tadiphone.dev/dumps/tecno/tecno-lb8a/-/tree/84389c1d48def2dc109273a3ff86b78e25630ff9"
+    },
+    {
+      "item_id": "tecno/tecno-lc6@full_lc6_h617-user-9-PPR1.180610.011-37348-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_lc6_h617-user-9-PPR1.180610.011-37348-release-keys",
+        "commit": "9096eb4b0a75cff94d2b35ec569b71fc28e358c6",
+        "committed_date": "2019-09-13T09:32:49.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T15:05:33.363Z",
+        "namespace_hint": "tecno",
+        "project_hint": "tecno-lc6",
+        "project_id": 1857,
+        "project_path": "tecno/tecno-lc6"
+      },
+      "revision": "9096eb4b0a75cff94d2b35ec569b71fc28e358c6",
+      "url": "https://dumps.tadiphone.dev/dumps/tecno/tecno-lc6/-/tree/9096eb4b0a75cff94d2b35ec569b71fc28e358c6"
+    },
+    {
+      "item_id": "tecno/tecno-lc6a@full_lc6_h617-user-9-PPR1.180610.011-53116-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_lc6_h617-user-9-PPR1.180610.011-53116-release-keys",
+        "commit": "19222a88f0d2645bc4f38b22b0713f5aebeb8820",
+        "committed_date": "2019-12-22T02:43:26.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T17:58:43.960Z",
+        "namespace_hint": "tecno",
+        "project_hint": "tecno-lc6a",
+        "project_id": 2006,
+        "project_path": "tecno/tecno-lc6a"
+      },
+      "revision": "19222a88f0d2645bc4f38b22b0713f5aebeb8820",
+      "url": "https://dumps.tadiphone.dev/dumps/tecno/tecno-lc6a/-/tree/19222a88f0d2645bc4f38b22b0713f5aebeb8820"
+    },
+    {
+      "item_id": "tecno/tecno-le6@sys_tssi_64_tecno-user-11-RP1A.200720.011-182944-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_tecno-user-11-RP1A.200720.011-182944-release-keys",
+        "commit": "a752beddfac169dcf3ff1ef8c53cca7ef9e7898c",
+        "committed_date": "2024-10-01T19:27:16.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-01T16:24:12.788Z",
+        "namespace_hint": "tecno",
+        "project_hint": "tecno-le6",
+        "project_id": 5441,
+        "project_path": "tecno/tecno-le6"
+      },
+      "revision": "a752beddfac169dcf3ff1ef8c53cca7ef9e7898c",
+      "url": "https://dumps.tadiphone.dev/dumps/tecno/tecno-le6/-/tree/a752beddfac169dcf3ff1ef8c53cca7ef9e7898c"
+    },
+    {
+      "item_id": "tecno/tecno-le7@sys_tssi_64_tecno-user-11-RP1A.200720.011-109284-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_tecno-user-11-RP1A.200720.011-109284-release-keys",
+        "commit": "9da13914386aa24e3ad4badd2a5280606e7563f1",
+        "committed_date": "2021-08-23T16:37:37.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T00:43:22.458Z",
+        "namespace_hint": "tecno",
+        "project_hint": "tecno-le7",
+        "project_id": 1446,
+        "project_path": "tecno/tecno-le7"
+      },
+      "revision": "9da13914386aa24e3ad4badd2a5280606e7563f1",
+      "url": "https://dumps.tadiphone.dev/dumps/tecno/tecno-le7/-/tree/9da13914386aa24e3ad4badd2a5280606e7563f1"
+    },
+    {
+      "item_id": "tecno/tecno-le8@sys_tssi_64_armv82_tecno-user-11-RP1A.200720.011-78516-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_tecno-user-11-RP1A.200720.011-78516-release-keys",
+        "commit": "57b496548507d4678ab2a378d19d6c95807a47db",
+        "committed_date": "2023-08-08T15:43:05.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-08-08T12:39:10.898Z",
+        "namespace_hint": "tecno",
+        "project_hint": "tecno-le8",
+        "project_id": 4391,
+        "project_path": "tecno/tecno-le8"
+      },
+      "revision": "57b496548507d4678ab2a378d19d6c95807a47db",
+      "url": "https://dumps.tadiphone.dev/dumps/tecno/tecno-le8/-/tree/57b496548507d4678ab2a378d19d6c95807a47db"
+    },
+    {
+      "item_id": "tecno/tecno-lh8n@sys_tssi_64_armv82_tecno-user-14-UP1A.231005.007-651371-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_tecno-user-14-UP1A.231005.007-651371-release-keys",
+        "commit": "2659782c74bdb14b1aba18c0963bbdab304888be",
+        "committed_date": "2024-09-04T14:49:01.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-11T11:14:22.362Z",
+        "namespace_hint": "tecno",
+        "project_hint": "tecno-lh8n",
+        "project_id": 5410,
+        "project_path": "tecno/tecno-lh8n"
+      },
+      "revision": "2659782c74bdb14b1aba18c0963bbdab304888be",
+      "url": "https://dumps.tadiphone.dev/dumps/tecno/tecno-lh8n/-/tree/2659782c74bdb14b1aba18c0963bbdab304888be"
+    },
+    {
+      "item_id": "tecno/tecno-lh8n@sys_tssi_64_armv82_tecno-user-14-UP1A.231005.007-677798-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_tecno-user-14-UP1A.231005.007-677798-release-keys",
+        "commit": "513b58a339176949967b087f2f2e35f03d238225",
+        "committed_date": "2024-09-11T09:47:37.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-11T11:14:22.362Z",
+        "namespace_hint": "tecno",
+        "project_hint": "tecno-lh8n",
+        "project_id": 5410,
+        "project_path": "tecno/tecno-lh8n"
+      },
+      "revision": "513b58a339176949967b087f2f2e35f03d238225",
+      "url": "https://dumps.tadiphone.dev/dumps/tecno/tecno-lh8n/-/tree/513b58a339176949967b087f2f2e35f03d238225"
+    },
+    {
+      "item_id": "tecno/tecno-lh8n@sys_tssi_64_armv82_tecno-user-14-UP1A.231005.007-698787-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_tecno-user-14-UP1A.231005.007-698787-release-keys",
+        "commit": "b5a91747f7af21c7c235c707183c49210141e6c1",
+        "committed_date": "2024-11-11T13:59:27.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-11-11T11:14:22.362Z",
+        "namespace_hint": "tecno",
+        "project_hint": "tecno-lh8n",
+        "project_id": 5410,
+        "project_path": "tecno/tecno-lh8n"
+      },
+      "revision": "b5a91747f7af21c7c235c707183c49210141e6c1",
+      "url": "https://dumps.tadiphone.dev/dumps/tecno/tecno-lh8n/-/tree/b5a91747f7af21c7c235c707183c49210141e6c1"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

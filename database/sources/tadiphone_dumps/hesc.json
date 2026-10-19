@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "hesc/sl8541e_1h10@sp9832e_1h10_gofu-user-9-PPR1.180610.011-43314-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sp9832e_1h10_gofu-user-9-PPR1.180610.011-43314-release-keys",
+        "commit": "2846ba203607fc977c8d7794b200dd1a6109307f",
+        "committed_date": "2025-01-11T19:58:51.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-11T18:34:31.588Z",
+        "namespace_hint": "hesc",
+        "project_hint": "sl8541e_1h10",
+        "project_id": 5543,
+        "project_path": "hesc/sl8541e_1h10"
+      },
+      "revision": "2846ba203607fc977c8d7794b200dd1a6109307f",
+      "url": "https://dumps.tadiphone.dev/dumps/hesc/sl8541e_1h10/-/tree/2846ba203607fc977c8d7794b200dd1a6109307f"
+    },
+    {
+      "item_id": "hesc/sl8541e_1h10@sp9832e_1h10_gofu-user-9-PPR1.180610.011-43314-release-keys--",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sp9832e_1h10_gofu-user-9-PPR1.180610.011-43314-release-keys--",
+        "commit": "7b25087a01b6e87328b97381018ceb0b86f927b8",
+        "committed_date": "2025-02-11T21:28:55.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-02-11T18:34:31.588Z",
+        "namespace_hint": "hesc",
+        "project_hint": "sl8541e_1h10",
+        "project_id": 5543,
+        "project_path": "hesc/sl8541e_1h10"
+      },
+      "revision": "7b25087a01b6e87328b97381018ceb0b86f927b8",
+      "url": "https://dumps.tadiphone.dev/dumps/hesc/sl8541e_1h10/-/tree/7b25087a01b6e87328b97381018ceb0b86f927b8"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

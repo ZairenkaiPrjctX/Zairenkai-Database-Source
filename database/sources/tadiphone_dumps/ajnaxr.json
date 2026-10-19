@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "ajnaxr/ajnaxr@qssi-user-12-SKQ1.221224.001-46-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.221224.001-46-test-keys",
+        "commit": "e371b1ddf87be9ed0a02cb44f21a9726a4cabf99",
+        "committed_date": "2023-10-11T01:08:33.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-10-10T22:06:23.340Z",
+        "namespace_hint": "ajnaxr",
+        "project_hint": "ajnaxr",
+        "project_id": 4533,
+        "project_path": "ajnaxr/ajnaxr"
+      },
+      "revision": "e371b1ddf87be9ed0a02cb44f21a9726a4cabf99",
+      "url": "https://dumps.tadiphone.dev/dumps/ajnaxr/ajnaxr/-/tree/e371b1ddf87be9ed0a02cb44f21a9726a4cabf99"
+    },
+    {
+      "item_id": "ajnaxr/kona@qssi-userdebug-12-SKQ1.221224.001-eng.sonals.20230919.014920-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-userdebug-12-SKQ1.221224.001-eng.sonals.20230919.014920-test-keys",
+        "commit": "8c12c7449811e3b261febc425cb109d5369228b0",
+        "committed_date": "2023-10-11T00:48:35.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-10-10T21:47:15.629Z",
+        "namespace_hint": "ajnaxr",
+        "project_hint": "kona",
+        "project_id": 4532,
+        "project_path": "ajnaxr/kona"
+      },
+      "revision": "8c12c7449811e3b261febc425cb109d5369228b0",
+      "url": "https://dumps.tadiphone.dev/dumps/ajnaxr/kona/-/tree/8c12c7449811e3b261febc425cb109d5369228b0"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

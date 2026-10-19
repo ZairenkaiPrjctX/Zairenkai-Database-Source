@@ -1,0 +1,400 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "vsmart/casuarina@casuarina_open-user-10-QKQ1.200311.002-V430A_OPN_U_B13_210315-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "casuarina_open-user-10-QKQ1.200311.002-V430A_OPN_U_B13_210315-release-keys",
+        "commit": "433a8f14775c7b39cacbb70220c77ef60e28bbb0",
+        "committed_date": "2021-03-26T17:05:35.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2024-10-12T15:41:49.302Z",
+        "namespace_hint": "vsmart",
+        "project_hint": "casuarina",
+        "project_id": 15,
+        "project_path": "vsmart/casuarina"
+      },
+      "revision": "433a8f14775c7b39cacbb70220c77ef60e28bbb0",
+      "url": "https://dumps.tadiphone.dev/dumps/vsmart/casuarina/-/tree/433a8f14775c7b39cacbb70220c77ef60e28bbb0"
+    },
+    {
+      "item_id": "vsmart/casuarina@casuarina_open-user-10-QKQ1.200311.002-V430A_OPN_U_B15_211112-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "casuarina_open-user-10-QKQ1.200311.002-V430A_OPN_U_B15_211112-release-keys",
+        "commit": "35809a968b31ce1ca54b2b4c368ca1e090ba0ae6",
+        "committed_date": "2022-01-28T08:27:36.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-10-12T15:41:49.302Z",
+        "namespace_hint": "vsmart",
+        "project_hint": "casuarina",
+        "project_id": 15,
+        "project_path": "vsmart/casuarina"
+      },
+      "revision": "35809a968b31ce1ca54b2b4c368ca1e090ba0ae6",
+      "url": "https://dumps.tadiphone.dev/dumps/vsmart/casuarina/-/tree/35809a968b31ce1ca54b2b4c368ca1e090ba0ae6"
+    },
+    {
+      "item_id": "vsmart/casuarina@casuarina_open-user-9-PKQ1.190601.001-V430A_OPEN_U_M7_20200526-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "casuarina_open-user-9-PKQ1.190601.001-V430A_OPEN_U_M7_20200526-release-keys",
+        "commit": "6bd9ddf224e3ea884935b04d79e098fd86bd636f",
+        "committed_date": "2024-10-12T18:37:08.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-12T15:41:49.302Z",
+        "namespace_hint": "vsmart",
+        "project_hint": "casuarina",
+        "project_id": 15,
+        "project_path": "vsmart/casuarina"
+      },
+      "revision": "6bd9ddf224e3ea884935b04d79e098fd86bd636f",
+      "url": "https://dumps.tadiphone.dev/dumps/vsmart/casuarina/-/tree/6bd9ddf224e3ea884935b04d79e098fd86bd636f"
+    },
+    {
+      "item_id": "vsmart/clover@clover_open-user-9-PPR1.180610.011-V230A_OPEN_U_M8_20210521-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "clover_open-user-9-PPR1.180610.011-V230A_OPEN_U_M8_20210521-release-keys",
+        "commit": "c88ad53e2fcc1fe1c39372e2c116b19e2f3181c5",
+        "committed_date": "2021-06-09T16:34:13.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T16:05:53.585Z",
+        "namespace_hint": "vsmart",
+        "project_hint": "clover",
+        "project_id": 1161,
+        "project_path": "vsmart/clover"
+      },
+      "revision": "c88ad53e2fcc1fe1c39372e2c116b19e2f3181c5",
+      "url": "https://dumps.tadiphone.dev/dumps/vsmart/clover/-/tree/c88ad53e2fcc1fe1c39372e2c116b19e2f3181c5"
+    },
+    {
+      "item_id": "vsmart/fivestar@fivestar_open-user-11-RP1A.200720.011-V352A_OPN_U_A5_211021-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "fivestar_open-user-11-RP1A.200720.011-V352A_OPN_U_A5_211021-release-keys",
+        "commit": "efd4e46d9800ab02446be690d1d05321a916b3e4",
+        "committed_date": "2022-01-28T08:52:21.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-05-23T21:26:44.236Z",
+        "namespace_hint": "vsmart",
+        "project_hint": "fivestar",
+        "project_id": 985,
+        "project_path": "vsmart/fivestar"
+      },
+      "revision": "efd4e46d9800ab02446be690d1d05321a916b3e4",
+      "url": "https://dumps.tadiphone.dev/dumps/vsmart/fivestar/-/tree/efd4e46d9800ab02446be690d1d05321a916b3e4"
+    },
+    {
+      "item_id": "vsmart/fivestar@fivestar_open-user-11-RP1A.200720.011-V352A_OPN_U_A6_211229-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "fivestar_open-user-11-RP1A.200720.011-V352A_OPN_U_A6_211229-release-keys",
+        "commit": "f980d18a0912d1a87a865c13edd4a631afb59cb0",
+        "committed_date": "2023-05-24T00:22:16.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-05-23T21:26:44.236Z",
+        "namespace_hint": "vsmart",
+        "project_hint": "fivestar",
+        "project_id": 985,
+        "project_path": "vsmart/fivestar"
+      },
+      "revision": "f980d18a0912d1a87a865c13edd4a631afb59cb0",
+      "url": "https://dumps.tadiphone.dev/dumps/vsmart/fivestar/-/tree/f980d18a0912d1a87a865c13edd4a631afb59cb0"
+    },
+    {
+      "item_id": "vsmart/jacaranda@jacaranda_open-user-10-QKQ1.200301.002-V740A_OPN_U_A2_200917-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "jacaranda_open-user-10-QKQ1.200301.002-V740A_OPN_U_A2_200917-release-keys",
+        "commit": "d66d7845e821fd02098f12ba7d49d055f39f639b",
+        "committed_date": "2021-07-03T18:51:49.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T16:38:37.861Z",
+        "namespace_hint": "vsmart",
+        "project_hint": "jacaranda",
+        "project_id": 1190,
+        "project_path": "vsmart/jacaranda"
+      },
+      "revision": "d66d7845e821fd02098f12ba7d49d055f39f639b",
+      "url": "https://dumps.tadiphone.dev/dumps/vsmart/jacaranda/-/tree/d66d7845e821fd02098f12ba7d49d055f39f639b"
+    },
+    {
+      "item_id": "vsmart/jacarandapro@jacarandapro_open-user-10-QKQ1.200301.002-V741A_OPN_U_A3_201110-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "jacarandapro_open-user-10-QKQ1.200301.002-V741A_OPN_U_A3_201110-release-keys",
+        "commit": "c045f8eeae7d2e1f564d5b995a1e0865ebfb1a89",
+        "committed_date": "2020-11-14T14:33:20.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T01:42:40.479Z",
+        "namespace_hint": "vsmart",
+        "project_hint": "jacarandapro",
+        "project_id": 1494,
+        "project_path": "vsmart/jacarandapro"
+      },
+      "revision": "c045f8eeae7d2e1f564d5b995a1e0865ebfb1a89",
+      "url": "https://dumps.tadiphone.dev/dumps/vsmart/jacarandapro/-/tree/c045f8eeae7d2e1f564d5b995a1e0865ebfb1a89"
+    },
+    {
+      "item_id": "vsmart/jacarandapro@jacarandapro_open-user-11-RKQ1.200928.002-V741A_OPN_U_B6_210419-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "jacarandapro_open-user-11-RKQ1.200928.002-V741A_OPN_U_B6_210419-release-keys",
+        "commit": "edf867b720c5e9fbe28d2219c2db2363a56bde75",
+        "committed_date": "2021-08-27T18:17:54.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T01:42:40.479Z",
+        "namespace_hint": "vsmart",
+        "project_hint": "jacarandapro",
+        "project_id": 1494,
+        "project_path": "vsmart/jacarandapro"
+      },
+      "revision": "edf867b720c5e9fbe28d2219c2db2363a56bde75",
+      "url": "https://dumps.tadiphone.dev/dumps/vsmart/jacarandapro/-/tree/edf867b720c5e9fbe28d2219c2db2363a56bde75"
+    },
+    {
+      "item_id": "vsmart/juniper@juniper_open-user-10-QKQ1.200603.001-V441A_OPN_U_A3_201022-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "juniper_open-user-10-QKQ1.200603.001-V441A_OPN_U_A3_201022-release-keys",
+        "commit": "78280d0aee3aceea480422b129c2db329cdecd7b",
+        "committed_date": "2020-11-05T12:59:20.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T08:14:18.859Z",
+        "namespace_hint": "vsmart",
+        "project_hint": "juniper",
+        "project_id": 1594,
+        "project_path": "vsmart/juniper"
+      },
+      "revision": "78280d0aee3aceea480422b129c2db329cdecd7b",
+      "url": "https://dumps.tadiphone.dev/dumps/vsmart/juniper/-/tree/78280d0aee3aceea480422b129c2db329cdecd7b"
+    },
+    {
+      "item_id": "vsmart/juniper@juniper_open-user-10-QKQ1.200603.001-V441A_OPN_U_A5_201208-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "juniper_open-user-10-QKQ1.200603.001-V441A_OPN_U_A5_201208-release-keys",
+        "commit": "52f45ffbb49c58963fc2ff8a544079331a2e44d2",
+        "committed_date": "2020-12-22T15:44:10.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:14:18.859Z",
+        "namespace_hint": "vsmart",
+        "project_hint": "juniper",
+        "project_id": 1594,
+        "project_path": "vsmart/juniper"
+      },
+      "revision": "52f45ffbb49c58963fc2ff8a544079331a2e44d2",
+      "url": "https://dumps.tadiphone.dev/dumps/vsmart/juniper/-/tree/52f45ffbb49c58963fc2ff8a544079331a2e44d2"
+    },
+    {
+      "item_id": "vsmart/juniper@juniper_open-user-11-RKQ1.201105.002-V441A_OPN_U_B8_210521-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "juniper_open-user-11-RKQ1.201105.002-V441A_OPN_U_B8_210521-release-keys",
+        "commit": "143e45050a316a12e237aa1415ece823d6a89076",
+        "committed_date": "2022-01-28T08:41:09.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:14:18.859Z",
+        "namespace_hint": "vsmart",
+        "project_hint": "juniper",
+        "project_id": 1594,
+        "project_path": "vsmart/juniper"
+      },
+      "revision": "143e45050a316a12e237aa1415ece823d6a89076",
+      "url": "https://dumps.tadiphone.dev/dumps/vsmart/juniper/-/tree/143e45050a316a12e237aa1415ece823d6a89076"
+    },
+    {
+      "item_id": "vsmart/pq4001@jeice8940_vin-user-8.1.0-OPM1.171019.026-1665-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "jeice8940_vin-user-8.1.0-OPM1.171019.026-1665-release-keys",
+        "commit": "e7ff67589cd6ee2811325e461790e0c9bbf09ceb",
+        "committed_date": "2020-05-14T20:00:40.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T01:49:04.544Z",
+        "namespace_hint": "vsmart",
+        "project_hint": "pq4001",
+        "project_id": 1501,
+        "project_path": "vsmart/pq4001"
+      },
+      "revision": "e7ff67589cd6ee2811325e461790e0c9bbf09ceb",
+      "url": "https://dumps.tadiphone.dev/dumps/vsmart/pq4001/-/tree/e7ff67589cd6ee2811325e461790e0c9bbf09ceb"
+    },
+    {
+      "item_id": "vsmart/pq4001@jeice8940_vin-user-9-PKQ1.190414.001-64-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "jeice8940_vin-user-9-PKQ1.190414.001-64-release-keys",
+        "commit": "f800a40f8a00101777f49a41557a9746d9a02663",
+        "committed_date": "2020-05-14T22:48:26.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T01:49:04.544Z",
+        "namespace_hint": "vsmart",
+        "project_hint": "pq4001",
+        "project_id": 1501,
+        "project_path": "vsmart/pq4001"
+      },
+      "revision": "f800a40f8a00101777f49a41557a9746d9a02663",
+      "url": "https://dumps.tadiphone.dev/dumps/vsmart/pq4001/-/tree/f800a40f8a00101777f49a41557a9746d9a02663"
+    },
+    {
+      "item_id": "vsmart/pq4002@towa_vin-user-8.1.0-OPM1.171019.026-452-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "towa_vin-user-8.1.0-OPM1.171019.026-452-release-keys",
+        "commit": "d18167ff02671fdc3374ea0640b067e4d83056ab",
+        "committed_date": "2020-05-14T19:57:54.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T01:03:55.896Z",
+        "namespace_hint": "vsmart",
+        "project_hint": "pq4002",
+        "project_id": 1470,
+        "project_path": "vsmart/pq4002"
+      },
+      "revision": "d18167ff02671fdc3374ea0640b067e4d83056ab",
+      "url": "https://dumps.tadiphone.dev/dumps/vsmart/pq4002/-/tree/d18167ff02671fdc3374ea0640b067e4d83056ab"
+    },
+    {
+      "item_id": "vsmart/pq4002@towa_vin-user-9-PKQ1.190414.001-112-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "towa_vin-user-9-PKQ1.190414.001-112-release-keys",
+        "commit": "40fd8d599d01892c3c5538225cb85b4d562929b0",
+        "committed_date": "2020-05-14T20:01:26.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T01:03:55.896Z",
+        "namespace_hint": "vsmart",
+        "project_hint": "pq4002",
+        "project_id": 1470,
+        "project_path": "vsmart/pq4002"
+      },
+      "revision": "40fd8d599d01892c3c5538225cb85b4d562929b0",
+      "url": "https://dumps.tadiphone.dev/dumps/vsmart/pq4002/-/tree/40fd8d599d01892c3c5538225cb85b4d562929b0"
+    },
+    {
+      "item_id": "vsmart/pq6001@active1_vin-user-9-PKQ1.190118.001-62-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "active1_vin-user-9-PKQ1.190118.001-62-release-keys",
+        "commit": "a0a78e8b9da13680c443a1f0d53c3cc6b62bd0df",
+        "committed_date": "2020-02-19T15:42:52.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T00:59:39.757Z",
+        "namespace_hint": "vsmart",
+        "project_hint": "pq6001",
+        "project_id": 1462,
+        "project_path": "vsmart/pq6001"
+      },
+      "revision": "a0a78e8b9da13680c443a1f0d53c3cc6b62bd0df",
+      "url": "https://dumps.tadiphone.dev/dumps/vsmart/pq6001/-/tree/a0a78e8b9da13680c443a1f0d53c3cc6b62bd0df"
+    },
+    {
+      "item_id": "vsmart/pq6002@zero6pro_vin-user-9-PKQ1.190118.001-69-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "zero6pro_vin-user-9-PKQ1.190118.001-69-release-keys",
+        "commit": "0dd0dd2fdfaf0df9440b0065d9ea631135ecd3b0",
+        "committed_date": "2020-05-14T22:51:17.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T06:26:37.737Z",
+        "namespace_hint": "vsmart",
+        "project_hint": "pq6002",
+        "project_id": 1509,
+        "project_path": "vsmart/pq6002"
+      },
+      "revision": "0dd0dd2fdfaf0df9440b0065d9ea631135ecd3b0",
+      "url": "https://dumps.tadiphone.dev/dumps/vsmart/pq6002/-/tree/0dd0dd2fdfaf0df9440b0065d9ea631135ecd3b0"
+    },
+    {
+      "item_id": "vsmart/rice@rice_vtt-user-10-QKQ1.200512.002-V140A_VTT_U_A2_201027-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "rice_vtt-user-10-QKQ1.200512.002-V140A_VTT_U_A2_201027-release-keys",
+        "commit": "a122b212e4346271993f8daaff33fe82fd0325dd",
+        "committed_date": "2021-01-14T13:27:57.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T19:25:01.519Z",
+        "namespace_hint": "vsmart",
+        "project_hint": "rice",
+        "project_id": 1269,
+        "project_path": "vsmart/rice"
+      },
+      "revision": "a122b212e4346271993f8daaff33fe82fd0325dd",
+      "url": "https://dumps.tadiphone.dev/dumps/vsmart/rice/-/tree/a122b212e4346271993f8daaff33fe82fd0325dd"
+    },
+    {
+      "item_id": "vsmart/v220a@V220A_open-user-8.1.0-O11019-V220A_OPEN_U_M10_20210222-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "V220A_open-user-8.1.0-O11019-V220A_OPEN_U_M10_20210222-release-keys",
+        "commit": "1060be8fcfc37bf0bb74bf71df6d1bad4f3a5860",
+        "committed_date": "2021-03-08T20:05:14.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T01:03:56.011Z",
+        "namespace_hint": "vsmart",
+        "project_hint": "v220a",
+        "project_id": 2271,
+        "project_path": "vsmart/v220a"
+      },
+      "revision": "1060be8fcfc37bf0bb74bf71df6d1bad4f3a5860",
+      "url": "https://dumps.tadiphone.dev/dumps/vsmart/v220a/-/tree/1060be8fcfc37bf0bb74bf71df6d1bad4f3a5860"
+    },
+    {
+      "item_id": "vsmart/v220a@V220A_open-user-8.1.0-O11019-V220A_OPEN_U_M5_20200206-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "V220A_open-user-8.1.0-O11019-V220A_OPEN_U_M5_20200206-release-keys",
+        "commit": "454bff4d8fedff808db6d06acd1963c4d568d03e",
+        "committed_date": "2020-03-18T15:37:35.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-17T01:03:56.011Z",
+        "namespace_hint": "vsmart",
+        "project_hint": "v220a",
+        "project_id": 2271,
+        "project_path": "vsmart/v220a"
+      },
+      "revision": "454bff4d8fedff808db6d06acd1963c4d568d03e",
+      "url": "https://dumps.tadiphone.dev/dumps/vsmart/v220a/-/tree/454bff4d8fedff808db6d06acd1963c4d568d03e"
+    },
+    {
+      "item_id": "vsmart/v620a@V620A_open-user-10-QKQ1.191215.002-V620A_OPN_U_B14_210717-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "V620A_open-user-10-QKQ1.191215.002-V620A_OPN_U_B14_210717-release-keys",
+        "commit": "83287fd978322d65960601c654330d00120651f6",
+        "committed_date": "2021-09-01T19:29:39.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T13:35:45.216Z",
+        "namespace_hint": "vsmart",
+        "project_hint": "v620a",
+        "project_id": 1042,
+        "project_path": "vsmart/v620a"
+      },
+      "revision": "83287fd978322d65960601c654330d00120651f6",
+      "url": "https://dumps.tadiphone.dev/dumps/vsmart/v620a/-/tree/83287fd978322d65960601c654330d00120651f6"
+    },
+    {
+      "item_id": "vsmart/willowpro@willowpro_open-user-11-RP1A.200720.011-V341A_OPN_U_B6_210521-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "willowpro_open-user-11-RP1A.200720.011-V341A_OPN_U_B6_210521-release-keys",
+        "commit": "3fb86e459e0f1f3a120fe688e511f371336fadf6",
+        "committed_date": "2022-09-17T07:12:27.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-09-17T04:10:37.482Z",
+        "namespace_hint": "vsmart",
+        "project_hint": "willowpro",
+        "project_id": 2435,
+        "project_path": "vsmart/willowpro"
+      },
+      "revision": "3fb86e459e0f1f3a120fe688e511f371336fadf6",
+      "url": "https://dumps.tadiphone.dev/dumps/vsmart/willowpro/-/tree/3fb86e459e0f1f3a120fe688e511f371336fadf6"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

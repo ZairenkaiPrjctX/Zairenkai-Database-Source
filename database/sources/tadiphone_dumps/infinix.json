@@ -1,0 +1,946 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "_project/4245",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": null,
+        "project_id": 4245,
+        "project_path": "infinix/infinix-x670",
+        "reason": "repository_not_readable"
+      },
+      "revision": null,
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x670"
+    },
+    {
+      "item_id": "_project/4573",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": null,
+        "project_id": 4573,
+        "project_path": "infinix/infinix-x666b",
+        "reason": "repository_not_readable"
+      },
+      "revision": null,
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x666b"
+    },
+    {
+      "item_id": "_project/5419",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": null,
+        "project_id": 5419,
+        "project_path": "infinix/infinix-x6531",
+        "reason": "repository_not_readable"
+      },
+      "revision": null,
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x6531"
+    },
+    {
+      "item_id": "infinix/infinix-x650@full_x650_h8029-user-8.1.0-O11019-1565806766-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_x650_h8029-user-8.1.0-O11019-1565806766-release-keys",
+        "commit": "d4f8cefaba6b5824131c4844f96d0c7b7aad32ea",
+        "committed_date": "2020-03-09T05:00:37.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T18:24:20.088Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x650",
+        "project_id": 1245,
+        "project_path": "infinix/infinix-x650"
+      },
+      "revision": "d4f8cefaba6b5824131c4844f96d0c7b7aad32ea",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x650/-/tree/d4f8cefaba6b5824131c4844f96d0c7b7aad32ea"
+    },
+    {
+      "item_id": "infinix/infinix-x650c@full_x650c_h626-user-9-PPR1.180610.011-111759-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_x650c_h626-user-9-PPR1.180610.011-111759-release-keys",
+        "commit": "5f738f7f03238e38cde237636d77d86dbc44ba93",
+        "committed_date": "2024-07-09T11:46:21.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-07-09T08:51:17.308Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x650c",
+        "project_id": 1615,
+        "project_path": "infinix/infinix-x650c"
+      },
+      "revision": "5f738f7f03238e38cde237636d77d86dbc44ba93",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x650c/-/tree/5f738f7f03238e38cde237636d77d86dbc44ba93"
+    },
+    {
+      "item_id": "infinix/infinix-x650c@full_x650c_h626-user-9-PPR1.180610.011-38028-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_x650c_h626-user-9-PPR1.180610.011-38028-release-keys",
+        "commit": "e503f586fc77f380e0d1b984932ee001925c6288",
+        "committed_date": "2019-09-13T09:13:08.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2024-07-09T08:51:17.308Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x650c",
+        "project_id": 1615,
+        "project_path": "infinix/infinix-x650c"
+      },
+      "revision": "e503f586fc77f380e0d1b984932ee001925c6288",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x650c/-/tree/e503f586fc77f380e0d1b984932ee001925c6288"
+    },
+    {
+      "item_id": "infinix/infinix-x650d@full_x650d_h6113-user-9-PPR1.180610.011-57150-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_x650d_h6113-user-9-PPR1.180610.011-57150-release-keys",
+        "commit": "e072cd2760ce5c75850f41b5e3f58ac8c2e88e97",
+        "committed_date": "2020-01-23T09:35:47.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T09:23:30.585Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x650d",
+        "project_id": 1645,
+        "project_path": "infinix/infinix-x650d"
+      },
+      "revision": "e072cd2760ce5c75850f41b5e3f58ac8c2e88e97",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x650d/-/tree/e072cd2760ce5c75850f41b5e3f58ac8c2e88e97"
+    },
+    {
+      "item_id": "infinix/infinix-x6515@sys_tssi_64_infinix-user-12-SP1A.210812.016-196998-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_infinix-user-12-SP1A.210812.016-196998-release-keys",
+        "commit": "ed80a501acf8f115fe5d2432bab172e840e91b84",
+        "committed_date": "2024-06-10T20:16:24.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-06-10T17:13:14.299Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x6515",
+        "project_id": 5305,
+        "project_path": "infinix/infinix-x6515"
+      },
+      "revision": "ed80a501acf8f115fe5d2432bab172e840e91b84",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x6515/-/tree/ed80a501acf8f115fe5d2432bab172e840e91b84"
+    },
+    {
+      "item_id": "infinix/infinix-x6525b@sys_tssi_32_ago_infinix-user-13-TP1A.220624.014-568921-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_32_ago_infinix-user-13-TP1A.220624.014-568921-release-keys",
+        "commit": "acf87428993eef927c5f41a33b22689562163a59",
+        "committed_date": "2025-02-16T19:30:59.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-02-16T16:36:20.600Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x6525b",
+        "project_id": 5439,
+        "project_path": "infinix/infinix-x6525b"
+      },
+      "revision": "acf87428993eef927c5f41a33b22689562163a59",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x6525b/-/tree/acf87428993eef927c5f41a33b22689562163a59"
+    },
+    {
+      "item_id": "infinix/infinix-x6525b@sys_tssi_32_ago_infinix-user-13-TP1A.220624.014-668599-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_32_ago_infinix-user-13-TP1A.220624.014-668599-release-keys",
+        "commit": "484b1f08660d0bab319824ee6b6b28e9f54860b3",
+        "committed_date": "2024-10-01T08:43:00.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-16T16:36:20.600Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x6525b",
+        "project_id": 5439,
+        "project_path": "infinix/infinix-x6525b"
+      },
+      "revision": "484b1f08660d0bab319824ee6b6b28e9f54860b3",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x6525b/-/tree/484b1f08660d0bab319824ee6b6b28e9f54860b3"
+    },
+    {
+      "item_id": "infinix/infinix-x6528@X6528-user-13-TP1A.220624.014-472-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "X6528-user-13-TP1A.220624.014-472-release-keys",
+        "commit": "00e389f700fb93ba14788a64e0c5a3ecc2fc68af",
+        "committed_date": "2024-09-22T13:20:32.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-09-22T10:15:11.662Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x6528",
+        "project_id": 5421,
+        "project_path": "infinix/infinix-x6528"
+      },
+      "revision": "00e389f700fb93ba14788a64e0c5a3ecc2fc68af",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x6528/-/tree/00e389f700fb93ba14788a64e0c5a3ecc2fc68af"
+    },
+    {
+      "item_id": "infinix/infinix-x6531b@sys_tssi_64_infinix-user-14-UP1A.231005.007-695168-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_infinix-user-14-UP1A.231005.007-695168-release-keys",
+        "commit": "5cbfb6d249268e09142d5ac0ae5e4415d6daabb9",
+        "committed_date": "2025-02-02T01:29:01.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-02-01T22:20:32.281Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x6531b",
+        "project_id": 5558,
+        "project_path": "infinix/infinix-x6531b"
+      },
+      "revision": "5cbfb6d249268e09142d5ac0ae5e4415d6daabb9",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x6531b/-/tree/5cbfb6d249268e09142d5ac0ae5e4415d6daabb9"
+    },
+    {
+      "item_id": "infinix/infinix-x6532@sys_tssi_32_ago_infinix-user-14-UP1A.231005.007-683107-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_32_ago_infinix-user-14-UP1A.231005.007-683107-release-keys",
+        "commit": "52f7f2f5395b0fb8e33a2b4d962f1913615fd097",
+        "committed_date": "2024-09-21T12:58:02.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-09-21T09:53:20.248Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x6532",
+        "project_id": 5420,
+        "project_path": "infinix/infinix-x6532"
+      },
+      "revision": "52f7f2f5395b0fb8e33a2b4d962f1913615fd097",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x6532/-/tree/52f7f2f5395b0fb8e33a2b4d962f1913615fd097"
+    },
+    {
+      "item_id": "infinix/infinix-x655f@full_x655f_h6211-user-10-QP1A.190711.020-3471-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_x655f_h6211-user-10-QP1A.190711.020-3471-release-keys",
+        "commit": "9b10b1046fb7ff3668bacbcb3d5a1b26e63f4f0e",
+        "committed_date": "2020-03-06T05:26:11.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T01:04:36.444Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x655f",
+        "project_id": 1471,
+        "project_path": "infinix/infinix-x655f"
+      },
+      "revision": "9b10b1046fb7ff3668bacbcb3d5a1b26e63f4f0e",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x655f/-/tree/9b10b1046fb7ff3668bacbcb3d5a1b26e63f4f0e"
+    },
+    {
+      "item_id": "infinix/infinix-x657b@sys_tssi_32_ago_infinix_q_ota-user-11-RP1A.200720.011-164722-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_32_ago_infinix_q_ota-user-11-RP1A.200720.011-164722-release-keys",
+        "commit": "cb23ee42acb068aeba777aeb6118a347885a33b2",
+        "committed_date": "2023-12-08T14:46:16.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-12-08T11:44:29.259Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x657b",
+        "project_id": 4649,
+        "project_path": "infinix/infinix-x657b"
+      },
+      "revision": "cb23ee42acb068aeba777aeb6118a347885a33b2",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x657b/-/tree/cb23ee42acb068aeba777aeb6118a347885a33b2"
+    },
+    {
+      "item_id": "infinix/infinix-x657c@full_x657c_h6117-user-10-QP1A.190711.020-62333-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_x657c_h6117-user-10-QP1A.190711.020-62333-release-keys",
+        "commit": "8613c4e01770d20b404992292953b07b6115210c",
+        "committed_date": "2023-11-21T19:49:09.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-11-21T16:47:33.600Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x657c",
+        "project_id": 4600,
+        "project_path": "infinix/infinix-x657c"
+      },
+      "revision": "8613c4e01770d20b404992292953b07b6115210c",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x657c/-/tree/8613c4e01770d20b404992292953b07b6115210c"
+    },
+    {
+      "item_id": "infinix/infinix-x662@sys_tssi_64_infinix-user-11-RP1A.200720.011-278764-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_infinix-user-11-RP1A.200720.011-278764-release-keys",
+        "commit": "3553a1e1bcbc060af9230525ebc62286cdae36a6",
+        "committed_date": "2024-08-05T23:08:11.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-08-05T20:04:53.583Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x662",
+        "project_id": 5367,
+        "project_path": "infinix/infinix-x662"
+      },
+      "revision": "3553a1e1bcbc060af9230525ebc62286cdae36a6",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x662/-/tree/3553a1e1bcbc060af9230525ebc62286cdae36a6"
+    },
+    {
+      "item_id": "infinix/infinix-x663c@sys_tssi_64_infinix-user-12-SP1A.210812.016-176303-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_infinix-user-12-SP1A.210812.016-176303-release-keys",
+        "commit": "54b246d870079169afa54f876d1425e9e437b323",
+        "committed_date": "2024-07-20T21:28:59.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-07-20T18:37:56.031Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x663c",
+        "project_id": 4351,
+        "project_path": "infinix/infinix-x663c"
+      },
+      "revision": "54b246d870079169afa54f876d1425e9e437b323",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x663c/-/tree/54b246d870079169afa54f876d1425e9e437b323"
+    },
+    {
+      "item_id": "infinix/infinix-x663c@sys_tssi_64_infinix-user-12-SP1A.210812.016-289512-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_infinix-user-12-SP1A.210812.016-289512-release-keys",
+        "commit": "6aad5a8fd1039ac271a28c7d586dd2a7f30c9e65",
+        "committed_date": "2023-07-08T14:30:49.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-07-20T18:37:56.031Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x663c",
+        "project_id": 4351,
+        "project_path": "infinix/infinix-x663c"
+      },
+      "revision": "6aad5a8fd1039ac271a28c7d586dd2a7f30c9e65",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x663c/-/tree/6aad5a8fd1039ac271a28c7d586dd2a7f30c9e65"
+    },
+    {
+      "item_id": "infinix/infinix-x663d@sys_tssi_64_infinix-user-11-RP1A.200720.011-230283-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_infinix-user-11-RP1A.200720.011-230283-release-keys",
+        "commit": "9849b93aebb66ddccdeb7b7df291f39f6c3cd408",
+        "committed_date": "2024-01-17T23:15:58.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-01-17T20:12:44.035Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x663d",
+        "project_id": 4689,
+        "project_path": "infinix/infinix-x663d"
+      },
+      "revision": "9849b93aebb66ddccdeb7b7df291f39f6c3cd408",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x663d/-/tree/9849b93aebb66ddccdeb7b7df291f39f6c3cd408"
+    },
+    {
+      "item_id": "infinix/infinix-x665b@sys_tssi_64_infinix-user-11-RP1A.200720.011-267247-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_infinix-user-11-RP1A.200720.011-267247-release-keys",
+        "commit": "43cfa3875c1b9f18cdb23998ef21e31d2764c1d6",
+        "committed_date": "2023-01-17T20:04:55.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-01-17T17:02:09.230Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x665b",
+        "project_id": 4033,
+        "project_path": "infinix/infinix-x665b"
+      },
+      "revision": "43cfa3875c1b9f18cdb23998ef21e31d2764c1d6",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x665b/-/tree/43cfa3875c1b9f18cdb23998ef21e31d2764c1d6"
+    },
+    {
+      "item_id": "infinix/infinix-x666@sys_tssi_64_infinix-user-12-SP1A.210812.016-320714-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_infinix-user-12-SP1A.210812.016-320714-release-keys",
+        "commit": "7c98962db234a9f02f8f7316ce30fdd8b55bc86a",
+        "committed_date": "2024-04-01T02:58:31.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-31T23:54:53.341Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x666",
+        "project_id": 5208,
+        "project_path": "infinix/infinix-x666"
+      },
+      "revision": "7c98962db234a9f02f8f7316ce30fdd8b55bc86a",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x666/-/tree/7c98962db234a9f02f8f7316ce30fdd8b55bc86a"
+    },
+    {
+      "item_id": "infinix/infinix-x669d@X669D-user-12-SP1A.210812.016-155-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "X669D-user-12-SP1A.210812.016-155-release-keys",
+        "commit": "b451d04cde4af22fe79f1f7616a7ed346ae2b00e",
+        "committed_date": "2024-05-12T16:52:35.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-05-12T13:49:17.332Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x669d",
+        "project_id": 5268,
+        "project_path": "infinix/infinix-x669d"
+      },
+      "revision": "b451d04cde4af22fe79f1f7616a7ed346ae2b00e",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x669d/-/tree/b451d04cde4af22fe79f1f7616a7ed346ae2b00e"
+    },
+    {
+      "item_id": "infinix/infinix-x6710@sys_tssi_64_armv82_infinix-user-13-TP1A.220624.014-217628-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_infinix-user-13-TP1A.220624.014-217628-release-keys",
+        "commit": "4893b17f54607a9a3f1300a940368e45927378dc",
+        "committed_date": "2024-02-24T16:38:58.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-02-24T13:52:47.073Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x6710",
+        "project_id": 4560,
+        "project_path": "infinix/infinix-x6710"
+      },
+      "revision": "4893b17f54607a9a3f1300a940368e45927378dc",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x6710/-/tree/4893b17f54607a9a3f1300a940368e45927378dc"
+    },
+    {
+      "item_id": "infinix/infinix-x6710@sys_tssi_64_armv82_infinix-user-13-TP1A.220624.014-421102-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_infinix-user-13-TP1A.220624.014-421102-release-keys",
+        "commit": "cc11adae2eb939b340f277ab50fd2e2bb323b90b",
+        "committed_date": "2023-10-25T00:54:43.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-02-24T13:52:47.073Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x6710",
+        "project_id": 4560,
+        "project_path": "infinix/infinix-x6710"
+      },
+      "revision": "cc11adae2eb939b340f277ab50fd2e2bb323b90b",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x6710/-/tree/cc11adae2eb939b340f277ab50fd2e2bb323b90b"
+    },
+    {
+      "item_id": "infinix/infinix-x6711@sys_tssi_64_armv82_infinix-user-13-TP1A.220624.014-639167-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_infinix-user-13-TP1A.220624.014-639167-release-keys",
+        "commit": "a18f11b5cce14dc014c9eff00dee125b65f7dca9",
+        "committed_date": "2024-10-25T10:48:24.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-10-25T15:15:55.419Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x6711",
+        "project_id": 5472,
+        "project_path": "infinix/infinix-x6711"
+      },
+      "revision": "a18f11b5cce14dc014c9eff00dee125b65f7dca9",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x6711/-/tree/a18f11b5cce14dc014c9eff00dee125b65f7dca9"
+    },
+    {
+      "item_id": "infinix/infinix-x6711@sys_tssi_64_armv82_infinix-user-13-TP1A.220624.014-692057-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_infinix-user-13-TP1A.220624.014-692057-release-keys",
+        "commit": "4617ec26015c818bc6aa16c84ce2c04b915d48d5",
+        "committed_date": "2024-10-25T14:08:36.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-10-25T15:15:55.419Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x6711",
+        "project_id": 5472,
+        "project_path": "infinix/infinix-x6711"
+      },
+      "revision": "4617ec26015c818bc6aa16c84ce2c04b915d48d5",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x6711/-/tree/4617ec26015c818bc6aa16c84ce2c04b915d48d5"
+    },
+    {
+      "item_id": "infinix/infinix-x6711@sys_tssi_64_armv82_infinix-user-14-UP1A.231005.007-677083-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_infinix-user-14-UP1A.231005.007-677083-release-keys",
+        "commit": "a7fa854e81c827365a363408a21ff264dac7099b",
+        "committed_date": "2024-10-25T18:02:16.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-25T15:15:55.419Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x6711",
+        "project_id": 5472,
+        "project_path": "infinix/infinix-x6711"
+      },
+      "revision": "a7fa854e81c827365a363408a21ff264dac7099b",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x6711/-/tree/a7fa854e81c827365a363408a21ff264dac7099b"
+    },
+    {
+      "item_id": "infinix/infinix-x6739@sys_tssi_64_armv82_infinix-user-13-TP1A.220624.014-537496-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_infinix-user-13-TP1A.220624.014-537496-release-keys",
+        "commit": "63af24636391fbb91aa03f6b2f66593cf1fe1bd5",
+        "committed_date": "2024-03-18T13:28:24.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-15T15:27:33.714Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x6739",
+        "project_id": 5184,
+        "project_path": "infinix/infinix-x6739"
+      },
+      "revision": "63af24636391fbb91aa03f6b2f66593cf1fe1bd5",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x6739/-/tree/63af24636391fbb91aa03f6b2f66593cf1fe1bd5"
+    },
+    {
+      "item_id": "infinix/infinix-x6739@sys_tssi_64_armv82_infinix-user-14-UP1A.231005.007-722992-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_infinix-user-14-UP1A.231005.007-722992-release-keys",
+        "commit": "f1fbd334d8dabb4d31d69a8a404dd1a3062b4145",
+        "committed_date": "2024-11-15T18:15:56.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-11-15T15:27:33.714Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x6739",
+        "project_id": 5184,
+        "project_path": "infinix/infinix-x6739"
+      },
+      "revision": "f1fbd334d8dabb4d31d69a8a404dd1a3062b4145",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x6739/-/tree/f1fbd334d8dabb4d31d69a8a404dd1a3062b4145"
+    },
+    {
+      "item_id": "infinix/infinix-x680d@full_x680d_h6116-user-10-QP1A.190711.020-21024-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_x680d_h6116-user-10-QP1A.190711.020-21024-release-keys",
+        "commit": "ab3d131afe66b4ba47123ab16876768c9bde92f6",
+        "committed_date": "2022-08-09T17:47:41.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-08-09T14:45:52.632Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x680d",
+        "project_id": 2389,
+        "project_path": "infinix/infinix-x680d"
+      },
+      "revision": "ab3d131afe66b4ba47123ab16876768c9bde92f6",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x680d/-/tree/ab3d131afe66b4ba47123ab16876768c9bde92f6"
+    },
+    {
+      "item_id": "infinix/infinix-x6812@sys_tssi_64_infinix-user-11-RP1A.200720.011-278760-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_infinix-user-11-RP1A.200720.011-278760-release-keys",
+        "commit": "29fed21fed49a0fb8cd8687d92789f0bed90f800",
+        "committed_date": "2023-06-24T17:35:18.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-07-04T10:55:46.494Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x6812",
+        "project_id": 4340,
+        "project_path": "infinix/infinix-x6812"
+      },
+      "revision": "29fed21fed49a0fb8cd8687d92789f0bed90f800",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x6812/-/tree/29fed21fed49a0fb8cd8687d92789f0bed90f800"
+    },
+    {
+      "item_id": "infinix/infinix-x6812@sys_tssi_64_infinix-user-11-RP1A.200720.011-63737-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_infinix-user-11-RP1A.200720.011-63737-release-keys",
+        "commit": "1c2c0b559759e7a3a213a5b588dc43e5a0182d40",
+        "committed_date": "2023-07-04T13:47:33.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-07-04T10:55:46.494Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x6812",
+        "project_id": 4340,
+        "project_path": "infinix/infinix-x6812"
+      },
+      "revision": "1c2c0b559759e7a3a213a5b588dc43e5a0182d40",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x6812/-/tree/1c2c0b559759e7a3a213a5b588dc43e5a0182d40"
+    },
+    {
+      "item_id": "infinix/infinix-x6815d@sys_tssi_64_armv82_infinix-user-13-TP1A.220624.014-379072-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_infinix-user-13-TP1A.220624.014-379072-release-keys",
+        "commit": "552b27a53b771dcac7b011c68391b921e58a11b6",
+        "committed_date": "2023-10-04T01:02:41.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-22T09:43:22.220Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x6815d",
+        "project_id": 4502,
+        "project_path": "infinix/infinix-x6815d"
+      },
+      "revision": "552b27a53b771dcac7b011c68391b921e58a11b6",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x6815d/-/tree/552b27a53b771dcac7b011c68391b921e58a11b6"
+    },
+    {
+      "item_id": "infinix/infinix-x6815d@sys_tssi_64_armv82_infinix-user-13-TP1A.220624.014-608600-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_infinix-user-13-TP1A.220624.014-608600-release-keys",
+        "commit": "5bc1575a2c07fbc40fce152c0d085f73d09308c3",
+        "committed_date": "2025-02-22T12:31:39.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-02-22T09:43:22.220Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x6815d",
+        "project_id": 4502,
+        "project_path": "infinix/infinix-x6815d"
+      },
+      "revision": "5bc1575a2c07fbc40fce152c0d085f73d09308c3",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x6815d/-/tree/5bc1575a2c07fbc40fce152c0d085f73d09308c3"
+    },
+    {
+      "item_id": "infinix/infinix-x6816d@X6816D-ST683JKR-R-OP-230411V10",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "X6816D-ST683JKR-R-OP-230411V10",
+        "commit": "2b10b850ac8db461d6316bfe23f81419c9e0a3bc",
+        "committed_date": "2023-12-08T15:06:31.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-12-08T12:02:53.498Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x6816d",
+        "project_id": 4651,
+        "project_path": "infinix/infinix-x6816d"
+      },
+      "revision": "2b10b850ac8db461d6316bfe23f81419c9e0a3bc",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x6816d/-/tree/2b10b850ac8db461d6316bfe23f81419c9e0a3bc"
+    },
+    {
+      "item_id": "infinix/infinix-x6820@sys_tssi_64_armv82_infinix-user-13-TP1A.220624.014-396124-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_infinix-user-13-TP1A.220624.014-396124-release-keys",
+        "commit": "d10f165ca4996286fefe1e128aae09ef9f715416",
+        "committed_date": "2024-04-01T02:36:33.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-31T23:31:44.975Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x6820",
+        "project_id": 5207,
+        "project_path": "infinix/infinix-x6820"
+      },
+      "revision": "d10f165ca4996286fefe1e128aae09ef9f715416",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x6820/-/tree/d10f165ca4996286fefe1e128aae09ef9f715416"
+    },
+    {
+      "item_id": "infinix/infinix-x6826@sys_tssi_64_infinix-user-12-SP1A.210812.016-272605-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_infinix-user-12-SP1A.210812.016-272605-release-keys",
+        "commit": "8da4d728c52c38d6195dffee41b15d6e582a735f",
+        "committed_date": "2023-08-01T11:57:45.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-08-01T08:53:48.351Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x6826",
+        "project_id": 4381,
+        "project_path": "infinix/infinix-x6826"
+      },
+      "revision": "8da4d728c52c38d6195dffee41b15d6e582a735f",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x6826/-/tree/8da4d728c52c38d6195dffee41b15d6e582a735f"
+    },
+    {
+      "item_id": "infinix/infinix-x6827@sys_tssi_64_infinix-user-12-SP1A.210812.016-289671-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_infinix-user-12-SP1A.210812.016-289671-release-keys",
+        "commit": "92b9b90b01590d1ddaf48c30ea27233469f2be0c",
+        "committed_date": "2023-04-20T16:33:42.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-07-26T10:56:48.401Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x6827",
+        "project_id": 4255,
+        "project_path": "infinix/infinix-x6827"
+      },
+      "revision": "92b9b90b01590d1ddaf48c30ea27233469f2be0c",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x6827/-/tree/92b9b90b01590d1ddaf48c30ea27233469f2be0c"
+    },
+    {
+      "item_id": "infinix/infinix-x6827@sys_tssi_64_infinix-user-12-SP1A.210812.016-327393-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_infinix-user-12-SP1A.210812.016-327393-release-keys",
+        "commit": "215161c2248326ce47c1e5794b086f5f396e0ab7",
+        "committed_date": "2023-06-23T12:42:51.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-07-26T10:56:48.401Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x6827",
+        "project_id": 4255,
+        "project_path": "infinix/infinix-x6827"
+      },
+      "revision": "215161c2248326ce47c1e5794b086f5f396e0ab7",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x6827/-/tree/215161c2248326ce47c1e5794b086f5f396e0ab7"
+    },
+    {
+      "item_id": "infinix/infinix-x6827@sys_tssi_64_infinix-user-12-SP1A.210812.016-353179-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_infinix-user-12-SP1A.210812.016-353179-release-keys",
+        "commit": "4a99d0efdced8cfcc0586747240f09202a33cfac",
+        "committed_date": "2023-07-12T15:37:48.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-07-26T10:56:48.401Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x6827",
+        "project_id": 4255,
+        "project_path": "infinix/infinix-x6827"
+      },
+      "revision": "4a99d0efdced8cfcc0586747240f09202a33cfac",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x6827/-/tree/4a99d0efdced8cfcc0586747240f09202a33cfac"
+    },
+    {
+      "item_id": "infinix/infinix-x6827@sys_tssi_64_infinix-user-12-SP1A.210812.016-528988-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_infinix-user-12-SP1A.210812.016-528988-release-keys",
+        "commit": "17a276061505085a2404c73368fdeaa1afe1afd1",
+        "committed_date": "2024-07-26T13:45:54.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-07-26T10:56:48.401Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x6827",
+        "project_id": 4255,
+        "project_path": "infinix/infinix-x6827"
+      },
+      "revision": "17a276061505085a2404c73368fdeaa1afe1afd1",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x6827/-/tree/17a276061505085a2404c73368fdeaa1afe1afd1"
+    },
+    {
+      "item_id": "infinix/infinix-x682c@sys_tssi_64_infinix-user-10-QP1A.190711.020-219835-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_infinix-user-10-QP1A.190711.020-219835-release-keys",
+        "commit": "eb41352c41a012fd2447970546e47e6c37b4223a",
+        "committed_date": "2022-03-13T17:23:00.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T11:55:59.100Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x682c",
+        "project_id": 1747,
+        "project_path": "infinix/infinix-x682c"
+      },
+      "revision": "eb41352c41a012fd2447970546e47e6c37b4223a",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x682c/-/tree/eb41352c41a012fd2447970546e47e6c37b4223a"
+    },
+    {
+      "item_id": "infinix/infinix-x682c@sys_tssi_64_infinix-user-10-QP1A.190711.020-50086-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_infinix-user-10-QP1A.190711.020-50086-release-keys",
+        "commit": "8231bf56f0e0a6de4d52297dc954c5c3cc1b8e1a",
+        "committed_date": "2021-09-09T18:27:52.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T11:55:59.100Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x682c",
+        "project_id": 1747,
+        "project_path": "infinix/infinix-x682c"
+      },
+      "revision": "8231bf56f0e0a6de4d52297dc954c5c3cc1b8e1a",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x682c/-/tree/8231bf56f0e0a6de4d52297dc954c5c3cc1b8e1a"
+    },
+    {
+      "item_id": "infinix/infinix-x682c@sys_tssi_64_infinix-user-10-QP1A.190711.020-87337-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_infinix-user-10-QP1A.190711.020-87337-release-keys",
+        "commit": "509b9550d48a046c79dbab755d4a7f69c2483fc1",
+        "committed_date": "2021-08-15T13:47:01.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T11:55:59.100Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x682c",
+        "project_id": 1747,
+        "project_path": "infinix/infinix-x682c"
+      },
+      "revision": "509b9550d48a046c79dbab755d4a7f69c2483fc1",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x682c/-/tree/509b9550d48a046c79dbab755d4a7f69c2483fc1"
+    },
+    {
+      "item_id": "infinix/infinix-x689@sys_tssi_64_infinix-user-11-RP1A.200720.011-302158-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_infinix-user-11-RP1A.200720.011-302158-release-keys",
+        "commit": "6b3b29408e1b63c0fb8b6bc02c0d3a9d9a0d9bf5",
+        "committed_date": "2024-10-30T09:11:30.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-30T06:08:15.968Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x689",
+        "project_id": 5481,
+        "project_path": "infinix/infinix-x689"
+      },
+      "revision": "6b3b29408e1b63c0fb8b6bc02c0d3a9d9a0d9bf5",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x689/-/tree/6b3b29408e1b63c0fb8b6bc02c0d3a9d9a0d9bf5"
+    },
+    {
+      "item_id": "infinix/infinix-x689b@sys_tssi_64_infinix-user-11-RP1A.200720.011-346460-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_infinix-user-11-RP1A.200720.011-346460-release-keys",
+        "commit": "aec38e0fc3393e73e1e6f4aabec509d71817d066",
+        "committed_date": "2024-09-14T01:03:38.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-09-13T22:11:12.334Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x689b",
+        "project_id": 2073,
+        "project_path": "infinix/infinix-x689b"
+      },
+      "revision": "aec38e0fc3393e73e1e6f4aabec509d71817d066",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x689b/-/tree/aec38e0fc3393e73e1e6f4aabec509d71817d066"
+    },
+    {
+      "item_id": "infinix/infinix-x689b@sys_tssi_64_infinix-user-11-RP1A.200720.011-91261-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_infinix-user-11-RP1A.200720.011-91261-release-keys",
+        "commit": "404697eb09a60a6f074d9caaa7c723b3e49a340a",
+        "committed_date": "2022-11-13T22:16:09.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-09-13T22:11:12.334Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x689b",
+        "project_id": 2073,
+        "project_path": "infinix/infinix-x689b"
+      },
+      "revision": "404697eb09a60a6f074d9caaa7c723b3e49a340a",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x689b/-/tree/404697eb09a60a6f074d9caaa7c723b3e49a340a"
+    },
+    {
+      "item_id": "infinix/infinix-x689b@sys_tssi_64_infinix-user-11-RP1A.200720.011-96076-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_infinix-user-11-RP1A.200720.011-96076-release-keys",
+        "commit": "250bd631efdbd10ac8386701ff95d1ec79e39705",
+        "committed_date": "2021-08-22T12:53:28.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-09-13T22:11:12.334Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x689b",
+        "project_id": 2073,
+        "project_path": "infinix/infinix-x689b"
+      },
+      "revision": "250bd631efdbd10ac8386701ff95d1ec79e39705",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x689b/-/tree/250bd631efdbd10ac8386701ff95d1ec79e39705"
+    },
+    {
+      "item_id": "infinix/infinix-x690@full_x690_h691-user-10-QP1A.190711.020-240291-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_x690_h691-user-10-QP1A.190711.020-240291-release-keys",
+        "commit": "4f225271ea429ccd0be489048c44965c8dd3cfb8",
+        "committed_date": "2023-11-28T02:56:34.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-11-27T23:54:22.260Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x690",
+        "project_id": 4616,
+        "project_path": "infinix/infinix-x690"
+      },
+      "revision": "4f225271ea429ccd0be489048c44965c8dd3cfb8",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x690/-/tree/4f225271ea429ccd0be489048c44965c8dd3cfb8"
+    },
+    {
+      "item_id": "infinix/infinix-x690b@full_x690b_h691-user-10-QP1A.190711.020-240290-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_x690b_h691-user-10-QP1A.190711.020-240290-release-keys",
+        "commit": "8a8b9cb0970c0033a553b28894a003334744cd69",
+        "committed_date": "2023-11-23T16:20:40.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-11-23T13:18:24.866Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x690b",
+        "project_id": 4607,
+        "project_path": "infinix/infinix-x690b"
+      },
+      "revision": "8a8b9cb0970c0033a553b28894a003334744cd69",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x690b/-/tree/8a8b9cb0970c0033a553b28894a003334744cd69"
+    },
+    {
+      "item_id": "infinix/infinix-x695@sys_tssi_64_infinix-user-11-RP1A.200720.011-68000-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_infinix-user-11-RP1A.200720.011-68000-release-keys",
+        "commit": "e5a8d0112aae99c85ec6b062691e16272173b660",
+        "committed_date": "2021-07-14T17:28:11.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T08:58:26.593Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x695",
+        "project_id": 1631,
+        "project_path": "infinix/infinix-x695"
+      },
+      "revision": "e5a8d0112aae99c85ec6b062691e16272173b660",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x695/-/tree/e5a8d0112aae99c85ec6b062691e16272173b660"
+    },
+    {
+      "item_id": "infinix/infinix-x695c@sys_tssi_64_infinix-user-11-RP1A.200720.011-63640-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_infinix-user-11-RP1A.200720.011-63640-release-keys",
+        "commit": "c00f45bcfbf216bfdc4e67dc7b5bfb4b7ed22d73",
+        "committed_date": "2023-09-02T20:28:02.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-09-02T17:24:15.584Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x695c",
+        "project_id": 4419,
+        "project_path": "infinix/infinix-x695c"
+      },
+      "revision": "c00f45bcfbf216bfdc4e67dc7b5bfb4b7ed22d73",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x695c/-/tree/c00f45bcfbf216bfdc4e67dc7b5bfb4b7ed22d73"
+    },
+    {
+      "item_id": "infinix/infinix-x698@sys_tssi_64_infinix-user-11-RP1A.200720.011-293430-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_infinix-user-11-RP1A.200720.011-293430-release-keys",
+        "commit": "731e77281f1e7861e218647bb872f35b188e1925",
+        "committed_date": "2024-02-14T17:34:22.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-02-14T14:30:10.992Z",
+        "namespace_hint": "infinix",
+        "project_hint": "infinix-x698",
+        "project_id": 4732,
+        "project_path": "infinix/infinix-x698"
+      },
+      "revision": "731e77281f1e7861e218647bb872f35b188e1925",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x698/-/tree/731e77281f1e7861e218647bb872f35b188e1925"
+    },
+    {
+      "item_id": "infinix/x601@full_rlk6753_65_n-user-7.0-NRD90M-1490348724-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_rlk6753_65_n-user-7.0-NRD90M-1490348724-release-keys",
+        "commit": "151e9692edf0c634795d53c2caa2deb58fbcd684",
+        "committed_date": "2023-12-08T17:18:50.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-12-08T14:17:07.263Z",
+        "namespace_hint": "infinix",
+        "project_hint": "x601",
+        "project_id": 4653,
+        "project_path": "infinix/x601"
+      },
+      "revision": "151e9692edf0c634795d53c2caa2deb58fbcd684",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/x601/-/tree/151e9692edf0c634795d53c2caa2deb58fbcd684"
+    },
+    {
+      "item_id": "infinix/x604@full_X604_H633-user-8.1.0-O11019-1530155744-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_X604_H633-user-8.1.0-O11019-1530155744-release-keys",
+        "commit": "7d4eedb17488ce4adf5739de5711648f32303730",
+        "committed_date": "2018-08-08T23:56:03.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T14:27:45.224Z",
+        "namespace_hint": "infinix",
+        "project_hint": "x604",
+        "project_id": 1088,
+        "project_path": "infinix/x604"
+      },
+      "revision": "7d4eedb17488ce4adf5739de5711648f32303730",
+      "url": "https://dumps.tadiphone.dev/dumps/infinix/x604/-/tree/7d4eedb17488ce4adf5739de5711648f32303730"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

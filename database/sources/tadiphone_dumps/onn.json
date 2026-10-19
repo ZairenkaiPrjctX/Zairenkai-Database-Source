@@ -1,0 +1,281 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "onn/100110603@sys_mssi_t_64_cn_wifi-user-13-TP1A.220624.014-TTA.46-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_t_64_cn_wifi-user-13-TP1A.220624.014-TTA.46-release-keys",
+        "commit": "6b6c8ac7c8e007ea6e4b88e16a5a50959a5c75cb",
+        "committed_date": "2023-11-14T01:28:53.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-11-13T22:26:55.673Z",
+        "namespace_hint": "onn",
+        "project_hint": "100110603",
+        "project_id": 4584,
+        "project_path": "onn/100110603"
+      },
+      "revision": "6b6c8ac7c8e007ea6e4b88e16a5a50959a5c75cb",
+      "url": "https://dumps.tadiphone.dev/dumps/onn/100110603/-/tree/6b6c8ac7c8e007ea6e4b88e16a5a50959a5c75cb"
+    },
+    {
+      "item_id": "onn/mid1108_ms_64@sys_mssi_mid1108_ms_64-user-14-UP1A.231005.007-mp1V664-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_mid1108_ms_64-user-14-UP1A.231005.007-mp1V664-release-keys",
+        "commit": "c82f853f7849054529560c07d8fe82cf082a8250",
+        "committed_date": "2025-11-26T12:05:25.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-11-26T09:02:58.312Z",
+        "namespace_hint": "onn",
+        "project_hint": "mid1108_ms_64",
+        "project_id": 5711,
+        "project_path": "onn/mid1108_ms_64"
+      },
+      "revision": "c82f853f7849054529560c07d8fe82cf082a8250",
+      "url": "https://dumps.tadiphone.dev/dumps/onn/mid1108_ms_64/-/tree/c82f853f7849054529560c07d8fe82cf082a8250"
+    },
+    {
+      "item_id": "onn/mid7015_mk_32@full_mid7015_mk_32-user-9-PPR1.180610.011-eng.fuqian.20191023.144734-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_mid7015_mk_32-user-9-PPR1.180610.011-eng.fuqian.20191023.144734-release-keys",
+        "commit": "aa590fd1156b0cea6a7bcdb32dfc8ce59013ac8c",
+        "committed_date": "2019-11-30T07:39:14.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T20:10:01.323Z",
+        "namespace_hint": "onn",
+        "project_hint": "mid7015_mk_32",
+        "project_id": 2119,
+        "project_path": "onn/mid7015_mk_32"
+      },
+      "revision": "aa590fd1156b0cea6a7bcdb32dfc8ce59013ac8c",
+      "url": "https://dumps.tadiphone.dev/dumps/onn/mid7015_mk_32/-/tree/aa590fd1156b0cea6a7bcdb32dfc8ce59013ac8c"
+    },
+    {
+      "item_id": "onn/mid7015_mk_32@full_mid7015_mk_32-user-9-PPR1.180610.011-eng.kanghu.20190610.202514-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_mid7015_mk_32-user-9-PPR1.180610.011-eng.kanghu.20190610.202514-release-keys",
+        "commit": "a2e1cf2cd0869ba9c42e0367a2d243573679c9b2",
+        "committed_date": "2019-11-30T04:49:22.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T20:10:01.323Z",
+        "namespace_hint": "onn",
+        "project_hint": "mid7015_mk_32",
+        "project_id": 2119,
+        "project_path": "onn/mid7015_mk_32"
+      },
+      "revision": "a2e1cf2cd0869ba9c42e0367a2d243573679c9b2",
+      "url": "https://dumps.tadiphone.dev/dumps/onn/mid7015_mk_32/-/tree/a2e1cf2cd0869ba9c42e0367a2d243573679c9b2"
+    },
+    {
+      "item_id": "onn/mid8011@full_mid8011_mq-user-10-QP1A.190711.020-mp1V7-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_mid8011_mq-user-10-QP1A.190711.020-mp1V7-release-keys",
+        "commit": "49ae25a626b70a8d965513d1db9b484e6cee49c7",
+        "committed_date": "2020-05-20T07:10:34.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T12:40:31.555Z",
+        "namespace_hint": "onn",
+        "project_hint": "mid8011",
+        "project_id": 1755,
+        "project_path": "onn/mid8011"
+      },
+      "revision": "49ae25a626b70a8d965513d1db9b484e6cee49c7",
+      "url": "https://dumps.tadiphone.dev/dumps/onn/mid8011/-/tree/49ae25a626b70a8d965513d1db9b484e6cee49c7"
+    },
+    {
+      "item_id": "onn/mid8011@full_mid8011_mq-user-10-QP1A.190711.020-mp1V9332-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_mid8011_mq-user-10-QP1A.190711.020-mp1V9332-release-keys",
+        "commit": "07c9025ce50f0cecc70a3675f29b915e46a45e01",
+        "committed_date": "2020-05-20T08:21:44.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T12:40:31.555Z",
+        "namespace_hint": "onn",
+        "project_hint": "mid8011",
+        "project_id": 1755,
+        "project_path": "onn/mid8011"
+      },
+      "revision": "07c9025ce50f0cecc70a3675f29b915e46a45e01",
+      "url": "https://dumps.tadiphone.dev/dumps/onn/mid8011/-/tree/07c9025ce50f0cecc70a3675f29b915e46a45e01"
+    },
+    {
+      "item_id": "onn/onn12tabletpro@sys_mssi_tc632_64-user-14-UP1A.231005.007-11101418-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_tc632_64-user-14-UP1A.231005.007-11101418-release-keys",
+        "commit": "56d50c3d4c58d3d03ec3e8b37bd17f004bb57732",
+        "committed_date": "2026-01-13T12:49:53.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-01-13T09:46:57.702Z",
+        "namespace_hint": "onn",
+        "project_hint": "onn12tabletpro",
+        "project_id": 5734,
+        "project_path": "onn/onn12tabletpro"
+      },
+      "revision": "56d50c3d4c58d3d03ec3e8b37bd17f004bb57732",
+      "url": "https://dumps.tadiphone.dev/dumps/onn/onn12tabletpro/-/tree/56d50c3d4c58d3d03ec3e8b37bd17f004bb57732"
+    },
+    {
+      "item_id": "onn/sna@jarvis-user-14-URO1.250103.055.A2-14238279-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "jarvis-user-14-URO1.250103.055.A2-14238279-release-keys",
+        "commit": "af28550f0dc8818da5ea695809cec21ce3ea61be",
+        "committed_date": "2025-12-11T01:46:24.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-12-10T22:45:15.581Z",
+        "namespace_hint": "onn",
+        "project_hint": "sna",
+        "project_id": 5715,
+        "project_path": "onn/sna"
+      },
+      "revision": "af28550f0dc8818da5ea695809cec21ce3ea61be",
+      "url": "https://dumps.tadiphone.dev/dumps/onn/sna/-/tree/af28550f0dc8818da5ea695809cec21ce3ea61be"
+    },
+    {
+      "item_id": "onn/sti6140d360@sti6140d360-user-10-QT-20210519-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sti6140d360-user-10-QT-20210519-release-keys",
+        "commit": "a6d3b3b24c8bac1ec18770b62f0ae7832addabeb",
+        "committed_date": "2021-06-15T10:46:52.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-09-05T05:23:02.031Z",
+        "namespace_hint": "onn",
+        "project_hint": "sti6140d360",
+        "project_id": 2011,
+        "project_path": "onn/sti6140d360"
+      },
+      "revision": "a6d3b3b24c8bac1ec18770b62f0ae7832addabeb",
+      "url": "https://dumps.tadiphone.dev/dumps/onn/sti6140d360/-/tree/a6d3b3b24c8bac1ec18770b62f0ae7832addabeb"
+    },
+    {
+      "item_id": "onn/sti6140d360@sti6140d360-user-10-QT-20210902-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sti6140d360-user-10-QT-20210902-release-keys",
+        "commit": "ae846133c466473110309737eeed054f1f30090f",
+        "committed_date": "2021-09-11T22:59:27.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-09-05T05:23:02.031Z",
+        "namespace_hint": "onn",
+        "project_hint": "sti6140d360",
+        "project_id": 2011,
+        "project_path": "onn/sti6140d360"
+      },
+      "revision": "ae846133c466473110309737eeed054f1f30090f",
+      "url": "https://dumps.tadiphone.dev/dumps/onn/sti6140d360/-/tree/ae846133c466473110309737eeed054f1f30090f"
+    },
+    {
+      "item_id": "onn/sti6140d360@sti6140d360-user-10-QT-20220106-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sti6140d360-user-10-QT-20220106-release-keys",
+        "commit": "9040c5d9fb5ea8e6775eb56dc3960ab5593a70db",
+        "committed_date": "2022-02-18T01:00:18.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-09-05T05:23:02.031Z",
+        "namespace_hint": "onn",
+        "project_hint": "sti6140d360",
+        "project_id": 2011,
+        "project_path": "onn/sti6140d360"
+      },
+      "revision": "9040c5d9fb5ea8e6775eb56dc3960ab5593a70db",
+      "url": "https://dumps.tadiphone.dev/dumps/onn/sti6140d360/-/tree/9040c5d9fb5ea8e6775eb56dc3960ab5593a70db"
+    },
+    {
+      "item_id": "onn/sti6140d360@sti6140d360-user-10-QT-20220325-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sti6140d360-user-10-QT-20220325-release-keys",
+        "commit": "e8de59ae1e154d8d937a2becd46e784bedfec5e8",
+        "committed_date": "2022-05-20T13:37:31.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-09-05T05:23:02.031Z",
+        "namespace_hint": "onn",
+        "project_hint": "sti6140d360",
+        "project_id": 2011,
+        "project_path": "onn/sti6140d360"
+      },
+      "revision": "e8de59ae1e154d8d937a2becd46e784bedfec5e8",
+      "url": "https://dumps.tadiphone.dev/dumps/onn/sti6140d360/-/tree/e8de59ae1e154d8d937a2becd46e784bedfec5e8"
+    },
+    {
+      "item_id": "onn/sti6140d360@sti6140d360-user-10-QT-20220523-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sti6140d360-user-10-QT-20220523-release-keys",
+        "commit": "5667f7be8e947cac5f2b2489f464bcd9049ff974",
+        "committed_date": "2022-08-10T03:06:02.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-09-05T05:23:02.031Z",
+        "namespace_hint": "onn",
+        "project_hint": "sti6140d360",
+        "project_id": 2011,
+        "project_path": "onn/sti6140d360"
+      },
+      "revision": "5667f7be8e947cac5f2b2489f464bcd9049ff974",
+      "url": "https://dumps.tadiphone.dev/dumps/onn/sti6140d360/-/tree/5667f7be8e947cac5f2b2489f464bcd9049ff974"
+    },
+    {
+      "item_id": "onn/sti6140d360@sti6140d360-user-10-QT-20230602-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sti6140d360-user-10-QT-20230602-release-keys",
+        "commit": "2f8c8b4efeee3a3f011d5e707f50ace4a9c6a4c3",
+        "committed_date": "2023-08-18T17:39:43.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-09-05T05:23:02.031Z",
+        "namespace_hint": "onn",
+        "project_hint": "sti6140d360",
+        "project_id": 2011,
+        "project_path": "onn/sti6140d360"
+      },
+      "revision": "2f8c8b4efeee3a3f011d5e707f50ace4a9c6a4c3",
+      "url": "https://dumps.tadiphone.dev/dumps/onn/sti6140d360/-/tree/2f8c8b4efeee3a3f011d5e707f50ace4a9c6a4c3"
+    },
+    {
+      "item_id": "onn/sti6140d360@sti6140d360-user-12-SC-20231117--release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sti6140d360-user-12-SC-20231117--release-keys",
+        "commit": "1b0e8ad3e938107a0c1dc9cfbdf549ba3eac650d",
+        "committed_date": "2024-09-05T08:20:56.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-09-05T05:23:02.031Z",
+        "namespace_hint": "onn",
+        "project_hint": "sti6140d360",
+        "project_id": 2011,
+        "project_path": "onn/sti6140d360"
+      },
+      "revision": "1b0e8ad3e938107a0c1dc9cfbdf549ba3eac650d",
+      "url": "https://dumps.tadiphone.dev/dumps/onn/sti6140d360/-/tree/1b0e8ad3e938107a0c1dc9cfbdf549ba3eac650d"
+    },
+    {
+      "item_id": "onn/yoc@onn_4k_gtv-user-14-URO4.260304.011.B1-15051976-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "onn_4k_gtv-user-14-URO4.260304.011.B1-15051976-release-keys",
+        "commit": "3348c8d5819ea8f2db33eec108fea5785d329f54",
+        "committed_date": "2026-09-14T04:37:27.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-09-14T01:36:26.576Z",
+        "namespace_hint": "onn",
+        "project_hint": "yoc",
+        "project_id": 5834,
+        "project_path": "onn/yoc"
+      },
+      "revision": "3348c8d5819ea8f2db33eec108fea5785d329f54",
+      "url": "https://dumps.tadiphone.dev/dumps/onn/yoc/-/tree/3348c8d5819ea8f2db33eec108fea5785d329f54"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

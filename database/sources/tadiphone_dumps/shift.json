@@ -1,0 +1,264 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "shift/axolotl@axolotl-user-10-QKQ1.201126.002-20210211-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "axolotl-user-10-QKQ1.201126.002-20210211-release-keys",
+        "commit": "643a26e8b60dd47e7735f1853e06f5272d9e441a",
+        "committed_date": "2021-12-02T10:32:12.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-10-15T15:54:07.744Z",
+        "namespace_hint": "shift",
+        "project_hint": "axolotl",
+        "project_id": 1534,
+        "project_path": "shift/axolotl"
+      },
+      "revision": "643a26e8b60dd47e7735f1853e06f5272d9e441a",
+      "url": "https://dumps.tadiphone.dev/dumps/shift/axolotl/-/tree/643a26e8b60dd47e7735f1853e06f5272d9e441a"
+    },
+    {
+      "item_id": "shift/axolotl@axolotl-user-10-QKQ1.201126.002-20210423-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "axolotl-user-10-QKQ1.201126.002-20210423-release-keys",
+        "commit": "0ce5203f5c9425541870980bfda15a42afa8f677",
+        "committed_date": "2021-07-05T04:52:09.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-10-15T15:54:07.744Z",
+        "namespace_hint": "shift",
+        "project_hint": "axolotl",
+        "project_id": 1534,
+        "project_path": "shift/axolotl"
+      },
+      "revision": "0ce5203f5c9425541870980bfda15a42afa8f677",
+      "url": "https://dumps.tadiphone.dev/dumps/shift/axolotl/-/tree/0ce5203f5c9425541870980bfda15a42afa8f677"
+    },
+    {
+      "item_id": "shift/axolotl@axolotl-user-10-QKQ1.201126.002-20210507-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "axolotl-user-10-QKQ1.201126.002-20210507-release-keys",
+        "commit": "5f0b09af2b352b60903a71d7ef90dda5ae61eeab",
+        "committed_date": "2021-07-05T04:51:00.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-10-15T15:54:07.744Z",
+        "namespace_hint": "shift",
+        "project_hint": "axolotl",
+        "project_id": 1534,
+        "project_path": "shift/axolotl"
+      },
+      "revision": "5f0b09af2b352b60903a71d7ef90dda5ae61eeab",
+      "url": "https://dumps.tadiphone.dev/dumps/shift/axolotl/-/tree/5f0b09af2b352b60903a71d7ef90dda5ae61eeab"
+    },
+    {
+      "item_id": "shift/axolotl@axolotl-user-10-QKQ1.201126.002-20210624-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "axolotl-user-10-QKQ1.201126.002-20210624-release-keys",
+        "commit": "c29f8e9042019e0f74ea6454daa07a3069501760",
+        "committed_date": "2021-07-05T04:59:25.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-10-15T15:54:07.744Z",
+        "namespace_hint": "shift",
+        "project_hint": "axolotl",
+        "project_id": 1534,
+        "project_path": "shift/axolotl"
+      },
+      "revision": "c29f8e9042019e0f74ea6454daa07a3069501760",
+      "url": "https://dumps.tadiphone.dev/dumps/shift/axolotl/-/tree/c29f8e9042019e0f74ea6454daa07a3069501760"
+    },
+    {
+      "item_id": "shift/axolotl@axolotl-user-10-QKQ1.201126.002-20210709-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "axolotl-user-10-QKQ1.201126.002-20210709-release-keys",
+        "commit": "97922ad97d36dc7526e15153f4b11e92d0a2d32b",
+        "committed_date": "2021-12-02T09:25:33.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-10-15T15:54:07.744Z",
+        "namespace_hint": "shift",
+        "project_hint": "axolotl",
+        "project_id": 1534,
+        "project_path": "shift/axolotl"
+      },
+      "revision": "97922ad97d36dc7526e15153f4b11e92d0a2d32b",
+      "url": "https://dumps.tadiphone.dev/dumps/shift/axolotl/-/tree/97922ad97d36dc7526e15153f4b11e92d0a2d32b"
+    },
+    {
+      "item_id": "shift/axolotl@axolotl-user-10-QKQ1.201126.002-20210921-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "axolotl-user-10-QKQ1.201126.002-20210921-release-keys",
+        "commit": "fa38accff1e00c94d745a33be85f5d3c1646f144",
+        "committed_date": "2021-12-02T09:40:22.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-10-15T15:54:07.744Z",
+        "namespace_hint": "shift",
+        "project_hint": "axolotl",
+        "project_id": 1534,
+        "project_path": "shift/axolotl"
+      },
+      "revision": "fa38accff1e00c94d745a33be85f5d3c1646f144",
+      "url": "https://dumps.tadiphone.dev/dumps/shift/axolotl/-/tree/fa38accff1e00c94d745a33be85f5d3c1646f144"
+    },
+    {
+      "item_id": "shift/axolotl@axolotl-user-10-QKQ1.201126.002-20210929-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "axolotl-user-10-QKQ1.201126.002-20210929-release-keys",
+        "commit": "eff5285ea4e54a9d5caf85c3cecda0a119b27714",
+        "committed_date": "2021-12-02T09:50:47.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-10-15T15:54:07.744Z",
+        "namespace_hint": "shift",
+        "project_hint": "axolotl",
+        "project_id": 1534,
+        "project_path": "shift/axolotl"
+      },
+      "revision": "eff5285ea4e54a9d5caf85c3cecda0a119b27714",
+      "url": "https://dumps.tadiphone.dev/dumps/shift/axolotl/-/tree/eff5285ea4e54a9d5caf85c3cecda0a119b27714"
+    },
+    {
+      "item_id": "shift/axolotl@axolotl-user-13-TQ3A.230901.001-20240820-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "axolotl-user-13-TQ3A.230901.001-20240820-release-keys",
+        "commit": "9783b9c567be0d758e346f94ad1581890901a5c0",
+        "committed_date": "2024-10-15T18:47:51.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-15T15:54:07.744Z",
+        "namespace_hint": "shift",
+        "project_hint": "axolotl",
+        "project_id": 1534,
+        "project_path": "shift/axolotl"
+      },
+      "revision": "9783b9c567be0d758e346f94ad1581890901a5c0",
+      "url": "https://dumps.tadiphone.dev/dumps/shift/axolotl/-/tree/9783b9c567be0d758e346f94ad1581890901a5c0"
+    },
+    {
+      "item_id": "shift/shift5_3@full_SHIFT5_3-user-5.1.1-LMY48I-1513890282-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_SHIFT5_3-user-5.1.1-LMY48I-1513890282-release-keys",
+        "commit": "99d1564156ceeab758bc20042047bf18844413fc",
+        "committed_date": "2021-12-02T11:42:31.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T13:16:06.621Z",
+        "namespace_hint": "shift",
+        "project_hint": "shift5_3",
+        "project_id": 1026,
+        "project_path": "shift/shift5_3"
+      },
+      "revision": "99d1564156ceeab758bc20042047bf18844413fc",
+      "url": "https://dumps.tadiphone.dev/dumps/shift/shift5_3/-/tree/99d1564156ceeab758bc20042047bf18844413fc"
+    },
+    {
+      "item_id": "shift/shift6m@SHIFT5me-user-8.1.0-OC-1634139469-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "SHIFT5me-user-8.1.0-OC-1634139469-release-keys",
+        "commit": "db65488c0591a6ecc1f737f94a4246bd31aa6f2d",
+        "committed_date": "2021-12-02T11:06:35.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T18:30:13.879Z",
+        "namespace_hint": "shift",
+        "project_hint": "shift6m",
+        "project_id": 2037,
+        "project_path": "shift/shift6m"
+      },
+      "revision": "db65488c0591a6ecc1f737f94a4246bd31aa6f2d",
+      "url": "https://dumps.tadiphone.dev/dumps/shift/shift6m/-/tree/db65488c0591a6ecc1f737f94a4246bd31aa6f2d"
+    },
+    {
+      "item_id": "shift/shift6m@SHIFT6m-user-8.0.0-O00623-1545320289-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "SHIFT6m-user-8.0.0-O00623-1545320289-release-keys",
+        "commit": "2e42c3d266efa6a5bb9f176974e7c1d5c6fa7f96",
+        "committed_date": "2021-12-02T10:13:32.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T18:30:13.879Z",
+        "namespace_hint": "shift",
+        "project_hint": "shift6m",
+        "project_id": 2037,
+        "project_path": "shift/shift6m"
+      },
+      "revision": "2e42c3d266efa6a5bb9f176974e7c1d5c6fa7f96",
+      "url": "https://dumps.tadiphone.dev/dumps/shift/shift6m/-/tree/2e42c3d266efa6a5bb9f176974e7c1d5c6fa7f96"
+    },
+    {
+      "item_id": "shift/shift6m@SHIFT6m-user-8.0.0-O00623-1592466613-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "SHIFT6m-user-8.0.0-O00623-1592466613-release-keys",
+        "commit": "98f3def162feb425a94b7786ddede817f4a6587c",
+        "committed_date": "2021-07-22T18:11:00.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T18:30:13.879Z",
+        "namespace_hint": "shift",
+        "project_hint": "shift6m",
+        "project_id": 2037,
+        "project_path": "shift/shift6m"
+      },
+      "revision": "98f3def162feb425a94b7786ddede817f4a6587c",
+      "url": "https://dumps.tadiphone.dev/dumps/shift/shift6m/-/tree/98f3def162feb425a94b7786ddede817f4a6587c"
+    },
+    {
+      "item_id": "shift/shift6m@SHIFT6m-user-8.0.0-O00623-1634992035-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "SHIFT6m-user-8.0.0-O00623-1634992035-release-keys",
+        "commit": "d0eeb422e3d24f468cb40e29ce4bc6046428e163",
+        "committed_date": "2021-12-02T10:54:12.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T18:30:13.879Z",
+        "namespace_hint": "shift",
+        "project_hint": "shift6m",
+        "project_id": 2037,
+        "project_path": "shift/shift6m"
+      },
+      "revision": "d0eeb422e3d24f468cb40e29ce4bc6046428e163",
+      "url": "https://dumps.tadiphone.dev/dumps/shift/shift6m/-/tree/d0eeb422e3d24f468cb40e29ce4bc6046428e163"
+    },
+    {
+      "item_id": "shift/shift6m@SHIFT6m-user-8.1.0-OC-1634134047-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "SHIFT6m-user-8.1.0-OC-1634134047-release-keys",
+        "commit": "79163dfdd313aaaf16ca857a61afc96a8a5e580c",
+        "committed_date": "2021-12-02T11:26:33.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T18:30:13.879Z",
+        "namespace_hint": "shift",
+        "project_hint": "shift6m",
+        "project_id": 2037,
+        "project_path": "shift/shift6m"
+      },
+      "revision": "79163dfdd313aaaf16ca857a61afc96a8a5e580c",
+      "url": "https://dumps.tadiphone.dev/dumps/shift/shift6m/-/tree/79163dfdd313aaaf16ca857a61afc96a8a5e580c"
+    },
+    {
+      "item_id": "shift/shift6m@SHIFT6m-user-8.1.0-OC-1634136352-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "SHIFT6m-user-8.1.0-OC-1634136352-release-keys",
+        "commit": "fef6a3bbdac27746b67dc5b9aa59e74bf067bebd",
+        "committed_date": "2021-12-02T11:18:12.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T18:30:13.879Z",
+        "namespace_hint": "shift",
+        "project_hint": "shift6m",
+        "project_id": 2037,
+        "project_path": "shift/shift6m"
+      },
+      "revision": "fef6a3bbdac27746b67dc5b9aa59e74bf067bebd",
+      "url": "https://dumps.tadiphone.dev/dumps/shift/shift6m/-/tree/fef6a3bbdac27746b67dc5b9aa59e74bf067bebd"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

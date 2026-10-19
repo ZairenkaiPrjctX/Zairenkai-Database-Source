@@ -1,0 +1,230 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "tcl/a3a_8_4g@9027F-user-8.1.0-O11019-vB7B-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "9027F-user-8.1.0-O11019-vB7B-0-release-keys",
+        "commit": "421b37c5b8ec3b738a725d466e538e484b194d20",
+        "committed_date": "2024-04-11T19:03:40.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T05:56:18.873Z",
+        "namespace_hint": "tcl",
+        "project_hint": "a3a_8_4g",
+        "project_id": 5235,
+        "project_path": "tcl/a3a_8_4g"
+      },
+      "revision": "421b37c5b8ec3b738a725d466e538e484b194d20",
+      "url": "https://dumps.tadiphone.dev/dumps/tcl/a3a_8_4g/-/tree/421b37c5b8ec3b738a725d466e538e484b194d20"
+    },
+    {
+      "item_id": "tcl/a3a_8_4g@9027X-user-8.1.0-O11019-vB43-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "9027X-user-8.1.0-O11019-vB43-0-release-keys",
+        "commit": "9ef2800dd61821b431b304a2434924a8be47dbe9",
+        "committed_date": "2025-05-03T08:53:29.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-05-03T05:56:18.873Z",
+        "namespace_hint": "tcl",
+        "project_hint": "a3a_8_4g",
+        "project_id": 5235,
+        "project_path": "tcl/a3a_8_4g"
+      },
+      "revision": "9ef2800dd61821b431b304a2434924a8be47dbe9",
+      "url": "https://dumps.tadiphone.dev/dumps/tcl/a3a_8_4g/-/tree/9ef2800dd61821b431b304a2434924a8be47dbe9"
+    },
+    {
+      "item_id": "tcl/austin@qssi-user-11-RKQ1.201112.002-2BEU-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201112.002-2BEU-release-keys",
+        "commit": "07308268115230521ba4031b8b9dc44cae8f7bb0",
+        "committed_date": "2023-10-26T15:36:00.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-10-26T12:32:37.243Z",
+        "namespace_hint": "tcl",
+        "project_hint": "austin",
+        "project_id": 4563,
+        "project_path": "tcl/austin"
+      },
+      "revision": "07308268115230521ba4031b8b9dc44cae8f7bb0",
+      "url": "https://dumps.tadiphone.dev/dumps/tcl/austin/-/tree/07308268115230521ba4031b8b9dc44cae8f7bb0"
+    },
+    {
+      "item_id": "tcl/beyondtv4@BeyondTV4-user-11-RP1A.200622.001-AR06-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "BeyondTV4-user-11-RP1A.200622.001-AR06-release-keys",
+        "commit": "338d8e7eea43c7842cf087a8d8e313755b1941c0",
+        "committed_date": "2024-10-15T08:20:41.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-15T05:19:00.881Z",
+        "namespace_hint": "tcl",
+        "project_hint": "beyondtv4",
+        "project_id": 5458,
+        "project_path": "tcl/beyondtv4"
+      },
+      "revision": "338d8e7eea43c7842cf087a8d8e313755b1941c0",
+      "url": "https://dumps.tadiphone.dev/dumps/tcl/beyondtv4/-/tree/338d8e7eea43c7842cf087a8d8e313755b1941c0"
+    },
+    {
+      "item_id": "tcl/chicago@qssi-user-11-RKQ1.210107.001-6B2A-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210107.001-6B2A-release-keys",
+        "commit": "340ef0cb8d73476323bd4eb3c3eaf43ae77c9e4e",
+        "committed_date": "2023-06-18T04:03:01.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-06-18T01:00:30.769Z",
+        "namespace_hint": "tcl",
+        "project_hint": "chicago",
+        "project_id": 4332,
+        "project_path": "tcl/chicago"
+      },
+      "revision": "340ef0cb8d73476323bd4eb3c3eaf43ae77c9e4e",
+      "url": "https://dumps.tadiphone.dev/dumps/tcl/chicago/-/tree/340ef0cb8d73476323bd4eb3c3eaf43ae77c9e4e"
+    },
+    {
+      "item_id": "tcl/curie@5003D-user-8.1.0-OPM2.171019.012-5003D_ALWE_V1.1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "5003D-user-8.1.0-OPM2.171019.012-5003D_ALWE_V1.1-release-keys",
+        "commit": "0544385d726fc4bd273b10b6a3271ed282e8de48",
+        "committed_date": "2019-11-12T21:31:24.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T18:49:44.708Z",
+        "namespace_hint": "tcl",
+        "project_hint": "curie",
+        "project_id": 2057,
+        "project_path": "tcl/curie"
+      },
+      "revision": "0544385d726fc4bd273b10b6a3271ed282e8de48",
+      "url": "https://dumps.tadiphone.dev/dumps/tcl/curie/-/tree/0544385d726fc4bd273b10b6a3271ed282e8de48"
+    },
+    {
+      "item_id": "tcl/faraday@s9863a3h10_Natv-user-9-PPR1.180610.011-36211-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "s9863a3h10_Natv-user-9-PPR1.180610.011-36211-release-keys",
+        "commit": "157eb54ecd5a4836d41aa79738a8b230d0f90fda",
+        "committed_date": "2019-11-10T21:24:33.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T01:16:15.329Z",
+        "namespace_hint": "tcl",
+        "project_hint": "faraday",
+        "project_id": 2282,
+        "project_path": "tcl/faraday"
+      },
+      "revision": "157eb54ecd5a4836d41aa79738a8b230d0f90fda",
+      "url": "https://dumps.tadiphone.dev/dumps/tcl/faraday/-/tree/157eb54ecd5a4836d41aa79738a8b230d0f90fda"
+    },
+    {
+      "item_id": "tcl/feijao@Mirage-user-6.0.1-MHC19Q-ZNH2KAS2CJ-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Mirage-user-6.0.1-MHC19Q-ZNH2KAS2CJ-release-keys",
+        "commit": "6cdb6b5e5ede3042e4dbcd6458eae35e00953f2d",
+        "committed_date": "2019-07-06T08:40:25.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T13:39:46.041Z",
+        "namespace_hint": "tcl",
+        "project_hint": "feijao",
+        "project_id": 1796,
+        "project_path": "tcl/feijao"
+      },
+      "revision": "6cdb6b5e5ede3042e4dbcd6458eae35e00953f2d",
+      "url": "https://dumps.tadiphone.dev/dumps/tcl/feijao/-/tree/6cdb6b5e5ede3042e4dbcd6458eae35e00953f2d"
+    },
+    {
+      "item_id": "tcl/tb8765ap1_bsp@full_A3A_10_4G-user-9-PPR1.180610.011-vE4M-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_A3A_10_4G-user-9-PPR1.180610.011-vE4M-release-keys",
+        "commit": "34afe850ebb42f1a4c4c3df711ffdb064fb278a2",
+        "committed_date": "2024-02-28T04:21:39.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-04-18T20:52:15.097Z",
+        "namespace_hint": "tcl",
+        "project_hint": "tb8765ap1_bsp",
+        "project_id": 4742,
+        "project_path": "tcl/tb8765ap1_bsp"
+      },
+      "revision": "34afe850ebb42f1a4c4c3df711ffdb064fb278a2",
+      "url": "https://dumps.tadiphone.dev/dumps/tcl/tb8765ap1_bsp/-/tree/34afe850ebb42f1a4c4c3df711ffdb064fb278a2"
+    },
+    {
+      "item_id": "tcl/tb8765ap1_bsp@full_A3A_10_4G-user-9-PPR1.180610.011-vL3Z-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_A3A_10_4G-user-9-PPR1.180610.011-vL3Z-release-keys",
+        "commit": "62aad7d88ff76e6c96a7c6b33b84f6c687d73478",
+        "committed_date": "2024-04-18T23:49:13.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-04-18T20:52:15.097Z",
+        "namespace_hint": "tcl",
+        "project_hint": "tb8765ap1_bsp",
+        "project_id": 4742,
+        "project_path": "tcl/tb8765ap1_bsp"
+      },
+      "revision": "62aad7d88ff76e6c96a7c6b33b84f6c687d73478",
+      "url": "https://dumps.tadiphone.dev/dumps/tcl/tb8765ap1_bsp/-/tree/62aad7d88ff76e6c96a7c6b33b84f6c687d73478"
+    },
+    {
+      "item_id": "tcl/tokyo_tf@TOKYO_TF_arm64-user-10-QP1A.190711.020-vC4T-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "TOKYO_TF_arm64-user-10-QP1A.190711.020-vC4T-0-release-keys",
+        "commit": "2efe25986d4a9467972cb36af7bf2bc68b74145c",
+        "committed_date": "2019-11-10T13:16:35.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T19:23:16.453Z",
+        "namespace_hint": "tcl",
+        "project_hint": "tokyo_tf",
+        "project_id": 2086,
+        "project_path": "tcl/tokyo_tf"
+      },
+      "revision": "2efe25986d4a9467972cb36af7bf2bc68b74145c",
+      "url": "https://dumps.tadiphone.dev/dumps/tcl/tokyo_tf/-/tree/2efe25986d4a9467972cb36af7bf2bc68b74145c"
+    },
+    {
+      "item_id": "tcl/tokyo_tf@TOKYO_TF_arm64-user-10-QP1A.190711.020-vC58-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "TOKYO_TF_arm64-user-10-QP1A.190711.020-vC58-0-release-keys",
+        "commit": "1078b80f7090e598453bb4f2b5e3f2a7fac4d9a9",
+        "committed_date": "2019-11-19T10:18:12.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T19:23:16.453Z",
+        "namespace_hint": "tcl",
+        "project_hint": "tokyo_tf",
+        "project_id": 2086,
+        "project_path": "tcl/tokyo_tf"
+      },
+      "revision": "1078b80f7090e598453bb4f2b5e3f2a7fac4d9a9",
+      "url": "https://dumps.tadiphone.dev/dumps/tcl/tokyo_tf/-/tree/1078b80f7090e598453bb4f2b5e3f2a7fac4d9a9"
+    },
+    {
+      "item_id": "tcl/u3a_10_wifi@full_U3A_10_WIFI-eng-8.1.0-O11019-GUB-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_U3A_10_WIFI-eng-8.1.0-O11019-GUB-release-keys",
+        "commit": "a858195a9bb9f9c143b96b8ca22d866da5ecefb1",
+        "committed_date": "2022-12-15T04:32:11.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-12-15T01:31:39.744Z",
+        "namespace_hint": "tcl",
+        "project_hint": "u3a_10_wifi",
+        "project_id": 3998,
+        "project_path": "tcl/u3a_10_wifi"
+      },
+      "revision": "a858195a9bb9f9c143b96b8ca22d866da5ecefb1",
+      "url": "https://dumps.tadiphone.dev/dumps/tcl/u3a_10_wifi/-/tree/a858195a9bb9f9c143b96b8ca22d866da5ecefb1"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

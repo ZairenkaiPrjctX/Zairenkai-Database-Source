@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "shift5/shift5@joya82_wet_kk-user-4.4.2-KOT49H-eng.tcz.1441009292-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "joya82_wet_kk-user-4.4.2-KOT49H-eng.tcz.1441009292-test-keys",
+        "commit": "22a231ff27d5c370ae95016cefb0c74dec1040b7",
+        "committed_date": "2021-12-02T11:45:36.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T08:13:28.013Z",
+        "namespace_hint": "shift5",
+        "project_hint": "shift5",
+        "project_id": 1592,
+        "project_path": "shift5/shift5"
+      },
+      "revision": "22a231ff27d5c370ae95016cefb0c74dec1040b7",
+      "url": "https://dumps.tadiphone.dev/dumps/shift5/shift5/-/tree/22a231ff27d5c370ae95016cefb0c74dec1040b7"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

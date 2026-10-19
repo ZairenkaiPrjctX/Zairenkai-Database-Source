@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "schok/sv55216@msm8937_32go-user-11-SV55216_01.02.06-231015-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_32go-user-11-SV55216_01.02.06-231015-release-keys",
+        "commit": "593df9ef8d44c61b1f1b297c5166f873ca5c27e1",
+        "committed_date": "2025-02-28T06:37:21.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-02-28T03:36:16.990Z",
+        "namespace_hint": "schok",
+        "project_hint": "sv55216",
+        "project_id": 5593,
+        "project_path": "schok/sv55216"
+      },
+      "revision": "593df9ef8d44c61b1f1b297c5166f873ca5c27e1",
+      "url": "https://dumps.tadiphone.dev/dumps/schok/sv55216/-/tree/593df9ef8d44c61b1f1b297c5166f873ca5c27e1"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

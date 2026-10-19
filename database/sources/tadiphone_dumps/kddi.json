@@ -1,0 +1,111 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "KDDI/imnj@1.14.971.2-CL149106-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "1.14.971.2-CL149106-release-keys",
+        "commit": "dbc078e749f1024101b2710c1fae0dee77c436e7",
+        "committed_date": "2024-05-31T00:43:55.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-05-30T21:43:19.201Z",
+        "namespace_hint": "KDDI",
+        "project_hint": "imnj",
+        "project_id": 5290,
+        "project_path": "KDDI/imnj"
+      },
+      "revision": "dbc078e749f1024101b2710c1fae0dee77c436e7",
+      "url": "https://dumps.tadiphone.dev/dumps/KDDI/imnj/-/tree/dbc078e749f1024101b2710c1fae0dee77c436e7"
+    },
+    {
+      "item_id": "KDDI/joan@joan_kddi_jp-user-9-PKQ1.190414.001-2007610508923-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "joan_kddi_jp-user-9-PKQ1.190414.001-2007610508923-release-keys",
+        "commit": "8b04933130b1c8913256d40c31c69c6936082a3f",
+        "committed_date": "2024-06-22T22:51:53.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-06-22T19:49:18.974Z",
+        "namespace_hint": "KDDI",
+        "project_hint": "joan",
+        "project_id": 5317,
+        "project_path": "KDDI/joan"
+      },
+      "revision": "8b04933130b1c8913256d40c31c69c6936082a3f",
+      "url": "https://dumps.tadiphone.dev/dumps/KDDI/joan/-/tree/8b04933130b1c8913256d40c31c69c6936082a3f"
+    },
+    {
+      "item_id": "KDDI/scv31@zeroltekdi-user-7.0-NRD90M-SCV31KDU1CQG1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "zeroltekdi-user-7.0-NRD90M-SCV31KDU1CQG1-release-keys",
+        "commit": "1a7a685906fe2688f48aa0265c2ada1da4fe436b",
+        "committed_date": "2022-08-28T00:38:17.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-08-27T21:36:27.041Z",
+        "namespace_hint": "KDDI",
+        "project_hint": "scv31",
+        "project_id": 2409,
+        "project_path": "KDDI/scv31"
+      },
+      "revision": "1a7a685906fe2688f48aa0265c2ada1da4fe436b",
+      "url": "https://dumps.tadiphone.dev/dumps/KDDI/scv31/-/tree/1a7a685906fe2688f48aa0265c2ada1da4fe436b"
+    },
+    {
+      "item_id": "KDDI/scv38@starqltekdi-user-10-QP1A.190711.020-SCV38KDU1CUF3-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "starqltekdi-user-10-QP1A.190711.020-SCV38KDU1CUF3-release-keys",
+        "commit": "4e7ded412072ef523275d605702740af9b805c42",
+        "committed_date": "2021-12-26T13:45:27.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T17:34:33.075Z",
+        "namespace_hint": "KDDI",
+        "project_hint": "scv38",
+        "project_id": 741,
+        "project_path": "KDDI/scv38"
+      },
+      "revision": "4e7ded412072ef523275d605702740af9b805c42",
+      "url": "https://dumps.tadiphone.dev/dumps/KDDI/scv38/-/tree/4e7ded412072ef523275d605702740af9b805c42"
+    },
+    {
+      "item_id": "KDDI/shooting@shootingkdi-user-11-RP1A.200720.012-SCR01KDU1AVK2-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "shootingkdi-user-11-RP1A.200720.012-SCR01KDU1AVK2-release-keys",
+        "commit": "2511925ccee2858889dbf032d84afb64d5b0b47d",
+        "committed_date": "2024-04-02T01:17:35.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-04-01T22:16:17.369Z",
+        "namespace_hint": "KDDI",
+        "project_hint": "shooting",
+        "project_id": 5210,
+        "project_path": "KDDI/shooting"
+      },
+      "revision": "2511925ccee2858889dbf032d84afb64d5b0b47d",
+      "url": "https://dumps.tadiphone.dev/dumps/KDDI/shooting/-/tree/2511925ccee2858889dbf032d84afb64d5b0b47d"
+    },
+    {
+      "item_id": "KDDI/sov41@SOV41-user-9-55.0.C.1.182-3571873765-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "SOV41-user-9-55.0.C.1.182-3571873765-release-keys",
+        "commit": "c170485cf4c423ae506ad01732bc5f1394b9398a",
+        "committed_date": "2019-12-14T17:01:02.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T16:04:20.397Z",
+        "namespace_hint": "KDDI",
+        "project_hint": "sov41",
+        "project_id": 1923,
+        "project_path": "KDDI/sov41"
+      },
+      "revision": "c170485cf4c423ae506ad01732bc5f1394b9398a",
+      "url": "https://dumps.tadiphone.dev/dumps/KDDI/sov41/-/tree/c170485cf4c423ae506ad01732bc5f1394b9398a"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

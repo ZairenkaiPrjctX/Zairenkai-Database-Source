@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "polestar/ihu_emulator@ihu_emulator_ps_car-user-9-PAG1.200504.001-eng.tpratt.20200621.151218-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ihu_emulator_ps_car-user-9-PAG1.200504.001-eng.tpratt.20200621.151218-release-keys",
+        "commit": "40f74b5c6e380caaf7d33e1aec012e0c7dac7ceb",
+        "committed_date": "2021-05-13T14:01:20.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T18:25:56.273Z",
+        "namespace_hint": "polestar",
+        "project_hint": "ihu_emulator",
+        "project_id": 1247,
+        "project_path": "polestar/ihu_emulator"
+      },
+      "revision": "40f74b5c6e380caaf7d33e1aec012e0c7dac7ceb",
+      "url": "https://dumps.tadiphone.dev/dumps/polestar/ihu_emulator/-/tree/40f74b5c6e380caaf7d33e1aec012e0c7dac7ceb"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

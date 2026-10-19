@@ -1,0 +1,60 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "ibasso/dx170@DX170-userdebug-11-RQ3A.210705.001-eng.iBasso.20221208.191327-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "DX170-userdebug-11-RQ3A.210705.001-eng.iBasso.20221208.191327-release-keys",
+        "commit": "2802f8fa9ab0560a5b22488bc5ecaea4d25c5dcb",
+        "committed_date": "2023-01-13T23:49:01.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-01-13T20:47:52.365Z",
+        "namespace_hint": "ibasso",
+        "project_hint": "dx170",
+        "project_id": 4030,
+        "project_path": "ibasso/dx170"
+      },
+      "revision": "2802f8fa9ab0560a5b22488bc5ecaea4d25c5dcb",
+      "url": "https://dumps.tadiphone.dev/dumps/ibasso/dx170/-/tree/2802f8fa9ab0560a5b22488bc5ecaea4d25c5dcb"
+    },
+    {
+      "item_id": "ibasso/dx320@DX320-userdebug-11-RKQ1.210908.001-eng.root.20230225.045743-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "DX320-userdebug-11-RKQ1.210908.001-eng.root.20230225.045743-release-keys",
+        "commit": "841b71bb40c6863900930c2e61c07e2b8282daf3",
+        "committed_date": "2023-08-01T13:15:23.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-08-01T10:14:04.962Z",
+        "namespace_hint": "ibasso",
+        "project_hint": "dx320",
+        "project_id": 4382,
+        "project_path": "ibasso/dx320"
+      },
+      "revision": "841b71bb40c6863900930c2e61c07e2b8282daf3",
+      "url": "https://dumps.tadiphone.dev/dumps/ibasso/dx320/-/tree/841b71bb40c6863900930c2e61c07e2b8282daf3"
+    },
+    {
+      "item_id": "ibasso/dx320max@DX320MAX-userdebug-11-RKQ1.210908.001-eng.iBasso.20231208.155348-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "DX320MAX-userdebug-11-RKQ1.210908.001-eng.iBasso.20231208.155348-release-keys",
+        "commit": "b803c5312f05c47f736d3cac03601d01f9ca794b",
+        "committed_date": "2024-04-16T22:14:41.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-04-16T19:13:16.729Z",
+        "namespace_hint": "ibasso",
+        "project_hint": "dx320max",
+        "project_id": 5239,
+        "project_path": "ibasso/dx320max"
+      },
+      "revision": "b803c5312f05c47f736d3cac03601d01f9ca794b",
+      "url": "https://dumps.tadiphone.dev/dumps/ibasso/dx320max/-/tree/b803c5312f05c47f736d3cac03601d01f9ca794b"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

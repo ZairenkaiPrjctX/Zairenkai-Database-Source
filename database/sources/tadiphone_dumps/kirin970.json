@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "kirin970/kirin970@generic_a15-user-9-PPR1.180610.011-eng.root.20191111.192357-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "generic_a15-user-9-PPR1.180610.011-eng.root.20191111.192357-test-keys",
+        "commit": "9733fadf1bf142d5869610a5c76f2135cc59dff2",
+        "committed_date": "2021-03-27T03:14:40.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T23:49:54.412Z",
+        "namespace_hint": "kirin970",
+        "project_hint": "kirin970",
+        "project_id": 2242,
+        "project_path": "kirin970/kirin970"
+      },
+      "revision": "9733fadf1bf142d5869610a5c76f2135cc59dff2",
+      "url": "https://dumps.tadiphone.dev/dumps/kirin970/kirin970/-/tree/9733fadf1bf142d5869610a5c76f2135cc59dff2"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

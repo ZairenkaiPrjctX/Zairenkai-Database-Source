@@ -1,0 +1,145 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "smartisan/darwin@qssi-user-10-QKQ1.200712.002-1-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.200712.002-1-dev-keys",
+        "commit": "849a5e036c04c34bd298f8688e4ec72f1721f1c9",
+        "committed_date": "2021-07-28T05:31:45.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-11-09T19:07:43.287Z",
+        "namespace_hint": "smartisan",
+        "project_hint": "darwin",
+        "project_id": 2042,
+        "project_path": "smartisan/darwin"
+      },
+      "revision": "849a5e036c04c34bd298f8688e4ec72f1721f1c9",
+      "url": "https://dumps.tadiphone.dev/dumps/smartisan/darwin/-/tree/849a5e036c04c34bd298f8688e4ec72f1721f1c9"
+    },
+    {
+      "item_id": "smartisan/darwin@qssi-user-11-RKQ1.201217.002-1-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201217.002-1-dev-keys",
+        "commit": "f863db447b0fbf8f05e2398cd2fdfef22f8fd88e",
+        "committed_date": "2022-11-09T22:00:45.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-11-09T19:07:43.287Z",
+        "namespace_hint": "smartisan",
+        "project_hint": "darwin",
+        "project_id": 2042,
+        "project_path": "smartisan/darwin"
+      },
+      "revision": "f863db447b0fbf8f05e2398cd2fdfef22f8fd88e",
+      "url": "https://dumps.tadiphone.dev/dumps/smartisan/darwin/-/tree/f863db447b0fbf8f05e2398cd2fdfef22f8fd88e"
+    },
+    {
+      "item_id": "smartisan/delta@delta-user-9-PKQ1.190727.001-1-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "delta-user-9-PKQ1.190727.001-1-dev-keys",
+        "commit": "f8988727b8207300e4b2d44ac762ec762ba052bd",
+        "committed_date": "2019-11-04T09:53:48.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T18:10:58.678Z",
+        "namespace_hint": "smartisan",
+        "project_hint": "delta",
+        "project_id": 2020,
+        "project_path": "smartisan/delta"
+      },
+      "revision": "f8988727b8207300e4b2d44ac762ec762ba052bd",
+      "url": "https://dumps.tadiphone.dev/dumps/smartisan/delta/-/tree/f8988727b8207300e4b2d44ac762ec762ba052bd"
+    },
+    {
+      "item_id": "smartisan/ocean@ocean-user-8.1.0-OPM1.171019.026-1-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ocean-user-8.1.0-OPM1.171019.026-1-dev-keys",
+        "commit": "ff10c647f8ceccf9e49bac4b3dcfe022aa927497",
+        "committed_date": "2019-07-20T20:23:41.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T13:02:54.328Z",
+        "namespace_hint": "smartisan",
+        "project_hint": "ocean",
+        "project_id": 1773,
+        "project_path": "smartisan/ocean"
+      },
+      "revision": "ff10c647f8ceccf9e49bac4b3dcfe022aa927497",
+      "url": "https://dumps.tadiphone.dev/dumps/smartisan/ocean/-/tree/ff10c647f8ceccf9e49bac4b3dcfe022aa927497"
+    },
+    {
+      "item_id": "smartisan/oxford@oxford-user-7.1.1-NGI77B-1-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "oxford-user-7.1.1-NGI77B-1-dev-keys",
+        "commit": "5c32d63103d16654f5d0d8f35e30aaa333242371",
+        "committed_date": "2019-07-20T20:46:06.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T23:13:40.216Z",
+        "namespace_hint": "smartisan",
+        "project_hint": "oxford",
+        "project_id": 1380,
+        "project_path": "smartisan/oxford"
+      },
+      "revision": "5c32d63103d16654f5d0d8f35e30aaa333242371",
+      "url": "https://dumps.tadiphone.dev/dumps/smartisan/oxford/-/tree/5c32d63103d16654f5d0d8f35e30aaa333242371"
+    },
+    {
+      "item_id": "smartisan/trident@trident-user-8.1.0-OPM1.171019.026-1-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "trident-user-8.1.0-OPM1.171019.026-1-dev-keys",
+        "commit": "8e07a622284f9c0353152af28516dfc4db8b323d",
+        "committed_date": "2019-07-20T20:39:54.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T19:58:31.346Z",
+        "namespace_hint": "smartisan",
+        "project_hint": "trident",
+        "project_id": 2107,
+        "project_path": "smartisan/trident"
+      },
+      "revision": "8e07a622284f9c0353152af28516dfc4db8b323d",
+      "url": "https://dumps.tadiphone.dev/dumps/smartisan/trident/-/tree/8e07a622284f9c0353152af28516dfc4db8b323d"
+    },
+    {
+      "item_id": "smartisan/trident@trident-user-8.1.0-OPM1.171019.026-11-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "trident-user-8.1.0-OPM1.171019.026-11-dev-keys",
+        "commit": "25975137cc2f2a94a8cc6ca1b3ec6e686eca7c48",
+        "committed_date": "2019-07-20T19:57:25.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T19:58:31.346Z",
+        "namespace_hint": "smartisan",
+        "project_hint": "trident",
+        "project_id": 2107,
+        "project_path": "smartisan/trident"
+      },
+      "revision": "25975137cc2f2a94a8cc6ca1b3ec6e686eca7c48",
+      "url": "https://dumps.tadiphone.dev/dumps/smartisan/trident/-/tree/25975137cc2f2a94a8cc6ca1b3ec6e686eca7c48"
+    },
+    {
+      "item_id": "smartisan/trident@trident-user-8.1.0-OPM1.171019.026-58-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "trident-user-8.1.0-OPM1.171019.026-58-dev-keys",
+        "commit": "a9bd713e10d237df3efbdee534df33fd6390dd3b",
+        "committed_date": "2019-08-18T22:52:55.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T19:58:31.346Z",
+        "namespace_hint": "smartisan",
+        "project_hint": "trident",
+        "project_id": 2107,
+        "project_path": "smartisan/trident"
+      },
+      "revision": "a9bd713e10d237df3efbdee534df33fd6390dd3b",
+      "url": "https://dumps.tadiphone.dev/dumps/smartisan/trident/-/tree/a9bd713e10d237df3efbdee534df33fd6390dd3b"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

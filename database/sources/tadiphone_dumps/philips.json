@@ -1,0 +1,111 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "philips/rk3288@rk3288-user-8.1.0-10BDL4551T-FB01.07T_TeamViwerUpdateFW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "rk3288-user-8.1.0-10BDL4551T-FB01.07T_TeamViwerUpdateFW-release-keys",
+        "commit": "5ebedf790b44bff5b049bd6c17728bd0b9d8236e",
+        "committed_date": "2025-12-20T20:09:27.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-01-03T01:10:40.745Z",
+        "namespace_hint": "philips",
+        "project_hint": "rk3288",
+        "project_id": 5720,
+        "project_path": "philips/rk3288"
+      },
+      "revision": "5ebedf790b44bff5b049bd6c17728bd0b9d8236e",
+      "url": "https://dumps.tadiphone.dev/dumps/philips/rk3288/-/tree/5ebedf790b44bff5b049bd6c17728bd0b9d8236e"
+    },
+    {
+      "item_id": "philips/rk3288@rk3288-user-8.1.0-10BDL4551T-FB01.12-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "rk3288-user-8.1.0-10BDL4551T-FB01.12-release-keys",
+        "commit": "79d521197f57febe204d4b2539ecd281a58e1a83",
+        "committed_date": "2026-01-03T04:09:06.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-01-03T01:10:40.745Z",
+        "namespace_hint": "philips",
+        "project_hint": "rk3288",
+        "project_id": 5720,
+        "project_path": "philips/rk3288"
+      },
+      "revision": "79d521197f57febe204d4b2539ecd281a58e1a83",
+      "url": "https://dumps.tadiphone.dev/dumps/philips/rk3288/-/tree/79d521197f57febe204d4b2539ecd281a58e1a83"
+    },
+    {
+      "item_id": "philips/rk3368@rk3368_64-user-7.1.2-10BDL_3368-user.genebuild.20211004.093107-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "rk3368_64-user-7.1.2-10BDL_3368-user.genebuild.20211004.093107-release-keys",
+        "commit": "60bb45b6318fb77ad2de9f569ca8f18e6da298d2",
+        "committed_date": "2025-12-20T20:15:09.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-12-20T17:14:10.889Z",
+        "namespace_hint": "philips",
+        "project_hint": "rk3368",
+        "project_id": 5721,
+        "project_path": "philips/rk3368"
+      },
+      "revision": "60bb45b6318fb77ad2de9f569ca8f18e6da298d2",
+      "url": "https://dumps.tadiphone.dev/dumps/philips/rk3368/-/tree/60bb45b6318fb77ad2de9f569ca8f18e6da298d2"
+    },
+    {
+      "item_id": "philips/sindap@polarbear-user-11-RTO4.230808.001-10626794-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "polarbear-user-11-RTO4.230808.001-10626794-release-keys",
+        "commit": "efc3fe8b348ad3cdd19bc57c586ef9d7b0cbb1ad",
+        "committed_date": "2026-03-08T06:00:05.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-03-08T21:56:21.886Z",
+        "namespace_hint": "philips",
+        "project_hint": "sindap",
+        "project_id": 5750,
+        "project_path": "philips/sindap"
+      },
+      "revision": "efc3fe8b348ad3cdd19bc57c586ef9d7b0cbb1ad",
+      "url": "https://dumps.tadiphone.dev/dumps/philips/sindap/-/tree/efc3fe8b348ad3cdd19bc57c586ef9d7b0cbb1ad"
+    },
+    {
+      "item_id": "philips/sindap@polarbear-user-11-RTXC.231010.082.A1-11562433-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "polarbear-user-11-RTXC.231010.082.A1-11562433-release-keys",
+        "commit": "f5bdb788c35361cb6e0c8496e52d1b848abfe4b5",
+        "committed_date": "2026-03-08T06:07:28.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-03-08T21:56:21.886Z",
+        "namespace_hint": "philips",
+        "project_hint": "sindap",
+        "project_id": 5750,
+        "project_path": "philips/sindap"
+      },
+      "revision": "f5bdb788c35361cb6e0c8496e52d1b848abfe4b5",
+      "url": "https://dumps.tadiphone.dev/dumps/philips/sindap/-/tree/f5bdb788c35361cb6e0c8496e52d1b848abfe4b5"
+    },
+    {
+      "item_id": "philips/sindap@polarbear-user-9-PTM5.200218.656-7696047-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "polarbear-user-9-PTM5.200218.656-7696047-release-keys",
+        "commit": "ad890511b75e4205ef4d8dd977c3d16461a513dc",
+        "committed_date": "2026-03-09T00:54:15.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-03-08T21:56:21.886Z",
+        "namespace_hint": "philips",
+        "project_hint": "sindap",
+        "project_id": 5750,
+        "project_path": "philips/sindap"
+      },
+      "revision": "ad890511b75e4205ef4d8dd977c3d16461a513dc",
+      "url": "https://dumps.tadiphone.dev/dumps/philips/sindap/-/tree/ad890511b75e4205ef4d8dd977c3d16461a513dc"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

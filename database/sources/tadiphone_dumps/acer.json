@@ -1,0 +1,60 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "acer/acer_barricadewifi@full_neostra8163_tb_m-user-6.0-MRA58K-1481784106-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_neostra8163_tb_m-user-6.0-MRA58K-1481784106-release-keys",
+        "commit": "a109b0eece08034537259440383098ddaad27fa7",
+        "committed_date": "2021-07-02T02:46:32.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T06:25:01.394Z",
+        "namespace_hint": "acer",
+        "project_hint": "acer_barricadewifi",
+        "project_id": 1507,
+        "project_path": "acer/acer_barricadewifi"
+      },
+      "revision": "a109b0eece08034537259440383098ddaad27fa7",
+      "url": "https://dumps.tadiphone.dev/dumps/acer/acer_barricadewifi/-/tree/a109b0eece08034537259440383098ddaad27fa7"
+    },
+    {
+      "item_id": "acer/acer_c01@msm8953_64-user-7.1.1-NMF26F-1521514970-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8953_64-user-7.1.1-NMF26F-1521514970-release-keys",
+        "commit": "40553bbbb34257c6083783efa184e7c737a6ed90",
+        "committed_date": "2022-07-11T01:02:19.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-07-10T22:00:47.641Z",
+        "namespace_hint": "acer",
+        "project_hint": "acer_c01",
+        "project_id": 2352,
+        "project_path": "acer/acer_c01"
+      },
+      "revision": "40553bbbb34257c6083783efa184e7c737a6ed90",
+      "url": "https://dumps.tadiphone.dev/dumps/acer/acer_c01/-/tree/40553bbbb34257c6083783efa184e7c737a6ed90"
+    },
+    {
+      "item_id": "acer/acerone8t482l@full_tb8766p1_64_bsp-user-10-QP1A.190711.020-1637807355-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_tb8766p1_64_bsp-user-10-QP1A.190711.020-1637807355-release-keys",
+        "commit": "056a0c04f6374aa8ef41d008822a4fcbbb6c4778",
+        "committed_date": "2023-03-01T17:36:58.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-03-01T14:35:36.372Z",
+        "namespace_hint": "acer",
+        "project_hint": "acerone8t482l",
+        "project_id": 4079,
+        "project_path": "acer/acerone8t482l"
+      },
+      "revision": "056a0c04f6374aa8ef41d008822a4fcbbb6c4778",
+      "url": "https://dumps.tadiphone.dev/dumps/acer/acerone8t482l/-/tree/056a0c04f6374aa8ef41d008822a4fcbbb6c4778"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

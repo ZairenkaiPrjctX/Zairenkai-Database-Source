@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "bravis/n1_550_cruiser@full_a600w_v1_a_hxgj_ac18_bravis_o-eng-8.1.0-O11019-1547711460-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_a600w_v1_a_hxgj_ac18_bravis_o-eng-8.1.0-O11019-1547711460-release-keys",
+        "commit": "f2ca9d84b817314421121bdb1c054db464551578",
+        "committed_date": "2019-10-20T14:17:38.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T09:23:51.398Z",
+        "namespace_hint": "bravis",
+        "project_hint": "n1_550_cruiser",
+        "project_id": 1646,
+        "project_path": "bravis/n1_550_cruiser"
+      },
+      "revision": "f2ca9d84b817314421121bdb1c054db464551578",
+      "url": "https://dumps.tadiphone.dev/dumps/bravis/n1_550_cruiser/-/tree/f2ca9d84b817314421121bdb1c054db464551578"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

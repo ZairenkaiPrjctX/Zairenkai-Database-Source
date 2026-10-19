@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "apple/apple@full_keytak6580_weg_n-user-7.0-NRD90M-1503372241-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_keytak6580_weg_n-user-7.0-NRD90M-1503372241-test-keys",
+        "commit": "3c3669ebcdf6b68238f6bddd25a470cc809d0fae",
+        "committed_date": "2019-07-31T19:27:17.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T07:44:33.796Z",
+        "namespace_hint": "apple",
+        "project_hint": "apple",
+        "project_id": 1558,
+        "project_path": "apple/apple"
+      },
+      "revision": "3c3669ebcdf6b68238f6bddd25a470cc809d0fae",
+      "url": "https://dumps.tadiphone.dev/dumps/apple/apple/-/tree/3c3669ebcdf6b68238f6bddd25a470cc809d0fae"
+    },
+    {
+      "item_id": "apple/apple@keytak82_wet_jb5-user-4.2.2-JDQ39-eng.root.1510054683-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "keytak82_wet_jb5-user-4.2.2-JDQ39-eng.root.1510054683-test-keys",
+        "commit": "a7a1f6d7bb681a3c4ee466376722bebfe0fd011f",
+        "committed_date": "2019-07-31T19:23:04.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T07:44:33.796Z",
+        "namespace_hint": "apple",
+        "project_hint": "apple",
+        "project_id": 1558,
+        "project_path": "apple/apple"
+      },
+      "revision": "a7a1f6d7bb681a3c4ee466376722bebfe0fd011f",
+      "url": "https://dumps.tadiphone.dev/dumps/apple/apple/-/tree/a7a1f6d7bb681a3c4ee466376722bebfe0fd011f"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

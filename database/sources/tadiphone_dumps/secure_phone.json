@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "secure_phone/x2@e_one-user-12-SQ3A.220705.004-eng.root.20230913.220248-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "e_one-user-12-SQ3A.220705.004-eng.root.20230913.220248-dev-keys",
+        "commit": "29ffc47f4e57d5abc35b8ffd729694027845dcdd",
+        "committed_date": "2023-10-16T23:50:59.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-10-16T20:49:36.401Z",
+        "namespace_hint": "secure_phone",
+        "project_hint": "x2",
+        "project_id": 4538,
+        "project_path": "secure_phone/x2"
+      },
+      "revision": "29ffc47f4e57d5abc35b8ffd729694027845dcdd",
+      "url": "https://dumps.tadiphone.dev/dumps/secure_phone/x2/-/tree/29ffc47f4e57d5abc35b8ffd729694027845dcdd"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}
