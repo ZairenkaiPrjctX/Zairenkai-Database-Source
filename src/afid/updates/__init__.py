@@ -128,8 +128,14 @@ def select_providers(cfg: Config, provider: str | None, brand: str | None) -> li
 
 
 def check(
-    cfg: Config, provider: str | None = None, brand: str | None = None, write: bool = False
+    cfg: Config,
+    provider: str | None = None,
+    brand: str | None = None,
+    write: bool = False,
+    include_dumps: bool = True,
 ) -> CheckOutcome:
+    """include_dumps=False skips firmware-item (dump) providers, whose listing is long-running
+    and has its own workflow (discover-dumps.yml)."""
     store = Store(cfg.database)
     outcome = CheckOutcome()
     now = utc_now()
@@ -140,7 +146,23 @@ def check(
 
     for entry in select_providers(cfg, provider, brand):
         prov = registry.build(cfg, entry)
-        if not prov.capabilities().discover_devices:
+        caps = prov.capabilities()
+        if caps.discover_firmware and not caps.discover_devices:
+            if not include_dumps:
+                continue
+            if brand:
+                outcome.provider_status.append(
+                    {
+                        "provider_id": entry["id"],
+                        "status": "unsupported",
+                        "detail": "brand filter not applicable: a dump's brand is known only "
+                        "after analysis",
+                    }
+                )
+                continue
+            _check_items(store, entry, prov, outcome, write, now)
+            continue
+        if not caps.discover_devices:
             outcome.provider_status.append(
                 {
                     "provider_id": entry["id"],
@@ -259,7 +281,9 @@ def _write(
             ("discovered_at", "retrieved_at"),
         ):
             written.append(str(path))
-    items = dict(old_items)  # keep items a filtered/partial run did not see
+    # Keep items a filtered/partial run did not see, but never the old "_index" marker: it is
+    # re-added once below, otherwise it would be duplicated and the file would flap between runs.
+    items = {k: v for k, v in old_items.items() if k != "_index"}
     for c in res.candidates:
         items[c.item_id] = {
             "item_id": c.item_id,
@@ -286,6 +310,84 @@ def _write(
     if jsonio.write_if_changed(path, snapshot, ("checked_at",)):
         written.append(str(path))
     return written
+
+
+def _check_items(
+    store: Store,
+    entry: dict[str, Any],
+    prov: Any,
+    outcome: CheckOutcome,
+    write: bool,
+    now: str,
+) -> None:
+    """Firmware-item sources (dump repositories): diff items by revision (commit SHA)."""
+    snap_path = store.source_path(entry["id"])
+    old = jsonio.load(snap_path) if snap_path.exists() else {"items": []}
+    old_all = {i["item_id"]: i for i in old["items"] if i.get("kind") in ("firmware", "index")}
+    old_items = {k: v for k, v in old_all.items() if v["kind"] == "firmware"}
+    try:
+        res = prov.discover_firmware(previous=old_all)
+    except (CapabilityError, AfidError, OSError) as exc:
+        outcome.provider_status.append(
+            {"provider_id": entry["id"], "status": "failed", "detail": str(exc)[:300]}
+        )
+        outcome.changes.append(
+            Change(
+                "unavailable", "source", entry["id"], "provider check failed; existing data kept"
+            )
+        )
+        return
+    outcome.results.append(res)
+    outcome.provider_status.append(
+        {
+            "provider_id": entry["id"],
+            "status": res.status,
+            "detail": f"{sum(i.kind == 'firmware' for i in res.items)} firmware items, "
+            f"{res.skipped} skipped, "
+            f"{len(res.errors)} errors; {res.stats}",
+        }
+    )
+    new_all = {i.item_id: i for i in res.items}
+    new_items = {k: v for k, v in new_all.items() if v.kind == "firmware"}
+    for item_id, it in sorted(new_items.items()):
+        prev = old_items.get(item_id)
+        if prev is None:
+            outcome.changes.append(Change("added", "firmware_item", item_id, it.revision))
+        elif prev["revision"] != it.revision:
+            outcome.changes.append(
+                Change(
+                    "changed",
+                    "firmware_item",
+                    item_id,
+                    f"revision {prev['revision']} -> {it.revision}",
+                )
+            )
+    complete = res.status == "ok"
+    for item_id in sorted(set(old_items) - set(new_items)):
+        outcome.changes.append(
+            Change(
+                "removed_from_source" if complete else "unavailable",
+                "firmware_item",
+                item_id,
+                "no longer listed by the source; cataloged records are kept"
+                if complete
+                else "not seen in a partial run; existing data kept",
+            )
+        )
+    if not write:
+        return
+    items = {} if complete else dict(old_all)
+    items.update({k: v.as_snapshot() for k, v in new_all.items()})
+    snapshot: dict[str, Any] = {
+        "schema_version": "1.0",
+        "provider_id": entry["id"],
+        "status": res.status,
+        "checked_at": now,
+        "items": [items[k] for k in sorted(items)],
+        "errors": sorted(res.errors),
+    }
+    if jsonio.write_if_changed(snap_path, snapshot, ("checked_at",)):
+        outcome.written.append(str(snap_path))
 
 
 def history(store: Store, device_id: str | None = None) -> list[dict[str, Any]]:

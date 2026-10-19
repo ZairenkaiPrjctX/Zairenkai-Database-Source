@@ -300,6 +300,28 @@ providers:
   - tecno
   - google_pixel
   - nothing
+  - motorola
+  - nokia
+  - lenovo
+  - realme
+  - oppo
+  - vivo
+  - iqoo
+  - asus
+  - sony
+  - meizu
+  - lge
+  - amazon
+  - nubia
+  - zte
+  - honor
+  - huawei
+  - itel
+  - tcl
+  - htc
+  - fairphone
+  - umidigi
+  - blackshark
   status: active
   source_type: user_supplied_local_firmware
   source_urls: []
@@ -407,3 +429,214 @@ providers:
       Project, licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). Adapted
       by AFID: selected factual fields only.'
     share_alike: true
+- id: android_dumps_gitlab
+  class: afid.providers.dumps.AndroidDumpsGitLabProvider
+  brand_ids:
+  - samsung
+  - xiaomi
+  - poco
+  - redmi
+  - infinix
+  - oneplus
+  - tecno
+  - google_pixel
+  - nothing
+  - motorola
+  - nokia
+  - lenovo
+  - realme
+  - oppo
+  - vivo
+  - iqoo
+  - asus
+  - sony
+  - meizu
+  - lge
+  - amazon
+  - nubia
+  - zte
+  - honor
+  - huawei
+  - itel
+  - tcl
+  - htc
+  - fairphone
+  - umidigi
+  - blackshark
+  status: metadata_only
+  source_type: community_firmware_dump
+  source_urls:
+  - https://gitlab.com/Android-Dumps
+  - https://gitlab.com/api/v4/groups/13303221/projects
+  allowed_hosts:
+  - gitlab.com
+  capabilities:
+    discover_devices: false
+    discover_firmware: true
+    fetch_metadata: true
+    download: false
+    verify: false
+    local_import: false
+  auth:
+    method: none
+  distribution_default: unknown
+  last_verified: '2026-10-18'
+  limitations: Public GitLab group of DumprX dumps (430 projects on 2026-10-18; one project per device,
+    one branch per firmware build). AFID lists projects/branches and fetches a bounded set of individual
+    files pinned to the branch commit; it never clones, never downloads archives and never pushes. Namespace
+    and project names are hints; identity comes from the dump's build.prop. Some large files are Git LFS
+    pointers and are recorded as such, not fetched. Unauthenticated API limit 500 requests per window.
+  settings:
+    api_base: https://gitlab.com/api/v4
+    group: 13303221
+    group_path: Android-Dumps
+    max_project_pages: 20
+    min_projects: 200
+    max_branches_per_project: 50
+    max_tree_pages: 400
+  data_license:
+    spdx: null
+    status: unknown
+    basis: Dumps of OEM firmware published by third parties without a license; the files are proprietary
+      vendor/OEM content. AFID stores metadata (paths, hashes, parsed structure) only and keeps distribution
+      status 'unknown'.
+    evidence_urls: []
+    attribution: null
+    share_alike: false
+- id: tadiphone_dumps
+  class: afid.providers.dumps.TadiphoneDumpsProvider
+  brand_ids:
+  - samsung
+  - xiaomi
+  - poco
+  - redmi
+  - infinix
+  - oneplus
+  - tecno
+  - google_pixel
+  - nothing
+  - motorola
+  - nokia
+  - lenovo
+  - realme
+  - oppo
+  - vivo
+  - iqoo
+  - asus
+  - sony
+  - meizu
+  - lge
+  - amazon
+  - nubia
+  - zte
+  - honor
+  - huawei
+  - itel
+  - tcl
+  - htc
+  - fairphone
+  - umidigi
+  - blackshark
+  status: metadata_only
+  source_type: community_firmware_dump
+  source_urls:
+  - https://dumps.tadiphone.dev/dumps
+  - https://dumps.tadiphone.dev/api/v4/groups/64/projects
+  allowed_hosts:
+  - dumps.tadiphone.dev
+  capabilities:
+    discover_devices: false
+    discover_firmware: true
+    fetch_metadata: true
+    download: false
+    verify: false
+    local_import: false
+  auth:
+    method: none
+  distribution_default: unknown
+  last_verified: '2026-10-18'
+  limitations: Self-hosted GitLab with 2877 dump projects on 2026-10-18 (same one-project-per-device,
+    one-branch-per-build layout; has all_files.txt but no README/all_files.sha1). Independent of Android-Dumps
+    (no shared commits in a sample), so the same build can appear on both hosts and is merged by identity.
+    No rate-limit headers are sent; AFID throttles itself. /api/v4/version requires authentication and
+    is not used.
+  settings:
+    api_base: https://dumps.tadiphone.dev/api/v4
+    group: 64
+    group_path: dumps
+    max_project_pages: 60
+    min_projects: 1500
+    max_branches_per_project: 50
+    max_tree_pages: 400
+  data_license:
+    spdx: null
+    status: unknown
+    basis: Dumps of OEM firmware published by third parties without a license; the files are proprietary
+      vendor/OEM content. AFID stores metadata (paths, hashes, parsed structure) only and keeps distribution
+      status 'unknown'.
+    evidence_urls: []
+    attribution: null
+    share_alike: false
+- id: dumprx
+  class: afid.providers.dumprx_tool.DumprXProvider
+  brand_ids:
+  - samsung
+  - xiaomi
+  - poco
+  - redmi
+  - infinix
+  - oneplus
+  - tecno
+  - google_pixel
+  - nothing
+  - motorola
+  - nokia
+  - lenovo
+  - realme
+  - oppo
+  - vivo
+  - iqoo
+  - asus
+  - sony
+  - meizu
+  - lge
+  - amazon
+  - nubia
+  - zte
+  - honor
+  - huawei
+  - itel
+  - tcl
+  - htc
+  - fairphone
+  - umidigi
+  - blackshark
+  status: manual_import_required
+  source_type: user_supplied_local_firmware
+  source_urls:
+  - https://github.com/DumprX/DumprX
+  allowed_hosts: []
+  capabilities:
+    discover_devices: false
+    discover_firmware: false
+    fetch_metadata: false
+    download: false
+    verify: true
+    local_import: true
+  auth:
+    method: none
+  distribution_default: user_supplied
+  last_verified: '2026-10-18'
+  limitations: Tool provider, not a source. Runs a pinned DumprX checkout (GPL-3.0-only, commit in
+    config/settings.yml) offline inside the afid-firmware-worker container to unpack a local firmware
+    file, then ingests the extracted tree like local_firmware. AFID never passes URLs or credentials to
+    DumprX and refuses to run if DumprX credential files (.github_token, .gitlab_token, .tg_token ...) exist.
+  settings: {}
+  data_license:
+    spdx: null
+    status: unknown
+    basis: Firmware and vendor files obtained by the user; proprietary vendor/OEM terms apply. AFID's
+      Apache-2.0 license does not cover them.
+    evidence_urls: []
+    attribution: null
+    share_alike: false

@@ -1,0 +1,93 @@
+name: plan-firmware-matrix
+
+# Plans one bounded batch of dump items from the committed discovery snapshots, catalog
+# source refs and ingestion state. Deterministic: same inputs, same plan. The matrix never
+# exceeds GitHub's 256-job limit or MAX_ITEMS_PER_RUN. Read-only; no network.
+on:
+  workflow_call:
+    inputs:
+      mode:
+        type: string
+        default: eligible-batch
+      provider:
+        type: string
+        default: ""
+      item:
+        type: string
+        default: ""
+      batch_size:
+        type: string
+        default: ""
+      batch_index:
+        type: string
+        default: "0"
+    outputs:
+      matrix:
+        description: JSON object with an "include" list
+        value: ${{ jobs.plan.outputs.matrix }}
+      count:
+        description: Number of entries in this batch
+        value: ${{ jobs.plan.outputs.count }}
+  workflow_dispatch:
+    inputs:
+      mode:
+        type: choice
+        options: [metadata-only, selected-item, eligible-batch, full-eligible-catalog]
+        default: eligible-batch
+      provider:
+        description: Dump provider (empty = all)
+        default: ""
+      item:
+        description: Item id (selected-item mode)
+        default: ""
+      batch_size:
+        description: Entries per batch (empty = MAX_ITEMS_PER_RUN, at most 256)
+        default: ""
+      batch_index:
+        description: Which batch (full-eligible-catalog mode)
+        default: "0"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: plan-firmware-matrix-${{ github.run_id }}
+  cancel-in-progress: false
+
+jobs:
+  plan:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    outputs:
+      matrix: ${{ steps.plan.outputs.matrix }}
+      count: ${{ steps.plan.outputs.count }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: ./.github/actions/setup-afid
+      - id: plan
+        name: Plan
+        env:
+          MODE: ${{ inputs.mode }}
+          PROVIDER: ${{ inputs.provider }}
+          ITEM: ${{ inputs.item }}
+          BATCH_SIZE: ${{ inputs.batch_size }}
+          BATCH_INDEX: ${{ inputs.batch_index }}
+          AFID_MAX_ITEMS_PER_RUN: ${{ vars.AFID_MAX_ITEMS_PER_RUN || '20' }}
+        run: |
+          args=(--mode "$MODE" --batch-index "${BATCH_INDEX:-0}" --output plan.json)
+          if [ -n "$PROVIDER" ]; then args+=(--provider "$PROVIDER"); fi
+          if [ -n "$ITEM" ]; then args+=(--item "$ITEM"); fi
+          if [ -n "$BATCH_SIZE" ]; then args+=(--batch-size "$BATCH_SIZE"); fi
+          afid matrix plan "${args[@]}"
+          {
+            echo "matrix=$(python -c 'import json;print(json.dumps(json.load(open("plan.json"))["matrix"]))')"
+            echo "count=$(python -c 'import json;print(len(json.load(open("plan.json"))["matrix"]["include"]))')"
+          } >> "$GITHUB_OUTPUT"
+          python -c 'import json;p=json.load(open("plan.json"));print("## Plan\n", "mode", p["mode"], "| eligible", p["eligible"], "| batch", p["batch_index"], "of", p["batch_count"], "| statuses", p["summary"])' >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: matrix-plan-${{ github.run_attempt }}
+          path: plan.json
+          retention-days: 14

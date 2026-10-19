@@ -57,3 +57,9 @@ class PolicyViolationError(AfidError):
 
 class NotFoundError(AfidError):
     exit_code = 10
+
+
+class ResourceError(AfidError):
+    """Not enough disk, inodes or memory for the requested work, or a budget was exceeded."""
+
+    exit_code = 13

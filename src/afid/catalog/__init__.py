@@ -141,6 +141,12 @@ class Store:
                     f"{fw_path} holds {old['firmware_id']}, refusing to "
                     f"overwrite with {firmware['firmware_id']}"
                 )
+            firmware = dict(
+                firmware,
+                source_refs=merge_source_refs(
+                    old.get("source_refs", []), firmware.get("source_refs", [])
+                ),
+            )
         cdir = self.components_dir(brand, key, fw_key)
         for group, comps in sorted(groups.items()):
             doc = {
@@ -162,10 +168,25 @@ class Store:
         # Re-ingesting identical content only changes timestamps, which are ignored here, so
         # the file (and Git) stays untouched.
         if jsonio.write_if_changed(
-            fw_path, firmware, VOLATILE + ("ingested_at", "last_updated_at")
+            fw_path, firmware, VOLATILE + ("ingested_at", "last_updated_at", "retrieved_at")
         ):
             written.append(fw_path)
         return written
+
+
+def merge_source_refs(old: list[dict[str, Any]], new: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    """Union of source refs keyed by (provider_id, item_id). An existing ref keeps its
+    original retrieval time unless its revision changed; refs are never dropped."""
+    out = {(r["provider_id"], r["item_id"]): r for r in old}
+    for r in new:
+        key = (r["provider_id"], r["item_id"])
+        prev = out.get(key)
+        if prev is None or (prev.get("revision"), prev.get("content_marker")) != (
+            r.get("revision"),
+            r.get("content_marker"),
+        ):
+            out[key] = r
+    return [out[k] for k in sorted(out)]
 
 
 def _union(a: list[Any], b: list[Any]) -> list[Any]:

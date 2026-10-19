@@ -1,4 +1,4 @@
-# Licensing and redistribution
+# Licence and distribution
 
 ## Layers
 
@@ -8,7 +8,16 @@
 | Redistributable data | `redistributable/` (Git) | files whose SHA-256 is in `config/redistributable_allowlist.yml` with license evidence |
 | Restricted payload | never in Git | proprietary firmware and vendor files; indexed by metadata only |
 | Local extraction/cache | `.afid-cache/` (gitignored) | downloads, unpacked archives, extracted trees |
-| Workflow artifacts | Actions | JSON reports, patches of `database/`, test reports; never payloads |
+| Workflow artifacts | Actions | JSON reports, patches of `database/`, delta stores (metadata only), SBOMs, scan reports, tested image tarballs (publish runs only); never firmware payloads |
+| Dump analysis work | job-private temporary directory | individual files fetched from a dump, deleted when the item finishes |
+| DumprX work | `/work` in the worker container | the firmware file and DumprX `out/`, deleted after the job; never uploaded |
+
+Data classes are kept apart: community device metadata (staging), community firmware dump
+metadata (`community_firmware_dump`, distribution `unknown`), user-supplied firmware metadata
+(`user_supplied`), and allowlisted redistributable files. Being listed by a public dump host
+does not make a file redistributable: dump repositories state no licence and contain
+proprietary OEM files, so every record derived from them keeps `distribution_status:
+unknown` (`test_remote_analysis_catalogs_verified_device`).
 
 ## Statuses
 
@@ -53,7 +62,19 @@ record, so each record states its own license.
 | Source | License status | Basis |
 |---|---|---|
 | `lineageos_wiki` | `CC-BY-SA-3.0`, `declared_by_source` | no license file for `_data/devices/`; the repository's own footer template declares CC BY-SA 3.0 for every generated page (commit `2c365be2`, live page checked 2026-10-18) |
-| all firmware providers | `unknown` | user-supplied proprietary firmware |
+| `android_dumps_gitlab`, `tadiphone_dumps` | `unknown` | no licence stated; dumps of proprietary OEM firmware; AFID stores metadata only |
+| `dumprx` and all local firmware providers | `unknown` | user-supplied proprietary firmware |
+
+## Third-party tools
+
+| Tool | Licence | How it is used |
+|---|---|---|
+| DumprX `303f5bba` | GPL-3.0-only | separate program inside `afid-firmware-worker`; not linked or modified; worker image not published until its bundled binaries are reviewed ([DUMPRX_INTEGRATION.md](DUMPRX_INTEGRATION.md)) |
+| ShivamKumarJha/android_tools `ca04143b` | GPL-3.0 | DumprX helper, inside the worker image |
+| `extract-ikconfig` (Linux v6.12) | GPL-2.0 | DumprX helper, inside the worker image |
+| bkerler/oppo_ozip_decrypt, bkerler/oppo_decrypt, HemanthJabalpuri/pacextractor | no licence | **excluded** |
+| rar/unrar/p7zip-rar | non-free | **excluded** |
+| Trivy, Syft, Hadolint | Apache-2.0, Apache-2.0, GPL-3.0 | security scanning in CI and `afid-security` |
 
 `declared_by_source` means the source states the license for its published content but not in a
 file-level grant. AFID complies with the declared terms (attribution, share-alike) and keeps the

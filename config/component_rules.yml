@@ -15,6 +15,7 @@
 #   paths         globs (any must match)
 #   require_elf   true: file must parse as ELF; false: must not be ELF; omit: either
 #   soc_vendors   informative tag: the rule is known for these SoC vendors only
+#   exclude_paths globs that must NOT match even when `paths` does (known false positives)
 #   confidence    0.0-1.0
 #   reason        human-readable justification stored with each classification
 schema_version: "1.0"
@@ -30,8 +31,17 @@ catalog_unknown_globs:
   - "*/etc/perf/**"
   - "*/etc/power*/**"
 
+# Files that are never cataloged, whatever rule or glob matches: names that contain a keyword
+# but are not thermal/power configuration (verified on a MediaTek dump: audio tuning tables,
+# media codec performance points).
+exclude_globs:
+  - "*/etc/audio_param/**"
+  - "**/media_codecs_performance*.xml"
+  - "**/media_profiles*.xml"
+
 # Keywords that make an init service or config relevant to thermal/power work.
-relevance_keywords: [thermal, power, perf, perfd, powerhint, throttl, cpufreq, devfreq, gpufreq]
+relevance_keywords: [thermal, power, perf, perfd, powerhint, throttl, cpufreq, devfreq, gpufreq,
+                     fpsgo, mtkpower]
 
 rules:
   # ---- Thermal HAL ------------------------------------------------------------------------
@@ -93,8 +103,9 @@ rules:
   - id: thermal_config.generic
     category: thermal_config
     subcategory: generic
-    paths: ["*/etc/thermal*.conf", "*/etc/thermal*.json", "*/etc/thermal*.xml",
-            "*/etc/**/thermal*.conf", "*/etc/**/thermal*.json", "*/etc/**/thermal*.xml"]
+    paths: ["*/etc/thermal*.conf", "*/etc/thermal*.json", "*/etc/thermal*.xml", "*/etc/thermal*.yaml",
+            "*/etc/**/thermal*.conf", "*/etc/**/thermal*.json", "*/etc/**/thermal*.xml",
+            "*/etc/**/thermal*.yaml"]
     require_elf: false
     confidence: 0.7
     reason: "Configuration file whose name starts with 'thermal' under */etc/"
@@ -105,6 +116,23 @@ rules:
     require_elf: false
     confidence: 0.6
     reason: "Non-ELF file inside an */etc/thermal*/ directory"
+
+  - id: thermal_engine.mediatek_thermal_core
+    category: thermal_engine
+    subcategory: daemon_binary
+    paths: ["*/bin/thermal_core", "*/bin/thermal_intf"]
+    require_elf: true
+    soc_vendors: [mediatek]
+    confidence: 0.7
+    reason: "MediaTek thermal daemon naming (started by init.thermal_core.rc on MediaTek dumps); name-based"
+  - id: thermal_config.mediatek_atm
+    category: thermal_config
+    subcategory: advance_thermal_mitigation
+    paths: ["*/etc/advance_thermal_mitigation/**"]
+    require_elf: false
+    soc_vendors: [mediatek]
+    confidence: 0.7
+    reason: "MediaTek advance thermal mitigation configuration directory"
 
   # ---- Power HAL, power configuration, performance -----------------------------------------
   - id: power_hal.service.aidl_or_hidl
@@ -137,6 +165,58 @@ rules:
     soc_vendors: [qualcomm]
     confidence: 0.7
     reason: "Qualcomm perf HAL service naming; related to power management but not the AOSP Power HAL"
+  - id: power_hal.mediatek_mtkpower_service
+    category: power_hal
+    subcategory: vendor_power_service
+    paths: ["*/bin/hw/vendor.mediatek.hardware.mtkpower-service*",
+            "*/bin/hw/vendor.mediatek.hardware.mtkpower_applist-service*"]
+    require_elf: true
+    soc_vendors: [mediatek]
+    confidence: 0.8
+    reason: "MediaTek mtkpower HAL service naming under */bin/hw/; vendor power HAL, not the AOSP Power HAL"
+  - id: power_hal.mediatek_mtkpower_impl
+    category: power_hal
+    subcategory: hal_impl_library
+    paths: ["*/lib/hw/vendor.mediatek.hardware.mtkpower*impl*.so", "*/lib64/hw/vendor.mediatek.hardware.mtkpower*impl*.so",
+            "*/lib/android.hardware.power-service-mediatek.so", "*/lib64/android.hardware.power-service-mediatek.so"]
+    require_elf: true
+    soc_vendors: [mediatek]
+    confidence: 0.8
+    reason: "MediaTek power HAL implementation library naming"
+  - id: power_hal.mediatek_mtkpower_interface
+    category: power_hal
+    subcategory: interface_library
+    paths: ["*/lib/vendor.mediatek.hardware.mtkpower*.so", "*/lib64/vendor.mediatek.hardware.mtkpower*.so"]
+    require_elf: true
+    soc_vendors: [mediatek]
+    confidence: 0.75
+    reason: "Generated MediaTek mtkpower interface library naming"
+  - id: power_config.mediatek_powerhal_tables
+    category: power_config
+    subcategory: mediatek_powerhal_xml
+    paths: ["*/etc/powercontable.xml", "*/etc/powerscntbl.xml", "*/etc/power_app_cfg.xml",
+            "*/etc/performance/*.xml"]
+    require_elf: false
+    soc_vendors: [mediatek]
+    confidence: 0.75
+    reason: "MediaTek power HAL command/scenario tables read by libpowerhal (names seen on MediaTek dumps)"
+  - id: vendor_library.mediatek_powerhal
+    category: vendor_library
+    subcategory: perf_library
+    paths: ["*/lib/libpowerhal*.so", "*/lib64/libpowerhal*.so", "*/lib/libmtkperf_client*.so",
+            "*/lib64/libmtkperf_client*.so", "*/lib/libperfctl*.so", "*/lib64/libperfctl*.so"]
+    require_elf: true
+    soc_vendors: [mediatek]
+    confidence: 0.75
+    reason: "MediaTek power HAL / perf control library naming and file is ELF"
+  - id: performance_config.mediatek_fpsgo
+    category: performance_config
+    subcategory: fpsgo_binary
+    paths: ["*/bin/fpsgo"]
+    require_elf: true
+    soc_vendors: [mediatek]
+    confidence: 0.6
+    reason: "MediaTek FPSGO frame-pacing daemon naming; name-based"
   - id: power_json.powerhint
     category: power_json
     subcategory: powerhint_json

@@ -6,19 +6,31 @@ import argparse
 import platform
 import shutil
 import sys
+import tempfile
 from collections.abc import Callable
 from pathlib import Path
 from typing import Any
 
-from afid import __version__, audit, dependencies, ingest, reporting, updates
+from afid import (
+    __version__,
+    audit,
+    dependencies,
+    ingest,
+    matrix,
+    reconcile,
+    reporting,
+    resources,
+    updates,
+)
 from afid.catalog import Store
 from afid.catalog import index as catalog_index
 from afid.catalog.validate import load_validators, validate
 from afid.classification import Classifier
 from afid.config import Config
 from afid.config import load as load_config
-from afid.errors import AfidError, CapabilityError, NotFoundError
+from afid.errors import AfidError, CapabilityError, NotFoundError, ValidationError
 from afid.extraction import tools
+from afid.hashing import sha256_file
 from afid.licensing import Policy
 from afid.providers import registry
 from afid.scanning import Scanner
@@ -142,10 +154,15 @@ def cmd_providers_test(args: argparse.Namespace, cfg: Config) -> int:
 
 
 def cmd_discover(args: argparse.Namespace, cfg: Config) -> int:
-    outcome = updates.check(cfg, args.provider, args.brand, write=args.write)
+    if not (args.provider or args.all or args.brand):
+        raise ValidationError("pass --provider <id>, --brand <id> or --all")
+    outcome = updates.check(
+        cfg, args.provider, args.brand, write=args.write, include_dumps=not args.skip_dumps
+    )
     data = {
         "provider_status": outcome.provider_status,
         "candidates": sum(len(r.candidates) for r in outcome.results),
+        "firmware_items": sum(i.kind == "firmware" for r in outcome.results for i in r.items),
         "changes": [c.as_dict() for c in outcome.changes][: args.limit],
         "written": outcome.written,
     }
@@ -156,7 +173,10 @@ def cmd_discover(args: argparse.Namespace, cfg: Config) -> int:
         ],
         ["provider", "status", "detail"],
     )
-    text += f"\n\n{data['candidates']} candidate(s); {len(outcome.changes)} change(s)"
+    text += (
+        f"\n\n{data['candidates']} candidate(s), {data['firmware_items']} firmware item(s); "
+        f"{len(outcome.changes)} change(s)"
+    )
     text += (
         f"; {len(outcome.written)} file(s) written"
         if args.write
@@ -164,6 +184,192 @@ def cmd_discover(args: argparse.Namespace, cfg: Config) -> int:
     )
     _out(args, data, text)
     return 1 if outcome.failed else 0
+
+
+def cmd_providers_health(args: argparse.Namespace, cfg: Config) -> int:
+    results = []
+    for e in registry.entries(cfg):
+        if args.provider and e["id"] != args.provider:
+            continue
+        results.append(registry.build(cfg, e).health_check().as_dict())
+    if args.provider and not results:
+        raise NotFoundError(f"unknown provider '{args.provider}'")
+    _out(
+        args,
+        results,
+        _table(
+            [
+                [
+                    r["provider_id"],
+                    r["status"],
+                    "; ".join(str(c["result"]) for c in r["checks"])[:90],
+                ]
+                for r in results
+            ],
+            ["provider", "status", "checks"],
+        ),
+    )
+    return 1 if any(r["status"] == "failed" for r in results) else 0
+
+
+def cmd_resources(args: argparse.Namespace, cfg: Config) -> int:
+    machine = resources.probe(Path(args.path or cfg.cache))
+    lim = resources.limits(cfg)
+    ok = machine.disk_free_bytes > lim["DISK_RESERVE_BYTES"]
+    data: dict[str, Any] = {
+        "machine": machine.as_dict(),
+        "limits": lim,
+        "profile": resources.profile(machine, lim),
+        "ok": ok,
+    }
+    _out(args, data)
+    return 0 if ok else 1
+
+
+def cmd_matrix_plan(args: argparse.Namespace, cfg: Config) -> int:
+    plan = matrix.plan(
+        cfg,
+        args.mode,
+        args.provider or None,
+        args.item or None,
+        args.batch_size,
+        args.batch_index,
+    )
+    if args.output:
+        Path(args.output).write_text(jsonio.dumps(plan))
+    _out(
+        args,
+        plan,
+        f"mode {plan['mode']}: {plan['eligible']} eligible; batch {plan['batch_index']} of "
+        f"{plan['batch_count']} has {len(plan['matrix']['include'])} item(s); "
+        f"statuses {plan['summary']}",
+    )
+    return 0
+
+
+def cmd_catalog_reconcile(args: argparse.Namespace, cfg: Config) -> int:
+    deltas: list[Path] = []
+    for d in map(Path, args.deltas):
+        if _is_delta(d):
+            deltas.append(d)
+        elif d.is_dir():  # a directory of downloaded job artifacts
+            deltas += sorted(x for x in d.iterdir() if x.is_dir() and _is_delta(x))
+        else:
+            raise NotFoundError(f"{d}: not a delta directory")
+    out = reconcile.reconcile(cfg, deltas)
+    if not args.no_index and out.written:
+        out.written += [str(x) for x in catalog_index.write(Store(cfg.database), cfg.brand_ids)]
+    data = {"deltas": len(deltas), **out.as_dict()}
+    if args.report_out:
+        jsonio.write_if_changed(Path(args.report_out), data)
+    _out(
+        args,
+        data,
+        f"{len(deltas)} delta(s): {len(out.merged)} firmware merged, {len(out.refs_added)} "
+        f"source ref(s) added, {len(out.conflicts)} conflict(s), {len(out.rejected)} rejected; "
+        f"{len(out.written)} file(s) written",
+    )
+    return 1 if out.rejected else 0
+
+
+def _is_delta(path: Path) -> bool:
+    return (path / reconcile.REPORT).is_file() or (path / "database").is_dir()
+
+
+def cmd_firmware_analyze(args: argparse.Namespace, cfg: Config) -> int:
+    from afid.remote import RemoteAnalyzer
+
+    analyzer = RemoteAnalyzer(cfg, args.provider)
+    direct = args.out is None
+    out_dir = Path(args.out) if args.out else Path(tempfile.mkdtemp(prefix="afid-delta-"))
+    delta = Store(out_dir / "database")
+    report = analyzer.analyze(args.item, delta, dry_run=args.dry_run)
+    out_dir.mkdir(parents=True, exist_ok=True)
+    (out_dir / reconcile.REPORT).write_text(jsonio.dumps(report))
+    if direct and not args.dry_run:
+        merged = reconcile.reconcile(cfg, [out_dir])
+        if merged.written:
+            catalog_index.write(Store(cfg.database), cfg.brand_ids)
+        report["reconcile"] = merged.as_dict()
+        shutil.rmtree(out_dir, ignore_errors=True)
+    _out(
+        args,
+        report,
+        f"{report['status']}: {report['item_id']} -> {report.get('firmware_id') or '-'}"
+        + (f" ({report['error']})" if report.get("error") else "")
+        + (f"\ndelta written to {out_dir}" if not direct else ""),
+    )
+    return 0 if report["status"] != "failed" else 1
+
+
+def cmd_firmware_dump(args: argparse.Namespace, cfg: Config) -> int:
+    from afid.dumprx import DumprX
+
+    runner = DumprX.from_settings(cfg.settings, cfg.limit("max_extracted_bytes"))
+    work = Path(args.workdir) if args.workdir else None
+    if work:
+        work.mkdir(parents=True, exist_ok=True)
+    res = runner.run(Path(args.input), work)
+    data: dict[str, Any] = {"dump": res.as_dict()}
+    code = 0 if res.status == "ok" else 1
+    if res.status == "ok" and res.output_dir and args.ingest:
+        r = ingest.ingest_local(
+            cfg,
+            res.output_dir,
+            "dumprx",
+            args.brand,
+            args.codename,
+            None,
+            args.region,
+            args.channel,
+            args.dry_run,
+        )
+        data["ingest"] = r.as_dict()
+    _out(args, data, f"DumprX {res.status}: partitions {', '.join(res.partitions) or 'none'}")
+    return code
+
+
+def cmd_firmware_download(args: argparse.Namespace, cfg: Config) -> int:
+    from afid.download import HttpClient
+
+    hosts = frozenset(cfg.settings.get("downloads", {}).get("allowed_hosts") or [])
+    if not hosts:
+        raise ValidationError(
+            "no download hosts are allowed (config/settings.yml downloads.allowed_hosts is "
+            "empty); add a host only after confirming its terms permit automated download"
+        )
+    lim = resources.limits(cfg)
+    http = HttpClient(
+        hosts,
+        timeout=lim["HTTP_TIMEOUT"],
+        max_retries=int(lim["RETRY_LIMIT"]),
+        min_interval=lim["RATE_LIMIT_DELAY"],
+        user_agent=str(cfg.network("user_agent")),
+    )
+    dest = Path(args.out)
+    resources.ensure_disk(
+        dest.parent if dest.parent.exists() else Path("."),
+        0,
+        int(lim["DISK_RESERVE_BYTES"]),
+        "download",
+    )
+    http.download(
+        args.url, dest, int(lim["MAX_DOWNLOAD_BYTES"]), args.sha256, int(lim["DISK_RESERVE_BYTES"])
+    )
+    data = {"path": str(dest), "sha256": sha256_file(dest), "size": dest.stat().st_size}
+    _out(args, data, f"downloaded {dest} ({data['size']} bytes, sha256 {data['sha256']})")
+    return 0
+
+
+def cmd_firmware_verify(args: argparse.Namespace, cfg: Config) -> int:
+    got = sha256_file(Path(args.input))
+    ok = args.sha256 is None or got == args.sha256.lower()
+    _out(
+        args,
+        {"sha256": got, "expected": args.sha256, "matched": ok if args.sha256 else None},
+        f"{got}  {args.input}" + ("" if ok else f"  MISMATCH (expected {args.sha256})"),
+    )
+    return 0 if ok else 1
 
 
 def cmd_devices_list(args: argparse.Namespace, cfg: Config) -> int:
@@ -396,7 +602,9 @@ def cmd_db_stats(args: argparse.Namespace, cfg: Config) -> int:
 
 
 def cmd_updates_check(args: argparse.Namespace, cfg: Config) -> int:
-    outcome = updates.check(cfg, args.provider, args.brand, write=args.write)
+    outcome = updates.check(
+        cfg, args.provider, args.brand, write=args.write, include_dumps=not args.skip_dumps
+    )
     rep = outcome.report()
     if args.report_out and outcome.changes:
         jsonio.write_if_changed(Path(args.report_out), rep)
@@ -512,10 +720,14 @@ def build_parser() -> argparse.ArgumentParser:
         prov, "test", cmd_providers_test, "offline consistency test of provider registry entries"
     )
     t.add_argument("--provider")
+    h = cmd(prov, "health", cmd_providers_health, "live reachability check of provider sources")
+    h.add_argument("--provider")
 
     d = cmd(sub, "discover", cmd_discover, "run metadata discovery for providers that support it")
     d.add_argument("--brand")
     d.add_argument("--provider")
+    d.add_argument("--all", action="store_true", help="every provider that supports discovery")
+    d.add_argument("--skip-dumps", action="store_true", help="skip dump (firmware-item) providers")
     d.add_argument("--write", action="store_true", help="store snapshot and staging candidates")
     d.add_argument("--limit", type=int, default=200, help="max changes printed")
 
@@ -535,6 +747,37 @@ def build_parser() -> argparse.ArgumentParser:
     fi = cmd(fw, "inspect", cmd_firmware_inspect, "show a firmware record and its components")
     fi.add_argument("firmware_id")
     fi.add_argument("--components", action="store_true", help="include component records")
+    fa = cmd(fw, "analyze", cmd_firmware_analyze, "analyze one dump item by selective file fetch")
+    fa.add_argument("--provider", required=True)
+    fa.add_argument("--item", required=True, help="item id from the discovery snapshot")
+    fa.add_argument("--out", help="write a delta store here instead of updating the catalog")
+    fa.add_argument("--dry-run", action="store_true")
+    fd = cmd(fw, "dump", cmd_firmware_dump, "unpack a local firmware file with pinned DumprX")
+    fd.add_argument("--input", required=True, help="local firmware file (never a URL)")
+    fd.add_argument("--workdir")
+    fd.add_argument("--ingest", action="store_true", help="ingest the extracted tree")
+    fd.add_argument("--brand")
+    fd.add_argument("--codename")
+    fd.add_argument("--region")
+    fd.add_argument("--channel")
+    fd.add_argument("--dry-run", action="store_true")
+    fdl = cmd(
+        fw, "download", cmd_firmware_download, "download a firmware file from an allowed host"
+    )
+    fdl.add_argument("--url", required=True)
+    fdl.add_argument("--out", required=True)
+    fdl.add_argument("--sha256", help="expected SHA-256; the file is removed on mismatch")
+    fv = cmd(fw, "verify", cmd_firmware_verify, "SHA-256 of a local file, optionally compared")
+    fv.add_argument("--input", required=True)
+    fv.add_argument("--sha256")
+    fing = cmd(fw, "ingest", cmd_ingest, "same as `afid ingest --local`")
+    fing.add_argument("--local", required=True)
+    fing.set_defaults(source=None)
+    for a in ("--brand", "--codename", "--sha256", "--region", "--channel"):
+        fing.add_argument(a)
+    fing.add_argument("--provider", default="local_firmware")
+    fing.add_argument("--dry-run", action="store_true")
+    fing.add_argument("--keep-work", action="store_true")
 
     ing = cmd(sub, "ingest", cmd_ingest, "ingest firmware into the catalog")
     src = ing.add_mutually_exclusive_group(required=True)
@@ -574,6 +817,29 @@ def build_parser() -> argparse.ArgumentParser:
     ix.add_argument("--check", action="store_true", help="only check that they are up to date")
     cmd(db, "stats", cmd_db_stats, "print statistics computed from the catalog")
 
+    cat = sub.add_parser("catalog", help="catalog merge and validation").add_subparsers(
+        dest="sub", required=True
+    )
+    rc = cmd(cat, "reconcile", cmd_catalog_reconcile, "merge delta stores from matrix jobs")
+    rc.add_argument("--deltas", nargs="+", required=True, help="delta dirs or dirs of deltas")
+    rc.add_argument("--report-out")
+    rc.add_argument("--no-index", action="store_true", help="do not regenerate index/statistics")
+    cv = cmd(cat, "validate", cmd_db_validate, "same as `afid database validate --check-index`")
+    cv.set_defaults(check_index=True)
+    cv.add_argument("--strict", action="store_true")
+
+    mx = sub.add_parser("matrix", help="matrix planning").add_subparsers(dest="sub", required=True)
+    mp = cmd(mx, "plan", cmd_matrix_plan, "plan a bounded batch of items for a workflow matrix")
+    mp.add_argument("--mode", choices=matrix.MODES, default="eligible-batch")
+    mp.add_argument("--provider", action="append", help="repeatable; default: all dump providers")
+    mp.add_argument("--item", action="append", help="repeatable; for selected-item mode")
+    mp.add_argument("--batch-size", type=int)
+    mp.add_argument("--batch-index", type=int, default=0)
+    mp.add_argument("--output", help="also write the plan JSON here")
+
+    res = cmd(sub, "resources", cmd_resources, "show machine resources and effective limits")
+    res.add_argument("--path", help="directory whose disk is checked (default: cache)")
+
     up = sub.add_parser("updates", help="update detection").add_subparsers(
         dest="sub", required=True
     )
@@ -582,6 +848,7 @@ def build_parser() -> argparse.ArgumentParser:
     uc.add_argument("--brand")
     uc.add_argument("--write", action="store_true", help="store snapshots and staging candidates")
     uc.add_argument("--report-out", help="write the report here when there are changes")
+    uc.add_argument("--skip-dumps", action="store_true", help="skip dump (firmware-item) providers")
     ur = cmd(up, "report", cmd_updates_report, "compare consecutive firmware builds per device")
     ur.add_argument("--device")
 

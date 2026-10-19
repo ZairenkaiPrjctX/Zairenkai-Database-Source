@@ -1,4 +1,7 @@
-# Component classification
+# Component analysis
+
+Classification rules, what enters the catalog, safe content analysis and dependency edges.
+The same engine runs for local imports, DumprX output and remote dump analysis.
 
 ## Categories
 
@@ -16,8 +19,20 @@ highest-confidence rule decides the category. Name-only rules (e.g. "file name c
 thermal") carry confidence below 0.5 and say that the name proves nothing.
 
 SoC-specific knowledge (Qualcomm `thermal-engine`, `/etc/perf/`, `libqti-perf*`) is tagged
-with `soc_vendors` and never applied as fact to other platforms. MediaTek, Exynos and
-Tensor rules should be added the same way once verified on real firmware.
+with `soc_vendors` and never applied as fact to other platforms.
+
+MediaTek rules (`soc_vendors: [mediatek]`) were added from file names verified in the
+Nothing Phone (3a) dump (`nothing/Galaga`, MT6878): the `mtkpower` HAL service, its
+implementation and interface libraries, `powercontable.xml`, `powerscntbl.xml`,
+`power_app_cfg.xml`, `etc/performance/*.xml`, `libpowerhal*`/`libperfctl*`, the
+`thermal_core`/`thermal_intf` daemons, `etc/advance_thermal_mitigation/` and the `fpsgo`
+daemon. They are name-based (confidence 0.6-0.8) until checked against more devices.
+Exynos and Tensor rules are not written yet.
+
+`exclude_globs` (whole file) and per-rule `exclude_paths` remove known false positives;
+verified on the same dump: `etc/audio_param/Power_AudioParam.xml` (audio tuning) and
+`media_codecs_performance.xml` (codec performance points) are not thermal/power
+configuration (`test_mediatek_rules_and_false_positive_exclusions`).
 
 ## What enters the catalog
 
@@ -40,9 +55,20 @@ Everything else is inventoried (path, size, SHA-256) but not committed.
   actions with property triggers and start/stop references, imports.
 - VINTF: HAL names, formats, versions, instances. DTD/ENTITY declarations are rejected.
 - Thermal/power configs: sensor and cooling-device names, powerhint nodes and hints,
-  thermal-engine sections, referenced partition paths and kernel nodes.
+  thermal-engine sections, referenced partition paths and kernel nodes. YAML configs are
+  summarized structurally (top-level keys and referenced paths, via `yaml.safe_load`;
+  `test_yaml_config_summary_is_structural_only`).
 - build.prop: an allowlist of build properties; serial numbers and other personal data are
   never stored.
+
+## Selecting files from a remote dump
+
+Remote analysis cannot read content before fetching, so it asks the rules which paths
+*could* match (`Classifier.candidate`, ignoring `require_elf`) and fetches in this order
+until the budget runs out: build.prop files; thermal/power-named paths on vendor-side
+partitions; the same on other partitions; other rule matches (vendor first); generic init
+and VINTF files; finally unmatched HAL-directory files. 75% of the budget goes to this list,
+then DT_NEEDED libraries of fetched vendor binaries, then the rest.
 
 ## Dependency edges
 

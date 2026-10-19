@@ -9,7 +9,10 @@ capabilities equal the implementation. Verification date for all entries: **2026
 | Provider | Brands | Status | Discover | Download | Local import + verify | Tested with |
 |---|---|---|---|---|---|---|
 | `lineageos_wiki` | samsung, xiaomi, poco, redmi, oneplus, google_pixel, nothing | metadata_only | yes | no | no | fixtures + one real run (see below) |
-| `local_firmware` | all nine | active | no | no | yes | fixtures (ZIP, TGZ, ext4, directories) |
+| `local_firmware` | all registered | active | no | no | yes | fixtures (ZIP, TGZ, ext4, directories) |
+| `android_dumps_gitlab` | all registered (from build.prop) | metadata_only | dump branches | selective file fetch only | no | fixtures + real runs ([SOURCE_INTEGRATION.md](SOURCE_INTEGRATION.md#live-results)) |
+| `tadiphone_dumps` | all registered (from build.prop) | metadata_only | dump branches | selective file fetch only | no | fixtures + real runs |
+| `dumprx` | all registered | manual_import_required | no | no | yes (through DumprX) | fake install + one real offline run ([DUMPRX_INTEGRATION.md](DUMPRX_INTEGRATION.md)) |
 | `google_pixel` | google_pixel | manual_import_required | no | no | yes | fixtures |
 | `samsung` | samsung | manual_import_required | no | no | yes | fixtures (generic path) |
 | `xiaomi`, `poco`, `redmi` | one each | manual_import_required | no | no | yes | fixtures (generic path) |
@@ -17,7 +20,9 @@ capabilities equal the implementation. Verification date for all entries: **2026
 | `infinix`, `tecno` | one each | manual_import_required | no | no | yes | fixtures (generic path) |
 | `nothing` | nothing | manual_import_required | no | no | yes | fixtures (generic path) |
 
-**No provider downloads firmware.** For every brand, either no official documented and
+**No provider downloads firmware archives.** The dump providers fetch individual
+extracted files from public dump repositories (metadata analysis, pinned to a commit); they
+never clone, never download whole firmware and never write. For every brand, either no official documented and
 automatable download API was verified, or (Pixel) access requires accepting terms in a
 browser, which AFID does not bypass. Real firmware enters AFID only through `afid ingest
 --local`, after the user obtained it under the source's terms.
@@ -27,9 +32,14 @@ tests. No real vendor firmware was ingested while building this release.
 
 ## Common behaviour
 
-- **Rate limits / timeouts** (all network providers): `config/settings.yml` `network`:
-  60 s timeout, 3 retries with exponential backoff from 2 s, at least 1 s between requests to
-  one host, HTTPS only, hosts limited to `allowed_hosts`.
+- **Rate limits / timeouts** (all network providers): `HTTP_TIMEOUT` (60 s),
+  `RETRY_LIMIT` (3) with exponential backoff from 2 s and `Retry-After` honoured, at least
+  `max(network.min_interval_seconds, RATE_LIMIT_DELAY)` (1 s) between requests to one host,
+  HTTPS only, hosts limited to `allowed_hosts` on every redirect hop
+  ([RESOURCE_BUDGETS.md](RESOURCE_BUDGETS.md)).
+- **Health**: `afid providers health [--provider <id>]` makes one cheap live request per
+  remote provider (dump hosts: one project listing page and the rate-limit headers);
+  `dumprx` reports its run guards.
 - **Authentication**: none of the current providers needs credentials. A future provider that
   does names an environment variable in `auth.token_env`; the value comes from the environment
   or GitHub Secrets and is redacted from error messages.
@@ -52,7 +62,7 @@ tests. No real vendor firmware was ingested while building this release.
   `_data/devices/` (`licenses/` covers the theme, MIT, and Navgoco, BSD), but its footer template
   `_includes/layout/footer.html` declares CC BY-SA 3.0 for every page generated from the data;
   confirmed on the live device pages. Records carry attribution and share-alike terms;
-  `distribution_default: metadata_only`. See `docs/LICENSING.md`.
+  `distribution_default: metadata_only`. See `docs/LICENSE_AND_DISTRIBUTION.md`.
 - **Known limitations**: covers only devices with LineageOS ports; no Infinix or TECNO entries
   (vendor values checked 2026-10-18); release dates and SoC strings are as written by
   contributors.
@@ -116,6 +126,20 @@ tests. No real vendor firmware was ingested while building this release.
 Generic import of an archive, a partition image, a directory of images, or an already extracted
 tree (`<root>/<partition>/...`). Brand comes from `--brand` or build.prop
 (`ro.product.vendor.brand` + model prefix rules in `config/brands.yml`).
+
+## android_dumps_gitlab, tadiphone_dumps
+
+Public GitLab groups of DumprX-style firmware dumps: one project per device, one branch per
+firmware build. Verified layout, sizes, rate limits and live results:
+[SOURCE_INTEGRATION.md](SOURCE_INTEGRATION.md). Settings in the registry: `api_base`,
+numeric `group` id, `group_path`, `max_project_pages`, `min_projects` (sanity floor),
+`max_branches_per_project`, `max_tree_pages`. Discovery is incremental by project
+`last_activity_at`; analysis is `afid firmware analyze` ([MATRIX_PIPELINE.md](MATRIX_PIPELINE.md)).
+
+## dumprx
+
+A tool provider: `afid firmware dump --input <local file> --ingest` runs the pinned DumprX
+offline and ingests the result ([DUMPRX_INTEGRATION.md](DUMPRX_INTEGRATION.md)).
 
 ## Adding a provider
 

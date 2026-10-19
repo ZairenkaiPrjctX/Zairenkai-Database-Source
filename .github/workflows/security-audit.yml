@@ -16,7 +16,7 @@ concurrency:
 jobs:
   audit:
     runs-on: ubuntu-24.04
-    timeout-minutes: 20
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
@@ -32,3 +32,25 @@ jobs:
         run: python -m pytest -q tests/extraction tests/security
       - name: Schema compatibility of the committed database
         run: afid database validate --check-index
+      - name: Trivy filesystem scan (vulnerabilities, secrets, misconfigurations)
+        env:
+          TRIVY_IMAGE: ghcr.io/aquasecurity/trivy:0.67.0@sha256:94711c60051c6cab848a292e3a67f62623fcee361b2bb661f43b17184f4afdac
+        run: |
+          mkdir -p reports
+          docker run --rm -v "$PWD:/src:ro" -v "$PWD/reports:/out" "$TRIVY_IMAGE" fs /src \
+            --scanners vuln,secret,misconfig --severity HIGH,CRITICAL --exit-code 1 \
+            --skip-dirs /src/database --format table --output /out/trivy-fs.txt
+      - name: SBOM of the locked dependency set
+        env:
+          SYFT_IMAGE: ghcr.io/anchore/syft:v1.33.0@sha256:f94e5d9fce1f2278491a8e3a63bd5f6ddb81fdfdbb8bf7a1637565c1d5344357
+        run: |
+          mkdir -p reports
+          docker run --rm -v "$PWD:/src:ro" -v "$PWD/reports:/out" "$SYFT_IMAGE" dir:/src \
+            --exclude ./database --exclude ./tests -o spdx-json=/out/afid-source.spdx.json
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        if: always()
+        with:
+          name: security-reports
+          path: reports/
+          retention-days: 30
+          if-no-files-found: ignore

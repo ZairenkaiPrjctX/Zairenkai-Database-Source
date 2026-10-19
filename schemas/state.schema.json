@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/ZairenkaiPrjctX/Zairenkai-Database-Source/schemas/state.schema.json",
+  "title": "AFID per-provider ingestion state",
+  "description": "Last processed revision and outcome of each source item; written by `afid catalog reconcile`, read by `afid matrix plan`.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "provider_id", "items"],
+  "properties": {
+    "schema_version": {"const": "1.0"},
+    "provider_id": {"type": "string", "pattern": "^[a-z][a-z0-9_]*$"},
+    "items": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["revision", "status", "attempts", "exhausted", "firmware_id", "error", "updated_at"],
+        "properties": {
+          "revision": {"type": ["string", "null"]},
+          "status": {
+            "enum": ["discovered", "metadata_verified", "download_pending", "downloaded", "extracted",
+                     "analyzed", "validated", "unresolved", "license_review_required", "restricted",
+                     "failed", "unchanged"]
+          },
+          "attempts": {"type": "integer", "minimum": 0},
+          "exhausted": {"type": "boolean"},
+          "firmware_id": {"type": ["string", "null"]},
+          "error": {"type": ["string", "null"]},
+          "updated_at": {"type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$"}
+        }
+      }
+    }
+  }
+}

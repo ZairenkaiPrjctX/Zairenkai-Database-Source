@@ -23,7 +23,7 @@ def test_local_zip_ingest_end_to_end(repo, archive):
     res = ingest_local(repo, archive, "google_pixel", expected_sha256=sha256_file(archive))
     assert res.status == "cataloged"
     assert res.device_id == "google_pixel_fixturecode"
-    assert res.firmware_id == "google_pixel_fixturecode__FIX1.230101.001"
+    assert res.firmware_id == "google_pixel_fixturecode__FIX1.230101.001-1"
     store = Store(repo.database)
     dev = store.find_device(res.device_id)
     assert dev["codename_status"] == "verified"
@@ -34,9 +34,9 @@ def test_local_zip_ingest_end_to_end(repo, archive):
     assert fw["distribution_status"] == "user_supplied"
     text = json.dumps([jsonio.load(p) for p in sorted(repo.database.rglob("*.json"))])
     assert "MUST-NOT-BE-STORED" not in text  # serial number never stored
-    assert path.parent.as_posix().endswith("firmware/google_pixel/fixturecode/FIX1.230101.001")
+    assert path.parent.as_posix().endswith("firmware/google_pixel/fixturecode/FIX1.230101.001-1")
     assert (
-        repo.database / "components/google_pixel/fixturecode/FIX1.230101.001/thermal_hal.json"
+        repo.database / "components/google_pixel/fixturecode/FIX1.230101.001-1/thermal_hal.json"
     ).exists()
     catalog_index.write(store, repo.brand_ids)
     result = validate(repo.database, repo.schemas_dir, repo.brand_ids)
@@ -118,7 +118,7 @@ def test_history_detects_changed_and_new_files(repo, tmp_path):
     kinds = {(c["change"], c["record_id"]) for c in rep["changes"]}
     assert ("checksum_changed", "vendor/etc/thermal_info_config.json") in kinds
     assert ("added", "vendor/etc/thermal-extra.xml") in kinds
-    assert rep["from"].endswith("FIX1.230101.001") and rep["to"].endswith("FIX2.230201.001")
+    assert rep["from"].endswith("FIX1.230101.001-1") and rep["to"].endswith("FIX2.230201.001-1")
 
 
 def test_validator_catches_broken_references(repo, archive):

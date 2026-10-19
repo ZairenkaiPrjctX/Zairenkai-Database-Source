@@ -1,0 +1,110 @@
+name: dump-and-analyze
+
+# One firmware file -> pinned DumprX (offline container) -> AFID catalog metadata.
+# The download host must be listed in config/settings.yml downloads.allowed_hosts (empty by
+# default, so this workflow refuses to download until an owner adds a host whose terms
+# permit it). The firmware never leaves this job: only the database/ metadata diff is
+# uploaded. DumprX runs with --network none, no capabilities, no credentials, no Docker
+# socket, as a non-root user, on a read-only root filesystem.
+on:
+  workflow_dispatch:
+    inputs:
+      firmware_url:
+        description: HTTPS URL of the firmware file (host must be allowlisted)
+        required: true
+      sha256:
+        description: Expected SHA-256 of the file (required)
+        required: true
+      brand:
+        description: Brand id, if build.prop cannot tell
+        default: ""
+
+permissions:
+  contents: read
+
+concurrency:
+  group: dump-and-analyze
+  cancel-in-progress: false
+
+jobs:
+  dump:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 180
+    outputs:
+      changed: ${{ steps.diff.outputs.changed }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: ./.github/actions/setup-afid
+      - name: Check resources
+        run: |
+          nproc; free -h; df -h "$RUNNER_TEMP"; df -i "$RUNNER_TEMP"
+          afid resources --path "$RUNNER_TEMP"
+      - name: Download (allowlisted host, size-limited, checksum-verified)
+        env:
+          URL: ${{ inputs.firmware_url }}
+          SHA256: ${{ inputs.sha256 }}
+        run: |
+          mkdir -p "$RUNNER_TEMP/work/in"
+          afid firmware download --url "$URL" --sha256 "$SHA256" --out "$RUNNER_TEMP/work/in/firmware"
+      - name: Build the worker image from this commit (not published)
+        run: |
+          docker build -f .docker/afid-firmware-worker.Dockerfile --build-arg VCS_REF="$GITHUB_SHA" -t afid-firmware-worker:ci .
+      - name: Dump and ingest offline
+        env:
+          BRAND: ${{ inputs.brand }}
+        run: |
+          mkdir -p .afid-cache
+          chmod -R a+rwX "$RUNNER_TEMP/work" database .afid-cache
+          args=(firmware dump --input /work/in/firmware --workdir /work/job --ingest)
+          if [ -n "$BRAND" ]; then args+=(--brand "$BRAND"); fi
+          docker run --rm --network none --cap-drop ALL --security-opt no-new-privileges \
+            --read-only --tmpfs /tmp --user 10001:10001 \
+            -v "$PWD:/workspace" -v "$RUNNER_TEMP/work:/work" \
+            afid-firmware-worker:ci --root /workspace "${args[@]}"
+      - name: Validate and package metadata only
+        id: diff
+        run: |
+          afid database index
+          afid catalog validate
+          afid policy check
+          git add -A database
+          git diff --cached --binary > catalog-changes.patch
+          if [ -s catalog-changes.patch ]; then echo "changed=true" >> "$GITHUB_OUTPUT"; else echo "changed=false" >> "$GITHUB_OUTPUT"; fi
+      - name: Remove firmware and extracted files
+        if: always()
+        run: sudo rm -rf "$RUNNER_TEMP/work"
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        if: steps.diff.outputs.changed == 'true'
+        with:
+          name: dump-metadata
+          path: catalog-changes.patch
+          retention-days: 14
+
+  propose:
+    needs: dump
+    if: needs.dump.outputs.changed == 'true'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    permissions:
+      contents: write
+      pull-requests: write
+      actions: write
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: ./.github/actions/setup-afid
+      - uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
+        with:
+          name: dump-metadata
+          path: ${{ runner.temp }}/artifact
+      - name: Open pull request
+        env:
+          GH_TOKEN: ${{ github.token }}
+          AFID_COMMIT_TRAILER: ${{ vars.AFID_COMMIT_TRAILER }}
+        run: |
+          git apply --index "$RUNNER_TEMP/artifact/catalog-changes.patch"
+          printf 'Firmware metadata from a pinned DumprX run (offline container).\n\nFirmware bytes were not stored anywhere.\n' > "$RUNNER_TEMP/pr-body.md"
+          python scripts/open_data_pr.py --branch-prefix afid/dumprx --title "AFID: DumprX firmware metadata" --body-file "$RUNNER_TEMP/pr-body.md"

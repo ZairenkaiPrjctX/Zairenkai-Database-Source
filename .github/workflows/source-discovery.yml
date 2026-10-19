@@ -44,6 +44,7 @@ jobs:
           args=(--write)
           if [ -n "$PROVIDER" ]; then args+=(--provider "$PROVIDER"); fi
           if [ "$BRAND" != "all" ]; then args+=(--brand "$BRAND"); fi
+          if [ -z "$PROVIDER" ] && [ "$BRAND" = "all" ]; then args+=(--all --skip-dumps); fi
           set +e
           afid --json discover "${args[@]}" > discovery.json
           status=$?

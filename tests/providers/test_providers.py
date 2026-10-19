@@ -12,7 +12,7 @@ def test_registry_entries_match_implementations(repo):
     for e in registry.entries(repo):
         assert registry.self_test(repo, e) == [], e["id"]
     ids = {e["id"] for e in registry.entries(repo)}
-    assert set(repo.brand_ids) <= ids  # one provider per brand
+    assert set(repo.core_brand_ids) <= ids  # one provider per core brand
 
 
 def test_no_provider_claims_download(repo):
@@ -64,8 +64,12 @@ def test_lineage_discovery_from_fixture(repo):
 
 
 class FakeResp:
-    def __init__(self, body=b"ok", status=200):
-        self.body, self.status, self.headers = body, status, {"ETag": '"x"'}
+    def __init__(self, body=b"ok", status=200, headers=None):
+        self.body, self.status = body, status
+        self.headers = headers if headers is not None else {"ETag": '"x"'}
+
+    def geturl(self):
+        return "https://example.org/x"
 
     def read(self, n=-1):
         b, self.body = self.body, b""
@@ -102,7 +106,7 @@ def test_http_retries_then_succeeds(monkeypatch):
             raise urllib.error.HTTPError(req.full_url, 503, "busy", {}, None)
         return FakeResp(b"data")
 
-    monkeypatch.setattr("urllib.request.urlopen", fake)
+    monkeypatch.setattr(HttpClient, "_open", lambda self, req: fake(req, 1))
     assert client().get("https://example.org/x").body == b"data"
     assert len(calls) == 3
 
@@ -111,7 +115,7 @@ def test_http_gives_up_and_redacts_token(monkeypatch):
     def fake(req, timeout):
         raise urllib.error.URLError("boom secret-token-123")
 
-    monkeypatch.setattr("urllib.request.urlopen", fake)
+    monkeypatch.setattr(HttpClient, "_open", lambda self, req: fake(req, 1))
     with pytest.raises(ProviderError) as exc:
         client(token="secret-token-123").get("https://example.org/x")
     assert "secret-token-123" not in str(exc.value)
@@ -122,9 +126,9 @@ def test_http_304_and_download_checksum(monkeypatch, tmp_path):
         assert req.headers["If-none-match"] == '"x"'
         raise urllib.error.HTTPError(req.full_url, 304, "nm", {}, None)
 
-    monkeypatch.setattr("urllib.request.urlopen", not_mod)
+    monkeypatch.setattr(HttpClient, "_open", lambda self, req: not_mod(req, 1))
     assert client().get("https://example.org/x", etag='"x"').not_modified
-    monkeypatch.setattr("urllib.request.urlopen", lambda req, timeout: FakeResp(b"abc"))
+    monkeypatch.setattr(HttpClient, "_open", lambda self, req: FakeResp(b"abc"))
     with pytest.raises(ProviderError, match="mismatch"):
         client().download("https://example.org/f", tmp_path / "f", 100, "0" * 64)
     assert not (tmp_path / "f").exists()
