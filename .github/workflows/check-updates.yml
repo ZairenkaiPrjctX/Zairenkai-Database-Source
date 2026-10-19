@@ -94,7 +94,7 @@ jobs:
           AFID_COMMIT_TRAILER: ${{ vars.AFID_COMMIT_TRAILER }}
         run: |
           git apply --index "$RUNNER_TEMP/artifact/database-changes.patch"
-          python - <<'PY' > pr-body.md
+          python - <<'PY' > "$RUNNER_TEMP/pr-body.md"
           import json, os, pathlib
           p = pathlib.Path(os.environ["RUNNER_TEMP"], "artifact", "reports", "update-report.json")
           r = json.loads(p.read_text()) if p.exists() else {"summary": {}, "changes": []}
