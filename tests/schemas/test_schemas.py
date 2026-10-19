@@ -157,3 +157,13 @@ def test_brand_registry_ids_and_aliases_are_unambiguous():
     # Only the Xiaomi family shares an alias, and model prefixes then decide (see resolve_brand).
     shared = {a: o for a, o in owners.items() if len(o) > 1}
     assert all(o <= {"xiaomi", "poco", "redmi"} for o in shared.values()), shared
+
+
+def test_pr_bodies_are_written_outside_the_checkout():
+    # open_data_pr.py refuses any change outside database/, so a PR body written into the
+    # working tree (e.g. `> pr-body.md`) makes the propose job fail.
+    for path in WORKFLOWS:
+        for line in Path(path).read_text().splitlines():
+            m = re.search(r">\s*\"?([^\s\"]*pr-body\.md)", line)
+            if m:
+                assert m.group(1).startswith("$RUNNER_TEMP/"), f"{path}: {line.strip()}"
