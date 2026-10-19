@@ -21,7 +21,7 @@ from afid.extraction.pipeline import Pipeline, Prepared
 from afid.licensing import Policy
 from afid.parsers import buildprop
 from afid.providers import registry
-from afid.scanning import Scanner
+from afid.scanning import FileEntry, Scanner
 from afid.utils import jsonio, log
 from afid.utils.paths import sanitize_id
 from afid.utils.timeutil import utc_now
@@ -100,9 +100,10 @@ def resolve_brand(
         or ""
     )
     model = buildprop.first(props, "ro.product.vendor.model", "ro.product.model") or ""
-    matches = [b for b in cfg.brands if raw in b["aliases"]]
+    low = raw.strip().lower()
+    matches = [b for b in cfg.brands if low in {a.lower() for a in b["aliases"]}]
     for b in matches:  # prefer brands whose product-name prefix matches the model
-        if any(model.startswith(p) for p in b.get("product_name_prefixes") or []):
+        if any(model.lower().startswith(p.lower()) for p in b.get("product_name_prefixes") or []):
             return b["brand_id"], f"build.prop brand '{raw}' + model prefix of '{model}'"
     plain = [b for b in matches if not b.get("product_name_prefixes")]
     if len(plain) == 1:
@@ -156,6 +157,22 @@ def ingest_local(
             shutil.rmtree(prepared.workdir, ignore_errors=True)
 
 
+@dataclass
+class SourceContext:
+    """Where a firmware tree came from. Defaults describe a user-supplied local import;
+    remote dump analysis passes its own (see afid.remote)."""
+
+    source_type: str = "user_supplied_local_firmware"
+    evidence_type: str = "firmware_build_prop"
+    distribution_status: str = "user_supplied"
+    user_supplied: bool = True
+    source_url: str | None = None
+    source_ref: dict[str, Any] | None = None
+    extra_inventory: list[FileEntry] = field(default_factory=list)
+    store: Store | None = None
+    evidence_url: str | None = None
+
+
 def _catalog(
     cfg: Config,
     provider_id: str,
@@ -167,9 +184,11 @@ def _catalog(
     channel: str | None,
     dry_run: bool,
     hints: dict[str, str],
+    ctx: SourceContext | None = None,
 ) -> IngestResult:
+    ctx = ctx or SourceContext()
     now = utc_now()
-    store = Store(cfg.database)
+    store = ctx.store or Store(cfg.database)
     result = IngestResult(
         status="dry_run" if dry_run else "cataloged", warnings=list(prepared.warnings)
     )
@@ -186,9 +205,9 @@ def _catalog(
             fw_codename = props[key]
             evidence.append(
                 {
-                    "evidence_type": "firmware_build_prop",
+                    "evidence_type": ctx.evidence_type,
                     "source": provider_id,
-                    "url": None,
+                    "url": ctx.evidence_url,
                     "retrieved_at": now,
                     "detail": f"{key}={fw_codename} in {origin[key]}"
                     + (
@@ -249,6 +268,7 @@ def _catalog(
             unresolved,
             result,
             dry_run,
+            ctx,
         )
     assert fw_codename and brand_id and build_id
 
@@ -272,8 +292,11 @@ def _catalog(
     dev_id = device["device_id"]
 
     # ---- firmware --------------------------------------------------------------------------
+    incremental = buildprop.first(
+        props, "ro.build.version.incremental", "ro.vendor.build.version.incremental"
+    )
     fw = models.new_firmware(
-        dev_id, build_id, provider_id, "user_supplied_local_firmware", region, channel
+        dev_id, build_id, provider_id, ctx.source_type, region, channel, incremental
     )
     fw_id = fw["firmware_id"]
     sdk = buildprop.first(props, "ro.build.version.sdk")
@@ -286,18 +309,37 @@ def _catalog(
             "api_level": int(sdk) if sdk and sdk.isdigit() else None,
             "security_patch": buildprop.first(props, "ro.build.version.security_patch"),
             "vendor_security_patch": buildprop.first(props, "ro.vendor.build.security_patch"),
+            # Android 10+ may omit ro.build.fingerprint (derived at runtime); fall back to the
+            # per-partition fingerprints, vendor first.
             "build_fingerprint": buildprop.first(
-                props, "ro.vendor.build.fingerprint", "ro.build.fingerprint"
+                props,
+                "ro.vendor.build.fingerprint",
+                "ro.build.fingerprint",
+                "ro.odm.build.fingerprint",
+                "ro.system.build.fingerprint",
+                "ro.product.build.fingerprint",
             )
             or prepared.ota_metadata.get("post-build"),
             "partitions": [p.as_dict() for p in prepared.partitions],
-            "distribution_status": "user_supplied",
+            "distribution_status": ctx.distribution_status,
             "last_checked_at": now,
             "last_updated_at": now,
         }
     )
+    fw["source_refs"] = [
+        ctx.source_ref
+        or {
+            "provider_id": provider_id,
+            "item_id": f"local:{prepared.archive_sha256 or prepared.tree.name}",
+            "url": None,
+            "revision": prepared.archive_sha256,
+            "content_marker": prepared.archive_sha256,
+            "retrieved_at": now,
+        }
+    ]
     fw["source"].update(
         {
+            "url": ctx.source_url,
             "archive_name": prepared.archive_name,
             "archive_sha256": prepared.archive_sha256,
             "archive_size": prepared.archive_size,
@@ -322,8 +364,11 @@ def _catalog(
         cfg.settings["scan"]["partitions"],
         cfg.limit("max_file_hash_bytes"),
     )
-    scan = scanner.scan(prepared.tree, fw_id, provider_id, user_supplied=True)
-    edges = dependencies.build(prepared.tree, scan, scanner, fw_id, provider_id, True)
+    scan = scanner.scan(prepared.tree, fw_id, provider_id, user_supplied=ctx.user_supplied)
+    # Files known to exist but not present locally (remote trees) still resolve dependencies.
+    known = {e.full for e in scan.inventory}
+    scan.inventory.extend(e for e in ctx.extra_inventory if e.full not in known)
+    edges = dependencies.build(prepared.tree, scan, scanner, fw_id, provider_id, ctx.user_supplied)
     container = prepared.archive_name
     for c in scan.components:
         c["provenance"]["container"] = container
@@ -357,7 +402,7 @@ def _catalog(
     if dry_run:
         return result
     key = device["codename_key"]
-    fw_key = models.firmware_key(build_id, region, channel)
+    fw_key = models.firmware_key(build_id, region, channel, incremental)
     if store.save_device(device):
         result.written.append(str(store.device_path(brand_id, key)))
     result.written += [
@@ -399,7 +444,10 @@ def _stage(
     reasons: list[str],
     result: IngestResult,
     dry_run: bool,
+    ctx: SourceContext | None = None,
+    codename_status: str = "unresolved",
 ) -> IngestResult:
+    ctx = ctx or SourceContext()
     cfg_entry = next(e for e in registry.entries(cfg) if e["id"] == provider_id)
     result.status = "staged" if not dry_run else "dry_run"
     result.detail = "; ".join(reasons)
@@ -407,7 +455,8 @@ def _stage(
     key = sanitize_id(claimed).lower() if claimed else "unknown"
     if not models.valid_codename(key):
         key = "unknown"
-    cand_id = f"{brand_id or 'unbranded'}__{key}__{(prepared.archive_sha256 or 'dir')[:12]}"
+    marker = (ctx.source_ref or {}).get("revision") or prepared.archive_sha256 or "dir"
+    cand_id = f"{brand_id or 'unbranded'}__{key}__{sanitize_id(marker)[:12]}"
     cand = {
         "schema_version": "1.0",
         "candidate_id": cand_id,
@@ -415,7 +464,7 @@ def _stage(
         "brand_inference": brand_basis,
         "codename": claimed,
         "codename_key": key,
-        "codename_status": "unresolved",
+        "codename_status": codename_status,
         "product_names": [],
         "model_numbers": [
             m for m in [buildprop.first(props, "ro.product.vendor.model", "ro.product.model")] if m
@@ -428,7 +477,7 @@ def _stage(
         "release_date": None,
         "evidence": [
             {
-                "evidence_type": "user_statement" if codename else "firmware_build_prop",
+                "evidence_type": "user_statement" if codename and not props else ctx.evidence_type,
                 "source": provider_id,
                 "url": None,
                 "retrieved_at": now,
@@ -441,14 +490,14 @@ def _stage(
         "discovered_at": now,
         "source": {
             "provider_id": provider_id,
-            "source_type": "user_supplied_local_firmware",
-            "url": None,
-            "revision": prepared.archive_sha256,
+            "source_type": ctx.source_type,
+            "url": ctx.source_url,
+            "revision": (ctx.source_ref or {}).get("revision") or prepared.archive_sha256,
             "snapshot": None,
         },
         "license": dict(cfg_entry["data_license"]),
         "verification": {"status": "unverified", "outstanding_requirements": list(reasons)},
-        "distribution_status": "user_supplied",
+        "distribution_status": ctx.distribution_status,
         "firmware_payload_ingested": False,
     }
     errs = [e.message for e in load_validators(cfg.schemas_dir)["candidate"].iter_errors(cand)]

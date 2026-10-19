@@ -17,7 +17,10 @@ and power components, builds a dependency graph, and writes validated JSON metad
 | `src/afid/scanning/`, `classification/`, `parsers/` | inventory, rules, ELF/init/VINTF/config parsing |
 | `src/afid/dependencies/` | dependency edges |
 | `src/afid/catalog/` | storage, validation, index/statistics |
-| `src/afid/providers/` | provider API, registry, brand providers, LineageOS wiki |
+| `src/afid/providers/` | provider API, registry, brand providers, LineageOS wiki, GitLab client + dump providers, DumprX tool provider |
+| `src/afid/remote.py`, `matrix.py`, `reconcile.py` | remote dump analysis, matrix planning, delta merge + ingestion state |
+| `src/afid/dumprx.py`, `resources.py` | guarded DumprX runner, resource budgets |
+| `.docker/` | five container images (validation, discovery, catalog, firmware-worker, security) |
 | `src/afid/updates/` | snapshot diff, staging, history |
 | `src/afid/licensing/`, `audit.py` | distribution policy, repository audit |
 
@@ -30,8 +33,10 @@ Archive/image/directory → `.afid-cache/work/<sha>/` → `tree/<partition>/` �
 edges → schema validation → `database/…` (see `docs/DATABASE_SCHEMA.md`).
 
 ## 5. External interfaces
-HTTPS to provider `allowed_hosts` only (currently `github.com`, `raw.githubusercontent.com`
-via git for `lineageos_wiki`); external tools `debugfs`, `fsck.erofs`, `lpunpack`,
+HTTPS to provider `allowed_hosts` only (`github.com`, `raw.githubusercontent.com` via git
+for `lineageos_wiki`; `gitlab.com` and `dumps.tadiphone.dev` GitLab REST v4, read-only, for
+the dump providers; `config/provider_registry.yml`); DumprX `303f5bba` runs offline in the
+worker image (`src/afid/dumprx.py`); external tools `debugfs`, `fsck.erofs`, `lpunpack`,
 `payload-dumper-go`, `lz4`, `git` (`src/afid/extraction/tools.py`).
 
 ## 6. Trust boundaries

@@ -1,5 +1,31 @@
 # Firmware ingestion
 
+AFID has three ingestion paths. All of them end in the same identity rules, scanner,
+classifier, policy and schema validation.
+
+| Path | Input | Command | Evidence type / source type | Distribution |
+|---|---|---|---|---|
+| Local import | a firmware archive, image or extracted tree you obtained | `afid ingest --local <path>` (`afid firmware ingest --local <path>`) | `firmware_build_prop` / `user_supplied_local_firmware` | `user_supplied` |
+| DumprX | one local firmware file, unpacked by pinned DumprX offline | `afid firmware dump --input <file> --ingest` ([DUMPRX_INTEGRATION.md](DUMPRX_INTEGRATION.md)) | `firmware_build_prop` / `user_supplied_local_firmware` | `user_supplied` |
+| Community dump | one dump branch on Android-Dumps or tadiphone | `afid firmware analyze --provider <id> --item <item>` ([SOURCE_INTEGRATION.md](SOURCE_INTEGRATION.md)) | `dump_build_prop` / `community_firmware_dump` | `unknown` |
+
+`afid firmware download --url <https url> --sha256 <hex> --out <file>` fetches a firmware
+file only from hosts listed in `config/settings.yml` `downloads.allowed_hosts`, which is
+empty: no host has been verified to permit automated download, so the command refuses until
+an owner adds one. It enforces `MAX_DOWNLOAD_BYTES`, the disk reserve, HTML-page rejection,
+truncation detection and the checksum ([RESOURCE_BUDGETS.md](RESOURCE_BUDGETS.md)).
+
+## Remote dump analysis
+
+No firmware file is involved. The dump's file list is read, paths are mapped onto
+partitions (`system/system/X` becomes `system/X`), build.prop files and every path a rule
+could match are fetched one by one at the branch's commit SHA, and DT_NEEDED libraries of
+fetched vendor binaries are followed within the fetch budget. Files that were listed but not
+fetched still count for dependency resolution (edges say "listed by the source, content not
+fetched"); Git LFS pointers are recorded in the report and never resolved. Firmware identity
+includes `ro.build.version.incremental`, so firmware keys look like `<build id>-<incremental>`
+when the two differ (e.g. `BP2A.250605.031.A3-2512182326`).
+
 ## Formats
 
 | Format | Detection | Handling | How it was tested |
@@ -31,7 +57,7 @@ against real firmware yet.
 4. **Partition images** found by magic; only partitions in `scan.partitions` are extracted;
    the others are recorded in the layout as not extracted.
 5. **Scan, classify, dependencies, policy, schema validation** (see
-   `COMPONENT_CLASSIFICATION.md`).
+   `COMPONENT_ANALYSIS.md`).
 6. **Write** device/firmware/components/dependencies only after validation succeeds.
 7. **Cleanup**: the work directory is deleted unless `--keep-work`.
 
@@ -44,11 +70,14 @@ Codename sources, in order: `ro.product.vendor.device`, `ro.product.odm.device`,
 `ro.product.device`, `ro.product.product.device`, `ro.product.system.device`,
 `ro.build.product` (values `generic`/`mainline` ignored), then OTA metadata `pre-device`.
 `--codename` is only an expectation: if it contradicts the firmware, ingestion stops.
-Brand: `--brand`, else build.prop brand mapped through `config/brands.yml` (model prefixes
-separate POCO/Redmi from Xiaomi and Pixel from other Google devices).
+Brand: `--brand`, else build.prop brand mapped case-insensitively through `config/brands.yml`
+aliases (model prefixes separate POCO/Redmi from Xiaomi and Pixel from other Google
+devices). Android uses the last definition of a property in a file; so does AFID.
 
 If codename, brand or build id cannot be established, a staging candidate is written to
-`database/staging/unresolved/` and the command exits with code 12.
+`database/staging/unresolved/` and the command exits with code 12. A build.prop brand that
+is neither a core nor an extended brand in `config/brands.yml` (e.g. `alps`, the MediaTek
+reference brand) is staged the same way (`test_unknown_brand_stays_in_staging`).
 
 When a device is verified, matching community candidates (same brand + codename) are merged
 in as corroborating evidence and removed from staging.

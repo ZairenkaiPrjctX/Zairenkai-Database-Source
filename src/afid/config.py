@@ -68,6 +68,10 @@ class Config:
         return [b["brand_id"] for b in self.brands]
 
     @cached_property
+    def core_brand_ids(self) -> list[str]:
+        return [b["brand_id"] for b in self.brands if b.get("scope", "core") == "core"]
+
+    @cached_property
     def rules(self) -> dict[str, Any]:
         return dict(self._load("component_rules.yml"))
 

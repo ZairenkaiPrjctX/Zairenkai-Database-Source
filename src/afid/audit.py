@@ -117,6 +117,10 @@ def workflow_risks(root: Path) -> list[str]:
         ):
             out.append(f"{rel}: write permissions at workflow level; grant per job instead")
         for job_name, job in (doc.get("jobs") or {}).items():
+            if "uses" in job:  # reusable-workflow call: GitHub forbids timeout-minutes here
+                if not str(job["uses"]).startswith("./.github/workflows/"):
+                    out.append(f"{rel}: job '{job_name}' calls a non-local reusable workflow")
+                continue
             if "timeout-minutes" not in job:
                 out.append(f"{rel}: job '{job_name}' has no timeout-minutes")
             for step in job.get("steps") or []:

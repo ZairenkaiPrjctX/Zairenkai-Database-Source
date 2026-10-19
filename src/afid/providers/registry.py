@@ -7,6 +7,7 @@ import os
 from pathlib import Path
 from typing import Any
 
+from afid import resources
 from afid.config import Config
 from afid.download import HttpClient
 from afid.errors import ConfigError, NotFoundError
@@ -59,16 +60,20 @@ def entries(cfg: Config) -> list[dict[str, Any]]:
 
 def build(cfg: Config, entry: dict[str, Any]) -> FirmwareProvider:
     token_env = (entry.get("auth") or {}).get("token_env")
+    lim = resources.limits(cfg)
     http = HttpClient(
         allowed_hosts=frozenset(entry["allowed_hosts"]),
-        timeout=float(cfg.network("timeout_seconds")),
-        max_retries=int(cfg.network("max_retries")),
+        timeout=lim["HTTP_TIMEOUT"],
+        max_retries=int(lim["RETRY_LIMIT"]),
         backoff=float(cfg.network("backoff_initial_seconds")),
-        min_interval=float(cfg.network("min_interval_seconds")),
+        # The stricter of the two pacing settings wins.
+        min_interval=max(float(cfg.network("min_interval_seconds")), lim["RATE_LIMIT_DELAY"]),
         user_agent=str(cfg.network("user_agent")),
         token=os.environ.get(token_env) if token_env else None,
     )
-    return _load_class(entry["class"])(entry, http, Path(cfg.cache))
+    prov = _load_class(entry["class"])(entry, http, Path(cfg.cache))
+    prov.config = cfg
+    return prov
 
 
 def get(cfg: Config, provider_id: str) -> FirmwareProvider:

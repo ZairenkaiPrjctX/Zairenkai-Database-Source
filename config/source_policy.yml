@@ -24,10 +24,14 @@ source_priority:
   - official_open_source_repository
   - public_device_tree
   - community_repository
+  - community_firmware_dump
   - user_supplied_local_firmware
 
 # Codename verification: which evidence may mark a codename "verified".
 codename_verification:
-  verifying_evidence: [firmware_build_prop, official_ota_metadata, official_source]
+  # dump_build_prop: build.prop read from a community dump of a firmware image, pinned to the
+  # dump's Git commit. It is firmware metadata, but the dump is third-party, so AFID also records
+  # the dump's blob IDs and keeps distribution status unknown.
+  verifying_evidence: [firmware_build_prop, dump_build_prop, official_ota_metadata, official_source]
   corroborating_evidence: [public_device_tree, community_repository]
   min_corroborating_sources_without_verifying: 0   # community data alone never verifies

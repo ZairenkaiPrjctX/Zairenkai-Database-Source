@@ -78,15 +78,28 @@ def device_id(brand_id: str, codename: str) -> str:
     return f"{brand_id}_{codename_key(codename)}"
 
 
-def firmware_key(build_id: str, region: str | None = None, channel: str | None = None) -> str:
-    parts = [sanitize_id(build_id)] + [sanitize_id(p) for p in (region, channel) if p]
-    return "_".join(parts)
+def firmware_key(
+    build_id: str,
+    region: str | None = None,
+    channel: str | None = None,
+    incremental: str | None = None,
+) -> str:
+    """Directory key for a firmware build. The incremental is part of the identity because
+    vendors reuse one build id across many releases (e.g. Xiaomi TKQ1.221114.001)."""
+    head = sanitize_id(build_id)
+    if incremental and sanitize_id(incremental) != head:
+        head = f"{head}-{sanitize_id(incremental)}"
+    return "_".join([head] + [sanitize_id(p) for p in (region, channel) if p])
 
 
 def firmware_id(
-    dev_id: str, build_id: str, region: str | None = None, channel: str | None = None
+    dev_id: str,
+    build_id: str,
+    region: str | None = None,
+    channel: str | None = None,
+    incremental: str | None = None,
 ) -> str:
-    return f"{dev_id}__{firmware_key(build_id, region, channel)}"
+    return f"{dev_id}__{firmware_key(build_id, region, channel, incremental)}"
 
 
 def component_id(fw_id: str, partition: str, path: str) -> str:
@@ -126,12 +139,14 @@ def new_firmware(
     source_type: str,
     region: str | None = None,
     channel: str | None = None,
+    incremental: str | None = None,
 ) -> dict[str, Any]:
     return {
         "schema_version": SCHEMA_VERSION,
-        "firmware_id": firmware_id(dev_id, build_id, region, channel),
+        "firmware_id": firmware_id(dev_id, build_id, region, channel, incremental),
         "device_id": dev_id,
         "build_id": build_id,
+        "build_incremental": incremental,
         "variant": {"region": region, "channel": channel},
         "firmware_version": None,
         "android_release": None,
@@ -150,6 +165,7 @@ def new_firmware(
             "archive_size": None,
             "official_checksum": None,
         },
+        "source_refs": [],
         "partitions": [],
         "ingestion": {
             "status": "discovered",

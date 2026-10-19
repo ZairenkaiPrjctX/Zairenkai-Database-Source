@@ -79,7 +79,7 @@ def test_cli_exit_codes_and_outputs(repo, capsys, tmp_path, tree):
     assert run(capsys, "database", "index")[0] == 0
     assert run(capsys, "database", "validate", "--check-index")[0] == 0
     assert run(capsys, "devices", "list")[1][0]["device_id"] == "google_pixel_fixturecode"
-    code, out = run(capsys, "firmware", "inspect", "google_pixel_fixturecode__FIX1.230101.001")
+    code, out = run(capsys, "firmware", "inspect", "google_pixel_fixturecode__FIX1.230101.001-1")
     assert code == 0 and out["components_by_category"]["thermal_hal"] >= 2
     code, out = run(capsys, "database", "stats")
     assert out["firmware_builds"] == 1
@@ -148,3 +148,18 @@ def test_registry_requires_license_evidence(repo):
     assert any("attribution" in p for p in registry.self_test(repo, bad))
     bad = {**e, "data_license": {**e["data_license"], "evidence_urls": []}}
     assert any("evidence_urls" in p for p in registry.self_test(repo, bad))
+
+
+def test_index_marker_is_never_duplicated(repo, monkeypatch):
+    """Regression: a partial run used to keep the old "_index" item and insert a new one, so
+    the snapshot flapped between runs and every scheduled check opened a pull request."""
+    from afid.providers.lineageos_wiki import LineageWikiProvider
+
+    monkeypatch.setattr(LineageWikiProvider, "_head", staticmethod(lambda path: "a" * 40))
+    updates.check(repo, provider="lineageos_wiki", write=True)  # fixture has a broken file
+    snap = repo.database / "sources/lineageos_wiki.json"
+    assert jsonio.load(snap)["status"] == "partial"
+    second_run = updates.check(repo, provider="lineageos_wiki", write=True)
+    ids = [i["item_id"] for i in jsonio.load(snap)["items"]]
+    assert ids.count("_index") == 1
+    assert second_run.written == []  # nothing but a check happened: no file change, no PR

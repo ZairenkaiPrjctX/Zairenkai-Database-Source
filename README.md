@@ -11,11 +11,14 @@ The repository stores **metadata** (identities, versions, paths, SHA-256 checksu
 classifications, dependencies, provenance). Proprietary firmware is processed locally and is
 **not** stored or published unless an explicit, evidence-backed allowlist entry permits it.
 
-> Status: initial release 0.1.0. The engine, schemas, CLI and workflows are implemented and
-> tested with synthetic fixtures. The catalog has **no verified devices** yet (353 unverified
-> LineageOS Wiki candidates wait in staging); no real firmware has been ingested, and no provider can download firmware automatically (see
-> [Provider status](#provider-status)). No CI badges are shown until the workflows have run
-> on GitHub.
+> Status: unreleased development on `dev` (package version 0.1.0). Engine, schemas, CLI, workflows and container images are
+> implemented and tested offline with fixtures. Community firmware dumps (Android-Dumps on
+> gitlab.com, dumps.tadiphone.dev) can now be discovered and analyzed without downloading
+> firmware, and pinned DumprX can unpack local firmware offline; both were exercised against
+> real sources into scratch databases ([docs/SOURCE_INTEGRATION.md](docs/SOURCE_INTEGRATION.md#live-results)).
+> The committed catalog still has **no verified devices** (353 unverified LineageOS Wiki
+> candidates wait in staging) until the dump workflows run and their PRs are reviewed. No CI
+> badges are shown until the workflows have run on GitHub.
 
 ## Contents
 
@@ -52,6 +55,12 @@ PowerHint JSON on a device) are simply absent, never invented.
 
 ## Brands
 
+The nine **core** brands below are covered by every provider and report. 22 **extended**
+brands seen in community dumps (Motorola, Nokia, Lenovo, realme, OPPO, vivo, iQOO, ASUS,
+Sony, Meizu, LG, Amazon, nubia, ZTE, HONOR, Huawei, itel, TCL, HTC, Fairphone, UMIDIGI,
+Black Shark) are cataloged with the same evidence rules; anything else stays in staging
+(`config/brands.yml`).
+
 | Brand | `brand_id` | Notes |
 |---|---|---|
 | Samsung | `samsung` | |
@@ -78,6 +87,13 @@ PowerHint JSON on a device) are simply absent, never invented.
 - Deterministic JSON output: unchanged data never produces a Git diff.
 - Update detection by revision markers, history diffs between firmware builds, and pull
   requests for every data change.
+- Community dump providers: incremental GitLab discovery (one item per dump branch, keyed by
+  commit SHA), commit-pinned selective file fetch, identity from the dump's build.prop,
+  cross-host dedup into one firmware record with several source refs, conflict quarantine.
+- Pinned DumprX in an offline, non-root worker container that refuses to publish.
+- Bounded GitHub Actions matrices (<= 256 jobs, `MAX_ITEMS_PER_RUN`), per-item failure
+  isolation, delta stores merged by a single reconcile job, resource budgets for every step.
+- Five digest-pinned container images with smoke tests, Trivy scans and SBOMs.
 
 ## Architecture
 
@@ -92,7 +108,10 @@ Details: [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
 
 ```
 .github/workflows/      validate, source-discovery, ingest-firmware, check-updates,
-                        refresh-catalog, security-audit
+                        refresh-catalog, security-audit, container-images, discover-dumps,
+                        plan-firmware-matrix, download-dumps, analyze-components,
+                        reconcile-catalog, dump-and-analyze
+.docker/                five Dockerfiles + build helpers (see .docker/README.md)
 .github/actions/        setup-afid (Python + hash-pinned dependencies)
 config/                 settings, brands, provider registry, classification rules,
                         source policy, redistributable allowlist
@@ -140,10 +159,14 @@ Full description, ID rules, validation and migration strategy:
 |---|---|---|
 | `lineageos_wiki` | metadata_only | device candidates from the LineageOS Wiki; 353 unverified candidates staged from upstream commit `2c365be2` (2026-10-18), 0 parse errors |
 | `local_firmware` | active | local import of archives, images, extracted trees (fixture-tested) |
+| `android_dumps_gitlab` | metadata_only | discovery of 592 dump branches (429 projects) and per-item analysis verified live on 2026-10-19 |
+| `tadiphone_dumps` | metadata_only | per-item analysis and incremental discovery verified live on a subgroup (12 projects, 110 items); a full 2877-project listing has not completed yet |
+| `dumprx` | manual_import_required | pinned DumprX, offline worker; verified on a synthetic ext4 firmware ZIP |
 | `google_pixel` | manual_import_required | local import with official SHA-256 check; downloads need terms acceptance in a browser |
 | `samsung`, `xiaomi`, `poco`, `redmi`, `oneplus`, `infinix`, `tecno`, `nothing` | manual_import_required | local import; no official automatable source verified |
 
-No provider downloads firmware; no provider has been exercised with real vendor firmware yet.
+No provider downloads firmware archives; dump providers fetch individual files at a pinned
+commit. No real vendor firmware archive has been run through DumprX in this repository yet.
 Not every model has an automatically accessible source, and proprietary firmware may be
 restricted by its license. Per-provider details: [docs/PROVIDERS.md](docs/PROVIDERS.md).
 
@@ -171,8 +194,19 @@ afid version
 afid doctor
 afid providers list
 afid providers test
-afid discover                                   # dry run of all discovery providers
+afid providers health [--provider <id>]         # live reachability / DumprX guards
+afid discover --all --skip-dumps                # dry run of the fast discovery providers
 afid discover --brand xiaomi --write            # store snapshot + staging candidates
+afid discover --provider android_dumps_gitlab --write   # list dump branches (incremental)
+afid matrix plan --mode eligible-batch [--provider <id>] [--batch-size <n>] [--batch-index <n>]
+afid firmware analyze --provider <id> --item <item-id> [--out <delta-dir>]
+afid firmware dump --input <local-file> --ingest   # pinned DumprX, inside afid-firmware-worker
+afid firmware download --url <https-url> --sha256 <hex> --out <file>
+afid firmware verify --input <file> [--sha256 <hex>]
+afid firmware ingest --local <firmware-path>
+afid catalog reconcile --deltas <dir> [--report-out reconcile.json]
+afid catalog validate
+afid resources
 afid devices list
 afid devices show google_pixel_<codename>
 afid firmware list --device <device-id>
@@ -220,6 +254,20 @@ afid database validate --check-index            # schemas, references, codenames
 afid policy check                               # nothing unpublishable staged for publishing
 ```
 
+## Community dumps in four commands
+
+```bash
+afid discover --provider android_dumps_gitlab --write          # 1. list dump branches
+afid matrix plan --mode selected-item --provider android_dumps_gitlab --item '<item-id>'
+afid firmware analyze --provider android_dumps_gitlab --item '<item-id>'   # 2-3. fetch + catalog
+afid catalog validate                                          # 4. check the result
+```
+
+On GitHub the same runs as `discover-dumps.yml` and `download-dumps.yml`; see
+[docs/MATRIX_PIPELINE.md](docs/MATRIX_PIPELINE.md), [docs/RESOURCE_BUDGETS.md](docs/RESOURCE_BUDGETS.md),
+[docs/DOCKER_ARCHITECTURE.md](docs/DOCKER_ARCHITECTURE.md), [docs/CONTAINER_IMAGES.md](docs/CONTAINER_IMAGES.md)
+and [docs/DUMPRX_INTEGRATION.md](docs/DUMPRX_INTEGRATION.md).
+
 ## Update workflow
 
 `check-updates.yml` runs daily, compares sources by revision markers, and opens a pull request
@@ -234,14 +282,14 @@ Enabling it requires one repository setting. See [docs/UPDATE_SYSTEM.md](docs/UP
 - **Device**: ingest firmware that contains its identity; community data stays in staging
   ([CONTRIBUTING](docs/CONTRIBUTING.md#adding-a-device)).
 - **Classifier**: add a rule to `config/component_rules.yml` with an honest confidence and
-  reason ([docs/COMPONENT_CLASSIFICATION.md](docs/COMPONENT_CLASSIFICATION.md#adding-a-classifier)).
+  reason ([docs/COMPONENT_ANALYSIS.md](docs/COMPONENT_ANALYSIS.md#adding-a-classifier)).
 
 ## Licensing and redistribution
 
 Default status is `unknown`, which is never publishable; only files allowlisted by SHA-256
 with license evidence are. XML/JSON/`.conf`/`.rc` files are not assumed free. Payloads never
 enter Git, releases or workflow artifacts by default.
-See [docs/LICENSING.md](docs/LICENSING.md).
+See [docs/LICENSE_AND_DISTRIBUTION.md](docs/LICENSE_AND_DISTRIBUTION.md).
 
 ## Security and firmware use
 
@@ -262,6 +310,8 @@ ruff check src tests scripts && ruff format --check src tests scripts
 mypy
 afid database validate --check-index && afid providers test && afid policy check && afid security scan
 actionlint
+docker run --rm -i hadolint/hadolint:v2.14.0 hadolint - < .docker/afid-catalog.Dockerfile
+shellcheck .docker/scripts/*.sh scripts/*.sh
 ```
 
 Tests run offline. ELF fixtures are real AArch64/ARM binaries built from
@@ -273,7 +323,8 @@ generated per test.
 - Exercise each brand's local import with real firmware and record results in
   `docs/PROVIDERS.md`.
 - Boot-image parsing for kernel version; `vendor_boot` and `init_boot` layouts.
-- Verified MediaTek, Exynos and Tensor classification rules.
+- Exynos and Tensor classification rules; MediaTek rules checked on more devices.
+- Licence review of DumprX's bundled binaries, then a publishable worker image.
 - Official-source providers wherever a documented, permitted, automatable API exists.
 - Normalized (derived) thermal/power config representations stored separately from originals.
 
@@ -289,4 +340,4 @@ AFID code, configuration, schemas, documentation and test fixtures: Apache Licen
 Wiki candidates in `database/staging/unresolved/lineageos_wiki/` are CC BY-SA 3.0, (c) The
 LineageOS Project. Apache-2.0 does not cover firmware, vendor libraries or vendor
 configuration referenced by the catalog; those belong to their owners and are never
-redistributed by default. Details: [docs/LICENSING.md](docs/LICENSING.md).
+redistributed by default. Details: [docs/LICENSE_AND_DISTRIBUTION.md](docs/LICENSE_AND_DISTRIBUTION.md).

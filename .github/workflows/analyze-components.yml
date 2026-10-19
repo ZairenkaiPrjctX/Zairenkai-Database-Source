@@ -1,0 +1,89 @@
+name: analyze-components
+
+# Per-item analysis of dump items: selective, commit-pinned file fetch, identity from the
+# fetched build.prop, component classification and dependency edges. Each matrix entry
+# writes only its own delta store as an artifact (never the repository), so one failing
+# item cannot affect another. No secrets are available to these jobs.
+on:
+  workflow_call:
+    inputs:
+      matrix:
+        type: string
+        required: true
+  workflow_dispatch:
+    inputs:
+      provider:
+        type: choice
+        options: [android_dumps_gitlab, tadiphone_dumps]
+      item:
+        description: Item id from database/sources/<provider>.json
+        required: true
+
+permissions:
+  contents: read
+
+concurrency:
+  group: analyze-components-${{ github.run_id }}
+  cancel-in-progress: false
+
+jobs:
+  single:
+    if: github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: ./.github/actions/setup-afid
+      - name: Analyze one item into a delta store
+        env:
+          PROVIDER: ${{ inputs.provider }}
+          ITEM: ${{ inputs.item }}
+        run: |
+          nproc; free -h; df -h .; df -i .
+          afid firmware analyze --provider "$PROVIDER" --item "$ITEM" --out "$RUNNER_TEMP/delta/single"
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        if: always()
+        with:
+          name: delta-single
+          path: ${{ runner.temp }}/delta/single
+          retention-days: 14
+          if-no-files-found: ignore
+
+  analyze:
+    if: github.event_name != 'workflow_dispatch'
+    name: analyze (${{ matrix.id }})
+    runs-on: ubuntu-24.04
+    timeout-minutes: ${{ fromJSON(vars.AFID_JOB_TIMEOUT_MINUTES || '60') }}
+    strategy:
+      fail-fast: false
+      max-parallel: ${{ fromJSON(vars.AFID_MAX_ANALYSIS_PARALLEL || '2') }}
+      matrix: ${{ fromJSON(inputs.matrix) }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: ./.github/actions/setup-afid
+      - name: Check resources
+        run: |
+          nproc; free -h; df -h .; df -i .
+          afid resources
+      - name: Analyze into a delta store
+        env:
+          PROVIDER: ${{ matrix.provider }}
+          ITEM: ${{ matrix.item }}
+          ENTRY_ID: ${{ matrix.id }}
+          AFID_MAX_FETCH_FILES: ${{ vars.AFID_MAX_FETCH_FILES || '400' }}
+          AFID_MAX_FETCH_BYTES: ${{ vars.AFID_MAX_FETCH_BYTES || '536870912' }}
+        run: |
+          # A failed analysis still produces item-report.json, so reconcile records the attempt.
+          afid firmware analyze --provider "$PROVIDER" --item "$ITEM" --out "$RUNNER_TEMP/delta/$ENTRY_ID" || true
+          test -f "$RUNNER_TEMP/delta/$ENTRY_ID/item-report.json"
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        if: always()
+        with:
+          name: delta-${{ matrix.id }}
+          path: ${{ runner.temp }}/delta/${{ matrix.id }}
+          retention-days: 14
+          if-no-files-found: ignore

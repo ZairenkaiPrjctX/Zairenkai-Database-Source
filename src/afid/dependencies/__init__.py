@@ -62,6 +62,13 @@ def _locate(
     return None, "unresolved"
 
 
+def _present(root: Path, entry: FileEntry) -> bool:
+    """False for files known only from a remote listing (afid.remote extra inventory)."""
+    base = root if entry.partition == "root" else root / entry.partition
+    p = base / entry.path
+    return p.is_file() or p.is_symlink()
+
+
 def build(
     root: Path,
     result: ScanResult,
@@ -102,7 +109,14 @@ def build(
         for needed in comp["details"]["elf"].get("needed", []):
             entry, status = _locate(needed, comp, index)
             target = by_path.get(entry.full) if entry else None
-            if entry and target is None and entry.partition in VENDOR_SIDE and depth < MAX_DEPTH:
+            local = entry is not None and _present(root, entry)
+            if (
+                entry
+                and local
+                and target is None
+                and entry.partition in VENDOR_SIDE
+                and depth < MAX_DEPTH
+            ):
                 cls = Classification(
                     "vendor_library",
                     "resolved_dependency",
@@ -119,7 +133,12 @@ def build(
                     if target["details"].get("elf"):
                         queue.append((target, depth + 1))
             where = entry.full if entry else "not found in scanned tree"
-            note = "" if target or not entry else " (platform library, not cataloged)"
+            if target or not entry:
+                note = ""
+            elif not local:
+                note = " (listed by the source, content not fetched)"
+            else:
+                note = " (platform library, not cataloged)"
             add(
                 "dt_needed",
                 comp,

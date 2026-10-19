@@ -1,42 +1,168 @@
 # Canonical brand registry. brand_id values are stable and used in directory names.
+#
+# scope:
+#   core      the nine brands AFID was built for; every provider and report covers them
+#   extended  brands seen in community firmware dumps (Android-Dumps, tadiphone). A device of
+#             an extended brand is cataloged only from firmware evidence, exactly like a core
+#             brand; a build.prop brand that is in neither list stays in staging.
+# Aliases are matched case-insensitively against ro.product.{vendor.}brand / manufacturer.
 schema_version: "1.0"
 brands:
   - brand_id: samsung
     display_name: Samsung
     aliases: [Samsung, SAMSUNG, samsung]
     ecosystem: samsung
+    scope: core
   - brand_id: xiaomi
     display_name: Xiaomi
     aliases: [Xiaomi, XIAOMI, Mi, xiaomi]
     ecosystem: xiaomi
+    scope: core
   - brand_id: poco
     display_name: POCO
     aliases: [POCO, Poco, poco]
     ecosystem: xiaomi
+    scope: core
     product_name_prefixes: [POCO, Poco]
   - brand_id: redmi
     display_name: Redmi
     aliases: [Redmi, REDMI, redmi]
     ecosystem: xiaomi
+    scope: core
     product_name_prefixes: [Redmi]
   - brand_id: infinix
     display_name: Infinix
     aliases: [Infinix, INFINIX, infinix]
     ecosystem: transsion
+    scope: core
   - brand_id: oneplus
     display_name: OnePlus
     aliases: [OnePlus, ONEPLUS, oneplus, One Plus]
     ecosystem: oplus
+    scope: core
   - brand_id: tecno
     display_name: TECNO
     aliases: [TECNO, Tecno, tecno, Techno, TECHNO]   # "Techno" is a search alias only
     ecosystem: transsion
+    scope: core
   - brand_id: google_pixel
     display_name: Google Pixel
     aliases: [Google, google, Pixel]
     ecosystem: google
+    scope: core
     product_name_prefixes: [Pixel]
   - brand_id: nothing
     display_name: Nothing Phone
     aliases: [Nothing, NOTHING, nothing, Nothing Phone]
     ecosystem: nothing
+    scope: core
+  - brand_id: motorola
+    display_name: Motorola
+    aliases: [moto, motorola, Motorola]
+    ecosystem: lenovo
+    scope: extended
+  - brand_id: nokia
+    display_name: Nokia
+    aliases: [nokia, Nokia]
+    ecosystem: hmd
+    scope: extended
+  - brand_id: lenovo
+    display_name: Lenovo
+    aliases: [Lenovo, lenovo]
+    ecosystem: lenovo
+    scope: extended
+  - brand_id: realme
+    display_name: realme
+    aliases: [realme, Realme]
+    ecosystem: oplus
+    scope: extended
+  - brand_id: oppo
+    display_name: OPPO
+    aliases: [Oppo, oppo, OPPO]
+    ecosystem: oplus
+    scope: extended
+  - brand_id: vivo
+    display_name: vivo
+    aliases: [vivo, Vivo]
+    ecosystem: vivo
+    scope: extended
+  - brand_id: iqoo
+    display_name: iQOO
+    aliases: [iQOO, iqoo]
+    ecosystem: vivo
+    scope: extended
+  - brand_id: asus
+    display_name: ASUS
+    aliases: [ASUS, asus]
+    ecosystem: asus
+    scope: extended
+  - brand_id: sony
+    display_name: Sony
+    aliases: [sony, Sony]
+    ecosystem: sony
+    scope: extended
+  - brand_id: meizu
+    display_name: Meizu
+    aliases: [meizu, Meizu]
+    ecosystem: meizu
+    scope: extended
+  - brand_id: lge
+    display_name: LG
+    aliases: [lg, LG, lge, LGE]
+    ecosystem: lge
+    scope: extended
+  - brand_id: amazon
+    display_name: Amazon
+    aliases: [Amazon, amazon]
+    ecosystem: amazon
+    scope: extended
+  - brand_id: nubia
+    display_name: nubia
+    aliases: [Nubia, nubia]
+    ecosystem: zte
+    scope: extended
+  - brand_id: zte
+    display_name: ZTE
+    aliases: [ZTE, zte]
+    ecosystem: zte
+    scope: extended
+  - brand_id: honor
+    display_name: HONOR
+    aliases: [honor, Honor, HONOR]
+    ecosystem: honor
+    scope: extended
+  - brand_id: huawei
+    display_name: Huawei
+    aliases: [huawei, HUAWEI, Huawei]
+    ecosystem: huawei
+    scope: extended
+  - brand_id: itel
+    display_name: itel
+    aliases: [Itel, itel]
+    ecosystem: transsion
+    scope: extended
+  - brand_id: tcl
+    display_name: TCL
+    aliases: [tcl, TCL]
+    ecosystem: tcl
+    scope: extended
+  - brand_id: htc
+    display_name: HTC
+    aliases: [htc, HTC]
+    ecosystem: htc
+    scope: extended
+  - brand_id: fairphone
+    display_name: Fairphone
+    aliases: [fairphone, Fairphone]
+    ecosystem: fairphone
+    scope: extended
+  - brand_id: umidigi
+    display_name: UMIDIGI
+    aliases: [Umidigi, UMIDIGI, umidigi]
+    ecosystem: umidigi
+    scope: extended
+  - brand_id: blackshark
+    display_name: Black Shark
+    aliases: ['Black Shark', BlackShark, blackshark]
+    ecosystem: xiaomi
+    scope: extended

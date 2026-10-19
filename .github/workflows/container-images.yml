@@ -1,0 +1,134 @@
+name: container-images
+
+# Bootstrap order for every image: build -> smoke test -> vulnerability scan -> SBOM ->
+# (publish, only by explicit dispatch from dev) -> record digest. Digests are copied into
+# config/container_images.yml by a reviewed PR; no workflow trusts an image by tag.
+# Only images with a clean scan are publishable (afid-discovery, afid-catalog). The
+# validation and security images embed third-party Go binaries with unpatched findings, and
+# afid-firmware-worker awaits a licence review of DumprX's bundled binaries; those three are
+# built, tested, scanned and given an SBOM, never published.
+on:
+  pull_request:
+    paths: [".docker/**", ".dockerignore", "src/**", "requirements*.lock", ".github/workflows/container-images.yml"]
+  push:
+    branches: [dev]
+    paths: [".docker/**", ".dockerignore", "src/**", "requirements*.lock", ".github/workflows/container-images.yml"]
+  workflow_dispatch:
+    inputs:
+      publish:
+        description: Push afid-discovery and afid-catalog to GHCR (dev only)
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: container-images-${{ github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
+env:
+  TRIVY_IMAGE: ghcr.io/aquasecurity/trivy:0.67.0@sha256:94711c60051c6cab848a292e3a67f62623fcee361b2bb661f43b17184f4afdac
+  SYFT_IMAGE: ghcr.io/anchore/syft:v1.33.0@sha256:f94e5d9fce1f2278491a8e3a63bd5f6ddb81fdfdbb8bf7a1637565c1d5344357
+
+jobs:
+  build:
+    name: build (${{ matrix.image }})
+    runs-on: ubuntu-24.04
+    timeout-minutes: 45
+    strategy:
+      fail-fast: false
+      matrix:
+        image: [afid-validation, afid-discovery, afid-catalog, afid-firmware-worker, afid-security]
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Build
+        env:
+          IMAGE: ${{ matrix.image }}
+        run: docker build -f ".docker/$IMAGE.Dockerfile" --build-arg VCS_REF="$GITHUB_SHA" -t "$IMAGE:ci" .
+      - name: Smoke test (no network)
+        env:
+          IMAGE: ${{ matrix.image }}
+        run: |
+          run() { docker run --rm --network none --cap-drop ALL --security-opt no-new-privileges --read-only --tmpfs /tmp "$@"; }
+          test "$(docker image inspect "$IMAGE:ci" --format '{{.Config.User}}')" = afid
+          case "$IMAGE" in
+            afid-firmware-worker)
+              run -v "$PWD:/workspace:ro" "$IMAGE:ci" --root /workspace providers health --provider dumprx
+              for t in fsck.erofs 7zz 7z simg2img lz4 zstd file unace; do run --entrypoint sh "$IMAGE:ci" -c "command -v $t"; done
+              for t in git curl wget sudo uvx; do if run --entrypoint sh "$IMAGE:ci" -c "command -v $t"; then echo "$t must not be installed"; exit 1; fi; done ;;
+            afid-security)
+              run "$IMAGE:ci" ;;
+            afid-validation)
+              run -v "$PWD:/workspace:ro" --entrypoint afid "$IMAGE:ci" version ;;
+            *)
+              run -v "$PWD:/workspace:ro" "$IMAGE:ci" --root /workspace database validate ;;
+          esac
+      - name: Scan and SBOM
+        env:
+          IMAGE: ${{ matrix.image }}
+        run: |
+          mkdir -p reports
+          docker save "$IMAGE:ci" -o "$RUNNER_TEMP/image.tar"
+          # Images AFID publishes must have no fixable HIGH/CRITICAL finding. Tool images
+          # (validation, security, worker) embed third-party Go binaries whose findings AFID
+          # cannot patch; they are scanned and reported, and are not published.
+          gate=0; case "$IMAGE" in afid-discovery|afid-catalog) gate=1 ;; esac
+          docker run --rm -v "$RUNNER_TEMP:/in:ro" -v "$PWD/reports:/out" "$TRIVY_IMAGE" image --input /in/image.tar \
+            --severity HIGH,CRITICAL --ignore-unfixed --exit-code "$gate" --format table --output "/out/$IMAGE-trivy.txt"
+          docker run --rm -v "$RUNNER_TEMP:/in:ro" -v "$PWD/reports:/out" "$SYFT_IMAGE" "docker-archive:/in/image.tar" \
+            -o "spdx-json=/out/$IMAGE.spdx.json"
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        if: always()
+        with:
+          name: image-reports-${{ matrix.image }}
+          path: reports/
+          retention-days: 30
+          if-no-files-found: ignore
+      # The exact image that passed the tests and the scan is what gets published.
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        if: github.event_name == 'workflow_dispatch' && inputs.publish && (matrix.image == 'afid-discovery' || matrix.image == 'afid-catalog')
+        with:
+          name: image-tar-${{ matrix.image }}
+          path: ${{ runner.temp }}/image.tar
+          retention-days: 1
+
+  publish:
+    needs: build
+    if: github.event_name == 'workflow_dispatch' && inputs.publish && github.ref == 'refs/heads/dev'
+    name: publish (${{ matrix.image }})
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    permissions:
+      contents: read
+      packages: write
+    strategy:
+      fail-fast: false
+      matrix:
+        image: [afid-discovery, afid-catalog]
+    steps:
+      - uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
+        with:
+          name: image-tar-${{ matrix.image }}
+          path: ${{ runner.temp }}/image
+      - name: Push the tested image
+        env:
+          IMAGE: ${{ matrix.image }}
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          ref="ghcr.io/${GITHUB_REPOSITORY_OWNER,,}/$IMAGE:sha-$GITHUB_SHA"
+          docker load -i "$RUNNER_TEMP/image/image.tar"
+          docker tag "$IMAGE:ci" "$ref"
+          echo "$GH_TOKEN" | docker login ghcr.io -u "$GITHUB_ACTOR" --password-stdin
+          docker push "$ref"
+          digest=$(docker image inspect "$ref" --format '{{index .RepoDigests 0}}')
+          docker logout ghcr.io
+          echo "$IMAGE $digest" | tee -a "$GITHUB_STEP_SUMMARY"
+          mkdir -p reports && echo "{\"image\": \"$IMAGE\", \"ref\": \"$ref\", \"digest\": \"$digest\"}" > "reports/$IMAGE-digest.json"
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: image-digest-${{ matrix.image }}
+          path: reports/
+          retention-days: 90

@@ -29,20 +29,12 @@
     },
     "device_id": {
       "type": "string",
-      "pattern": "^[a-z_]+_[a-z0-9][a-z0-9._-]*$"
+      "pattern": "^[a-z][a-z0-9_]*_[a-z0-9][a-z0-9._-]*$"
     },
     "brand_id": {
-      "enum": [
-        "samsung",
-        "xiaomi",
-        "poco",
-        "redmi",
-        "infinix",
-        "oneplus",
-        "tecno",
-        "google_pixel",
-        "nothing"
-      ]
+      "type": "string",
+      "pattern": "^[a-z][a-z0-9_]{1,31}$",
+      "description": "brand id from config/brands.yml (checked by the validator)"
     },
     "codename": {
       "type": "string",
@@ -182,6 +174,7 @@
                   "evidence_type": {
                     "enum": [
                       "firmware_build_prop",
+                      "dump_build_prop",
                       "official_ota_metadata",
                       "official_source",
                       "public_device_tree",
@@ -243,6 +236,7 @@
           "evidence_type": {
             "enum": [
               "firmware_build_prop",
+              "dump_build_prop",
               "official_ota_metadata",
               "official_source",
               "public_device_tree",

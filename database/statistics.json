@@ -1,9 +1,51 @@
 {
-  "brands": 9,
+  "brands": 31,
   "by_category": {},
   "components": 0,
   "coverage_by_brand": {
+    "amazon": {
+      "components": 0,
+      "devices": 0,
+      "devices_with_firmware": 0,
+      "firmware_builds": 0
+    },
+    "asus": {
+      "components": 0,
+      "devices": 0,
+      "devices_with_firmware": 0,
+      "firmware_builds": 0
+    },
+    "blackshark": {
+      "components": 0,
+      "devices": 0,
+      "devices_with_firmware": 0,
+      "firmware_builds": 0
+    },
+    "fairphone": {
+      "components": 0,
+      "devices": 0,
+      "devices_with_firmware": 0,
+      "firmware_builds": 0
+    },
     "google_pixel": {
+      "components": 0,
+      "devices": 0,
+      "devices_with_firmware": 0,
+      "firmware_builds": 0
+    },
+    "honor": {
+      "components": 0,
+      "devices": 0,
+      "devices_with_firmware": 0,
+      "firmware_builds": 0
+    },
+    "htc": {
+      "components": 0,
+      "devices": 0,
+      "devices_with_firmware": 0,
+      "firmware_builds": 0
+    },
+    "huawei": {
       "components": 0,
       "devices": 0,
       "devices_with_firmware": 0,
@@ -15,7 +57,55 @@
       "devices_with_firmware": 0,
       "firmware_builds": 0
     },
+    "iqoo": {
+      "components": 0,
+      "devices": 0,
+      "devices_with_firmware": 0,
+      "firmware_builds": 0
+    },
+    "itel": {
+      "components": 0,
+      "devices": 0,
+      "devices_with_firmware": 0,
+      "firmware_builds": 0
+    },
+    "lenovo": {
+      "components": 0,
+      "devices": 0,
+      "devices_with_firmware": 0,
+      "firmware_builds": 0
+    },
+    "lge": {
+      "components": 0,
+      "devices": 0,
+      "devices_with_firmware": 0,
+      "firmware_builds": 0
+    },
+    "meizu": {
+      "components": 0,
+      "devices": 0,
+      "devices_with_firmware": 0,
+      "firmware_builds": 0
+    },
+    "motorola": {
+      "components": 0,
+      "devices": 0,
+      "devices_with_firmware": 0,
+      "firmware_builds": 0
+    },
+    "nokia": {
+      "components": 0,
+      "devices": 0,
+      "devices_with_firmware": 0,
+      "firmware_builds": 0
+    },
     "nothing": {
+      "components": 0,
+      "devices": 0,
+      "devices_with_firmware": 0,
+      "firmware_builds": 0
+    },
+    "nubia": {
       "components": 0,
       "devices": 0,
       "devices_with_firmware": 0,
@@ -27,7 +117,19 @@
       "devices_with_firmware": 0,
       "firmware_builds": 0
     },
+    "oppo": {
+      "components": 0,
+      "devices": 0,
+      "devices_with_firmware": 0,
+      "firmware_builds": 0
+    },
     "poco": {
+      "components": 0,
+      "devices": 0,
+      "devices_with_firmware": 0,
+      "firmware_builds": 0
+    },
+    "realme": {
       "components": 0,
       "devices": 0,
       "devices_with_firmware": 0,
@@ -45,13 +147,43 @@
       "devices_with_firmware": 0,
       "firmware_builds": 0
     },
+    "sony": {
+      "components": 0,
+      "devices": 0,
+      "devices_with_firmware": 0,
+      "firmware_builds": 0
+    },
+    "tcl": {
+      "components": 0,
+      "devices": 0,
+      "devices_with_firmware": 0,
+      "firmware_builds": 0
+    },
     "tecno": {
       "components": 0,
       "devices": 0,
       "devices_with_firmware": 0,
       "firmware_builds": 0
     },
+    "umidigi": {
+      "components": 0,
+      "devices": 0,
+      "devices_with_firmware": 0,
+      "firmware_builds": 0
+    },
+    "vivo": {
+      "components": 0,
+      "devices": 0,
+      "devices_with_firmware": 0,
+      "firmware_builds": 0
+    },
     "xiaomi": {
+      "components": 0,
+      "devices": 0,
+      "devices_with_firmware": 0,
+      "firmware_builds": 0
+    },
+    "zte": {
       "components": 0,
       "devices": 0,
       "devices_with_firmware": 0,

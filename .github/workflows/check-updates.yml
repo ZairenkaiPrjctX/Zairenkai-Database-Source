@@ -2,6 +2,7 @@ name: check-updates
 
 # Daily update check. Compares provider sources with stored snapshots using revision markers
 # (content hashes, git blob SHAs), never timestamps. Opens a PR only when metadata changed.
+# Dump providers (thousands of repositories) are skipped here; see discover-dumps.yml.
 on:
   schedule:
     - cron: "17 3 * * *"
@@ -37,7 +38,7 @@ jobs:
         env:
           PROVIDER: ${{ inputs.provider }}
         run: |
-          args=(--write --report-out reports/update-report.json)
+          args=(--write --skip-dumps --report-out reports/update-report.json)
           if [ -n "$PROVIDER" ]; then args+=(--provider "$PROVIDER"); fi
           mkdir -p reports
           set +e

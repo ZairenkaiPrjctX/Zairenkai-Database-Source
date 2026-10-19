@@ -48,9 +48,13 @@ class Rule:
     reason: str
     require_elf: bool | None = None
     soc_vendors: tuple[str, ...] = ()
+    exclude_paths: tuple[str, ...] = ()
 
-    def matches(self, path: str, is_elf: bool) -> bool:
-        if self.require_elf is not None and self.require_elf != is_elf:
+    def matches(self, path: str, is_elf: bool | None) -> bool:
+        """is_elf None means "not known yet" (remote listings): only the path decides."""
+        if is_elf is not None and self.require_elf is not None and self.require_elf != is_elf:
+            return False
+        if self.exclude_paths and glob_match(path, list(self.exclude_paths)):
             return False
         return glob_match(path, list(self.paths))
 
@@ -90,6 +94,7 @@ class Classifier:
                     reason=raw["reason"],
                     require_elf=raw.get("require_elf"),
                     soc_vendors=tuple(raw.get("soc_vendors") or ()),
+                    exclude_paths=tuple(raw.get("exclude_paths") or ()),
                 )
             except (KeyError, TypeError, ValueError) as exc:
                 raise ConfigError(f"invalid classification rule {raw!r}: {exc}") from exc
@@ -102,9 +107,12 @@ class Classifier:
             seen.add(rule.id)
             self.rules.append(rule)
         self.unknown_globs = list(rules_doc.get("catalog_unknown_globs") or [])
+        self.exclude_globs = list(rules_doc.get("exclude_globs") or [])
         self.keywords = [k.lower() for k in rules_doc.get("relevance_keywords") or []]
 
     def classify(self, path: str, is_elf: bool) -> Classification | None:
+        if self.excluded(path):
+            return None
         hits = [r for r in self.rules if r.matches(path, is_elf)]
         if not hits:
             return None
@@ -120,8 +128,25 @@ class Classifier:
             soc_vendors=sorted({v for r in hits for v in r.soc_vendors}),
         )
 
+    def excluded(self, path: str) -> bool:
+        return glob_match(path, self.exclude_globs)
+
+    def best_rule(self, path: str) -> Rule | None:
+        """Highest-confidence rule that could match `path` (content not known yet)."""
+        if self.excluded(path):
+            return None
+        hits = [r for r in self.rules if r.matches(path, None)]
+        return min(hits, key=lambda r: (-r.confidence, r.id)) if hits else None
+
+    def candidate(self, path: str) -> bool:
+        """Could this path become a catalog component once its content is known? Used to
+        select files from remote dump listings before anything is fetched."""
+        if self.excluded(path):
+            return False
+        return any(r.matches(path, None) for r in self.rules) or self.catalog_unknown(path)
+
     def catalog_unknown(self, path: str) -> bool:
-        return glob_match(path, self.unknown_globs)
+        return not self.excluded(path) and glob_match(path, self.unknown_globs)
 
     def relevant(self, *texts: str) -> bool:
         joined = " ".join(texts).lower()

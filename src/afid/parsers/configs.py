@@ -10,6 +10,8 @@ import json
 import re
 from typing import Any
 
+import yaml
+
 from afid.parsers.vintf import XmlRejected, safe_fromstring
 
 MAX_CONFIG_BYTES = 16 * 1024 * 1024
@@ -68,6 +70,20 @@ def summarize_xml(data: bytes) -> dict[str, Any]:
     return out
 
 
+def summarize_yaml(data: bytes) -> dict[str, Any]:
+    """YAML config: top-level structure only. safe_load builds plain data, never Python
+    objects; only top-level keys are read, so aliased (shared) nodes are never walked."""
+    text = data.decode("utf-8", "replace")
+    doc = yaml.safe_load(text)
+    out: dict[str, Any] = {"format": "yaml"}
+    if isinstance(doc, dict):
+        out["top_level_keys"] = sorted(str(k) for k in doc)[:500]
+    else:
+        out["top_level_type"] = type(doc).__name__
+    out.update(references(text))
+    return out
+
+
 def summarize_thermal_engine_conf(text: str) -> dict[str, Any]:
     """thermal-engine.conf: INI-like '[SECTION]' blocks with 'key value' lines."""
     sections: list[dict[str, Any]] = []
@@ -106,6 +122,11 @@ def summarize(data: bytes, subcategory: str, filename: str) -> tuple[str, dict[s
         return "json", summarize_json(data, subcategory)
     if lower.endswith(".xml"):
         return "xml", summarize_xml(data)
+    if lower.endswith((".yaml", ".yml")):
+        try:
+            return "yaml", summarize_yaml(data)
+        except yaml.YAMLError as exc:
+            raise ValueError(f"invalid YAML: {str(exc)[:200]}") from None
     text = data.decode("utf-8", "replace")
     if "thermal-engine" in lower or subcategory == "thermal_engine_conf":
         return "thermal_engine_conf", summarize_thermal_engine_conf(text)

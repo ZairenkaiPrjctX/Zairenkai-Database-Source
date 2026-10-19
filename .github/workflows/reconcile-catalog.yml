@@ -1,0 +1,100 @@
+name: reconcile-catalog
+
+# Merges the delta stores of one workflow run into database/: schema-checked, placed by
+# content, conflicts quarantined, nothing deleted, idempotent. Then regenerates the index,
+# validates, and proposes the result as a PR (no PR when nothing changed).
+on:
+  workflow_call:
+  workflow_dispatch:
+    inputs:
+      run_id:
+        description: Workflow run whose delta-* artifacts to merge
+        required: true
+
+permissions:
+  contents: read
+
+concurrency:
+  group: reconcile-catalog
+  cancel-in-progress: false
+
+jobs:
+  reconcile:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    outputs:
+      changed: ${{ steps.diff.outputs.changed }}
+    permissions:
+      contents: read
+      actions: read
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: ./.github/actions/setup-afid
+      - uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
+        with:
+          pattern: delta-*
+          path: ${{ runner.temp }}/deltas
+          run-id: ${{ inputs.run_id || github.run_id }}
+          github-token: ${{ github.token }}
+      - name: Reconcile, index, validate
+        run: |
+          mkdir -p reports "$RUNNER_TEMP/deltas"
+          afid catalog reconcile --deltas "$RUNNER_TEMP/deltas" --report-out reports/reconcile.json
+          afid catalog validate
+          afid policy check
+      - id: diff
+        name: Package catalog change
+        run: |
+          git add -A database
+          git diff --cached --binary > catalog-changes.patch
+          if [ -s catalog-changes.patch ]; then echo "changed=true" >> "$GITHUB_OUTPUT"; else echo "changed=false" >> "$GITHUB_OUTPUT"; fi
+          python -c 'import json;r=json.load(open("reports/reconcile.json"));print("## Reconcile\n", {k: (len(v) if isinstance(v, list) else v) for k, v in r.items()})' >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        if: always()
+        with:
+          name: reconcile-${{ github.run_attempt }}
+          path: |
+            reports/reconcile.json
+            catalog-changes.patch
+          retention-days: 30
+          if-no-files-found: ignore
+
+  propose:
+    needs: reconcile
+    if: needs.reconcile.outputs.changed == 'true'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    permissions:
+      contents: write
+      pull-requests: write
+      actions: write
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: ./.github/actions/setup-afid
+      - uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
+        with:
+          name: reconcile-${{ github.run_attempt }}
+          path: ${{ runner.temp }}/artifact
+      - name: Open pull request
+        env:
+          GH_TOKEN: ${{ github.token }}
+          AFID_COMMIT_TRAILER: ${{ vars.AFID_COMMIT_TRAILER }}
+        run: |
+          git apply --index "$RUNNER_TEMP/artifact/catalog-changes.patch"
+          python - <<'PY' > "$RUNNER_TEMP/pr-body.md"
+          import json, os, pathlib
+          r = json.loads(pathlib.Path(os.environ["RUNNER_TEMP"], "artifact", "reconcile.json").read_text())
+          print("Automated AFID catalog reconcile of dump analysis deltas.\n")
+          print(f"- firmware merged: {len(r['merged_firmware'])}")
+          print(f"- source refs added (same build from another host): {len(r['source_refs_added'])}")
+          print(f"- conflicts (quarantined in staging, need review): {len(r['conflicts'])}")
+          print(f"- item statuses: {r['item_statuses']}\n")
+          for c in r["conflicts"][:50]:
+              print(f"  - `{c['firmware_id']}`: {c['reason']}")
+          print("\nDistribution status of all dump-derived records is 'unknown'.")
+          PY
+          python scripts/open_data_pr.py --branch-prefix afid/dump-analysis --title "AFID: dump analysis results" --body-file "$RUNNER_TEMP/pr-body.md"

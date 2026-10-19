@@ -58,13 +58,48 @@ class Release:
 
 
 @dataclass
+class SourceItem:
+    """One firmware item listed by a source (e.g. one branch of a dump repository).
+    Names in `metadata` (namespace, project path) are hints only, never identity evidence."""
+
+    item_id: str
+    revision: str | None  # e.g. the branch's commit SHA; a change means new content
+    url: str | None
+    metadata: dict[str, Any] = field(default_factory=dict)
+    # "index" marks bookkeeping entries (e.g. a project with no branches) that let
+    # incremental discovery skip unchanged parts; only "firmware" items are work.
+    kind: str = "firmware"
+
+    def as_snapshot(self) -> dict[str, Any]:
+        return {
+            "item_id": self.item_id,
+            "kind": self.kind,
+            "url": self.url,
+            "revision": self.revision,
+            "metadata": dict(sorted(self.metadata.items())),
+        }
+
+
+@dataclass
 class DiscoveryResult:
     provider_id: str
     status: str  # ok | partial | failed | unsupported
     index_revision: str | None = None
     candidates: list[DeviceCandidate] = field(default_factory=list)
+    items: list[SourceItem] = field(default_factory=list)
     skipped: int = 0
     errors: list[str] = field(default_factory=list)
+    stats: dict[str, int] = field(default_factory=dict)
+
+
+@dataclass
+class Health:
+    provider_id: str
+    status: str  # ok | degraded | failed | not_applicable
+    checks: list[dict[str, Any]] = field(default_factory=list)
+
+    def as_dict(self) -> dict[str, Any]:
+        return {"provider_id": self.provider_id, "status": self.status, "checks": self.checks}
 
 
 @dataclass
@@ -87,6 +122,7 @@ class FirmwareProvider(ABC):  # noqa: B024 - concrete defaults by design
         self.limitations: str = entry.get("limitations", "")
         self.http = http
         self.cache = cache / "providers" / self.provider_id
+        self.config: Any = None  # the afid Config, set by registry.build
 
     def capabilities(self) -> Capabilities:
         return self.CAPABILITIES
@@ -100,8 +136,28 @@ class FirmwareProvider(ABC):  # noqa: B024 - concrete defaults by design
     def discover_devices(self, cancel: threading.Event | None = None) -> DiscoveryResult:
         raise self._unsupported("device discovery")
 
-    def discover_firmware(self, codename: str) -> list[Release]:
+    def discover_firmware(
+        self,
+        previous: dict[str, dict[str, Any]] | None = None,
+        cancel: threading.Event | None = None,
+    ) -> DiscoveryResult:
+        """List firmware items. `previous` is the last snapshot's items keyed by item_id, so a
+        provider can skip unchanged parts of the source (incremental discovery)."""
         raise self._unsupported("firmware discovery")
+
+    def health_check(self) -> Health:
+        """Cheap live reachability check. Local-only providers have nothing to reach."""
+        if not self.entry.get("allowed_hosts"):
+            return Health(
+                self.provider_id,
+                "not_applicable",
+                [{"check": "network", "result": "no remote source"}],
+            )
+        return Health(
+            self.provider_id,
+            "not_applicable",
+            [{"check": "network", "result": "no health check implemented"}],
+        )
 
     def fetch_metadata(self, release: Release) -> dict[str, Any]:
         raise self._unsupported("metadata fetch")

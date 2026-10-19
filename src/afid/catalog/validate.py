@@ -15,6 +15,10 @@ from afid.utils import jsonio
 
 KNOWN_SCHEMA_VERSIONS = {"1.0"}
 GENERATED = {"index.json", "statistics.json"}
+# Must equal codename_verification.verifying_evidence in config/source_policy.yml (tested).
+VERIFYING_EVIDENCE = frozenset(
+    {"firmware_build_prop", "dump_build_prop", "official_ota_metadata", "official_source"}
+)
 
 
 @dataclass
@@ -34,7 +38,16 @@ class Result:
 
 def load_validators(schemas_dir: Path) -> dict[str, Draft202012Validator]:
     out = {}
-    for name in ("device", "firmware", "component", "dependency", "source", "candidate", "report"):
+    for name in (
+        "device",
+        "firmware",
+        "component",
+        "dependency",
+        "source",
+        "candidate",
+        "report",
+        "state",
+    ):
         schema = json.loads((schemas_dir / f"{name}.schema.json").read_text())
         Draft202012Validator.check_schema(schema)
         out[name] = Draft202012Validator(schema)
@@ -108,14 +121,10 @@ def validate(db: Path, schemas_dir: Path, brand_ids: list[str]) -> Result:
             )
         if d["device_id"] != f"{d['brand_id']}_{expected_key}":
             res.errors.append(f"{rel(p)}: device_id must be '<brand_id>_<codename_key>'")
-        if not any(
-            e["evidence_type"]
-            in ("firmware_build_prop", "official_ota_metadata", "official_source")
-            for e in d["sources"]
-        ):
+        if not any(e["evidence_type"] in VERIFYING_EVIDENCE for e in d["sources"]):
             res.errors.append(
                 f"{rel(p)}: verified codename without verifying evidence "
-                "(firmware build.prop, official OTA metadata or official source)"
+                "(firmware or dump build.prop, official OTA metadata or official source)"
             )
         if d["device_id"] in devices:
             res.errors.append(f"{rel(p)}: duplicate device_id {d['device_id']}")
@@ -169,7 +178,12 @@ def validate(db: Path, schemas_dir: Path, brand_ids: list[str]) -> Result:
             res.errors.append(f"{rel(p)}: device {fw['device_id']} does not exist")
         elif (parts[0], parts[1]) != (dev["brand_id"], dev["codename_key"]):
             res.errors.append(f"{rel(p)}: path does not match device {fw['device_id']}")
-        fkey = firmware_key(fw["build_id"], fw["variant"]["region"], fw["variant"]["channel"])
+        fkey = firmware_key(
+            fw["build_id"],
+            fw["variant"]["region"],
+            fw["variant"]["channel"],
+            fw.get("build_incremental"),
+        )
         if parts[2] != fkey or fw["firmware_id"] != f"{fw['device_id']}__{fkey}":
             res.errors.append(f"{rel(p)}: directory/firmware_id must use firmware key '{fkey}'")
         if fw["firmware_id"] in firmware:
@@ -261,6 +275,7 @@ def validate(db: Path, schemas_dir: Path, brand_ids: list[str]) -> Result:
                 and e["type"] == "dt_needed"
                 and e["to"] is None
                 and "platform library" not in e["evidence"]
+                and "content not fetched" not in e["evidence"]
             ):
                 res.errors.append(f"{rel(p)}: edge {e['edge_id']} resolved without target")
 
@@ -276,6 +291,14 @@ def validate(db: Path, schemas_dir: Path, brand_ids: list[str]) -> Result:
         if (
             doc is not None
             and _schema(v["source"], doc, rel(p), res)
+            and doc["provider_id"] != p.stem
+        ):
+            res.errors.append(f"{rel(p)}: provider_id must equal file name")
+    for p in sorted((db / "state").glob("*.json")):
+        doc = load(p)
+        if (
+            doc is not None
+            and _schema(v["state"], doc, rel(p), res)
             and doc["provider_id"] != p.stem
         ):
             res.errors.append(f"{rel(p)}: provider_id must equal file name")

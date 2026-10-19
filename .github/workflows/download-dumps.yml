@@ -1,0 +1,60 @@
+name: download-dumps
+
+# Orchestrates dump processing in bounded batches:
+#   metadata-only          plan and report statuses; fetch nothing
+#   selected-item          analyze the given item(s)
+#   eligible-batch         analyze the first batch of eligible items (default)
+#   full-eligible-catalog  analyze batch N of all eligible items (dispatch again with N+1)
+# "Download" means a selective, commit-pinned fetch of individual files from a dump
+# repository, never a firmware archive. Heavy work runs per item; reconcile merges the
+# compact results once.
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        type: choice
+        options: [metadata-only, selected-item, eligible-batch, full-eligible-catalog]
+        default: eligible-batch
+      provider:
+        description: Dump provider (empty = all)
+        default: ""
+      item:
+        description: Item id (selected-item mode)
+        default: ""
+      batch_index:
+        description: Batch number (full-eligible-catalog mode)
+        default: "0"
+  schedule:
+    - cron: "13 6 * * 2"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: download-dumps
+  cancel-in-progress: false
+
+jobs:
+  plan:
+    uses: ./.github/workflows/plan-firmware-matrix.yml
+    with:
+      mode: ${{ inputs.mode || 'eligible-batch' }}
+      provider: ${{ inputs.provider || '' }}
+      item: ${{ inputs.item || '' }}
+      batch_index: ${{ inputs.batch_index || '0' }}
+
+  analyze:
+    needs: plan
+    if: needs.plan.outputs.count != '0'
+    uses: ./.github/workflows/analyze-components.yml
+    with:
+      matrix: ${{ needs.plan.outputs.matrix }}
+
+  reconcile:
+    needs: [plan, analyze]
+    if: always() && needs.plan.outputs.count != '0' && needs.analyze.result != 'skipped'
+    permissions:
+      contents: write
+      pull-requests: write
+      actions: write
+    uses: ./.github/workflows/reconcile-catalog.yml

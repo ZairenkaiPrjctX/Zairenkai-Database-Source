@@ -1,0 +1,29 @@
+# AFID container image lock. Workflows and docs may reference a GHCR image only by a digest
+# recorded here. Digests are added by a reviewed PR after `container-images.yml` published
+# the image (bootstrap order: docs/CONTAINER_IMAGES.md). `null` = never published; nothing
+# may pull it.
+schema_version: "1.0"
+registry: ghcr.io
+namespace: zairenkaiprjctx          # GHCR names are lowercase: ghcr.io/<owner>/<image>
+tag_template: "sha-{git_sha}"       # immutable per commit; no floating tags
+images:
+  - name: afid-validation
+    dockerfile: .docker/afid-validation.Dockerfile
+    publishable: false              # bundled actionlint binary has unpatched Go stdlib findings
+    digest: null
+  - name: afid-discovery
+    dockerfile: .docker/afid-discovery.Dockerfile
+    publishable: true
+    digest: null
+  - name: afid-catalog
+    dockerfile: .docker/afid-catalog.Dockerfile
+    publishable: true
+    digest: null
+  - name: afid-firmware-worker
+    dockerfile: .docker/afid-firmware-worker.Dockerfile
+    publishable: false              # licence review of DumprX's bundled binaries pending
+    digest: null
+  - name: afid-security
+    dockerfile: .docker/afid-security.Dockerfile
+    publishable: false              # bundled trivy/syft/actionlint binaries have findings
+    digest: null

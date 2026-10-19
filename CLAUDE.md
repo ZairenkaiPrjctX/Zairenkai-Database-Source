@@ -18,18 +18,24 @@ Non-negotiables in this repo:
   everything else goes to `database/staging/unresolved/`.
 - Distribution status defaults to `unknown`; only SHA-256-allowlisted files are publishable.
 - Never automate around logins, CAPTCHAs, paywalls or click-through terms (e.g. Pixel images).
+- Dump hosts (Android-Dumps, tadiphone) are read-only sources: never clone, push or download
+  archives; dump-derived records keep distribution `unknown`.
+- DumprX runs only offline in `afid-firmware-worker`; never create its credential files
+  (`.github_token`, `.gitlab_token`, `.tg_token`, ...) or pass it URLs or tokens.
 
 ## Commands
 
 | Purpose | Command | Status |
 |---|---|---|
 | Set up | `scripts/setup_environment.sh` | Verified. Evidence: fresh-venv install with `--require-hashes`, 2026-10-18 |
-| Test | `python -m pytest -q` | Verified. Evidence: run 2026-10-18, see AGENT/PROJECT_CONTEXT.md |
-| Lint / format | `ruff check src tests scripts && ruff format --check src tests scripts` | Verified. Evidence: clean on 2026-10-18 |
-| Type check | `mypy` (strict) | Verified. Evidence: no issues on 2026-10-18 |
-| Workflow lint | `actionlint` and `check-jsonschema --builtin-schema vendor.github-workflows .github/workflows/*.yml` | Verified. Evidence: clean on 2026-10-18 |
-| Validate data | `afid database validate --check-index` | Verified. Evidence: OK on 2026-10-18 |
-| Policy / audit | `afid policy check && afid security scan` | Verified. Evidence: no findings on 2026-10-18 |
+| Test | `python -m pytest -q` | Verified. Evidence: 243 passed on host, 2026-10-19 (242 inside `afid-validation` before the last test was added) |
+| Lint / format | `ruff check src tests scripts && ruff format --check src tests scripts` | Verified. Evidence: clean on 2026-10-19 |
+| Type check | `mypy` (strict) | Verified. Evidence: no issues in 48 files on 2026-10-19 |
+| Workflow lint | `actionlint` and `check-jsonschema --builtin-schema vendor.github-workflows .github/workflows/*.yml` | Verified. Evidence: clean (actionlint with shellcheck, in `afid-validation`) on 2026-10-19 |
+| Shell / Dockerfile lint | `shellcheck .docker/scripts/*.sh scripts/*.sh`; `hadolint` on `.docker/*.Dockerfile` | Verified. Evidence: clean on 2026-10-19 |
+| Container images | `docker build -f .docker/<image>.Dockerfile .` (see `.docker/README.md`) | Verified. Evidence: all five built and smoke-tested locally, 2026-10-19 |
+| Validate data | `afid database validate --check-index` | Verified. Evidence: OK on 2026-10-19 |
+| Policy / audit | `afid policy check && afid security scan` | Verified. Evidence: no findings on 2026-10-19 |
 | Validate agent foundation | `python3 <path-to-.github>/agent-foundation/scripts/validate_agent_setup.py .` | Configured |
 
 Update the Status column when you run a command; never mark a command as passing without

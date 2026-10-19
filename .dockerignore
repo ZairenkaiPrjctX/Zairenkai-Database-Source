@@ -1,0 +1,7 @@
+# Build context for .docker/*.Dockerfile: only what the images need.
+*
+!src/
+!requirements-runtime.lock
+!requirements.lock
+!.docker/scripts/
+src/**/__pycache__

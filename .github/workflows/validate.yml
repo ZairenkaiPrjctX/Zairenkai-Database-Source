@@ -65,3 +65,22 @@ jobs:
           path: reports/junit-${{ matrix.python }}.xml
           retention-days: 14
           if-no-files-found: ignore
+
+  containers:
+    name: container definitions
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    env:
+      HADOLINT_IMAGE: docker.io/hadolint/hadolint:v2.14.0@sha256:27086352fd5e1907ea2b934eb1023f217c5ae087992eb59fde121dce9c9ff21e
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Hadolint (all Dockerfiles)
+        run: |
+          for f in .docker/*.Dockerfile; do
+            echo "hadolint $f"
+            docker run --rm -i "$HADOLINT_IMAGE" hadolint --failure-threshold warning - < "$f"
+          done
+      - name: ShellCheck (container and repository scripts)
+        run: shellcheck .docker/scripts/*.sh scripts/*.sh

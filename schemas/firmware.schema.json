@@ -28,7 +28,9 @@
     "last_checked_at",
     "last_updated_at",
     "warnings",
-    "errors"
+    "errors",
+    "build_incremental",
+    "source_refs"
   ],
   "properties": {
     "schema_version": {
@@ -36,7 +38,7 @@
     },
     "firmware_id": {
       "type": "string",
-      "pattern": "^[a-z_]+_[a-z0-9][a-z0-9._-]*__[A-Za-z0-9._-]+$"
+      "pattern": "^[a-z][a-z0-9_]*_[a-z0-9][a-z0-9._-]*__[A-Za-z0-9._-]+$"
     },
     "device_id": {
       "type": "string"
@@ -142,7 +144,8 @@
             "official_open_source_repository",
             "public_device_tree",
             "community_repository",
-            "user_supplied_local_firmware"
+            "user_supplied_local_firmware",
+            "community_firmware_dump"
           ]
         },
         "url": {
@@ -260,11 +263,15 @@
         "status": {
           "enum": [
             "discovered",
+            "metadata_verified",
             "download_pending",
             "downloaded",
             "extracted",
+            "analyzed",
             "validated",
+            "unresolved",
             "license_review_required",
+            "restricted",
             "published",
             "failed",
             "unchanged",
@@ -354,6 +361,61 @@
       "type": "array",
       "items": {
         "type": "string"
+      }
+    },
+    "build_incremental": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "ro.build.version.incremental; part of the firmware identity"
+    },
+    "source_refs": {
+      "type": "array",
+      "description": "every source this exact build was obtained from; a build found on several mirrors is one record with several refs",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "provider_id",
+          "item_id",
+          "url",
+          "revision",
+          "content_marker",
+          "retrieved_at"
+        ],
+        "properties": {
+          "provider_id": {
+            "type": "string"
+          },
+          "item_id": {
+            "type": "string"
+          },
+          "url": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "revision": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "source revision, e.g. git commit"
+          },
+          "content_marker": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "content hash that confirms two refs are the same build, e.g. git blob id of vendor/build.prop"
+          },
+          "retrieved_at": {
+            "type": "string",
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$"
+          }
+        }
       }
     }
   }

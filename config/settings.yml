@@ -11,11 +11,70 @@ limits:
   max_member_count: 500000
   max_file_hash_bytes: 4294967296  # files larger than 4 GiB are inventoried without hashing
 network:
-  timeout_seconds: 60
-  max_retries: 3
+  # Timeout, retry count and the request delay floor come from `resources` (HTTP_TIMEOUT,
+  # RETRY_LIMIT, RATE_LIMIT_DELAY) so one place controls them.
   backoff_initial_seconds: 2
   min_interval_seconds: 1.0        # per-host rate limit between requests
   user_agent: "AFID/0.1 (+https://github.com/ZairenkaiPrjctX/Zairenkai-Database-Source)"
 scan:
   partitions: [system, system_ext, product, vendor, odm, vendor_dlkm, odm_dlkm, system_dlkm]
   follow_symlinks: false
+
+# Resource budgets. Every value can be overridden by an environment variable of the same name
+# with the AFID_ prefix (e.g. AFID_MAX_ITEMS_PER_RUN=10), clamped to `hard_caps`.
+# These are conservative defaults for GitHub-hosted runners, whose size varies by plan and
+# repository visibility; `afid resources` shows what the current machine actually has.
+resources:
+  defaults:
+    MAX_DISCOVERY_PARALLEL: 2
+    MAX_DOWNLOAD_PARALLEL: 1
+    MAX_EXTRACT_PARALLEL: 1
+    MAX_ANALYSIS_PARALLEL: 2
+    MAX_ITEMS_PER_RUN: 20          # items per matrix batch (GitHub's matrix limit is 256 jobs)
+    MAX_DOWNLOAD_BYTES: 4294967296      # 4 GiB per item
+    MAX_EXTRACTED_BYTES: 21474836480    # 20 GiB per item
+    MAX_FETCH_FILES: 400           # files fetched per item in remote-tree analysis
+    MAX_FETCH_BYTES: 536870912     # 512 MiB fetched per item in remote-tree analysis
+    DISK_RESERVE_BYTES: 5368709120      # always leave 5 GiB free
+    JOB_TIMEOUT_MINUTES: 60
+    RETRY_LIMIT: 3
+    HTTP_TIMEOUT: 60
+    RATE_LIMIT_DELAY: 0.5          # seconds between requests to one host
+  hard_caps:
+    MAX_DISCOVERY_PARALLEL: 4
+    MAX_DOWNLOAD_PARALLEL: 2
+    MAX_EXTRACT_PARALLEL: 2
+    MAX_ANALYSIS_PARALLEL: 4
+    MAX_ITEMS_PER_RUN: 256
+    MAX_DOWNLOAD_BYTES: 34359738368     # 32 GiB
+    MAX_EXTRACTED_BYTES: 68719476736    # 64 GiB
+    MAX_FETCH_FILES: 2000
+    MAX_FETCH_BYTES: 4294967296
+    DISK_RESERVE_BYTES: 107374182400
+    JOB_TIMEOUT_MINUTES: 360
+    RETRY_LIMIT: 6
+    HTTP_TIMEOUT: 300
+    RATE_LIMIT_DELAY: 30
+  # Hard floor: the delay may never go below this, whatever the override.
+  minimums:
+    RATE_LIMIT_DELAY: 0.2
+    DISK_RESERVE_BYTES: 1073741824
+
+# DumprX integration (see docs/DUMPRX_INTEGRATION.md). The worker refuses to run any other
+# revision, and refuses to run with network access unless explicitly allowed.
+dumprx:
+  install_dir: /opt/dumprx
+  upstream: https://github.com/DumprX/DumprX
+  commit: 303f5bba1f583c2c857a5e11d46812361a1d4625
+  # sha256sum dumper.sh at that commit (verified 2026-10-18); checked before every run.
+  dumper_sha256: 297f37d63415dc4273f4d168455451e4a08dac57016dd547a2c0516ad971f0b3
+  license: GPL-3.0-only
+  require_offline: true
+  timeout_minutes: 120
+
+# `afid firmware download` (and dump-and-analyze.yml) fetch only from these HTTPS hosts.
+# Empty on purpose: add a host only after confirming its terms permit automated download,
+# with the evidence in the pull request. Logins, CAPTCHAs and click-through terms are never
+# automated (docs/FIRMWARE_INGESTION.md).
+downloads:
+  allowed_hosts: []

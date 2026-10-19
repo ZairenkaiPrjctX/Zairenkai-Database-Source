@@ -33,7 +33,7 @@ merge device directories by hand: open a pull request that explains the evidence
 
 ## Adding a provider or classifier
 
-See `docs/PROVIDERS.md` and `docs/COMPONENT_CLASSIFICATION.md`.
+See `docs/PROVIDERS.md` and `docs/COMPONENT_ANALYSIS.md`.
 
 ## Commits and pull requests
 

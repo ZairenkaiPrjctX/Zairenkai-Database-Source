@@ -12,7 +12,8 @@ database/
 ├── components/<brand_id>/<codename_key>/<firmware_key>/<group>.json
 ├── dependencies/<brand_id>/<codename_key>/<firmware_key>.json
 ├── dependencies/library_map.json         (generated)
-├── sources/<provider_id>.json            (discovery snapshots)
+├── sources/<provider_id>.json            (discovery snapshots; dump items are `firmware`)
+├── state/<provider_id>.json              (ingestion state per item, written by reconcile)
 ├── staging/unresolved/<provider_id>/<candidate_id>.json
 ├── updates/                              (update reports, when written)
 ├── index.json                            (generated)
@@ -30,7 +31,7 @@ database/
 | `codename` | verbatim from firmware evidence | `Mi439` |
 | `codename_key` | `codename.lower()`; used for directory names | `mi439` |
 | `device_id` | `<brand_id>_<codename_key>` | `redmi_mi439` |
-| `firmware_key` | sanitized build id, plus `_<region>`/`_<channel>` when given | `V12.5.1.0.QCMMIXM_global` |
+| `firmware_key` | sanitized build id, plus `-<incremental>` when `ro.build.version.incremental` differs from it, plus `_<region>`/`_<channel>` when given | `BP2A.250605.031.A3-2512182326`, `V12.5.1.0.QCMMIXM_global` |
 | `firmware_id` | `<device_id>__<firmware_key>` | `redmi_mi439__V12.5.1.0.QCMMIXM_global` |
 | `component_id` | `c_` + SHA-256(firmware_id, partition, path)[:20] | `c_3fa9...` |
 | `edge_id` | `d_` + SHA-256(firmware_id, type, from, to_name)[:20] | `d_91c0...` |
@@ -41,16 +42,20 @@ build reproduces the same IDs.
 ## Records
 
 **device.json**: `codename_status` is always `verified` in `devices/`; `sources` must contain
-at least one verifying evidence item (`firmware_build_prop`, `official_ota_metadata`,
-`official_source`). Community evidence may be added as corroboration. Marketing names,
+at least one verifying evidence item (`firmware_build_prop`, `dump_build_prop`,
+`official_ota_metadata`, `official_source`; `dump_build_prop` is build.prop read from a
+community dump at a pinned commit). Community evidence may be added as corroboration. Marketing names,
 model numbers, regional variants and aliases are searchable metadata, never directory names.
 Rebrands and shared codenames are expressed with `canonical_device_id` or `shared_identity`
 (`relation`: `rebrand`, `regional_variant`, `shared_codename_distinct_device`) with evidence.
 
-**firmware.json**: build id, variant (region/channel), Android release, API level, security
+**firmware.json**: build id, `build_incremental`, variant (region/channel), Android release, API level, security
 patch levels, fingerprint, source (provider, source type, archive name/SHA-256/size, official
 checksum match), partition layout, ingestion status and tools, distribution status, component
-groups and count, warnings/errors.
+groups and count, warnings/errors, and `source_refs`: every source that provided this exact
+build (`provider_id`, `item_id`, `url`, `revision` = e.g. dump commit SHA, `content_marker`
+= e.g. Git blob id of the vendor build.prop, `retrieved_at`). A build seen on two dump hosts
+is one record with two refs.
 
 **<group>.json**: component records: category/subcategory, partition and partition-relative
 path, file type, size, SHA-256, symlink target, classification (method, rule ids, confidence,
@@ -62,13 +67,24 @@ summary, build props), license and distribution status, provenance, dependency r
 `vintf_declares_hal`, `config_reference`, `hal_config`), `status` (`resolved`, `inferred`,
 `unresolved`) and `evidence`.
 
-**staging candidate**: unverified identity (`unresolved` or `community_reported`), evidence,
-and the reason it is not verified.
+**staging candidate**: unverified identity (`unresolved`, `community_reported`, or
+`conflict` when a second source contradicts a cataloged build), evidence, and the reason it
+is not verified.
+
+**state/<provider>.json**: per item `revision`, `status`, `attempts`, `exhausted`,
+`firmware_id`, `error`, `updated_at` ([MATRIX_PIPELINE.md](MATRIX_PIPELINE.md)).
+
+`brand_id` follows `^[a-z][a-z0-9_]{1,31}$` in the schema; the validator additionally
+requires it to be registered in `config/brands.yml` (core or extended scope).
 
 ## Status vocabularies
 
-- Ingestion: `discovered`, `download_pending`, `downloaded`, `extracted`, `validated`,
-  `license_review_required`, `published`, `failed`, `unchanged`, `unavailable`.
+- Ingestion: `discovered`, `metadata_verified`, `download_pending`, `downloaded`,
+  `extracted`, `analyzed`, `validated`, `unresolved`, `license_review_required`,
+  `restricted`, `published`, `failed`, `unchanged`, `unavailable`.
+- Source types: `official_firmware`, `official_ota_or_factory_image`,
+  `official_open_source_repository`, `public_device_tree`, `community_repository`,
+  `community_firmware_dump`, `user_supplied_local_firmware`.
 - Distribution: `allowed`, `restricted`, `unknown` (default), `user_supplied`, `metadata_only`.
 - Change report: `added`, `changed`, `removed_from_source`, `unavailable`, `checksum_changed`,
   `dependency_added`, `dependency_removed`, `license_changed`, `unverified`.

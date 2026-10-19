@@ -1,0 +1,117 @@
+name: discover-dumps
+
+# Lists community dump repositories (Android-Dumps on gitlab.com, dumps.tadiphone.dev) and
+# records one item per dump branch, keyed by its commit SHA. Metadata only: nothing is cloned
+# or downloaded. Incremental: projects whose last activity did not change are not re-listed.
+# Proposes the snapshot change as a PR; an empty diff opens nothing.
+on:
+  schedule:
+    - cron: "41 4 * * 1"
+  workflow_dispatch:
+    inputs:
+      provider:
+        description: Dump provider
+        type: choice
+        options: [all, android_dumps_gitlab, tadiphone_dumps]
+        default: all
+
+permissions:
+  contents: read
+
+concurrency:
+  group: discover-dumps
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    name: discover (${{ matrix.provider }})
+    runs-on: ubuntu-24.04
+    timeout-minutes: 120
+    strategy:
+      fail-fast: false
+      max-parallel: ${{ fromJSON(vars.AFID_MAX_DISCOVERY_PARALLEL || '2') }}
+      matrix:
+        provider: [android_dumps_gitlab, tadiphone_dumps]
+    steps:
+      - name: Skip providers not requested
+        id: want
+        env:
+          WANTED: ${{ inputs.provider || 'all' }}
+          PROVIDER: ${{ matrix.provider }}
+        run: |
+          if [ "$WANTED" = all ] || [ "$WANTED" = "$PROVIDER" ]; then echo "run=true" >> "$GITHUB_OUTPUT"; else echo "run=false" >> "$GITHUB_OUTPUT"; fi
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        if: steps.want.outputs.run == 'true'
+        with:
+          persist-credentials: false
+      - uses: ./.github/actions/setup-afid
+        if: steps.want.outputs.run == 'true'
+      - name: Resources
+        if: steps.want.outputs.run == 'true'
+        run: |
+          nproc; free -h; df -h .; df -i .
+          afid resources
+      - name: Discover (metadata only)
+        if: steps.want.outputs.run == 'true'
+        env:
+          PROVIDER: ${{ matrix.provider }}
+          AFID_RATE_LIMIT_DELAY: ${{ vars.AFID_RATE_LIMIT_DELAY || '1.0' }}
+        run: |
+          mkdir -p reports
+          afid providers health --provider "$PROVIDER"
+          afid --json updates check --provider "$PROVIDER" --write --report-out "reports/$PROVIDER.json" > "reports/$PROVIDER-status.json"
+          afid database validate
+      - name: Package snapshot change
+        if: steps.want.outputs.run == 'true'
+        env:
+          PROVIDER: ${{ matrix.provider }}
+        run: |
+          git add -A database/sources
+          git diff --cached --binary > "snapshot-$PROVIDER.patch"
+          if [ -s "snapshot-$PROVIDER.patch" ]; then echo "changed" ; else rm "snapshot-$PROVIDER.patch"; fi
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        if: always() && steps.want.outputs.run == 'true'
+        with:
+          name: dumps-discovery-${{ matrix.provider }}
+          path: |
+            reports/*.json
+            snapshot-*.patch
+          retention-days: 30
+          if-no-files-found: ignore
+
+  propose:
+    needs: discover
+    if: always() && !cancelled()
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    permissions:
+      contents: write
+      pull-requests: write
+      actions: write
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: ./.github/actions/setup-afid
+      - uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
+        with:
+          pattern: dumps-discovery-*
+          merge-multiple: true
+          path: ${{ runner.temp }}/artifact
+      - name: Open pull request when a snapshot changed
+        env:
+          GH_TOKEN: ${{ github.token }}
+          AFID_COMMIT_TRAILER: ${{ vars.AFID_COMMIT_TRAILER }}
+        run: |
+          shopt -s nullglob
+          patches=("$RUNNER_TEMP"/artifact/snapshot-*.patch)
+          if [ ${#patches[@]} -eq 0 ]; then echo "No snapshot changes."; exit 0; fi
+          for p in "${patches[@]}"; do git apply --index "$p"; done
+          {
+            echo "Automated dump discovery (metadata only)."
+            echo
+            for r in "$RUNNER_TEMP"/artifact/*-status.json; do
+              python -c "import json,sys;d=json.load(open(sys.argv[1]));[print('-', s['provider_id'], s['status'], s['detail']) for s in d.get('provider_status', [])]" "$r"
+            done
+          } > "$RUNNER_TEMP/pr-body.md"
+          python scripts/open_data_pr.py --branch-prefix afid/dumps-discovery --title "AFID: dump discovery snapshot" --body-file "$RUNNER_TEMP/pr-body.md"

@@ -37,17 +37,9 @@
           "type": "null"
         },
         {
-          "enum": [
-            "samsung",
-            "xiaomi",
-            "poco",
-            "redmi",
-            "infinix",
-            "oneplus",
-            "tecno",
-            "google_pixel",
-            "nothing"
-          ]
+          "type": "string",
+          "pattern": "^[a-z][a-z0-9_]{1,31}$",
+          "description": "brand id from config/brands.yml (checked by the validator)"
         }
       ]
     },
@@ -64,7 +56,8 @@
     "codename_status": {
       "enum": [
         "unresolved",
-        "community_reported"
+        "community_reported",
+        "conflict"
       ]
     },
     "product_names": {
@@ -123,6 +116,7 @@
           "evidence_type": {
             "enum": [
               "firmware_build_prop",
+              "dump_build_prop",
               "official_ota_metadata",
               "official_source",
               "public_device_tree",
@@ -188,7 +182,8 @@
             "official_open_source_repository",
             "public_device_tree",
             "community_repository",
-            "user_supplied_local_firmware"
+            "user_supplied_local_firmware",
+            "community_firmware_dump"
           ]
         },
         "url": {

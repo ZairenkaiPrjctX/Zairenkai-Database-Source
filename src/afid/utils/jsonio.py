@@ -46,6 +46,9 @@ def write_if_changed(path: Path, data: Any, volatile_keys: Iterable[str] = ()) -
     try:
         with os.fdopen(fd, "w", encoding="utf-8", newline="\n") as fh:
             fh.write(dumps(data))
+        # mkstemp creates 0600 files; catalog records must stay readable when written by a
+        # container user and read by the runner (or the reverse).
+        os.chmod(tmp, 0o644)
         os.replace(tmp, path)
     except BaseException:
         Path(tmp).unlink(missing_ok=True)
