@@ -294,6 +294,14 @@ def validate(db: Path, schemas_dir: Path, brand_ids: list[str]) -> Result:
             and doc["provider_id"] != p.stem
         ):
             res.errors.append(f"{rel(p)}: provider_id must equal file name")
+    for p in sorted((db / "sources").glob("*/*.json")):  # sharded firmware-item snapshots
+        doc = load(p)
+        if (
+            doc is not None
+            and _schema(v["source"], doc, rel(p), res)
+            and doc["provider_id"] != p.parent.name
+        ):
+            res.errors.append(f"{rel(p)}: provider_id must equal the directory name")
     for p in sorted((db / "state").glob("*.json")):
         doc = load(p)
         if (

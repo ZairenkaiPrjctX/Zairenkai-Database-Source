@@ -108,7 +108,7 @@ class GitLabDumpsProvider(FirmwareProvider):
             pid = (item.get("metadata") or {}).get("project_id")
             if isinstance(pid, int):
                 old_by_project.setdefault(pid, []).append(item)
-        stats = {"projects": len(projects), "reused": 0, "listed": 0, "empty": 0}
+        stats = {"projects": len(projects), "reused": 0, "listed": 0, "empty": 0, "unreadable": 0}
         max_branches = int(self.settings.get("max_branches_per_project", 50))
         for proj in sorted(projects, key=lambda p: p["id"]):
             if cancel is not None and cancel.is_set():
@@ -151,6 +151,24 @@ class GitLabDumpsProvider(FirmwareProvider):
                 )
                 continue
             stats["listed"] += 1
+            rel = self._rel(proj["path_with_namespace"])
+            if branches is None:  # permanent property of the project, not a failed check
+                stats["unreadable"] += 1
+                res.items.append(
+                    SourceItem(
+                        f"_project/{proj['id']}",
+                        activity,
+                        proj.get("web_url"),
+                        {
+                            "project_id": proj["id"],
+                            "project_path": rel,
+                            "last_activity_at": activity,
+                            "reason": "repository_not_readable",
+                        },
+                        kind="index",
+                    )
+                )
+                continue
             if len(branches) > max_branches:
                 res.errors.append(
                     f"{proj['path_with_namespace']}: {len(branches)} branches, only the "
@@ -159,7 +177,6 @@ class GitLabDumpsProvider(FirmwareProvider):
                 branches = sorted(
                     branches, key=lambda b: b["commit"].get("committed_date") or "", reverse=True
                 )[:max_branches]
-            rel = self._rel(proj["path_with_namespace"])
             namespace, _, project = rel.rpartition("/")
             if not branches:  # remember the empty project so the next run can skip it
                 stats["empty"] += 1

@@ -82,15 +82,20 @@ def test_truncated_listing_is_a_failure_and_keeps_snapshot(dumps_repo, hosts, tm
     gl = hosts[GL]
     gl.add_dump(1, "Android-Dumps/google/fixturecode", BRANCH, C1, dump_tree(tmp_path / "t"))
     _discover(dumps_repo, "android_dumps_gitlab")
-    snap = Store(dumps_repo.database).source_path("android_dumps_gitlab")
-    before = snap.read_text()
+    snap = Store(dumps_repo.database).source_dir("android_dumps_gitlab")
+
+    def contents():
+        return {p.name: p.read_text() for p in sorted(snap.glob("*.json"))}
+
+    before = contents()
+    assert before
     prov = registry.get(dumps_repo, "android_dumps_gitlab")
     prov.settings["min_projects"] = 5
     with pytest.raises(ProviderError, match="expected at"):
         prov.discover_firmware()
     gl.projects.clear()  # the source suddenly lists nothing
     out = updates.check(dumps_repo, "android_dumps_gitlab", write=True)
-    assert out.failed and snap.read_text() == before
+    assert out.failed and contents() == before
 
 
 def test_rate_limit_and_retry_after(dumps_repo, hosts, tmp_path, monkeypatch):
@@ -259,3 +264,51 @@ def test_analysis_failure_is_reported_not_raised(dumps_repo, hosts, tmp_path):
         dumps_repo, "android_dumps_gitlab", f"google/fixturecode@{BRANCH}", tmp_path, "a"
     )
     assert rep["status"] in ("failed", "unresolved")
+
+
+def test_snapshot_is_sharded_per_namespace_and_stays_small(dumps_repo, hosts, tmp_path):
+    gl = hosts[GL]
+    tree = dump_tree(tmp_path / "t")
+    gl.add_dump(1, "Android-Dumps/google/fixturecode", BRANCH, C1, tree)
+    gl.add_dump(2, "Android-Dumps/OnePlus/other", "b", C2, tree)
+    store = Store(dumps_repo.database)
+    legacy = store.source_path("android_dumps_gitlab")
+    jsonio.write_if_changed(
+        legacy,
+        {
+            "schema_version": "1.0",
+            "provider_id": "android_dumps_gitlab",
+            "status": "ok",
+            "checked_at": "2026-10-19T00:00:00Z",
+            "items": [],
+            "errors": [],
+        },
+    )
+    out = _discover(dumps_repo, "android_dumps_gitlab")
+    names = sorted(p.name for p in store.source_dir("android_dumps_gitlab").glob("*.json"))
+    assert names == ["_status.json", "google.json", "oneplus.json"]
+    assert not legacy.exists() and any("replaced by" in w for w in out.written)
+    assert {i["item_id"] for i in store.source_items("android_dumps_gitlab")} == {
+        f"google/fixturecode@{BRANCH}",
+        "OnePlus/other@b",
+    }
+    assert validate(dumps_repo.database, dumps_repo.schemas_dir, dumps_repo.brand_ids).errors == []
+    # The namespace disappears from a complete listing: its shard goes, nothing else changes.
+    gl.projects = [p for p in gl.projects if p.id == 1]
+    again = updates.check(dumps_repo, "android_dumps_gitlab", write=True)
+    assert [w for w in again.written if "removed" in w] and not (
+        store.source_dir("android_dumps_gitlab") / "oneplus.json"
+    ).exists()
+
+
+def test_unreadable_repository_is_a_marker_not_an_error(dumps_repo, hosts, tmp_path):
+    from tests.dumps.fake_gitlab import Project
+
+    gl = hosts[GL]
+    gl.add_dump(1, "Android-Dumps/google/fixturecode", BRANCH, C1, dump_tree(tmp_path / "t"))
+    gl.projects.append(Project(7, "Android-Dumps/google/norepo"))
+    gl.fail_once["/projects/7/repository/branches"] = 404
+    res = registry.get(dumps_repo, "android_dumps_gitlab").discover_firmware()
+    assert res.status == "ok" and res.errors == [] and res.stats["unreadable"] == 1
+    marker = next(i for i in res.items if i.item_id == "_project/7")
+    assert marker.kind == "index" and marker.metadata["reason"] == "repository_not_readable"

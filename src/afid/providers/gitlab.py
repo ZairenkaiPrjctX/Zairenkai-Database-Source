@@ -36,6 +36,10 @@ def lfs_pointer_size(data: bytes) -> int | None:
     return None
 
 
+class RepositoryUnreadable(ProviderError):
+    """The GitLab API answered 404 for a project's repository."""
+
+
 @dataclass
 class GitLabClient:
     http: HttpClient
@@ -65,16 +69,25 @@ class GitLabClient:
             raise ProviderError(f"{path}: invalid JSON from GitLab ({exc})") from None
 
     def paginate(
-        self, path: str, params: dict[str, Any] | None = None, max_pages: int = 1000
+        self,
+        path: str,
+        params: dict[str, Any] | None = None,
+        max_pages: int = 1000,
+        missing_ok: bool = False,
     ) -> Iterator[dict[str, Any]]:
+        """Yield all list entries. With missing_ok, HTTP 404 raises RepositoryUnreadable
+        instead of a generic ProviderError, so callers can tell "not there" from "failed"."""
         page: str | None = "1"
         pages = 0
         while page:
             if pages >= max_pages:
                 raise ProviderError(f"{path}: more than {max_pages} pages; refusing to continue")
             resp = self.http.get(
-                self._url(path, {**(params or {}), "per_page": self.per_page, "page": page})
+                self._url(path, {**(params or {}), "per_page": self.per_page, "page": page}),
+                allow_status=frozenset({404}) if missing_ok else frozenset(),
             )
+            if resp.status == 404:
+                raise RepositoryUnreadable(path)
             self._pace(resp)
             try:
                 batch = json.loads(resp.body)
@@ -101,8 +114,17 @@ class GitLabClient:
             )
         )
 
-    def branches(self, project_id: int, max_pages: int = 20) -> list[dict[str, Any]]:
-        return list(self.paginate(f"projects/{project_id}/repository/branches", None, max_pages))
+    def branches(self, project_id: int, max_pages: int = 20) -> list[dict[str, Any]] | None:
+        """Branches of a project; None when its repository cannot be read (HTTP 404). Seen on
+        dumps.tadiphone.dev for projects that list a default branch but expose no repository."""
+        try:
+            return list(
+                self.paginate(
+                    f"projects/{project_id}/repository/branches", None, max_pages, missing_ok=True
+                )
+            )
+        except RepositoryUnreadable:
+            return None
 
     def raw_file(self, project_id: int, path: str, ref: str, max_bytes: int) -> bytes | None:
         """File content at `ref` (a commit SHA for reproducibility); None when absent."""

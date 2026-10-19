@@ -21,7 +21,6 @@ from afid.config import Config
 from afid.errors import ValidationError
 from afid.providers import registry
 from afid.reconcile import FINAL, load_state
-from afid.utils import jsonio
 from afid.utils.timeutil import utc_now
 
 GITHUB_MATRIX_LIMIT = 256
@@ -50,11 +49,8 @@ def item_statuses(cfg: Config, store: Store, providers: list[str]) -> list[ItemS
             refs.add((r["provider_id"], r["item_id"], r.get("revision")))
     out: list[ItemStatus] = []
     for pid in sorted(providers):
-        snap = store.source_path(pid)
-        if not snap.exists():
-            continue
         state = load_state(store, pid)["items"]
-        for it in jsonio.load(snap)["items"]:
+        for it in store.source_items(pid):
             if it.get("kind") != "firmware":
                 continue
             iid, rev = it["item_id"], it["revision"]
