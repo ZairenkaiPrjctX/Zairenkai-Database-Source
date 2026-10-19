@@ -321,9 +321,11 @@ def _check_items(
     now: str,
 ) -> None:
     """Firmware-item sources (dump repositories): diff items by revision (commit SHA)."""
-    snap_path = store.source_path(entry["id"])
-    old = jsonio.load(snap_path) if snap_path.exists() else {"items": []}
-    old_all = {i["item_id"]: i for i in old["items"] if i.get("kind") in ("firmware", "index")}
+    old_all = {
+        i["item_id"]: i
+        for i in store.source_items(entry["id"])
+        if i.get("kind") in ("firmware", "index")
+    }
     old_items = {k: v for k, v in old_all.items() if v["kind"] == "firmware"}
     try:
         res = prov.discover_firmware(previous=old_all)
@@ -378,16 +380,65 @@ def _check_items(
         return
     items = {} if complete else dict(old_all)
     items.update({k: v.as_snapshot() for k, v in new_all.items()})
-    snapshot: dict[str, Any] = {
-        "schema_version": "1.0",
-        "provider_id": entry["id"],
-        "status": res.status,
-        "checked_at": now,
-        "items": [items[k] for k in sorted(items)],
-        "errors": sorted(res.errors),
-    }
-    if jsonio.write_if_changed(snap_path, snapshot, ("checked_at",)):
-        outcome.written.append(str(snap_path))
+    outcome.written += write_sharded_snapshot(
+        store, entry["id"], res.status, now, list(items.values()), res.errors
+    )
+
+
+STATUS_SHARD = "_status"
+
+
+def shard_of(item: dict[str, Any]) -> str:
+    """Shard (file) name for an item: its source namespace, lowercased, e.g. `oneplus`."""
+    path = str((item.get("metadata") or {}).get("project_path") or item["item_id"])
+    head = path.split("@", 1)[0]
+    namespace = head.split("/", 1)[0] if "/" in head else "_root"
+    return sanitize_id(namespace).lower()
+
+
+def write_sharded_snapshot(
+    store: Store,
+    provider_id: str,
+    status: str,
+    now: str,
+    items: list[dict[str, Any]],
+    errors: list[str],
+) -> list[str]:
+    """Write a firmware-item snapshot as database/sources/<provider>/<namespace>.json plus
+    `_status.json` (overall status and errors). Shards whose namespace has no items left
+    are removed, and a legacy single-file snapshot is replaced. Unchanged shards are not
+    rewritten, so an unchanged source produces no diff."""
+    written: list[str] = []
+    shards: dict[str, list[dict[str, Any]]] = {}
+    for it in items:
+        shards.setdefault(shard_of(it), []).append(it)
+    directory = store.source_dir(provider_id)
+
+    def doc(shard_items: list[dict[str, Any]], shard_errors: list[str]) -> dict[str, Any]:
+        return {
+            "schema_version": "1.0",
+            "provider_id": provider_id,
+            "status": status,
+            "checked_at": now,
+            "items": sorted(shard_items, key=lambda i: i["item_id"]),
+            "errors": sorted(shard_errors),
+        }
+
+    wanted = {STATUS_SHARD: doc([], errors)}
+    wanted.update({name: doc(group, []) for name, group in shards.items()})
+    for name, content in sorted(wanted.items()):
+        path = directory / f"{name}.json"
+        if jsonio.write_if_changed(path, content, ("checked_at",)):
+            written.append(str(path))
+    for stale in sorted(directory.glob("*.json")):
+        if stale.stem not in wanted:
+            stale.unlink()
+            written.append(f"{stale} (removed: no items left in this namespace)")
+    legacy = store.source_path(provider_id)
+    if legacy.exists():
+        legacy.unlink()
+        written.append(f"{legacy} (replaced by {directory}/)")
+    return written
 
 
 def history(store: Store, device_id: str | None = None) -> list[dict[str, Any]]:

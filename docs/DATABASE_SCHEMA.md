@@ -12,7 +12,9 @@ database/
 ├── components/<brand_id>/<codename_key>/<firmware_key>/<group>.json
 ├── dependencies/<brand_id>/<codename_key>/<firmware_key>.json
 ├── dependencies/library_map.json         (generated)
-├── sources/<provider_id>.json            (discovery snapshots; dump items are `firmware`)
+├── sources/<provider_id>.json            (discovery snapshot of a device-candidate provider)
+├── sources/<provider_id>/<namespace>.json (dump providers: one shard per source namespace,
+│                                          plus `_status.json` with overall status and errors)
 ├── state/<provider_id>.json              (ingestion state per item, written by reconcile)
 ├── staging/unresolved/<provider_id>/<candidate_id>.json
 ├── updates/                              (update reports, when written)

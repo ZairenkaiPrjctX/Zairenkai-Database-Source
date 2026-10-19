@@ -39,7 +39,7 @@ from afid.providers.dumps import GitLabDumpsProvider
 from afid.providers.gitlab import is_lfs_pointer, lfs_pointer_size
 from afid.providers.lineageos_wiki import git_blob_sha
 from afid.scanning import FileEntry
-from afid.utils import jsonio, log
+from afid.utils import log
 from afid.utils.paths import safe_join
 from afid.utils.timeutil import utc_now
 
@@ -145,13 +145,13 @@ class RemoteAnalyzer:
         self.workdir = workdir
 
     def item(self, store: Store, item_id: str) -> dict[str, Any]:
-        snap = store.source_path(self.provider_id)
-        if not snap.exists():
+        items = store.source_items(self.provider_id)
+        if not items:
             raise NotFoundError(
                 f"no discovery snapshot for {self.provider_id}; run `afid discover "
                 f"--provider {self.provider_id} --write` first"
             )
-        for it in jsonio.load(snap)["items"]:
+        for it in items:
             if it["item_id"] == item_id:
                 return dict(it)
         raise NotFoundError(f"{self.provider_id}: item '{item_id}' not in the discovery snapshot")
