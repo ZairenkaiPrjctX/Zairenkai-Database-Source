@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-18T20:19:08Z",
+  "checked_at": "2026-10-19T09:04:13Z",
   "errors": [],
   "items": [
     {
@@ -167,12 +167,6 @@
       },
       "revision": "0d534ed5184c3f2f4f61e1760ace4368b540e705",
       "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/Spacewar.yml"
-    },
-    {
-      "item_id": "_index",
-      "kind": "index",
-      "revision": "2c365be2b66336e4da1f3ca3bdd71c17eb819005",
-      "url": null
     },
     {
       "item_id": "a21s",
