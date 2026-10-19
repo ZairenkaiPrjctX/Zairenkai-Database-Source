@@ -1,29 +1,29 @@
 {
-  "checked_at": "2026-10-19T01:56:46Z",
+  "checked_at": "2026-10-19T10:15:24Z",
   "errors": [],
   "items": [
     {
       "item_id": "_project/5080",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-03-09T20:06:44.684Z",
         "project_id": 5080,
         "project_path": "google/gsi_arm64",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-03-09T20:06:44.684Z",
       "url": "https://dumps.tadiphone.dev/dumps/google/gsi_arm64"
     },
     {
       "item_id": "_project/5092",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-03-09T21:33:25.887Z",
         "project_id": 5092,
         "project_path": "google/eos",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-03-09T21:33:25.887Z",
       "url": "https://dumps.tadiphone.dev/dumps/google/eos"
     },
     {
@@ -41,36 +41,36 @@
       "item_id": "_project/5095",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-09-23T19:45:25.015Z",
         "project_id": 5095,
         "project_path": "google/flounder",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-09-23T19:45:25.015Z",
       "url": "https://dumps.tadiphone.dev/dumps/google/flounder"
     },
     {
       "item_id": "_project/5103",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2025-03-14T19:23:49.738Z",
         "project_id": 5103,
         "project_path": "google/flame",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2025-03-14T19:23:49.738Z",
       "url": "https://dumps.tadiphone.dev/dumps/google/flame"
     },
     {
       "item_id": "_project/5265",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2025-03-14T15:23:18.896Z",
         "project_id": 5265,
         "project_path": "google/akita",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2025-03-14T15:23:18.896Z",
       "url": "https://dumps.tadiphone.dev/dumps/google/akita"
     },
     {

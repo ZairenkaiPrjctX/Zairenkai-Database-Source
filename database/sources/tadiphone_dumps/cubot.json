@@ -1,17 +1,17 @@
 {
-  "checked_at": "2026-10-19T01:56:46Z",
+  "checked_at": "2026-10-19T10:15:24Z",
   "errors": [],
   "items": [
     {
       "item_id": "_project/5423",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-09-23T00:31:08.828Z",
         "project_id": 5423,
         "project_path": "cubot/kingkong_8",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-09-23T00:31:08.828Z",
       "url": "https://dumps.tadiphone.dev/dumps/cubot/kingkong_8"
     },
     {

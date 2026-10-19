@@ -1,17 +1,17 @@
 {
-  "checked_at": "2026-10-19T01:56:46Z",
+  "checked_at": "2026-10-19T10:15:24Z",
   "errors": [],
   "items": [
     {
       "item_id": "_project/5238",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-04-16T19:05:31.217Z",
         "project_id": 5238,
         "project_path": "droidlogic/galilei",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-04-16T19:05:31.217Z",
       "url": "https://dumps.tadiphone.dev/dumps/droidlogic/galilei"
     },
     {

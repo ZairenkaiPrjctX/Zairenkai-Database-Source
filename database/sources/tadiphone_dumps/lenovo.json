@@ -1,29 +1,29 @@
 {
-  "checked_at": "2026-10-19T01:56:46Z",
+  "checked_at": "2026-10-19T10:15:24Z",
   "errors": [],
   "items": [
     {
       "item_id": "_project/4293",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2023-10-28T03:43:30.949Z",
         "project_id": 4293,
         "project_path": "lenovo/tb-9707f",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2023-10-28T03:43:30.949Z",
       "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb-9707f"
     },
     {
       "item_id": "_project/4413",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2025-05-10T04:22:35.402Z",
         "project_id": 4413,
         "project_path": "lenovo/tb320fc",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2025-05-10T04:22:35.402Z",
       "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb320fc"
     },
     {
@@ -2124,8 +2124,8 @@
         "branch": "TB322FC-user-16-BQ2A.250610.001-BP2A.250605.031.A3-eng.builds-release-keys",
         "commit": "ff5746c28c154bedbf99221aaabe4ff2b01f98f9",
         "committed_date": "2025-12-14T12:42:39.000+03:00",
-        "default_branch": true,
-        "last_activity_at": "2025-12-14T09:26:51.749Z",
+        "default_branch": false,
+        "last_activity_at": "2026-10-19T04:05:53.379Z",
         "namespace_hint": "lenovo",
         "project_hint": "tb322fc",
         "project_id": 5718,
@@ -2133,6 +2133,23 @@
       },
       "revision": "ff5746c28c154bedbf99221aaabe4ff2b01f98f9",
       "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb322fc/-/tree/ff5746c28c154bedbf99221aaabe4ff2b01f98f9"
+    },
+    {
+      "item_id": "lenovo/tb322fc@TB322FC-user-17-CQ2A.260712.001-2.5.02.086_261010-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "TB322FC-user-17-CQ2A.260712.001-2.5.02.086_261010-release-keys",
+        "commit": "b36cfe55e6cd3ad814507f3d2944853e8657632e",
+        "committed_date": "2026-10-19T06:41:41.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-10-19T04:05:53.379Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb322fc",
+        "project_id": 5718,
+        "project_path": "lenovo/tb322fc"
+      },
+      "revision": "b36cfe55e6cd3ad814507f3d2944853e8657632e",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb322fc/-/tree/b36cfe55e6cd3ad814507f3d2944853e8657632e"
     },
     {
       "item_id": "lenovo/tb323fu@TB323FU-user-17-CQ2A.260712.001-165-release-keys",

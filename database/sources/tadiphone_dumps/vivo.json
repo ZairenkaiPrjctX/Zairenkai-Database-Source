@@ -1,161 +1,161 @@
 {
-  "checked_at": "2026-10-19T01:56:46Z",
+  "checked_at": "2026-10-19T10:15:24Z",
   "errors": [],
   "items": [
     {
       "item_id": "_project/4519",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2023-10-10T01:19:53.272Z",
         "project_id": 4519,
         "project_path": "vivo/1901",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2023-10-10T01:19:53.272Z",
       "url": "https://dumps.tadiphone.dev/dumps/vivo/1901"
     },
     {
       "item_id": "_project/4975",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-03-08T17:57:29.933Z",
         "project_id": 4975,
         "project_path": "vivo/msm8953_64",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-03-08T17:57:29.933Z",
       "url": "https://dumps.tadiphone.dev/dumps/vivo/msm8953_64"
     },
     {
       "item_id": "_project/4977",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-03-08T18:02:32.711Z",
         "project_id": 4977,
         "project_path": "vivo/pd2171",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-03-08T18:02:32.711Z",
       "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2171"
     },
     {
       "item_id": "_project/4980",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-03-08T18:14:09.392Z",
         "project_id": 4980,
         "project_path": "vivo/v2144",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-03-08T18:14:09.392Z",
       "url": "https://dumps.tadiphone.dev/dumps/vivo/v2144"
     },
     {
       "item_id": "_project/4995",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-03-08T18:50:48.719Z",
         "project_id": 4995,
         "project_path": "vivo/pd2272",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-03-08T18:50:48.719Z",
       "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2272"
     },
     {
       "item_id": "_project/4998",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-03-08T19:02:07.604Z",
         "project_id": 4998,
         "project_path": "vivo/erdv9630",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-03-08T19:02:07.604Z",
       "url": "https://dumps.tadiphone.dev/dumps/vivo/erdv9630"
     },
     {
       "item_id": "_project/5009",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-03-08T19:35:46.255Z",
         "project_id": 5009,
         "project_path": "vivo/pd1924",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-03-08T19:35:46.255Z",
       "url": "https://dumps.tadiphone.dev/dumps/vivo/pd1924"
     },
     {
       "item_id": "_project/5026",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-03-08T20:17:15.826Z",
         "project_id": 5026,
         "project_path": "vivo/msm8937_64",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-03-08T20:17:15.826Z",
       "url": "https://dumps.tadiphone.dev/dumps/vivo/msm8937_64"
     },
     {
       "item_id": "_project/5032",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-03-08T21:04:23.237Z",
         "project_id": 5032,
         "project_path": "vivo/2120",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-03-08T21:04:23.237Z",
       "url": "https://dumps.tadiphone.dev/dumps/vivo/2120"
     },
     {
       "item_id": "_project/5035",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-03-08T21:11:15.847Z",
         "project_id": 5035,
         "project_path": "vivo/pd2148",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-03-08T21:11:15.847Z",
       "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2148"
     },
     {
       "item_id": "_project/5056",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-03-09T00:06:17.378Z",
         "project_id": 5056,
         "project_path": "vivo/pd2199",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-03-09T00:06:17.378Z",
       "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2199"
     },
     {
       "item_id": "_project/5057",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-03-09T00:09:32.651Z",
         "project_id": 5057,
         "project_path": "vivo/1916",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-03-09T00:09:32.651Z",
       "url": "https://dumps.tadiphone.dev/dumps/vivo/1916"
     },
     {
       "item_id": "_project/5074",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-03-09T01:51:25.933Z",
         "project_id": 5074,
         "project_path": "vivo/pd2178",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-03-09T01:51:25.933Z",
       "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2178"
     },
     {

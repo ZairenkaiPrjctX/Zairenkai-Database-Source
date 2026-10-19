@@ -1,65 +1,65 @@
 {
-  "checked_at": "2026-10-19T01:56:46Z",
+  "checked_at": "2026-10-19T10:15:24Z",
   "errors": [],
   "items": [
     {
       "item_id": "_project/4456",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2023-10-02T11:58:21.193Z",
         "project_id": 4456,
         "project_path": "sony/keyaki_dsds",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2023-10-02T11:58:21.193Z",
       "url": "https://dumps.tadiphone.dev/dumps/sony/keyaki_dsds"
     },
     {
       "item_id": "_project/4461",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2023-10-02T12:04:11.661Z",
         "project_id": 4461,
         "project_path": "sony/kirin_dsds",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2023-10-02T12:04:11.661Z",
       "url": "https://dumps.tadiphone.dev/dumps/sony/kirin_dsds"
     },
     {
       "item_id": "_project/4464",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2023-10-02T12:07:21.363Z",
         "project_id": 4464,
         "project_path": "sony/mermaid",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2023-10-02T12:07:21.363Z",
       "url": "https://dumps.tadiphone.dev/dumps/sony/mermaid"
     },
     {
       "item_id": "_project/4470",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2023-10-02T12:14:36.120Z",
         "project_id": 4470,
         "project_path": "sony/mermaid_dsds",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2023-10-02T12:14:36.120Z",
       "url": "https://dumps.tadiphone.dev/dumps/sony/mermaid_dsds"
     },
     {
       "item_id": "_project/4486",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2023-10-02T12:32:20.486Z",
         "project_id": 4486,
         "project_path": "sony/d6503",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2023-10-02T12:32:20.486Z",
       "url": "https://dumps.tadiphone.dev/dumps/sony/d6503"
     },
     {

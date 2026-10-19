@@ -1,17 +1,17 @@
 {
-  "checked_at": "2026-10-19T01:56:46Z",
+  "checked_at": "2026-10-19T10:15:24Z",
   "errors": [],
   "items": [
     {
       "item_id": "_project/5249",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-04-28T15:30:22.352Z",
         "project_id": 5249,
         "project_path": "blackshark/klein",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-04-28T15:30:22.352Z",
       "url": "https://dumps.tadiphone.dev/dumps/blackshark/klein"
     },
     {

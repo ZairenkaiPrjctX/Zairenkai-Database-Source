@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-19T01:56:46Z",
+  "checked_at": "2026-10-19T10:15:24Z",
   "errors": [],
   "items": [
     {
@@ -1667,6 +1667,23 @@
       },
       "revision": "8327f4bfba48d9d68d3bf8d293bc6f82fe0e15f2",
       "url": "https://dumps.tadiphone.dev/dumps/nubia/nx709s/-/tree/8327f4bfba48d9d68d3bf8d293bc6f82fe0e15f2"
+    },
+    {
+      "item_id": "nubia/nx729j-un@qssi-user-14-UKQ1.230917.001-20250301.212456-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230917.001-20250301.212456-release-keys",
+        "commit": "4ebb7b96cbd11d01e51a8f3dab8a774a37a9603c",
+        "committed_date": "2026-10-19T06:31:20.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-10-19T03:21:40.671Z",
+        "namespace_hint": "nubia",
+        "project_hint": "nx729j-un",
+        "project_id": 5845,
+        "project_path": "nubia/nx729j-un"
+      },
+      "revision": "4ebb7b96cbd11d01e51a8f3dab8a774a37a9603c",
+      "url": "https://dumps.tadiphone.dev/dumps/nubia/nx729j-un/-/tree/4ebb7b96cbd11d01e51a8f3dab8a774a37a9603c"
     },
     {
       "item_id": "nubia/nx729j@qssi-user-13-TKQ1.220915.002-eng.nubia.20221114.110025-release-keys",
