@@ -1,0 +1,162 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "blackview/a200pro@A200_Pro_NEU_M9902A_V1.0_20231115",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "A200_Pro_NEU_M9902A_V1.0_20231115",
+        "commit": "873a2702f1aea47bd590e699154d518ca4d0c2b6",
+        "committed_date": "2024-01-20T02:19:14.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-01-19T23:16:21.720Z",
+        "namespace_hint": "blackview",
+        "project_hint": "a200pro",
+        "project_id": 4704,
+        "project_path": "blackview/a200pro"
+      },
+      "revision": "873a2702f1aea47bd590e699154d518ca4d0c2b6",
+      "url": "https://dumps.tadiphone.dev/dumps/blackview/a200pro/-/tree/873a2702f1aea47bd590e699154d518ca4d0c2b6"
+    },
+    {
+      "item_id": "blackview/a80pro@full_k57pv1_dm_64-user-10-QP1A.190711.020-mp1V9241-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k57pv1_dm_64-user-10-QP1A.190711.020-mp1V9241-release-keys",
+        "commit": "45c68c492f58a30a3b77ca86a1380dbe90861d6a",
+        "committed_date": "2022-03-25T17:17:25.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T23:35:15.920Z",
+        "namespace_hint": "blackview",
+        "project_hint": "a80pro",
+        "project_id": 812,
+        "project_path": "blackview/a80pro"
+      },
+      "revision": "45c68c492f58a30a3b77ca86a1380dbe90861d6a",
+      "url": "https://dumps.tadiphone.dev/dumps/blackview/a80pro/-/tree/45c68c492f58a30a3b77ca86a1380dbe90861d6a"
+    },
+    {
+      "item_id": "blackview/blackview@full_k71v1_64_bsp-user-9-PPR1.180610.011-eng.releas.20190530.193148-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k71v1_64_bsp-user-9-PPR1.180610.011-eng.releas.20190530.193148-release-keys",
+        "commit": "f46b549928e01afada39164f9439e5a777952d33",
+        "committed_date": "2019-12-10T17:45:16.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T01:30:50.114Z",
+        "namespace_hint": "blackview",
+        "project_hint": "blackview",
+        "project_id": 2293,
+        "project_path": "blackview/blackview"
+      },
+      "revision": "f46b549928e01afada39164f9439e5a777952d33",
+      "url": "https://dumps.tadiphone.dev/dumps/blackview/blackview/-/tree/f46b549928e01afada39164f9439e5a777952d33"
+    },
+    {
+      "item_id": "blackview/bv8900@sys_mssi_64_ww-user-13-TP1A.220624.014-p1rck6985v164P71-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_ww-user-13-TP1A.220624.014-p1rck6985v164P71-release-keys",
+        "commit": "42e486ffb73cd45a42b0cd6024bcc64d078b7793",
+        "committed_date": "2025-05-21T18:18:56.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-05-21T15:13:29.283Z",
+        "namespace_hint": "blackview",
+        "project_hint": "bv8900",
+        "project_id": 5647,
+        "project_path": "blackview/bv8900"
+      },
+      "revision": "42e486ffb73cd45a42b0cd6024bcc64d078b7793",
+      "url": "https://dumps.tadiphone.dev/dumps/blackview/bv8900/-/tree/42e486ffb73cd45a42b0cd6024bcc64d078b7793"
+    },
+    {
+      "item_id": "blackview/bv9200@sys_mssi_64_ww-user-12-SP1A.210812.016-1rck61v164bspP11-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_ww-user-12-SP1A.210812.016-1rck61v164bspP11-release-keys",
+        "commit": "f14ce1aa867c33767ca69dda4cd0b463b5cc0f23",
+        "committed_date": "2023-02-15T19:32:33.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-02-15T16:29:48.597Z",
+        "namespace_hint": "blackview",
+        "project_hint": "bv9200",
+        "project_id": 4069,
+        "project_path": "blackview/bv9200"
+      },
+      "revision": "f14ce1aa867c33767ca69dda4cd0b463b5cc0f23",
+      "url": "https://dumps.tadiphone.dev/dumps/blackview/bv9200/-/tree/f14ce1aa867c33767ca69dda4cd0b463b5cc0f23"
+    },
+    {
+      "item_id": "blackview/bv9600@full_k71v1_64_bsp-user-9-PPR1.180610.011-eng.releas.20190628.224344-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k71v1_64_bsp-user-9-PPR1.180610.011-eng.releas.20190628.224344-release-keys",
+        "commit": "98d9c4cfcb3b401c1836c7091c90706134e41623",
+        "committed_date": "2019-11-11T20:08:42.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T22:11:30.871Z",
+        "namespace_hint": "blackview",
+        "project_hint": "bv9600",
+        "project_id": 1350,
+        "project_path": "blackview/bv9600"
+      },
+      "revision": "98d9c4cfcb3b401c1836c7091c90706134e41623",
+      "url": "https://dumps.tadiphone.dev/dumps/blackview/bv9600/-/tree/98d9c4cfcb3b401c1836c7091c90706134e41623"
+    },
+    {
+      "item_id": "blackview/bv9900@full_k79v1_64-user-9-PPR1.180610.011-eng.releas.20200103.112036-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k79v1_64-user-9-PPR1.180610.011-eng.releas.20200103.112036-release-keys",
+        "commit": "555c36955f0963e72ecfd3122f79bb6c29fb2dd2",
+        "committed_date": "2020-03-06T04:59:16.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T14:54:41.119Z",
+        "namespace_hint": "blackview",
+        "project_hint": "bv9900",
+        "project_id": 1846,
+        "project_path": "blackview/bv9900"
+      },
+      "revision": "555c36955f0963e72ecfd3122f79bb6c29fb2dd2",
+      "url": "https://dumps.tadiphone.dev/dumps/blackview/bv9900/-/tree/555c36955f0963e72ecfd3122f79bb6c29fb2dd2"
+    },
+    {
+      "item_id": "blackview/bv9900pro@full_k79v1_64-user-10-QP1A.190711.020-mp1V91221-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k79v1_64-user-10-QP1A.190711.020-mp1V91221-release-keys",
+        "commit": "d71fe38578486cfdf19e812e527e054dda53671a",
+        "committed_date": "2022-11-13T18:26:27.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-11-13T15:24:24.452Z",
+        "namespace_hint": "blackview",
+        "project_hint": "bv9900pro",
+        "project_id": 3946,
+        "project_path": "blackview/bv9900pro"
+      },
+      "revision": "d71fe38578486cfdf19e812e527e054dda53671a",
+      "url": "https://dumps.tadiphone.dev/dumps/blackview/bv9900pro/-/tree/d71fe38578486cfdf19e812e527e054dda53671a"
+    },
+    {
+      "item_id": "blackview/tab_15_neu@Tab_15_NEU-user-12-SP1A.210812.016-20220705-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Tab_15_NEU-user-12-SP1A.210812.016-20220705-release-keys",
+        "commit": "0960c136056ffea1a2b56448fab264a239038b0c",
+        "committed_date": "2023-05-06T10:05:38.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-05-06T07:03:01.904Z",
+        "namespace_hint": "blackview",
+        "project_hint": "tab_15_neu",
+        "project_id": 4276,
+        "project_path": "blackview/tab_15_neu"
+      },
+      "revision": "0960c136056ffea1a2b56448fab264a239038b0c",
+      "url": "https://dumps.tadiphone.dev/dumps/blackview/tab_15_neu/-/tree/0960c136056ffea1a2b56448fab264a239038b0c"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

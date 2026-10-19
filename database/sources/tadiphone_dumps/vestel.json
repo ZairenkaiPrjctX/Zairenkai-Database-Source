@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "vestel/pardus@full_k62v1_64_bsp-user-9-VT1060-1560329181-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k62v1_64_bsp-user-9-VT1060-1560329181-release-keys",
+        "commit": "bf0e705f10976eae2a56431e450cbacd5e025ba2",
+        "committed_date": "2020-01-17T17:55:59.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T14:15:07.286Z",
+        "namespace_hint": "vestel",
+        "project_hint": "pardus",
+        "project_id": 124,
+        "project_path": "vestel/pardus"
+      },
+      "revision": "bf0e705f10976eae2a56431e450cbacd5e025ba2",
+      "url": "https://dumps.tadiphone.dev/dumps/vestel/pardus/-/tree/bf0e705f10976eae2a56431e450cbacd5e025ba2"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

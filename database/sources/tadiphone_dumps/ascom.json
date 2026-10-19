@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "ascom/sh4-1@QCM6490-user-12-SKQ1.220213.001-A12_001.00-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "QCM6490-user-12-SKQ1.220213.001-A12_001.00-release-keys",
+        "commit": "5b8f64496c92355929639e9b96242b818853cbe7",
+        "committed_date": "2024-05-05T18:58:57.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-05-05T15:56:23.408Z",
+        "namespace_hint": "ascom",
+        "project_hint": "sh4-1",
+        "project_id": 5259,
+        "project_path": "ascom/sh4-1"
+      },
+      "revision": "5b8f64496c92355929639e9b96242b818853cbe7",
+      "url": "https://dumps.tadiphone.dev/dumps/ascom/sh4-1/-/tree/5b8f64496c92355929639e9b96242b818853cbe7"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

@@ -1,0 +1,196 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "amlogic/anning@anning-user-9-PI-20201119-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "anning-user-9-PI-20201119-release-keys",
+        "commit": "3e5a26dd1851fe29ba82c94cadca06d5d69c5db6",
+        "committed_date": "2020-12-01T10:17:58.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T18:23:17.497Z",
+        "namespace_hint": "amlogic",
+        "project_hint": "anning",
+        "project_id": 1243,
+        "project_path": "amlogic/anning"
+      },
+      "revision": "3e5a26dd1851fe29ba82c94cadca06d5d69c5db6",
+      "url": "https://dumps.tadiphone.dev/dumps/amlogic/anning/-/tree/3e5a26dd1851fe29ba82c94cadca06d5d69c5db6"
+    },
+    {
+      "item_id": "amlogic/aster@aster_gtv-userdebug-13-TM-eng.yidong.20220629.192233-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aster_gtv-userdebug-13-TM-eng.yidong.20220629.192233-test-keys",
+        "commit": "2503ad4de0e0839d14e58097ae04df102f1157c2",
+        "committed_date": "2024-10-12T19:43:26.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-12T16:42:29.649Z",
+        "namespace_hint": "amlogic",
+        "project_hint": "aster",
+        "project_id": 5454,
+        "project_path": "amlogic/aster"
+      },
+      "revision": "2503ad4de0e0839d14e58097ae04df102f1157c2",
+      "url": "https://dumps.tadiphone.dev/dumps/amlogic/aster/-/tree/2503ad4de0e0839d14e58097ae04df102f1157c2"
+    },
+    {
+      "item_id": "amlogic/franklin@franklin-userdebug-9-PPR1.180610.011-20191213-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "franklin-userdebug-9-PPR1.180610.011-20191213-test-keys",
+        "commit": "6a3a59d50d5a7effc7d675a001c4498af0a5c314",
+        "committed_date": "2021-07-18T04:30:24.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-10-21T14:55:21.464Z",
+        "namespace_hint": "amlogic",
+        "project_hint": "franklin",
+        "project_id": 1126,
+        "project_path": "amlogic/franklin"
+      },
+      "revision": "6a3a59d50d5a7effc7d675a001c4498af0a5c314",
+      "url": "https://dumps.tadiphone.dev/dumps/amlogic/franklin/-/tree/6a3a59d50d5a7effc7d675a001c4498af0a5c314"
+    },
+    {
+      "item_id": "amlogic/franklin@franklin-userdebug-9-PPR1.180610.011-20200901-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "franklin-userdebug-9-PPR1.180610.011-20200901-test-keys",
+        "commit": "4dd3d3fc89ccd95f170a65a351cdefade7871bb0",
+        "committed_date": "2021-07-17T22:06:52.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-10-21T14:55:21.464Z",
+        "namespace_hint": "amlogic",
+        "project_hint": "franklin",
+        "project_id": 1126,
+        "project_path": "amlogic/franklin"
+      },
+      "revision": "4dd3d3fc89ccd95f170a65a351cdefade7871bb0",
+      "url": "https://dumps.tadiphone.dev/dumps/amlogic/franklin/-/tree/4dd3d3fc89ccd95f170a65a351cdefade7871bb0"
+    },
+    {
+      "item_id": "amlogic/franklin@franklin-userdebug-9-PPR1.180610.011-20240904-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "franklin-userdebug-9-PPR1.180610.011-20240904-test-keys",
+        "commit": "d5d46433e556dfe0c9eeeb99563fd01e14592dc8",
+        "committed_date": "2024-10-21T17:54:04.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-21T14:55:21.464Z",
+        "namespace_hint": "amlogic",
+        "project_hint": "franklin",
+        "project_id": 1126,
+        "project_path": "amlogic/franklin"
+      },
+      "revision": "d5d46433e556dfe0c9eeeb99563fd01e14592dc8",
+      "url": "https://dumps.tadiphone.dev/dumps/amlogic/franklin/-/tree/d5d46433e556dfe0c9eeeb99563fd01e14592dc8"
+    },
+    {
+      "item_id": "amlogic/newton@newton-user-10-QT-eng.jie.yu.20200103.154728-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "newton-user-10-QT-eng.jie.yu.20200103.154728-release-keys",
+        "commit": "d0e3f903fc6d7aa296bff34b3833aacde15555b2",
+        "committed_date": "2021-03-08T03:39:46.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T18:11:50.878Z",
+        "namespace_hint": "amlogic",
+        "project_hint": "newton",
+        "project_id": 1241,
+        "project_path": "amlogic/newton"
+      },
+      "revision": "d0e3f903fc6d7aa296bff34b3833aacde15555b2",
+      "url": "https://dumps.tadiphone.dev/dumps/amlogic/newton/-/tree/d0e3f903fc6d7aa296bff34b3833aacde15555b2"
+    },
+    {
+      "item_id": "amlogic/ohm@ohm-userdebug-11-RTT0.211009.001-eng.doosan.20211023.081706-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ohm-userdebug-11-RTT0.211009.001-eng.doosan.20211023.081706-test-keys",
+        "commit": "f07c8b1019865dc8abe6dc1b94ccd720589c2d1d",
+        "committed_date": "2021-11-22T02:41:19.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-04-09T04:52:45.263Z",
+        "namespace_hint": "amlogic",
+        "project_hint": "ohm",
+        "project_id": 1508,
+        "project_path": "amlogic/ohm"
+      },
+      "revision": "f07c8b1019865dc8abe6dc1b94ccd720589c2d1d",
+      "url": "https://dumps.tadiphone.dev/dumps/amlogic/ohm/-/tree/f07c8b1019865dc8abe6dc1b94ccd720589c2d1d"
+    },
+    {
+      "item_id": "amlogic/ohm@ohm-userdebug-12-SC-eng.shaofe.20211115.080743-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ohm-userdebug-12-SC-eng.shaofe.20211115.080743-test-keys",
+        "commit": "dc5503cfb22f95c16f307e9179b6480cef6d303a",
+        "committed_date": "2021-11-19T23:24:04.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-04-09T04:52:45.263Z",
+        "namespace_hint": "amlogic",
+        "project_hint": "ohm",
+        "project_id": 1508,
+        "project_path": "amlogic/ohm"
+      },
+      "revision": "dc5503cfb22f95c16f307e9179b6480cef6d303a",
+      "url": "https://dumps.tadiphone.dev/dumps/amlogic/ohm/-/tree/dc5503cfb22f95c16f307e9179b6480cef6d303a"
+    },
+    {
+      "item_id": "amlogic/ohm@ohm_gtv-userdebug-12-SC-eng.bin.ya.20230223.173800-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ohm_gtv-userdebug-12-SC-eng.bin.ya.20230223.173800-test-keys",
+        "commit": "1e40a6e3e0d4f1be6ce6ae4828925408c533e33b",
+        "committed_date": "2024-04-09T07:50:50.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-04-09T04:52:45.263Z",
+        "namespace_hint": "amlogic",
+        "project_hint": "ohm",
+        "project_id": 1508,
+        "project_path": "amlogic/ohm"
+      },
+      "revision": "1e40a6e3e0d4f1be6ce6ae4828925408c533e33b",
+      "url": "https://dumps.tadiphone.dev/dumps/amlogic/ohm/-/tree/1e40a6e3e0d4f1be6ce6ae4828925408c533e33b"
+    },
+    {
+      "item_id": "amlogic/ohmcas@ohmcas-userdebug-11-RQ2A.210305.007-eng.sangho.20210423.115147-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ohmcas-userdebug-11-RQ2A.210305.007-eng.sangho.20210423.115147-test-keys",
+        "commit": "a2847cc3eb63d987fc4405cc78f8cca7cebc0ac1",
+        "committed_date": "2021-04-27T05:49:07.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T14:09:58.508Z",
+        "namespace_hint": "amlogic",
+        "project_hint": "ohmcas",
+        "project_id": 1819,
+        "project_path": "amlogic/ohmcas"
+      },
+      "revision": "a2847cc3eb63d987fc4405cc78f8cca7cebc0ac1",
+      "url": "https://dumps.tadiphone.dev/dumps/amlogic/ohmcas/-/tree/a2847cc3eb63d987fc4405cc78f8cca7cebc0ac1"
+    },
+    {
+      "item_id": "amlogic/ohmcas@ohmcas-userdebug-11-RQ3A.210805.001.A1-eng.sangho.20210813.040132-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ohmcas-userdebug-11-RQ3A.210805.001.A1-eng.sangho.20210813.040132-test-keys",
+        "commit": "fa0a194ef5ef923c7dbd5dd5e4d854397abe14c5",
+        "committed_date": "2021-09-01T14:00:45.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T14:09:58.508Z",
+        "namespace_hint": "amlogic",
+        "project_hint": "ohmcas",
+        "project_id": 1819,
+        "project_path": "amlogic/ohmcas"
+      },
+      "revision": "fa0a194ef5ef923c7dbd5dd5e4d854397abe14c5",
+      "url": "https://dumps.tadiphone.dev/dumps/amlogic/ohmcas/-/tree/fa0a194ef5ef923c7dbd5dd5e4d854397abe14c5"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

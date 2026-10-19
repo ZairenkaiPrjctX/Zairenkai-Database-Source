@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "kirin710/kirin710@generic_a15-user-10-QP1A.190711.020-eng.root.20210310.044456-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "generic_a15-user-10-QP1A.190711.020-eng.root.20210310.044456-dev-keys",
+        "commit": "6221e009b20281b9f1f6ead6eeef9203524f950d",
+        "committed_date": "2023-06-10T14:18:25.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-06-10T11:13:33.058Z",
+        "namespace_hint": "kirin710",
+        "project_hint": "kirin710",
+        "project_id": 4328,
+        "project_path": "kirin710/kirin710"
+      },
+      "revision": "6221e009b20281b9f1f6ead6eeef9203524f950d",
+      "url": "https://dumps.tadiphone.dev/dumps/kirin710/kirin710/-/tree/6221e009b20281b9f1f6ead6eeef9203524f950d"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

@@ -1,0 +1,281 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "iqoo/2009@qssi-user-11-RP1A.200720.012-eng.compil.20210423.120356-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.200720.012-eng.compil.20210423.120356-release-keys",
+        "commit": "2140822a2fde8f66837ae2fc15a7b1a488d38b75",
+        "committed_date": "2021-06-18T21:37:53.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T01:24:50.807Z",
+        "namespace_hint": "iqoo",
+        "project_hint": "2009",
+        "project_id": 2287,
+        "project_path": "iqoo/2009"
+      },
+      "revision": "2140822a2fde8f66837ae2fc15a7b1a488d38b75",
+      "url": "https://dumps.tadiphone.dev/dumps/iqoo/2009/-/tree/2140822a2fde8f66837ae2fc15a7b1a488d38b75"
+    },
+    {
+      "item_id": "iqoo/2009@qssi-user-11-RP1A.200720.012-eng.compil.20210619.183853-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.200720.012-eng.compil.20210619.183853-release-keys",
+        "commit": "ef7dfe18a315a840df6e505f8a3a372b53308229",
+        "committed_date": "2021-08-11T22:01:11.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-17T01:24:50.807Z",
+        "namespace_hint": "iqoo",
+        "project_hint": "2009",
+        "project_id": 2287,
+        "project_path": "iqoo/2009"
+      },
+      "revision": "ef7dfe18a315a840df6e505f8a3a372b53308229",
+      "url": "https://dumps.tadiphone.dev/dumps/iqoo/2009/-/tree/ef7dfe18a315a840df6e505f8a3a372b53308229"
+    },
+    {
+      "item_id": "iqoo/2009@qssi-user-11-SP1A.210331.003-eng.compil.20210518.142656-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-SP1A.210331.003-eng.compil.20210518.142656-release-keys",
+        "commit": "c8bf4c368f5e045bce4e0c3306a2b3a21972f9a9",
+        "committed_date": "2021-05-18T19:11:50.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-17T01:24:50.807Z",
+        "namespace_hint": "iqoo",
+        "project_hint": "2009",
+        "project_id": 2287,
+        "project_path": "iqoo/2009"
+      },
+      "revision": "c8bf4c368f5e045bce4e0c3306a2b3a21972f9a9",
+      "url": "https://dumps.tadiphone.dev/dumps/iqoo/2009/-/tree/c8bf4c368f5e045bce4e0c3306a2b3a21972f9a9"
+    },
+    {
+      "item_id": "iqoo/2009@qssi-user-S-SP1A.210513.004-compiler07272139-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-S-SP1A.210513.004-compiler07272139-release-keys",
+        "commit": "8a44e24fe3e146f06060471454c1aef69e861e64",
+        "committed_date": "2021-08-11T21:43:41.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-17T01:24:50.807Z",
+        "namespace_hint": "iqoo",
+        "project_hint": "2009",
+        "project_id": 2287,
+        "project_path": "iqoo/2009"
+      },
+      "revision": "8a44e24fe3e146f06060471454c1aef69e861e64",
+      "url": "https://dumps.tadiphone.dev/dumps/iqoo/2009/-/tree/8a44e24fe3e146f06060471454c1aef69e861e64"
+    },
+    {
+      "item_id": "iqoo/2017@qssi-user-13-TP1A.220624.003-eng.compil.20221014.215725-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220624.003-eng.compil.20221014.215725-release-keys",
+        "commit": "e5c410f412dabba9ff0c138fd56ea9c83d8d4e9f",
+        "committed_date": "2023-03-12T14:14:23.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-03-12T11:10:37.092Z",
+        "namespace_hint": "iqoo",
+        "project_hint": "2017",
+        "project_id": 4090,
+        "project_path": "iqoo/2017"
+      },
+      "revision": "e5c410f412dabba9ff0c138fd56ea9c83d8d4e9f",
+      "url": "https://dumps.tadiphone.dev/dumps/iqoo/2017/-/tree/e5c410f412dabba9ff0c138fd56ea9c83d8d4e9f"
+    },
+    {
+      "item_id": "iqoo/2018@qssi-user-11-RP1A.200720.012-eng.compil.20210918.230111-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.200720.012-eng.compil.20210918.230111-release-keys",
+        "commit": "4d6ff766dfe9e5128855dccae70464c7e414de41",
+        "committed_date": "2021-10-15T07:29:19.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T09:59:38.059Z",
+        "namespace_hint": "iqoo",
+        "project_hint": "2018",
+        "project_id": 1686,
+        "project_path": "iqoo/2018"
+      },
+      "revision": "4d6ff766dfe9e5128855dccae70464c7e414de41",
+      "url": "https://dumps.tadiphone.dev/dumps/iqoo/2018/-/tree/4d6ff766dfe9e5128855dccae70464c7e414de41"
+    },
+    {
+      "item_id": "iqoo/2018@qssi-user-11-RP1A.200720.012-eng.compil.20211026.202433-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.200720.012-eng.compil.20211026.202433-release-keys",
+        "commit": "f54f2bc609d7abbb8dbae86c0821ab6dec94db3e",
+        "committed_date": "2021-12-23T16:42:20.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T09:59:38.059Z",
+        "namespace_hint": "iqoo",
+        "project_hint": "2018",
+        "project_id": 1686,
+        "project_path": "iqoo/2018"
+      },
+      "revision": "f54f2bc609d7abbb8dbae86c0821ab6dec94db3e",
+      "url": "https://dumps.tadiphone.dev/dumps/iqoo/2018/-/tree/f54f2bc609d7abbb8dbae86c0821ab6dec94db3e"
+    },
+    {
+      "item_id": "iqoo/i1928@aosp_arm64-user-11-RP1A.200504.003-eng.hechen.20200612.131437-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_arm64-user-11-RP1A.200504.003-eng.hechen.20200612.131437-release-keys",
+        "commit": "62e60c036ca07c9a880780bc1a736038fd532057",
+        "committed_date": "2020-06-12T17:22:23.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T07:52:47.429Z",
+        "namespace_hint": "iqoo",
+        "project_hint": "i1928",
+        "project_id": 1574,
+        "project_path": "iqoo/i1928"
+      },
+      "revision": "62e60c036ca07c9a880780bc1a736038fd532057",
+      "url": "https://dumps.tadiphone.dev/dumps/iqoo/i1928/-/tree/62e60c036ca07c9a880780bc1a736038fd532057"
+    },
+    {
+      "item_id": "iqoo/i2201@qssi-user-12-SP2A.220305.013-compiler08311145-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SP2A.220305.013-compiler08311145-release-keys",
+        "commit": "ced2461848b553ab9740c79275b5056d2fcc2202",
+        "committed_date": "2022-11-24T06:12:40.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-11-24T03:08:28.199Z",
+        "namespace_hint": "iqoo",
+        "project_hint": "i2201",
+        "project_id": 3960,
+        "project_path": "iqoo/i2201"
+      },
+      "revision": "ced2461848b553ab9740c79275b5056d2fcc2202",
+      "url": "https://dumps.tadiphone.dev/dumps/iqoo/i2201/-/tree/ced2461848b553ab9740c79275b5056d2fcc2202"
+    },
+    {
+      "item_id": "iqoo/i2212@qssi-user-13-TP1A.220624.014-eng.compil.20230410.154214-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220624.014-eng.compil.20230410.154214-release-keys",
+        "commit": "3c80f207ba4c8c5570be3c7cf8f435d59d54c6f5",
+        "committed_date": "2023-05-10T23:54:20.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-08-16T12:40:13.434Z",
+        "namespace_hint": "iqoo",
+        "project_hint": "i2212",
+        "project_id": 4287,
+        "project_path": "iqoo/i2212"
+      },
+      "revision": "3c80f207ba4c8c5570be3c7cf8f435d59d54c6f5",
+      "url": "https://dumps.tadiphone.dev/dumps/iqoo/i2212/-/tree/3c80f207ba4c8c5570be3c7cf8f435d59d54c6f5"
+    },
+    {
+      "item_id": "iqoo/i2212@qssi-user-14-UP1A.230620.001-eng.compil.20230803.123937-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UP1A.230620.001-eng.compil.20230803.123937-release-keys",
+        "commit": "de335b62247bd3c4f09686e77f605346e0b94311",
+        "committed_date": "2023-08-16T15:27:41.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-08-16T12:40:13.434Z",
+        "namespace_hint": "iqoo",
+        "project_hint": "i2212",
+        "project_id": 4287,
+        "project_path": "iqoo/i2212"
+      },
+      "revision": "de335b62247bd3c4f09686e77f605346e0b94311",
+      "url": "https://dumps.tadiphone.dev/dumps/iqoo/i2212/-/tree/de335b62247bd3c4f09686e77f605346e0b94311"
+    },
+    {
+      "item_id": "iqoo/i2212@qssi-user-UpsideDownCake-UP1A.230309.002-eng.compil.20230509.201431-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-UpsideDownCake-UP1A.230309.002-eng.compil.20230509.201431-release-keys",
+        "commit": "38e4981814ada5838027a33eec8f95c7a771b36b",
+        "committed_date": "2023-05-11T00:37:08.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-08-16T12:40:13.434Z",
+        "namespace_hint": "iqoo",
+        "project_hint": "i2212",
+        "project_id": 4287,
+        "project_path": "iqoo/i2212"
+      },
+      "revision": "38e4981814ada5838027a33eec8f95c7a771b36b",
+      "url": "https://dumps.tadiphone.dev/dumps/iqoo/i2212/-/tree/38e4981814ada5838027a33eec8f95c7a771b36b"
+    },
+    {
+      "item_id": "iqoo/i2220@qssi_64-user-14-UP1A.231005.007-eng.compil.20231128.014532-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-14-UP1A.231005.007-eng.compil.20231128.014532-release-keys",
+        "commit": "13742fed7b6aeaa4b31b5aa1f37acc6af4cfeef3",
+        "committed_date": "2024-04-12T21:34:50.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-10-26T16:47:21.751Z",
+        "namespace_hint": "iqoo",
+        "project_hint": "i2220",
+        "project_id": 5236,
+        "project_path": "iqoo/i2220"
+      },
+      "revision": "13742fed7b6aeaa4b31b5aa1f37acc6af4cfeef3",
+      "url": "https://dumps.tadiphone.dev/dumps/iqoo/i2220/-/tree/13742fed7b6aeaa4b31b5aa1f37acc6af4cfeef3"
+    },
+    {
+      "item_id": "iqoo/i2220@qssi_64-user-14-UP1A.231005.007-eng.compil.20231223.133722-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-14-UP1A.231005.007-eng.compil.20231223.133722-release-keys",
+        "commit": "8b06c5f1e1e77ed347a7e449e6c2aa862853702a",
+        "committed_date": "2024-10-26T19:35:39.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-26T16:47:21.751Z",
+        "namespace_hint": "iqoo",
+        "project_hint": "i2220",
+        "project_id": 5236,
+        "project_path": "iqoo/i2220"
+      },
+      "revision": "8b06c5f1e1e77ed347a7e449e6c2aa862853702a",
+      "url": "https://dumps.tadiphone.dev/dumps/iqoo/i2220/-/tree/8b06c5f1e1e77ed347a7e449e6c2aa862853702a"
+    },
+    {
+      "item_id": "iqoo/i2401@qssi_64-user-16-BP2A.250124.003.A1-compiler250328151630-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-16-BP2A.250124.003.A1-compiler250328151630-release-keys",
+        "commit": "d3e3417735a772e55f6b0aab3943636e876cc32c",
+        "committed_date": "2025-04-10T08:55:53.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-04-10T05:45:56.953Z",
+        "namespace_hint": "iqoo",
+        "project_hint": "i2401",
+        "project_id": 5619,
+        "project_path": "iqoo/i2401"
+      },
+      "revision": "d3e3417735a772e55f6b0aab3943636e876cc32c",
+      "url": "https://dumps.tadiphone.dev/dumps/iqoo/i2401/-/tree/d3e3417735a772e55f6b0aab3943636e876cc32c"
+    },
+    {
+      "item_id": "iqoo/kona@qssi-user-11-RP1A.200709.001-eng.compil.20200910.224136-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.200709.001-eng.compil.20200910.224136-release-keys",
+        "commit": "bc570b6fa914e0ea385a1ace42d1245aca4006b6",
+        "committed_date": "2020-09-23T09:19:26.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T07:50:57.195Z",
+        "namespace_hint": "iqoo",
+        "project_hint": "kona",
+        "project_id": 1572,
+        "project_path": "iqoo/kona"
+      },
+      "revision": "bc570b6fa914e0ea385a1ace42d1245aca4006b6",
+      "url": "https://dumps.tadiphone.dev/dumps/iqoo/kona/-/tree/bc570b6fa914e0ea385a1ace42d1245aca4006b6"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

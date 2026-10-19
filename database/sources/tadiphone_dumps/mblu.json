@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "mblu/mblu10@g2172fua_v1_ga_oj_m01_qd_r_Natv-user-11-RP1A.201005.001-2206101530-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "g2172fua_v1_ga_oj_m01_qd_r_Natv-user-11-RP1A.201005.001-2206101530-release-keys",
+        "commit": "9575ad4bc33aa876a400f51583f15679191bada7",
+        "committed_date": "2022-07-26T17:04:33.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-07-26T14:01:39.413Z",
+        "namespace_hint": "mblu",
+        "project_hint": "mblu10",
+        "project_id": 2375,
+        "project_path": "mblu/mblu10"
+      },
+      "revision": "9575ad4bc33aa876a400f51583f15679191bada7",
+      "url": "https://dumps.tadiphone.dev/dumps/mblu/mblu10/-/tree/9575ad4bc33aa876a400f51583f15679191bada7"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

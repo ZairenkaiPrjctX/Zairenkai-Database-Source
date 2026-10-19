@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "mito/mito_a37_z1plus@Mito_A37_Z1plus_8085T_V04_20181215",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Mito_A37_Z1plus_8085T_V04_20181215",
+        "commit": "b53853f5d52be38d3d1b977f6b20b0a4945d5902",
+        "committed_date": "2019-11-11T00:54:13.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T00:27:55.745Z",
+        "namespace_hint": "mito",
+        "project_hint": "mito_a37_z1plus",
+        "project_id": 30,
+        "project_path": "mito/mito_a37_z1plus"
+      },
+      "revision": "b53853f5d52be38d3d1b977f6b20b0a4945d5902",
+      "url": "https://dumps.tadiphone.dev/dumps/mito/mito_a37_z1plus/-/tree/b53853f5d52be38d3d1b977f6b20b0a4945d5902"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

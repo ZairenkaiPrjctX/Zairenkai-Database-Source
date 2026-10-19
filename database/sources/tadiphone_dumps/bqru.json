@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "bqru/bqru-5730l@BQru-5730L-user-9-PPR1.180610.011-32310-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "BQru-5730L-user-9-PPR1.180610.011-32310-release-keys",
+        "commit": "9abf7d746e908d812c70773ba9ed5409477b99e4",
+        "committed_date": "2020-02-03T07:09:49.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T14:15:53.113Z",
+        "namespace_hint": "bqru",
+        "project_hint": "bqru-5730l",
+        "project_id": 125,
+        "project_path": "bqru/bqru-5730l"
+      },
+      "revision": "9abf7d746e908d812c70773ba9ed5409477b99e4",
+      "url": "https://dumps.tadiphone.dev/dumps/bqru/bqru-5730l/-/tree/9abf7d746e908d812c70773ba9ed5409477b99e4"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

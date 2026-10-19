@@ -1,0 +1,60 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "moondrop/k6877v1_64_k419@MD_PH_001-user-14-UP1A.231005.007-1727605290-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "MD_PH_001-user-14-UP1A.231005.007-1727605290-release-keys",
+        "commit": "293311583731c1b2bbbc944300c2738fc8e3e725",
+        "committed_date": "2024-10-12T19:31:46.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-12T16:29:06.935Z",
+        "namespace_hint": "moondrop",
+        "project_hint": "k6877v1_64_k419",
+        "project_id": 5453,
+        "project_path": "moondrop/k6877v1_64_k419"
+      },
+      "revision": "293311583731c1b2bbbc944300c2738fc8e3e725",
+      "url": "https://dumps.tadiphone.dev/dumps/moondrop/k6877v1_64_k419/-/tree/293311583731c1b2bbbc944300c2738fc8e3e725"
+    },
+    {
+      "item_id": "moondrop/md_ph_001@MD_PH_001-user-13-TP1A.220624.014-1711682717-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "MD_PH_001-user-13-TP1A.220624.014-1711682717-release-keys",
+        "commit": "cf009cf7fbea6ea4e5c268630d74bddc222c3bae",
+        "committed_date": "2024-05-03T21:43:39.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-10-10T17:58:16.001Z",
+        "namespace_hint": "moondrop",
+        "project_hint": "md_ph_001",
+        "project_id": 5256,
+        "project_path": "moondrop/md_ph_001"
+      },
+      "revision": "cf009cf7fbea6ea4e5c268630d74bddc222c3bae",
+      "url": "https://dumps.tadiphone.dev/dumps/moondrop/md_ph_001/-/tree/cf009cf7fbea6ea4e5c268630d74bddc222c3bae"
+    },
+    {
+      "item_id": "moondrop/md_ph_001@MD_PH_001-user-13-TP1A.220624.014-1717136871-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "MD_PH_001-user-13-TP1A.220624.014-1717136871-release-keys",
+        "commit": "87e884bbed9ec392c7ea11571a3437b61a457a18",
+        "committed_date": "2024-10-10T20:53:07.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-10T17:58:16.001Z",
+        "namespace_hint": "moondrop",
+        "project_hint": "md_ph_001",
+        "project_id": 5256,
+        "project_path": "moondrop/md_ph_001"
+      },
+      "revision": "87e884bbed9ec392c7ea11571a3437b61a457a18",
+      "url": "https://dumps.tadiphone.dev/dumps/moondrop/md_ph_001/-/tree/87e884bbed9ec392c7ea11571a3437b61a457a18"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

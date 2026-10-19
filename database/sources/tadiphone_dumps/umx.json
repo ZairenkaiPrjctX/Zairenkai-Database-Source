@@ -1,0 +1,111 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "umx/u2-plus-te-vr@U2-PLUS-TE-VR-user-9-PKQ1.190407.001-222-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "U2-PLUS-TE-VR-user-9-PKQ1.190407.001-222-release-keys",
+        "commit": "715c3724bbd044578d500dcc8b19d794d01f1127",
+        "committed_date": "2023-02-14T15:24:31.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-02-14T12:23:07.553Z",
+        "namespace_hint": "umx",
+        "project_hint": "u2-plus-te-vr",
+        "project_id": 4067,
+        "project_path": "umx/u2-plus-te-vr"
+      },
+      "revision": "715c3724bbd044578d500dcc8b19d794d01f1127",
+      "url": "https://dumps.tadiphone.dev/dumps/umx/u2-plus-te-vr/-/tree/715c3724bbd044578d500dcc8b19d794d01f1127"
+    },
+    {
+      "item_id": "umx/u2vr@msm8952_64-user-7.1.1-U2_01.01.15-eng.heanpi.20180313.094828-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8952_64-user-7.1.1-U2_01.01.15-eng.heanpi.20180313.094828-release-keys",
+        "commit": "f4138681f4bfaac47d8535fdd299478a5df02736",
+        "committed_date": "2023-10-22T13:03:27.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-10-22T10:01:23.841Z",
+        "namespace_hint": "umx",
+        "project_hint": "u2vr",
+        "project_id": 4558,
+        "project_path": "umx/u2vr"
+      },
+      "revision": "f4138681f4bfaac47d8535fdd299478a5df02736",
+      "url": "https://dumps.tadiphone.dev/dumps/umx/u2vr/-/tree/f4138681f4bfaac47d8535fdd299478a5df02736"
+    },
+    {
+      "item_id": "umx/u3ar@U3AR-user-9-PKQ1.190407.001-231-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "U3AR-user-9-PKQ1.190407.001-231-release-keys",
+        "commit": "edcb93790ed7a88e6b4d7ed6d178bdf5adb68ced",
+        "committed_date": "2023-02-15T11:06:02.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-02-15T08:04:35.913Z",
+        "namespace_hint": "umx",
+        "project_hint": "u3ar",
+        "project_id": 4068,
+        "project_path": "umx/u3ar"
+      },
+      "revision": "edcb93790ed7a88e6b4d7ed6d178bdf5adb68ced",
+      "url": "https://dumps.tadiphone.dev/dumps/umx/u3ar/-/tree/edcb93790ed7a88e6b4d7ed6d178bdf5adb68ced"
+    },
+    {
+      "item_id": "umx/u683cl@U683CL_01.01.02.133522",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "U683CL_01.01.02.133522",
+        "commit": "1a04e34b84a8bb59f997e7c1d9e5078f7771cdc4",
+        "committed_date": "2021-09-02T22:53:28.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T20:25:20.927Z",
+        "namespace_hint": "umx",
+        "project_hint": "u683cl",
+        "project_id": 2129,
+        "project_path": "umx/u683cl"
+      },
+      "revision": "1a04e34b84a8bb59f997e7c1d9e5078f7771cdc4",
+      "url": "https://dumps.tadiphone.dev/dumps/umx/u683cl/-/tree/1a04e34b84a8bb59f997e7c1d9e5078f7771cdc4"
+    },
+    {
+      "item_id": "umx/u693cl@U693CL-user-9-U693CL_01.02.01-210406-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "U693CL-user-9-U693CL_01.02.01-210406-release-keys",
+        "commit": "553ed63ef169adf84b51c41f1fae3baf0b2b0666",
+        "committed_date": "2021-08-29T19:35:23.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T21:41:18.342Z",
+        "namespace_hint": "umx",
+        "project_hint": "u693cl",
+        "project_id": 1331,
+        "project_path": "umx/u693cl"
+      },
+      "revision": "553ed63ef169adf84b51c41f1fae3baf0b2b0666",
+      "url": "https://dumps.tadiphone.dev/dumps/umx/u693cl/-/tree/553ed63ef169adf84b51c41f1fae3baf0b2b0666"
+    },
+    {
+      "item_id": "umx/u696cl@msm8937_32go-user-11-UMX_U696CL_V11.01.01.06-220112-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_32go-user-11-UMX_U696CL_V11.01.01.06-220112-release-keys",
+        "commit": "d34266566612a7af736352fd28dfe5356fb5528d",
+        "committed_date": "2022-05-24T00:53:50.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T00:29:00.638Z",
+        "namespace_hint": "umx",
+        "project_hint": "u696cl",
+        "project_id": 832,
+        "project_path": "umx/u696cl"
+      },
+      "revision": "d34266566612a7af736352fd28dfe5356fb5528d",
+      "url": "https://dumps.tadiphone.dev/dumps/umx/u696cl/-/tree/d34266566612a7af736352fd28dfe5356fb5528d"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

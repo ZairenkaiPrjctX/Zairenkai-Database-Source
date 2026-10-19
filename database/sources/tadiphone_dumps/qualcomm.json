@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "qualcomm/ss80x_64@ss80x_64-user-9-PKQ1.190414.001-eng.jiangd.20211127.114546-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ss80x_64-user-9-PKQ1.190414.001-eng.jiangd.20211127.114546-test-keys",
+        "commit": "353429fafec6fcfef0c04046f275fa3027885057",
+        "committed_date": "2021-12-15T22:47:34.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T13:39:38.169Z",
+        "namespace_hint": "qualcomm",
+        "project_hint": "ss80x_64",
+        "project_id": 64,
+        "project_path": "qualcomm/ss80x_64"
+      },
+      "revision": "353429fafec6fcfef0c04046f275fa3027885057",
+      "url": "https://dumps.tadiphone.dev/dumps/qualcomm/ss80x_64/-/tree/353429fafec6fcfef0c04046f275fa3027885057"
+    },
+    {
+      "item_id": "qualcomm/ss80x_64@ss80x_64-user-9-PKQ1.190414.001-eng.jiangd.20211204.160646-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ss80x_64-user-9-PKQ1.190414.001-eng.jiangd.20211204.160646-test-keys",
+        "commit": "fcc280b8c9c463c1e3d950f1ccda8ebb0f9921ab",
+        "committed_date": "2021-12-15T23:00:34.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-14T13:39:38.169Z",
+        "namespace_hint": "qualcomm",
+        "project_hint": "ss80x_64",
+        "project_id": 64,
+        "project_path": "qualcomm/ss80x_64"
+      },
+      "revision": "fcc280b8c9c463c1e3d950f1ccda8ebb0f9921ab",
+      "url": "https://dumps.tadiphone.dev/dumps/qualcomm/ss80x_64/-/tree/fcc280b8c9c463c1e3d950f1ccda8ebb0f9921ab"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

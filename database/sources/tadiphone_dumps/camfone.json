@@ -1,0 +1,111 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "camfone/hero_12@sn15k_64v8_gofu_osea-user-8.1.0-OPM2.171019.012-43517-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sn15k_64v8_gofu_osea-user-8.1.0-OPM2.171019.012-43517-release-keys",
+        "commit": "8d2d5832a83eef0a7ee9154c09abc693352165bc",
+        "committed_date": "2019-11-11T00:39:16.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T23:17:28.480Z",
+        "namespace_hint": "camfone",
+        "project_hint": "hero_12",
+        "project_id": 1383,
+        "project_path": "camfone/hero_12"
+      },
+      "revision": "8d2d5832a83eef0a7ee9154c09abc693352165bc",
+      "url": "https://dumps.tadiphone.dev/dumps/camfone/hero_12/-/tree/8d2d5832a83eef0a7ee9154c09abc693352165bc"
+    },
+    {
+      "item_id": "camfone/hero_13@Hero_13-user-8.1.0-OPM2.171019.012-37112-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Hero_13-user-8.1.0-OPM2.171019.012-37112-release-keys",
+        "commit": "9ca49c586364bceda5e04b0e58b050a26ff10787",
+        "committed_date": "2019-11-11T00:37:29.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T09:27:10.190Z",
+        "namespace_hint": "camfone",
+        "project_hint": "hero_13",
+        "project_id": 1505,
+        "project_path": "camfone/hero_13"
+      },
+      "revision": "9ca49c586364bceda5e04b0e58b050a26ff10787",
+      "url": "https://dumps.tadiphone.dev/dumps/camfone/hero_13/-/tree/9ca49c586364bceda5e04b0e58b050a26ff10787"
+    },
+    {
+      "item_id": "camfone/hero_h5_plus@Hero_H5_Plus-user-8.1.0-O21019-1537320351-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Hero_H5_Plus-user-8.1.0-O21019-1537320351-release-keys",
+        "commit": "0b8fe26fdc8f12219787d6d2578fe4169f47d68a",
+        "committed_date": "2019-11-11T00:41:18.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T07:48:22.449Z",
+        "namespace_hint": "camfone",
+        "project_hint": "hero_h5_plus",
+        "project_id": 1566,
+        "project_path": "camfone/hero_h5_plus"
+      },
+      "revision": "0b8fe26fdc8f12219787d6d2578fe4169f47d68a",
+      "url": "https://dumps.tadiphone.dev/dumps/camfone/hero_h5_plus/-/tree/0b8fe26fdc8f12219787d6d2578fe4169f47d68a"
+    },
+    {
+      "item_id": "camfone/hero_h9@sp9832a_2h11_4mvoltesea_tee-user-7.0-NRD90M-1519743583-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sp9832a_2h11_4mvoltesea_tee-user-7.0-NRD90M-1519743583-release-keys",
+        "commit": "41d3603fe12ef5d70a1d944863513d295b5605cf",
+        "committed_date": "2019-11-11T00:40:13.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T14:32:00.746Z",
+        "namespace_hint": "camfone",
+        "project_hint": "hero_h9",
+        "project_id": 1093,
+        "project_path": "camfone/hero_h9"
+      },
+      "revision": "41d3603fe12ef5d70a1d944863513d295b5605cf",
+      "url": "https://dumps.tadiphone.dev/dumps/camfone/hero_h9/-/tree/41d3603fe12ef5d70a1d944863513d295b5605cf"
+    },
+    {
+      "item_id": "camfone/hero_se2@Hero_SE2-user-8.1.0-OPM2.171019.012-48210-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Hero_SE2-user-8.1.0-OPM2.171019.012-48210-release-keys",
+        "commit": "928764d34527e015b7688bf5956e3ae99d78bfec",
+        "committed_date": "2019-11-11T00:04:21.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T11:10:24.167Z",
+        "namespace_hint": "camfone",
+        "project_hint": "hero_se2",
+        "project_id": 971,
+        "project_path": "camfone/hero_se2"
+      },
+      "revision": "928764d34527e015b7688bf5956e3ae99d78bfec",
+      "url": "https://dumps.tadiphone.dev/dumps/camfone/hero_se2/-/tree/928764d34527e015b7688bf5956e3ae99d78bfec"
+    },
+    {
+      "item_id": "camfone/hero_se3_max@full_k80hd_bsp_fwv_512m-user-8.1.0-O11019-1543458028-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k80hd_bsp_fwv_512m-user-8.1.0-O11019-1543458028-release-keys",
+        "commit": "faddbd5470114ebc37ae2c876cf06392d1d5f180",
+        "committed_date": "2019-11-16T01:38:27.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T14:01:52.706Z",
+        "namespace_hint": "camfone",
+        "project_hint": "hero_se3_max",
+        "project_id": 1067,
+        "project_path": "camfone/hero_se3_max"
+      },
+      "revision": "faddbd5470114ebc37ae2c876cf06392d1d5f180",
+      "url": "https://dumps.tadiphone.dev/dumps/camfone/hero_se3_max/-/tree/faddbd5470114ebc37ae2c876cf06392d1d5f180"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

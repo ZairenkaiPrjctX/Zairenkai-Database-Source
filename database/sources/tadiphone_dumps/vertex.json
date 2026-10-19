@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "vertex/grip@Impress_Grip-user-7.1.2-HW1.R1.V09-22-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Impress_Grip-user-7.1.2-HW1.R1.V09-22-release-keys",
+        "commit": "85c3d7bbec7095ea42a72ded07aac4961ba8da39",
+        "committed_date": "2020-03-14T16:39:51.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T21:16:59.111Z",
+        "namespace_hint": "vertex",
+        "project_hint": "grip",
+        "project_id": 1312,
+        "project_path": "vertex/grip"
+      },
+      "revision": "85c3d7bbec7095ea42a72ded07aac4961ba8da39",
+      "url": "https://dumps.tadiphone.dev/dumps/vertex/grip/-/tree/85c3d7bbec7095ea42a72ded07aac4961ba8da39"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "custom/vega@full_leq6737m_65_a_m0-user-6.0-MRA58K-1516966413-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_leq6737m_65_a_m0-user-6.0-MRA58K-1516966413-release-keys",
+        "commit": "a362a4c42959a69fb7919c12dbf00f6775f5b9bb",
+        "committed_date": "2021-07-01T22:56:47.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T19:44:06.694Z",
+        "namespace_hint": "custom",
+        "project_hint": "vega",
+        "project_id": 2097,
+        "project_path": "custom/vega"
+      },
+      "revision": "a362a4c42959a69fb7919c12dbf00f6775f5b9bb",
+      "url": "https://dumps.tadiphone.dev/dumps/custom/vega/-/tree/a362a4c42959a69fb7919c12dbf00f6775f5b9bb"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

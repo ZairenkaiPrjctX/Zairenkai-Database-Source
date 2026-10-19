@@ -1,0 +1,60 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "sonim/xp8800@XP8812-user-8.1.0-8A.0.5-11-8.1.0-10.54.00-29-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "XP8812-user-8.1.0-8A.0.5-11-8.1.0-10.54.00-29-release-keys",
+        "commit": "4cf9dc4c90dbf45c68e526fc6e0a763470d60097",
+        "committed_date": "2020-04-15T17:22:53.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T10:28:51.020Z",
+        "namespace_hint": "sonim",
+        "project_hint": "xp8800",
+        "project_id": 1717,
+        "project_path": "sonim/xp8800"
+      },
+      "revision": "4cf9dc4c90dbf45c68e526fc6e0a763470d60097",
+      "url": "https://dumps.tadiphone.dev/dumps/sonim/xp8800/-/tree/4cf9dc4c90dbf45c68e526fc6e0a763470d60097"
+    },
+    {
+      "item_id": "sonim/xp8800@XP8812-userdebug-8.1.0-8A.0.5-11-8.1.0-10.54.00-29-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "XP8812-userdebug-8.1.0-8A.0.5-11-8.1.0-10.54.00-29-test-keys",
+        "commit": "a9b8c9f70b1510940688a6c7199c8c9305958c49",
+        "committed_date": "2020-04-15T16:55:20.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T10:28:51.020Z",
+        "namespace_hint": "sonim",
+        "project_hint": "xp8800",
+        "project_id": 1717,
+        "project_path": "sonim/xp8800"
+      },
+      "revision": "a9b8c9f70b1510940688a6c7199c8c9305958c49",
+      "url": "https://dumps.tadiphone.dev/dumps/sonim/xp8800/-/tree/a9b8c9f70b1510940688a6c7199c8c9305958c49"
+    },
+    {
+      "item_id": "sonim/xp9900@qssi-user-13-10.0.0-10-13.0.0-11.12.10-1699269364-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-10.0.0-10-13.0.0-11.12.10-1699269364-release-keys",
+        "commit": "03f4e63f8a39ffe357b6aa884d5a2cb7865dcb92",
+        "committed_date": "2023-11-08T20:02:30.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-11-08T16:59:51.327Z",
+        "namespace_hint": "sonim",
+        "project_hint": "xp9900",
+        "project_id": 4581,
+        "project_path": "sonim/xp9900"
+      },
+      "revision": "03f4e63f8a39ffe357b6aa884d5a2cb7865dcb92",
+      "url": "https://dumps.tadiphone.dev/dumps/sonim/xp9900/-/tree/03f4e63f8a39ffe357b6aa884d5a2cb7865dcb92"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "red/hydrogenone@HydrogenONE-userdebug-9-PKQ1.190118.001-118-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "HydrogenONE-userdebug-9-PKQ1.190118.001-118-release-keys",
+        "commit": "ff5923a737c1cd67b5cccc19f201247204371f7d",
+        "committed_date": "2022-04-08T07:06:00.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-13T22:59:24.778Z",
+        "namespace_hint": "red",
+        "project_hint": "hydrogenone",
+        "project_id": 12,
+        "project_path": "red/hydrogenone"
+      },
+      "revision": "ff5923a737c1cd67b5cccc19f201247204371f7d",
+      "url": "https://dumps.tadiphone.dev/dumps/red/hydrogenone/-/tree/ff5923a737c1cd67b5cccc19f201247204371f7d"
+    },
+    {
+      "item_id": "red/hydrogenone@hamberger_verizon-user-8.1.0-H1A1000.010ho.01.01.01r.109-109-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "hamberger_verizon-user-8.1.0-H1A1000.010ho.01.01.01r.109-109-release-keys",
+        "commit": "9bca68e17d92d7694974dc0fae8256aa1cb2affd",
+        "committed_date": "2019-07-24T19:26:33.000+08:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-13T22:59:24.778Z",
+        "namespace_hint": "red",
+        "project_hint": "hydrogenone",
+        "project_id": 12,
+        "project_path": "red/hydrogenone"
+      },
+      "revision": "9bca68e17d92d7694974dc0fae8256aa1cb2affd",
+      "url": "https://dumps.tadiphone.dev/dumps/red/hydrogenone/-/tree/9bca68e17d92d7694974dc0fae8256aa1cb2affd"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

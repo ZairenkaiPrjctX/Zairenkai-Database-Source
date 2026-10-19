@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "allcall/allcall_s1_x@full_a600w_v1_a_hxgj_ac18e_all_o-user-8.1.0-O11019-1541588879-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_a600w_v1_a_hxgj_ac18e_all_o-user-8.1.0-O11019-1541588879-release-keys",
+        "commit": "0c191cd4e5f010e4e906ae06d44db626ef505668",
+        "committed_date": "2020-02-05T23:21:13.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T09:39:17.008Z",
+        "namespace_hint": "allcall",
+        "project_hint": "allcall_s1_x",
+        "project_id": 881,
+        "project_path": "allcall/allcall_s1_x"
+      },
+      "revision": "0c191cd4e5f010e4e906ae06d44db626ef505668",
+      "url": "https://dumps.tadiphone.dev/dumps/allcall/allcall_s1_x/-/tree/0c191cd4e5f010e4e906ae06d44db626ef505668"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

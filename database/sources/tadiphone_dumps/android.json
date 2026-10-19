@@ -1,0 +1,1227 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "_project/4008",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": "2022-12-26T07:26:52.597Z",
+        "project_id": 4008,
+        "project_path": "android/s10"
+      },
+      "revision": "2022-12-26T07:26:52.597Z",
+      "url": "https://dumps.tadiphone.dev/dumps/android/s10"
+    },
+    {
+      "item_id": "android/aosp_arm64@aosp_arm64-userdebug-10-QP1A.191005.007-5962411-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_arm64-userdebug-10-QP1A.191005.007-5962411-test-keys",
+        "commit": "0b2d31871968fbe6d320b85c078d2b35293c0184",
+        "committed_date": "2019-10-25T08:20:38.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T16:30:56.307Z",
+        "namespace_hint": "android",
+        "project_hint": "aosp_arm64",
+        "project_id": 1180,
+        "project_path": "android/aosp_arm64"
+      },
+      "revision": "0b2d31871968fbe6d320b85c078d2b35293c0184",
+      "url": "https://dumps.tadiphone.dev/dumps/android/aosp_arm64/-/tree/0b2d31871968fbe6d320b85c078d2b35293c0184"
+    },
+    {
+      "item_id": "android/fih_msm8937_32go@fih_msm8937_32go-userdebug-9-PKQ1.180819.001-eng.wzhang.20190923.165558-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "fih_msm8937_32go-userdebug-9-PKQ1.180819.001-eng.wzhang.20190923.165558-test-keys",
+        "commit": "29c5488f1f7f65a82f01fe46cd866e7e7d53e692",
+        "committed_date": "2021-01-27T15:03:08.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T18:23:53.734Z",
+        "namespace_hint": "android",
+        "project_hint": "fih_msm8937_32go",
+        "project_id": 1244,
+        "project_path": "android/fih_msm8937_32go"
+      },
+      "revision": "29c5488f1f7f65a82f01fe46cd866e7e7d53e692",
+      "url": "https://dumps.tadiphone.dev/dumps/android/fih_msm8937_32go/-/tree/29c5488f1f7f65a82f01fe46cd866e7e7d53e692"
+    },
+    {
+      "item_id": "android/generic@Aquos_M66-user-12-SPB3.210618.013-eng.sharp.20210713.091153-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Aquos_M66-user-12-SPB3.210618.013-eng.sharp.20210713.091153-release-keys",
+        "commit": "1d63978b1d5f3fd2689e8bc6ac0ee7530326910a",
+        "committed_date": "2021-08-11T21:29:13.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "1d63978b1d5f3fd2689e8bc6ac0ee7530326910a",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/1d63978b1d5f3fd2689e8bc6ac0ee7530326910a"
+    },
+    {
+      "item_id": "android/generic@Aquos_M66-user-12-SPB4.210715.011-eng.sharp.20210816.084205-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Aquos_M66-user-12-SPB4.210715.011-eng.sharp.20210816.084205-release-keys",
+        "commit": "7a650c812f536c817f302a1c0a7d91601117e668",
+        "committed_date": "2021-08-22T20:58:51.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "7a650c812f536c817f302a1c0a7d91601117e668",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/7a650c812f536c817f302a1c0a7d91601117e668"
+    },
+    {
+      "item_id": "android/generic@Aquos_M66-user-12-SPB5.210812.002-eng.sharp.20210908.142936-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Aquos_M66-user-12-SPB5.210812.002-eng.sharp.20210908.142936-release-keys",
+        "commit": "59556e2d99cc61bdf30108df33aaf84a318a56e4",
+        "committed_date": "2021-09-26T03:52:12.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "59556e2d99cc61bdf30108df33aaf84a318a56e4",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/59556e2d99cc61bdf30108df33aaf84a318a56e4"
+    },
+    {
+      "item_id": "android/generic@Aquos_M66-user-S-SPB2.210513.007-eng.sharp.20210608.131816-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Aquos_M66-user-S-SPB2.210513.007-eng.sharp.20210608.131816-release-keys",
+        "commit": "89cefdab2bfc8611bc7719b257ace90a8e5abc81",
+        "committed_date": "2021-06-18T21:41:38.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "89cefdab2bfc8611bc7719b257ace90a8e5abc81",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/89cefdab2bfc8611bc7719b257ace90a8e5abc81"
+    },
+    {
+      "item_id": "android/generic@Aquos_MC0-user-13-TSB4.220624.005-eng.sharp.20220726.132745-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Aquos_MC0-user-13-TSB4.220624.005-eng.sharp.20220726.132745-release-keys",
+        "commit": "6527e5aa1abbf8c295e7b1bb0b0e8459aaceca46",
+        "committed_date": "2022-08-06T20:41:23.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "6527e5aa1abbf8c295e7b1bb0b0e8459aaceca46",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/6527e5aa1abbf8c295e7b1bb0b0e8459aaceca46"
+    },
+    {
+      "item_id": "android/generic@adt3_gtv-user-13-TRB3.220614.002-8730257-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "adt3_gtv-user-13-TRB3.220614.002-8730257-release-keys",
+        "commit": "737ad3d2a19ef0db2182873de2fb31efd41071a7",
+        "committed_date": "2022-07-10T00:08:59.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "737ad3d2a19ef0db2182873de2fb31efd41071a7",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/737ad3d2a19ef0db2182873de2fb31efd41071a7"
+    },
+    {
+      "item_id": "android/generic@adt3_gtv-user-13-TRB4.220715.005-8857013-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "adt3_gtv-user-13-TRB4.220715.005-8857013-release-keys",
+        "commit": "3b3b89bba72b3ba97425c9b0b95b24da8a4891aa",
+        "committed_date": "2022-09-02T04:36:13.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "3b3b89bba72b3ba97425c9b0b95b24da8a4891aa",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/3b3b89bba72b3ba97425c9b0b95b24da8a4891aa"
+    },
+    {
+      "item_id": "android/generic@adt3_gtv-user-Tiramisu-TRB1.220417.002.F9-8513104-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "adt3_gtv-user-Tiramisu-TRB1.220417.002.F9-8513104-release-keys",
+        "commit": "d441065035fbf2a21c2246c4e41c20fba363ffdc",
+        "committed_date": "2022-05-07T00:16:29.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "d441065035fbf2a21c2246c4e41c20fba363ffdc",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/d441065035fbf2a21c2246c4e41c20fba363ffdc"
+    },
+    {
+      "item_id": "android/generic@aosp_arm64-user-11-RP1A.200720.009-6720564-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_arm64-user-11-RP1A.200720.009-6720564-release-keys",
+        "commit": "fd20ab22b9fef858d6beac9a432e0e95dc429fdb",
+        "committed_date": "2020-09-08T16:58:07.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "fd20ab22b9fef858d6beac9a432e0e95dc429fdb",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/fd20ab22b9fef858d6beac9a432e0e95dc429fdb"
+    },
+    {
+      "item_id": "android/generic@aosp_arm64-user-11-RPB2.200611.009-6625208-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_arm64-user-11-RPB2.200611.009-6625208-release-keys",
+        "commit": "41e9b7c3f7ba20e543903eecf2c0b62660e37567",
+        "committed_date": "2020-07-08T18:07:09.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "41e9b7c3f7ba20e543903eecf2c0b62660e37567",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/41e9b7c3f7ba20e543903eecf2c0b62660e37567"
+    },
+    {
+      "item_id": "android/generic@aosp_arm64-user-12-S2B1.211112.006-7934767-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_arm64-user-12-S2B1.211112.006-7934767-release-keys",
+        "commit": "c3b51ef18b476fe4166d652259bf9c8f028f8043",
+        "committed_date": "2021-12-08T21:10:39.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "c3b51ef18b476fe4166d652259bf9c8f028f8043",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/c3b51ef18b476fe4166d652259bf9c8f028f8043"
+    },
+    {
+      "item_id": "android/generic@aosp_arm64-user-12-S2B2.211203.006-8015633-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_arm64-user-12-S2B2.211203.006-8015633-release-keys",
+        "commit": "d4d60015830a4d1970f1673f79fa920b4ec4677c",
+        "committed_date": "2022-01-12T22:04:02.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "d4d60015830a4d1970f1673f79fa920b4ec4677c",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/d4d60015830a4d1970f1673f79fa920b4ec4677c"
+    },
+    {
+      "item_id": "android/generic@aosp_arm64-user-12-S3B1.220218.004-8242181-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_arm64-user-12-S3B1.220218.004-8242181-release-keys",
+        "commit": "a151b094b934afe7642d93ec145c282279a45e5b",
+        "committed_date": "2022-03-09T22:56:21.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "a151b094b934afe7642d93ec145c282279a45e5b",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/a151b094b934afe7642d93ec145c282279a45e5b"
+    },
+    {
+      "item_id": "android/generic@aosp_arm64-user-12-S3B1.220318.003-8372304-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_arm64-user-12-S3B1.220318.003-8372304-release-keys",
+        "commit": "2a063f1ee4d6a4acc1065bc078e9318e35a1ac4a",
+        "committed_date": "2022-04-07T20:57:54.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "2a063f1ee4d6a4acc1065bc078e9318e35a1ac4a",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/2a063f1ee4d6a4acc1065bc078e9318e35a1ac4a"
+    },
+    {
+      "item_id": "android/generic@aosp_arm64-user-12-SPB3.210618.013-7533405-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_arm64-user-12-SPB3.210618.013-7533405-release-keys",
+        "commit": "d4f2f65918a70acaa9d5b2354bfa41b74c789042",
+        "committed_date": "2021-07-16T01:30:40.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "d4f2f65918a70acaa9d5b2354bfa41b74c789042",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/d4f2f65918a70acaa9d5b2354bfa41b74c789042"
+    },
+    {
+      "item_id": "android/generic@aosp_arm64-user-12-SPB4.210715.012-7615752-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_arm64-user-12-SPB4.210715.012-7615752-release-keys",
+        "commit": "bf958d0c32658a4a871e29d9df339cacb8886e66",
+        "committed_date": "2021-08-11T21:09:32.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "bf958d0c32658a4a871e29d9df339cacb8886e66",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/bf958d0c32658a4a871e29d9df339cacb8886e66"
+    },
+    {
+      "item_id": "android/generic@aosp_arm64-user-12-SPB4.210715.014-7654839-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_arm64-user-12-SPB4.210715.014-7654839-release-keys",
+        "commit": "8ed910e81230aafc05966f291dbbad2dced7d60b",
+        "committed_date": "2021-08-25T20:14:59.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "8ed910e81230aafc05966f291dbbad2dced7d60b",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/8ed910e81230aafc05966f291dbbad2dced7d60b"
+    },
+    {
+      "item_id": "android/generic@aosp_arm64-user-12-SQ3A.220705.003.A1-8672226-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_arm64-user-12-SQ3A.220705.003.A1-8672226-release-keys",
+        "commit": "c4b2821122123fc92b9aa65dfe7b1ed3d6c17b4f",
+        "committed_date": "2022-08-04T23:39:53.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "c4b2821122123fc92b9aa65dfe7b1ed3d6c17b4f",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/c4b2821122123fc92b9aa65dfe7b1ed3d6c17b4f"
+    },
+    {
+      "item_id": "android/generic@aosp_arm64-user-13-TP1A.220624.014-8819323-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_arm64-user-13-TP1A.220624.014-8819323-release-keys",
+        "commit": "eb1971e1df6bc3db3f7bab3d4f60f1e5108187c8",
+        "committed_date": "2022-08-18T03:28:05.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "eb1971e1df6bc3db3f7bab3d4f60f1e5108187c8",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/eb1971e1df6bc3db3f7bab3d4f60f1e5108187c8"
+    },
+    {
+      "item_id": "android/generic@aosp_arm64-user-R-RPP4.200409.015-6455311-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_arm64-user-R-RPP4.200409.015-6455311-test-keys",
+        "commit": "f71bd9520553f9bd6c99d417f740bb934af6100f",
+        "committed_date": "2020-05-08T14:31:07.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "f71bd9520553f9bd6c99d417f740bb934af6100f",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/f71bd9520553f9bd6c99d417f740bb934af6100f"
+    },
+    {
+      "item_id": "android/generic@aosp_arm64-user-S-SPB1.210331.013-7333779-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_arm64-user-S-SPB1.210331.013-7333779-release-keys",
+        "commit": "ff40a8a87907d56b5140bec9229d120fde5d4d31",
+        "committed_date": "2021-05-18T17:22:14.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "ff40a8a87907d56b5140bec9229d120fde5d4d31",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/ff40a8a87907d56b5140bec9229d120fde5d4d31"
+    },
+    {
+      "item_id": "android/generic@aosp_arm64-user-S-SPB2.210513.007-7398525-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_arm64-user-S-SPB2.210513.007-7398525-release-keys",
+        "commit": "688c14c0de4ac05a25153ecf5d07fc2a5b67ce21",
+        "committed_date": "2021-06-09T20:56:09.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "688c14c0de4ac05a25153ecf5d07fc2a5b67ce21",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/688c14c0de4ac05a25153ecf5d07fc2a5b67ce21"
+    },
+    {
+      "item_id": "android/generic@aosp_arm64-user-UpsideDownCake-UPB1.230309.014-9890577-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_arm64-user-UpsideDownCake-UPB1.230309.014-9890577-release-keys",
+        "commit": "d399998c8bd58ca653740edae51e2139977e97a0",
+        "committed_date": "2023-04-14T09:54:20.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "d399998c8bd58ca653740edae51e2139977e97a0",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/d399998c8bd58ca653740edae51e2139977e97a0"
+    },
+    {
+      "item_id": "android/generic@aosp_arm64-userdebug-12-SPM1.220819.016-9326529-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_arm64-userdebug-12-SPM1.220819.016-9326529-test-keys",
+        "commit": "20a33005d88988c5b4ef774e09a1bf4fcf3db691",
+        "committed_date": "2022-12-01T02:11:15.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "20a33005d88988c5b4ef774e09a1bf4fcf3db691",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/20a33005d88988c5b4ef774e09a1bf4fcf3db691"
+    },
+    {
+      "item_id": "android/generic@aosp_arm64-userdebug-13-TP1A.220624.019-9323067-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_arm64-userdebug-13-TP1A.220624.019-9323067-test-keys",
+        "commit": "a92d96680a5342579214669900985b2e5e5e31e2",
+        "committed_date": "2022-12-01T02:06:19.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "a92d96680a5342579214669900985b2e5e5e31e2",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/a92d96680a5342579214669900985b2e5e5e31e2"
+    },
+    {
+      "item_id": "android/generic@aosp_x86_64-user-11-RP1A.200720.009-6720564-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_x86_64-user-11-RP1A.200720.009-6720564-release-keys",
+        "commit": "61d0699dd87d9d5b51ae6cc9eb9a2b9620fe552d",
+        "committed_date": "2020-09-08T17:01:28.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "61d0699dd87d9d5b51ae6cc9eb9a2b9620fe552d",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/61d0699dd87d9d5b51ae6cc9eb9a2b9620fe552d"
+    },
+    {
+      "item_id": "android/generic@aosp_x86_64-user-11-RPB2.200611.009-6625208-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_x86_64-user-11-RPB2.200611.009-6625208-release-keys",
+        "commit": "9f459be26dc05692c7411186b91e0ccb4451a59c",
+        "committed_date": "2020-07-08T18:08:04.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "9f459be26dc05692c7411186b91e0ccb4451a59c",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/9f459be26dc05692c7411186b91e0ccb4451a59c"
+    },
+    {
+      "item_id": "android/generic@aosp_x86_64-user-12-S2B1.211112.006-7934767-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_x86_64-user-12-S2B1.211112.006-7934767-release-keys",
+        "commit": "cf39a74e21063e2fd658af1c282c27c2e6513c71",
+        "committed_date": "2021-12-08T21:29:43.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "cf39a74e21063e2fd658af1c282c27c2e6513c71",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/cf39a74e21063e2fd658af1c282c27c2e6513c71"
+    },
+    {
+      "item_id": "android/generic@aosp_x86_64-user-12-S2B2.211203.006-8015633-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_x86_64-user-12-S2B2.211203.006-8015633-release-keys",
+        "commit": "75903ff9f252fabaf6334e2a9547fb4485bf9768",
+        "committed_date": "2022-01-12T22:08:26.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "75903ff9f252fabaf6334e2a9547fb4485bf9768",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/75903ff9f252fabaf6334e2a9547fb4485bf9768"
+    },
+    {
+      "item_id": "android/generic@aosp_x86_64-user-12-S3B1.220218.004-8242181-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_x86_64-user-12-S3B1.220218.004-8242181-release-keys",
+        "commit": "33af682eaf68a3b992dc639c568825d1cff8ca87",
+        "committed_date": "2022-03-09T23:01:04.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "33af682eaf68a3b992dc639c568825d1cff8ca87",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/33af682eaf68a3b992dc639c568825d1cff8ca87"
+    },
+    {
+      "item_id": "android/generic@aosp_x86_64-user-12-S3B1.220318.003-8372304-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_x86_64-user-12-S3B1.220318.003-8372304-release-keys",
+        "commit": "e7b7ff8746a5926923f4e31a14b1ac3cd6bbe941",
+        "committed_date": "2022-04-07T21:10:04.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "e7b7ff8746a5926923f4e31a14b1ac3cd6bbe941",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/e7b7ff8746a5926923f4e31a14b1ac3cd6bbe941"
+    },
+    {
+      "item_id": "android/generic@aosp_x86_64-user-12-SPB3.210618.013-7533405-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_x86_64-user-12-SPB3.210618.013-7533405-release-keys",
+        "commit": "f0f65104d39dd51a56679ab6a913807ee4dc1253",
+        "committed_date": "2021-07-16T01:37:07.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "f0f65104d39dd51a56679ab6a913807ee4dc1253",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/f0f65104d39dd51a56679ab6a913807ee4dc1253"
+    },
+    {
+      "item_id": "android/generic@aosp_x86_64-user-12-SPB4.210715.012-7615752-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_x86_64-user-12-SPB4.210715.012-7615752-release-keys",
+        "commit": "edd02e07394c75c6255d681d195e63839a324153",
+        "committed_date": "2021-08-11T21:20:26.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "edd02e07394c75c6255d681d195e63839a324153",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/edd02e07394c75c6255d681d195e63839a324153"
+    },
+    {
+      "item_id": "android/generic@aosp_x86_64-user-12-SPB4.210715.014-7654839-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_x86_64-user-12-SPB4.210715.014-7654839-release-keys",
+        "commit": "f0608f365ed5d78800c7d607799048e4e5bd3dc2",
+        "committed_date": "2021-08-25T20:25:46.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "f0608f365ed5d78800c7d607799048e4e5bd3dc2",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/f0608f365ed5d78800c7d607799048e4e5bd3dc2"
+    },
+    {
+      "item_id": "android/generic@aosp_x86_64-user-12-SQ3A.220705.003.A1-8672226-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_x86_64-user-12-SQ3A.220705.003.A1-8672226-release-keys",
+        "commit": "b6a6aaffb71075a13362eabe468d525f6eaf2c04",
+        "committed_date": "2022-08-04T23:58:39.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "b6a6aaffb71075a13362eabe468d525f6eaf2c04",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/b6a6aaffb71075a13362eabe468d525f6eaf2c04"
+    },
+    {
+      "item_id": "android/generic@aosp_x86_64-user-13-TP1A.220624.014-8819323-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_x86_64-user-13-TP1A.220624.014-8819323-release-keys",
+        "commit": "48f944b1138969de25d8feeb4616242710e0bd9d",
+        "committed_date": "2022-08-18T03:41:18.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "48f944b1138969de25d8feeb4616242710e0bd9d",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/48f944b1138969de25d8feeb4616242710e0bd9d"
+    },
+    {
+      "item_id": "android/generic@ssi_sdk_x86_64_sdk-user-11-surface-emulator-sdk-x86_64-user-2022.110.10-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ssi_sdk_x86_64_sdk-user-11-surface-emulator-sdk-x86_64-user-2022.110.10-test-keys",
+        "commit": "bdb552c569a6a0625da34755df21c7b6749005b8",
+        "committed_date": "2022-05-24T12:05:13.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "bdb552c569a6a0625da34755df21c7b6749005b8",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/bdb552c569a6a0625da34755df21c7b6749005b8"
+    },
+    {
+      "item_id": "android/generic@windows_arm64-user-12-SP2A.220405.004-2204.40000.15.0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "windows_arm64-user-12-SP2A.220405.004-2204.40000.15.0-release-keys",
+        "commit": "97371b8ccf37f24f081af9885d69f4a86e7a90bd",
+        "committed_date": "2022-05-20T23:07:28.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "97371b8ccf37f24f081af9885d69f4a86e7a90bd",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/97371b8ccf37f24f081af9885d69f4a86e7a90bd"
+    },
+    {
+      "item_id": "android/generic@windows_x86_64-user-12-SP2A.220405.004-2204.40000.15.0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "windows_x86_64-user-12-SP2A.220405.004-2204.40000.15.0-release-keys",
+        "commit": "a30fb6edf44b07317577d67db248de54e95153e7",
+        "committed_date": "2022-05-20T23:10:47.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T06:57:48.012Z",
+        "namespace_hint": "android",
+        "project_hint": "generic",
+        "project_id": 834,
+        "project_path": "android/generic"
+      },
+      "revision": "a30fb6edf44b07317577d67db248de54e95153e7",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic/-/tree/a30fb6edf44b07317577d67db248de54e95153e7"
+    },
+    {
+      "item_id": "android/generic_arm64@aosp_arm64-eng-R-PI-5743775-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_arm64-eng-R-PI-5743775-test-keys",
+        "commit": "836672f5ba9c79d502f321c00a2451c3c8d28921",
+        "committed_date": "2019-07-21T12:42:00.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T07:15:41.010Z",
+        "namespace_hint": "android",
+        "project_hint": "generic_arm64",
+        "project_id": 923,
+        "project_path": "android/generic_arm64"
+      },
+      "revision": "836672f5ba9c79d502f321c00a2451c3c8d28921",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic_arm64/-/tree/836672f5ba9c79d502f321c00a2451c3c8d28921"
+    },
+    {
+      "item_id": "android/generic_arm64@aosp_arm64-eng-R-PI-5787345-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_arm64-eng-R-PI-5787345-test-keys",
+        "commit": "b5bade48499e1a2680c41d2c594bfe522837b9f2",
+        "committed_date": "2019-08-07T23:01:47.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T07:15:41.010Z",
+        "namespace_hint": "android",
+        "project_hint": "generic_arm64",
+        "project_id": 923,
+        "project_path": "android/generic_arm64"
+      },
+      "revision": "b5bade48499e1a2680c41d2c594bfe522837b9f2",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic_arm64/-/tree/b5bade48499e1a2680c41d2c594bfe522837b9f2"
+    },
+    {
+      "item_id": "android/generic_arm64@aosp_arm64-eng-R-QT-5872561-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_arm64-eng-R-QT-5872561-test-keys",
+        "commit": "4aa2a5498024be15a61404bd1a5fc4c07e786e78",
+        "committed_date": "2019-09-13T01:05:08.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T07:15:41.010Z",
+        "namespace_hint": "android",
+        "project_hint": "generic_arm64",
+        "project_id": 923,
+        "project_path": "android/generic_arm64"
+      },
+      "revision": "4aa2a5498024be15a61404bd1a5fc4c07e786e78",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic_arm64/-/tree/4aa2a5498024be15a61404bd1a5fc4c07e786e78"
+    },
+    {
+      "item_id": "android/generic_arm64@aosp_arm64-eng-R-QT-5884950-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_arm64-eng-R-QT-5884950-test-keys",
+        "commit": "d949e488b9a8d791991c13cacc3a945dc1d7e896",
+        "committed_date": "2019-09-19T01:11:51.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T07:15:41.010Z",
+        "namespace_hint": "android",
+        "project_hint": "generic_arm64",
+        "project_id": 923,
+        "project_path": "android/generic_arm64"
+      },
+      "revision": "d949e488b9a8d791991c13cacc3a945dc1d7e896",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic_arm64/-/tree/d949e488b9a8d791991c13cacc3a945dc1d7e896"
+    },
+    {
+      "item_id": "android/generic_arm64@aosp_arm64-userdebug-9-PPRL.190801.002-5844143-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_arm64-userdebug-9-PPRL.190801.002-5844143-test-keys",
+        "commit": "d2c2bcafbedec50ec432bc1e65ff653e269689bb",
+        "committed_date": "2019-09-01T01:32:48.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T07:15:41.010Z",
+        "namespace_hint": "android",
+        "project_hint": "generic_arm64",
+        "project_id": 923,
+        "project_path": "android/generic_arm64"
+      },
+      "revision": "d2c2bcafbedec50ec432bc1e65ff653e269689bb",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic_arm64/-/tree/d2c2bcafbedec50ec432bc1e65ff653e269689bb"
+    },
+    {
+      "item_id": "android/generic_arm64_ab@aosp_arm64_ab-user-10-QP1A.190711.020-5800535-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_arm64_ab-user-10-QP1A.190711.020-5800535-release-keys",
+        "commit": "7262737817d4a1faf7c791540c6343437551534f",
+        "committed_date": "2019-09-03T17:32:22.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T13:26:59.546Z",
+        "namespace_hint": "android",
+        "project_hint": "generic_arm64_ab",
+        "project_id": 1033,
+        "project_path": "android/generic_arm64_ab"
+      },
+      "revision": "7262737817d4a1faf7c791540c6343437551534f",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic_arm64_ab/-/tree/7262737817d4a1faf7c791540c6343437551534f"
+    },
+    {
+      "item_id": "android/generic_arm64_ab@aosp_arm64_ab-user-10-QPP5.190530.015-5696442-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_arm64_ab-user-10-QPP5.190530.015-5696442-release-keys",
+        "commit": "fc01441a429eb150c6bff706ca47698c4075d129",
+        "committed_date": "2019-07-10T22:31:29.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T13:26:59.546Z",
+        "namespace_hint": "android",
+        "project_hint": "generic_arm64_ab",
+        "project_id": 1033,
+        "project_path": "android/generic_arm64_ab"
+      },
+      "revision": "fc01441a429eb150c6bff706ca47698c4075d129",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic_arm64_ab/-/tree/fc01441a429eb150c6bff706ca47698c4075d129"
+    },
+    {
+      "item_id": "android/generic_arm64_ab@aosp_arm64_ab-user-10-QPP6.190730.005-5773495-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_arm64_ab-user-10-QPP6.190730.005-5773495-release-keys",
+        "commit": "e34916bc78d7de3101e4c096b887c3ef1ccd8f5c",
+        "committed_date": "2019-08-07T17:36:32.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T13:26:59.546Z",
+        "namespace_hint": "android",
+        "project_hint": "generic_arm64_ab",
+        "project_id": 1033,
+        "project_path": "android/generic_arm64_ab"
+      },
+      "revision": "e34916bc78d7de3101e4c096b887c3ef1ccd8f5c",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic_arm64_ab/-/tree/e34916bc78d7de3101e4c096b887c3ef1ccd8f5c"
+    },
+    {
+      "item_id": "android/generic_riscv64@aosp_riscv64-userdebug-UpsideDownCake-AOSP.MASTER-9354155-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_riscv64-userdebug-UpsideDownCake-AOSP.MASTER-9354155-test-keys",
+        "commit": "821cb6bc0f2dc0140ced49dbce3e87779ff7cfe9",
+        "committed_date": "2022-12-01T02:00:21.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-11-30T23:00:16.431Z",
+        "namespace_hint": "android",
+        "project_hint": "generic_riscv64",
+        "project_id": 3968,
+        "project_path": "android/generic_riscv64"
+      },
+      "revision": "821cb6bc0f2dc0140ced49dbce3e87779ff7cfe9",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic_riscv64/-/tree/821cb6bc0f2dc0140ced49dbce3e87779ff7cfe9"
+    },
+    {
+      "item_id": "android/generic_x86_64@aosp_x86_64-user-10-QP1A.190711.020-5800535-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_x86_64-user-10-QP1A.190711.020-5800535-release-keys",
+        "commit": "797f270e5ad1c0d98de084855c79fd2eef00ad2e",
+        "committed_date": "2019-09-03T17:52:01.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T19:35:42.598Z",
+        "namespace_hint": "android",
+        "project_hint": "generic_x86_64",
+        "project_id": 771,
+        "project_path": "android/generic_x86_64"
+      },
+      "revision": "797f270e5ad1c0d98de084855c79fd2eef00ad2e",
+      "url": "https://dumps.tadiphone.dev/dumps/android/generic_x86_64/-/tree/797f270e5ad1c0d98de084855c79fd2eef00ad2e"
+    },
+    {
+      "item_id": "android/glass_v3@glass_v3-user-8.1.0-OPM1.191020.001-42-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "glass_v3-user-8.1.0-OPM1.191020.001-42-release-keys",
+        "commit": "f46ce38b5d7be71bfad0f7387066b9decd7b2351",
+        "committed_date": "2024-08-17T04:32:01.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-08-17T01:31:10.313Z",
+        "namespace_hint": "android",
+        "project_hint": "glass_v3",
+        "project_id": 5384,
+        "project_path": "android/glass_v3"
+      },
+      "revision": "f46ce38b5d7be71bfad0f7387066b9decd7b2351",
+      "url": "https://dumps.tadiphone.dev/dumps/android/glass_v3/-/tree/f46ce38b5d7be71bfad0f7387066b9decd7b2351"
+    },
+    {
+      "item_id": "android/glass_v3@glass_v3-user-8.1.0-OPM1.200313.001-eng.jbolin.20200314.035609-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "glass_v3-user-8.1.0-OPM1.200313.001-eng.jbolin.20200314.035609-release-keys",
+        "commit": "e77b7660b55813c17c4d14bc4e12ee3ead816aa2",
+        "committed_date": "2024-08-17T04:37:38.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-08-17T01:31:10.313Z",
+        "namespace_hint": "android",
+        "project_hint": "glass_v3",
+        "project_id": 5384,
+        "project_path": "android/glass_v3"
+      },
+      "revision": "e77b7660b55813c17c4d14bc4e12ee3ead816aa2",
+      "url": "https://dumps.tadiphone.dev/dumps/android/glass_v3/-/tree/e77b7660b55813c17c4d14bc4e12ee3ead816aa2"
+    },
+    {
+      "item_id": "android/hs8916qc@T88QM-user-5.1.1-LMY47V-2.01.01-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "T88QM-user-5.1.1-LMY47V-2.01.01-release-keys",
+        "commit": "5ece19b587ceb1c1b226df4051ae86cf96ba377c",
+        "committed_date": "2024-10-18T14:09:02.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-18T11:08:26.970Z",
+        "namespace_hint": "android",
+        "project_hint": "hs8916qc",
+        "project_id": 5461,
+        "project_path": "android/hs8916qc"
+      },
+      "revision": "5ece19b587ceb1c1b226df4051ae86cf96ba377c",
+      "url": "https://dumps.tadiphone.dev/dumps/android/hs8916qc/-/tree/5ece19b587ceb1c1b226df4051ae86cf96ba377c"
+    },
+    {
+      "item_id": "android/maestro7872@M11-user-7.0-NRD90M-eng.FiiO.20190919.135404-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "M11-user-7.0-NRD90M-eng.FiiO.20190919.135404-test-keys",
+        "commit": "1ae248ed9a310302381370a2bbd64f13a1bb2e39",
+        "committed_date": "2019-11-08T12:03:51.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T23:12:16.339Z",
+        "namespace_hint": "android",
+        "project_hint": "maestro7872",
+        "project_id": 808,
+        "project_path": "android/maestro7872"
+      },
+      "revision": "1ae248ed9a310302381370a2bbd64f13a1bb2e39",
+      "url": "https://dumps.tadiphone.dev/dumps/android/maestro7872/-/tree/1ae248ed9a310302381370a2bbd64f13a1bb2e39"
+    },
+    {
+      "item_id": "android/maestro7872@M11-user-7.0-NRD90M-eng.FiiO.20200326.191849-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "M11-user-7.0-NRD90M-eng.FiiO.20200326.191849-test-keys",
+        "commit": "e7a3264fdc574b373c31d4a63924e35389e22652",
+        "committed_date": "2020-08-02T18:38:09.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-14T23:12:16.339Z",
+        "namespace_hint": "android",
+        "project_hint": "maestro7872",
+        "project_id": 808,
+        "project_path": "android/maestro7872"
+      },
+      "revision": "e7a3264fdc574b373c31d4a63924e35389e22652",
+      "url": "https://dumps.tadiphone.dev/dumps/android/maestro7872/-/tree/e7a3264fdc574b373c31d4a63924e35389e22652"
+    },
+    {
+      "item_id": "android/maestro7872@M11PRO-user-7.0-NRD90M-eng.FiiO.20191212.124031-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "M11PRO-user-7.0-NRD90M-eng.FiiO.20191212.124031-test-keys",
+        "commit": "2bc2bf3c6d2871b81a1b6e235cf2b81d0841722a",
+        "committed_date": "2020-08-02T18:38:04.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-14T23:12:16.339Z",
+        "namespace_hint": "android",
+        "project_hint": "maestro7872",
+        "project_id": 808,
+        "project_path": "android/maestro7872"
+      },
+      "revision": "2bc2bf3c6d2871b81a1b6e235cf2b81d0841722a",
+      "url": "https://dumps.tadiphone.dev/dumps/android/maestro7872/-/tree/2bc2bf3c6d2871b81a1b6e235cf2b81d0841722a"
+    },
+    {
+      "item_id": "android/maestro7872@M15-user-7.0-NRD90M-eng.FiiO.20200326.164050-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "M15-user-7.0-NRD90M-eng.FiiO.20200326.164050-test-keys",
+        "commit": "3173e4792ed30894000472ee896f91f5483be2ee",
+        "committed_date": "2020-08-02T18:26:10.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-14T23:12:16.339Z",
+        "namespace_hint": "android",
+        "project_hint": "maestro7872",
+        "project_id": 808,
+        "project_path": "android/maestro7872"
+      },
+      "revision": "3173e4792ed30894000472ee896f91f5483be2ee",
+      "url": "https://dumps.tadiphone.dev/dumps/android/maestro7872/-/tree/3173e4792ed30894000472ee896f91f5483be2ee"
+    },
+    {
+      "item_id": "android/marlin@aosp_marlin-userdebug-R-QT-5880802-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_marlin-userdebug-R-QT-5880802-test-keys",
+        "commit": "6f6280d6d2579741eed6c83d42d9df8c00f73459",
+        "committed_date": "2019-09-22T02:42:06.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T19:31:30.945Z",
+        "namespace_hint": "android",
+        "project_hint": "marlin",
+        "project_id": 768,
+        "project_path": "android/marlin"
+      },
+      "revision": "6f6280d6d2579741eed6c83d42d9df8c00f73459",
+      "url": "https://dumps.tadiphone.dev/dumps/android/marlin/-/tree/6f6280d6d2579741eed6c83d42d9df8c00f73459"
+    },
+    {
+      "item_id": "android/msm8953_64@VR4501F_S100103_180116",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "VR4501F_S100103_180116",
+        "commit": "d6b044e3eae34648c206b416f0f758bd1eb845f4",
+        "committed_date": "2022-07-11T00:27:34.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-07-10T21:29:29.869Z",
+        "namespace_hint": "android",
+        "project_hint": "msm8953_64",
+        "project_id": 849,
+        "project_path": "android/msm8953_64"
+      },
+      "revision": "d6b044e3eae34648c206b416f0f758bd1eb845f4",
+      "url": "https://dumps.tadiphone.dev/dumps/android/msm8953_64/-/tree/d6b044e3eae34648c206b416f0f758bd1eb845f4"
+    },
+    {
+      "item_id": "android/msm8953_64@msm8953_64-userdebug-8.1.0-OPM1.171019.011-342-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8953_64-userdebug-8.1.0-OPM1.171019.011-342-test-keys",
+        "commit": "379eccaa6d24cdf79459227301c05d60b5292865",
+        "committed_date": "2020-06-30T05:49:11.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-07-10T21:29:29.869Z",
+        "namespace_hint": "android",
+        "project_hint": "msm8953_64",
+        "project_id": 849,
+        "project_path": "android/msm8953_64"
+      },
+      "revision": "379eccaa6d24cdf79459227301c05d60b5292865",
+      "url": "https://dumps.tadiphone.dev/dumps/android/msm8953_64/-/tree/379eccaa6d24cdf79459227301c05d60b5292865"
+    },
+    {
+      "item_id": "android/msm8994@msm8994-eng-5.1-LMY47I-eng.jslave.20151031.030858-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8994-eng-5.1-LMY47I-eng.jslave.20151031.030858-test-keys",
+        "commit": "049919d2445c867fd11b5c0608eb13d29828332e",
+        "committed_date": "2022-05-10T20:34:19.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T07:15:19.879Z",
+        "namespace_hint": "android",
+        "project_hint": "msm8994",
+        "project_id": 922,
+        "project_path": "android/msm8994"
+      },
+      "revision": "049919d2445c867fd11b5c0608eb13d29828332e",
+      "url": "https://dumps.tadiphone.dev/dumps/android/msm8994/-/tree/049919d2445c867fd11b5c0608eb13d29828332e"
+    },
+    {
+      "item_id": "android/nanopc-t4@nanopc_t4-userdebug-8.1.0-OPM8.190605.005-172524-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "nanopc_t4-userdebug-8.1.0-OPM8.190605.005-172524-test-keys",
+        "commit": "856a0d688a323c02b6d3bb7938c6437988743f24",
+        "committed_date": "2026-01-08T10:52:02.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-01-08T07:51:14.856Z",
+        "namespace_hint": "android",
+        "project_hint": "nanopc-t4",
+        "project_id": 5732,
+        "project_path": "android/nanopc-t4"
+      },
+      "revision": "856a0d688a323c02b6d3bb7938c6437988743f24",
+      "url": "https://dumps.tadiphone.dev/dumps/android/nanopc-t4/-/tree/856a0d688a323c02b6d3bb7938c6437988743f24"
+    },
+    {
+      "item_id": "android/phhgsi_arm64_ab@treble_arm64_bvN-userdebug-9-PQ3A.190801.002-eng.crossg.20191017.122410-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "treble_arm64_bvN-userdebug-9-PQ3A.190801.002-eng.crossg.20191017.122410-test-keys",
+        "commit": "becd52e99915c2342fe38a2f062e205cdf77c57d",
+        "committed_date": "2022-11-20T10:02:41.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-11-20T07:01:47.779Z",
+        "namespace_hint": "android",
+        "project_hint": "phhgsi_arm64_ab",
+        "project_id": 3952,
+        "project_path": "android/phhgsi_arm64_ab"
+      },
+      "revision": "becd52e99915c2342fe38a2f062e205cdf77c57d",
+      "url": "https://dumps.tadiphone.dev/dumps/android/phhgsi_arm64_ab/-/tree/becd52e99915c2342fe38a2f062e205cdf77c57d"
+    },
+    {
+      "item_id": "android/sdm845@sdm845-userdebug-8.0.0-OPR1.170623.032-eng.zzhiyu.20171228.195324-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm845-userdebug-8.0.0-OPR1.170623.032-eng.zzhiyu.20171228.195324-test-keys",
+        "commit": "cdbfe80454cfbefe1f4a410a1d56eae26593a3e3",
+        "committed_date": "2021-01-18T08:56:22.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T13:59:05.662Z",
+        "namespace_hint": "android",
+        "project_hint": "sdm845",
+        "project_id": 1062,
+        "project_path": "android/sdm845"
+      },
+      "revision": "cdbfe80454cfbefe1f4a410a1d56eae26593a3e3",
+      "url": "https://dumps.tadiphone.dev/dumps/android/sdm845/-/tree/cdbfe80454cfbefe1f4a410a1d56eae26593a3e3"
+    },
+    {
+      "item_id": "android/smdk7270@m6-user-7.0-NRD90M-eng.FiiO.20200519.165027-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "m6-user-7.0-NRD90M-eng.FiiO.20200519.165027-test-keys",
+        "commit": "97c528eb61705ca59439967921175702c10fbc20",
+        "committed_date": "2020-08-02T18:39:04.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T11:26:17.943Z",
+        "namespace_hint": "android",
+        "project_hint": "smdk7270",
+        "project_id": 986,
+        "project_path": "android/smdk7270"
+      },
+      "revision": "97c528eb61705ca59439967921175702c10fbc20",
+      "url": "https://dumps.tadiphone.dev/dumps/android/smdk7270/-/tree/97c528eb61705ca59439967921175702c10fbc20"
+    },
+    {
+      "item_id": "android/smdk7270@m7-user-7.0-NRD90M-eng.FiiO.20200519.172418-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "m7-user-7.0-NRD90M-eng.FiiO.20200519.172418-test-keys",
+        "commit": "6a06b5f6106dcfc3c06483e5a73843e63b01e5c9",
+        "committed_date": "2020-08-02T18:38:33.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T11:26:17.943Z",
+        "namespace_hint": "android",
+        "project_hint": "smdk7270",
+        "project_id": 986,
+        "project_path": "android/smdk7270"
+      },
+      "revision": "6a06b5f6106dcfc3c06483e5a73843e63b01e5c9",
+      "url": "https://dumps.tadiphone.dev/dumps/android/smdk7270/-/tree/6a06b5f6106dcfc3c06483e5a73843e63b01e5c9"
+    },
+    {
+      "item_id": "android/smdk7270@m9-user-7.0-NRD90M-eng.FiiO.20200519.180418-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "m9-user-7.0-NRD90M-eng.FiiO.20200519.180418-test-keys",
+        "commit": "7517b927dd4ab65104b2d2a9cc12fd853d7a0d88",
+        "committed_date": "2020-08-02T18:38:19.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T11:26:17.943Z",
+        "namespace_hint": "android",
+        "project_hint": "smdk7270",
+        "project_id": 986,
+        "project_path": "android/smdk7270"
+      },
+      "revision": "7517b927dd4ab65104b2d2a9cc12fd853d7a0d88",
+      "url": "https://dumps.tadiphone.dev/dumps/android/smdk7270/-/tree/7517b927dd4ab65104b2d2a9cc12fd853d7a0d88"
+    },
+    {
+      "item_id": "android/taimen@aosp_taimen-eng-R-PI-5720205-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_taimen-eng-R-PI-5720205-test-keys",
+        "commit": "aee37f68fbd99f8994fe9ec32a0deeebae14ef08",
+        "committed_date": "2019-07-11T14:41:33.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T20:53:48.214Z",
+        "namespace_hint": "android",
+        "project_hint": "taimen",
+        "project_id": 1296,
+        "project_path": "android/taimen"
+      },
+      "revision": "aee37f68fbd99f8994fe9ec32a0deeebae14ef08",
+      "url": "https://dumps.tadiphone.dev/dumps/android/taimen/-/tree/aee37f68fbd99f8994fe9ec32a0deeebae14ef08"
+    },
+    {
+      "item_id": "android/taimen@aosp_taimen-userdebug-8.0.1-OPD1.170709.001-794-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_taimen-userdebug-8.0.1-OPD1.170709.001-794-test-keys",
+        "commit": "be106e26e1e531d3a7c629c1654a189c55ad48d7",
+        "committed_date": "2020-06-15T03:56:08.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T20:53:48.214Z",
+        "namespace_hint": "android",
+        "project_hint": "taimen",
+        "project_id": 1296,
+        "project_path": "android/taimen"
+      },
+      "revision": "be106e26e1e531d3a7c629c1654a189c55ad48d7",
+      "url": "https://dumps.tadiphone.dev/dumps/android/taimen/-/tree/be106e26e1e531d3a7c629c1654a189c55ad48d7"
+    },
+    {
+      "item_id": "android/uapro_g3@uapro_g3-user-9-PKQ1.181021.001-46-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "uapro_g3-user-9-PKQ1.181021.001-46-release-keys",
+        "commit": "d6780ccaf13cd329cedea351cb4821739c2a4b21",
+        "committed_date": "2025-01-30T01:48:44.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-01-29T22:47:37.570Z",
+        "namespace_hint": "android",
+        "project_hint": "uapro_g3",
+        "project_id": 5555,
+        "project_path": "android/uapro_g3"
+      },
+      "revision": "d6780ccaf13cd329cedea351cb4821739c2a4b21",
+      "url": "https://dumps.tadiphone.dev/dumps/android/uapro_g3/-/tree/d6780ccaf13cd329cedea351cb4821739c2a4b21"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

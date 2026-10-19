@@ -1,0 +1,111 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "clearcellular/clearphone_220@full_k62v1_64_bsp-user-10-QP1A.190711.020-1645205400-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k62v1_64_bsp-user-10-QP1A.190711.020-1645205400-release-keys",
+        "commit": "57a54f579e256907bd90a45912047a2e5474fc63",
+        "committed_date": "2023-08-18T08:45:55.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T20:24:01.217Z",
+        "namespace_hint": "clearcellular",
+        "project_hint": "clearphone_220",
+        "project_id": 4407,
+        "project_path": "clearcellular/clearphone_220"
+      },
+      "revision": "57a54f579e256907bd90a45912047a2e5474fc63",
+      "url": "https://dumps.tadiphone.dev/dumps/clearcellular/clearphone_220/-/tree/57a54f579e256907bd90a45912047a2e5474fc63"
+    },
+    {
+      "item_id": "clearcellular/clearphone_220@full_k62v1_64_bsp-user-10-QP1A.190711.020-1662772176-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k62v1_64_bsp-user-10-QP1A.190711.020-1662772176-release-keys",
+        "commit": "0a0792e2973c337001fca12a81fb734e6ac13531",
+        "committed_date": "2024-12-30T23:58:35.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-12-30T20:24:01.217Z",
+        "namespace_hint": "clearcellular",
+        "project_hint": "clearphone_220",
+        "project_id": 4407,
+        "project_path": "clearcellular/clearphone_220"
+      },
+      "revision": "0a0792e2973c337001fca12a81fb734e6ac13531",
+      "url": "https://dumps.tadiphone.dev/dumps/clearcellular/clearphone_220/-/tree/0a0792e2973c337001fca12a81fb734e6ac13531"
+    },
+    {
+      "item_id": "clearcellular/clearphone_220@full_k62v1_64_bsp-user-10-QP1A.190711.020-1663077011-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k62v1_64_bsp-user-10-QP1A.190711.020-1663077011-release-keys",
+        "commit": "91062b732200dda23e0a8500f81f83fa985da76c",
+        "committed_date": "2024-12-30T23:19:56.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T20:24:01.217Z",
+        "namespace_hint": "clearcellular",
+        "project_hint": "clearphone_220",
+        "project_id": 4407,
+        "project_path": "clearcellular/clearphone_220"
+      },
+      "revision": "91062b732200dda23e0a8500f81f83fa985da76c",
+      "url": "https://dumps.tadiphone.dev/dumps/clearcellular/clearphone_220/-/tree/91062b732200dda23e0a8500f81f83fa985da76c"
+    },
+    {
+      "item_id": "clearcellular/clearphone_420@full_k71v1_64_bsp-user-10-QP1A.190711.020-1593385191-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k71v1_64_bsp-user-10-QP1A.190711.020-1593385191-release-keys",
+        "commit": "0ac4790f5b324f431da85379f60cbd9453315396",
+        "committed_date": "2024-12-31T00:10:43.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-12-30T21:15:52.198Z",
+        "namespace_hint": "clearcellular",
+        "project_hint": "clearphone_420",
+        "project_id": 1987,
+        "project_path": "clearcellular/clearphone_420"
+      },
+      "revision": "0ac4790f5b324f431da85379f60cbd9453315396",
+      "url": "https://dumps.tadiphone.dev/dumps/clearcellular/clearphone_420/-/tree/0ac4790f5b324f431da85379f60cbd9453315396"
+    },
+    {
+      "item_id": "clearcellular/clearphone_420@full_k71v1_64_bsp-user-10-QP1A.190711.020-1604968094-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k71v1_64_bsp-user-10-QP1A.190711.020-1604968094-release-keys",
+        "commit": "eb896f9f5006749ccca638bd1c40b371e28132f6",
+        "committed_date": "2021-09-03T14:11:27.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T21:15:52.198Z",
+        "namespace_hint": "clearcellular",
+        "project_hint": "clearphone_420",
+        "project_id": 1987,
+        "project_path": "clearcellular/clearphone_420"
+      },
+      "revision": "eb896f9f5006749ccca638bd1c40b371e28132f6",
+      "url": "https://dumps.tadiphone.dev/dumps/clearcellular/clearphone_420/-/tree/eb896f9f5006749ccca638bd1c40b371e28132f6"
+    },
+    {
+      "item_id": "clearcellular/clearphone_620@full_k71v1_64_bsp-user-10-QP1A.190711.020-1658513500-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k71v1_64_bsp-user-10-QP1A.190711.020-1658513500-release-keys",
+        "commit": "23a48cbdd92c9f663f960e227d67f3a6b387b074",
+        "committed_date": "2024-12-30T23:41:27.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-12-30T20:39:34.190Z",
+        "namespace_hint": "clearcellular",
+        "project_hint": "clearphone_620",
+        "project_id": 5527,
+        "project_path": "clearcellular/clearphone_620"
+      },
+      "revision": "23a48cbdd92c9f663f960e227d67f3a6b387b074",
+      "url": "https://dumps.tadiphone.dev/dumps/clearcellular/clearphone_620/-/tree/23a48cbdd92c9f663f960e227d67f3a6b387b074"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

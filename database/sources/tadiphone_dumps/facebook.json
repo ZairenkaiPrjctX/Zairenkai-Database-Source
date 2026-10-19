@@ -1,0 +1,128 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "facebook/aloha@aloha_prod-user-9-PKQ1.191202.001-1041481900013050-prod-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aloha_prod-user-9-PKQ1.191202.001-1041481900013050-prod-keys",
+        "commit": "4c780d902acbefcd26f176846735f9ed6a86b6c6",
+        "committed_date": "2025-02-16T20:18:55.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-02-16T17:17:23.036Z",
+        "namespace_hint": "facebook",
+        "project_hint": "aloha",
+        "project_id": 5581,
+        "project_path": "facebook/aloha"
+      },
+      "revision": "4c780d902acbefcd26f176846735f9ed6a86b6c6",
+      "url": "https://dumps.tadiphone.dev/dumps/facebook/aloha/-/tree/4c780d902acbefcd26f176846735f9ed6a86b6c6"
+    },
+    {
+      "item_id": "facebook/atlas@omni-userdebug-9-PKQ1.190101.001-36-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "omni-userdebug-9-PKQ1.190101.001-36-test-keys",
+        "commit": "1368624be6bf402e94c57e1bc50e63a03dfe99ed",
+        "committed_date": "2022-03-24T04:19:15.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T03:13:28.966Z",
+        "namespace_hint": "facebook",
+        "project_hint": "atlas",
+        "project_id": 869,
+        "project_path": "facebook/atlas"
+      },
+      "revision": "1368624be6bf402e94c57e1bc50e63a03dfe99ed",
+      "url": "https://dumps.tadiphone.dev/dumps/facebook/atlas/-/tree/1368624be6bf402e94c57e1bc50e63a03dfe99ed"
+    },
+    {
+      "item_id": "facebook/cipher@cipher_prod-user-10-QKQ1.210213.001-4051319600009050-prod-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "cipher_prod-user-10-QKQ1.210213.001-4051319600009050-prod-keys",
+        "commit": "aff271f2a801281a1784738acac85bc43034dd49",
+        "committed_date": "2025-02-16T18:54:33.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-02-16T15:52:58.940Z",
+        "namespace_hint": "facebook",
+        "project_hint": "cipher",
+        "project_id": 5578,
+        "project_path": "facebook/cipher"
+      },
+      "revision": "aff271f2a801281a1784738acac85bc43034dd49",
+      "url": "https://dumps.tadiphone.dev/dumps/facebook/cipher/-/tree/aff271f2a801281a1784738acac85bc43034dd49"
+    },
+    {
+      "item_id": "facebook/greatwhite@greatwhite-user-14-UKQ1.241029.001-54940170441600080-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "greatwhite-user-14-UKQ1.241029.001-54940170441600080-release-keys",
+        "commit": "dfaaf832054e78c22d846652841a35277cace767",
+        "committed_date": "2025-11-25T17:02:45.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-11-25T14:00:59.399Z",
+        "namespace_hint": "facebook",
+        "project_hint": "greatwhite",
+        "project_id": 5706,
+        "project_path": "facebook/greatwhite"
+      },
+      "revision": "dfaaf832054e78c22d846652841a35277cace767",
+      "url": "https://dumps.tadiphone.dev/dumps/facebook/greatwhite/-/tree/dfaaf832054e78c22d846652841a35277cace767"
+    },
+    {
+      "item_id": "facebook/omni@omni_prod-user-10-QKQ1.210213.001-3051319600009050-prod-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "omni_prod-user-10-QKQ1.210213.001-3051319600009050-prod-keys",
+        "commit": "6c0cf374a0b9c4745e63b51ef187a242cd5f907e",
+        "committed_date": "2025-02-16T19:05:50.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-02-16T16:04:17.269Z",
+        "namespace_hint": "facebook",
+        "project_hint": "omni",
+        "project_id": 5579,
+        "project_path": "facebook/omni"
+      },
+      "revision": "6c0cf374a0b9c4745e63b51ef187a242cd5f907e",
+      "url": "https://dumps.tadiphone.dev/dumps/facebook/omni/-/tree/6c0cf374a0b9c4745e63b51ef187a242cd5f907e"
+    },
+    {
+      "item_id": "facebook/ripley@ripley_prod-user-9-PKQ1.191202.001-2041481900013050-prod-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ripley_prod-user-9-PKQ1.191202.001-2041481900013050-prod-keys",
+        "commit": "d05e257cd70e63795d7b8d395567bdd38851cec1",
+        "committed_date": "2025-02-16T19:17:37.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-02-16T16:16:06.307Z",
+        "namespace_hint": "facebook",
+        "project_hint": "ripley",
+        "project_id": 5580,
+        "project_path": "facebook/ripley"
+      },
+      "revision": "d05e257cd70e63795d7b8d395567bdd38851cec1",
+      "url": "https://dumps.tadiphone.dev/dumps/facebook/ripley/-/tree/d05e257cd70e63795d7b8d395567bdd38851cec1"
+    },
+    {
+      "item_id": "facebook/terry@terry_prod-user-10-QKQ1.210213.001-5051319600009050-prod-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "terry_prod-user-10-QKQ1.210213.001-5051319600009050-prod-keys",
+        "commit": "91d9d7b2c8716a9defb8296ecd13d21674476530",
+        "committed_date": "2025-02-16T20:30:10.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-02-16T17:28:35.844Z",
+        "namespace_hint": "facebook",
+        "project_hint": "terry",
+        "project_id": 5582,
+        "project_path": "facebook/terry"
+      },
+      "revision": "91d9d7b2c8716a9defb8296ecd13d21674476530",
+      "url": "https://dumps.tadiphone.dev/dumps/facebook/terry/-/tree/91d9d7b2c8716a9defb8296ecd13d21674476530"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

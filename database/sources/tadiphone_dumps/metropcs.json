@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "metropcs/w5@w5_mpcs_us-user-4.4.2-KOT49I.MS32310c-MS32310c.1408970315-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "w5_mpcs_us-user-4.4.2-KOT49I.MS32310c-MS32310c.1408970315-release-keys",
+        "commit": "22985a139797d6c89cb5d36aff4605aa8ba0adc9",
+        "committed_date": "2024-06-30T05:24:27.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-06-30T02:26:14.103Z",
+        "namespace_hint": "metropcs",
+        "project_hint": "w5",
+        "project_id": 1799,
+        "project_path": "metropcs/w5"
+      },
+      "revision": "22985a139797d6c89cb5d36aff4605aa8ba0adc9",
+      "url": "https://dumps.tadiphone.dev/dumps/metropcs/w5/-/tree/22985a139797d6c89cb5d36aff4605aa8ba0adc9"
+    },
+    {
+      "item_id": "metropcs/w5@w5_mpcs_us-user-4.4.2-KOT49I.MS32310d-MS32310d.1439812098-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "w5_mpcs_us-user-4.4.2-KOT49I.MS32310d-MS32310d.1439812098-release-keys",
+        "commit": "78927e86a94a532a7f217670e3cff28632458255",
+        "committed_date": "2020-10-30T05:33:51.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2024-06-30T02:26:14.103Z",
+        "namespace_hint": "metropcs",
+        "project_hint": "w5",
+        "project_id": 1799,
+        "project_path": "metropcs/w5"
+      },
+      "revision": "78927e86a94a532a7f217670e3cff28632458255",
+      "url": "https://dumps.tadiphone.dev/dumps/metropcs/w5/-/tree/78927e86a94a532a7f217670e3cff28632458255"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

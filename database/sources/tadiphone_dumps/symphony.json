@@ -1,0 +1,196 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "symphony/e90@sp7731e_ww18-user-8.1.0-OPM2.171019.012-32611-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sp7731e_ww18-user-8.1.0-OPM2.171019.012-32611-release-keys",
+        "commit": "48237ccdca97658cc2f367cc6a22f966b6fa490f",
+        "committed_date": "2019-11-12T21:44:50.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T17:59:37.221Z",
+        "namespace_hint": "symphony",
+        "project_hint": "e90",
+        "project_id": 2008,
+        "project_path": "symphony/e90"
+      },
+      "revision": "48237ccdca97658cc2f367cc6a22f966b6fa490f",
+      "url": "https://dumps.tadiphone.dev/dumps/symphony/e90/-/tree/48237ccdca97658cc2f367cc6a22f966b6fa490f"
+    },
+    {
+      "item_id": "symphony/g100@full_k600_go-user-8.1.0-O11019-1530618779-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k600_go-user-8.1.0-O11019-1530618779-release-keys",
+        "commit": "93161b59419294bdde2d0b86680b0f0d21215b9a",
+        "committed_date": "2019-11-09T02:03:53.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T15:22:33.385Z",
+        "namespace_hint": "symphony",
+        "project_hint": "g100",
+        "project_id": 1876,
+        "project_path": "symphony/g100"
+      },
+      "revision": "93161b59419294bdde2d0b86680b0f0d21215b9a",
+      "url": "https://dumps.tadiphone.dev/dumps/symphony/g100/-/tree/93161b59419294bdde2d0b86680b0f0d21215b9a"
+    },
+    {
+      "item_id": "symphony/i15@i15-user-8.1.0-OPM2.171019.012-180-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "i15-user-8.1.0-OPM2.171019.012-180-release-keys",
+        "commit": "e158f845a079d969644219baf88fc5f58844537b",
+        "committed_date": "2019-11-12T21:32:40.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T17:59:14.598Z",
+        "namespace_hint": "symphony",
+        "project_hint": "i15",
+        "project_id": 2007,
+        "project_path": "symphony/i15"
+      },
+      "revision": "e158f845a079d969644219baf88fc5f58844537b",
+      "url": "https://dumps.tadiphone.dev/dumps/symphony/i15/-/tree/e158f845a079d969644219baf88fc5f58844537b"
+    },
+    {
+      "item_id": "symphony/i72@i72-user-8.1.0-OPM2.171019.012-140-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "i72-user-8.1.0-OPM2.171019.012-140-release-keys",
+        "commit": "2e1eec93482203f22ab7c3cdcb043373f3d5b9ea",
+        "committed_date": "2019-11-11T13:51:56.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T13:34:00.237Z",
+        "namespace_hint": "symphony",
+        "project_hint": "i72",
+        "project_id": 1793,
+        "project_path": "symphony/i72"
+      },
+      "revision": "2e1eec93482203f22ab7c3cdcb043373f3d5b9ea",
+      "url": "https://dumps.tadiphone.dev/dumps/symphony/i72/-/tree/2e1eec93482203f22ab7c3cdcb043373f3d5b9ea"
+    },
+    {
+      "item_id": "symphony/v128@V128-user-8.1.0-O21019-1548226727-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "V128-user-8.1.0-O21019-1548226727-release-keys",
+        "commit": "969a9779b2c20ec5e7e8ee764902b1d144886db8",
+        "committed_date": "2019-11-11T17:35:57.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T17:17:10.225Z",
+        "namespace_hint": "symphony",
+        "project_hint": "v128",
+        "project_id": 1976,
+        "project_path": "symphony/v128"
+      },
+      "revision": "969a9779b2c20ec5e7e8ee764902b1d144886db8",
+      "url": "https://dumps.tadiphone.dev/dumps/symphony/v128/-/tree/969a9779b2c20ec5e7e8ee764902b1d144886db8"
+    },
+    {
+      "item_id": "symphony/v141@V141-user-8.1.0-OPM2.171019.012-117-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "V141-user-8.1.0-OPM2.171019.012-117-release-keys",
+        "commit": "e8b042c6c425cc42eb12aaaeea8c6893cc36c12e",
+        "committed_date": "2019-11-10T23:46:16.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T07:46:57.549Z",
+        "namespace_hint": "symphony",
+        "project_hint": "v141",
+        "project_id": 1563,
+        "project_path": "symphony/v141"
+      },
+      "revision": "e8b042c6c425cc42eb12aaaeea8c6893cc36c12e",
+      "url": "https://dumps.tadiphone.dev/dumps/symphony/v141/-/tree/e8b042c6c425cc42eb12aaaeea8c6893cc36c12e"
+    },
+    {
+      "item_id": "symphony/v145@V145-user-8.1.0-O21019-1534902195-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "V145-user-8.1.0-O21019-1534902195-release-keys",
+        "commit": "f27f7f5560a85cda649c4d8f321fde7042f59bee",
+        "committed_date": "2019-11-12T21:09:37.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T16:40:01.688Z",
+        "namespace_hint": "symphony",
+        "project_hint": "v145",
+        "project_id": 1191,
+        "project_path": "symphony/v145"
+      },
+      "revision": "f27f7f5560a85cda649c4d8f321fde7042f59bee",
+      "url": "https://dumps.tadiphone.dev/dumps/symphony/v145/-/tree/f27f7f5560a85cda649c4d8f321fde7042f59bee"
+    },
+    {
+      "item_id": "symphony/v47@full_rs631-user-7.0-NRD90M-1490694394-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_rs631-user-7.0-NRD90M-1490694394-release-keys",
+        "commit": "fa31f912f85114441346d9b93b5b9add3ec62efe",
+        "committed_date": "2021-08-22T06:49:53.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T15:45:31.176Z",
+        "namespace_hint": "symphony",
+        "project_hint": "v47",
+        "project_id": 1899,
+        "project_path": "symphony/v47"
+      },
+      "revision": "fa31f912f85114441346d9b93b5b9add3ec62efe",
+      "url": "https://dumps.tadiphone.dev/dumps/symphony/v47/-/tree/fa31f912f85114441346d9b93b5b9add3ec62efe"
+    },
+    {
+      "item_id": "symphony/v99@sp7731e_fs286_project-user-8.1.0-OPM2.171019.012-31515-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sp7731e_fs286_project-user-8.1.0-OPM2.171019.012-31515-release-keys",
+        "commit": "c16d1e59f53c5106cebe73976885152b36de4868",
+        "committed_date": "2019-11-10T23:41:22.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T12:52:36.464Z",
+        "namespace_hint": "symphony",
+        "project_hint": "v99",
+        "project_id": 1763,
+        "project_path": "symphony/v99"
+      },
+      "revision": "c16d1e59f53c5106cebe73976885152b36de4868",
+      "url": "https://dumps.tadiphone.dev/dumps/symphony/v99/-/tree/c16d1e59f53c5106cebe73976885152b36de4868"
+    },
+    {
+      "item_id": "symphony/z28@full_v730-user-10-QP1A.190711.020-91-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_v730-user-10-QP1A.190711.020-91-release-keys",
+        "commit": "c0823fbb8ff3936db1798d6792512a8289270842",
+        "committed_date": "2023-07-21T01:17:29.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-07-20T22:16:03.692Z",
+        "namespace_hint": "symphony",
+        "project_hint": "z28",
+        "project_id": 4363,
+        "project_path": "symphony/z28"
+      },
+      "revision": "c0823fbb8ff3936db1798d6792512a8289270842",
+      "url": "https://dumps.tadiphone.dev/dumps/symphony/z28/-/tree/c0823fbb8ff3936db1798d6792512a8289270842"
+    },
+    {
+      "item_id": "symphony/z60_plus@Z60_plus-user-12-SP1A.210812.016-130-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Z60_plus-user-12-SP1A.210812.016-130-release-keys",
+        "commit": "79b79ea1bd9d025c5d1a19c2a47a752f831162d7",
+        "committed_date": "2024-09-17T10:32:30.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-09-17T07:30:14.732Z",
+        "namespace_hint": "symphony",
+        "project_hint": "z60_plus",
+        "project_id": 5416,
+        "project_path": "symphony/z60_plus"
+      },
+      "revision": "79b79ea1bd9d025c5d1a19c2a47a752f831162d7",
+      "url": "https://dumps.tadiphone.dev/dumps/symphony/z60_plus/-/tree/79b79ea1bd9d025c5d1a19c2a47a752f831162d7"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

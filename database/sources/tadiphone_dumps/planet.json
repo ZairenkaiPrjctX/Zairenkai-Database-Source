@@ -1,0 +1,60 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "planet/cosmo_communicator@full_k71v1_64_bsp-user-9-PPR1.180610.011-1594031892-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k71v1_64_bsp-user-9-PPR1.180610.011-1594031892-release-keys",
+        "commit": "94ed5ad89938fcdb0aeb25bbf87fe23cd730da12",
+        "committed_date": "2020-07-12T20:16:39.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T23:33:43.607Z",
+        "namespace_hint": "planet",
+        "project_hint": "cosmo_communicator",
+        "project_id": 2216,
+        "project_path": "planet/cosmo_communicator"
+      },
+      "revision": "94ed5ad89938fcdb0aeb25bbf87fe23cd730da12",
+      "url": "https://dumps.tadiphone.dev/dumps/planet/cosmo_communicator/-/tree/94ed5ad89938fcdb0aeb25bbf87fe23cd730da12"
+    },
+    {
+      "item_id": "planet/gemini_4g@full_k97v1_64_bsp-user-8.1.0-O11019-1557303897-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k97v1_64_bsp-user-8.1.0-O11019-1557303897-release-keys",
+        "commit": "be30083584ef203a8b547f33be0ee3486c79aa15",
+        "committed_date": "2019-07-06T14:27:40.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T16:53:42.019Z",
+        "namespace_hint": "planet",
+        "project_hint": "gemini_4g",
+        "project_id": 1207,
+        "project_path": "planet/gemini_4g"
+      },
+      "revision": "be30083584ef203a8b547f33be0ee3486c79aa15",
+      "url": "https://dumps.tadiphone.dev/dumps/planet/gemini_4g/-/tree/be30083584ef203a8b547f33be0ee3486c79aa15"
+    },
+    {
+      "item_id": "planet/gemini_4g@full_k97v1_64_bsp-user-8.1.0-O11019-1558104210-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k97v1_64_bsp-user-8.1.0-O11019-1558104210-release-keys",
+        "commit": "f9196298887222bac5aac67f2c94c471d912d1a0",
+        "committed_date": "2019-07-06T22:33:42.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T16:53:42.019Z",
+        "namespace_hint": "planet",
+        "project_hint": "gemini_4g",
+        "project_id": 1207,
+        "project_path": "planet/gemini_4g"
+      },
+      "revision": "f9196298887222bac5aac67f2c94c471d912d1a0",
+      "url": "https://dumps.tadiphone.dev/dumps/planet/gemini_4g/-/tree/f9196298887222bac5aac67f2c94c471d912d1a0"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

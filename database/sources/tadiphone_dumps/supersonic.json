@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "supersonic/kanda@Sceptre_2K_ATV_US_SUP-user-9-PTO5.210706.001-7525990-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Sceptre_2K_ATV_US_SUP-user-9-PTO5.210706.001-7525990-release-keys",
+        "commit": "f457446deaf788c4cfd1e869caef180e4b3d89c0",
+        "committed_date": "2021-08-29T00:11:38.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T22:17:00.265Z",
+        "namespace_hint": "supersonic",
+        "project_hint": "kanda",
+        "project_id": 2154,
+        "project_path": "supersonic/kanda"
+      },
+      "revision": "f457446deaf788c4cfd1e869caef180e4b3d89c0",
+      "url": "https://dumps.tadiphone.dev/dumps/supersonic/kanda/-/tree/f457446deaf788c4cfd1e869caef180e4b3d89c0"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

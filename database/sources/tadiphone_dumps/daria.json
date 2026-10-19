@@ -1,0 +1,128 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "daria/hormoz@hormoz-user-15-AP3A.241105.008-V6.7.2.1.BOND2-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "hormoz-user-15-AP3A.241105.008-V6.7.2.1.BOND2-release-keys",
+        "commit": "971989064c009dd66232935d39773dcac9202d99",
+        "committed_date": "2026-06-02T13:11:30.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-09-04T23:35:59.474Z",
+        "namespace_hint": "daria",
+        "project_hint": "hormoz",
+        "project_id": 5772,
+        "project_path": "daria/hormoz"
+      },
+      "revision": "971989064c009dd66232935d39773dcac9202d99",
+      "url": "https://dumps.tadiphone.dev/dumps/daria/hormoz/-/tree/971989064c009dd66232935d39773dcac9202d99"
+    },
+    {
+      "item_id": "daria/hormoz@hormoz-user-16-BP2A.250805.005-V7.1.2.5.BOND2-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "hormoz-user-16-BP2A.250805.005-V7.1.2.5.BOND2-release-keys",
+        "commit": "a67f2a08550f41759f552f5325544d68f3cc419d",
+        "committed_date": "2026-09-05T02:27:00.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-09-04T23:35:59.474Z",
+        "namespace_hint": "daria",
+        "project_hint": "hormoz",
+        "project_id": 5772,
+        "project_path": "daria/hormoz"
+      },
+      "revision": "a67f2a08550f41759f552f5325544d68f3cc419d",
+      "url": "https://dumps.tadiphone.dev/dumps/daria/hormoz/-/tree/a67f2a08550f41759f552f5325544d68f3cc419d"
+    },
+    {
+      "item_id": "daria/zahedan@zahedan-user-13-TQ3A.230901.001-V4.81.1.0.BOND-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "zahedan-user-13-TQ3A.230901.001-V4.81.1.0.BOND-release-keys",
+        "commit": "72ddc091b04dbca250b3cc59a0d420ff1a12bd94",
+        "committed_date": "2024-01-08T14:53:05.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-06-02T03:54:53.591Z",
+        "namespace_hint": "daria",
+        "project_hint": "zahedan",
+        "project_id": 4678,
+        "project_path": "daria/zahedan"
+      },
+      "revision": "72ddc091b04dbca250b3cc59a0d420ff1a12bd94",
+      "url": "https://dumps.tadiphone.dev/dumps/daria/zahedan/-/tree/72ddc091b04dbca250b3cc59a0d420ff1a12bd94"
+    },
+    {
+      "item_id": "daria/zahedan@zahedan-user-14-UQ1A.240205.004-V5.22.2.3.BOND-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "zahedan-user-14-UQ1A.240205.004-V5.22.2.3.BOND-release-keys",
+        "commit": "eb19422cb2230a0014eaeaf7cd4fca7f8f74db16",
+        "committed_date": "2024-05-12T17:53:09.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-06-02T03:54:53.591Z",
+        "namespace_hint": "daria",
+        "project_hint": "zahedan",
+        "project_id": 4678,
+        "project_path": "daria/zahedan"
+      },
+      "revision": "eb19422cb2230a0014eaeaf7cd4fca7f8f74db16",
+      "url": "https://dumps.tadiphone.dev/dumps/daria/zahedan/-/tree/eb19422cb2230a0014eaeaf7cd4fca7f8f74db16"
+    },
+    {
+      "item_id": "daria/zahedan@zahedan-user-14-UQ1A.240205.004-V5.24.2.0.BOND-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "zahedan-user-14-UQ1A.240205.004-V5.24.2.0.BOND-release-keys",
+        "commit": "333ba82561c4e35f94efff8b36a5adef00285b66",
+        "committed_date": "2024-08-23T17:49:41.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-06-02T03:54:53.591Z",
+        "namespace_hint": "daria",
+        "project_hint": "zahedan",
+        "project_id": 4678,
+        "project_path": "daria/zahedan"
+      },
+      "revision": "333ba82561c4e35f94efff8b36a5adef00285b66",
+      "url": "https://dumps.tadiphone.dev/dumps/daria/zahedan/-/tree/333ba82561c4e35f94efff8b36a5adef00285b66"
+    },
+    {
+      "item_id": "daria/zahedan@zahedan-user-14-UQ1A.240205.004-V5.29.2.1.BOND-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "zahedan-user-14-UQ1A.240205.004-V5.29.2.1.BOND-release-keys",
+        "commit": "9e1f1f7062247e714e4c0ad1a0eb33929a6723ab",
+        "committed_date": "2025-02-15T15:57:40.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-06-02T03:54:53.591Z",
+        "namespace_hint": "daria",
+        "project_hint": "zahedan",
+        "project_id": 4678,
+        "project_path": "daria/zahedan"
+      },
+      "revision": "9e1f1f7062247e714e4c0ad1a0eb33929a6723ab",
+      "url": "https://dumps.tadiphone.dev/dumps/daria/zahedan/-/tree/9e1f1f7062247e714e4c0ad1a0eb33929a6723ab"
+    },
+    {
+      "item_id": "daria/zahedan@zahedan-user-15-AP3A.241105.008-V6.7.2.0.BOND-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "zahedan-user-15-AP3A.241105.008-V6.7.2.0.BOND-release-keys",
+        "commit": "d7c12098c8e9ad1e52724d8f7668c07a59aedee3",
+        "committed_date": "2026-06-02T06:46:31.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-06-02T03:54:53.591Z",
+        "namespace_hint": "daria",
+        "project_hint": "zahedan",
+        "project_id": 4678,
+        "project_path": "daria/zahedan"
+      },
+      "revision": "d7c12098c8e9ad1e52724d8f7668c07a59aedee3",
+      "url": "https://dumps.tadiphone.dev/dumps/daria/zahedan/-/tree/d7c12098c8e9ad1e52724d8f7668c07a59aedee3"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

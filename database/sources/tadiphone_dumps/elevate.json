@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "elevate/g55_lite@G55-user-8.1.0-ELEVATEG55_LITE-1536140640-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "G55-user-8.1.0-ELEVATEG55_LITE-1536140640-release-keys",
+        "commit": "13ee0c3ccb4693bfe9fb93f03659819f10d7ce36",
+        "committed_date": "2019-11-11T00:35:51.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T01:03:46.664Z",
+        "namespace_hint": "elevate",
+        "project_hint": "g55_lite",
+        "project_id": 1469,
+        "project_path": "elevate/g55_lite"
+      },
+      "revision": "13ee0c3ccb4693bfe9fb93f03659819f10d7ce36",
+      "url": "https://dumps.tadiphone.dev/dumps/elevate/g55_lite/-/tree/13ee0c3ccb4693bfe9fb93f03659819f10d7ce36"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

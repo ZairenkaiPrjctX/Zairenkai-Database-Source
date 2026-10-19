@@ -1,0 +1,1255 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "_project/5446",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": "2024-10-04T20:12:02.659Z",
+        "project_id": 5446,
+        "project_path": "amazon/hazel"
+      },
+      "revision": "2024-10-04T20:12:02.659Z",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/hazel"
+    },
+    {
+      "item_id": "_project/5795",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": "2026-07-09T16:58:44.789Z",
+        "project_id": 5795,
+        "project_path": "amazon/almond"
+      },
+      "revision": "2026-07-09T16:58:44.789Z",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/almond"
+    },
+    {
+      "item_id": "amazon/ariel@full_ariel-user-5.1.1-LVY48F-20.5.5.4_user_554207020-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_ariel-user-5.1.1-LVY48F-20.5.5.4_user_554207020-release-keys",
+        "commit": "f14111e735beca13712901e77fbbf7e5d2fe31ad",
+        "committed_date": "2020-01-18T08:38:17.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T13:28:59.212Z",
+        "namespace_hint": "amazon",
+        "project_hint": "ariel",
+        "project_id": 1036,
+        "project_path": "amazon/ariel"
+      },
+      "revision": "f14111e735beca13712901e77fbbf7e5d2fe31ad",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/ariel/-/tree/f14111e735beca13712901e77fbbf7e5d2fe31ad"
+    },
+    {
+      "item_id": "amazon/ariel@full_ariel-user-5.1.1-LVY48F-20.6.0.5_user_605485620-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_ariel-user-5.1.1-LVY48F-20.6.0.5_user_605485620-release-keys",
+        "commit": "66191abf6ab52d89b9c398873b24a9409a049585",
+        "committed_date": "2019-09-19T21:48:12.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T13:28:59.212Z",
+        "namespace_hint": "amazon",
+        "project_hint": "ariel",
+        "project_id": 1036,
+        "project_path": "amazon/ariel"
+      },
+      "revision": "66191abf6ab52d89b9c398873b24a9409a049585",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/ariel/-/tree/66191abf6ab52d89b9c398873b24a9409a049585"
+    },
+    {
+      "item_id": "amazon/athena@athena-user-9-PS7561.3844N-0029226894336-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "athena-user-9-PS7561.3844N-0029226894336-amz-p,release-keys",
+        "commit": "1f7ab057e199e948e67b75620463191876e67230",
+        "committed_date": "2025-10-12T23:16:15.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-12-02T10:45:34.544Z",
+        "namespace_hint": "amazon",
+        "project_hint": "athena",
+        "project_id": 5701,
+        "project_path": "amazon/athena"
+      },
+      "revision": "1f7ab057e199e948e67b75620463191876e67230",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/athena/-/tree/1f7ab057e199e948e67b75620463191876e67230"
+    },
+    {
+      "item_id": "amazon/athena@athena-user-9-PS7571.5147N-0033857739520-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "athena-user-9-PS7571.5147N-0033857739520-amz-p,release-keys",
+        "commit": "7ed6a6f159c6fe59f82ccdaff540bfb19b1d547c",
+        "committed_date": "2025-12-02T13:42:34.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-12-02T10:45:34.544Z",
+        "namespace_hint": "amazon",
+        "project_hint": "athena",
+        "project_id": 5701,
+        "project_path": "amazon/athena"
+      },
+      "revision": "7ed6a6f159c6fe59f82ccdaff540bfb19b1d547c",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/athena/-/tree/7ed6a6f159c6fe59f82ccdaff540bfb19b1d547c"
+    },
+    {
+      "item_id": "amazon/austin@austin-user-5.1.1-LVY48F-55.6.3.6_user_636558520-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "austin-user-5.1.1-LVY48F-55.6.3.6_user_636558520-release-keys",
+        "commit": "4e0686c85ed2ae8ca8dacdb50b32bbd91d715326",
+        "committed_date": "2019-09-19T21:38:32.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T04:47:27.177Z",
+        "namespace_hint": "amazon",
+        "project_hint": "austin",
+        "project_id": 847,
+        "project_path": "amazon/austin"
+      },
+      "revision": "4e0686c85ed2ae8ca8dacdb50b32bbd91d715326",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/austin/-/tree/4e0686c85ed2ae8ca8dacdb50b32bbd91d715326"
+    },
+    {
+      "item_id": "amazon/austin@austin-user-5.1.1-LVY48F-55.6.5.4_user_654620420-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "austin-user-5.1.1-LVY48F-55.6.5.4_user_654620420-release-keys",
+        "commit": "91ec7269c0a4de384fde1257765e14155f7dee4a",
+        "committed_date": "2020-04-27T18:38:24.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T04:47:27.177Z",
+        "namespace_hint": "amazon",
+        "project_hint": "austin",
+        "project_id": 847,
+        "project_path": "amazon/austin"
+      },
+      "revision": "91ec7269c0a4de384fde1257765e14155f7dee4a",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/austin/-/tree/91ec7269c0a4de384fde1257765e14155f7dee4a"
+    },
+    {
+      "item_id": "amazon/austin@austin-user-5.1.1-LVY48F-55.6.5.9_user_659664620-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "austin-user-5.1.1-LVY48F-55.6.5.9_user_659664620-release-keys",
+        "commit": "f073393f859b41e9b706131143b0b300752043f5",
+        "committed_date": "2024-03-08T07:46:04.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T04:47:27.177Z",
+        "namespace_hint": "amazon",
+        "project_hint": "austin",
+        "project_id": 847,
+        "project_path": "amazon/austin"
+      },
+      "revision": "f073393f859b41e9b706131143b0b300752043f5",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/austin/-/tree/f073393f859b41e9b706131143b0b300752043f5"
+    },
+    {
+      "item_id": "amazon/biscuit@csm_biscuit-user-5.1.1-LVY48F-272.6.8.0_user_680767620-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "csm_biscuit-user-5.1.1-LVY48F-272.6.8.0_user_680767620-release-keys",
+        "commit": "da007b20cbd241445a49a2e3e56e93e8ea53bac3",
+        "committed_date": "2025-09-22T17:28:54.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-09-22T14:28:26.265Z",
+        "namespace_hint": "amazon",
+        "project_hint": "biscuit",
+        "project_id": 5688,
+        "project_path": "amazon/biscuit"
+      },
+      "revision": "da007b20cbd241445a49a2e3e56e93e8ea53bac3",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/biscuit/-/tree/da007b20cbd241445a49a2e3e56e93e8ea53bac3"
+    },
+    {
+      "item_id": "amazon/biscuit_puffin@biscuit_puffin-user-6.0-NS6555-4310-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "biscuit_puffin-user-6.0-NS6555-4310-amz-p,release-keys",
+        "commit": "0443057181e3f8ac2996b1208b4cb1a64834631e",
+        "committed_date": "2025-09-14T21:10:01.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-10-20T19:53:49.647Z",
+        "namespace_hint": "amazon",
+        "project_hint": "biscuit_puffin",
+        "project_id": 5685,
+        "project_path": "amazon/biscuit_puffin"
+      },
+      "revision": "0443057181e3f8ac2996b1208b4cb1a64834631e",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/biscuit_puffin/-/tree/0443057181e3f8ac2996b1208b4cb1a64834631e"
+    },
+    {
+      "item_id": "amazon/biscuit_puffin@biscuit_puffin-user-6.0-NS6570-6077-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "biscuit_puffin-user-6.0-NS6570-6077-amz-p,release-keys",
+        "commit": "f9d99373b1d8d8fe7a93d17bdd4d7baabc4421a3",
+        "committed_date": "2025-09-22T17:27:08.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-10-20T19:53:49.647Z",
+        "namespace_hint": "amazon",
+        "project_hint": "biscuit_puffin",
+        "project_id": 5685,
+        "project_path": "amazon/biscuit_puffin"
+      },
+      "revision": "f9d99373b1d8d8fe7a93d17bdd4d7baabc4421a3",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/biscuit_puffin/-/tree/f9d99373b1d8d8fe7a93d17bdd4d7baabc4421a3"
+    },
+    {
+      "item_id": "amazon/biscuit_puffin@biscuit_puffin-user-6.0-NS6570-6086-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "biscuit_puffin-user-6.0-NS6570-6086-amz-p,release-keys",
+        "commit": "fd460589aa6e7cf54ab503dc7b7a141adc18e699",
+        "committed_date": "2025-10-07T12:39:19.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-10-20T19:53:49.647Z",
+        "namespace_hint": "amazon",
+        "project_hint": "biscuit_puffin",
+        "project_id": 5685,
+        "project_path": "amazon/biscuit_puffin"
+      },
+      "revision": "fd460589aa6e7cf54ab503dc7b7a141adc18e699",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/biscuit_puffin/-/tree/fd460589aa6e7cf54ab503dc7b7a141adc18e699"
+    },
+    {
+      "item_id": "amazon/biscuit_puffin@biscuit_puffin-user-6.0-NS6571-6176-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "biscuit_puffin-user-6.0-NS6571-6176-amz-p,release-keys",
+        "commit": "ef1733d59487ce4402535794b16e234cdd58d22f",
+        "committed_date": "2025-10-20T22:53:27.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-10-20T19:53:49.647Z",
+        "namespace_hint": "amazon",
+        "project_hint": "biscuit_puffin",
+        "project_id": 5685,
+        "project_path": "amazon/biscuit_puffin"
+      },
+      "revision": "ef1733d59487ce4402535794b16e234cdd58d22f",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/biscuit_puffin/-/tree/ef1733d59487ce4402535794b16e234cdd58d22f"
+    },
+    {
+      "item_id": "amazon/bueller@bueller-user-5.1.1-LVY48F-51.6.3.9_user_639566320-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "bueller-user-5.1.1-LVY48F-51.6.3.9_user_639566320-release-keys",
+        "commit": "0cf51774a364ad4b40e11a0e9d2e13beac812850",
+        "committed_date": "2019-09-20T05:03:03.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T14:35:56.567Z",
+        "namespace_hint": "amazon",
+        "project_hint": "bueller",
+        "project_id": 1099,
+        "project_path": "amazon/bueller"
+      },
+      "revision": "0cf51774a364ad4b40e11a0e9d2e13beac812850",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/bueller/-/tree/0cf51774a364ad4b40e11a0e9d2e13beac812850"
+    },
+    {
+      "item_id": "amazon/checkers@checkers-user-6.0-NS6531-2081-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "checkers-user-6.0-NS6531-2081-amz-p,release-keys",
+        "commit": "f1ad773a690361b182aa59f05638c493fd34b469",
+        "committed_date": "2025-09-29T21:29:02.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-10-01T20:55:06.164Z",
+        "namespace_hint": "amazon",
+        "project_hint": "checkers",
+        "project_id": 5698,
+        "project_path": "amazon/checkers"
+      },
+      "revision": "f1ad773a690361b182aa59f05638c493fd34b469",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/checkers/-/tree/f1ad773a690361b182aa59f05638c493fd34b469"
+    },
+    {
+      "item_id": "amazon/checkers@checkers-user-6.0-NS6534-2264-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "checkers-user-6.0-NS6534-2264-amz-p,release-keys",
+        "commit": "6e477bbd6e37a2ff002c90d607351b5e22cac623",
+        "committed_date": "2025-10-02T00:02:54.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-10-01T20:55:06.164Z",
+        "namespace_hint": "amazon",
+        "project_hint": "checkers",
+        "project_id": 5698,
+        "project_path": "amazon/checkers"
+      },
+      "revision": "6e477bbd6e37a2ff002c90d607351b5e22cac623",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/checkers/-/tree/6e477bbd6e37a2ff002c90d607351b5e22cac623"
+    },
+    {
+      "item_id": "amazon/checkers@checkers-user-6.0-NS6570-6086-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "checkers-user-6.0-NS6570-6086-amz-p,release-keys",
+        "commit": "5577dd87fe41a8491feaf244d2ed5db73068e58c",
+        "committed_date": "2025-10-01T23:52:17.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-10-01T20:55:06.164Z",
+        "namespace_hint": "amazon",
+        "project_hint": "checkers",
+        "project_id": 5698,
+        "project_path": "amazon/checkers"
+      },
+      "revision": "5577dd87fe41a8491feaf244d2ed5db73068e58c",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/checkers/-/tree/5577dd87fe41a8491feaf244d2ed5db73068e58c"
+    },
+    {
+      "item_id": "amazon/cronos@cronos-user-6.0-NS6548-3254-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "cronos-user-6.0-NS6548-3254-amz-p,release-keys",
+        "commit": "e9e80bea612aa2cbf28b52145be21354804414ef",
+        "committed_date": "2025-12-24T06:29:46.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-12-27T21:39:58.094Z",
+        "namespace_hint": "amazon",
+        "project_hint": "cronos",
+        "project_id": 5717,
+        "project_path": "amazon/cronos"
+      },
+      "revision": "e9e80bea612aa2cbf28b52145be21354804414ef",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/cronos/-/tree/e9e80bea612aa2cbf28b52145be21354804414ef"
+    },
+    {
+      "item_id": "amazon/cronos@cronos-user-6.0-NS6550-3741-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "cronos-user-6.0-NS6550-3741-amz-p,release-keys",
+        "commit": "53fcdd30525f43a01f4f408480208b2868f7697d",
+        "committed_date": "2025-12-20T04:43:05.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-12-27T21:39:58.094Z",
+        "namespace_hint": "amazon",
+        "project_hint": "cronos",
+        "project_id": 5717,
+        "project_path": "amazon/cronos"
+      },
+      "revision": "53fcdd30525f43a01f4f408480208b2868f7697d",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/cronos/-/tree/53fcdd30525f43a01f4f408480208b2868f7697d"
+    },
+    {
+      "item_id": "amazon/cronos@cronos-user-6.0-NS6571-6208-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "cronos-user-6.0-NS6571-6208-amz-p,release-keys",
+        "commit": "5436d038be3e2a8421dfbf93c4f6f1bb5e5e69f2",
+        "committed_date": "2025-12-14T04:27:49.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-12-27T21:39:58.094Z",
+        "namespace_hint": "amazon",
+        "project_hint": "cronos",
+        "project_id": 5717,
+        "project_path": "amazon/cronos"
+      },
+      "revision": "5436d038be3e2a8421dfbf93c4f6f1bb5e5e69f2",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/cronos/-/tree/5436d038be3e2a8421dfbf93c4f6f1bb5e5e69f2"
+    },
+    {
+      "item_id": "amazon/cronos@cronos-userdebug-6.0-NMAIN1-31-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "cronos-userdebug-6.0-NMAIN1-31-dev-keys",
+        "commit": "3102c7b78ed4120cde4798041da9970fae817e6f",
+        "committed_date": "2025-12-28T00:39:23.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-12-27T21:39:58.094Z",
+        "namespace_hint": "amazon",
+        "project_hint": "cronos",
+        "project_id": 5717,
+        "project_path": "amazon/cronos"
+      },
+      "revision": "3102c7b78ed4120cde4798041da9970fae817e6f",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/cronos/-/tree/3102c7b78ed4120cde4798041da9970fae817e6f"
+    },
+    {
+      "item_id": "amazon/crown@crown-user-6.0-NS6571-6190-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "crown-user-6.0-NS6571-6190-amz-p,release-keys",
+        "commit": "b93977a2f6af50c2c27b05b1f49a30d433ef0136",
+        "committed_date": "2025-10-23T20:25:08.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-10-23T17:23:26.058Z",
+        "namespace_hint": "amazon",
+        "project_hint": "crown",
+        "project_id": 5704,
+        "project_path": "amazon/crown"
+      },
+      "revision": "b93977a2f6af50c2c27b05b1f49a30d433ef0136",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/crown/-/tree/b93977a2f6af50c2c27b05b1f49a30d433ef0136"
+    },
+    {
+      "item_id": "amazon/cupcake@cupcake-user-6.0-NS6564-5411-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "cupcake-user-6.0-NS6564-5411-amz-p,release-keys",
+        "commit": "4dc624c60f549a97fb2d5501ce65fec4fafbe75d",
+        "committed_date": "2024-09-30T16:43:10.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-09-30T13:18:24.078Z",
+        "namespace_hint": "amazon",
+        "project_hint": "cupcake",
+        "project_id": 5437,
+        "project_path": "amazon/cupcake"
+      },
+      "revision": "4dc624c60f549a97fb2d5501ce65fec4fafbe75d",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/cupcake/-/tree/4dc624c60f549a97fb2d5501ce65fec4fafbe75d"
+    },
+    {
+      "item_id": "amazon/cypress@cypress-user-9-PS7466.5256N-0032918243328-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "cypress-user-9-PS7466.5256N-0032918243328-amz-p,release-keys",
+        "commit": "0a6dc34b09af8529749fec1df84ec6e3eb9a85d3",
+        "committed_date": "2026-01-01T12:45:09.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-01-01T09:43:34.469Z",
+        "namespace_hint": "amazon",
+        "project_hint": "cypress",
+        "project_id": 5727,
+        "project_path": "amazon/cypress"
+      },
+      "revision": "0a6dc34b09af8529749fec1df84ec6e3eb9a85d3",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/cypress/-/tree/0a6dc34b09af8529749fec1df84ec6e3eb9a85d3"
+    },
+    {
+      "item_id": "amazon/donut_puffin@donut_puffin-user-6.0-NS6566-6813-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "donut_puffin-user-6.0-NS6566-6813-amz-p,release-keys",
+        "commit": "8d693724f7e83ac432545c1f0768e76e661e343a",
+        "committed_date": "2025-09-14T21:19:49.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-09-14T18:19:38.443Z",
+        "namespace_hint": "amazon",
+        "project_hint": "donut_puffin",
+        "project_id": 5686,
+        "project_path": "amazon/donut_puffin"
+      },
+      "revision": "8d693724f7e83ac432545c1f0768e76e661e343a",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/donut_puffin/-/tree/8d693724f7e83ac432545c1f0768e76e661e343a"
+    },
+    {
+      "item_id": "amazon/douglas@douglas-user-5.1.1-LVY48F-50.6.3.6_user_636558520-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "douglas-user-5.1.1-LVY48F-50.6.3.6_user_636558520-release-keys",
+        "commit": "4c3fb3074e2dbbe06675b8875d79a1edae362e00",
+        "committed_date": "2019-09-19T20:56:37.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-19T11:18:33.886Z",
+        "namespace_hint": "amazon",
+        "project_hint": "douglas",
+        "project_id": 848,
+        "project_path": "amazon/douglas"
+      },
+      "revision": "4c3fb3074e2dbbe06675b8875d79a1edae362e00",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/douglas/-/tree/4c3fb3074e2dbbe06675b8875d79a1edae362e00"
+    },
+    {
+      "item_id": "amazon/douglas@douglas-user-5.1.1-LVY48F-50.6.5.4_user_654620420-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "douglas-user-5.1.1-LVY48F-50.6.5.4_user_654620420-release-keys",
+        "commit": "b7e7086bf3ca816c55839607624aa90dbba117a0",
+        "committed_date": "2020-04-27T18:39:34.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-19T11:18:33.886Z",
+        "namespace_hint": "amazon",
+        "project_hint": "douglas",
+        "project_id": 848,
+        "project_path": "amazon/douglas"
+      },
+      "revision": "b7e7086bf3ca816c55839607624aa90dbba117a0",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/douglas/-/tree/b7e7086bf3ca816c55839607624aa90dbba117a0"
+    },
+    {
+      "item_id": "amazon/duckie@duckie-user-9-PS7704.5024N-0033723490304-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "duckie-user-9-PS7704.5024N-0033723490304-amz-p,release-keys",
+        "commit": "6e5d1e9dd16ff6d35178279ca82bcb97b4c840fa",
+        "committed_date": "2026-02-15T21:15:07.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-02-15T18:14:03.497Z",
+        "namespace_hint": "amazon",
+        "project_hint": "duckie",
+        "project_id": 5744,
+        "project_path": "amazon/duckie"
+      },
+      "revision": "6e5d1e9dd16ff6d35178279ca82bcb97b4c840fa",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/duckie/-/tree/6e5d1e9dd16ff6d35178279ca82bcb97b4c840fa"
+    },
+    {
+      "item_id": "amazon/ford@full_ford-user-5.1-LMY47O-37.5.2.2_user_522049450-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_ford-user-5.1-LMY47O-37.5.2.2_user_522049450-release-keys",
+        "commit": "77987958687b497d9c878b56aecae327e35373a7",
+        "committed_date": "2025-10-04T00:39:33.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-10-03T21:41:21.171Z",
+        "namespace_hint": "amazon",
+        "project_hint": "ford",
+        "project_id": 1018,
+        "project_path": "amazon/ford"
+      },
+      "revision": "77987958687b497d9c878b56aecae327e35373a7",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/ford/-/tree/77987958687b497d9c878b56aecae327e35373a7"
+    },
+    {
+      "item_id": "amazon/ford@full_ford-user-5.1.1-LVY48F-37.6.2.6_user_626533320-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_ford-user-5.1.1-LVY48F-37.6.2.6_user_626533320-release-keys",
+        "commit": "06a9273bc4a57d0b3e16aa5adfa8f92d335ce431",
+        "committed_date": "2019-09-19T21:41:34.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2025-10-03T21:41:21.171Z",
+        "namespace_hint": "amazon",
+        "project_hint": "ford",
+        "project_id": 1018,
+        "project_path": "amazon/ford"
+      },
+      "revision": "06a9273bc4a57d0b3e16aa5adfa8f92d335ce431",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/ford/-/tree/06a9273bc4a57d0b3e16aa5adfa8f92d335ce431"
+    },
+    {
+      "item_id": "amazon/gazelle@gazelle-user-9-PS7299.3052N-0024596179968-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "gazelle-user-9-PS7299.3052N-0024596179968-amz-p,release-keys",
+        "commit": "899a88beda04fd8e0d9e3d09fc84e4bae83f0785",
+        "committed_date": "2024-03-08T07:02:10.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-10-06T08:34:19.225Z",
+        "namespace_hint": "amazon",
+        "project_hint": "gazelle",
+        "project_id": 4875,
+        "project_path": "amazon/gazelle"
+      },
+      "revision": "899a88beda04fd8e0d9e3d09fc84e4bae83f0785",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/gazelle/-/tree/899a88beda04fd8e0d9e3d09fc84e4bae83f0785"
+    },
+    {
+      "item_id": "amazon/gazelle@gazelle-user-9-PS7669.4007N-0029696698112-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "gazelle-user-9-PS7669.4007N-0029696698112-amz-p,release-keys",
+        "commit": "2ad97695f8ee5943befd77e7e2067d1f0c23babe",
+        "committed_date": "2024-03-21T03:59:56.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-10-06T08:34:19.225Z",
+        "namespace_hint": "amazon",
+        "project_hint": "gazelle",
+        "project_id": 4875,
+        "project_path": "amazon/gazelle"
+      },
+      "revision": "2ad97695f8ee5943befd77e7e2067d1f0c23babe",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/gazelle/-/tree/2ad97695f8ee5943befd77e7e2067d1f0c23babe"
+    },
+    {
+      "item_id": "amazon/gazelle@gazelle-user-9-PS7704.5024N-0033723490304-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "gazelle-user-9-PS7704.5024N-0033723490304-amz-p,release-keys",
+        "commit": "20ea69d7550cea4baebf390e8f1337d81339a6dc",
+        "committed_date": "2025-10-06T11:32:31.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-10-06T08:34:19.225Z",
+        "namespace_hint": "amazon",
+        "project_hint": "gazelle",
+        "project_id": 4875,
+        "project_path": "amazon/gazelle"
+      },
+      "revision": "20ea69d7550cea4baebf390e8f1337d81339a6dc",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/gazelle/-/tree/20ea69d7550cea4baebf390e8f1337d81339a6dc"
+    },
+    {
+      "item_id": "amazon/giza@full_giza-user-5.1.1-LVY48F-49.6.2.6_user_626533320-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_giza-user-5.1.1-LVY48F-49.6.2.6_user_626533320-release-keys",
+        "commit": "77474709b6abe4934f90056bc3d35d9dc4cb8dad",
+        "committed_date": "2019-09-19T21:40:18.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-08T17:27:05.385Z",
+        "namespace_hint": "amazon",
+        "project_hint": "giza",
+        "project_id": 1035,
+        "project_path": "amazon/giza"
+      },
+      "revision": "77474709b6abe4934f90056bc3d35d9dc4cb8dad",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/giza/-/tree/77474709b6abe4934f90056bc3d35d9dc4cb8dad"
+    },
+    {
+      "item_id": "amazon/giza@full_giza-user-5.1.1-LVY48F-49.6.2.6_user_626549020-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_giza-user-5.1.1-LVY48F-49.6.2.6_user_626549020-release-keys",
+        "commit": "c3bb7a3ff2aafa79dcd1300c83ba1ff95b4f041f",
+        "committed_date": "2024-12-08T20:25:31.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-12-08T17:27:05.385Z",
+        "namespace_hint": "amazon",
+        "project_hint": "giza",
+        "project_id": 1035,
+        "project_path": "amazon/giza"
+      },
+      "revision": "c3bb7a3ff2aafa79dcd1300c83ba1ff95b4f041f",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/giza/-/tree/c3bb7a3ff2aafa79dcd1300c83ba1ff95b4f041f"
+    },
+    {
+      "item_id": "amazon/kara@kara-user-7.0-PS7273-2625-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "kara-user-7.0-PS7273-2625-amz-p,release-keys",
+        "commit": "e3cc43cd8a8ea4a13e1977596da224baeababf90",
+        "committed_date": "2024-03-20T13:11:23.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-10-03T11:57:02.440Z",
+        "namespace_hint": "amazon",
+        "project_hint": "kara",
+        "project_id": 5189,
+        "project_path": "amazon/kara"
+      },
+      "revision": "e3cc43cd8a8ea4a13e1977596da224baeababf90",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/kara/-/tree/e3cc43cd8a8ea4a13e1977596da224baeababf90"
+    },
+    {
+      "item_id": "amazon/kara@kara-user-9-PS7681.4384N-0031106080768-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "kara-user-9-PS7681.4384N-0031106080768-amz-p,release-keys",
+        "commit": "507e779a7bd75e7f0b5f236f9eef4020cb6e60ed",
+        "committed_date": "2024-10-03T14:55:31.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-03T11:57:02.440Z",
+        "namespace_hint": "amazon",
+        "project_hint": "kara",
+        "project_id": 5189,
+        "project_path": "amazon/kara"
+      },
+      "revision": "507e779a7bd75e7f0b5f236f9eef4020cb6e60ed",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/kara/-/tree/507e779a7bd75e7f0b5f236f9eef4020cb6e60ed"
+    },
+    {
+      "item_id": "amazon/karat@karat-user-11-RS8158.4105N-0030468475136-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "karat-user-11-RS8158.4105N-0030468475136-amz-p,release-keys",
+        "commit": "7f236b369934bf310b306af82dad22c90fb9e384",
+        "committed_date": "2025-12-24T07:09:54.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-12-24T04:09:06.441Z",
+        "namespace_hint": "amazon",
+        "project_hint": "karat",
+        "project_id": 5722,
+        "project_path": "amazon/karat"
+      },
+      "revision": "7f236b369934bf310b306af82dad22c90fb9e384",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/karat/-/tree/7f236b369934bf310b306af82dad22c90fb9e384"
+    },
+    {
+      "item_id": "amazon/karnak@karnak-user-6.0-NS6312-1852-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "karnak-user-6.0-NS6312-1852-amz-p,release-keys",
+        "commit": "7170aac0cb1fc0111e0395eeedd07d64d0796479",
+        "committed_date": "2019-09-19T20:48:18.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-26T06:48:41.387Z",
+        "namespace_hint": "amazon",
+        "project_hint": "karnak",
+        "project_id": 1199,
+        "project_path": "amazon/karnak"
+      },
+      "revision": "7170aac0cb1fc0111e0395eeedd07d64d0796479",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/karnak/-/tree/7170aac0cb1fc0111e0395eeedd07d64d0796479"
+    },
+    {
+      "item_id": "amazon/karnak@karnak-user-9-PS7329.3842N-0029294002688-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "karnak-user-9-PS7329.3842N-0029294002688-amz-p,release-keys",
+        "commit": "a3eae7da277a5c6b17a0fa5c0ee9c29f81917de4",
+        "committed_date": "2024-03-26T09:45:13.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-26T06:48:41.387Z",
+        "namespace_hint": "amazon",
+        "project_hint": "karnak",
+        "project_id": 1199,
+        "project_path": "amazon/karnak"
+      },
+      "revision": "a3eae7da277a5c6b17a0fa5c0ee9c29f81917de4",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/karnak/-/tree/a3eae7da277a5c6b17a0fa5c0ee9c29f81917de4"
+    },
+    {
+      "item_id": "amazon/kayak@kayak-user-6.0-NMAIN1-2026-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "kayak-user-6.0-NMAIN1-2026-amz-p,release-keys",
+        "commit": "65249732bb7d49f2be06ccaf6eefbc66505ad68d",
+        "committed_date": "2025-02-04T22:25:04.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-02-04T19:24:42.913Z",
+        "namespace_hint": "amazon",
+        "project_hint": "kayak",
+        "project_id": 5563,
+        "project_path": "amazon/kayak"
+      },
+      "revision": "65249732bb7d49f2be06ccaf6eefbc66505ad68d",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/kayak/-/tree/65249732bb7d49f2be06ccaf6eefbc66505ad68d"
+    },
+    {
+      "item_id": "amazon/mantis@mantis-user-6.0-NS6265-2157-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "mantis-user-6.0-NS6265-2157-amz-p,release-keys",
+        "commit": "e2ae37d1c51a722a49521caebabf1a44f2fb737a",
+        "committed_date": "2019-10-13T08:40:56.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-28T22:33:54.377Z",
+        "namespace_hint": "amazon",
+        "project_hint": "mantis",
+        "project_id": 767,
+        "project_path": "amazon/mantis"
+      },
+      "revision": "e2ae37d1c51a722a49521caebabf1a44f2fb737a",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/mantis/-/tree/e2ae37d1c51a722a49521caebabf1a44f2fb737a"
+    },
+    {
+      "item_id": "amazon/mantis@mantis-user-6.0-NS6706-5471-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "mantis-user-6.0-NS6706-5471-amz-p,release-keys",
+        "commit": "85c01323f7a0e41ace6595146ec6c7103bc7578e",
+        "committed_date": "2025-01-04T19:49:24.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-28T22:33:54.377Z",
+        "namespace_hint": "amazon",
+        "project_hint": "mantis",
+        "project_id": 767,
+        "project_path": "amazon/mantis"
+      },
+      "revision": "85c01323f7a0e41ace6595146ec6c7103bc7578e",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/mantis/-/tree/85c01323f7a0e41ace6595146ec6c7103bc7578e"
+    },
+    {
+      "item_id": "amazon/mantis@mantis-user-6.0-NS6709-5669-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "mantis-user-6.0-NS6709-5669-amz-p,release-keys",
+        "commit": "33fdd90b1a70c1f0ba4d926523e1f6557f950295",
+        "committed_date": "2025-01-29T01:32:38.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-01-28T22:33:54.377Z",
+        "namespace_hint": "amazon",
+        "project_hint": "mantis",
+        "project_id": 767,
+        "project_path": "amazon/mantis"
+      },
+      "revision": "33fdd90b1a70c1f0ba4d926523e1f6557f950295",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/mantis/-/tree/33fdd90b1a70c1f0ba4d926523e1f6557f950295"
+    },
+    {
+      "item_id": "amazon/maverick@maverick-user-7.0-PS7311-1065-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "maverick-user-7.0-PS7311-1065-amz-p,release-keys",
+        "commit": "4835f51a773e612c528d915715d7d559e32d0aa1",
+        "committed_date": "2019-10-31T06:40:24.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-19T11:32:38.761Z",
+        "namespace_hint": "amazon",
+        "project_hint": "maverick",
+        "project_id": 1100,
+        "project_path": "amazon/maverick"
+      },
+      "revision": "4835f51a773e612c528d915715d7d559e32d0aa1",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/maverick/-/tree/4835f51a773e612c528d915715d7d559e32d0aa1"
+    },
+    {
+      "item_id": "amazon/mustang@mustang-user-6.0-NS6312-1852-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "mustang-user-6.0-NS6312-1852-amz-p,release-keys",
+        "commit": "2a2e7a0449dcf908c3f6beae20d827b9f24da0d3",
+        "committed_date": "2019-09-19T20:46:04.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2025-10-01T21:15:14.259Z",
+        "namespace_hint": "amazon",
+        "project_hint": "mustang",
+        "project_id": 1864,
+        "project_path": "amazon/mustang"
+      },
+      "revision": "2a2e7a0449dcf908c3f6beae20d827b9f24da0d3",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/mustang/-/tree/2a2e7a0449dcf908c3f6beae20d827b9f24da0d3"
+    },
+    {
+      "item_id": "amazon/mustang@mustang-user-9-PS7329.3842N-0029294002688-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "mustang-user-9-PS7329.3842N-0029294002688-amz-p,release-keys",
+        "commit": "81c8b751e913af38154b035d6f227bcbe2903f26",
+        "committed_date": "2024-03-20T21:35:49.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-10-01T21:15:14.259Z",
+        "namespace_hint": "amazon",
+        "project_hint": "mustang",
+        "project_id": 1864,
+        "project_path": "amazon/mustang"
+      },
+      "revision": "81c8b751e913af38154b035d6f227bcbe2903f26",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/mustang/-/tree/81c8b751e913af38154b035d6f227bcbe2903f26"
+    },
+    {
+      "item_id": "amazon/mustang@mustang-user-9-PS7331.4463N-0031575863040-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "mustang-user-9-PS7331.4463N-0031575863040-amz-p,release-keys",
+        "commit": "4b377bca5562ad2bc242e47ff02cfe51a23f71f2",
+        "committed_date": "2025-10-02T00:12:01.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-10-01T21:15:14.259Z",
+        "namespace_hint": "amazon",
+        "project_hint": "mustang",
+        "project_id": 1864,
+        "project_path": "amazon/mustang"
+      },
+      "revision": "4b377bca5562ad2bc242e47ff02cfe51a23f71f2",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/mustang/-/tree/4b377bca5562ad2bc242e47ff02cfe51a23f71f2"
+    },
+    {
+      "item_id": "amazon/needle@needle-user-6.0-NS6210-399-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "needle-user-6.0-NS6210-399-amz-p,release-keys",
+        "commit": "f869fc9b2a89f77206c33b84ff3363f2fec06ef8",
+        "committed_date": "2024-07-17T02:54:06.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-07-16T23:53:29.374Z",
+        "namespace_hint": "amazon",
+        "project_hint": "needle",
+        "project_id": 5336,
+        "project_path": "amazon/needle"
+      },
+      "revision": "f869fc9b2a89f77206c33b84ff3363f2fec06ef8",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/needle/-/tree/f869fc9b2a89f77206c33b84ff3363f2fec06ef8"
+    },
+    {
+      "item_id": "amazon/onyx@onyx-user-9-PS7329.3842N-0029294002688-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "onyx-user-9-PS7329.3842N-0029294002688-amz-p,release-keys",
+        "commit": "a0eaf4a574c63aee5a28bb998cdaedd7d4b2d27c",
+        "committed_date": "2024-03-20T14:13:11.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-20T11:11:55.150Z",
+        "namespace_hint": "amazon",
+        "project_hint": "onyx",
+        "project_id": 5191,
+        "project_path": "amazon/onyx"
+      },
+      "revision": "a0eaf4a574c63aee5a28bb998cdaedd7d4b2d27c",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/onyx/-/tree/a0eaf4a574c63aee5a28bb998cdaedd7d4b2d27c"
+    },
+    {
+      "item_id": "amazon/quartz@quartz-user-11-RS8322.2053N-0022045787392-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "quartz-user-11-RS8322.2053N-0022045787392-amz-p,release-keys",
+        "commit": "028cb1ad5153997cfd00e5fa79bb4d954419dfe8",
+        "committed_date": "2024-03-20T12:17:47.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-20T09:16:15.135Z",
+        "namespace_hint": "amazon",
+        "project_hint": "quartz",
+        "project_id": 5187,
+        "project_path": "amazon/quartz"
+      },
+      "revision": "028cb1ad5153997cfd00e5fa79bb4d954419dfe8",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/quartz/-/tree/028cb1ad5153997cfd00e5fa79bb4d954419dfe8"
+    },
+    {
+      "item_id": "amazon/radar@csm_radar-user-5.1.1-LVY48F-288.6.8.0_user_680767620-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "csm_radar-user-5.1.1-LVY48F-288.6.8.0_user_680767620-release-keys",
+        "commit": "3c671f93adee3a97cc28077a1837c6c290cd0bd8",
+        "committed_date": "2026-01-04T20:37:42.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-01-04T17:37:12.711Z",
+        "namespace_hint": "amazon",
+        "project_hint": "radar",
+        "project_id": 5729,
+        "project_path": "amazon/radar"
+      },
+      "revision": "3c671f93adee3a97cc28077a1837c6c290cd0bd8",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/radar/-/tree/3c671f93adee3a97cc28077a1837c6c290cd0bd8"
+    },
+    {
+      "item_id": "amazon/radar_puffin@radar_puffin-user-6.0-NS6566-6813-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "radar_puffin-user-6.0-NS6566-6813-amz-p,release-keys",
+        "commit": "a34b131b1f4ffbde090cc6a0257ef844c58bd384",
+        "committed_date": "2026-01-04T20:39:21.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-01-04T17:39:10.599Z",
+        "namespace_hint": "amazon",
+        "project_hint": "radar_puffin",
+        "project_id": 5730,
+        "project_path": "amazon/radar_puffin"
+      },
+      "revision": "a34b131b1f4ffbde090cc6a0257ef844c58bd384",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/radar_puffin/-/tree/a34b131b1f4ffbde090cc6a0257ef844c58bd384"
+    },
+    {
+      "item_id": "amazon/raspite@raspite-user-11-RS8322.2053N-0022045787392-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "raspite-user-11-RS8322.2053N-0022045787392-amz-p,release-keys",
+        "commit": "1cd9a2905037d354f96c93e14d02fad26e039ff7",
+        "committed_date": "2024-03-20T12:52:50.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-20T09:51:16.063Z",
+        "namespace_hint": "amazon",
+        "project_hint": "raspite",
+        "project_id": 5188,
+        "project_path": "amazon/raspite"
+      },
+      "revision": "1cd9a2905037d354f96c93e14d02fad26e039ff7",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/raspite/-/tree/1cd9a2905037d354f96c93e14d02fad26e039ff7"
+    },
+    {
+      "item_id": "amazon/raven@raven-user-7.0-PS7242-3516-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "raven-user-7.0-PS7242-3516-amz-p,release-keys",
+        "commit": "a1e1bbeedfdc0d14a0283388407cbcaca9840e04",
+        "committed_date": "2024-03-10T04:22:18.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-19T11:37:23.673Z",
+        "namespace_hint": "amazon",
+        "project_hint": "raven",
+        "project_id": 5078,
+        "project_path": "amazon/raven"
+      },
+      "revision": "a1e1bbeedfdc0d14a0283388407cbcaca9840e04",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/raven/-/tree/a1e1bbeedfdc0d14a0283388407cbcaca9840e04"
+    },
+    {
+      "item_id": "amazon/raven@raven-user-9-PS7669.4007N-0029696698112-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "raven-user-9-PS7669.4007N-0029696698112-amz-p,release-keys",
+        "commit": "9805572043320ac8540f637e67f9abd113353526",
+        "committed_date": "2024-03-09T05:18:09.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-19T11:37:23.673Z",
+        "namespace_hint": "amazon",
+        "project_hint": "raven",
+        "project_id": 5078,
+        "project_path": "amazon/raven"
+      },
+      "revision": "9805572043320ac8540f637e67f9abd113353526",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/raven/-/tree/9805572043320ac8540f637e67f9abd113353526"
+    },
+    {
+      "item_id": "amazon/rook@rook-userdebug-5.1.1-LVY48F-304.6.1.8_userdebug_618515610-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "rook-userdebug-5.1.1-LVY48F-304.6.1.8_userdebug_618515610-test-keys",
+        "commit": "c07a7ab9de55a12d17f18ec59bf967d829a8d3e0",
+        "committed_date": "2025-09-14T21:35:26.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-09-14T18:34:35.815Z",
+        "namespace_hint": "amazon",
+        "project_hint": "rook",
+        "project_id": 5687,
+        "project_path": "amazon/rook"
+      },
+      "revision": "c07a7ab9de55a12d17f18ec59bf967d829a8d3e0",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/rook/-/tree/c07a7ab9de55a12d17f18ec59bf967d829a8d3e0"
+    },
+    {
+      "item_id": "amazon/sheldon@sheldon-user-7.0-PS7242-2896-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sheldon-user-7.0-PS7242-2896-amz-p,release-keys",
+        "commit": "9524d868fc012670a309d8ca54298e2658761584",
+        "committed_date": "2024-03-26T10:56:56.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-01T16:20:41.389Z",
+        "namespace_hint": "amazon",
+        "project_hint": "sheldon",
+        "project_id": 5203,
+        "project_path": "amazon/sheldon"
+      },
+      "revision": "9524d868fc012670a309d8ca54298e2658761584",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/sheldon/-/tree/9524d868fc012670a309d8ca54298e2658761584"
+    },
+    {
+      "item_id": "amazon/sheldon@sheldon-user-9-PS7669.4007N-0029696698112-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sheldon-user-9-PS7669.4007N-0029696698112-amz-p,release-keys",
+        "commit": "f470688818bc6f930c14374b5cd8ba267a242085",
+        "committed_date": "2024-12-01T19:19:13.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-12-01T16:20:41.389Z",
+        "namespace_hint": "amazon",
+        "project_hint": "sheldon",
+        "project_id": 5203,
+        "project_path": "amazon/sheldon"
+      },
+      "revision": "f470688818bc6f930c14374b5cd8ba267a242085",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/sheldon/-/tree/f470688818bc6f930c14374b5cd8ba267a242085"
+    },
+    {
+      "item_id": "amazon/sheldonp@sheldonp-user-7.0-PS7234-2042-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sheldonp-user-7.0-PS7234-2042-amz-p,release-keys",
+        "commit": "323b7fb0dc0e8310e8d3c64266efd83d13745c37",
+        "committed_date": "2024-03-26T09:13:55.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-26T06:13:10.685Z",
+        "namespace_hint": "amazon",
+        "project_hint": "sheldonp",
+        "project_id": 5202,
+        "project_path": "amazon/sheldonp"
+      },
+      "revision": "323b7fb0dc0e8310e8d3c64266efd83d13745c37",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/sheldonp/-/tree/323b7fb0dc0e8310e8d3c64266efd83d13745c37"
+    },
+    {
+      "item_id": "amazon/sloane@full_sloane-user-5.1.1-LVY48F-36.6.3.9_user_639566320-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_sloane-user-5.1.1-LVY48F-36.6.3.9_user_639566320-release-keys",
+        "commit": "4404d54831f2072cb6149c73add709bc0af0c0aa",
+        "committed_date": "2019-09-20T05:01:59.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-19T11:34:14.524Z",
+        "namespace_hint": "amazon",
+        "project_hint": "sloane",
+        "project_id": 2313,
+        "project_path": "amazon/sloane"
+      },
+      "revision": "4404d54831f2072cb6149c73add709bc0af0c0aa",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/sloane/-/tree/4404d54831f2072cb6149c73add709bc0af0c0aa"
+    },
+    {
+      "item_id": "amazon/stark@stark-user-6.0-NS6265-2157-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "stark-user-6.0-NS6265-2157-amz-p,release-keys",
+        "commit": "8e88a6c810a7baeb05c2714f7460db029e017870",
+        "committed_date": "2024-07-17T11:42:51.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-07-17T08:42:03.181Z",
+        "namespace_hint": "amazon",
+        "project_hint": "stark",
+        "project_id": 5338,
+        "project_path": "amazon/stark"
+      },
+      "revision": "8e88a6c810a7baeb05c2714f7460db029e017870",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/stark/-/tree/8e88a6c810a7baeb05c2714f7460db029e017870"
+    },
+    {
+      "item_id": "amazon/suez@suez-user-5.1.1-LVY48F-40.6.3.6_user_636558520-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "suez-user-5.1.1-LVY48F-40.6.3.6_user_636558520-release-keys",
+        "commit": "8378e4ae9baa62bdb9bb11a622e67ba84bbac7ef",
+        "committed_date": "2019-09-19T20:53:27.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2025-10-26T16:50:20.407Z",
+        "namespace_hint": "amazon",
+        "project_hint": "suez",
+        "project_id": 2190,
+        "project_path": "amazon/suez"
+      },
+      "revision": "8378e4ae9baa62bdb9bb11a622e67ba84bbac7ef",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/suez/-/tree/8378e4ae9baa62bdb9bb11a622e67ba84bbac7ef"
+    },
+    {
+      "item_id": "amazon/suez@suez-user-5.1.1-LVY48F-40.6.3.6_user_636558720-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "suez-user-5.1.1-LVY48F-40.6.3.6_user_636558720-release-keys",
+        "commit": "58caf934823f9e23d50e928390de03a4b1378a1a",
+        "committed_date": "2019-09-19T21:40:40.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2025-10-26T16:50:20.407Z",
+        "namespace_hint": "amazon",
+        "project_hint": "suez",
+        "project_id": 2190,
+        "project_path": "amazon/suez"
+      },
+      "revision": "58caf934823f9e23d50e928390de03a4b1378a1a",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/suez/-/tree/58caf934823f9e23d50e928390de03a4b1378a1a"
+    },
+    {
+      "item_id": "amazon/suez@suez-user-5.1.1-LVY48F-40.6.5.4_user_654620420-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "suez-user-5.1.1-LVY48F-40.6.5.4_user_654620420-release-keys",
+        "commit": "d6c05f2f00cb3f3cdaa0e8f5d64020d84eb49a68",
+        "committed_date": "2020-04-27T18:39:41.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2025-10-26T16:50:20.407Z",
+        "namespace_hint": "amazon",
+        "project_hint": "suez",
+        "project_id": 2190,
+        "project_path": "amazon/suez"
+      },
+      "revision": "d6c05f2f00cb3f3cdaa0e8f5d64020d84eb49a68",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/suez/-/tree/d6c05f2f00cb3f3cdaa0e8f5d64020d84eb49a68"
+    },
+    {
+      "item_id": "amazon/suez@suez-user-5.1.1-LVY48F-40.6.5.9_user_659664620-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "suez-user-5.1.1-LVY48F-40.6.5.9_user_659664620-release-keys",
+        "commit": "f6132d711404443b0693b8a1e4b3d6d71ce224bf",
+        "committed_date": "2025-10-26T19:48:36.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-10-26T16:50:20.407Z",
+        "namespace_hint": "amazon",
+        "project_hint": "suez",
+        "project_id": 2190,
+        "project_path": "amazon/suez"
+      },
+      "revision": "f6132d711404443b0693b8a1e4b3d6d71ce224bf",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/suez/-/tree/f6132d711404443b0693b8a1e4b3d6d71ce224bf"
+    },
+    {
+      "item_id": "amazon/sunstone@sunstone-user-11-RS8322.2053N-0022045787392-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sunstone-user-11-RS8322.2053N-0022045787392-amz-p,release-keys",
+        "commit": "53a6f5977ba4437320a1070ddea12885bc0bab81",
+        "committed_date": "2024-03-20T08:26:43.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-20T05:24:58.713Z",
+        "namespace_hint": "amazon",
+        "project_hint": "sunstone",
+        "project_id": 5185,
+        "project_path": "amazon/sunstone"
+      },
+      "revision": "53a6f5977ba4437320a1070ddea12885bc0bab81",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/sunstone/-/tree/53a6f5977ba4437320a1070ddea12885bc0bab81"
+    },
+    {
+      "item_id": "amazon/tank@full_tank-user-5.1.1-LVY48F-288.5.5.5_user_555164620-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_tank-user-5.1.1-LVY48F-288.5.5.5_user_555164620-release-keys",
+        "commit": "0cfc75f791c019ef1185c436498c368348df9e25",
+        "committed_date": "2024-03-08T04:26:42.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-19T11:35:58.791Z",
+        "namespace_hint": "amazon",
+        "project_hint": "tank",
+        "project_id": 4877,
+        "project_path": "amazon/tank"
+      },
+      "revision": "0cfc75f791c019ef1185c436498c368348df9e25",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/tank/-/tree/0cfc75f791c019ef1185c436498c368348df9e25"
+    },
+    {
+      "item_id": "amazon/thebes@full_thebes-user-5.1.1-LVY48F-32.6.2.6_user_626533320-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_thebes-user-5.1.1-LVY48F-32.6.2.6_user_626533320-release-keys",
+        "commit": "0cc6c0ef2107055d16baf9cc562050231bf307ec",
+        "committed_date": "2019-09-19T21:41:33.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-19T11:37:01.163Z",
+        "namespace_hint": "amazon",
+        "project_hint": "thebes",
+        "project_id": 1196,
+        "project_path": "amazon/thebes"
+      },
+      "revision": "0cc6c0ef2107055d16baf9cc562050231bf307ec",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/thebes/-/tree/0cc6c0ef2107055d16baf9cc562050231bf307ec"
+    },
+    {
+      "item_id": "amazon/theia@theia-user-9-PS7571.5148N-0033857739776-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "theia-user-9-PS7571.5148N-0033857739776-amz-p,release-keys",
+        "commit": "12ee623afc30b5cbe75ee9696f734d114e456574",
+        "committed_date": "2026-01-18T13:17:28.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-02-21T18:05:08.273Z",
+        "namespace_hint": "amazon",
+        "project_hint": "theia",
+        "project_id": 5737,
+        "project_path": "amazon/theia"
+      },
+      "revision": "12ee623afc30b5cbe75ee9696f734d114e456574",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/theia/-/tree/12ee623afc30b5cbe75ee9696f734d114e456574"
+    },
+    {
+      "item_id": "amazon/theia@theia-user-9-PS7571.5162N-0033857743360-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "theia-user-9-PS7571.5162N-0033857743360-amz-p,release-keys",
+        "commit": "56e2264870a51a3ef95b97cc1487d7dd3c2f1420",
+        "committed_date": "2026-02-21T21:02:10.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-02-21T18:05:08.273Z",
+        "namespace_hint": "amazon",
+        "project_hint": "theia",
+        "project_id": 5737,
+        "project_path": "amazon/theia"
+      },
+      "revision": "56e2264870a51a3ef95b97cc1487d7dd3c2f1420",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/theia/-/tree/56e2264870a51a3ef95b97cc1487d7dd3c2f1420"
+    },
+    {
+      "item_id": "amazon/trona@trona-user-9-PS7329.3842N-0029294002688-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "trona-user-9-PS7329.3842N-0029294002688-amz-p,release-keys",
+        "commit": "f7441f3678c18ace0a8fe3a9858af7ae3b5eb86b",
+        "committed_date": "2024-03-20T13:45:33.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-20T10:44:01.814Z",
+        "namespace_hint": "amazon",
+        "project_hint": "trona",
+        "project_id": 5190,
+        "project_path": "amazon/trona"
+      },
+      "revision": "f7441f3678c18ace0a8fe3a9858af7ae3b5eb86b",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/trona/-/tree/f7441f3678c18ace0a8fe3a9858af7ae3b5eb86b"
+    },
+    {
+      "item_id": "amazon/tungsten@tungsten-user-11-RS8322.2053N-0022045787392-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "tungsten-user-11-RS8322.2053N-0022045787392-amz-p,release-keys",
+        "commit": "f058eb93db67460e9846421339b050b04c5cc022",
+        "committed_date": "2024-03-20T11:33:21.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-20T08:31:41.973Z",
+        "namespace_hint": "amazon",
+        "project_hint": "tungsten",
+        "project_id": 5186,
+        "project_path": "amazon/tungsten"
+      },
+      "revision": "f058eb93db67460e9846421339b050b04c5cc022",
+      "url": "https://dumps.tadiphone.dev/dumps/amazon/tungsten/-/tree/f058eb93db67460e9846421339b050b04c5cc022"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

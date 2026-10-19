@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "casio/ayu@ayu-user-8.0.0-OWD3.180205.016-4710229-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ayu-user-8.0.0-OWD3.180205.016-4710229-release-keys",
+        "commit": "0460d4e1d71868a082222f8bc909c1ae47fa94b1",
+        "committed_date": "2022-12-27T03:54:54.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-12-27T00:54:32.341Z",
+        "namespace_hint": "casio",
+        "project_hint": "ayu",
+        "project_id": 4009,
+        "project_path": "casio/ayu"
+      },
+      "revision": "0460d4e1d71868a082222f8bc909c1ae47fa94b1",
+      "url": "https://dumps.tadiphone.dev/dumps/casio/ayu/-/tree/0460d4e1d71868a082222f8bc909c1ae47fa94b1"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

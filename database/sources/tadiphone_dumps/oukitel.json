@@ -1,0 +1,77 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "oukitel/c12@C12_EEA-user-8.1.0-O11019-1554082491-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "C12_EEA-user-8.1.0-O11019-1554082491-release-keys",
+        "commit": "20c0e3755a39e17b94344153e80b50789f80d5c0",
+        "committed_date": "2019-10-29T06:55:26.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T23:34:29.443Z",
+        "namespace_hint": "oukitel",
+        "project_hint": "c12",
+        "project_id": 2218,
+        "project_path": "oukitel/c12"
+      },
+      "revision": "20c0e3755a39e17b94344153e80b50789f80d5c0",
+      "url": "https://dumps.tadiphone.dev/dumps/oukitel/c12/-/tree/20c0e3755a39e17b94344153e80b50789f80d5c0"
+    },
+    {
+      "item_id": "oukitel/c13_pro@C13_Pro_EEA-user-9-P00610-1551174696-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "C13_Pro_EEA-user-9-P00610-1551174696-release-keys",
+        "commit": "340710e9e9d8fed0fcff900aec8a0c3651b398a7",
+        "committed_date": "2019-09-13T11:23:45.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T19:37:47.416Z",
+        "namespace_hint": "oukitel",
+        "project_hint": "c13_pro",
+        "project_id": 773,
+        "project_path": "oukitel/c13_pro"
+      },
+      "revision": "340710e9e9d8fed0fcff900aec8a0c3651b398a7",
+      "url": "https://dumps.tadiphone.dev/dumps/oukitel/c13_pro/-/tree/340710e9e9d8fed0fcff900aec8a0c3651b398a7"
+    },
+    {
+      "item_id": "oukitel/c17_pro@C17_Pro_EEA-user-9-P00610-1566960731-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "C17_Pro_EEA-user-9-P00610-1566960731-release-keys",
+        "commit": "cbb8abe0c8d33628732746865440107cb50cfd23",
+        "committed_date": "2020-02-24T20:11:08.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T23:44:35.249Z",
+        "namespace_hint": "oukitel",
+        "project_hint": "c17_pro",
+        "project_id": 2233,
+        "project_path": "oukitel/c17_pro"
+      },
+      "revision": "cbb8abe0c8d33628732746865440107cb50cfd23",
+      "url": "https://dumps.tadiphone.dev/dumps/oukitel/c17_pro/-/tree/cbb8abe0c8d33628732746865440107cb50cfd23"
+    },
+    {
+      "item_id": "oukitel/rt6@sys_mssi_t_64_cn-user-13-TP1A.220624.014-1687711625-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_t_64_cn-user-13-TP1A.220624.014-1687711625-release-keys",
+        "commit": "0cda806a23d12f4fd983c66a0abefe482d772c36",
+        "committed_date": "2024-10-19T05:47:45.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-19T02:45:23.136Z",
+        "namespace_hint": "oukitel",
+        "project_hint": "rt6",
+        "project_id": 5462,
+        "project_path": "oukitel/rt6"
+      },
+      "revision": "0cda806a23d12f4fd983c66a0abefe482d772c36",
+      "url": "https://dumps.tadiphone.dev/dumps/oukitel/rt6/-/tree/0cda806a23d12f4fd983c66a0abefe482d772c36"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

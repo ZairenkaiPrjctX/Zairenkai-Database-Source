@@ -1,0 +1,94 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "dji/rc331@qssi-user-11-V00.01.04.98-10498-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-V00.01.04.98-10498-test-keys",
+        "commit": "eb65c1b130b33a2159fedbdd2c1e421350ad2f4c",
+        "committed_date": "2024-03-18T02:03:26.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-28T01:01:49.487Z",
+        "namespace_hint": "dji",
+        "project_hint": "rc331",
+        "project_id": 5179,
+        "project_path": "dji/rc331"
+      },
+      "revision": "eb65c1b130b33a2159fedbdd2c1e421350ad2f4c",
+      "url": "https://dumps.tadiphone.dev/dumps/dji/rc331/-/tree/eb65c1b130b33a2159fedbdd2c1e421350ad2f4c"
+    },
+    {
+      "item_id": "dji/rm330@rm330-user-10-V00.13.00.81-81-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "rm330-user-10-V00.13.00.81-81-test-keys",
+        "commit": "6f7d351c04764ae6c76afe483bb30331371b0016",
+        "committed_date": "2024-03-18T02:16:09.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-17T23:15:14.175Z",
+        "namespace_hint": "dji",
+        "project_hint": "rm330",
+        "project_id": 5180,
+        "project_path": "dji/rm330"
+      },
+      "revision": "6f7d351c04764ae6c76afe483bb30331371b0016",
+      "url": "https://dumps.tadiphone.dev/dumps/dji/rm330/-/tree/6f7d351c04764ae6c76afe483bb30331371b0016"
+    },
+    {
+      "item_id": "dji/rm500@rm500-user-7.1.2-V00.00.11.98-1198-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "rm500-user-7.1.2-V00.00.11.98-1198-release-keys",
+        "commit": "9968199f9646b4b87f77f5c8686522f07ef94e30",
+        "committed_date": "2024-03-18T02:22:41.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-17T23:20:36.129Z",
+        "namespace_hint": "dji",
+        "project_hint": "rm500",
+        "project_id": 5181,
+        "project_path": "dji/rm500"
+      },
+      "revision": "9968199f9646b4b87f77f5c8686522f07ef94e30",
+      "url": "https://dumps.tadiphone.dev/dumps/dji/rm500/-/tree/9968199f9646b4b87f77f5c8686522f07ef94e30"
+    },
+    {
+      "item_id": "dji/rm510@qssi-user-10-V03.06.01.66-166-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-V03.06.01.66-166-release-keys",
+        "commit": "f1be5869834d6bcb1e6a23a907e9b86620867f7a",
+        "committed_date": "2024-03-18T02:57:17.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-17T23:55:01.945Z",
+        "namespace_hint": "dji",
+        "project_hint": "rm510",
+        "project_id": 5183,
+        "project_path": "dji/rm510"
+      },
+      "revision": "f1be5869834d6bcb1e6a23a907e9b86620867f7a",
+      "url": "https://dumps.tadiphone.dev/dumps/dji/rm510/-/tree/f1be5869834d6bcb1e6a23a907e9b86620867f7a"
+    },
+    {
+      "item_id": "dji/rm700@qssi-user-10-V01.13.00.10-10-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-V01.13.00.10-10-release-keys",
+        "commit": "262760cbd7fb0b8fbf610cfd294a1346a3dcf67b",
+        "committed_date": "2024-03-18T02:46:45.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-17T23:44:49.903Z",
+        "namespace_hint": "dji",
+        "project_hint": "rm700",
+        "project_id": 5182,
+        "project_path": "dji/rm700"
+      },
+      "revision": "262760cbd7fb0b8fbf610cfd294a1346a3dcf67b",
+      "url": "https://dumps.tadiphone.dev/dumps/dji/rm700/-/tree/262760cbd7fb0b8fbf610cfd294a1346a3dcf67b"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

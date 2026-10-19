@@ -1,0 +1,111 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "fx_tec_pro1x/qx1050@qssi-user-11-RKQ1.211130.001-eng.leilia.20220701-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.211130.001-eng.leilia.20220701-release-keys",
+        "commit": "76a7adc2a5ab229d55dc806523df3906294fa95c",
+        "committed_date": "2022-07-03T12:47:01.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-06-27T04:43:35.154Z",
+        "namespace_hint": "fx_tec_pro1x",
+        "project_hint": "qx1050",
+        "project_id": 2342,
+        "project_path": "fx_tec_pro1x/qx1050"
+      },
+      "revision": "76a7adc2a5ab229d55dc806523df3906294fa95c",
+      "url": "https://dumps.tadiphone.dev/dumps/fx_tec_pro1x/qx1050/-/tree/76a7adc2a5ab229d55dc806523df3906294fa95c"
+    },
+    {
+      "item_id": "fx_tec_pro1x/qx1050@qssi-user-11-RKQ1.211130.001-eng.leilia.20220707-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.211130.001-eng.leilia.20220707-release-keys",
+        "commit": "29f52cc7e08f0a85abab4a2bd94a7bcde7c5dafc",
+        "committed_date": "2022-07-08T16:59:09.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-06-27T04:43:35.154Z",
+        "namespace_hint": "fx_tec_pro1x",
+        "project_hint": "qx1050",
+        "project_id": 2342,
+        "project_path": "fx_tec_pro1x/qx1050"
+      },
+      "revision": "29f52cc7e08f0a85abab4a2bd94a7bcde7c5dafc",
+      "url": "https://dumps.tadiphone.dev/dumps/fx_tec_pro1x/qx1050/-/tree/29f52cc7e08f0a85abab4a2bd94a7bcde7c5dafc"
+    },
+    {
+      "item_id": "fx_tec_pro1x/qx1050@qssi-user-11-RKQ1.211130.001-eng.leilia.20220713-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.211130.001-eng.leilia.20220713-release-keys",
+        "commit": "4752a8303f247eacb93f6b5ae860554f97259f9a",
+        "committed_date": "2022-07-15T14:12:42.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-06-27T04:43:35.154Z",
+        "namespace_hint": "fx_tec_pro1x",
+        "project_hint": "qx1050",
+        "project_id": 2342,
+        "project_path": "fx_tec_pro1x/qx1050"
+      },
+      "revision": "4752a8303f247eacb93f6b5ae860554f97259f9a",
+      "url": "https://dumps.tadiphone.dev/dumps/fx_tec_pro1x/qx1050/-/tree/4752a8303f247eacb93f6b5ae860554f97259f9a"
+    },
+    {
+      "item_id": "fx_tec_pro1x/qx1050@qssi-user-11-RKQ1.211130.001-eng.leilia.20220805-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.211130.001-eng.leilia.20220805-release-keys",
+        "commit": "6e2f12bbb68c3c60e996b4bd24c2ae2de2040d47",
+        "committed_date": "2022-08-06T12:36:00.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-06-27T04:43:35.154Z",
+        "namespace_hint": "fx_tec_pro1x",
+        "project_hint": "qx1050",
+        "project_id": 2342,
+        "project_path": "fx_tec_pro1x/qx1050"
+      },
+      "revision": "6e2f12bbb68c3c60e996b4bd24c2ae2de2040d47",
+      "url": "https://dumps.tadiphone.dev/dumps/fx_tec_pro1x/qx1050/-/tree/6e2f12bbb68c3c60e996b4bd24c2ae2de2040d47"
+    },
+    {
+      "item_id": "fx_tec_pro1x/qx1050@qssi-user-11-RKQ1.211130.001-eng.leilia.20220913-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.211130.001-eng.leilia.20220913-release-keys",
+        "commit": "91bd525a1d366125796edcf2053cfc0aec2e40ce",
+        "committed_date": "2022-09-16T20:47:13.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-06-27T04:43:35.154Z",
+        "namespace_hint": "fx_tec_pro1x",
+        "project_hint": "qx1050",
+        "project_id": 2342,
+        "project_path": "fx_tec_pro1x/qx1050"
+      },
+      "revision": "91bd525a1d366125796edcf2053cfc0aec2e40ce",
+      "url": "https://dumps.tadiphone.dev/dumps/fx_tec_pro1x/qx1050/-/tree/91bd525a1d366125796edcf2053cfc0aec2e40ce"
+    },
+    {
+      "item_id": "fx_tec_pro1x/qx1050@qssi-user-11-RKQ1.211130.001-eng.leilia.20230417-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.211130.001-eng.leilia.20230417-release-keys",
+        "commit": "c39620b8f31813393221fd7df39f6b7651755b78",
+        "committed_date": "2023-06-27T07:38:39.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-06-27T04:43:35.154Z",
+        "namespace_hint": "fx_tec_pro1x",
+        "project_hint": "qx1050",
+        "project_id": 2342,
+        "project_path": "fx_tec_pro1x/qx1050"
+      },
+      "revision": "c39620b8f31813393221fd7df39f6b7651755b78",
+      "url": "https://dumps.tadiphone.dev/dumps/fx_tec_pro1x/qx1050/-/tree/c39620b8f31813393221fd7df39f6b7651755b78"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

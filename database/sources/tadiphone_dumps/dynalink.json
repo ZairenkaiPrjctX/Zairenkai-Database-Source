@@ -1,0 +1,111 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "dynalink/sti6130d350@sti6130d350-user-10-QT-20210326-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sti6130d350-user-10-QT-20210326-release-keys",
+        "commit": "754ac34f5e7c63103247fba0e362095a8e564362",
+        "committed_date": "2021-06-17T11:24:45.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-04-28T02:19:58.837Z",
+        "namespace_hint": "dynalink",
+        "project_hint": "sti6130d350",
+        "project_id": 959,
+        "project_path": "dynalink/sti6130d350"
+      },
+      "revision": "754ac34f5e7c63103247fba0e362095a8e564362",
+      "url": "https://dumps.tadiphone.dev/dumps/dynalink/sti6130d350/-/tree/754ac34f5e7c63103247fba0e362095a8e564362"
+    },
+    {
+      "item_id": "dynalink/sti6130d350@sti6130d350-user-10-QT-20211207-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sti6130d350-user-10-QT-20211207-release-keys",
+        "commit": "ad2f3b0233236a8905bffb6cbc2b875713f9635d",
+        "committed_date": "2022-02-18T00:54:57.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-04-28T02:19:58.837Z",
+        "namespace_hint": "dynalink",
+        "project_hint": "sti6130d350",
+        "project_id": 959,
+        "project_path": "dynalink/sti6130d350"
+      },
+      "revision": "ad2f3b0233236a8905bffb6cbc2b875713f9635d",
+      "url": "https://dumps.tadiphone.dev/dumps/dynalink/sti6130d350/-/tree/ad2f3b0233236a8905bffb6cbc2b875713f9635d"
+    },
+    {
+      "item_id": "dynalink/sti6130d350@sti6130d350-user-10-QT-20220222-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sti6130d350-user-10-QT-20220222-release-keys",
+        "commit": "54fe8b2031d187e0f49824db30acd3b1fcde3a60",
+        "committed_date": "2022-03-24T15:59:33.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-04-28T02:19:58.837Z",
+        "namespace_hint": "dynalink",
+        "project_hint": "sti6130d350",
+        "project_id": 959,
+        "project_path": "dynalink/sti6130d350"
+      },
+      "revision": "54fe8b2031d187e0f49824db30acd3b1fcde3a60",
+      "url": "https://dumps.tadiphone.dev/dumps/dynalink/sti6130d350/-/tree/54fe8b2031d187e0f49824db30acd3b1fcde3a60"
+    },
+    {
+      "item_id": "dynalink/sti6130d350@sti6130d350-user-10-QT-20220517-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sti6130d350-user-10-QT-20220517-release-keys",
+        "commit": "286b2971276f9330d846380118c9abfd482262dc",
+        "committed_date": "2022-06-25T19:09:48.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-04-28T02:19:58.837Z",
+        "namespace_hint": "dynalink",
+        "project_hint": "sti6130d350",
+        "project_id": 959,
+        "project_path": "dynalink/sti6130d350"
+      },
+      "revision": "286b2971276f9330d846380118c9abfd482262dc",
+      "url": "https://dumps.tadiphone.dev/dumps/dynalink/sti6130d350/-/tree/286b2971276f9330d846380118c9abfd482262dc"
+    },
+    {
+      "item_id": "dynalink/sti6130d350@sti6130d350-user-12-SC-20230420-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sti6130d350-user-12-SC-20230420-release-keys",
+        "commit": "6708c2dce75e92d46402c79f953d59accbdc2f30",
+        "committed_date": "2023-07-27T05:53:00.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-04-28T02:19:58.837Z",
+        "namespace_hint": "dynalink",
+        "project_hint": "sti6130d350",
+        "project_id": 959,
+        "project_path": "dynalink/sti6130d350"
+      },
+      "revision": "6708c2dce75e92d46402c79f953d59accbdc2f30",
+      "url": "https://dumps.tadiphone.dev/dumps/dynalink/sti6130d350/-/tree/6708c2dce75e92d46402c79f953d59accbdc2f30"
+    },
+    {
+      "item_id": "dynalink/sti6130d350@sti6130d350-user-14-UKG3.240613.001-20250327-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sti6130d350-user-14-UKG3.240613.001-20250327-release-keys",
+        "commit": "d8d5de5c7e6e2b4d0c353bbf67501c6df3847448",
+        "committed_date": "2025-04-28T05:17:25.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-04-28T02:19:58.837Z",
+        "namespace_hint": "dynalink",
+        "project_hint": "sti6130d350",
+        "project_id": 959,
+        "project_path": "dynalink/sti6130d350"
+      },
+      "revision": "d8d5de5c7e6e2b4d0c353bbf67501c6df3847448",
+      "url": "https://dumps.tadiphone.dev/dumps/dynalink/sti6130d350/-/tree/d8d5de5c7e6e2b4d0c353bbf67501c6df3847448"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

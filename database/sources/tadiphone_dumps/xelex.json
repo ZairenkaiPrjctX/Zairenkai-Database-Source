@@ -1,0 +1,77 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "xelex/q25@sys_mssi_64_cn_armv82-user-14-UP1A.231005.007-2026032-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-14-UP1A.231005.007-2026032-release-keys",
+        "commit": "3e38ef044d17c81da9713ac2417ae82ce3678423",
+        "committed_date": "2026-02-20T13:21:31.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-06-03T20:33:23.139Z",
+        "namespace_hint": "xelex",
+        "project_hint": "q25",
+        "project_id": 5748,
+        "project_path": "xelex/q25"
+      },
+      "revision": "3e38ef044d17c81da9713ac2417ae82ce3678423",
+      "url": "https://dumps.tadiphone.dev/dumps/xelex/q25/-/tree/3e38ef044d17c81da9713ac2417ae82ce3678423"
+    },
+    {
+      "item_id": "xelex/q25@sys_mssi_64_cn_armv82-user-14-UP1A.231005.007-2026124-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-14-UP1A.231005.007-2026124-release-keys",
+        "commit": "9b49ad7fb09f067f30de01a8639dad6b5137ecf8",
+        "committed_date": "2026-06-03T23:26:07.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-06-03T20:33:23.139Z",
+        "namespace_hint": "xelex",
+        "project_hint": "q25",
+        "project_id": 5748,
+        "project_path": "xelex/q25"
+      },
+      "revision": "9b49ad7fb09f067f30de01a8639dad6b5137ecf8",
+      "url": "https://dumps.tadiphone.dev/dumps/xelex/q25/-/tree/9b49ad7fb09f067f30de01a8639dad6b5137ecf8"
+    },
+    {
+      "item_id": "xelex/q25@sys_mssi_64_cn_armv82-userdebug-14-UP1A.231005.007-2025472-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-userdebug-14-UP1A.231005.007-2025472-release-keys",
+        "commit": "8038c7a64512bc9706d660a1eb64a712ebc5525a",
+        "committed_date": "2026-02-20T13:38:30.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-06-03T20:33:23.139Z",
+        "namespace_hint": "xelex",
+        "project_hint": "q25",
+        "project_id": 5748,
+        "project_path": "xelex/q25"
+      },
+      "revision": "8038c7a64512bc9706d660a1eb64a712ebc5525a",
+      "url": "https://dumps.tadiphone.dev/dumps/xelex/q25/-/tree/8038c7a64512bc9706d660a1eb64a712ebc5525a"
+    },
+    {
+      "item_id": "xelex/q25@sys_mssi_64_cn_armv82-userdebug-14-UP1A.231005.007-2026064-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-userdebug-14-UP1A.231005.007-2026064-release-keys",
+        "commit": "e4e2c14c6eb3e36a73a5bc5908d3734f81886d68",
+        "committed_date": "2026-02-20T14:46:04.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-06-03T20:33:23.139Z",
+        "namespace_hint": "xelex",
+        "project_hint": "q25",
+        "project_id": 5748,
+        "project_path": "xelex/q25"
+      },
+      "revision": "e4e2c14c6eb3e36a73a5bc5908d3734f81886d68",
+      "url": "https://dumps.tadiphone.dev/dumps/xelex/q25/-/tree/e4e2c14c6eb3e36a73a5bc5908d3734f81886d68"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

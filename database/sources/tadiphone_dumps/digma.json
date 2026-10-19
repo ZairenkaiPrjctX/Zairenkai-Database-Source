@@ -1,0 +1,434 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "digma/cs1194mg@CITI_1576_3G-user-8.1.0-O11019-1529630276-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "CITI_1576_3G-user-8.1.0-O11019-1529630276-release-keys",
+        "commit": "e6dae6ce82dc149db8118a223160a42d3e33c67b",
+        "committed_date": "2019-09-13T11:04:49.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T19:03:57.157Z",
+        "namespace_hint": "digma",
+        "project_hint": "cs1194mg",
+        "project_id": 1257,
+        "project_path": "digma/cs1194mg"
+      },
+      "revision": "e6dae6ce82dc149db8118a223160a42d3e33c67b",
+      "url": "https://dumps.tadiphone.dev/dumps/digma/cs1194mg/-/tree/e6dae6ce82dc149db8118a223160a42d3e33c67b"
+    },
+    {
+      "item_id": "digma/cs1195mg@CITI_1577_3G-user-8.1.0-O11019-1529419705-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "CITI_1577_3G-user-8.1.0-O11019-1529419705-release-keys",
+        "commit": "f6dcbf3c9945d09ffbc4ad6b332c67de913a9e33",
+        "committed_date": "2019-09-13T10:30:52.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T00:35:48.374Z",
+        "namespace_hint": "digma",
+        "project_hint": "cs1195mg",
+        "project_id": 1438,
+        "project_path": "digma/cs1195mg"
+      },
+      "revision": "f6dcbf3c9945d09ffbc4ad6b332c67de913a9e33",
+      "url": "https://dumps.tadiphone.dev/dumps/digma/cs1195mg/-/tree/f6dcbf3c9945d09ffbc4ad6b332c67de913a9e33"
+    },
+    {
+      "item_id": "digma/cs1196ml@CITI_1578_4G-user-8.1.0-O11019-1533700980-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "CITI_1578_4G-user-8.1.0-O11019-1533700980-release-keys",
+        "commit": "49bddf651bc51d6465e006afd50823825e496453",
+        "committed_date": "2019-09-13T10:36:53.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T15:42:09.808Z",
+        "namespace_hint": "digma",
+        "project_hint": "cs1196ml",
+        "project_id": 1138,
+        "project_path": "digma/cs1196ml"
+      },
+      "revision": "49bddf651bc51d6465e006afd50823825e496453",
+      "url": "https://dumps.tadiphone.dev/dumps/digma/cs1196ml/-/tree/49bddf651bc51d6465e006afd50823825e496453"
+    },
+    {
+      "item_id": "digma/cs1219pl@s9863a1h10__s1073ah_2g-user-9-PPR1.180610.011-38204-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "s9863a1h10__s1073ah_2g-user-9-PPR1.180610.011-38204-release-keys",
+        "commit": "42767bfc2e167d01d9cd88cfc8ddc3f131f807e0",
+        "committed_date": "2020-02-16T05:25:17.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T14:07:05.283Z",
+        "namespace_hint": "digma",
+        "project_hint": "cs1219pl",
+        "project_id": 1075,
+        "project_path": "digma/cs1219pl"
+      },
+      "revision": "42767bfc2e167d01d9cd88cfc8ddc3f131f807e0",
+      "url": "https://dumps.tadiphone.dev/dumps/digma/cs1219pl/-/tree/42767bfc2e167d01d9cd88cfc8ddc3f131f807e0"
+    },
+    {
+      "item_id": "digma/cs3001ml@CITI_3000_4G-user-8.1.0-O11019-1520180808-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "CITI_3000_4G-user-8.1.0-O11019-1520180808-release-keys",
+        "commit": "bf7d383210007403af3fac840bc16b7468a31e74",
+        "committed_date": "2019-09-13T10:00:12.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T14:50:14.823Z",
+        "namespace_hint": "digma",
+        "project_hint": "cs3001ml",
+        "project_id": 236,
+        "project_path": "digma/cs3001ml"
+      },
+      "revision": "bf7d383210007403af3fac840bc16b7468a31e74",
+      "url": "https://dumps.tadiphone.dev/dumps/digma/cs3001ml/-/tree/bf7d383210007403af3fac840bc16b7468a31e74"
+    },
+    {
+      "item_id": "digma/cs6062ml@full_k63v2_64_bsp-user-9-PPR1.180610.011-1574165271-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k63v2_64_bsp-user-9-PPR1.180610.011-1574165271-release-keys",
+        "commit": "19556350a67f9af61d460e538fbb86aec0814379",
+        "committed_date": "2020-02-09T19:01:23.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T14:06:14.483Z",
+        "namespace_hint": "digma",
+        "project_hint": "cs6062ml",
+        "project_id": 1074,
+        "project_path": "digma/cs6062ml"
+      },
+      "revision": "19556350a67f9af61d460e538fbb86aec0814379",
+      "url": "https://dumps.tadiphone.dev/dumps/digma/cs6062ml/-/tree/19556350a67f9af61d460e538fbb86aec0814379"
+    },
+    {
+      "item_id": "digma/cs7193mg@CITI_7575_3G-user-8.1.0-O11019-1529398583-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "CITI_7575_3G-user-8.1.0-O11019-1529398583-release-keys",
+        "commit": "c9d9ac631c2b20e881147a6de3808560cb06c996",
+        "committed_date": "2019-09-13T11:17:54.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T19:05:55.310Z",
+        "namespace_hint": "digma",
+        "project_hint": "cs7193mg",
+        "project_id": 1259,
+        "project_path": "digma/cs7193mg"
+      },
+      "revision": "c9d9ac631c2b20e881147a6de3808560cb06c996",
+      "url": "https://dumps.tadiphone.dev/dumps/digma/cs7193mg/-/tree/c9d9ac631c2b20e881147a6de3808560cb06c996"
+    },
+    {
+      "item_id": "digma/cs8209mg@CITI_8592_3G-user-9-PPR1.180610.011-1571075924-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "CITI_8592_3G-user-9-PPR1.180610.011-1571075924-release-keys",
+        "commit": "33209bfe8e64cc20e8e8420d251c66a117b57aa0",
+        "committed_date": "2020-03-06T04:59:36.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T14:07:58.869Z",
+        "namespace_hint": "digma",
+        "project_hint": "cs8209mg",
+        "project_id": 1076,
+        "project_path": "digma/cs8209mg"
+      },
+      "revision": "33209bfe8e64cc20e8e8420d251c66a117b57aa0",
+      "url": "https://dumps.tadiphone.dev/dumps/digma/cs8209mg/-/tree/33209bfe8e64cc20e8e8420d251c66a117b57aa0"
+    },
+    {
+      "item_id": "digma/ls4050mg@Linx_X1_3G-user-8.1.0-O11019-1539777552-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Linx_X1_3G-user-8.1.0-O11019-1539777552-release-keys",
+        "commit": "de817da974d96ccf8167bc90e2d62dae17c16cc7",
+        "committed_date": "2019-09-13T09:17:30.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T17:57:50.104Z",
+        "namespace_hint": "digma",
+        "project_hint": "ls4050mg",
+        "project_id": 2005,
+        "project_path": "digma/ls4050mg"
+      },
+      "revision": "de817da974d96ccf8167bc90e2d62dae17c16cc7",
+      "url": "https://dumps.tadiphone.dev/dumps/digma/ls4050mg/-/tree/de817da974d96ccf8167bc90e2d62dae17c16cc7"
+    },
+    {
+      "item_id": "digma/ls4051mg@Linx_X1_PRO_3G-user-8.1.0-O11019-1539782903-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Linx_X1_PRO_3G-user-8.1.0-O11019-1539782903-release-keys",
+        "commit": "92d0c48ca8456a73df82256e4117361dca5777ba",
+        "committed_date": "2019-10-13T15:46:08.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T12:54:08.127Z",
+        "namespace_hint": "digma",
+        "project_hint": "ls4051mg",
+        "project_id": 1003,
+        "project_path": "digma/ls4051mg"
+      },
+      "revision": "92d0c48ca8456a73df82256e4117361dca5777ba",
+      "url": "https://dumps.tadiphone.dev/dumps/digma/ls4051mg/-/tree/92d0c48ca8456a73df82256e4117361dca5777ba"
+    },
+    {
+      "item_id": "digma/ls5040pl@sp9850ka_1h10_oversea-user-8.1.0-OPM2.171019.012-24521-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sp9850ka_1h10_oversea-user-8.1.0-OPM2.171019.012-24521-release-keys",
+        "commit": "4b682c6b0e7487e215582fda47aa322e85ad3601",
+        "committed_date": "2019-11-11T14:44:52.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T11:12:54.539Z",
+        "namespace_hint": "digma",
+        "project_hint": "ls5040pl",
+        "project_id": 975,
+        "project_path": "digma/ls5040pl"
+      },
+      "revision": "4b682c6b0e7487e215582fda47aa322e85ad3601",
+      "url": "https://dumps.tadiphone.dev/dumps/digma/ls5040pl/-/tree/4b682c6b0e7487e215582fda47aa322e85ad3601"
+    },
+    {
+      "item_id": "digma/ls5041pl@sp9850ka_1h10_oversea-user-8.1.0-OPM2.171019.012-24521-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sp9850ka_1h10_oversea-user-8.1.0-OPM2.171019.012-24521-release-keys",
+        "commit": "099585173777acc2a29ca1b81f011eff8d51da7e",
+        "committed_date": "2019-11-11T17:37:36.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T23:34:09.666Z",
+        "namespace_hint": "digma",
+        "project_hint": "ls5041pl",
+        "project_id": 2217,
+        "project_path": "digma/ls5041pl"
+      },
+      "revision": "099585173777acc2a29ca1b81f011eff8d51da7e",
+      "url": "https://dumps.tadiphone.dev/dumps/digma/ls5041pl/-/tree/099585173777acc2a29ca1b81f011eff8d51da7e"
+    },
+    {
+      "item_id": "digma/ls5053ml@full_k39tv1_bsp-user-8.1.0-O11019-1539866895-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k39tv1_bsp-user-8.1.0-O11019-1539866895-release-keys",
+        "commit": "480b498c5f31ea6389908f5957a3aab9aba3189d",
+        "committed_date": "2019-10-20T18:42:20.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T14:00:40.816Z",
+        "namespace_hint": "digma",
+        "project_hint": "ls5053ml",
+        "project_id": 1065,
+        "project_path": "digma/ls5053ml"
+      },
+      "revision": "480b498c5f31ea6389908f5957a3aab9aba3189d",
+      "url": "https://dumps.tadiphone.dev/dumps/digma/ls5053ml/-/tree/480b498c5f31ea6389908f5957a3aab9aba3189d"
+    },
+    {
+      "item_id": "digma/lt4047mg@full_bird_o1mp2_k80_bsp_512m-user-8.1.0-O11019-1532209171-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_bird_o1mp2_k80_bsp_512m-user-8.1.0-O11019-1532209171-release-keys",
+        "commit": "d279daa891c97e8678b0b8dfb54be3b8a0fd13d7",
+        "committed_date": "2019-10-15T23:32:43.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T12:56:15.575Z",
+        "namespace_hint": "digma",
+        "project_hint": "lt4047mg",
+        "project_id": 1006,
+        "project_path": "digma/lt4047mg"
+      },
+      "revision": "d279daa891c97e8678b0b8dfb54be3b8a0fd13d7",
+      "url": "https://dumps.tadiphone.dev/dumps/digma/lt4047mg/-/tree/d279daa891c97e8678b0b8dfb54be3b8a0fd13d7"
+    },
+    {
+      "item_id": "digma/lt5048mg@full_bird_o1mp2_k80_bsp_512m-user-8.1.0-O11019-1532159573-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_bird_o1mp2_k80_bsp_512m-user-8.1.0-O11019-1532159573-release-keys",
+        "commit": "eeb47dc49300cb87a5004aa4ed7c5cc1f5fac260",
+        "committed_date": "2019-10-13T15:52:02.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T18:18:11.074Z",
+        "namespace_hint": "digma",
+        "project_hint": "lt5048mg",
+        "project_id": 2025,
+        "project_path": "digma/lt5048mg"
+      },
+      "revision": "eeb47dc49300cb87a5004aa4ed7c5cc1f5fac260",
+      "url": "https://dumps.tadiphone.dev/dumps/digma/lt5048mg/-/tree/eeb47dc49300cb87a5004aa4ed7c5cc1f5fac260"
+    },
+    {
+      "item_id": "digma/lt5052ml@full_fh05ahgo-user-8.1.0-O11019-20180905-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_fh05ahgo-user-8.1.0-O11019-20180905-release-keys",
+        "commit": "5a96f34a51a410748c94aaab858f0eeb6e2f3d92",
+        "committed_date": "2019-09-13T09:59:38.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T16:02:53.303Z",
+        "namespace_hint": "digma",
+        "project_hint": "lt5052ml",
+        "project_id": 1920,
+        "project_path": "digma/lt5052ml"
+      },
+      "revision": "5a96f34a51a410748c94aaab858f0eeb6e2f3d92",
+      "url": "https://dumps.tadiphone.dev/dumps/digma/lt5052ml/-/tree/5a96f34a51a410748c94aaab858f0eeb6e2f3d92"
+    },
+    {
+      "item_id": "digma/ns1800ml@Platina_1579M_4G-user-8.1.0-O11019-1535095493-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Platina_1579M_4G-user-8.1.0-O11019-1535095493-release-keys",
+        "commit": "2278a820dd88f0c5672fd7784af0d22c75b197b5",
+        "committed_date": "2019-11-18T09:08:38.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T11:07:02.683Z",
+        "namespace_hint": "digma",
+        "project_hint": "ns1800ml",
+        "project_id": 967,
+        "project_path": "digma/ns1800ml"
+      },
+      "revision": "2278a820dd88f0c5672fd7784af0d22c75b197b5",
+      "url": "https://dumps.tadiphone.dev/dumps/digma/ns1800ml/-/tree/2278a820dd88f0c5672fd7784af0d22c75b197b5"
+    },
+    {
+      "item_id": "digma/ps1187mg@Plane_1572N_3G-user-7.0-NRD90M-1518006799-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Plane_1572N_3G-user-7.0-NRD90M-1518006799-release-keys",
+        "commit": "b780b263cc8a35cc77a9e8a3f1d5dfa37637bfd6",
+        "committed_date": "2019-10-13T23:04:22.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T12:54:51.362Z",
+        "namespace_hint": "digma",
+        "project_hint": "ps1187mg",
+        "project_id": 1004,
+        "project_path": "digma/ps1187mg"
+      },
+      "revision": "b780b263cc8a35cc77a9e8a3f1d5dfa37637bfd6",
+      "url": "https://dumps.tadiphone.dev/dumps/digma/ps1187mg/-/tree/b780b263cc8a35cc77a9e8a3f1d5dfa37637bfd6"
+    },
+    {
+      "item_id": "digma/ps1202pl@s1082e_1g-user-8.1.0-OPM2.171019.012-34511-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "s1082e_1g-user-8.1.0-OPM2.171019.012-34511-release-keys",
+        "commit": "43d09cc0890c2cb340a09768b1c4a350e05df45a",
+        "committed_date": "2019-11-12T21:26:34.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T17:03:41.065Z",
+        "namespace_hint": "digma",
+        "project_hint": "ps1202pl",
+        "project_id": 1215,
+        "project_path": "digma/ps1202pl"
+      },
+      "revision": "43d09cc0890c2cb340a09768b1c4a350e05df45a",
+      "url": "https://dumps.tadiphone.dev/dumps/digma/ps1202pl/-/tree/43d09cc0890c2cb340a09768b1c4a350e05df45a"
+    },
+    {
+      "item_id": "digma/ps8163pl@s8062e_1g-user-8.1.0-OPM2.171019.012-34217-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "s8062e_1g-user-8.1.0-OPM2.171019.012-34217-release-keys",
+        "commit": "aa86971ad44a2597255d4211697b723cf70d9a4e",
+        "committed_date": "2019-11-10T21:04:08.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T12:56:42.759Z",
+        "namespace_hint": "digma",
+        "project_hint": "ps8163pl",
+        "project_id": 1007,
+        "project_path": "digma/ps8163pl"
+      },
+      "revision": "aa86971ad44a2597255d4211697b723cf70d9a4e",
+      "url": "https://dumps.tadiphone.dev/dumps/digma/ps8163pl/-/tree/aa86971ad44a2597255d4211697b723cf70d9a4e"
+    },
+    {
+      "item_id": "digma/ps8199ml@Plane_8580_4G-user-8.1.0-O11019-1536640890-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Plane_8580_4G-user-8.1.0-O11019-1536640890-release-keys",
+        "commit": "961e221a1ec75adf0404efabc638a6bc7d38292a",
+        "committed_date": "2019-11-27T03:07:20.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T11:15:59.730Z",
+        "namespace_hint": "digma",
+        "project_hint": "ps8199ml",
+        "project_id": 979,
+        "project_path": "digma/ps8199ml"
+      },
+      "revision": "961e221a1ec75adf0404efabc638a6bc7d38292a",
+      "url": "https://dumps.tadiphone.dev/dumps/digma/ps8199ml/-/tree/961e221a1ec75adf0404efabc638a6bc7d38292a"
+    },
+    {
+      "item_id": "digma/ps8212pg@sp7731e_1h30__s8067e_2g-user-9-PPR1.180610.011-22016-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sp7731e_1h30__s8067e_2g-user-9-PPR1.180610.011-22016-release-keys",
+        "commit": "abac141a23a53aa3a30a6f3d769f4758120d1b19",
+        "committed_date": "2020-01-28T08:20:16.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T19:06:37.355Z",
+        "namespace_hint": "digma",
+        "project_hint": "ps8212pg",
+        "project_id": 1260,
+        "project_path": "digma/ps8212pg"
+      },
+      "revision": "abac141a23a53aa3a30a6f3d769f4758120d1b19",
+      "url": "https://dumps.tadiphone.dev/dumps/digma/ps8212pg/-/tree/abac141a23a53aa3a30a6f3d769f4758120d1b19"
+    },
+    {
+      "item_id": "digma/ts7203mg@full_tb8321p2_bsp-user-8.1.0-O11019-1548326090-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_tb8321p2_bsp-user-8.1.0-O11019-1548326090-release-keys",
+        "commit": "d86b3a3277371f9d8f52c07b7186925e7167ea71",
+        "committed_date": "2020-01-23T09:45:17.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T14:04:10.877Z",
+        "namespace_hint": "digma",
+        "project_hint": "ts7203mg",
+        "project_id": 1070,
+        "project_path": "digma/ts7203mg"
+      },
+      "revision": "d86b3a3277371f9d8f52c07b7186925e7167ea71",
+      "url": "https://dumps.tadiphone.dev/dumps/digma/ts7203mg/-/tree/d86b3a3277371f9d8f52c07b7186925e7167ea71"
+    },
+    {
+      "item_id": "digma/ts8211pg@s8067e_1g-user-8.1.0-OPM2.171019.012-09315-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "s8067e_1g-user-8.1.0-OPM2.171019.012-09315-release-keys",
+        "commit": "8a9ee147565fc7e3d3b4338efef54bfbfc78ae75",
+        "committed_date": "2020-01-25T11:48:37.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T14:35:27.670Z",
+        "namespace_hint": "digma",
+        "project_hint": "ts8211pg",
+        "project_id": 1098,
+        "project_path": "digma/ts8211pg"
+      },
+      "revision": "8a9ee147565fc7e3d3b4338efef54bfbfc78ae75",
+      "url": "https://dumps.tadiphone.dev/dumps/digma/ts8211pg/-/tree/8a9ee147565fc7e3d3b4338efef54bfbfc78ae75"
+    },
+    {
+      "item_id": "digma/vt4055mg@Vox_V40_3G-user-8.1.0-O11019-1537198875-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Vox_V40_3G-user-8.1.0-O11019-1537198875-release-keys",
+        "commit": "f59fc5a8e2fafe6bee15c97ec53a2cc11c1bf719",
+        "committed_date": "2019-09-13T09:56:23.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T15:41:32.132Z",
+        "namespace_hint": "digma",
+        "project_hint": "vt4055mg",
+        "project_id": 1137,
+        "project_path": "digma/vt4055mg"
+      },
+      "revision": "f59fc5a8e2fafe6bee15c97ec53a2cc11c1bf719",
+      "url": "https://dumps.tadiphone.dev/dumps/digma/vt4055mg/-/tree/f59fc5a8e2fafe6bee15c97ec53a2cc11c1bf719"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

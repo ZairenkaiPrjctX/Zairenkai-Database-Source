@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "nextbit/ether@ether-user-6.0.1-MMB29M-00WW_1_350-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ether-user-6.0.1-MMB29M-00WW_1_350-release-keys",
+        "commit": "0685edb2fbcc38fdfcdb13d6c9b2641953f0704e",
+        "committed_date": "2019-10-30T10:40:47.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T14:17:30.254Z",
+        "namespace_hint": "nextbit",
+        "project_hint": "ether",
+        "project_id": 1826,
+        "project_path": "nextbit/ether"
+      },
+      "revision": "0685edb2fbcc38fdfcdb13d6c9b2641953f0704e",
+      "url": "https://dumps.tadiphone.dev/dumps/nextbit/ether/-/tree/0685edb2fbcc38fdfcdb13d6c9b2641953f0704e"
+    },
+    {
+      "item_id": "nextbit/ether@ether-user-7.1.1-Robin_Nougat_108-00WW_Jenkins_108-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ether-user-7.1.1-Robin_Nougat_108-00WW_Jenkins_108-release-keys",
+        "commit": "a4dd1c754731013616e2de6eaa9c7c3c44f94fee",
+        "committed_date": "2018-03-22T17:59:11.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T14:17:30.254Z",
+        "namespace_hint": "nextbit",
+        "project_hint": "ether",
+        "project_id": 1826,
+        "project_path": "nextbit/ether"
+      },
+      "revision": "a4dd1c754731013616e2de6eaa9c7c3c44f94fee",
+      "url": "https://dumps.tadiphone.dev/dumps/nextbit/ether/-/tree/a4dd1c754731013616e2de6eaa9c7c3c44f94fee"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "jingpad/jingpad_c1@ud710_3h10u_native-user-10-QP1A.190711.020-44110-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ud710_3h10u_native-user-10-QP1A.190711.020-44110-release-keys",
+        "commit": "83db3cfc4c128d9437937cf3c16f0f56cbf6f3e7",
+        "committed_date": "2021-12-12T12:09:26.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T18:06:06.031Z",
+        "namespace_hint": "jingpad",
+        "project_hint": "jingpad_c1",
+        "project_id": 747,
+        "project_path": "jingpad/jingpad_c1"
+      },
+      "revision": "83db3cfc4c128d9437937cf3c16f0f56cbf6f3e7",
+      "url": "https://dumps.tadiphone.dev/dumps/jingpad/jingpad_c1/-/tree/83db3cfc4c128d9437937cf3c16f0f56cbf6f3e7"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

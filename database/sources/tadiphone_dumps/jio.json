@@ -1,0 +1,94 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "jio/f491h@MAD-user-6.0-MRA58K-Jio-F491H-F001-04-13-310823-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "MAD-user-6.0-MRA58K-Jio-F491H-F001-04-13-310823-release-keys",
+        "commit": "0abfccd4d6becedaff18b214bd890be07d7b716d",
+        "committed_date": "2023-09-17T23:26:18.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-09-17T20:26:03.029Z",
+        "namespace_hint": "jio",
+        "project_hint": "f491h",
+        "project_id": 4430,
+        "project_path": "jio/f491h"
+      },
+      "revision": "0abfccd4d6becedaff18b214bd890be07d7b716d",
+      "url": "https://dumps.tadiphone.dev/dumps/jio/f491h/-/tree/0abfccd4d6becedaff18b214bd890be07d7b716d"
+    },
+    {
+      "item_id": "jio/franklin@franklin-user-9-5.7.1-20210619-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "franklin-user-9-5.7.1-20210619-release-keys",
+        "commit": "acf0aec4081f09c9379c444286e6cf8ec60016af",
+        "committed_date": "2021-08-16T04:02:28.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T08:21:49.619Z",
+        "namespace_hint": "jio",
+        "project_hint": "franklin",
+        "project_id": 1602,
+        "project_path": "jio/franklin"
+      },
+      "revision": "acf0aec4081f09c9379c444286e6cf8ec60016af",
+      "url": "https://dumps.tadiphone.dev/dumps/jio/franklin/-/tree/acf0aec4081f09c9379c444286e6cf8ec60016af"
+    },
+    {
+      "item_id": "jio/jioospro@jioospro-user-11-JIO_GO-R.11.00.023.00-2300-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "jioospro-user-11-JIO_GO-R.11.00.023.00-2300-release-keys",
+        "commit": "2995b26493d6f14f45f4fff20c539ac5d46113cb",
+        "committed_date": "2021-09-10T20:04:09.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T23:38:52.404Z",
+        "namespace_hint": "jio",
+        "project_hint": "jioospro",
+        "project_id": 1398,
+        "project_path": "jio/jioospro"
+      },
+      "revision": "2995b26493d6f14f45f4fff20c539ac5d46113cb",
+      "url": "https://dumps.tadiphone.dev/dumps/jio/jioospro/-/tree/2995b26493d6f14f45f4fff20c539ac5d46113cb"
+    },
+    {
+      "item_id": "jio/jioospro@msm8937_32go-userdebug-11-RKQ1.210617.001-DF.200.01.25-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_32go-userdebug-11-RKQ1.210617.001-DF.200.01.25-release-keys",
+        "commit": "c7cfdd698ef7e74bbb06b47d660e3a27e8cbd49d",
+        "committed_date": "2021-09-10T19:57:54.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T23:38:52.404Z",
+        "namespace_hint": "jio",
+        "project_hint": "jioospro",
+        "project_id": 1398,
+        "project_path": "jio/jioospro"
+      },
+      "revision": "c7cfdd698ef7e74bbb06b47d660e3a27e8cbd49d",
+      "url": "https://dumps.tadiphone.dev/dumps/jio/jioospro/-/tree/c7cfdd698ef7e74bbb06b47d660e3a27e8cbd49d"
+    },
+    {
+      "item_id": "jio/ls1542qw@K89548AA1-user-11-RKQ1.210602.002-B.001.05.001-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "K89548AA1-user-11-RKQ1.210602.002-B.001.05.001-release-keys",
+        "commit": "848368989182e171c2edd3d8f5added143c2329e",
+        "committed_date": "2021-11-14T05:12:48.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T00:43:16.425Z",
+        "namespace_hint": "jio",
+        "project_hint": "ls1542qw",
+        "project_id": 1445,
+        "project_path": "jio/ls1542qw"
+      },
+      "revision": "848368989182e171c2edd3d8f5added143c2329e",
+      "url": "https://dumps.tadiphone.dev/dumps/jio/ls1542qw/-/tree/848368989182e171c2edd3d8f5added143c2329e"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

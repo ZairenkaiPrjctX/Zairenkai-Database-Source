@@ -1,0 +1,60 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "haier/a1@A1-user-8.1.0-O11019-1540820604-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "A1-user-8.1.0-O11019-1540820604-release-keys",
+        "commit": "c46da8125eb921d541c3eb71eb01b277c7af0c09",
+        "committed_date": "2019-10-14T13:58:38.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T07:38:05.548Z",
+        "namespace_hint": "haier",
+        "project_hint": "a1",
+        "project_id": 1549,
+        "project_path": "haier/a1"
+      },
+      "revision": "c46da8125eb921d541c3eb71eb01b277c7af0c09",
+      "url": "https://dumps.tadiphone.dev/dumps/haier/a1/-/tree/c46da8125eb921d541c3eb71eb01b277c7af0c09"
+    },
+    {
+      "item_id": "haier/a3_lite@sp9832e_1h10_gofu_osea-user-8.1.0-OPM2.171019.012-42311-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sp9832e_1h10_gofu_osea-user-8.1.0-OPM2.171019.012-42311-release-keys",
+        "commit": "97651d74a3fc32687740fafd4a2ab6960c315442",
+        "committed_date": "2019-11-10T23:26:07.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T12:58:53.429Z",
+        "namespace_hint": "haier",
+        "project_hint": "a3_lite",
+        "project_id": 1770,
+        "project_path": "haier/a3_lite"
+      },
+      "revision": "97651d74a3fc32687740fafd4a2ab6960c315442",
+      "url": "https://dumps.tadiphone.dev/dumps/haier/a3_lite/-/tree/97651d74a3fc32687740fafd4a2ab6960c315442"
+    },
+    {
+      "item_id": "haier/yqx@SEI700DHG-user-14-UKG3.241022.001-2604-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "SEI700DHG-user-14-UKG3.241022.001-2604-release-keys",
+        "commit": "595eccdd45b57529555b603f9c3b546367330fff",
+        "committed_date": "2026-02-16T00:54:25.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-02-15T21:53:15.732Z",
+        "namespace_hint": "haier",
+        "project_hint": "yqx",
+        "project_id": 5746,
+        "project_path": "haier/yqx"
+      },
+      "revision": "595eccdd45b57529555b603f9c3b546367330fff",
+      "url": "https://dumps.tadiphone.dev/dumps/haier/yqx/-/tree/595eccdd45b57529555b603f9c3b546367330fff"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

@@ -1,0 +1,179 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "condor/allure_m3@full_k71v1_64_bsp-user-8.1.0-O11019-1540462721-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k71v1_64_bsp-user-8.1.0-O11019-1540462721-release-keys",
+        "commit": "3dc4d8f4308125b92719321c59148d18416407e3",
+        "committed_date": "2019-09-13T09:03:47.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T16:03:14.023Z",
+        "namespace_hint": "condor",
+        "project_hint": "allure_m3",
+        "project_id": 1921,
+        "project_path": "condor/allure_m3"
+      },
+      "revision": "3dc4d8f4308125b92719321c59148d18416407e3",
+      "url": "https://dumps.tadiphone.dev/dumps/condor/allure_m3/-/tree/3dc4d8f4308125b92719321c59148d18416407e3"
+    },
+    {
+      "item_id": "condor/allure_m3_lite@full_k62v1_64_bsp-user-8.1.0-O11019-1534823411-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k62v1_64_bsp-user-8.1.0-O11019-1534823411-release-keys",
+        "commit": "22a4a6c92c8aaba4226992842961c46477cfcd17",
+        "committed_date": "2019-11-16T01:24:33.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T14:32:13.392Z",
+        "namespace_hint": "condor",
+        "project_hint": "allure_m3_lite",
+        "project_id": 152,
+        "project_path": "condor/allure_m3_lite"
+      },
+      "revision": "22a4a6c92c8aaba4226992842961c46477cfcd17",
+      "url": "https://dumps.tadiphone.dev/dumps/condor/allure_m3_lite/-/tree/22a4a6c92c8aaba4226992842961c46477cfcd17"
+    },
+    {
+      "item_id": "condor/griffe_t5@Griffe_T5-user-8.1.0-OPM2.171019.012-5-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Griffe_T5-user-8.1.0-OPM2.171019.012-5-release-keys",
+        "commit": "877274cf65ed6135c1197fb7a318b4e570494d01",
+        "committed_date": "2019-11-10T23:46:51.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T11:09:47.018Z",
+        "namespace_hint": "condor",
+        "project_hint": "griffe_t5",
+        "project_id": 970,
+        "project_path": "condor/griffe_t5"
+      },
+      "revision": "877274cf65ed6135c1197fb7a318b4e570494d01",
+      "url": "https://dumps.tadiphone.dev/dumps/condor/griffe_t5/-/tree/877274cf65ed6135c1197fb7a318b4e570494d01"
+    },
+    {
+      "item_id": "condor/griffe_t6@sp9850ka_1h10_gofu_20180725_V01",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sp9850ka_1h10_gofu_20180725_V01",
+        "commit": "3dd1fbed5a7a2255465353c5120d0949433c7049",
+        "committed_date": "2019-11-10T23:46:43.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T01:47:29.311Z",
+        "namespace_hint": "condor",
+        "project_hint": "griffe_t6",
+        "project_id": 1497,
+        "project_path": "condor/griffe_t6"
+      },
+      "revision": "3dd1fbed5a7a2255465353c5120d0949433c7049",
+      "url": "https://dumps.tadiphone.dev/dumps/condor/griffe_t6/-/tree/3dd1fbed5a7a2255465353c5120d0949433c7049"
+    },
+    {
+      "item_id": "condor/griffe_t7@Griffe_T7-user-8.1.0-O11019-1530967987-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Griffe_T7-user-8.1.0-O11019-1530967987-release-keys",
+        "commit": "eeeb974317292b6e87d4a2846875a93ad3f26602",
+        "committed_date": "2019-09-13T08:50:22.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T01:47:58.737Z",
+        "namespace_hint": "condor",
+        "project_hint": "griffe_t7",
+        "project_id": 1498,
+        "project_path": "condor/griffe_t7"
+      },
+      "revision": "eeeb974317292b6e87d4a2846875a93ad3f26602",
+      "url": "https://dumps.tadiphone.dev/dumps/condor/griffe_t7/-/tree/eeeb974317292b6e87d4a2846875a93ad3f26602"
+    },
+    {
+      "item_id": "condor/griffe_t8@y400-user-8.1.0-OPM2.171019.012-1560326442-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "y400-user-8.1.0-OPM2.171019.012-1560326442-release-keys",
+        "commit": "1d8cde15ecb33458b38c8e78981a802e6fa3d5e5",
+        "committed_date": "2020-01-30T16:11:16.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T14:04:38.737Z",
+        "namespace_hint": "condor",
+        "project_hint": "griffe_t8",
+        "project_id": 1071,
+        "project_path": "condor/griffe_t8"
+      },
+      "revision": "1d8cde15ecb33458b38c8e78981a802e6fa3d5e5",
+      "url": "https://dumps.tadiphone.dev/dumps/condor/griffe_t8/-/tree/1d8cde15ecb33458b38c8e78981a802e6fa3d5e5"
+    },
+    {
+      "item_id": "condor/griffe_t9@SP648_V13_20190510",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "SP648_V13_20190510",
+        "commit": "4af11ca48e90ecbaea7b6c0c0c9e408c2049cecb",
+        "committed_date": "2020-01-27T11:23:09.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T16:07:32.696Z",
+        "namespace_hint": "condor",
+        "project_hint": "griffe_t9",
+        "project_id": 1164,
+        "project_path": "condor/griffe_t9"
+      },
+      "revision": "4af11ca48e90ecbaea7b6c0c0c9e408c2049cecb",
+      "url": "https://dumps.tadiphone.dev/dumps/condor/griffe_t9/-/tree/4af11ca48e90ecbaea7b6c0c0c9e408c2049cecb"
+    },
+    {
+      "item_id": "condor/griffe_t9_plus@SP647_V9.0_20190511",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "SP647_V9.0_20190511",
+        "commit": "7aba107b557fcd6476842666f9cb412676c16df6",
+        "committed_date": "2020-01-20T07:06:01.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T14:03:14.061Z",
+        "namespace_hint": "condor",
+        "project_hint": "griffe_t9_plus",
+        "project_id": 1069,
+        "project_path": "condor/griffe_t9_plus"
+      },
+      "revision": "7aba107b557fcd6476842666f9cb412676c16df6",
+      "url": "https://dumps.tadiphone.dev/dumps/condor/griffe_t9_plus/-/tree/7aba107b557fcd6476842666f9cb412676c16df6"
+    },
+    {
+      "item_id": "condor/plume_l1_plus@full_k39tv1_bsp_1g-user-8.1.0-O11019-1522249311-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k39tv1_bsp_1g-user-8.1.0-O11019-1522249311-release-keys",
+        "commit": "517e35f34c8c85caba754eb6cc0469f290294ea5",
+        "committed_date": "2019-09-13T08:47:58.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T17:09:47.108Z",
+        "namespace_hint": "condor",
+        "project_hint": "plume_l1_plus",
+        "project_id": 1964,
+        "project_path": "condor/plume_l1_plus"
+      },
+      "revision": "517e35f34c8c85caba754eb6cc0469f290294ea5",
+      "url": "https://dumps.tadiphone.dev/dumps/condor/plume_l1_plus/-/tree/517e35f34c8c85caba754eb6cc0469f290294ea5"
+    },
+    {
+      "item_id": "condor/plume_l3@full_k39tv1_64_bsp-user-8.1.0-O11019-1543919146-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k39tv1_64_bsp-user-8.1.0-O11019-1543919146-release-keys",
+        "commit": "bc3b115cc2704a5cd8978c269d32dc113ddad8f7",
+        "committed_date": "2019-11-16T01:11:28.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T14:34:39.269Z",
+        "namespace_hint": "condor",
+        "project_hint": "plume_l3",
+        "project_id": 1097,
+        "project_path": "condor/plume_l3"
+      },
+      "revision": "bc3b115cc2704a5cd8978c269d32dc113ddad8f7",
+      "url": "https://dumps.tadiphone.dev/dumps/condor/plume_l3/-/tree/bc3b115cc2704a5cd8978c269d32dc113ddad8f7"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

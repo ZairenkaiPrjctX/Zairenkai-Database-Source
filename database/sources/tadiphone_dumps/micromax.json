@@ -1,0 +1,179 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "micromax/e6523@full_E6523-user-11-RP1A.200720.011-mp1k61v164bspP5-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_E6523-user-11-RP1A.200720.011-mp1k61v164bspP5-release-keys",
+        "commit": "d4ad7f1b772812d9480443ee052f8b75084272e6",
+        "committed_date": "2021-10-15T00:10:31.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T09:48:30.482Z",
+        "namespace_hint": "micromax",
+        "project_hint": "e6523",
+        "project_id": 1678,
+        "project_path": "micromax/e6523"
+      },
+      "revision": "d4ad7f1b772812d9480443ee052f8b75084272e6",
+      "url": "https://dumps.tadiphone.dev/dumps/micromax/e6523/-/tree/d4ad7f1b772812d9480443ee052f8b75084272e6"
+    },
+    {
+      "item_id": "micromax/e7533@E7533-user-10-QP1A.190711.020-mp1V91605-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "E7533-user-10-QP1A.190711.020-mp1V91605-release-keys",
+        "commit": "1f01017eb529da381dc94ef3053c52aca7f5c675",
+        "committed_date": "2021-02-02T15:58:33.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T12:57:28.056Z",
+        "namespace_hint": "micromax",
+        "project_hint": "e7533",
+        "project_id": 1009,
+        "project_path": "micromax/e7533"
+      },
+      "revision": "1f01017eb529da381dc94ef3053c52aca7f5c675",
+      "url": "https://dumps.tadiphone.dev/dumps/micromax/e7533/-/tree/1f01017eb529da381dc94ef3053c52aca7f5c675"
+    },
+    {
+      "item_id": "micromax/e7533@full_E7533-user-11-RP1A.200720.011-mp1k61v164bspP6-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_E7533-user-11-RP1A.200720.011-mp1k61v164bspP6-release-keys",
+        "commit": "7c716fab534d7fb7db629ff4baf9556330dd5b3b",
+        "committed_date": "2021-10-14T19:17:23.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T12:57:28.056Z",
+        "namespace_hint": "micromax",
+        "project_hint": "e7533",
+        "project_id": 1009,
+        "project_path": "micromax/e7533"
+      },
+      "revision": "7c716fab534d7fb7db629ff4baf9556330dd5b3b",
+      "url": "https://dumps.tadiphone.dev/dumps/micromax/e7533/-/tree/7c716fab534d7fb7db629ff4baf9556330dd5b3b"
+    },
+    {
+      "item_id": "micromax/e7746@full_k69v1_64-user-10-QP1A.190711.020-1604634551-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k69v1_64-user-10-QP1A.190711.020-1604634551-release-keys",
+        "commit": "e9db870ae2ce7f01eed98bf3032caf5fc2cdcaff",
+        "committed_date": "2020-12-28T08:26:26.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-07-18T15:23:50.240Z",
+        "namespace_hint": "micromax",
+        "project_hint": "e7746",
+        "project_id": 1734,
+        "project_path": "micromax/e7746"
+      },
+      "revision": "e9db870ae2ce7f01eed98bf3032caf5fc2cdcaff",
+      "url": "https://dumps.tadiphone.dev/dumps/micromax/e7746/-/tree/e9db870ae2ce7f01eed98bf3032caf5fc2cdcaff"
+    },
+    {
+      "item_id": "micromax/e7746@full_k69v1_64-user-10-QP1A.190711.020-1620836268-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k69v1_64-user-10-QP1A.190711.020-1620836268-release-keys",
+        "commit": "b3239b94be841336db5ec520f244724835e4dc87",
+        "committed_date": "2022-07-18T18:19:45.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-07-18T15:23:50.240Z",
+        "namespace_hint": "micromax",
+        "project_hint": "e7746",
+        "project_id": 1734,
+        "project_path": "micromax/e7746"
+      },
+      "revision": "b3239b94be841336db5ec520f244724835e4dc87",
+      "url": "https://dumps.tadiphone.dev/dumps/micromax/e7746/-/tree/b3239b94be841336db5ec520f244724835e4dc87"
+    },
+    {
+      "item_id": "micromax/ione@ione-user-9-PPR1.180610.011-171-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ione-user-9-PPR1.180610.011-171-release-keys",
+        "commit": "5261e2e39f1313c3fe14ff4d42a4108bd4db0d80",
+        "committed_date": "2019-11-11T15:06:18.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T13:07:34.908Z",
+        "namespace_hint": "micromax",
+        "project_hint": "ione",
+        "project_id": 1777,
+        "project_path": "micromax/ione"
+      },
+      "revision": "5261e2e39f1313c3fe14ff4d42a4108bd4db0d80",
+      "url": "https://dumps.tadiphone.dev/dumps/micromax/ione/-/tree/5261e2e39f1313c3fe14ff4d42a4108bd4db0d80"
+    },
+    {
+      "item_id": "micromax/n8305@N8305-user-9-PPR1.180610.011-192-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "N8305-user-9-PPR1.180610.011-192-release-keys",
+        "commit": "b7a0a0bc70dff4f971327cdce4f6b5b14d6d5b73",
+        "committed_date": "2020-03-06T18:58:24.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T14:47:30.795Z",
+        "namespace_hint": "micromax",
+        "project_hint": "n8305",
+        "project_id": 1837,
+        "project_path": "micromax/n8305"
+      },
+      "revision": "b7a0a0bc70dff4f971327cdce4f6b5b14d6d5b73",
+      "url": "https://dumps.tadiphone.dev/dumps/micromax/n8305/-/tree/b7a0a0bc70dff4f971327cdce4f6b5b14d6d5b73"
+    },
+    {
+      "item_id": "micromax/p681@full_rlk8321_tb_rc_m-user-6.0-MRA58K-1473494062-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_rlk8321_tb_rc_m-user-6.0-MRA58K-1473494062-release-keys",
+        "commit": "790b5cf46d177a4de2ad2d5c76a38341fd8d8664",
+        "committed_date": "2024-12-22T13:40:38.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-12-22T10:39:15.852Z",
+        "namespace_hint": "micromax",
+        "project_hint": "p681",
+        "project_id": 5515,
+        "project_path": "micromax/p681"
+      },
+      "revision": "790b5cf46d177a4de2ad2d5c76a38341fd8d8664",
+      "url": "https://dumps.tadiphone.dev/dumps/micromax/p681/-/tree/790b5cf46d177a4de2ad2d5c76a38341fd8d8664"
+    },
+    {
+      "item_id": "micromax/q4002@Q4002-user-8.1.0-OPM2.171019.012-134-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Q4002-user-8.1.0-OPM2.171019.012-134-release-keys",
+        "commit": "c3da5fd241c61b0dbcee170a577398848784cd50",
+        "committed_date": "2019-11-12T21:11:37.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T00:27:56.995Z",
+        "namespace_hint": "micromax",
+        "project_hint": "q4002",
+        "project_id": 2265,
+        "project_path": "micromax/q4002"
+      },
+      "revision": "c3da5fd241c61b0dbcee170a577398848784cd50",
+      "url": "https://dumps.tadiphone.dev/dumps/micromax/q4002/-/tree/c3da5fd241c61b0dbcee170a577398848784cd50"
+    },
+    {
+      "item_id": "micromax/q409a@Q409A-user-8.1.0-OPM2.171019.012-23-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Q409A-user-8.1.0-OPM2.171019.012-23-release-keys",
+        "commit": "797091ad67b9b23f578ff7df1fd67c781e9a9a90",
+        "committed_date": "2019-11-12T21:16:04.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T15:53:12.560Z",
+        "namespace_hint": "micromax",
+        "project_hint": "q409a",
+        "project_id": 1907,
+        "project_path": "micromax/q409a"
+      },
+      "revision": "797091ad67b9b23f578ff7df1fd67c781e9a9a90",
+      "url": "https://dumps.tadiphone.dev/dumps/micromax/q409a/-/tree/797091ad67b9b23f578ff7df1fd67c781e9a9a90"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

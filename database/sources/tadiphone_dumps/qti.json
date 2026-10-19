@@ -1,0 +1,4091 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "_project/5177",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": null,
+        "project_id": 5177,
+        "project_path": "qti/oww211",
+        "reason": "repository_not_readable"
+      },
+      "revision": null,
+      "url": "https://dumps.tadiphone.dev/dumps/qti/oww211"
+    },
+    {
+      "item_id": "_project/5296",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": null,
+        "project_id": 5296,
+        "project_path": "qti/oww231",
+        "reason": "repository_not_readable"
+      },
+      "revision": null,
+      "url": "https://dumps.tadiphone.dev/dumps/qti/oww231"
+    },
+    {
+      "item_id": "_project/5312",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": null,
+        "project_id": 5312,
+        "project_path": "qti/trinket",
+        "reason": "repository_not_readable"
+      },
+      "revision": null,
+      "url": "https://dumps.tadiphone.dev/dumps/qti/trinket"
+    },
+    {
+      "item_id": "qti/alioth@qssi-user-12-SKQ1.211006.001-V13.0.5.0.SKHMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211006.001-V13.0.5.0.SKHMIXM-release-keys",
+        "commit": "2180d2d69e000a5d94a0e9e1f2318311666c2e2b",
+        "committed_date": "2022-09-13T10:32:26.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-10-15T07:11:56.740Z",
+        "namespace_hint": "qti",
+        "project_hint": "alioth",
+        "project_id": 2423,
+        "project_path": "qti/alioth"
+      },
+      "revision": "2180d2d69e000a5d94a0e9e1f2318311666c2e2b",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/alioth/-/tree/2180d2d69e000a5d94a0e9e1f2318311666c2e2b"
+    },
+    {
+      "item_id": "qti/alioth@qssi-user-12-SKQ1.211006.001-V13.1.22.10.11.DEV-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211006.001-V13.1.22.10.11.DEV-release-keys",
+        "commit": "c6e44953934b59f35f855e36480fc9f879feeeb1",
+        "committed_date": "2022-10-15T10:01:49.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-10-15T07:11:56.740Z",
+        "namespace_hint": "qti",
+        "project_hint": "alioth",
+        "project_id": 2423,
+        "project_path": "qti/alioth"
+      },
+      "revision": "c6e44953934b59f35f855e36480fc9f879feeeb1",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/alioth/-/tree/c6e44953934b59f35f855e36480fc9f879feeeb1"
+    },
+    {
+      "item_id": "qti/alioth@qssi-user-12-SKQ1.211006.001-V13.1.22.9.28.DEV-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211006.001-V13.1.22.9.28.DEV-release-keys",
+        "commit": "27c703125311d91163626f6a98ccaf14fe598196",
+        "committed_date": "2022-10-02T14:40:42.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-10-15T07:11:56.740Z",
+        "namespace_hint": "qti",
+        "project_hint": "alioth",
+        "project_id": 2423,
+        "project_path": "qti/alioth"
+      },
+      "revision": "27c703125311d91163626f6a98ccaf14fe598196",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/alioth/-/tree/27c703125311d91163626f6a98ccaf14fe598196"
+    },
+    {
+      "item_id": "qti/atoll@qssi-eng-10-QKQ1.191201.002-eng.root.20191220.070140-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-eng-10-QKQ1.191201.002-eng.root.20191220.070140-test-keys",
+        "commit": "f90309fd64e6252a84a3aa3e64c7679a780ed3ed",
+        "committed_date": "2021-08-29T01:17:04.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-12-20T21:49:21.566Z",
+        "namespace_hint": "qti",
+        "project_hint": "atoll",
+        "project_id": 2241,
+        "project_path": "qti/atoll"
+      },
+      "revision": "f90309fd64e6252a84a3aa3e64c7679a780ed3ed",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/atoll/-/tree/f90309fd64e6252a84a3aa3e64c7679a780ed3ed"
+    },
+    {
+      "item_id": "qti/atoll@qssi-user-11-RKQ1.200903.002-eng.root.20210203.003534-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200903.002-eng.root.20210203.003534-release-keys",
+        "commit": "b1cdf357de953ac3b850f8a00c1c7450347f7751",
+        "committed_date": "2021-02-21T23:58:37.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2025-12-20T21:49:21.566Z",
+        "namespace_hint": "qti",
+        "project_hint": "atoll",
+        "project_id": 2241,
+        "project_path": "qti/atoll"
+      },
+      "revision": "b1cdf357de953ac3b850f8a00c1c7450347f7751",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/atoll/-/tree/b1cdf357de953ac3b850f8a00c1c7450347f7751"
+    },
+    {
+      "item_id": "qti/atoll@qssi-user-12-SKQ1.211113.001-1670898145177-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211113.001-1670898145177-release-keys",
+        "commit": "392f835025dd210307f921a86ef2797db2eedf49",
+        "committed_date": "2024-12-11T15:07:38.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-12-20T21:49:21.566Z",
+        "namespace_hint": "qti",
+        "project_hint": "atoll",
+        "project_id": 2241,
+        "project_path": "qti/atoll"
+      },
+      "revision": "392f835025dd210307f921a86ef2797db2eedf49",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/atoll/-/tree/392f835025dd210307f921a86ef2797db2eedf49"
+    },
+    {
+      "item_id": "qti/atoll@qssi-user-12-SKQ1.230401.001-101.000470.45.20-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.230401.001-101.000470.45.20-release-keys",
+        "commit": "7378f58be8ef2a841e59c7204b4dd234bbfea4d2",
+        "committed_date": "2025-12-21T00:44:27.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-12-20T21:49:21.566Z",
+        "namespace_hint": "qti",
+        "project_hint": "atoll",
+        "project_id": 2241,
+        "project_path": "qti/atoll"
+      },
+      "revision": "7378f58be8ef2a841e59c7204b4dd234bbfea4d2",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/atoll/-/tree/7378f58be8ef2a841e59c7204b4dd234bbfea4d2"
+    },
+    {
+      "item_id": "qti/bengal@ohosqssi-user-12-SKQ1.211230.001-eng.root.20230511.191323-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ohosqssi-user-12-SKQ1.211230.001-eng.root.20230511.191323-dev-keys",
+        "commit": "78970403cb72299f2d5ac5fefefc3d20d24d2711",
+        "committed_date": "2024-06-22T15:03:02.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-03-19T16:47:18.938Z",
+        "namespace_hint": "qti",
+        "project_hint": "bengal",
+        "project_id": 780,
+        "project_path": "qti/bengal"
+      },
+      "revision": "78970403cb72299f2d5ac5fefefc3d20d24d2711",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/bengal/-/tree/78970403cb72299f2d5ac5fefefc3d20d24d2711"
+    },
+    {
+      "item_id": "qti/bengal@ohosqssi-user-12-SKQ1.220804.001-eng.huawei.20240530.152543-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ohosqssi-user-12-SKQ1.220804.001-eng.huawei.20240530.152543-dev-keys",
+        "commit": "272d85aec1e376925c7fc1de8b6401f6eeef0441",
+        "committed_date": "2024-09-01T12:02:19.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-03-19T16:47:18.938Z",
+        "namespace_hint": "qti",
+        "project_hint": "bengal",
+        "project_id": 780,
+        "project_path": "qti/bengal"
+      },
+      "revision": "272d85aec1e376925c7fc1de8b6401f6eeef0441",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/bengal/-/tree/272d85aec1e376925c7fc1de8b6401f6eeef0441"
+    },
+    {
+      "item_id": "qti/bengal@qssi-user-11-RKQ1.210526.001-eng.jiangds.20220831.081837-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210526.001-eng.jiangds.20220831.081837-test-keys",
+        "commit": "6b647a2ff0d26834943fd182187487e518c9e8a2",
+        "committed_date": "2024-06-16T18:32:34.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-03-19T16:47:18.938Z",
+        "namespace_hint": "qti",
+        "project_hint": "bengal",
+        "project_id": 780,
+        "project_path": "qti/bengal"
+      },
+      "revision": "6b647a2ff0d26834943fd182187487e518c9e8a2",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/bengal/-/tree/6b647a2ff0d26834943fd182187487e518c9e8a2"
+    },
+    {
+      "item_id": "qti/bengal@qssi-user-12-SKQ1.211113.001-1663122401686-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211113.001-1663122401686-release-keys",
+        "commit": "edc3f07171f53176ccadea59407b2592b0e87051",
+        "committed_date": "2022-12-06T22:27:18.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-03-19T16:47:18.938Z",
+        "namespace_hint": "qti",
+        "project_hint": "bengal",
+        "project_id": 780,
+        "project_path": "qti/bengal"
+      },
+      "revision": "edc3f07171f53176ccadea59407b2592b0e87051",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/bengal/-/tree/edc3f07171f53176ccadea59407b2592b0e87051"
+    },
+    {
+      "item_id": "qti/bengal@qssi-user-16-SM6225.Android16.EAU.2026-02-25-15-53-eng.lynx-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-16-SM6225.Android16.EAU.2026-02-25-15-53-eng.lynx-dev-keys",
+        "commit": "c45f89ee3606e5917c212bc8ebc2d4bdb650d4bf",
+        "committed_date": "2026-03-19T19:34:45.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-03-19T16:47:18.938Z",
+        "namespace_hint": "qti",
+        "project_hint": "bengal",
+        "project_id": 780,
+        "project_path": "qti/bengal"
+      },
+      "revision": "c45f89ee3606e5917c212bc8ebc2d4bdb650d4bf",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/bengal/-/tree/c45f89ee3606e5917c212bc8ebc2d4bdb650d4bf"
+    },
+    {
+      "item_id": "qti/bengal@qssi-userdebug-10-QKQ1.200719.002-85-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-userdebug-10-QKQ1.200719.002-85-test-keys",
+        "commit": "227d3277e53f1aa186564e078dc7fd74eeb240e4",
+        "committed_date": "2021-11-11T16:34:27.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-03-19T16:47:18.938Z",
+        "namespace_hint": "qti",
+        "project_hint": "bengal",
+        "project_id": 780,
+        "project_path": "qti/bengal"
+      },
+      "revision": "227d3277e53f1aa186564e078dc7fd74eeb240e4",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/bengal/-/tree/227d3277e53f1aa186564e078dc7fd74eeb240e4"
+    },
+    {
+      "item_id": "qti/bengal_32go@qssi_32go-user-11-RKQ1.210526.001-eng.jiangds.20230620.030839-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_32go-user-11-RKQ1.210526.001-eng.jiangds.20230620.030839-test-keys",
+        "commit": "eafa8720d96d2ab3d92a509730c2f513aa5ff882",
+        "committed_date": "2024-06-16T18:43:06.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-06-16T15:41:48.472Z",
+        "namespace_hint": "qti",
+        "project_hint": "bengal_32go",
+        "project_id": 5313,
+        "project_path": "qti/bengal_32go"
+      },
+      "revision": "eafa8720d96d2ab3d92a509730c2f513aa5ff882",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/bengal_32go/-/tree/eafa8720d96d2ab3d92a509730c2f513aa5ff882"
+    },
+    {
+      "item_id": "qti/bengal_515@qssi-user-13-TKQ1.230110.001-eng.FiiO.20250109.020805-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.230110.001-eng.FiiO.20250109.020805-dev-keys",
+        "commit": "a3caeb5c63112caaca612266ac7159c26f05a803",
+        "committed_date": "2025-01-13T17:04:24.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-01-13T14:09:00.526Z",
+        "namespace_hint": "qti",
+        "project_hint": "bengal_515",
+        "project_id": 5309,
+        "project_path": "qti/bengal_515"
+      },
+      "revision": "a3caeb5c63112caaca612266ac7159c26f05a803",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/bengal_515/-/tree/a3caeb5c63112caaca612266ac7159c26f05a803"
+    },
+    {
+      "item_id": "qti/bengal_515@qssi-user-13-TKQ1.230110.001-eng.jiangd.20240105.192958-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.230110.001-eng.jiangd.20240105.192958-test-keys",
+        "commit": "4810482c07bf7c347e8e4b9b7f42c84a23ceb533",
+        "committed_date": "2024-06-16T16:53:31.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-13T14:09:00.526Z",
+        "namespace_hint": "qti",
+        "project_hint": "bengal_515",
+        "project_id": 5309,
+        "project_path": "qti/bengal_515"
+      },
+      "revision": "4810482c07bf7c347e8e4b9b7f42c84a23ceb533",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/bengal_515/-/tree/4810482c07bf7c347e8e4b9b7f42c84a23ceb533"
+    },
+    {
+      "item_id": "qti/citrus@qssi-user-11-RKQ1.201004.002-V12.5.9.0.RJFMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201004.002-V12.5.9.0.RJFMIXM-release-keys",
+        "commit": "d3b1bdfc90bfaadb4d7baa896a61a8bd7671fa16",
+        "committed_date": "2022-09-21T15:14:31.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-09-21T12:11:39.338Z",
+        "namespace_hint": "qti",
+        "project_hint": "citrus",
+        "project_id": 2450,
+        "project_path": "qti/citrus"
+      },
+      "revision": "d3b1bdfc90bfaadb4d7baa896a61a8bd7671fa16",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/citrus/-/tree/d3b1bdfc90bfaadb4d7baa896a61a8bd7671fa16"
+    },
+    {
+      "item_id": "qti/cupid@missi_phone_global-user-13-TKQ1.220630.001-V13.0.4.0.TLCMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-13-TKQ1.220630.001-V13.0.4.0.TLCMIXM-release-keys",
+        "commit": "281ebae3ecc6702f7a4c73f7eed350929dddf495",
+        "committed_date": "2022-09-14T18:32:26.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-09-14T15:23:08.780Z",
+        "namespace_hint": "qti",
+        "project_hint": "cupid",
+        "project_id": 2431,
+        "project_path": "qti/cupid"
+      },
+      "revision": "281ebae3ecc6702f7a4c73f7eed350929dddf495",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/cupid/-/tree/281ebae3ecc6702f7a4c73f7eed350929dddf495"
+    },
+    {
+      "item_id": "qti/diting@missi-user-12-SKQ1.220303.001-V13.0.7.0.SLFCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.220303.001-V13.0.7.0.SLFCNXM-release-keys",
+        "commit": "02658cbe09b25efac411213c52d77ce7e4e4ab09",
+        "committed_date": "2022-09-19T13:25:54.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-10-10T16:18:55.573Z",
+        "namespace_hint": "qti",
+        "project_hint": "diting",
+        "project_id": 2440,
+        "project_path": "qti/diting"
+      },
+      "revision": "02658cbe09b25efac411213c52d77ce7e4e4ab09",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/diting/-/tree/02658cbe09b25efac411213c52d77ce7e4e4ab09"
+    },
+    {
+      "item_id": "qti/diting@missi-user-12-SKQ1.220303.001-V13.0.7.0.SLFEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.220303.001-V13.0.7.0.SLFEUXM-release-keys",
+        "commit": "19a289758df141f5bff0e13adc24e7dafd340e72",
+        "committed_date": "2022-10-10T19:07:13.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-10-10T16:18:55.573Z",
+        "namespace_hint": "qti",
+        "project_hint": "diting",
+        "project_id": 2440,
+        "project_path": "qti/diting"
+      },
+      "revision": "19a289758df141f5bff0e13adc24e7dafd340e72",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/diting/-/tree/19a289758df141f5bff0e13adc24e7dafd340e72"
+    },
+    {
+      "item_id": "qti/doom@qssi-user-12-SKQ1.211019.001-13.5.332_220407-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211019.001-13.5.332_220407-release-keys",
+        "commit": "b4327e2cb5fda559918c2ef538c9ce23a571fbda",
+        "committed_date": "2022-09-30T05:16:24.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-09-30T02:12:13.732Z",
+        "namespace_hint": "qti",
+        "project_hint": "doom",
+        "project_id": 2461,
+        "project_path": "qti/doom"
+      },
+      "revision": "b4327e2cb5fda559918c2ef538c9ce23a571fbda",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/doom/-/tree/b4327e2cb5fda559918c2ef538c9ce23a571fbda"
+    },
+    {
+      "item_id": "qti/haydn@missi-user-12-SKQ1.211006.001-V13.0.3.0.SKKMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.211006.001-V13.0.3.0.SKKMIXM-release-keys",
+        "commit": "693f4e1243fefaf6dfde1dea66f356ecd1e6969b",
+        "committed_date": "2022-09-25T22:36:06.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-10-13T11:04:48.163Z",
+        "namespace_hint": "qti",
+        "project_hint": "haydn",
+        "project_id": 2457,
+        "project_path": "qti/haydn"
+      },
+      "revision": "693f4e1243fefaf6dfde1dea66f356ecd1e6969b",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/haydn/-/tree/693f4e1243fefaf6dfde1dea66f356ecd1e6969b"
+    },
+    {
+      "item_id": "qti/haydn@missi-user-12-SKQ1.211006.001-V13.0.6.0.SKKCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.211006.001-V13.0.6.0.SKKCNXM-release-keys",
+        "commit": "de8e3c6c4e263aeb4b9052a4bdbd0a5bda7c5fe1",
+        "committed_date": "2022-10-13T13:54:51.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-10-13T11:04:48.163Z",
+        "namespace_hint": "qti",
+        "project_hint": "haydn",
+        "project_id": 2457,
+        "project_path": "qti/haydn"
+      },
+      "revision": "de8e3c6c4e263aeb4b9052a4bdbd0a5bda7c5fe1",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/haydn/-/tree/de8e3c6c4e263aeb4b9052a4bdbd0a5bda7c5fe1"
+    },
+    {
+      "item_id": "qti/ingres@missi_phone_cn-user-13-TKQ1.220807.001-V13.1.22.9.29.DEV-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_cn-user-13-TKQ1.220807.001-V13.1.22.9.29.DEV-release-keys",
+        "commit": "8d463504e7210b15f344b87e93cb21c16101c6c8",
+        "committed_date": "2022-10-05T11:44:28.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-10-05T08:39:15.790Z",
+        "namespace_hint": "qti",
+        "project_hint": "ingres",
+        "project_id": 2466,
+        "project_path": "qti/ingres"
+      },
+      "revision": "8d463504e7210b15f344b87e93cb21c16101c6c8",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/ingres/-/tree/8d463504e7210b15f344b87e93cb21c16101c6c8"
+    },
+    {
+      "item_id": "qti/kalama@qssi-user-13-TKQ1.230811.002-4158-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.230811.002-4158-release-keys",
+        "commit": "f006251160c99efa3b4a5a54f6c5d28fc936ecd2",
+        "committed_date": "2024-08-09T03:29:47.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-03-11T22:12:04.016Z",
+        "namespace_hint": "qti",
+        "project_hint": "kalama",
+        "project_id": 5373,
+        "project_path": "qti/kalama"
+      },
+      "revision": "f006251160c99efa3b4a5a54f6c5d28fc936ecd2",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/kalama/-/tree/f006251160c99efa3b4a5a54f6c5d28fc936ecd2"
+    },
+    {
+      "item_id": "qti/kalama@qssi-user-13-TKQ1.230811.002-eng.scm.20251011.212405-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.230811.002-eng.scm.20251011.212405-release-keys",
+        "commit": "d0fd7c3078e7294f9fdb787459ebef078211c163",
+        "committed_date": "2026-03-12T01:00:50.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-03-11T22:12:04.016Z",
+        "namespace_hint": "qti",
+        "project_hint": "kalama",
+        "project_id": 5373,
+        "project_path": "qti/kalama"
+      },
+      "revision": "d0fd7c3078e7294f9fdb787459ebef078211c163",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/kalama/-/tree/d0fd7c3078e7294f9fdb787459ebef078211c163"
+    },
+    {
+      "item_id": "qti/kalama@qssi-user-13-TKQ1.231222.001-eng.RP6.20260115.183455-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.231222.001-eng.RP6.20260115.183455-release-keys",
+        "commit": "5a71b542755a17625a39cd8f678e87f9c3956baa",
+        "committed_date": "2026-03-06T02:17:40.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-03-11T22:12:04.016Z",
+        "namespace_hint": "qti",
+        "project_hint": "kalama",
+        "project_id": 5373,
+        "project_path": "qti/kalama"
+      },
+      "revision": "5a71b542755a17625a39cd8f678e87f9c3956baa",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/kalama/-/tree/5a71b542755a17625a39cd8f678e87f9c3956baa"
+    },
+    {
+      "item_id": "qti/kalama@qssi-user-13-TKQ1.231222.001-eng.Thor.20251120.235628-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.231222.001-eng.Thor.20251120.235628-release-keys",
+        "commit": "14d8992d1b9885b48954267d618ac240629332cf",
+        "committed_date": "2026-02-24T01:59:46.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-03-11T22:12:04.016Z",
+        "namespace_hint": "qti",
+        "project_hint": "kalama",
+        "project_id": 5373,
+        "project_path": "qti/kalama"
+      },
+      "revision": "14d8992d1b9885b48954267d618ac240629332cf",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/kalama/-/tree/14d8992d1b9885b48954267d618ac240629332cf"
+    },
+    {
+      "item_id": "qti/kona@qssi-user-10-10.1.t.2.38_user_20230819-1733-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-10.1.t.2.38_user_20230819-1733-release-keys",
+        "commit": "a94d63cc416747e7027eccdde712ee9bf97e82f7",
+        "committed_date": "2024-01-05T01:04:19.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-12-24T23:58:12.895Z",
+        "namespace_hint": "qti",
+        "project_hint": "kona",
+        "project_id": 1609,
+        "project_path": "qti/kona"
+      },
+      "revision": "a94d63cc416747e7027eccdde712ee9bf97e82f7",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/kona/-/tree/a94d63cc416747e7027eccdde712ee9bf97e82f7"
+    },
+    {
+      "item_id": "qti/kona@qssi-user-11-RKQ1.200710.002-eng.root.20201127.014636-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200710.002-eng.root.20201127.014636-release-keys",
+        "commit": "ef8b50c599b8b1325f9ff33cbcae2d2be77bbc54",
+        "committed_date": "2020-12-29T12:39:07.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2025-12-24T23:58:12.895Z",
+        "namespace_hint": "qti",
+        "project_hint": "kona",
+        "project_id": 1609,
+        "project_path": "qti/kona"
+      },
+      "revision": "ef8b50c599b8b1325f9ff33cbcae2d2be77bbc54",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/kona/-/tree/ef8b50c599b8b1325f9ff33cbcae2d2be77bbc54"
+    },
+    {
+      "item_id": "qti/kona@qssi-user-12-SKQ1.211019.001-1663073652574-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211019.001-1663073652574-release-keys",
+        "commit": "9424f2aa4f61944ed680e0ba86b058f017d00ada",
+        "committed_date": "2022-10-26T20:22:02.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-12-24T23:58:12.895Z",
+        "namespace_hint": "qti",
+        "project_hint": "kona",
+        "project_id": 1609,
+        "project_path": "qti/kona"
+      },
+      "revision": "9424f2aa4f61944ed680e0ba86b058f017d00ada",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/kona/-/tree/9424f2aa4f61944ed680e0ba86b058f017d00ada"
+    },
+    {
+      "item_id": "qti/kona@qssi-user-13-TKQ1.240621.001-eng.RP5.20241118.141622-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.240621.001-eng.RP5.20241118.141622-release-keys",
+        "commit": "80489fef607ec67c84b083f1c55a60ed93e614ed",
+        "committed_date": "2024-11-21T03:17:21.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-12-24T23:58:12.895Z",
+        "namespace_hint": "qti",
+        "project_hint": "kona",
+        "project_id": 1609,
+        "project_path": "qti/kona"
+      },
+      "revision": "80489fef607ec67c84b083f1c55a60ed93e614ed",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/kona/-/tree/80489fef607ec67c84b083f1c55a60ed93e614ed"
+    },
+    {
+      "item_id": "qti/kona@qssi-user-13-TKQ1.240621.001-eng.RP5.20250308.033635-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.240621.001-eng.RP5.20250308.033635-release-keys",
+        "commit": "62633da92e56048e28976223d69675f4fc403e98",
+        "committed_date": "2025-12-02T13:59:33.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-12-24T23:58:12.895Z",
+        "namespace_hint": "qti",
+        "project_hint": "kona",
+        "project_id": 1609,
+        "project_path": "qti/kona"
+      },
+      "revision": "62633da92e56048e28976223d69675f4fc403e98",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/kona/-/tree/62633da92e56048e28976223d69675f4fc403e98"
+    },
+    {
+      "item_id": "qti/kona@qssi-user-13-TKQ1.240621.001-eng.RP5.20251128.173135-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.240621.001-eng.RP5.20251128.173135-release-keys",
+        "commit": "4de40d8a54935a09e86ebdeae739093aa3c75e04",
+        "committed_date": "2025-12-25T02:52:25.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-12-24T23:58:12.895Z",
+        "namespace_hint": "qti",
+        "project_hint": "kona",
+        "project_id": 1609,
+        "project_path": "qti/kona"
+      },
+      "revision": "4de40d8a54935a09e86ebdeae739093aa3c75e04",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/kona/-/tree/4de40d8a54935a09e86ebdeae739093aa3c75e04"
+    },
+    {
+      "item_id": "qti/kona@qssi-user-13-TP1A.220905.001-1704267324812-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1704267324812-release-keys",
+        "commit": "cf2a99212d76f973bb08fc79987f145c9273cc98",
+        "committed_date": "2025-01-14T15:54:08.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-12-24T23:58:12.895Z",
+        "namespace_hint": "qti",
+        "project_hint": "kona",
+        "project_id": 1609,
+        "project_path": "qti/kona"
+      },
+      "revision": "cf2a99212d76f973bb08fc79987f145c9273cc98",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/kona/-/tree/cf2a99212d76f973bb08fc79987f145c9273cc98"
+    },
+    {
+      "item_id": "qti/lahaina@ohosqssi-user-12-SKQ1.211230.001-eng.root.20231026.194540-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ohosqssi-user-12-SKQ1.211230.001-eng.root.20231026.194540-dev-keys",
+        "commit": "8ddcf80cfd6cf459892bd819d5aa20ffa83aa563",
+        "committed_date": "2024-05-26T18:23:10.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-04-22T16:25:11.096Z",
+        "namespace_hint": "qti",
+        "project_hint": "lahaina",
+        "project_id": 4569,
+        "project_path": "qti/lahaina"
+      },
+      "revision": "8ddcf80cfd6cf459892bd819d5aa20ffa83aa563",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/lahaina/-/tree/8ddcf80cfd6cf459892bd819d5aa20ffa83aa563"
+    },
+    {
+      "item_id": "qti/lahaina@ohosqssi-user-12-SKQ1.220804.001-eng.huawei.20230927.094704-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ohosqssi-user-12-SKQ1.220804.001-eng.huawei.20230927.094704-dev-keys",
+        "commit": "b3fa882f1d9641033218317cdda86c42e0ae15b2",
+        "committed_date": "2023-10-30T18:19:18.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-04-22T16:25:11.096Z",
+        "namespace_hint": "qti",
+        "project_hint": "lahaina",
+        "project_id": 4569,
+        "project_path": "qti/lahaina"
+      },
+      "revision": "b3fa882f1d9641033218317cdda86c42e0ae15b2",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/lahaina/-/tree/b3fa882f1d9641033218317cdda86c42e0ae15b2"
+    },
+    {
+      "item_id": "qti/lahaina@ohosqssi-user-12-SKQ1.220804.001-eng.huawei.20240701.122256-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ohosqssi-user-12-SKQ1.220804.001-eng.huawei.20240701.122256-dev-keys",
+        "commit": "331fbeb750d6c9161167c8af2bb046b7d6713022",
+        "committed_date": "2024-09-01T11:40:14.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-04-22T16:25:11.096Z",
+        "namespace_hint": "qti",
+        "project_hint": "lahaina",
+        "project_id": 4569,
+        "project_path": "qti/lahaina"
+      },
+      "revision": "331fbeb750d6c9161167c8af2bb046b7d6713022",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/lahaina/-/tree/331fbeb750d6c9161167c8af2bb046b7d6713022"
+    },
+    {
+      "item_id": "qti/lahaina@qssi-user-13-TKQ1.221013.002-eng.lynx.20250118.200346-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.221013.002-eng.lynx.20250118.200346-release-keys",
+        "commit": "8778fae834253bb6134718ffaf0b42d886dfe570",
+        "committed_date": "2025-03-13T00:44:47.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-04-22T16:25:11.096Z",
+        "namespace_hint": "qti",
+        "project_hint": "lahaina",
+        "project_id": 4569,
+        "project_path": "qti/lahaina"
+      },
+      "revision": "8778fae834253bb6134718ffaf0b42d886dfe570",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/lahaina/-/tree/8778fae834253bb6134718ffaf0b42d886dfe570"
+    },
+    {
+      "item_id": "qti/lahaina@qssi-user-13-TKQ1.221013.002-eng.lynx.20250415.202901-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.221013.002-eng.lynx.20250415.202901-release-keys",
+        "commit": "869ff7631778757840e59c8ce1be24b79b351b01",
+        "committed_date": "2025-04-22T19:18:21.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-04-22T16:25:11.096Z",
+        "namespace_hint": "qti",
+        "project_hint": "lahaina",
+        "project_id": 4569,
+        "project_path": "qti/lahaina"
+      },
+      "revision": "869ff7631778757840e59c8ce1be24b79b351b01",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/lahaina/-/tree/869ff7631778757840e59c8ce1be24b79b351b01"
+    },
+    {
+      "item_id": "qti/lemon@qssi-user-11-RKQ1.201004.002-V12.5.12.0.RJQMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201004.002-V12.5.12.0.RJQMIXM-release-keys",
+        "commit": "8fa10070b32e6b667fe95add457aae2f0f165f25",
+        "committed_date": "2022-10-14T08:42:34.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-10-14T05:39:38.036Z",
+        "namespace_hint": "qti",
+        "project_hint": "lemon",
+        "project_id": 2477,
+        "project_path": "qti/lemon"
+      },
+      "revision": "8fa10070b32e6b667fe95add457aae2f0f165f25",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/lemon/-/tree/8fa10070b32e6b667fe95add457aae2f0f165f25"
+    },
+    {
+      "item_id": "qti/lisa@missi-user-12-SKQ1.211006.001-V13.0.10.0.SKOEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.211006.001-V13.0.10.0.SKOEUXM-release-keys",
+        "commit": "475de2dbf87f71abbb0ab4995b2a5f805be5e698",
+        "committed_date": "2022-09-23T20:46:22.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-09-23T17:58:41.064Z",
+        "namespace_hint": "qti",
+        "project_hint": "lisa",
+        "project_id": 2439,
+        "project_path": "qti/lisa"
+      },
+      "revision": "475de2dbf87f71abbb0ab4995b2a5f805be5e698",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/lisa/-/tree/475de2dbf87f71abbb0ab4995b2a5f805be5e698"
+    },
+    {
+      "item_id": "qti/lisa@missi-user-12-SKQ1.220303.001-22.9.14-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.220303.001-22.9.14-release-keys",
+        "commit": "8005dc89ef7e76377c5c1053af7c8534e90c665a",
+        "committed_date": "2022-09-18T23:39:33.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-23T17:58:41.064Z",
+        "namespace_hint": "qti",
+        "project_hint": "lisa",
+        "project_id": 2439,
+        "project_path": "qti/lisa"
+      },
+      "revision": "8005dc89ef7e76377c5c1053af7c8534e90c665a",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/lisa/-/tree/8005dc89ef7e76377c5c1053af7c8534e90c665a"
+    },
+    {
+      "item_id": "qti/lito@qssi-user-15-AQ3A.241126.002-eng.zhangz.00000000.000000-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-15-AQ3A.241126.002-eng.zhangz.00000000.000000-test-keys",
+        "commit": "97b7b81485e26943517b55adbfc7dbf43b1bd7c4",
+        "committed_date": "2025-10-10T14:53:58.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-10-10T11:51:16.076Z",
+        "namespace_hint": "qti",
+        "project_hint": "lito",
+        "project_id": 5700,
+        "project_path": "qti/lito"
+      },
+      "revision": "97b7b81485e26943517b55adbfc7dbf43b1bd7c4",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/lito/-/tree/97b7b81485e26943517b55adbfc7dbf43b1bd7c4"
+    },
+    {
+      "item_id": "qti/lmi@qssi-user-12-SKQ1.211006.001-V13.0.3.0.SJKMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211006.001-V13.0.3.0.SJKMIXM-release-keys",
+        "commit": "22a96aaa33997ff17ceedce167099a3495ef753e",
+        "committed_date": "2022-09-16T17:21:14.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-09-16T14:17:05.414Z",
+        "namespace_hint": "qti",
+        "project_hint": "lmi",
+        "project_id": 2433,
+        "project_path": "qti/lmi"
+      },
+      "revision": "22a96aaa33997ff17ceedce167099a3495ef753e",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/lmi/-/tree/22a96aaa33997ff17ceedce167099a3495ef753e"
+    },
+    {
+      "item_id": "qti/lms@TYPE-S_00WW-user-9-PKQ1.190407.001-00WW_1_077-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "TYPE-S_00WW-user-9-PKQ1.190407.001-00WW_1_077-dev-keys",
+        "commit": "7bb0e7caa61bb9ba5091ea44d4ed66d711892a49",
+        "committed_date": "2020-08-05T15:25:43.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T16:41:56.359Z",
+        "namespace_hint": "qti",
+        "project_hint": "lms",
+        "project_id": 1193,
+        "project_path": "qti/lms"
+      },
+      "revision": "7bb0e7caa61bb9ba5091ea44d4ed66d711892a49",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/lms/-/tree/7bb0e7caa61bb9ba5091ea44d4ed66d711892a49"
+    },
+    {
+      "item_id": "qti/missi@missi-user-11-RKQ1.210503.001-V12.5.3.0.RKDIDXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-11-RKQ1.210503.001-V12.5.3.0.RKDIDXM-release-keys",
+        "commit": "9cf6a8e97a54314dda7d1873f6860251b6abf104",
+        "committed_date": "2022-08-29T18:44:43.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "9cf6a8e97a54314dda7d1873f6860251b6abf104",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/9cf6a8e97a54314dda7d1873f6860251b6abf104"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.211006.001-V13.0.1.0.SLIEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.211006.001-V13.0.1.0.SLIEUXM-release-keys",
+        "commit": "24a905efe02941ad59886bf01b5673f1ad622e40",
+        "committed_date": "2022-07-11T10:00:35.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "24a905efe02941ad59886bf01b5673f1ad622e40",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/24a905efe02941ad59886bf01b5673f1ad622e40"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.211006.001-V13.0.10.0.SKKCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.211006.001-V13.0.10.0.SKKCNXM-release-keys",
+        "commit": "e5793ae21ec766b41819a53214f1b6d11b9f33d4",
+        "committed_date": "2022-09-02T20:19:52.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "e5793ae21ec766b41819a53214f1b6d11b9f33d4",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/e5793ae21ec766b41819a53214f1b6d11b9f33d4"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.211006.001-V13.0.11.0.SLJCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.211006.001-V13.0.11.0.SLJCNXM-release-keys",
+        "commit": "84afe01da560ddeaed906727b48e2d337a3a12be",
+        "committed_date": "2022-08-24T17:42:52.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "84afe01da560ddeaed906727b48e2d337a3a12be",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/84afe01da560ddeaed906727b48e2d337a3a12be"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.211006.001-V13.0.12.0.SKACNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.211006.001-V13.0.12.0.SKACNXM-release-keys",
+        "commit": "4cb63a33fbc600e26cad08a20a602167e18b30de",
+        "committed_date": "2022-06-11T23:07:51.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "4cb63a33fbc600e26cad08a20a602167e18b30de",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/4cb63a33fbc600e26cad08a20a602167e18b30de"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.211006.001-V13.0.12.0.SLPCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.211006.001-V13.0.12.0.SLPCNXM-release-keys",
+        "commit": "457f6fdded30cbfb3995482448f472a042cf805a",
+        "committed_date": "2022-08-27T19:01:48.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "457f6fdded30cbfb3995482448f472a042cf805a",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/457f6fdded30cbfb3995482448f472a042cf805a"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.211006.001-V13.0.13.0.SKACNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.211006.001-V13.0.13.0.SKACNXM-release-keys",
+        "commit": "945b5d90ef1fbd3a981dbc42152ce49f41524eb0",
+        "committed_date": "2022-08-10T15:43:42.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "945b5d90ef1fbd3a981dbc42152ce49f41524eb0",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/945b5d90ef1fbd3a981dbc42152ce49f41524eb0"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.211006.001-V13.0.2.0.SKKMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.211006.001-V13.0.2.0.SKKMIXM-release-keys",
+        "commit": "38d095cf99d7546a31dfc39557f0a763b7de81f7",
+        "committed_date": "2022-06-11T10:05:19.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "38d095cf99d7546a31dfc39557f0a763b7de81f7",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/38d095cf99d7546a31dfc39557f0a763b7de81f7"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.211006.001-V13.0.3.0.SKKINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.211006.001-V13.0.3.0.SKKINXM-release-keys",
+        "commit": "1108a3cfef9e35309523c3e624f7680a6d8b018b",
+        "committed_date": "2022-07-16T11:00:01.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "1108a3cfef9e35309523c3e624f7680a6d8b018b",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/1108a3cfef9e35309523c3e624f7680a6d8b018b"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.211006.001-V13.0.3.0.SLIMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.211006.001-V13.0.3.0.SLIMIXM-release-keys",
+        "commit": "6d32be8dd34d6c15c251d09c3e5c999e8097b07e",
+        "committed_date": "2022-07-14T12:38:26.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "6d32be8dd34d6c15c251d09c3e5c999e8097b07e",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/6d32be8dd34d6c15c251d09c3e5c999e8097b07e"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.211006.001-V13.0.36.0.SLBCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.211006.001-V13.0.36.0.SLBCNXM-release-keys",
+        "commit": "8f0b876f81767057e0f57053640b8ee0e7aa07ff",
+        "committed_date": "2022-06-28T06:33:05.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "8f0b876f81767057e0f57053640b8ee0e7aa07ff",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/8f0b876f81767057e0f57053640b8ee0e7aa07ff"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.211006.001-V13.0.4.0.SKIJPXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.211006.001-V13.0.4.0.SKIJPXM-release-keys",
+        "commit": "59523b4077f75f9fd2387b2914a8be454a873ac5",
+        "committed_date": "2022-08-29T19:25:24.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "59523b4077f75f9fd2387b2914a8be454a873ac5",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/59523b4077f75f9fd2387b2914a8be454a873ac5"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.211006.001-V13.0.5.0.SKDIDXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.211006.001-V13.0.5.0.SKDIDXM-release-keys",
+        "commit": "65357f97231d6daeb1b5326e862056e8c42ee2ad",
+        "committed_date": "2022-08-24T08:58:19.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "65357f97231d6daeb1b5326e862056e8c42ee2ad",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/65357f97231d6daeb1b5326e862056e8c42ee2ad"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.211006.001-V13.0.5.0.SKOMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.211006.001-V13.0.5.0.SKOMIXM-release-keys",
+        "commit": "3323d8a0b0b27e409e91aee4b11f5cad62b1115d",
+        "committed_date": "2022-07-22T07:03:03.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "3323d8a0b0b27e409e91aee4b11f5cad62b1115d",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/3323d8a0b0b27e409e91aee4b11f5cad62b1115d"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.211006.001-V13.0.5.0.SKVCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.211006.001-V13.0.5.0.SKVCNXM-release-keys",
+        "commit": "cb90624bccea85623ce0b9c1f6384b700873052c",
+        "committed_date": "2022-07-06T09:44:22.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "cb90624bccea85623ce0b9c1f6384b700873052c",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/cb90624bccea85623ce0b9c1f6384b700873052c"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.211006.001-V13.0.5.0.SLMIDXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.211006.001-V13.0.5.0.SLMIDXM-release-keys",
+        "commit": "921eca34f17caaee7374b46dc5a19063e620eb90",
+        "committed_date": "2022-08-29T11:32:42.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "921eca34f17caaee7374b46dc5a19063e620eb90",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/921eca34f17caaee7374b46dc5a19063e620eb90"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.211006.001-V13.0.5.1.45.DEV-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.211006.001-V13.0.5.1.45.DEV-release-keys",
+        "commit": "7ee0ad1b6468c258cfe8cbe14272d63aa3372e0a",
+        "committed_date": "2022-07-09T01:54:29.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "7ee0ad1b6468c258cfe8cbe14272d63aa3372e0a",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/7ee0ad1b6468c258cfe8cbe14272d63aa3372e0a"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.211006.001-V13.0.5.1.56.DEV-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.211006.001-V13.0.5.1.56.DEV-release-keys",
+        "commit": "3fca583973de5c9d8328445a602e4d0dde1148a3",
+        "committed_date": "2022-08-07T21:24:38.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "3fca583973de5c9d8328445a602e4d0dde1148a3",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/3fca583973de5c9d8328445a602e4d0dde1148a3"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.211006.001-V13.0.6.0.SKKCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.211006.001-V13.0.6.0.SKKCNXM-release-keys",
+        "commit": "32ab85a48779e56d6e3ca8b64f6b95d1a76eddf7",
+        "committed_date": "2022-08-24T21:40:30.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "32ab85a48779e56d6e3ca8b64f6b95d1a76eddf7",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/32ab85a48779e56d6e3ca8b64f6b95d1a76eddf7"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.211006.001-V13.0.6.0.SKOINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.211006.001-V13.0.6.0.SKOINXM-release-keys",
+        "commit": "7bc125551723513f92b650896834a877680b9374",
+        "committed_date": "2022-07-18T00:51:24.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "7bc125551723513f92b650896834a877680b9374",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/7bc125551723513f92b650896834a877680b9374"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.211006.001-V13.0.6.0.SLJEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.211006.001-V13.0.6.0.SLJEUXM-release-keys",
+        "commit": "a8fa94d57ead29ccdfb65ea4f487b278f3d23a70",
+        "committed_date": "2022-07-02T00:56:46.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "a8fa94d57ead29ccdfb65ea4f487b278f3d23a70",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/a8fa94d57ead29ccdfb65ea4f487b278f3d23a70"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.211006.001-V13.0.6.0.SLMEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.211006.001-V13.0.6.0.SLMEUXM-release-keys",
+        "commit": "cb706106733c010ed616c21d9b983815958d2e2f",
+        "committed_date": "2022-08-04T17:41:54.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "cb706106733c010ed616c21d9b983815958d2e2f",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/cb706106733c010ed616c21d9b983815958d2e2f"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.211006.001-V13.0.7.0.SLBMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.211006.001-V13.0.7.0.SLBMIXM-release-keys",
+        "commit": "bf8714b36244746fc66450435b186bdaf8df4953",
+        "committed_date": "2022-08-08T17:25:59.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "bf8714b36244746fc66450435b186bdaf8df4953",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/bf8714b36244746fc66450435b186bdaf8df4953"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.211006.001-V13.0.7.0.SLMEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.211006.001-V13.0.7.0.SLMEUXM-release-keys",
+        "commit": "4a2e55c869349b38a07010834b397c46a7a36164",
+        "committed_date": "2022-09-07T00:30:16.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "4a2e55c869349b38a07010834b397c46a7a36164",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/4a2e55c869349b38a07010834b397c46a7a36164"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.220303.001-22.5.26-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.220303.001-22.5.26-release-keys",
+        "commit": "d85e9b3fb42cb60733130cb9fc7efe82a4ce0aa4",
+        "committed_date": "2022-05-30T18:16:01.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "d85e9b3fb42cb60733130cb9fc7efe82a4ce0aa4",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/d85e9b3fb42cb60733130cb9fc7efe82a4ce0aa4"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.220303.001-22.6.24-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.220303.001-22.6.24-release-keys",
+        "commit": "9b8770d02c030f32bcefdb229a480605a8aa5972",
+        "committed_date": "2022-06-27T17:23:22.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "9b8770d02c030f32bcefdb229a480605a8aa5972",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/9b8770d02c030f32bcefdb229a480605a8aa5972"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.220303.001-22.6.29-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.220303.001-22.6.29-release-keys",
+        "commit": "88360ca7a530975de7640892d0a353186464cb14",
+        "committed_date": "2022-07-02T21:37:21.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "88360ca7a530975de7640892d0a353186464cb14",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/88360ca7a530975de7640892d0a353186464cb14"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.220303.001-V13.0.0.1.51.DEV-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.220303.001-V13.0.0.1.51.DEV-release-keys",
+        "commit": "7b3d5f5b3de87a1671870123334334882f11bc1d",
+        "committed_date": "2022-07-23T15:45:23.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "7b3d5f5b3de87a1671870123334334882f11bc1d",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/7b3d5f5b3de87a1671870123334334882f11bc1d"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.220303.001-V13.0.1.0.SLACNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.220303.001-V13.0.1.0.SLACNXM-release-keys",
+        "commit": "4c0393657db99a70e01ac8de7d1ecc5d432c11e9",
+        "committed_date": "2022-07-05T18:05:52.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "4c0393657db99a70e01ac8de7d1ecc5d432c11e9",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/4c0393657db99a70e01ac8de7d1ecc5d432c11e9"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.220303.001-V13.0.12.0.SLECNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.220303.001-V13.0.12.0.SLECNXM-release-keys",
+        "commit": "01726a8aa2ab9ce1f2bd3a26f26a74333a6a9cc2",
+        "committed_date": "2022-08-15T08:51:39.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "01726a8aa2ab9ce1f2bd3a26f26a74333a6a9cc2",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/01726a8aa2ab9ce1f2bd3a26f26a74333a6a9cc2"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.220303.001-V13.0.16.0.SLECNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.220303.001-V13.0.16.0.SLECNXM-release-keys",
+        "commit": "f316066427950d576da2a9c581e70cf5e11b9d5c",
+        "committed_date": "2022-08-22T12:48:31.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "f316066427950d576da2a9c581e70cf5e11b9d5c",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/f316066427950d576da2a9c581e70cf5e11b9d5c"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.220303.001-V13.0.3.0.SLACNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.220303.001-V13.0.3.0.SLACNXM-release-keys",
+        "commit": "e032c2c11e661c9022b0a80bef9a2b19e21b7368",
+        "committed_date": "2022-07-10T01:44:02.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "e032c2c11e661c9022b0a80bef9a2b19e21b7368",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/e032c2c11e661c9022b0a80bef9a2b19e21b7368"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.220303.001-V13.0.4.0.SLFCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.220303.001-V13.0.4.0.SLFCNXM-release-keys",
+        "commit": "5e46a3b84f9bd6a93daa1586ae7ae145c07985b0",
+        "committed_date": "2022-08-15T19:17:32.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "5e46a3b84f9bd6a93daa1586ae7ae145c07985b0",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/5e46a3b84f9bd6a93daa1586ae7ae145c07985b0"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.220303.001-V13.0.4.1.SLFCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.220303.001-V13.0.4.1.SLFCNXM-release-keys",
+        "commit": "7e8e751936d4510af454036f972340186a3b4a0f",
+        "committed_date": "2022-08-21T08:48:47.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "7e8e751936d4510af454036f972340186a3b4a0f",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/7e8e751936d4510af454036f972340186a3b4a0f"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.220303.001-V13.0.6.0.SLTCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.220303.001-V13.0.6.0.SLTCNXM-release-keys",
+        "commit": "768d0c91353059022e1d8836d4eb252b908e46d3",
+        "committed_date": "2022-07-05T09:01:37.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "768d0c91353059022e1d8836d4eb252b908e46d3",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/768d0c91353059022e1d8836d4eb252b908e46d3"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.220303.001-V13.0.7.0.SLECNDM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.220303.001-V13.0.7.0.SLECNDM-release-keys",
+        "commit": "a417d043c52426e59f9ed2c81dea59d388077122",
+        "committed_date": "2022-07-05T14:17:42.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "a417d043c52426e59f9ed2c81dea59d388077122",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/a417d043c52426e59f9ed2c81dea59d388077122"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.220303.001-V13.0.7.0.SLECNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.220303.001-V13.0.7.0.SLECNXM-release-keys",
+        "commit": "1d1a4cd04f0855a2f8dfe8b5374326d6c1a5d115",
+        "committed_date": "2022-07-07T16:56:24.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "1d1a4cd04f0855a2f8dfe8b5374326d6c1a5d115",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/1d1a4cd04f0855a2f8dfe8b5374326d6c1a5d115"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.220303.001-V13.0.8.0.SLACNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.220303.001-V13.0.8.0.SLACNXM-release-keys",
+        "commit": "69d2f6f6ff3e7ef2bdabf2e9e392d709505345d1",
+        "committed_date": "2022-08-12T23:09:41.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "69d2f6f6ff3e7ef2bdabf2e9e392d709505345d1",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/69d2f6f6ff3e7ef2bdabf2e9e392d709505345d1"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.220303.001-V13.0.9.0.SLACNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.220303.001-V13.0.9.0.SLACNXM-release-keys",
+        "commit": "f3ab30e869193f92ca921e6bae7d627bbb12938f",
+        "committed_date": "2022-09-07T21:06:10.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "f3ab30e869193f92ca921e6bae7d627bbb12938f",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/f3ab30e869193f92ca921e6bae7d627bbb12938f"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.220303.001-V13.1.1.0.SJTCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.220303.001-V13.1.1.0.SJTCNXM-release-keys",
+        "commit": "ac761bb4c3c32f37c08e4ca6c75c5415b176aab7",
+        "committed_date": "2022-08-23T09:15:03.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "ac761bb4c3c32f37c08e4ca6c75c5415b176aab7",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/ac761bb4c3c32f37c08e4ca6c75c5415b176aab7"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.220303.001-V13.1.4.0.SLZCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.220303.001-V13.1.4.0.SLZCNXM-release-keys",
+        "commit": "1f10435ed75ec858c2938d4410f8b1fdec48b20d",
+        "committed_date": "2022-08-16T19:40:49.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "1f10435ed75ec858c2938d4410f8b1fdec48b20d",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/1f10435ed75ec858c2938d4410f8b1fdec48b20d"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.220303.001-V13.1.6.0.SLRCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.220303.001-V13.1.6.0.SLRCNXM-release-keys",
+        "commit": "8bd8aec41fc611ea7511f576e9163449648317ea",
+        "committed_date": "2022-08-12T11:29:07.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "8bd8aec41fc611ea7511f576e9163449648317ea",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/8bd8aec41fc611ea7511f576e9163449648317ea"
+    },
+    {
+      "item_id": "qti/missi@missi-user-12-SKQ1.220303.001-V13.1.9.0.SLRCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.220303.001-V13.1.9.0.SLRCNXM-release-keys",
+        "commit": "fbf85402f13cd24b053882d0f514e0498cc0d175",
+        "committed_date": "2022-08-17T13:36:57.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "fbf85402f13cd24b053882d0f514e0498cc0d175",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/fbf85402f13cd24b053882d0f514e0498cc0d175"
+    },
+    {
+      "item_id": "qti/missi@missi_phone_cn-user-13-TKQ1.220614.001-V13.1.22.7.28.DEV-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_cn-user-13-TKQ1.220614.001-V13.1.22.7.28.DEV-release-keys",
+        "commit": "8f66d30650c0c350fc220b59a70bfd87240e08b7",
+        "committed_date": "2022-07-29T18:21:03.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "8f66d30650c0c350fc220b59a70bfd87240e08b7",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/8f66d30650c0c350fc220b59a70bfd87240e08b7"
+    },
+    {
+      "item_id": "qti/missi@missi_phone_cn-user-13-TKQ1.220630.001-V13.1.22.8.9.DEV-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_cn-user-13-TKQ1.220630.001-V13.1.22.8.9.DEV-release-keys",
+        "commit": "6ed75b14b8e3fb7533baaaeaec1b2ae3342f5941",
+        "committed_date": "2022-08-16T06:20:59.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "6ed75b14b8e3fb7533baaaeaec1b2ae3342f5941",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/6ed75b14b8e3fb7533baaaeaec1b2ae3342f5941"
+    },
+    {
+      "item_id": "qti/missi@missi_phone_cn-user-13-TKQ1.220807.001-V13.1.22.8.25.DEV-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_cn-user-13-TKQ1.220807.001-V13.1.22.8.25.DEV-release-keys",
+        "commit": "02b4ec6ce60da6ff498c58c9498cacd71e1a2170",
+        "committed_date": "2022-08-26T19:25:43.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "02b4ec6ce60da6ff498c58c9498cacd71e1a2170",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/02b4ec6ce60da6ff498c58c9498cacd71e1a2170"
+    },
+    {
+      "item_id": "qti/missi@missi_phone_global-user-13-TKQ1.220630.001-V13.0.4.0.TLBMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-13-TKQ1.220630.001-V13.0.4.0.TLBMIXM-release-keys",
+        "commit": "42112dc27c9a1a78d8bc4af07ef63a4f5eb3a611",
+        "committed_date": "2022-08-16T02:30:39.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "42112dc27c9a1a78d8bc4af07ef63a4f5eb3a611",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/42112dc27c9a1a78d8bc4af07ef63a4f5eb3a611"
+    },
+    {
+      "item_id": "qti/missi@missi_phone_global-user-13-TKQ1.220630.001-V13.0.4.0.TLCMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-13-TKQ1.220630.001-V13.0.4.0.TLCMIXM-release-keys",
+        "commit": "3ab0257a5ccf1cefb3128e7b1db57647f53a2181",
+        "committed_date": "2022-08-15T22:45:02.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "3ab0257a5ccf1cefb3128e7b1db57647f53a2181",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/3ab0257a5ccf1cefb3128e7b1db57647f53a2181"
+    },
+    {
+      "item_id": "qti/missi@missi_phoneext4_global-user-13-TKQ1.220829.002-V14.0.4.0.TKHMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_global-user-13-TKQ1.220829.002-V14.0.4.0.TKHMIXM-release-keys",
+        "commit": "6422a9d862caa2e37be681b860168d78f076dd4c",
+        "committed_date": "2023-04-11T18:39:21.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "6422a9d862caa2e37be681b860168d78f076dd4c",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/6422a9d862caa2e37be681b860168d78f076dd4c"
+    },
+    {
+      "item_id": "qti/missi@missi_phonenonab_global-user-13-TKQ1.221013.002-V14.0.1.0.TKFMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phonenonab_global-user-13-TKQ1.221013.002-V14.0.1.0.TKFMIXM-release-keys",
+        "commit": "83191fe159dca0fb3ceb52952c3e2f4c1b2804fc",
+        "committed_date": "2023-03-16T19:02:34.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-11T15:41:54.274Z",
+        "namespace_hint": "qti",
+        "project_hint": "missi",
+        "project_id": 2122,
+        "project_path": "qti/missi"
+      },
+      "revision": "83191fe159dca0fb3ceb52952c3e2f4c1b2804fc",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/missi/-/tree/83191fe159dca0fb3ceb52952c3e2f4c1b2804fc"
+    },
+    {
+      "item_id": "qti/mojito@qssi-user-12-SKQ1.210908.001-V13.0.10.0.SKGMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210908.001-V13.0.10.0.SKGMIXM-release-keys",
+        "commit": "86de6a4ab95e8edc52438826aab0b6c7eb98ed5b",
+        "committed_date": "2022-09-12T16:42:21.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-09-12T13:38:59.545Z",
+        "namespace_hint": "qti",
+        "project_hint": "mojito",
+        "project_id": 2418,
+        "project_path": "qti/mojito"
+      },
+      "revision": "86de6a4ab95e8edc52438826aab0b6c7eb98ed5b",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/mojito/-/tree/86de6a4ab95e8edc52438826aab0b6c7eb98ed5b"
+    },
+    {
+      "item_id": "qti/monaco_go@monaco_go-user-11-RKQ1.211102.001.11_A.100.230916004135-01-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "monaco_go-user-11-RKQ1.211102.001.11_A.100.230916004135-01-release-keys",
+        "commit": "f8a7d1e9deb98c2aebd25745590265c45ebd1dec",
+        "committed_date": "2023-10-04T22:42:27.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-10-14T18:53:31.482Z",
+        "namespace_hint": "qti",
+        "project_hint": "monaco_go",
+        "project_id": 4452,
+        "project_path": "qti/monaco_go"
+      },
+      "revision": "f8a7d1e9deb98c2aebd25745590265c45ebd1dec",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/monaco_go/-/tree/f8a7d1e9deb98c2aebd25745590265c45ebd1dec"
+    },
+    {
+      "item_id": "qti/monaco_go@monaco_go-user-11-RKQ1.211102.001.11_A.91.230920223958-01-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "monaco_go-user-11-RKQ1.211102.001.11_A.91.230920223958-01-release-keys",
+        "commit": "3e083032a9cda0a3795364e4c4c1f5825d8ad85e",
+        "committed_date": "2023-09-30T12:18:16.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-10-14T18:53:31.482Z",
+        "namespace_hint": "qti",
+        "project_hint": "monaco_go",
+        "project_id": 4452,
+        "project_path": "qti/monaco_go"
+      },
+      "revision": "3e083032a9cda0a3795364e4c4c1f5825d8ad85e",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/monaco_go/-/tree/3e083032a9cda0a3795364e4c4c1f5825d8ad85e"
+    },
+    {
+      "item_id": "qti/monaco_go@ohosqssi_32-user-12-SKQ1.220804.001-eng.root.20240808.194710-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ohosqssi_32-user-12-SKQ1.220804.001-eng.root.20240808.194710-dev-keys",
+        "commit": "e073c1da3c526a601710664928a3beddae453907",
+        "committed_date": "2024-10-14T21:50:19.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-14T18:53:31.482Z",
+        "namespace_hint": "qti",
+        "project_hint": "monaco_go",
+        "project_id": 4452,
+        "project_path": "qti/monaco_go"
+      },
+      "revision": "e073c1da3c526a601710664928a3beddae453907",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/monaco_go/-/tree/e073c1da3c526a601710664928a3beddae453907"
+    },
+    {
+      "item_id": "qti/mrk@magic_64-user-16-BP2A.250605.031.A2-eng.root-test-keys--MRK-LGRP8-OVS-10.0.0.173",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "magic_64-user-16-BP2A.250605.031.A2-eng.root-test-keys--MRK-LGRP8-OVS-10.0.0.173",
+        "commit": "f9c9226d8742e158aaeae25247b77f932a939c38",
+        "committed_date": "2026-08-25T18:45:19.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-08-25T15:27:33.435Z",
+        "namespace_hint": "qti",
+        "project_hint": "mrk",
+        "project_id": 5822,
+        "project_path": "qti/mrk"
+      },
+      "revision": "f9c9226d8742e158aaeae25247b77f932a939c38",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/mrk/-/tree/f9c9226d8742e158aaeae25247b77f932a939c38"
+    },
+    {
+      "item_id": "qti/msmnile@msmnile-userdebug-9-PKQ1.180916.001-eng.lnxbui.20181005.014402-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msmnile-userdebug-9-PKQ1.180916.001-eng.lnxbui.20181005.014402-test-keys",
+        "commit": "a598e5406c1b10d74140eb9715c2a251c81ef8b9",
+        "committed_date": "2020-09-14T07:33:51.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T17:17:20.193Z",
+        "namespace_hint": "qti",
+        "project_hint": "msmnile",
+        "project_id": 1225,
+        "project_path": "qti/msmnile"
+      },
+      "revision": "a598e5406c1b10d74140eb9715c2a251c81ef8b9",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/msmnile/-/tree/a598e5406c1b10d74140eb9715c2a251c81ef8b9"
+    },
+    {
+      "item_id": "qti/msmnile@qssi-user-11-RKQ1.200928.002-1603699908707-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200928.002-1603699908707-release-keys",
+        "commit": "af2b04e596bf680cbb2d451a442c82f6b43beb7c",
+        "committed_date": "2021-01-14T07:06:06.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T17:17:20.193Z",
+        "namespace_hint": "qti",
+        "project_hint": "msmnile",
+        "project_id": 1225,
+        "project_path": "qti/msmnile"
+      },
+      "revision": "af2b04e596bf680cbb2d451a442c82f6b43beb7c",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/msmnile/-/tree/af2b04e596bf680cbb2d451a442c82f6b43beb7c"
+    },
+    {
+      "item_id": "qti/msmnile@qssi-user-11-RKQ1.200928.002-eng.root.20210226.230045-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200928.002-eng.root.20210226.230045-release-keys",
+        "commit": "220178e607d7cb987b20d3a82c8b7f449f727cb8",
+        "committed_date": "2021-03-01T10:40:45.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T17:17:20.193Z",
+        "namespace_hint": "qti",
+        "project_hint": "msmnile",
+        "project_id": 1225,
+        "project_path": "qti/msmnile"
+      },
+      "revision": "220178e607d7cb987b20d3a82c8b7f449f727cb8",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/msmnile/-/tree/220178e607d7cb987b20d3a82c8b7f449f727cb8"
+    },
+    {
+      "item_id": "qti/nabu@qssi-user-12-SKQ1.220303.001-V13.1.2.0.SKXEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220303.001-V13.1.2.0.SKXEUXM-release-keys",
+        "commit": "06d70458795041e9c649c073d03affcd08e808bf",
+        "committed_date": "2022-09-23T12:03:15.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-09-23T08:58:30.990Z",
+        "namespace_hint": "qti",
+        "project_hint": "nabu",
+        "project_id": 2453,
+        "project_path": "qti/nabu"
+      },
+      "revision": "06d70458795041e9c649c073d03affcd08e808bf",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/nabu/-/tree/06d70458795041e9c649c073d03affcd08e808bf"
+    },
+    {
+      "item_id": "qti/nx679j-eea@qssi-user-12-SKQ1.211113.001-eng.nubia.20220409.035702-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211113.001-eng.nubia.20220409.035702-release-keys",
+        "commit": "b3c6b664258a66fae4c73506132a672db632fd5c",
+        "committed_date": "2022-04-26T06:06:51.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T07:16:46.696Z",
+        "namespace_hint": "qti",
+        "project_hint": "nx679j-eea",
+        "project_id": 924,
+        "project_path": "qti/nx679j-eea"
+      },
+      "revision": "b3c6b664258a66fae4c73506132a672db632fd5c",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/nx679j-eea/-/tree/b3c6b664258a66fae4c73506132a672db632fd5c"
+    },
+    {
+      "item_id": "qti/nx679j-un@qssi-user-12-SKQ1.211113.001-eng.nubia.20220409.134257-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211113.001-eng.nubia.20220409.134257-release-keys",
+        "commit": "03daa66b463db916d127860bc5e8b3c5deed0da0",
+        "committed_date": "2022-04-26T06:26:14.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T10:08:47.367Z",
+        "namespace_hint": "qti",
+        "project_hint": "nx679j-un",
+        "project_id": 943,
+        "project_path": "qti/nx679j-un"
+      },
+      "revision": "03daa66b463db916d127860bc5e8b3c5deed0da0",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/nx679j-un/-/tree/03daa66b463db916d127860bc5e8b3c5deed0da0"
+    },
+    {
+      "item_id": "qti/nx679j@qssi-user-12-SKQ1.211019.001-eng.nubia.20220407.173604-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211019.001-eng.nubia.20220407.173604-release-keys",
+        "commit": "12b2ce5840250637b7cf0416f542383e12b412a9",
+        "committed_date": "2022-09-20T21:17:11.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-20T20:21:36.763Z",
+        "namespace_hint": "qti",
+        "project_hint": "nx679j",
+        "project_id": 2441,
+        "project_path": "qti/nx679j"
+      },
+      "revision": "12b2ce5840250637b7cf0416f542383e12b412a9",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/nx679j/-/tree/12b2ce5840250637b7cf0416f542383e12b412a9"
+    },
+    {
+      "item_id": "qti/nx679j@qssi-user-12-SKQ1.211113.001-eng.nubia.20220627.173324-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211113.001-eng.nubia.20220627.173324-release-keys",
+        "commit": "0d70dae8b76a79a49061dc283d8c86394fc3d098",
+        "committed_date": "2022-09-20T23:30:13.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-09-20T20:21:36.763Z",
+        "namespace_hint": "qti",
+        "project_hint": "nx679j",
+        "project_id": 2441,
+        "project_path": "qti/nx679j"
+      },
+      "revision": "0d70dae8b76a79a49061dc283d8c86394fc3d098",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/nx679j/-/tree/0d70dae8b76a79a49061dc283d8c86394fc3d098"
+    },
+    {
+      "item_id": "qti/nx679j@qssi-user-12-SKQ1.211113.001-eng.nubia.20220628.101230-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211113.001-eng.nubia.20220628.101230-release-keys",
+        "commit": "06043641e4e853ba6d5242aa1f8007c9a02332b9",
+        "committed_date": "2022-09-20T23:13:15.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-20T20:21:36.763Z",
+        "namespace_hint": "qti",
+        "project_hint": "nx679j",
+        "project_id": 2441,
+        "project_path": "qti/nx679j"
+      },
+      "revision": "06043641e4e853ba6d5242aa1f8007c9a02332b9",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/nx679j/-/tree/06043641e4e853ba6d5242aa1f8007c9a02332b9"
+    },
+    {
+      "item_id": "qti/nx679s@qssi-user-12-SKQ1.220406.001-eng.nubia.20220624.002730-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220406.001-eng.nubia.20220624.002730-release-keys",
+        "commit": "9e3166b101381b9f8cdcb5e06d58a07b8f79fbf3",
+        "committed_date": "2022-09-20T21:54:58.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-09-20T18:50:09.991Z",
+        "namespace_hint": "qti",
+        "project_hint": "nx679s",
+        "project_id": 2443,
+        "project_path": "qti/nx679s"
+      },
+      "revision": "9e3166b101381b9f8cdcb5e06d58a07b8f79fbf3",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/nx679s/-/tree/9e3166b101381b9f8cdcb5e06d58a07b8f79fbf3"
+    },
+    {
+      "item_id": "qti/nx709j-un@qssi-user-12-SKQ1.211113.001-eng.nubia.20220415.041941-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211113.001-eng.nubia.20220415.041941-release-keys",
+        "commit": "c922f23758f48b41fbcfe0d3b503b45dd0aa80f8",
+        "committed_date": "2022-04-29T18:54:19.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-08-03T07:32:41.102Z",
+        "namespace_hint": "qti",
+        "project_hint": "nx709j-un",
+        "project_id": 883,
+        "project_path": "qti/nx709j-un"
+      },
+      "revision": "c922f23758f48b41fbcfe0d3b503b45dd0aa80f8",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/nx709j-un/-/tree/c922f23758f48b41fbcfe0d3b503b45dd0aa80f8"
+    },
+    {
+      "item_id": "qti/nx709j-un@qssi-user-12-SKQ1.211113.001-eng.nubia.20220430.205139-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211113.001-eng.nubia.20220430.205139-release-keys",
+        "commit": "20a7e78691ae9c371c6dbc92a5c69c32b4157a6d",
+        "committed_date": "2022-08-03T10:24:13.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-08-03T07:32:41.102Z",
+        "namespace_hint": "qti",
+        "project_hint": "nx709j-un",
+        "project_id": 883,
+        "project_path": "qti/nx709j-un"
+      },
+      "revision": "20a7e78691ae9c371c6dbc92a5c69c32b4157a6d",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/nx709j-un/-/tree/20a7e78691ae9c371c6dbc92a5c69c32b4157a6d"
+    },
+    {
+      "item_id": "qti/nx709j@qssi-user-12-SKQ1.211019.001-eng.nubia.20220111.193310-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211019.001-eng.nubia.20220111.193310-release-keys",
+        "commit": "8500c2a62eeef811bb629f949e0eee45bbbde2de",
+        "committed_date": "2022-09-20T21:35:49.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-20T20:04:44.513Z",
+        "namespace_hint": "qti",
+        "project_hint": "nx709j",
+        "project_id": 2442,
+        "project_path": "qti/nx709j"
+      },
+      "revision": "8500c2a62eeef811bb629f949e0eee45bbbde2de",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/nx709j/-/tree/8500c2a62eeef811bb629f949e0eee45bbbde2de"
+    },
+    {
+      "item_id": "qti/nx709j@qssi-user-12-SKQ1.211113.001-eng.nubia.20220803.223749-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211113.001-eng.nubia.20220803.223749-release-keys",
+        "commit": "875ec346b7ddb33e5fcfa43a51b3ab950f674a28",
+        "committed_date": "2022-09-20T22:56:11.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-09-20T20:04:44.513Z",
+        "namespace_hint": "qti",
+        "project_hint": "nx709j",
+        "project_id": 2442,
+        "project_path": "qti/nx709j"
+      },
+      "revision": "875ec346b7ddb33e5fcfa43a51b3ab950f674a28",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/nx709j/-/tree/875ec346b7ddb33e5fcfa43a51b3ab950f674a28"
+    },
+    {
+      "item_id": "qti/nx709s@qssi-user-12-SKQ1.220406.001-eng.nubia.20220628.123100-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220406.001-eng.nubia.20220628.123100-release-keys",
+        "commit": "4adf38c02a869fb2a665e53309b96feae654c651",
+        "committed_date": "2022-09-09T20:54:05.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-20T19:28:15.003Z",
+        "namespace_hint": "qti",
+        "project_hint": "nx709s",
+        "project_id": 2416,
+        "project_path": "qti/nx709s"
+      },
+      "revision": "4adf38c02a869fb2a665e53309b96feae654c651",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/nx709s/-/tree/4adf38c02a869fb2a665e53309b96feae654c651"
+    },
+    {
+      "item_id": "qti/nx709s@qssi-user-12-SKQ1.220502.001-eng.nubia.20220809.205045-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220502.001-eng.nubia.20220809.205045-release-keys",
+        "commit": "3ed599e75f2f24d28077afad5ec65352d165beaa",
+        "committed_date": "2022-09-20T22:19:07.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-20T19:28:15.003Z",
+        "namespace_hint": "qti",
+        "project_hint": "nx709s",
+        "project_id": 2416,
+        "project_path": "qti/nx709s"
+      },
+      "revision": "3ed599e75f2f24d28077afad5ec65352d165beaa",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/nx709s/-/tree/3ed599e75f2f24d28077afad5ec65352d165beaa"
+    },
+    {
+      "item_id": "qti/nx709s@qssi-user-12-SKQ1.220502.001-eng.nubia.20220809.210042-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220502.001-eng.nubia.20220809.210042-release-keys",
+        "commit": "5c976a004fde09a249efee017e1b020a998067cb",
+        "committed_date": "2022-09-20T22:38:01.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-09-20T19:28:15.003Z",
+        "namespace_hint": "qti",
+        "project_hint": "nx709s",
+        "project_id": 2416,
+        "project_path": "qti/nx709s"
+      },
+      "revision": "5c976a004fde09a249efee017e1b020a998067cb",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/nx709s/-/tree/5c976a004fde09a249efee017e1b020a998067cb"
+    },
+    {
+      "item_id": "qti/odin@missi-user-12-SKQ1.211006.001-V13.0.8.0.SKMCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.211006.001-V13.0.8.0.SKMCNXM-release-keys",
+        "commit": "34639960a4ab76c9a7ac2b5b8fa41ac03daa1033",
+        "committed_date": "2022-09-25T17:18:38.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-09-25T14:33:53.071Z",
+        "namespace_hint": "qti",
+        "project_hint": "odin",
+        "project_id": 2437,
+        "project_path": "qti/odin"
+      },
+      "revision": "34639960a4ab76c9a7ac2b5b8fa41ac03daa1033",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/odin/-/tree/34639960a4ab76c9a7ac2b5b8fa41ac03daa1033"
+    },
+    {
+      "item_id": "qti/odin@missi-user-12-SKQ1.211006.001-V13.1.22.9.12.DEV-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.211006.001-V13.1.22.9.12.DEV-release-keys",
+        "commit": "3b74c50387892d4b04f789840b6b09f44107d642",
+        "committed_date": "2022-09-17T20:36:10.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-25T14:33:53.071Z",
+        "namespace_hint": "qti",
+        "project_hint": "odin",
+        "project_id": 2437,
+        "project_path": "qti/odin"
+      },
+      "revision": "3b74c50387892d4b04f789840b6b09f44107d642",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/odin/-/tree/3b74c50387892d4b04f789840b6b09f44107d642"
+    },
+    {
+      "item_id": "qti/oneplus9@qssi-user-12-SKQ1.210821.001-1642506257957-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210821.001-1642506257957-release-keys",
+        "commit": "34aa8c7f694b04932484e0afe9aca56491c77e77",
+        "committed_date": "2022-01-21T14:56:42.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T06:06:36.073Z",
+        "namespace_hint": "qti",
+        "project_hint": "oneplus9",
+        "project_id": 910,
+        "project_path": "qti/oneplus9"
+      },
+      "revision": "34aa8c7f694b04932484e0afe9aca56491c77e77",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/oneplus9/-/tree/34aa8c7f694b04932484e0afe9aca56491c77e77"
+    },
+    {
+      "item_id": "qti/oneplus9@qssi-user-12-SKQ1.210821.001-1646912871561-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210821.001-1646912871561-release-keys",
+        "commit": "d8a7d5c6b3190c0cf9463036295f1872b2f3676c",
+        "committed_date": "2022-03-21T12:07:04.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T06:06:36.073Z",
+        "namespace_hint": "qti",
+        "project_hint": "oneplus9",
+        "project_id": 910,
+        "project_path": "qti/oneplus9"
+      },
+      "revision": "d8a7d5c6b3190c0cf9463036295f1872b2f3676c",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/oneplus9/-/tree/d8a7d5c6b3190c0cf9463036295f1872b2f3676c"
+    },
+    {
+      "item_id": "qti/oneplus9@qssi-user-12-SKQ1.211019.001-1647957421661-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211019.001-1647957421661-release-keys",
+        "commit": "8674b1cd5d58e6d440e06973ec5239fa847f1801",
+        "committed_date": "2022-03-24T22:40:01.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T06:06:36.073Z",
+        "namespace_hint": "qti",
+        "project_hint": "oneplus9",
+        "project_id": 910,
+        "project_path": "qti/oneplus9"
+      },
+      "revision": "8674b1cd5d58e6d440e06973ec5239fa847f1801",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/oneplus9/-/tree/8674b1cd5d58e6d440e06973ec5239fa847f1801"
+    },
+    {
+      "item_id": "qti/oneplus9pro@qssi-user-12-SKQ1.210821.001-1642506257957-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210821.001-1642506257957-release-keys",
+        "commit": "1c2d0f0bff4936db65d9dabb44d3c2627a1ecbf0",
+        "committed_date": "2022-01-21T14:13:26.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T21:57:14.876Z",
+        "namespace_hint": "qti",
+        "project_hint": "oneplus9pro",
+        "project_id": 1345,
+        "project_path": "qti/oneplus9pro"
+      },
+      "revision": "1c2d0f0bff4936db65d9dabb44d3c2627a1ecbf0",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/oneplus9pro/-/tree/1c2d0f0bff4936db65d9dabb44d3c2627a1ecbf0"
+    },
+    {
+      "item_id": "qti/oneplus9pro@qssi-user-12-SKQ1.210821.001-1644501443327-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210821.001-1644501443327-release-keys",
+        "commit": "41224a2e61cdf87156ddcb40f09bfc2396798002",
+        "committed_date": "2022-03-25T00:00:38.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T21:57:14.876Z",
+        "namespace_hint": "qti",
+        "project_hint": "oneplus9pro",
+        "project_id": 1345,
+        "project_path": "qti/oneplus9pro"
+      },
+      "revision": "41224a2e61cdf87156ddcb40f09bfc2396798002",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/oneplus9pro/-/tree/41224a2e61cdf87156ddcb40f09bfc2396798002"
+    },
+    {
+      "item_id": "qti/oneplus9pro@qssi-user-12-SKQ1.210821.001-1646912871561-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210821.001-1646912871561-release-keys",
+        "commit": "7faac79ed97307fce5d57feb7d803cbd7f258493",
+        "committed_date": "2022-03-18T15:30:20.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T21:57:14.876Z",
+        "namespace_hint": "qti",
+        "project_hint": "oneplus9pro",
+        "project_id": 1345,
+        "project_path": "qti/oneplus9pro"
+      },
+      "revision": "7faac79ed97307fce5d57feb7d803cbd7f258493",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/oneplus9pro/-/tree/7faac79ed97307fce5d57feb7d803cbd7f258493"
+    },
+    {
+      "item_id": "qti/oneplus9pro@qssi-user-12-SKQ1.211019.001-1647957902908-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211019.001-1647957902908-release-keys",
+        "commit": "6df174e91f62ee74fd5693da2018891d6f24968e",
+        "committed_date": "2022-03-24T21:20:28.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T21:57:14.876Z",
+        "namespace_hint": "qti",
+        "project_hint": "oneplus9pro",
+        "project_id": 1345,
+        "project_path": "qti/oneplus9pro"
+      },
+      "revision": "6df174e91f62ee74fd5693da2018891d6f24968e",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/oneplus9pro/-/tree/6df174e91f62ee74fd5693da2018891d6f24968e"
+    },
+    {
+      "item_id": "qti/oneplus9pro@qssi-user-12-SKQ1.211019.001-1648231540011-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211019.001-1648231540011-release-keys",
+        "commit": "23ccba3cc4a9fbea0f761529fd74645c9a6b2cf9",
+        "committed_date": "2022-03-27T12:14:59.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T21:57:14.876Z",
+        "namespace_hint": "qti",
+        "project_hint": "oneplus9pro",
+        "project_id": 1345,
+        "project_path": "qti/oneplus9pro"
+      },
+      "revision": "23ccba3cc4a9fbea0f761529fd74645c9a6b2cf9",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/oneplus9pro/-/tree/23ccba3cc4a9fbea0f761529fd74645c9a6b2cf9"
+    },
+    {
+      "item_id": "qti/oneplus9pro@qssi-user-12-SKQ3.210717.001-1631981578155-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ3.210717.001-1631981578155-release-keys",
+        "commit": "8d44d189b666da10ce09f18031693200da810b0f",
+        "committed_date": "2021-09-29T09:02:24.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T21:57:14.876Z",
+        "namespace_hint": "qti",
+        "project_hint": "oneplus9pro",
+        "project_id": 1345,
+        "project_path": "qti/oneplus9pro"
+      },
+      "revision": "8d44d189b666da10ce09f18031693200da810b0f",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/oneplus9pro/-/tree/8d44d189b666da10ce09f18031693200da810b0f"
+    },
+    {
+      "item_id": "qti/op5154@qssi-user-11-RKQ1.210614.002-1638373193925-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210614.002-1638373193925-release-keys",
+        "commit": "bc2c02e3be80015e3348088debb15ad3ceafe034",
+        "committed_date": "2022-03-20T23:38:24.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T06:04:00.006Z",
+        "namespace_hint": "qti",
+        "project_hint": "op5154",
+        "project_id": 909,
+        "project_path": "qti/op5154"
+      },
+      "revision": "bc2c02e3be80015e3348088debb15ad3ceafe034",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/op5154/-/tree/bc2c02e3be80015e3348088debb15ad3ceafe034"
+    },
+    {
+      "item_id": "qti/op5155@qssi-user-11-RKQ1.210614.002-1641905351162-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210614.002-1641905351162-release-keys",
+        "commit": "1c204b5b9e7fb4a7a2470601629947abe736332f",
+        "committed_date": "2022-01-30T20:02:40.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T10:34:32.819Z",
+        "namespace_hint": "qti",
+        "project_hint": "op5155",
+        "project_id": 47,
+        "project_path": "qti/op5155"
+      },
+      "revision": "1c204b5b9e7fb4a7a2470601629947abe736332f",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/op5155/-/tree/1c204b5b9e7fb4a7a2470601629947abe736332f"
+    },
+    {
+      "item_id": "qti/op5155@qssi-user-11-RKQ1.210614.002-1645527755741-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210614.002-1645527755741-release-keys",
+        "commit": "3c71adc6fcc579963c9862de6ea9434077b29c5f",
+        "committed_date": "2022-03-07T17:57:32.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-14T10:34:32.819Z",
+        "namespace_hint": "qti",
+        "project_hint": "op5155",
+        "project_id": 47,
+        "project_path": "qti/op5155"
+      },
+      "revision": "3c71adc6fcc579963c9862de6ea9434077b29c5f",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/op5155/-/tree/3c71adc6fcc579963c9862de6ea9434077b29c5f"
+    },
+    {
+      "item_id": "qti/op5155@qssi-user-11-RKQ1.210614.002-1647264174046-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210614.002-1647264174046-release-keys",
+        "commit": "7ecd164f0ccc8cf0dfc5238ae8350b38816ed961",
+        "committed_date": "2022-03-20T14:43:50.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-14T10:34:32.819Z",
+        "namespace_hint": "qti",
+        "project_hint": "op5155",
+        "project_id": 47,
+        "project_path": "qti/op5155"
+      },
+      "revision": "7ecd164f0ccc8cf0dfc5238ae8350b38816ed961",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/op5155/-/tree/7ecd164f0ccc8cf0dfc5238ae8350b38816ed961"
+    },
+    {
+      "item_id": "qti/op5155l1@qssi-user-11-RKQ1.210614.002-1644752796430-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210614.002-1644752796430-release-keys--IN",
+        "commit": "0696cf63d033ac77c234dd900a2d9283506d465b",
+        "committed_date": "2022-05-09T17:28:17.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T06:15:17.106Z",
+        "namespace_hint": "qti",
+        "project_hint": "op5155l1",
+        "project_id": 911,
+        "project_path": "qti/op5155l1"
+      },
+      "revision": "0696cf63d033ac77c234dd900a2d9283506d465b",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/op5155l1/-/tree/0696cf63d033ac77c234dd900a2d9283506d465b"
+    },
+    {
+      "item_id": "qti/p89990ja1@qssi-user-12-SKQ1.220119.001-13.5.365_220526-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220119.001-13.5.365_220526-release-keys",
+        "commit": "27d7fcc2556aa7f9ce5d918494957ee43680b524",
+        "committed_date": "2022-09-13T07:35:05.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-09-13T04:31:32.003Z",
+        "namespace_hint": "qti",
+        "project_hint": "p89990ja1",
+        "project_id": 2420,
+        "project_path": "qti/p89990ja1"
+      },
+      "revision": "27d7fcc2556aa7f9ce5d918494957ee43680b524",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/p89990ja1/-/tree/27d7fcc2556aa7f9ce5d918494957ee43680b524"
+    },
+    {
+      "item_id": "qti/phoenix@qssi-user-12-SKQ1.210908.001-V13.0.6.0.SGHCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210908.001-V13.0.6.0.SGHCNXM-release-keys",
+        "commit": "86e7350e4b49b9d17bb32b6913a9802a9e41110a",
+        "committed_date": "2022-10-09T11:56:44.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-10-09T08:52:46.957Z",
+        "namespace_hint": "qti",
+        "project_hint": "phoenix",
+        "project_id": 2471,
+        "project_path": "qti/phoenix"
+      },
+      "revision": "86e7350e4b49b9d17bb32b6913a9802a9e41110a",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/phoenix/-/tree/86e7350e4b49b9d17bb32b6913a9802a9e41110a"
+    },
+    {
+      "item_id": "qti/pineapple@AYANEO_PocketS2-user-14-01.00_20250829_private_user-eng.scm.20250829.110322-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "AYANEO_PocketS2-user-14-01.00_20250829_private_user-eng.scm.20250829.110322-release-keys",
+        "commit": "fdf01dd8d4e739b8e462cf44bc60754526d1d77a",
+        "committed_date": "2025-09-03T16:41:44.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-09-03T13:36:12.508Z",
+        "namespace_hint": "qti",
+        "project_hint": "pineapple",
+        "project_id": 5683,
+        "project_path": "qti/pineapple"
+      },
+      "revision": "fdf01dd8d4e739b8e462cf44bc60754526d1d77a",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/pineapple/-/tree/fdf01dd8d4e739b8e462cf44bc60754526d1d77a"
+    },
+    {
+      "item_id": "qti/punisher@qssi-userdebug-11-RKQ1.210303.002-eng.jenkin.20210706.105745-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-userdebug-11-RKQ1.210303.002-eng.jenkin.20210706.105745-release-keys",
+        "commit": "c6cc51effc71e67f24c936310ec99327c63f0025",
+        "committed_date": "2024-11-06T13:21:26.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-11-06T10:19:58.543Z",
+        "namespace_hint": "qti",
+        "project_hint": "punisher",
+        "project_id": 5487,
+        "project_path": "qti/punisher"
+      },
+      "revision": "c6cc51effc71e67f24c936310ec99327c63f0025",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/punisher/-/tree/c6cc51effc71e67f24c936310ec99327c63f0025"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-10-QKQ1.191117.002-V12.0.1.0.QJBMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.191117.002-V12.0.1.0.QJBMIXM-release-keys",
+        "commit": "0627f414201f5d247ac0f65cfca89f0b60491684",
+        "committed_date": "2022-05-04T16:57:47.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "0627f414201f5d247ac0f65cfca89f0b60491684",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/0627f414201f5d247ac0f65cfca89f0b60491684"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-10-QKQ1.191117.002-V12.0.11.0.QJBCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.191117.002-V12.0.11.0.QJBCNXM-release-keys",
+        "commit": "0d2d453525698fb649d33771152557028986a186",
+        "committed_date": "2022-05-04T17:12:28.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "0d2d453525698fb649d33771152557028986a186",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/0d2d453525698fb649d33771152557028986a186"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-10-QKQ1.200730.002-12.0.519_210130-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.200730.002-12.0.519_210130-release-keys",
+        "commit": "4ca4c00131ca841ff2865e7845596b2a2a816374",
+        "committed_date": "2022-07-20T19:36:12.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "4ca4c00131ca841ff2865e7845596b2a2a816374",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/4ca4c00131ca841ff2865e7845596b2a2a816374"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-11-RKQ1.200826.002-V12.5.6.0.RJPINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.6.0.RJPINXM-release-keys",
+        "commit": "ff6467a6662a553a836f3985eb4f2337dd2ac803",
+        "committed_date": "2022-06-23T10:56:21.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "ff6467a6662a553a836f3985eb4f2337dd2ac803",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/ff6467a6662a553a836f3985eb4f2337dd2ac803"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-11-RKQ1.200826.002-V12.5.7.0.RJGEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.7.0.RJGEUXM-release-keys",
+        "commit": "8ba4a88fcc1eb4fe67d1ae50c02e47d7244d8af2",
+        "committed_date": "2022-05-25T22:27:59.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "8ba4a88fcc1eb4fe67d1ae50c02e47d7244d8af2",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/8ba4a88fcc1eb4fe67d1ae50c02e47d7244d8af2"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-11-RKQ1.200826.002-V12.5.7.0.RJGIDXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.7.0.RJGIDXM-release-keys",
+        "commit": "6386b3d100641a8ee7c10d2d135ed9b88826343f",
+        "committed_date": "2022-07-18T11:31:00.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "6386b3d100641a8ee7c10d2d135ed9b88826343f",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/6386b3d100641a8ee7c10d2d135ed9b88826343f"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-11-RKQ1.200826.002-V12.5.7.0.RJGINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.7.0.RJGINXM-release-keys",
+        "commit": "07fced7bed28d5d232b8f61284220fee5e2fe240",
+        "committed_date": "2022-05-25T22:41:36.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "07fced7bed28d5d232b8f61284220fee5e2fe240",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/07fced7bed28d5d232b8f61284220fee5e2fe240"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-11-RKQ1.200826.002-V12.5.7.0.RJGMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.7.0.RJGMIXM-release-keys",
+        "commit": "b575bcd2ddf0aeb6b0667a906ccf2541850e471d",
+        "committed_date": "2022-05-25T22:13:30.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "b575bcd2ddf0aeb6b0667a906ccf2541850e471d",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/b575bcd2ddf0aeb6b0667a906ccf2541850e471d"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-11-RKQ1.200826.002-V12.5.7.0.RJGRUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.7.0.RJGRUXM-release-keys",
+        "commit": "f1e62739598e448018b2d9705f912fa02cab3aea",
+        "committed_date": "2022-07-18T10:39:31.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "f1e62739598e448018b2d9705f912fa02cab3aea",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/f1e62739598e448018b2d9705f912fa02cab3aea"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-11-RKQ1.200826.002-V12.5.7.0.RJGTRXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.7.0.RJGTRXM-release-keys",
+        "commit": "106426fcf705eded35e31e189fde3505ebc7d3d6",
+        "committed_date": "2022-07-18T11:07:03.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "106426fcf705eded35e31e189fde3505ebc7d3d6",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/106426fcf705eded35e31e189fde3505ebc7d3d6"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-11-RKQ1.200826.002-V12.5.8.0.RJGEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.8.0.RJGEUXM-release-keys",
+        "commit": "132ee327f666d11993d8baf058ee4d1e5e6d988d",
+        "committed_date": "2022-07-15T18:54:16.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "132ee327f666d11993d8baf058ee4d1e5e6d988d",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/132ee327f666d11993d8baf058ee4d1e5e6d988d"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-11-RKQ1.200826.002-V12.5.8.0.RJGINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.8.0.RJGINXM-release-keys",
+        "commit": "191f53fc50616ca0d57382924537633e1ee9eff0",
+        "committed_date": "2022-07-04T16:03:06.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "191f53fc50616ca0d57382924537633e1ee9eff0",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/191f53fc50616ca0d57382924537633e1ee9eff0"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-11-RKQ1.200826.002-V12.5.8.0.RJGMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.8.0.RJGMIXM-release-keys",
+        "commit": "eab0601fb96167080607fb37b1512986a410901d",
+        "committed_date": "2022-07-15T18:33:06.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "eab0601fb96167080607fb37b1512986a410901d",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/eab0601fb96167080607fb37b1512986a410901d"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-11-RKQ1.200826.002-V12.5.8.0.RJZEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.8.0.RJZEUXM-release-keys",
+        "commit": "10d724cbda5e3b07633023b3eae71920314dfe7c",
+        "committed_date": "2022-06-21T13:18:17.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "10d724cbda5e3b07633023b3eae71920314dfe7c",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/10d724cbda5e3b07633023b3eae71920314dfe7c"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-11-RKQ1.200826.002-V13.0.3.0.RKXMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V13.0.3.0.RKXMIXM-release-keys",
+        "commit": "adb88e9ee8ed4368a05c6a5c51ac04b638acf3db",
+        "committed_date": "2022-06-09T06:11:41.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "adb88e9ee8ed4368a05c6a5c51ac04b638acf3db",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/adb88e9ee8ed4368a05c6a5c51ac04b638acf3db"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-11-RKQ1.201004.002-22.4.27-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201004.002-22.4.27-release-keys",
+        "commit": "014940e8c942273b0922d400c74ebb4053d3cc1c",
+        "committed_date": "2022-05-08T22:13:39.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "014940e8c942273b0922d400c74ebb4053d3cc1c",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/014940e8c942273b0922d400c74ebb4053d3cc1c"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-11-RKQ1.201004.002-V12.5.12.0.RJQMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201004.002-V12.5.12.0.RJQMIXM-release-keys",
+        "commit": "ab3b4c468213f55a34977f4c95cefbbee5d73377",
+        "committed_date": "2022-08-13T16:28:58.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "ab3b4c468213f55a34977f4c95cefbbee5d73377",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/ab3b4c468213f55a34977f4c95cefbbee5d73377"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-12-SKQ1.210908.001-V13.0.1.0.SFNEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210908.001-V13.0.1.0.SFNEUXM-release-keys",
+        "commit": "69199b5c77b6fc92a67becd40f43d3535b2f5eb1",
+        "committed_date": "2022-05-05T01:04:19.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "69199b5c77b6fc92a67becd40f43d3535b2f5eb1",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/69199b5c77b6fc92a67becd40f43d3535b2f5eb1"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-12-SKQ1.210908.001-V13.0.10.0.SKFEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210908.001-V13.0.10.0.SKFEUXM-release-keys",
+        "commit": "f75b8472370fc8e2ffd2cabc313a1528de3e17f8",
+        "committed_date": "2022-06-22T21:25:45.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "f75b8472370fc8e2ffd2cabc313a1528de3e17f8",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/f75b8472370fc8e2ffd2cabc313a1528de3e17f8"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-12-SKQ1.210908.001-V13.0.12.0.SKFMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210908.001-V13.0.12.0.SKFMIXM-release-keys",
+        "commit": "a52139b7a2b1cd4a793c70d9599f823171c3fc60",
+        "committed_date": "2022-08-09T10:59:25.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "a52139b7a2b1cd4a793c70d9599f823171c3fc60",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/a52139b7a2b1cd4a793c70d9599f823171c3fc60"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-12-SKQ1.210908.001-V13.0.13.0.SKFEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210908.001-V13.0.13.0.SKFEUXM-release-keys",
+        "commit": "0c1a74e6477c6d3fc50f12bb954fb3297a527490",
+        "committed_date": "2022-08-23T21:53:40.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "0c1a74e6477c6d3fc50f12bb954fb3297a527490",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/0c1a74e6477c6d3fc50f12bb954fb3297a527490"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-12-SKQ1.210908.001-V13.0.2.0.SKFRUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210908.001-V13.0.2.0.SKFRUXM-release-keys",
+        "commit": "70e862ca5a90640939768d2a1081764d7d43011c",
+        "committed_date": "2022-05-21T16:42:48.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "70e862ca5a90640939768d2a1081764d7d43011c",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/70e862ca5a90640939768d2a1081764d7d43011c"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-12-SKQ1.210908.001-V13.0.2.1.47.DEV-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210908.001-V13.0.2.1.47.DEV-release-keys",
+        "commit": "37be0730e9257b87a94e718f1f801c1fda9d040e",
+        "committed_date": "2022-07-30T10:22:18.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "37be0730e9257b87a94e718f1f801c1fda9d040e",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/37be0730e9257b87a94e718f1f801c1fda9d040e"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-12-SKQ1.210908.001-V13.0.8.0.SKFMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210908.001-V13.0.8.0.SKFMIXM-release-keys",
+        "commit": "3b6828750f8db16e78fa89aba1ff3f07f07ae748",
+        "committed_date": "2022-05-30T23:36:17.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "3b6828750f8db16e78fa89aba1ff3f07f07ae748",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/3b6828750f8db16e78fa89aba1ff3f07f07ae748"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-12-SKQ1.211006.001-V13.0.2.0.SJUEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211006.001-V13.0.2.0.SJUEUXM-release-keys",
+        "commit": "45b1bdd72ffee06266a2cc2247bf108828b3d193",
+        "committed_date": "2022-06-04T22:24:29.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "45b1bdd72ffee06266a2cc2247bf108828b3d193",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/45b1bdd72ffee06266a2cc2247bf108828b3d193"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-12-SKQ1.211006.001-V13.0.3.0.SJDMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211006.001-V13.0.3.0.SJDMIXM-release-keys",
+        "commit": "b3f367a990eca9db87bb8122fcc6d89526173537",
+        "committed_date": "2022-07-05T20:17:55.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "b3f367a990eca9db87bb8122fcc6d89526173537",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/b3f367a990eca9db87bb8122fcc6d89526173537"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-12-SKQ1.211006.001-V13.0.3.0.SJKMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211006.001-V13.0.3.0.SJKMIXM-release-keys",
+        "commit": "cbdb730b4d3f76bb530ada0544fde90863b6d506",
+        "committed_date": "2022-06-24T23:26:31.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "cbdb730b4d3f76bb530ada0544fde90863b6d506",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/cbdb730b4d3f76bb530ada0544fde90863b6d506"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-12-SKQ1.211006.001-V13.0.3.0.SKHMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211006.001-V13.0.3.0.SKHMIXM-release-keys",
+        "commit": "572d6c4c89d2b62d4d5d3714354709e8aca43712",
+        "committed_date": "2022-05-13T16:52:46.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "572d6c4c89d2b62d4d5d3714354709e8aca43712",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/572d6c4c89d2b62d4d5d3714354709e8aca43712"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-12-SKQ1.211006.001-V13.0.4.0.SJACNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211006.001-V13.0.4.0.SJACNXM-release-keys",
+        "commit": "1d638fe1f4be623eff73131454e27c881590f1b9",
+        "committed_date": "2022-08-12T00:47:30.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "1d638fe1f4be623eff73131454e27c881590f1b9",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/1d638fe1f4be623eff73131454e27c881590f1b9"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-12-SKQ1.211006.001-V13.0.4.0.SJKCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211006.001-V13.0.4.0.SJKCNXM-release-keys",
+        "commit": "db783a1f74d713d63af272e9095178a737d8462f",
+        "committed_date": "2022-06-21T20:49:11.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "db783a1f74d713d63af272e9095178a737d8462f",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/db783a1f74d713d63af272e9095178a737d8462f"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-12-SKQ1.211006.001-V13.0.4.0.SKHMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211006.001-V13.0.4.0.SKHMIXM-release-keys",
+        "commit": "4e586149756c2740d7b4f6452517f826c99c5ce8",
+        "committed_date": "2022-07-22T21:30:34.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "4e586149756c2740d7b4f6452517f826c99c5ce8",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/4e586149756c2740d7b4f6452517f826c99c5ce8"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-12-SKQ1.211006.001-V13.0.5.0.SKHMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211006.001-V13.0.5.0.SKHMIXM-release-keys",
+        "commit": "a04d169f6a660d493e4ee2b91fd630820f6b7dff",
+        "committed_date": "2022-09-06T15:14:15.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "a04d169f6a660d493e4ee2b91fd630820f6b7dff",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/a04d169f6a660d493e4ee2b91fd630820f6b7dff"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-12-SKQ1.211006.001-V13.0.6.0.SJSINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211006.001-V13.0.6.0.SJSINXM-release-keys",
+        "commit": "57e78c65c3924c4b13fb06ffc19d8eed12f50a2a",
+        "committed_date": "2022-08-16T15:20:36.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "57e78c65c3924c4b13fb06ffc19d8eed12f50a2a",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/57e78c65c3924c4b13fb06ffc19d8eed12f50a2a"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-12-SKQ1.211006.001-V13.0.7.0.SJBCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211006.001-V13.0.7.0.SJBCNXM-release-keys",
+        "commit": "60e46109b5825095b0052ebffd3ec18db88c80f4",
+        "committed_date": "2022-08-23T10:27:26.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "60e46109b5825095b0052ebffd3ec18db88c80f4",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/60e46109b5825095b0052ebffd3ec18db88c80f4"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-12-SKQ1.211006.001-V13.0.7.0.SJDEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211006.001-V13.0.7.0.SJDEUXM-release-keys",
+        "commit": "05d5c19ee4bd952289e6b47d8ed5c9a4fde58476",
+        "committed_date": "2022-06-21T18:11:57.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "05d5c19ee4bd952289e6b47d8ed5c9a4fde58476",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/05d5c19ee4bd952289e6b47d8ed5c9a4fde58476"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-12-SKQ1.211019.001-V13.0.1.0.SJGEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211019.001-V13.0.1.0.SJGEUXM-release-keys",
+        "commit": "6fa486dc5d0541ed6fe3ba04fe3e363a3a7d3686",
+        "committed_date": "2022-08-23T20:05:11.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "6fa486dc5d0541ed6fe3ba04fe3e363a3a7d3686",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/6fa486dc5d0541ed6fe3ba04fe3e363a3a7d3686"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-12-SKQ1.211019.001-V13.0.1.0.SJGIDXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211019.001-V13.0.1.0.SJGIDXM-release-keys",
+        "commit": "2cc9b49e7a1834f52a6279974004f00797c8209b",
+        "committed_date": "2022-08-25T13:47:12.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "2cc9b49e7a1834f52a6279974004f00797c8209b",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/2cc9b49e7a1834f52a6279974004f00797c8209b"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-12-SKQ1.211019.001-V13.0.1.0.SJGINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211019.001-V13.0.1.0.SJGINXM-release-keys",
+        "commit": "2fcf5ffd2a2586716080cab14732324fe2e91ab4",
+        "committed_date": "2022-08-25T18:34:19.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "2fcf5ffd2a2586716080cab14732324fe2e91ab4",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/2fcf5ffd2a2586716080cab14732324fe2e91ab4"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-12-SKQ1.211019.001-V13.0.1.0.SJGMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211019.001-V13.0.1.0.SJGMIXM-release-keys",
+        "commit": "edbc48c4fc35bc9a3a766a0f5225e40cbd3f48b3",
+        "committed_date": "2022-08-05T19:49:50.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "edbc48c4fc35bc9a3a766a0f5225e40cbd3f48b3",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/edbc48c4fc35bc9a3a766a0f5225e40cbd3f48b3"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-12-SKQ1.211019.001-V13.0.1.0.SJZEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211019.001-V13.0.1.0.SJZEUXM-release-keys",
+        "commit": "cda2a7220f6da2bd8dd12b481315a5dd7cea28c2",
+        "committed_date": "2022-08-23T19:06:09.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "cda2a7220f6da2bd8dd12b481315a5dd7cea28c2",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/cda2a7220f6da2bd8dd12b481315a5dd7cea28c2"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-12-SKQ1.211019.001-V13.0.2.0.SJGEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211019.001-V13.0.2.0.SJGEUXM-release-keys",
+        "commit": "46dfd5396aa44162460a2b49b994fb5033e19c59",
+        "committed_date": "2022-09-02T16:19:21.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "46dfd5396aa44162460a2b49b994fb5033e19c59",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/46dfd5396aa44162460a2b49b994fb5033e19c59"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-12-SKQ1.211019.001-V13.0.2.0.SJWMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211019.001-V13.0.2.0.SJWMIXM-release-keys",
+        "commit": "7086d768eafe2d765c1f67fede72cc408902af43",
+        "committed_date": "2022-08-05T19:35:41.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "7086d768eafe2d765c1f67fede72cc408902af43",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/7086d768eafe2d765c1f67fede72cc408902af43"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-12-SKQ1.211230.001-V13.0.2.0.SLDMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211230.001-V13.0.2.0.SLDMIXM-release-keys",
+        "commit": "8f0e828b00ad72ce2ff9497bd8bd9b609fe039a4",
+        "committed_date": "2022-06-21T23:24:15.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "8f0e828b00ad72ce2ff9497bd8bd9b609fe039a4",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/8f0e828b00ad72ce2ff9497bd8bd9b609fe039a4"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-12-SKQ1.220303.001-22.6.2-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220303.001-22.6.2-release-keys",
+        "commit": "8436af387f5073c1b5564f25c49f97fcfd02cee7",
+        "committed_date": "2022-06-06T13:36:01.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "8436af387f5073c1b5564f25c49f97fcfd02cee7",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/8436af387f5073c1b5564f25c49f97fcfd02cee7"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-12-SKQ1.220303.001-22.6.22-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220303.001-22.6.22-release-keys",
+        "commit": "5b8ef47750e8fe97a491332cc918e99717b7d0c3",
+        "committed_date": "2022-06-27T00:34:47.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "5b8ef47750e8fe97a491332cc918e99717b7d0c3",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/5b8ef47750e8fe97a491332cc918e99717b7d0c3"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-12-SKQ1.220303.001-22.6.24-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220303.001-22.6.24-release-keys",
+        "commit": "6c5937140f3b04ac383cfef031d71be0bdca7d8e",
+        "committed_date": "2022-06-28T20:43:06.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "6c5937140f3b04ac383cfef031d71be0bdca7d8e",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/6c5937140f3b04ac383cfef031d71be0bdca7d8e"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-12-SKQ1.220303.001-22.6.29-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220303.001-22.6.29-release-keys",
+        "commit": "f5170a973fdd1959b903afa9e4118c1a160e619a",
+        "committed_date": "2022-07-01T22:01:20.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "f5170a973fdd1959b903afa9e4118c1a160e619a",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/f5170a973fdd1959b903afa9e4118c1a160e619a"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-12-SKQ1.220303.001-22.8.12-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220303.001-22.8.12-release-keys",
+        "commit": "eecc026a8b21547b4a1b8b981214a92c9cf93d9e",
+        "committed_date": "2022-08-15T15:16:16.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "eecc026a8b21547b4a1b8b981214a92c9cf93d9e",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/eecc026a8b21547b4a1b8b981214a92c9cf93d9e"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-12-SKQ1.220406.001-eng.nubia.20220628.123100-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220406.001-eng.nubia.20220628.123100-release-keys",
+        "commit": "2fbccdc88781f81ae02de58d4a4d01433e14c48b",
+        "committed_date": "2022-07-23T18:05:08.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "2fbccdc88781f81ae02de58d4a4d01433e14c48b",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/2fbccdc88781f81ae02de58d4a4d01433e14c48b"
+    },
+    {
+      "item_id": "qti/qssi@qssi-user-12-TKQ1.220327.001-2.05.07.native.user.dpp-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-TKQ1.220327.001-2.05.07.native.user.dpp-release-keys",
+        "commit": "3df69d2d3e603ddb985f565a9c75eb0a56c6e2d7",
+        "committed_date": "2022-05-11T23:00:55.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-06T12:24:24.426Z",
+        "namespace_hint": "qti",
+        "project_hint": "qssi",
+        "project_id": 792,
+        "project_path": "qti/qssi"
+      },
+      "revision": "3df69d2d3e603ddb985f565a9c75eb0a56c6e2d7",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/qssi/-/tree/3df69d2d3e603ddb985f565a9c75eb0a56c6e2d7"
+    },
+    {
+      "item_id": "qti/renoir@missi-user-12-SKQ1.211006.001-V13.0.8.0.SKIMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.211006.001-V13.0.8.0.SKIMIXM-release-keys",
+        "commit": "6bbe9d74e46f60a6a1337ae4b3d8aeec74b3ed6e",
+        "committed_date": "2022-09-30T14:54:48.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-09-30T12:04:49.463Z",
+        "namespace_hint": "qti",
+        "project_hint": "renoir",
+        "project_id": 2415,
+        "project_path": "qti/renoir"
+      },
+      "revision": "6bbe9d74e46f60a6a1337ae4b3d8aeec74b3ed6e",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/renoir/-/tree/6bbe9d74e46f60a6a1337ae4b3d8aeec74b3ed6e"
+    },
+    {
+      "item_id": "qti/renoir@missi-user-12-SKQ1.211006.001-V13.1.22.9.5.DEV-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.211006.001-V13.1.22.9.5.DEV-release-keys",
+        "commit": "50ef2e8afe372fa0218e7209e5b457c05bcfc113",
+        "committed_date": "2022-09-09T20:35:52.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-30T12:04:49.463Z",
+        "namespace_hint": "qti",
+        "project_hint": "renoir",
+        "project_id": 2415,
+        "project_path": "qti/renoir"
+      },
+      "revision": "50ef2e8afe372fa0218e7209e5b457c05bcfc113",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/renoir/-/tree/50ef2e8afe372fa0218e7209e5b457c05bcfc113"
+    },
+    {
+      "item_id": "qti/sc138@qssi-user-13-TKQ1.221013.002-eng.lynx.20230225.113642-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.221013.002-eng.lynx.20230225.113642-release-keys",
+        "commit": "16d08057ac0fa9a24565112e2cd8dba61b694d75",
+        "committed_date": "2023-02-25T20:02:49.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-02-25T17:00:35.227Z",
+        "namespace_hint": "qti",
+        "project_hint": "sc138",
+        "project_id": 4078,
+        "project_path": "qti/sc138"
+      },
+      "revision": "16d08057ac0fa9a24565112e2cd8dba61b694d75",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/sc138/-/tree/16d08057ac0fa9a24565112e2cd8dba61b694d75"
+    },
+    {
+      "item_id": "qti/sdm660_64@sdm660_64-user-13-S10A_123-eng.zhangz.20240106.115454-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-13-S10A_123-eng.zhangz.20240106.115454-test-keys",
+        "commit": "b690618d9c3775170a4ab5b5cb597d4786442733",
+        "committed_date": "2024-06-16T17:08:31.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-06-16T14:06:14.796Z",
+        "namespace_hint": "qti",
+        "project_hint": "sdm660_64",
+        "project_id": 5310,
+        "project_path": "qti/sdm660_64"
+      },
+      "revision": "b690618d9c3775170a4ab5b5cb597d4786442733",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/sdm660_64/-/tree/b690618d9c3775170a4ab5b5cb597d4786442733"
+    },
+    {
+      "item_id": "qti/sm6150@qssi-userdebug-10-QKQ1.191014.001-eng.maojia.20191207.183034-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-userdebug-10-QKQ1.191014.001-eng.maojia.20191207.183034-test-keys",
+        "commit": "8cf8202e4863d956c99297308df36dca0855fe33",
+        "committed_date": "2022-09-13T16:18:27.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-09-13T13:17:14.390Z",
+        "namespace_hint": "qti",
+        "project_hint": "sm6150",
+        "project_id": 2425,
+        "project_path": "qti/sm6150"
+      },
+      "revision": "8cf8202e4863d956c99297308df36dca0855fe33",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/sm6150/-/tree/8cf8202e4863d956c99297308df36dca0855fe33"
+    },
+    {
+      "item_id": "qti/sun@qssi_64-user-15-AQ3A.250728.001-eng.Odin3.20251206.170137-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-15-AQ3A.250728.001-eng.Odin3.20251206.170137-dev-keys",
+        "commit": "719ff5977094e249093418245ffb9690965afa50",
+        "committed_date": "2025-12-13T18:22:20.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-12-13T15:19:04.517Z",
+        "namespace_hint": "qti",
+        "project_hint": "sun",
+        "project_id": 5716,
+        "project_path": "qti/sun"
+      },
+      "revision": "719ff5977094e249093418245ffb9690965afa50",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/sun/-/tree/719ff5977094e249093418245ffb9690965afa50"
+    },
+    {
+      "item_id": "qti/sweetin@qssi-user-12-SKQ1.210908.001-V13.0.5.0.SKFINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210908.001-V13.0.5.0.SKFINXM-release-keys",
+        "commit": "000f3211f08aeda1228c35a4d1d4bea35da63c43",
+        "committed_date": "2022-09-14T12:43:25.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-09-14T09:39:59.826Z",
+        "namespace_hint": "qti",
+        "project_hint": "sweetin",
+        "project_id": 2427,
+        "project_path": "qti/sweetin"
+      },
+      "revision": "000f3211f08aeda1228c35a4d1d4bea35da63c43",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/sweetin/-/tree/000f3211f08aeda1228c35a4d1d4bea35da63c43"
+    },
+    {
+      "item_id": "qti/thor@missi-user-12-SKQ1.220303.001-V13.1.22.9.28.DEV-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.220303.001-V13.1.22.9.28.DEV-release-keys",
+        "commit": "12c68ecf88815bde992bdf7468d5e65a01744006",
+        "committed_date": "2022-10-02T12:58:24.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-10-02T10:11:12.339Z",
+        "namespace_hint": "qti",
+        "project_hint": "thor",
+        "project_id": 2414,
+        "project_path": "qti/thor"
+      },
+      "revision": "12c68ecf88815bde992bdf7468d5e65a01744006",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/thor/-/tree/12c68ecf88815bde992bdf7468d5e65a01744006"
+    },
+    {
+      "item_id": "qti/thor@missi-user-12-SKQ1.220303.001-V13.1.22.9.5.DEV-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.220303.001-V13.1.22.9.5.DEV-release-keys",
+        "commit": "ac3f8f00c93d9c23bc71e27f896ffc5ab7be8d97",
+        "committed_date": "2022-09-09T18:46:59.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-10-02T10:11:12.339Z",
+        "namespace_hint": "qti",
+        "project_hint": "thor",
+        "project_id": 2414,
+        "project_path": "qti/thor"
+      },
+      "revision": "ac3f8f00c93d9c23bc71e27f896ffc5ab7be8d97",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/thor/-/tree/ac3f8f00c93d9c23bc71e27f896ffc5ab7be8d97"
+    },
+    {
+      "item_id": "qti/tomcat@qssi-userdebug-14-UKQ1.231121.002-97-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-userdebug-14-UKQ1.231121.002-97-test-keys",
+        "commit": "8d8e9cbf520a8c9cdc9e83d912f2d1f81ee91b1c",
+        "committed_date": "2024-11-25T06:18:28.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-11-25T03:16:30.442Z",
+        "namespace_hint": "qti",
+        "project_hint": "tomcat",
+        "project_id": 5501,
+        "project_path": "qti/tomcat"
+      },
+      "revision": "8d8e9cbf520a8c9cdc9e83d912f2d1f81ee91b1c",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/tomcat/-/tree/8d8e9cbf520a8c9cdc9e83d912f2d1f81ee91b1c"
+    },
+    {
+      "item_id": "qti/vayu@qssi-user-12-SKQ1.211006.001-V13.0.5.0.SJUMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211006.001-V13.0.5.0.SJUMIXM-release-keys",
+        "commit": "a350dfe7a756b76add26f4fc8da5b88e2a2faf80",
+        "committed_date": "2022-09-23T11:42:06.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-09-23T08:37:31.155Z",
+        "namespace_hint": "qti",
+        "project_hint": "vayu",
+        "project_id": 2452,
+        "project_path": "qti/vayu"
+      },
+      "revision": "a350dfe7a756b76add26f4fc8da5b88e2a2faf80",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/vayu/-/tree/a350dfe7a756b76add26f4fc8da5b88e2a2faf80"
+    },
+    {
+      "item_id": "qti/veux@missi_phoneext4_cn-user-13-TKQ1.221114.001-V14.0.1.0.TKCCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_cn-user-13-TKQ1.221114.001-V14.0.1.0.TKCCNXM-release-keys",
+        "commit": "4fcf9ebf358ab3355bdd04100dac615a9b2bff21",
+        "committed_date": "2023-05-27T14:58:57.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-02T20:43:22.832Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 17,
+        "project_path": "qti/veux"
+      },
+      "revision": "4fcf9ebf358ab3355bdd04100dac615a9b2bff21",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/veux/-/tree/4fcf9ebf358ab3355bdd04100dac615a9b2bff21"
+    },
+    {
+      "item_id": "qti/veux@missi_phoneext4_cn-user-13-TKQ1.221114.001-V14.0.5.0.TKCCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_cn-user-13-TKQ1.221114.001-V14.0.5.0.TKCCNXM-release-keys",
+        "commit": "3c64af94ec2af0d4363a7a8848390ab423a7c11e",
+        "committed_date": "2024-01-20T15:13:12.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-02T20:43:22.832Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 17,
+        "project_path": "qti/veux"
+      },
+      "revision": "3c64af94ec2af0d4363a7a8848390ab423a7c11e",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/veux/-/tree/3c64af94ec2af0d4363a7a8848390ab423a7c11e"
+    },
+    {
+      "item_id": "qti/veux@missi_phoneext4_cn-user-13-TKQ1.221114.001-V816.0.1.0.TKCCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_cn-user-13-TKQ1.221114.001-V816.0.1.0.TKCCNXM-release-keys",
+        "commit": "3249da6e4453a281487ca25804afd829fee93319",
+        "committed_date": "2024-08-11T16:39:51.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-02T20:43:22.832Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 17,
+        "project_path": "qti/veux"
+      },
+      "revision": "3249da6e4453a281487ca25804afd829fee93319",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/veux/-/tree/3249da6e4453a281487ca25804afd829fee93319"
+    },
+    {
+      "item_id": "qti/veux@missi_phoneext4_cn-user-13-TKQ1.221114.001-V816.0.10.0.TKCCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_cn-user-13-TKQ1.221114.001-V816.0.10.0.TKCCNXM-release-keys",
+        "commit": "5a681181190b98c65991068e16b9358ae85d63df",
+        "committed_date": "2025-02-03T09:13:49.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-02T20:43:22.832Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 17,
+        "project_path": "qti/veux"
+      },
+      "revision": "5a681181190b98c65991068e16b9358ae85d63df",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/veux/-/tree/5a681181190b98c65991068e16b9358ae85d63df"
+    },
+    {
+      "item_id": "qti/veux@missi_phoneext4_cn-user-13-TKQ1.221114.001-V816.0.4.0.TKCCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_cn-user-13-TKQ1.221114.001-V816.0.4.0.TKCCNXM-release-keys",
+        "commit": "ee153090d7b0b57d89c50a686614cc6f82d5f023",
+        "committed_date": "2024-09-03T18:54:00.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-02T20:43:22.832Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 17,
+        "project_path": "qti/veux"
+      },
+      "revision": "ee153090d7b0b57d89c50a686614cc6f82d5f023",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/veux/-/tree/ee153090d7b0b57d89c50a686614cc6f82d5f023"
+    },
+    {
+      "item_id": "qti/veux@missi_phoneext4_eea-user-13-TKQ1.221114.001-V14.0.1.0.TKCEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_eea-user-13-TKQ1.221114.001-V14.0.1.0.TKCEUXM-release-keys",
+        "commit": "df43273b85bac6d0d7381c90ad61d7c988c57fd5",
+        "committed_date": "2023-06-17T10:58:52.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-02T20:43:22.832Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 17,
+        "project_path": "qti/veux"
+      },
+      "revision": "df43273b85bac6d0d7381c90ad61d7c988c57fd5",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/veux/-/tree/df43273b85bac6d0d7381c90ad61d7c988c57fd5"
+    },
+    {
+      "item_id": "qti/veux@missi_phoneext4_eea-user-13-TKQ1.221114.001-V816.0.12.0.TKCEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_eea-user-13-TKQ1.221114.001-V816.0.12.0.TKCEUXM-release-keys",
+        "commit": "2b65e9b1e6c219c4f172347592ba69152c92ee3c",
+        "committed_date": "2025-07-02T23:31:33.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-07-02T20:43:22.832Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 17,
+        "project_path": "qti/veux"
+      },
+      "revision": "2b65e9b1e6c219c4f172347592ba69152c92ee3c",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/veux/-/tree/2b65e9b1e6c219c4f172347592ba69152c92ee3c"
+    },
+    {
+      "item_id": "qti/veux@missi_phoneext4_global-user-13-TKQ1.221114.001-V14.0.2.0.TKCMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_global-user-13-TKQ1.221114.001-V14.0.2.0.TKCMIXM-release-keys",
+        "commit": "59aee7b197ce53f1cf8a5acace3500fa3a645c5f",
+        "committed_date": "2023-07-06T19:16:54.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-02T20:43:22.832Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 17,
+        "project_path": "qti/veux"
+      },
+      "revision": "59aee7b197ce53f1cf8a5acace3500fa3a645c5f",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/veux/-/tree/59aee7b197ce53f1cf8a5acace3500fa3a645c5f"
+    },
+    {
+      "item_id": "qti/veux@missi_phoneext4_global-user-13-TKQ1.221114.001-V14.0.3.0.TKCINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_global-user-13-TKQ1.221114.001-V14.0.3.0.TKCINXM-release-keys",
+        "commit": "b6a8650f7c7752316fa7469fec0b69f360b305aa",
+        "committed_date": "2023-07-16T18:32:43.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-02T20:43:22.832Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 17,
+        "project_path": "qti/veux"
+      },
+      "revision": "b6a8650f7c7752316fa7469fec0b69f360b305aa",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/veux/-/tree/b6a8650f7c7752316fa7469fec0b69f360b305aa"
+    },
+    {
+      "item_id": "qti/veux@missi_phoneext4_global-user-13-TKQ1.221114.001-V14.0.4.0.TKCJPXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_global-user-13-TKQ1.221114.001-V14.0.4.0.TKCJPXM-release-keys",
+        "commit": "a3715cbbc9e6ef001fc79a1238c4b524570e7781",
+        "committed_date": "2024-02-15T22:53:46.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-02T20:43:22.832Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 17,
+        "project_path": "qti/veux"
+      },
+      "revision": "a3715cbbc9e6ef001fc79a1238c4b524570e7781",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/veux/-/tree/a3715cbbc9e6ef001fc79a1238c4b524570e7781"
+    },
+    {
+      "item_id": "qti/veux@missi_phoneext4_global-user-13-TKQ1.221114.001-V14.0.4.0.TKCMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_global-user-13-TKQ1.221114.001-V14.0.4.0.TKCMIXM-release-keys",
+        "commit": "5b26087a5a1f6b8ee369178b8cdf89597c934f63",
+        "committed_date": "2023-11-20T16:22:29.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-02T20:43:22.832Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 17,
+        "project_path": "qti/veux"
+      },
+      "revision": "5b26087a5a1f6b8ee369178b8cdf89597c934f63",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/veux/-/tree/5b26087a5a1f6b8ee369178b8cdf89597c934f63"
+    },
+    {
+      "item_id": "qti/veux@missi_phoneext4_global-user-13-TKQ1.221114.001-V14.0.6.0.TKCINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_global-user-13-TKQ1.221114.001-V14.0.6.0.TKCINXM-release-keys",
+        "commit": "52701be6070c027c7a9c92d9c0d05838cd5b245e",
+        "committed_date": "2023-12-26T15:49:06.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-02T20:43:22.832Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 17,
+        "project_path": "qti/veux"
+      },
+      "revision": "52701be6070c027c7a9c92d9c0d05838cd5b245e",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/veux/-/tree/52701be6070c027c7a9c92d9c0d05838cd5b245e"
+    },
+    {
+      "item_id": "qti/veux@missi_phoneext4_global-user-13-TKQ1.221114.001-V816.0.1.0.TKCINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_global-user-13-TKQ1.221114.001-V816.0.1.0.TKCINXM-release-keys",
+        "commit": "3f61afd9ac73d0aee2356e31dd49cfaff9ff7a99",
+        "committed_date": "2024-04-18T15:39:05.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-02T20:43:22.832Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 17,
+        "project_path": "qti/veux"
+      },
+      "revision": "3f61afd9ac73d0aee2356e31dd49cfaff9ff7a99",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/veux/-/tree/3f61afd9ac73d0aee2356e31dd49cfaff9ff7a99"
+    },
+    {
+      "item_id": "qti/veux@missi_phoneext4_global-user-13-TKQ1.221114.001-V816.0.10.0.TKCIDXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_global-user-13-TKQ1.221114.001-V816.0.10.0.TKCIDXM-release-keys",
+        "commit": "3cebf0837c4e6c833c720ecc5f6d937648b8612d",
+        "committed_date": "2025-02-04T21:31:55.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-02T20:43:22.832Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 17,
+        "project_path": "qti/veux"
+      },
+      "revision": "3cebf0837c4e6c833c720ecc5f6d937648b8612d",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/veux/-/tree/3cebf0837c4e6c833c720ecc5f6d937648b8612d"
+    },
+    {
+      "item_id": "qti/veux@missi_phoneext4_global-user-13-TKQ1.221114.001-V816.0.11.0.TKCMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_global-user-13-TKQ1.221114.001-V816.0.11.0.TKCMIXM-release-keys",
+        "commit": "6b4edd9a1fb8ae2336114f06a81ae7b7102ab2cc",
+        "committed_date": "2024-11-27T13:04:51.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-02T20:43:22.832Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 17,
+        "project_path": "qti/veux"
+      },
+      "revision": "6b4edd9a1fb8ae2336114f06a81ae7b7102ab2cc",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/veux/-/tree/6b4edd9a1fb8ae2336114f06a81ae7b7102ab2cc"
+    },
+    {
+      "item_id": "qti/veux@missi_phoneext4_global-user-13-TKQ1.221114.001-V816.0.12.0.TKCMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_global-user-13-TKQ1.221114.001-V816.0.12.0.TKCMIXM-release-keys",
+        "commit": "1b394c138e8223ea53f98938ecaedb98fc1e8053",
+        "committed_date": "2024-12-16T23:59:10.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-02T20:43:22.832Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 17,
+        "project_path": "qti/veux"
+      },
+      "revision": "1b394c138e8223ea53f98938ecaedb98fc1e8053",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/veux/-/tree/1b394c138e8223ea53f98938ecaedb98fc1e8053"
+    },
+    {
+      "item_id": "qti/veux@missi_phoneext4_global-user-13-TKQ1.221114.001-V816.0.3.0.TKCMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_global-user-13-TKQ1.221114.001-V816.0.3.0.TKCMIXM-release-keys",
+        "commit": "2a2fc311a8f4e4131b6b430804b29fb4416171bf",
+        "committed_date": "2024-03-23T12:44:42.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-02T20:43:22.832Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 17,
+        "project_path": "qti/veux"
+      },
+      "revision": "2a2fc311a8f4e4131b6b430804b29fb4416171bf",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/veux/-/tree/2a2fc311a8f4e4131b6b430804b29fb4416171bf"
+    },
+    {
+      "item_id": "qti/veux@missi_phoneext4_global-user-13-TKQ1.221114.001-V816.0.5.0.TKCMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_global-user-13-TKQ1.221114.001-V816.0.5.0.TKCMIXM-release-keys",
+        "commit": "d3aadbca1191f90e8b19e53c7e8d61da56f6b65d",
+        "committed_date": "2024-07-09T19:29:11.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-02T20:43:22.832Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 17,
+        "project_path": "qti/veux"
+      },
+      "revision": "d3aadbca1191f90e8b19e53c7e8d61da56f6b65d",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/veux/-/tree/d3aadbca1191f90e8b19e53c7e8d61da56f6b65d"
+    },
+    {
+      "item_id": "qti/veux@missi_phoneext4_global-user-13-TKQ1.221114.001-V816.0.6.0.TKCMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_global-user-13-TKQ1.221114.001-V816.0.6.0.TKCMIXM-release-keys",
+        "commit": "eb584a6a7e425e19e1d0bcf263d198283f10949f",
+        "committed_date": "2024-09-08T13:31:47.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-02T20:43:22.832Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 17,
+        "project_path": "qti/veux"
+      },
+      "revision": "eb584a6a7e425e19e1d0bcf263d198283f10949f",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/veux/-/tree/eb584a6a7e425e19e1d0bcf263d198283f10949f"
+    },
+    {
+      "item_id": "qti/veux@missi_phoneext4_global-user-13-TKQ1.221114.001-V816.0.7.0.TKCIDXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_global-user-13-TKQ1.221114.001-V816.0.7.0.TKCIDXM-release-keys",
+        "commit": "45a8528899d6abaf9db5b0f63761a5dc1348318c",
+        "committed_date": "2024-11-23T13:57:50.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-02T20:43:22.832Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 17,
+        "project_path": "qti/veux"
+      },
+      "revision": "45a8528899d6abaf9db5b0f63761a5dc1348318c",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/veux/-/tree/45a8528899d6abaf9db5b0f63761a5dc1348318c"
+    },
+    {
+      "item_id": "qti/veux@missi_phoneext4_global-user-13-TKQ1.221114.001-V816.0.8.0.TKCJPXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_global-user-13-TKQ1.221114.001-V816.0.8.0.TKCJPXM-release-keys",
+        "commit": "fd0a2a5c4fa2029ee96e9af2fdf8020604088984",
+        "committed_date": "2025-01-05T18:03:37.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-02T20:43:22.832Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 17,
+        "project_path": "qti/veux"
+      },
+      "revision": "fd0a2a5c4fa2029ee96e9af2fdf8020604088984",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/veux/-/tree/fd0a2a5c4fa2029ee96e9af2fdf8020604088984"
+    },
+    {
+      "item_id": "qti/veux@missi_phoneext4_global-user-13-TKQ1.221114.001-V816.0.9.0.TKCMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_global-user-13-TKQ1.221114.001-V816.0.9.0.TKCMIXM-release-keys",
+        "commit": "1b5d247944d1bc911c9cc7f82101eca0571b40ea",
+        "committed_date": "2024-10-26T20:34:15.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-02T20:43:22.832Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 17,
+        "project_path": "qti/veux"
+      },
+      "revision": "1b5d247944d1bc911c9cc7f82101eca0571b40ea",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/veux/-/tree/1b5d247944d1bc911c9cc7f82101eca0571b40ea"
+    },
+    {
+      "item_id": "qti/veux@qssi-user-11-RKQ1.211001.001-V13.0.1.0.RKCRUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.211001.001-V13.0.1.0.RKCRUXM-release-keys",
+        "commit": "7126ea50c383ebd2573784c944a84c934f1ac8ed",
+        "committed_date": "2022-02-16T13:27:23.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-02T20:43:22.832Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 17,
+        "project_path": "qti/veux"
+      },
+      "revision": "7126ea50c383ebd2573784c944a84c934f1ac8ed",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/veux/-/tree/7126ea50c383ebd2573784c944a84c934f1ac8ed"
+    },
+    {
+      "item_id": "qti/veux@qssi-user-11-RKQ1.211001.001-V13.0.14.0.RKCMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.211001.001-V13.0.14.0.RKCMIXM-release-keys",
+        "commit": "f8491bd166d038303564c05fb651383514859f47",
+        "committed_date": "2023-05-10T21:04:48.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-02T20:43:22.832Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 17,
+        "project_path": "qti/veux"
+      },
+      "revision": "f8491bd166d038303564c05fb651383514859f47",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/veux/-/tree/f8491bd166d038303564c05fb651383514859f47"
+    },
+    {
+      "item_id": "qti/veux@qssi-user-11-RKQ1.211001.001-V13.0.5.0.RKCMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.211001.001-V13.0.5.0.RKCMIXM-release-keys",
+        "commit": "b55ef475fadfcfc14112a5092b032bdfd92c1dde",
+        "committed_date": "2022-03-28T11:54:57.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-02T20:43:22.832Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 17,
+        "project_path": "qti/veux"
+      },
+      "revision": "b55ef475fadfcfc14112a5092b032bdfd92c1dde",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/veux/-/tree/b55ef475fadfcfc14112a5092b032bdfd92c1dde"
+    },
+    {
+      "item_id": "qti/veux@qssi-user-12-SKQ1.211006.001-V13.0.1.0.SKCCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211006.001-V13.0.1.0.SKCCNXM-release-keys",
+        "commit": "50521eab0d6dcc9151c843f9356717c72086b90a",
+        "committed_date": "2022-09-27T18:56:40.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-02T20:43:22.832Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 17,
+        "project_path": "qti/veux"
+      },
+      "revision": "50521eab0d6dcc9151c843f9356717c72086b90a",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/veux/-/tree/50521eab0d6dcc9151c843f9356717c72086b90a"
+    },
+    {
+      "item_id": "qti/veux@qssi-user-12-SKQ1.211006.001-V13.0.1.0.SKCJPXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211006.001-V13.0.1.0.SKCJPXM-release-keys",
+        "commit": "4dbd03a7c96d5b4c8473bdfa19ccfe4cf496c9ac",
+        "committed_date": "2023-01-18T17:01:42.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-02T20:43:22.832Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 17,
+        "project_path": "qti/veux"
+      },
+      "revision": "4dbd03a7c96d5b4c8473bdfa19ccfe4cf496c9ac",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/veux/-/tree/4dbd03a7c96d5b4c8473bdfa19ccfe4cf496c9ac"
+    },
+    {
+      "item_id": "qti/veux@qssi-user-12-SKQ1.211006.001-V13.0.3.0.SKCEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211006.001-V13.0.3.0.SKCEUXM-release-keys",
+        "commit": "f4654683cb468b85db87d484a79d2307f33af6b5",
+        "committed_date": "2023-01-07T13:56:36.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-02T20:43:22.832Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 17,
+        "project_path": "qti/veux"
+      },
+      "revision": "f4654683cb468b85db87d484a79d2307f33af6b5",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/veux/-/tree/f4654683cb468b85db87d484a79d2307f33af6b5"
+    },
+    {
+      "item_id": "qti/veux@qssi-user-12-SKQ1.211006.001-V13.0.4.0.SKCCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211006.001-V13.0.4.0.SKCCNXM-release-keys",
+        "commit": "c57669b76de3d93164d7aebc83fafd7203ef9b86",
+        "committed_date": "2023-02-24T13:07:57.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-02T20:43:22.832Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 17,
+        "project_path": "qti/veux"
+      },
+      "revision": "c57669b76de3d93164d7aebc83fafd7203ef9b86",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/veux/-/tree/c57669b76de3d93164d7aebc83fafd7203ef9b86"
+    },
+    {
+      "item_id": "qti/veux@qssi-user-12-SKQ1.211006.001-V13.0.4.0.SKCIDXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211006.001-V13.0.4.0.SKCIDXM-release-keys",
+        "commit": "31b5c5128c9af2d60e19afdc6f54083bd87e3405",
+        "committed_date": "2022-12-31T13:47:38.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-02T20:43:22.832Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 17,
+        "project_path": "qti/veux"
+      },
+      "revision": "31b5c5128c9af2d60e19afdc6f54083bd87e3405",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/veux/-/tree/31b5c5128c9af2d60e19afdc6f54083bd87e3405"
+    },
+    {
+      "item_id": "qti/veux@qssi-user-12-SKQ1.211006.001-V13.0.4.0.SKCINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211006.001-V13.0.4.0.SKCINXM-release-keys",
+        "commit": "26311bf80dc99955baae664aeb4548fe966a392b",
+        "committed_date": "2023-01-17T20:19:06.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-02T20:43:22.832Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 17,
+        "project_path": "qti/veux"
+      },
+      "revision": "26311bf80dc99955baae664aeb4548fe966a392b",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/veux/-/tree/26311bf80dc99955baae664aeb4548fe966a392b"
+    },
+    {
+      "item_id": "qti/veux@qssi-user-12-SKQ1.211006.001-V13.0.4.0.SKCMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211006.001-V13.0.4.0.SKCMIXM-release-keys",
+        "commit": "066b6f625f6b906bdf13c2cce809d9ed4202617e",
+        "committed_date": "2022-10-29T01:50:15.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-02T20:43:22.832Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 17,
+        "project_path": "qti/veux"
+      },
+      "revision": "066b6f625f6b906bdf13c2cce809d9ed4202617e",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/veux/-/tree/066b6f625f6b906bdf13c2cce809d9ed4202617e"
+    },
+    {
+      "item_id": "qti/veux@qssi-user-12-SKQ1.211006.001-V13.0.5.0.SKCMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211006.001-V13.0.5.0.SKCMIXM-release-keys",
+        "commit": "672897a43ba7a26ad5bd9980c2b401a6808e12b8",
+        "committed_date": "2023-01-13T12:27:26.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-02T20:43:22.832Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 17,
+        "project_path": "qti/veux"
+      },
+      "revision": "672897a43ba7a26ad5bd9980c2b401a6808e12b8",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/veux/-/tree/672897a43ba7a26ad5bd9980c2b401a6808e12b8"
+    },
+    {
+      "item_id": "qti/veux@qssi-user-12-SKQ1.211006.001-V13.0.7.0.SKCMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211006.001-V13.0.7.0.SKCMIXM-release-keys",
+        "commit": "d8c72373b717036b0e79f2079a272b05bb5392d2",
+        "committed_date": "2023-04-20T11:31:48.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-02T20:43:22.832Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 17,
+        "project_path": "qti/veux"
+      },
+      "revision": "d8c72373b717036b0e79f2079a272b05bb5392d2",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/veux/-/tree/d8c72373b717036b0e79f2079a272b05bb5392d2"
+    },
+    {
+      "item_id": "qti/veux@qssi-user-12-SKQ1.211006.001-V13.0.9.0.SKCMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211006.001-V13.0.9.0.SKCMIXM-release-keys",
+        "commit": "1955a3bdbd23ca4f201e62d56691d6ae9c2ff134",
+        "committed_date": "2023-06-15T23:05:13.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-02T20:43:22.832Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 17,
+        "project_path": "qti/veux"
+      },
+      "revision": "1955a3bdbd23ca4f201e62d56691d6ae9c2ff134",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/veux/-/tree/1955a3bdbd23ca4f201e62d56691d6ae9c2ff134"
+    },
+    {
+      "item_id": "qti/veux@qssi-user-12-SKQ1.211006.001-V13.1.22.10.24.DEV-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211006.001-V13.1.22.10.24.DEV-release-keys",
+        "commit": "a329e10f3a3c73f6bfc94067b5830450610a47db",
+        "committed_date": "2022-12-28T16:18:25.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-02T20:43:22.832Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 17,
+        "project_path": "qti/veux"
+      },
+      "revision": "a329e10f3a3c73f6bfc94067b5830450610a47db",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/veux/-/tree/a329e10f3a3c73f6bfc94067b5830450610a47db"
+    },
+    {
+      "item_id": "qti/zeus@missi_phone_cn-user-13-TKQ1.220807.001-V13.1.22.9.13.DEV-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_cn-user-13-TKQ1.220807.001-V13.1.22.9.13.DEV-release-keys",
+        "commit": "1e6acdeb5a0af9243bd91e38d28c009ff0acc8c8",
+        "committed_date": "2022-09-17T11:45:55.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-09-17T08:39:41.903Z",
+        "namespace_hint": "qti",
+        "project_hint": "zeus",
+        "project_id": 2436,
+        "project_path": "qti/zeus"
+      },
+      "revision": "1e6acdeb5a0af9243bd91e38d28c009ff0acc8c8",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/zeus/-/tree/1e6acdeb5a0af9243bd91e38d28c009ff0acc8c8"
+    },
+    {
+      "item_id": "qti/ziyi@missi-user-12-SKQ1.220303.001-V13.0.3.0.SLLCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.220303.001-V13.0.3.0.SLLCNXM-release-keys",
+        "commit": "c3552015d2c808fa551d1bbfa11a87490d9a3b3b",
+        "committed_date": "2022-09-27T16:31:02.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-09-27T13:25:50.981Z",
+        "namespace_hint": "qti",
+        "project_hint": "ziyi",
+        "project_id": 2459,
+        "project_path": "qti/ziyi"
+      },
+      "revision": "c3552015d2c808fa551d1bbfa11a87490d9a3b3b",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/ziyi/-/tree/c3552015d2c808fa551d1bbfa11a87490d9a3b3b"
+    },
+    {
+      "item_id": "qti/zizhan@missi-user-12-SKQ1.220303.001-V13.1.21.0.SLRCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.220303.001-V13.1.21.0.SLRCNXM-release-keys",
+        "commit": "5633bf704e7d1da5bb28b474d63c179dacb6ef3b",
+        "committed_date": "2022-09-26T11:26:26.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-09-26T08:21:00.815Z",
+        "namespace_hint": "qti",
+        "project_hint": "zizhan",
+        "project_id": 2458,
+        "project_path": "qti/zizhan"
+      },
+      "revision": "5633bf704e7d1da5bb28b474d63c179dacb6ef3b",
+      "url": "https://dumps.tadiphone.dev/dumps/qti/zizhan/-/tree/5633bf704e7d1da5bb28b474d63c179dacb6ef3b"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

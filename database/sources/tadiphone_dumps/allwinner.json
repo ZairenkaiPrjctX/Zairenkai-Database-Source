@@ -1,0 +1,77 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "allwinner/apollo_lybox@apollo_lybox-userdebug-12-SP1A.211105.004-20250120.161009-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "apollo_lybox-userdebug-12-SP1A.211105.004-20250120.161009-release-keys",
+        "commit": "ebf7a5cb142ecac7ecf861517ffdc73449fa96dd",
+        "committed_date": "2025-06-28T01:08:05.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-06-27T22:06:02.512Z",
+        "namespace_hint": "allwinner",
+        "project_hint": "apollo_lybox",
+        "project_id": 5664,
+        "project_path": "allwinner/apollo_lybox"
+      },
+      "revision": "ebf7a5cb142ecac7ecf861517ffdc73449fa96dd",
+      "url": "https://dumps.tadiphone.dev/dumps/allwinner/apollo_lybox/-/tree/ebf7a5cb142ecac7ecf861517ffdc73449fa96dd"
+    },
+    {
+      "item_id": "allwinner/ceres-b6@ceres_b6-user-10-QP1A.191105.004-eng.jiangd.20240619.112651-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ceres_b6-user-10-QP1A.191105.004-eng.jiangd.20240619.112651-release-keys",
+        "commit": "6d9c8686f273a4943941428b9b99580188fe77cd",
+        "committed_date": "2024-10-12T01:16:57.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-11T22:15:39.828Z",
+        "namespace_hint": "allwinner",
+        "project_hint": "ceres-b6",
+        "project_id": 5452,
+        "project_path": "allwinner/ceres-b6"
+      },
+      "revision": "6d9c8686f273a4943941428b9b99580188fe77cd",
+      "url": "https://dumps.tadiphone.dev/dumps/allwinner/ceres-b6/-/tree/6d9c8686f273a4943941428b9b99580188fe77cd"
+    },
+    {
+      "item_id": "allwinner/kylin-p2@kylin_p2-eng-5.0-LRX21V-20141229-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "kylin_p2-eng-5.0-LRX21V-20141229-test-keys",
+        "commit": "58b8561812eea4e0f834f031684bf3411ab95be3",
+        "committed_date": "2020-01-08T14:40:26.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T09:57:21.712Z",
+        "namespace_hint": "allwinner",
+        "project_hint": "kylin-p2",
+        "project_id": 1937,
+        "project_path": "allwinner/kylin-p2"
+      },
+      "revision": "58b8561812eea4e0f834f031684bf3411ab95be3",
+      "url": "https://dumps.tadiphone.dev/dumps/allwinner/kylin-p2/-/tree/58b8561812eea4e0f834f031684bf3411ab95be3"
+    },
+    {
+      "item_id": "allwinner/virgo-perf1@virgo_perf1-user-8.1.0-OPM1.171019.026-20200518-162705-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "virgo_perf1-user-8.1.0-OPM1.171019.026-20200518-162705-test-keys",
+        "commit": "3184ea0e0a9e58f1e10f5329b42627f223485079",
+        "committed_date": "2021-04-12T11:00:28.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T23:57:30.328Z",
+        "namespace_hint": "allwinner",
+        "project_hint": "virgo-perf1",
+        "project_id": 816,
+        "project_path": "allwinner/virgo-perf1"
+      },
+      "revision": "3184ea0e0a9e58f1e10f5329b42627f223485079",
+      "url": "https://dumps.tadiphone.dev/dumps/allwinner/virgo-perf1/-/tree/3184ea0e0a9e58f1e10f5329b42627f223485079"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

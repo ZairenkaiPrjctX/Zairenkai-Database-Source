@@ -1,0 +1,4147 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "_project/4648",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": null,
+        "project_id": 4648,
+        "project_path": "realme/re5c37",
+        "reason": "repository_not_readable"
+      },
+      "revision": null,
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5c37"
+    },
+    {
+      "item_id": "_project/5342",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": null,
+        "project_id": 5342,
+        "project_path": "realme/re5c4fl1",
+        "reason": "repository_not_readable"
+      },
+      "revision": null,
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5c4fl1"
+    },
+    {
+      "item_id": "realme/op4679@sdm710-user-9-PKQ1.190101.001-eng.root.20190917.210914-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm710-user-9-PKQ1.190101.001-eng.root.20190917.210914-release-keys",
+        "commit": "09604b8759088e4c1b87f702772625d5e8b0c6d5",
+        "committed_date": "2019-10-23T20:05:21.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T23:34:44.149Z",
+        "namespace_hint": "realme",
+        "project_hint": "op4679",
+        "project_id": 2219,
+        "project_path": "realme/op4679"
+      },
+      "revision": "09604b8759088e4c1b87f702772625d5e8b0c6d5",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/op4679/-/tree/09604b8759088e4c1b87f702772625d5e8b0c6d5"
+    },
+    {
+      "item_id": "realme/op4679@sdm710-user-9-PKQ1.190101.001-eng.root.20191026.195047-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm710-user-9-PKQ1.190101.001-eng.root.20191026.195047-release-keys",
+        "commit": "ccd57cde04031fd07dc1b638d5ac002d0571a2cc",
+        "committed_date": "2019-11-10T02:52:52.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T23:34:44.149Z",
+        "namespace_hint": "realme",
+        "project_hint": "op4679",
+        "project_id": 2219,
+        "project_path": "realme/op4679"
+      },
+      "revision": "ccd57cde04031fd07dc1b638d5ac002d0571a2cc",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/op4679/-/tree/ccd57cde04031fd07dc1b638d5ac002d0571a2cc"
+    },
+    {
+      "item_id": "realme/op4679@sdm710-user-9-PKQ1.190101.001-eng.root.20191120.170715-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm710-user-9-PKQ1.190101.001-eng.root.20191120.170715-release-keys",
+        "commit": "bcac469d158a5c1424500832fcfab07a4c51c265",
+        "committed_date": "2019-11-24T10:31:24.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T23:34:44.149Z",
+        "namespace_hint": "realme",
+        "project_hint": "op4679",
+        "project_id": 2219,
+        "project_path": "realme/op4679"
+      },
+      "revision": "bcac469d158a5c1424500832fcfab07a4c51c265",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/op4679/-/tree/bcac469d158a5c1424500832fcfab07a4c51c265"
+    },
+    {
+      "item_id": "realme/op4679@sdm710-user-9-PKQ1.190101.001-eng.root.20191211.204244-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm710-user-9-PKQ1.190101.001-eng.root.20191211.204244-release-keys",
+        "commit": "851b36e38b6b445ca63cfe78ca9d75b3ff422a7b",
+        "committed_date": "2020-01-29T22:27:37.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T23:34:44.149Z",
+        "namespace_hint": "realme",
+        "project_hint": "op4679",
+        "project_id": 2219,
+        "project_path": "realme/op4679"
+      },
+      "revision": "851b36e38b6b445ca63cfe78ca9d75b3ff422a7b",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/op4679/-/tree/851b36e38b6b445ca63cfe78ca9d75b3ff422a7b"
+    },
+    {
+      "item_id": "realme/ossi@sys_mssi_64_64only_cn_armv82-user-15-AP3A.240617.008-1748617107928-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_64only_cn_armv82-user-15-AP3A.240617.008-1748617107928-release-keys",
+        "commit": "911f7f664d100630b6b302d7dc90e5c0e0dba458",
+        "committed_date": "2026-02-01T16:54:53.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-02-06T13:08:21.813Z",
+        "namespace_hint": "realme",
+        "project_hint": "ossi",
+        "project_id": 4750,
+        "project_path": "realme/ossi"
+      },
+      "revision": "911f7f664d100630b6b302d7dc90e5c0e0dba458",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/ossi/-/tree/911f7f664d100630b6b302d7dc90e5c0e0dba458"
+    },
+    {
+      "item_id": "realme/ossi@sys_mssi_64_64only_cn_armv82-user-15-AP3A.240617.008-1755193260623-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_64only_cn_armv82-user-15-AP3A.240617.008-1755193260623-release-keys",
+        "commit": "9431982178e41d84dae949bb57cf01838c09acbf",
+        "committed_date": "2026-02-06T15:55:34.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-02-06T13:08:21.813Z",
+        "namespace_hint": "realme",
+        "project_hint": "ossi",
+        "project_id": 4750,
+        "project_path": "realme/ossi"
+      },
+      "revision": "9431982178e41d84dae949bb57cf01838c09acbf",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/ossi/-/tree/9431982178e41d84dae949bb57cf01838c09acbf"
+    },
+    {
+      "item_id": "realme/ossi@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1703471228013-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1703471228013-release-keys",
+        "commit": "97e4a58d02d9c3437542a5d44f7694d503b80159",
+        "committed_date": "2024-03-04T13:53:39.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-02-06T13:08:21.813Z",
+        "namespace_hint": "realme",
+        "project_hint": "ossi",
+        "project_id": 4750,
+        "project_path": "realme/ossi"
+      },
+      "revision": "97e4a58d02d9c3437542a5d44f7694d503b80159",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/ossi/-/tree/97e4a58d02d9c3437542a5d44f7694d503b80159"
+    },
+    {
+      "item_id": "realme/re513cl1@sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1668427264256-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1668427264256-release-keys--IN",
+        "commit": "ba4908144456a30e6411ff548ad1c969345bb84a",
+        "committed_date": "2022-12-15T07:18:33.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-07-30T13:43:05.382Z",
+        "namespace_hint": "realme",
+        "project_hint": "re513cl1",
+        "project_id": 3997,
+        "project_path": "realme/re513cl1"
+      },
+      "revision": "ba4908144456a30e6411ff548ad1c969345bb84a",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re513cl1/-/tree/ba4908144456a30e6411ff548ad1c969345bb84a"
+    },
+    {
+      "item_id": "realme/re513cl1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1670672091529-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1670672091529-release-keys--IN",
+        "commit": "388addff8e900a693fbde606a6a5dd62d05e3b2b",
+        "committed_date": "2022-12-14T21:32:43.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-07-30T13:43:05.382Z",
+        "namespace_hint": "realme",
+        "project_hint": "re513cl1",
+        "project_id": 3997,
+        "project_path": "realme/re513cl1"
+      },
+      "revision": "388addff8e900a693fbde606a6a5dd62d05e3b2b",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re513cl1/-/tree/388addff8e900a693fbde606a6a5dd62d05e3b2b"
+    },
+    {
+      "item_id": "realme/re513cl1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1676259340881-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1676259340881-release-keys--IN",
+        "commit": "178c6aa1bbee509cdd29c034958f4d8e7472ca27",
+        "committed_date": "2023-02-21T20:01:05.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-07-30T13:43:05.382Z",
+        "namespace_hint": "realme",
+        "project_hint": "re513cl1",
+        "project_id": 3997,
+        "project_path": "realme/re513cl1"
+      },
+      "revision": "178c6aa1bbee509cdd29c034958f4d8e7472ca27",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re513cl1/-/tree/178c6aa1bbee509cdd29c034958f4d8e7472ca27"
+    },
+    {
+      "item_id": "realme/re513cl1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1679042265638-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1679042265638-release-keys--IN",
+        "commit": "8fbba13dffe65837b4b4673446505fab7f8c283a",
+        "committed_date": "2023-05-17T22:04:33.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-07-30T13:43:05.382Z",
+        "namespace_hint": "realme",
+        "project_hint": "re513cl1",
+        "project_id": 3997,
+        "project_path": "realme/re513cl1"
+      },
+      "revision": "8fbba13dffe65837b4b4673446505fab7f8c283a",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re513cl1/-/tree/8fbba13dffe65837b4b4673446505fab7f8c283a"
+    },
+    {
+      "item_id": "realme/re513cl1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1683884274168-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1683884274168-release-keys--IN",
+        "commit": "78d678f6a0a38299732b24a2972fbdee3b9cf2ba",
+        "committed_date": "2023-06-02T19:12:35.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-07-30T13:43:05.382Z",
+        "namespace_hint": "realme",
+        "project_hint": "re513cl1",
+        "project_id": 3997,
+        "project_path": "realme/re513cl1"
+      },
+      "revision": "78d678f6a0a38299732b24a2972fbdee3b9cf2ba",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re513cl1/-/tree/78d678f6a0a38299732b24a2972fbdee3b9cf2ba"
+    },
+    {
+      "item_id": "realme/re513cl1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1687921718039-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1687921718039-release-keys--IN",
+        "commit": "5e5c13c761cffd170ecc1236af55014bdc294578",
+        "committed_date": "2023-07-30T16:29:58.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-07-30T13:43:05.382Z",
+        "namespace_hint": "realme",
+        "project_hint": "re513cl1",
+        "project_id": 3997,
+        "project_path": "realme/re513cl1"
+      },
+      "revision": "5e5c13c761cffd170ecc1236af55014bdc294578",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re513cl1/-/tree/5e5c13c761cffd170ecc1236af55014bdc294578"
+    },
+    {
+      "item_id": "realme/re5465@qssi-user-13-TP1A.220905.001-1697183167212-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1697183167212-release-keys--ALLNET",
+        "commit": "08a61138c1db40f78b97b63ef7d1d369954c6bc0",
+        "committed_date": "2023-12-14T14:24:59.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-30T12:16:12.703Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5465",
+        "project_id": 4663,
+        "project_path": "realme/re5465"
+      },
+      "revision": "08a61138c1db40f78b97b63ef7d1d369954c6bc0",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5465/-/tree/08a61138c1db40f78b97b63ef7d1d369954c6bc0"
+    },
+    {
+      "item_id": "realme/re5465@qssi-user-14-UKQ1.230924.001-1703251834605-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1703251834605-release-keys--ALLNET",
+        "commit": "fa82b7837fde5ac6d0b677cac67a87b6ccaf817a",
+        "committed_date": "2023-12-29T14:44:31.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-30T12:16:12.703Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5465",
+        "project_id": 4663,
+        "project_path": "realme/re5465"
+      },
+      "revision": "fa82b7837fde5ac6d0b677cac67a87b6ccaf817a",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5465/-/tree/fa82b7837fde5ac6d0b677cac67a87b6ccaf817a"
+    },
+    {
+      "item_id": "realme/re5465@qssi-user-14-UKQ1.230924.001-1710297164930-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1710297164930-release-keys--ALLNET",
+        "commit": "6c7511c859bb33e17335a5d4d739c54fbb23c26b",
+        "committed_date": "2024-03-30T14:58:00.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-30T12:16:12.703Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5465",
+        "project_id": 4663,
+        "project_path": "realme/re5465"
+      },
+      "revision": "6c7511c859bb33e17335a5d4d739c54fbb23c26b",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5465/-/tree/6c7511c859bb33e17335a5d4d739c54fbb23c26b"
+    },
+    {
+      "item_id": "realme/re5465@qssi-user-14-UP1A.230620.001-1700537197577-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UP1A.230620.001-1700537197577-release-keys--ALLNET",
+        "commit": "4e8333958d76579b28ae54364bc03d6a1b647d95",
+        "committed_date": "2023-12-15T02:26:51.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-30T12:16:12.703Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5465",
+        "project_id": 4663,
+        "project_path": "realme/re5465"
+      },
+      "revision": "4e8333958d76579b28ae54364bc03d6a1b647d95",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5465/-/tree/4e8333958d76579b28ae54364bc03d6a1b647d95"
+    },
+    {
+      "item_id": "realme/re5473@qssi-user-13-TP1A.220905.001-1677509072380-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1677509072380-release-keys--ALLNET",
+        "commit": "7953191f666ff74d4dbf473eabc072d65881e21f",
+        "committed_date": "2023-03-04T18:56:59.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-03-04T15:51:34.192Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5473",
+        "project_id": 4085,
+        "project_path": "realme/re5473"
+      },
+      "revision": "7953191f666ff74d4dbf473eabc072d65881e21f",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5473/-/tree/7953191f666ff74d4dbf473eabc072d65881e21f"
+    },
+    {
+      "item_id": "realme/re547d@qssi-user-12-RKQ1.211119.001-202207171555-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-RKQ1.211119.001-202207171555-release-keys--ALLNET",
+        "commit": "5b45ea165dde589134014b451f3dcd29f6942389",
+        "committed_date": "2023-01-16T00:00:55.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-01-05T10:11:26.435Z",
+        "namespace_hint": "realme",
+        "project_hint": "re547d",
+        "project_id": 2456,
+        "project_path": "realme/re547d"
+      },
+      "revision": "5b45ea165dde589134014b451f3dcd29f6942389",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re547d/-/tree/5b45ea165dde589134014b451f3dcd29f6942389"
+    },
+    {
+      "item_id": "realme/re547d@qssi-user-12-RKQ1.211119.001-202208151545-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-RKQ1.211119.001-202208151545-release-keys--ALLNET",
+        "commit": "8937d5115bfe86c7c532038eac34589cc0601ef6",
+        "committed_date": "2022-09-25T12:29:05.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-01-05T10:11:26.435Z",
+        "namespace_hint": "realme",
+        "project_hint": "re547d",
+        "project_id": 2456,
+        "project_path": "realme/re547d"
+      },
+      "revision": "8937d5115bfe86c7c532038eac34589cc0601ef6",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re547d/-/tree/8937d5115bfe86c7c532038eac34589cc0601ef6"
+    },
+    {
+      "item_id": "realme/re547d@qssi-user-12-RKQ1.211119.001-202210061510-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-RKQ1.211119.001-202210061510-release-keys--ALLNET",
+        "commit": "3bb436faf8d2deaf2189c30e675f0e1ee3651a79",
+        "committed_date": "2023-01-15T21:58:03.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-01-05T10:11:26.435Z",
+        "namespace_hint": "realme",
+        "project_hint": "re547d",
+        "project_id": 2456,
+        "project_path": "realme/re547d"
+      },
+      "revision": "3bb436faf8d2deaf2189c30e675f0e1ee3651a79",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re547d/-/tree/3bb436faf8d2deaf2189c30e675f0e1ee3651a79"
+    },
+    {
+      "item_id": "realme/re547d@qssi-user-12-RKQ1.211119.001-202211281537-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-RKQ1.211119.001-202211281537-release-keys--ALLNET",
+        "commit": "5aa9792c11ffb69406b2449372128e72511d6db8",
+        "committed_date": "2023-01-15T23:36:56.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-01-05T10:11:26.435Z",
+        "namespace_hint": "realme",
+        "project_hint": "re547d",
+        "project_id": 2456,
+        "project_path": "realme/re547d"
+      },
+      "revision": "5aa9792c11ffb69406b2449372128e72511d6db8",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re547d/-/tree/5aa9792c11ffb69406b2449372128e72511d6db8"
+    },
+    {
+      "item_id": "realme/re547d@qssi-user-13-TP1A.220905.001-1670849371708-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1670849371708-release-keys--ALLNET",
+        "commit": "1bc3c1fee99e5516a94cbe55d304d240fb2be62c",
+        "committed_date": "2023-01-22T18:54:15.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-01-05T10:11:26.435Z",
+        "namespace_hint": "realme",
+        "project_hint": "re547d",
+        "project_id": 2456,
+        "project_path": "realme/re547d"
+      },
+      "revision": "1bc3c1fee99e5516a94cbe55d304d240fb2be62c",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re547d/-/tree/1bc3c1fee99e5516a94cbe55d304d240fb2be62c"
+    },
+    {
+      "item_id": "realme/re547d@qssi-user-13-TP1A.220905.001-1675259359017-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1675259359017-release-keys--ALLNET",
+        "commit": "93226ed9ebf8e4c3a6ad10d5f38bd1f23323a5b7",
+        "committed_date": "2023-02-19T11:04:15.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-01-05T10:11:26.435Z",
+        "namespace_hint": "realme",
+        "project_hint": "re547d",
+        "project_id": 2456,
+        "project_path": "realme/re547d"
+      },
+      "revision": "93226ed9ebf8e4c3a6ad10d5f38bd1f23323a5b7",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re547d/-/tree/93226ed9ebf8e4c3a6ad10d5f38bd1f23323a5b7"
+    },
+    {
+      "item_id": "realme/re547d@qssi-user-13-TP1A.220905.001-1680512492048-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1680512492048-release-keys--ALLNET",
+        "commit": "fdb1a97f2198e003ff63771971a8a16ca5b9a45e",
+        "committed_date": "2023-05-02T20:08:25.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-01-05T10:11:26.435Z",
+        "namespace_hint": "realme",
+        "project_hint": "re547d",
+        "project_id": 2456,
+        "project_path": "realme/re547d"
+      },
+      "revision": "fdb1a97f2198e003ff63771971a8a16ca5b9a45e",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re547d/-/tree/fdb1a97f2198e003ff63771971a8a16ca5b9a45e"
+    },
+    {
+      "item_id": "realme/re547d@qssi-user-13-TP1A.220905.001-1695438913497-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1695438913497-release-keys--ALLNET",
+        "commit": "0edff9d8054daa923fe41848fb429e154f37770e",
+        "committed_date": "2024-01-05T12:57:24.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-01-05T10:11:26.435Z",
+        "namespace_hint": "realme",
+        "project_hint": "re547d",
+        "project_id": 2456,
+        "project_path": "realme/re547d"
+      },
+      "revision": "0edff9d8054daa923fe41848fb429e154f37770e",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re547d/-/tree/0edff9d8054daa923fe41848fb429e154f37770e"
+    },
+    {
+      "item_id": "realme/re547d@qssi-user-13-TP1A.220905.001-S.bc9274-56fc-6bed-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-S.bc9274-56fc-6bed-release-keys--ALLNET",
+        "commit": "a1f7bac70e6d01c56d99d5c208f97e1a9883f750",
+        "committed_date": "2023-01-16T00:38:09.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-01-05T10:11:26.435Z",
+        "namespace_hint": "realme",
+        "project_hint": "re547d",
+        "project_id": 2456,
+        "project_path": "realme/re547d"
+      },
+      "revision": "a1f7bac70e6d01c56d99d5c208f97e1a9883f750",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re547d/-/tree/a1f7bac70e6d01c56d99d5c208f97e1a9883f750"
+    },
+    {
+      "item_id": "realme/re547f@qssi-user-UpsideDownCake-UP1A.230309.002-1682273824660-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-UpsideDownCake-UP1A.230309.002-1682273824660-release-keys--ALLNET",
+        "commit": "f7b8fdf3b7defc60897ddd59714224422c7a8b5f",
+        "committed_date": "2023-05-11T14:46:57.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-07-04T10:27:25.971Z",
+        "namespace_hint": "realme",
+        "project_hint": "re547f",
+        "project_id": 4291,
+        "project_path": "realme/re547f"
+      },
+      "revision": "f7b8fdf3b7defc60897ddd59714224422c7a8b5f",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re547f/-/tree/f7b8fdf3b7defc60897ddd59714224422c7a8b5f"
+    },
+    {
+      "item_id": "realme/re547f@qssi-user-UpsideDownCake-UP1A.230407.001-1686004135743-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-UpsideDownCake-UP1A.230407.001-1686004135743-release-keys--ALLNET",
+        "commit": "eca424c2613d19e47eb4c62aac3accd4db369e92",
+        "committed_date": "2023-07-04T13:11:33.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-07-04T10:27:25.971Z",
+        "namespace_hint": "realme",
+        "project_hint": "re547f",
+        "project_id": 4291,
+        "project_path": "realme/re547f"
+      },
+      "revision": "eca424c2613d19e47eb4c62aac3accd4db369e92",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re547f/-/tree/eca424c2613d19e47eb4c62aac3accd4db369e92"
+    },
+    {
+      "item_id": "realme/re549c@ums9230_nico_Natv_vf-user-13-TP1A.220624.014-1435-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ums9230_nico_Natv_vf-user-13-TP1A.220624.014-1435-release-keys",
+        "commit": "7252f42a6780ce271b5470d0fc18fe5c550769b7",
+        "committed_date": "2024-09-15T12:59:28.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-09-23T10:30:05.021Z",
+        "namespace_hint": "realme",
+        "project_hint": "re549c",
+        "project_id": 5414,
+        "project_path": "realme/re549c"
+      },
+      "revision": "7252f42a6780ce271b5470d0fc18fe5c550769b7",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re549c/-/tree/7252f42a6780ce271b5470d0fc18fe5c550769b7"
+    },
+    {
+      "item_id": "realme/re549c@ums9230_nico_Natv_vf-user-13-TP1A.220624.014-395-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ums9230_nico_Natv_vf-user-13-TP1A.220624.014-395-release-keys",
+        "commit": "926d9e68aa49c4b26f97962cbee48c22312a087a",
+        "committed_date": "2024-09-23T13:11:03.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-09-23T10:30:05.021Z",
+        "namespace_hint": "realme",
+        "project_hint": "re549c",
+        "project_id": 5414,
+        "project_path": "realme/re549c"
+      },
+      "revision": "926d9e68aa49c4b26f97962cbee48c22312a087a",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re549c/-/tree/926d9e68aa49c4b26f97962cbee48c22312a087a"
+    },
+    {
+      "item_id": "realme/re54abl1@qssi-user-12-RKQ1.210503.001-R.202206222211-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-RKQ1.210503.001-R.202206222211-release-keys--IN",
+        "commit": "1cc88193401c4fbb1ca8a3cdf0368ecbef917795",
+        "committed_date": "2022-07-20T18:42:05.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-07-23T05:30:19.276Z",
+        "namespace_hint": "realme",
+        "project_hint": "re54abl1",
+        "project_id": 2363,
+        "project_path": "realme/re54abl1"
+      },
+      "revision": "1cc88193401c4fbb1ca8a3cdf0368ecbef917795",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re54abl1/-/tree/1cc88193401c4fbb1ca8a3cdf0368ecbef917795"
+    },
+    {
+      "item_id": "realme/re54abl1@qssi-user-12-RKQ1.210503.001-R.202209280247-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-RKQ1.210503.001-R.202209280247-release-keys--IN",
+        "commit": "3413b34d005c7ab2c44f9a6d29161de015767ea8",
+        "committed_date": "2022-10-06T21:46:53.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-07-23T05:30:19.276Z",
+        "namespace_hint": "realme",
+        "project_hint": "re54abl1",
+        "project_id": 2363,
+        "project_path": "realme/re54abl1"
+      },
+      "revision": "3413b34d005c7ab2c44f9a6d29161de015767ea8",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re54abl1/-/tree/3413b34d005c7ab2c44f9a6d29161de015767ea8"
+    },
+    {
+      "item_id": "realme/re54abl1@qssi-user-13-TP1A.220905.001-1675311433044-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1675311433044-release-keys--IN",
+        "commit": "176d772d8eddb6b25766e3468fc54f6297d8870d",
+        "committed_date": "2023-02-18T16:46:46.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-07-23T05:30:19.276Z",
+        "namespace_hint": "realme",
+        "project_hint": "re54abl1",
+        "project_id": 2363,
+        "project_path": "realme/re54abl1"
+      },
+      "revision": "176d772d8eddb6b25766e3468fc54f6297d8870d",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re54abl1/-/tree/176d772d8eddb6b25766e3468fc54f6297d8870d"
+    },
+    {
+      "item_id": "realme/re54abl1@qssi-user-13-TP1A.220905.001-1711616484204-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1711616484204-release-keys--IN",
+        "commit": "28bf9174af61b8b097889e46c29129afdc3f16f0",
+        "committed_date": "2024-06-18T22:39:26.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-07-23T05:30:19.276Z",
+        "namespace_hint": "realme",
+        "project_hint": "re54abl1",
+        "project_id": 2363,
+        "project_path": "realme/re54abl1"
+      },
+      "revision": "28bf9174af61b8b097889e46c29129afdc3f16f0",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re54abl1/-/tree/28bf9174af61b8b097889e46c29129afdc3f16f0"
+    },
+    {
+      "item_id": "realme/re54abl1@qssi-user-13-TP1A.220905.001-1718850404636-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1718850404636-release-keys--IN",
+        "commit": "212b81f2b2339eb12f108757a830d353719cb15d",
+        "committed_date": "2024-07-23T08:12:53.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-07-23T05:30:19.276Z",
+        "namespace_hint": "realme",
+        "project_hint": "re54abl1",
+        "project_id": 2363,
+        "project_path": "realme/re54abl1"
+      },
+      "revision": "212b81f2b2339eb12f108757a830d353719cb15d",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re54abl1/-/tree/212b81f2b2339eb12f108757a830d353719cb15d"
+    },
+    {
+      "item_id": "realme/re54b4l1@sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-mp8tc16sppr10V1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-mp8tc16sppr10V1-release-keys",
+        "commit": "63c75cde61d4ef315e5f75dd686dbacedc228cfc",
+        "committed_date": "2022-08-16T22:48:10.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-08-16T19:46:10.858Z",
+        "namespace_hint": "realme",
+        "project_hint": "re54b4l1",
+        "project_id": 2396,
+        "project_path": "realme/re54b4l1"
+      },
+      "revision": "63c75cde61d4ef315e5f75dd686dbacedc228cfc",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re54b4l1/-/tree/63c75cde61d4ef315e5f75dd686dbacedc228cfc"
+    },
+    {
+      "item_id": "realme/re54bfl1@qssi-user-12-RKQ1.210503.001-R.202210211219-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-RKQ1.210503.001-R.202210211219-release-keys--IN",
+        "commit": "0092b158d2312936619ea022d18a75ff4cca3253",
+        "committed_date": "2022-11-06T12:44:25.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-04-07T20:48:39.543Z",
+        "namespace_hint": "realme",
+        "project_hint": "re54bfl1",
+        "project_id": 2515,
+        "project_path": "realme/re54bfl1"
+      },
+      "revision": "0092b158d2312936619ea022d18a75ff4cca3253",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re54bfl1/-/tree/0092b158d2312936619ea022d18a75ff4cca3253"
+    },
+    {
+      "item_id": "realme/re54bfl1@qssi-user-13-TP1A.220905.001-1697706329931-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1697706329931-release-keys--IN",
+        "commit": "5f746184595d8cb0a63fb6d4fe91df7ab83e4d70",
+        "committed_date": "2023-11-04T13:30:45.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-04-07T20:48:39.543Z",
+        "namespace_hint": "realme",
+        "project_hint": "re54bfl1",
+        "project_id": 2515,
+        "project_path": "realme/re54bfl1"
+      },
+      "revision": "5f746184595d8cb0a63fb6d4fe91df7ab83e4d70",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re54bfl1/-/tree/5f746184595d8cb0a63fb6d4fe91df7ab83e4d70"
+    },
+    {
+      "item_id": "realme/re54bfl1@qssi-user-13-TP1A.220905.001-1701485939823-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1701485939823-release-keys--IN",
+        "commit": "4982a7d45c99e5b4df09de2da5f7f806321984d3",
+        "committed_date": "2024-01-04T20:25:21.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-04-07T20:48:39.543Z",
+        "namespace_hint": "realme",
+        "project_hint": "re54bfl1",
+        "project_id": 2515,
+        "project_path": "realme/re54bfl1"
+      },
+      "revision": "4982a7d45c99e5b4df09de2da5f7f806321984d3",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re54bfl1/-/tree/4982a7d45c99e5b4df09de2da5f7f806321984d3"
+    },
+    {
+      "item_id": "realme/re54bfl1@qssi-user-13-TP1A.220905.001-1710908105790-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1710908105790-release-keys--IN",
+        "commit": "216da199eb8a628f2beea12f581b712d2aa35873",
+        "committed_date": "2024-04-07T23:30:34.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-04-07T20:48:39.543Z",
+        "namespace_hint": "realme",
+        "project_hint": "re54bfl1",
+        "project_id": 2515,
+        "project_path": "realme/re54bfl1"
+      },
+      "revision": "216da199eb8a628f2beea12f581b712d2aa35873",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re54bfl1/-/tree/216da199eb8a628f2beea12f581b712d2aa35873"
+    },
+    {
+      "item_id": "realme/re54cbl1@qssi-user-12-RKQ1.211119.001-202206171831-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-RKQ1.211119.001-202206171831-release-keys--IN",
+        "commit": "90c716a4c0d02b9ce0253797654455b2264cf93e",
+        "committed_date": "2022-09-25T08:31:04.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-22T14:10:32.961Z",
+        "namespace_hint": "realme",
+        "project_hint": "re54cbl1",
+        "project_id": 2455,
+        "project_path": "realme/re54cbl1"
+      },
+      "revision": "90c716a4c0d02b9ce0253797654455b2264cf93e",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re54cbl1/-/tree/90c716a4c0d02b9ce0253797654455b2264cf93e"
+    },
+    {
+      "item_id": "realme/re54cbl1@qssi-user-13-TP1A.220905.001-S.adfe93-6ccb-4de0c-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-S.adfe93-6ccb-4de0c-release-keys--IN",
+        "commit": "ad14d68d1c26ba163dbf90221a8b01aec1abaceb",
+        "committed_date": "2022-10-12T18:05:10.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-22T14:10:32.961Z",
+        "namespace_hint": "realme",
+        "project_hint": "re54cbl1",
+        "project_id": 2455,
+        "project_path": "realme/re54cbl1"
+      },
+      "revision": "ad14d68d1c26ba163dbf90221a8b01aec1abaceb",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re54cbl1/-/tree/ad14d68d1c26ba163dbf90221a8b01aec1abaceb"
+    },
+    {
+      "item_id": "realme/re54cbl1@qssi-user-14-UKQ1.230924.001-1706003217966-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1706003217966-release-keys--IN",
+        "commit": "85d62cb8beab5e43984d9d5291c9bdf1b7bb00a9",
+        "committed_date": "2024-02-04T20:08:41.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-22T14:10:32.961Z",
+        "namespace_hint": "realme",
+        "project_hint": "re54cbl1",
+        "project_id": 2455,
+        "project_path": "realme/re54cbl1"
+      },
+      "revision": "85d62cb8beab5e43984d9d5291c9bdf1b7bb00a9",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re54cbl1/-/tree/85d62cb8beab5e43984d9d5291c9bdf1b7bb00a9"
+    },
+    {
+      "item_id": "realme/re54cbl1@qssi-user-14-UKQ1.230924.001-1714988902550-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1714988902550-release-keys--IN",
+        "commit": "851693ac9203961e0083aaf183a8c157605ae82c",
+        "committed_date": "2024-07-23T16:06:51.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-22T14:10:32.961Z",
+        "namespace_hint": "realme",
+        "project_hint": "re54cbl1",
+        "project_id": 2455,
+        "project_path": "realme/re54cbl1"
+      },
+      "revision": "851693ac9203961e0083aaf183a8c157605ae82c",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re54cbl1/-/tree/851693ac9203961e0083aaf183a8c157605ae82c"
+    },
+    {
+      "item_id": "realme/re54cbl1@qssi-user-14-UKQ1.230924.001-1722483368139-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1722483368139-release-keys--IN",
+        "commit": "b2923b5a0bf38e8a6978d5d522e263bebe893a4e",
+        "committed_date": "2024-08-30T20:15:30.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-22T14:10:32.961Z",
+        "namespace_hint": "realme",
+        "project_hint": "re54cbl1",
+        "project_id": 2455,
+        "project_path": "realme/re54cbl1"
+      },
+      "revision": "b2923b5a0bf38e8a6978d5d522e263bebe893a4e",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re54cbl1/-/tree/b2923b5a0bf38e8a6978d5d522e263bebe893a4e"
+    },
+    {
+      "item_id": "realme/re54cbl1@qssi-user-14-UKQ1.230924.001-1729755571013-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1729755571013-release-keys--IN",
+        "commit": "f16a5283252f8280b6169e944206998a8f9a04a4",
+        "committed_date": "2024-11-10T21:35:08.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-22T14:10:32.961Z",
+        "namespace_hint": "realme",
+        "project_hint": "re54cbl1",
+        "project_id": 2455,
+        "project_path": "realme/re54cbl1"
+      },
+      "revision": "f16a5283252f8280b6169e944206998a8f9a04a4",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re54cbl1/-/tree/f16a5283252f8280b6169e944206998a8f9a04a4"
+    },
+    {
+      "item_id": "realme/re54cbl1@qssi-user-14-UKQ1.230924.001-1730778598636-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1730778598636-release-keys--IN",
+        "commit": "d0505c85e3f86ef3d6bcb71bedffb8acd3976659",
+        "committed_date": "2024-12-22T16:54:49.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-12-22T14:10:32.961Z",
+        "namespace_hint": "realme",
+        "project_hint": "re54cbl1",
+        "project_id": 2455,
+        "project_path": "realme/re54cbl1"
+      },
+      "revision": "d0505c85e3f86ef3d6bcb71bedffb8acd3976659",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re54cbl1/-/tree/d0505c85e3f86ef3d6bcb71bedffb8acd3976659"
+    },
+    {
+      "item_id": "realme/re54d1@RMX3265_ctcc-user-11-RP1A.201005.001-33206-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "RMX3265_ctcc-user-11-RP1A.201005.001-33206-release-keys",
+        "commit": "4437438814c89fe89e4dd8ab723299406bd917ab",
+        "committed_date": "2024-10-31T23:44:57.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-31T20:42:01.937Z",
+        "namespace_hint": "realme",
+        "project_hint": "re54d1",
+        "project_id": 5483,
+        "project_path": "realme/re54d1"
+      },
+      "revision": "4437438814c89fe89e4dd8ab723299406bd917ab",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re54d1/-/tree/4437438814c89fe89e4dd8ab723299406bd917ab"
+    },
+    {
+      "item_id": "realme/re54e4l1@qssi-user-12-RKQ1.211119.001-S.202209161245-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-RKQ1.211119.001-S.202209161245-release-keys--IN",
+        "commit": "126678f380d4cd4b0b7d8e0c6a1bfb076a5b7934",
+        "committed_date": "2022-10-04T20:51:10.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-05-04T19:49:28.735Z",
+        "namespace_hint": "realme",
+        "project_hint": "re54e4l1",
+        "project_id": 2465,
+        "project_path": "realme/re54e4l1"
+      },
+      "revision": "126678f380d4cd4b0b7d8e0c6a1bfb076a5b7934",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re54e4l1/-/tree/126678f380d4cd4b0b7d8e0c6a1bfb076a5b7934"
+    },
+    {
+      "item_id": "realme/re54e4l1@qssi-user-12-RKQ1.211119.001-S.GDPR.c35089-c4-3b2e7-release-keys--EUEX",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-RKQ1.211119.001-S.GDPR.c35089-c4-3b2e7-release-keys--EUEX",
+        "commit": "757b056e6b2e8fe23967e027c11e1e777adeff27",
+        "committed_date": "2023-02-11T00:30:47.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-05-04T19:49:28.735Z",
+        "namespace_hint": "realme",
+        "project_hint": "re54e4l1",
+        "project_id": 2465,
+        "project_path": "realme/re54e4l1"
+      },
+      "revision": "757b056e6b2e8fe23967e027c11e1e777adeff27",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re54e4l1/-/tree/757b056e6b2e8fe23967e027c11e1e777adeff27"
+    },
+    {
+      "item_id": "realme/re54e4l1@qssi-user-12-RKQ1.211119.001-S.c35089-c4-3b2e7-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-RKQ1.211119.001-S.c35089-c4-3b2e7-release-keys--IN",
+        "commit": "773d1cafcb6130d090f8db1477ed2be9c8314e2a",
+        "committed_date": "2023-02-11T00:57:25.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-05-04T19:49:28.735Z",
+        "namespace_hint": "realme",
+        "project_hint": "re54e4l1",
+        "project_id": 2465,
+        "project_path": "realme/re54e4l1"
+      },
+      "revision": "773d1cafcb6130d090f8db1477ed2be9c8314e2a",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re54e4l1/-/tree/773d1cafcb6130d090f8db1477ed2be9c8314e2a"
+    },
+    {
+      "item_id": "realme/re54e4l1@qssi-user-13-TP1A.220905.001-1671281570160-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1671281570160-release-keys--IN",
+        "commit": "8832474f254106a38a9a33a5b26d883b8c4739f1",
+        "committed_date": "2022-12-31T20:00:49.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-05-04T19:49:28.735Z",
+        "namespace_hint": "realme",
+        "project_hint": "re54e4l1",
+        "project_id": 2465,
+        "project_path": "realme/re54e4l1"
+      },
+      "revision": "8832474f254106a38a9a33a5b26d883b8c4739f1",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re54e4l1/-/tree/8832474f254106a38a9a33a5b26d883b8c4739f1"
+    },
+    {
+      "item_id": "realme/re54e4l1@qssi-user-13-TP1A.220905.001-1681284588184-release-keys--ID",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1681284588184-release-keys--ID",
+        "commit": "ef3251cb2cd354853d1d747718acb87d0bcc3e3a",
+        "committed_date": "2023-06-05T15:25:10.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-05-04T19:49:28.735Z",
+        "namespace_hint": "realme",
+        "project_hint": "re54e4l1",
+        "project_id": 2465,
+        "project_path": "realme/re54e4l1"
+      },
+      "revision": "ef3251cb2cd354853d1d747718acb87d0bcc3e3a",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re54e4l1/-/tree/ef3251cb2cd354853d1d747718acb87d0bcc3e3a"
+    },
+    {
+      "item_id": "realme/re54e4l1@qssi-user-13-TP1A.220905.001-S.b12012_1157e-24234-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-S.b12012_1157e-24234-release-keys--IN",
+        "commit": "5798685da61a688643575443fbd0e32bed15158b",
+        "committed_date": "2022-10-25T06:27:43.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-05-04T19:49:28.735Z",
+        "namespace_hint": "realme",
+        "project_hint": "re54e4l1",
+        "project_id": 2465,
+        "project_path": "realme/re54e4l1"
+      },
+      "revision": "5798685da61a688643575443fbd0e32bed15158b",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re54e4l1/-/tree/5798685da61a688643575443fbd0e32bed15158b"
+    },
+    {
+      "item_id": "realme/re54e4l1@qssi-user-14-UKQ1.230924.001-1709631795661-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1709631795661-release-keys--IN",
+        "commit": "567171e70eae4904bab7cef568797711a82a76a7",
+        "committed_date": "2024-05-04T22:35:10.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-05-04T19:49:28.735Z",
+        "namespace_hint": "realme",
+        "project_hint": "re54e4l1",
+        "project_id": 2465,
+        "project_path": "realme/re54e4l1"
+      },
+      "revision": "567171e70eae4904bab7cef568797711a82a76a7",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re54e4l1/-/tree/567171e70eae4904bab7cef568797711a82a76a7"
+    },
+    {
+      "item_id": "realme/re54f2l1@qssi-user-12-RKQ1.211119.001-S.202207261908-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-RKQ1.211119.001-S.202207261908-release-keys--IN",
+        "commit": "34e3d4c083f1371fec705ac241eaf3cb83d2327f",
+        "committed_date": "2022-08-23T19:47:41.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-08-23T16:42:52.850Z",
+        "namespace_hint": "realme",
+        "project_hint": "re54f2l1",
+        "project_id": 2406,
+        "project_path": "realme/re54f2l1"
+      },
+      "revision": "34e3d4c083f1371fec705ac241eaf3cb83d2327f",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re54f2l1/-/tree/34e3d4c083f1371fec705ac241eaf3cb83d2327f"
+    },
+    {
+      "item_id": "realme/re584b@sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1712113044325-release-keys--CMCC",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1712113044325-release-keys--CMCC",
+        "commit": "2c361cc6e53252f4a02b1bac11d8448264d5d7b3",
+        "committed_date": "2024-05-19T13:45:49.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-05-19T10:41:37.247Z",
+        "namespace_hint": "realme",
+        "project_hint": "re584b",
+        "project_id": 5277,
+        "project_path": "realme/re584b"
+      },
+      "revision": "2c361cc6e53252f4a02b1bac11d8448264d5d7b3",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re584b/-/tree/2c361cc6e53252f4a02b1bac11d8448264d5d7b3"
+    },
+    {
+      "item_id": "realme/re5854@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1669474646526-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1669474646526-release-keys--ALLNET",
+        "commit": "e862b67e918d1c168c0329636d53fa391ab50b0a",
+        "committed_date": "2022-12-08T13:20:26.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-03-01T22:30:20.879Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5854",
+        "project_id": 3987,
+        "project_path": "realme/re5854"
+      },
+      "revision": "e862b67e918d1c168c0329636d53fa391ab50b0a",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5854/-/tree/e862b67e918d1c168c0329636d53fa391ab50b0a"
+    },
+    {
+      "item_id": "realme/re5854@sys_mssi_64_cn_armv82-user-15-AP3A.240617.008-1738956110632-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-15-AP3A.240617.008-1738956110632-release-keys--ALLNET",
+        "commit": "651cd9fe1d3ab2a313a1ab4c8a3ff6ff88e21e46",
+        "committed_date": "2025-03-02T01:12:59.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-03-01T22:30:20.879Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5854",
+        "project_id": 3987,
+        "project_path": "realme/re5854"
+      },
+      "revision": "651cd9fe1d3ab2a313a1ab4c8a3ff6ff88e21e46",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5854/-/tree/651cd9fe1d3ab2a313a1ab4c8a3ff6ff88e21e46"
+    },
+    {
+      "item_id": "realme/re585f@qssi-user-13-TP1A.220905.001-1680515081092-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1680515081092-release-keys--ALLNET",
+        "commit": "641ca5ee4a18e899b07c4b05a60ce169836bac0d",
+        "committed_date": "2023-04-12T15:22:28.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-04-12T12:15:03.484Z",
+        "namespace_hint": "realme",
+        "project_hint": "re585f",
+        "project_id": 4106,
+        "project_path": "realme/re585f"
+      },
+      "revision": "641ca5ee4a18e899b07c4b05a60ce169836bac0d",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re585f/-/tree/641ca5ee4a18e899b07c4b05a60ce169836bac0d"
+    },
+    {
+      "item_id": "realme/re5860@qssi-user-13-TP1A.220905.001-1675498210030-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1675498210030-release-keys--ALLNET",
+        "commit": "26d909e3ecd64c1ad9e7a2cec162974e14458190",
+        "committed_date": "2023-02-10T11:20:25.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-02-10T08:13:20.238Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5860",
+        "project_id": 4062,
+        "project_path": "realme/re5860"
+      },
+      "revision": "26d909e3ecd64c1ad9e7a2cec162974e14458190",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5860/-/tree/26d909e3ecd64c1ad9e7a2cec162974e14458190"
+    },
+    {
+      "item_id": "realme/re5865@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1683865416899-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1683865416899-release-keys--ALLNET",
+        "commit": "d5c47d4ee1c89945fad0e1de3fb14e03b6e465d1",
+        "committed_date": "2023-05-25T12:39:17.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-10-04T10:27:16.480Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5865",
+        "project_id": 4311,
+        "project_path": "realme/re5865"
+      },
+      "revision": "d5c47d4ee1c89945fad0e1de3fb14e03b6e465d1",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5865/-/tree/d5c47d4ee1c89945fad0e1de3fb14e03b6e465d1"
+    },
+    {
+      "item_id": "realme/re5865@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1693968287459-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1693968287459-release-keys--ALLNET",
+        "commit": "07dbff7314070328d3aed200a725914a6da31de7",
+        "committed_date": "2023-10-04T13:11:36.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-10-04T10:27:16.480Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5865",
+        "project_id": 4311,
+        "project_path": "realme/re5865"
+      },
+      "revision": "07dbff7314070328d3aed200a725914a6da31de7",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5865/-/tree/07dbff7314070328d3aed200a725914a6da31de7"
+    },
+    {
+      "item_id": "realme/re5869@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1683865416899-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1683865416899-release-keys--ALLNET",
+        "commit": "7cf03a69c17fc60ae6904c798a161a02efdef624",
+        "committed_date": "2023-05-25T13:04:48.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-05-25T09:58:48.569Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5869",
+        "project_id": 4312,
+        "project_path": "realme/re5869"
+      },
+      "revision": "7cf03a69c17fc60ae6904c798a161a02efdef624",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5869/-/tree/7cf03a69c17fc60ae6904c798a161a02efdef624"
+    },
+    {
+      "item_id": "realme/re588bl1@qssi-user-13-TP1A.220905.001-1671217359999-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1671217359999-release-keys--IN",
+        "commit": "46a023eb5792c83d643f60377af202ec277fec5f",
+        "committed_date": "2023-03-13T21:00:09.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-09-01T16:58:01.267Z",
+        "namespace_hint": "realme",
+        "project_hint": "re588bl1",
+        "project_id": 4091,
+        "project_path": "realme/re588bl1"
+      },
+      "revision": "46a023eb5792c83d643f60377af202ec277fec5f",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re588bl1/-/tree/46a023eb5792c83d643f60377af202ec277fec5f"
+    },
+    {
+      "item_id": "realme/re588bl1@qssi-user-13-TP1A.220905.001-1676974713611-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1676974713611-release-keys--IN",
+        "commit": "5351045cf1677249bc159b8692edeece6510413b",
+        "committed_date": "2023-03-13T18:26:18.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-09-01T16:58:01.267Z",
+        "namespace_hint": "realme",
+        "project_hint": "re588bl1",
+        "project_id": 4091,
+        "project_path": "realme/re588bl1"
+      },
+      "revision": "5351045cf1677249bc159b8692edeece6510413b",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re588bl1/-/tree/5351045cf1677249bc159b8692edeece6510413b"
+    },
+    {
+      "item_id": "realme/re588bl1@qssi-user-13-TP1A.220905.001-1687181189345-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1687181189345-release-keys--IN",
+        "commit": "852f0a607e396d76cbf0d58cc5a8890fd9df9bab",
+        "committed_date": "2023-10-25T18:01:03.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-09-01T16:58:01.267Z",
+        "namespace_hint": "realme",
+        "project_hint": "re588bl1",
+        "project_id": 4091,
+        "project_path": "realme/re588bl1"
+      },
+      "revision": "852f0a607e396d76cbf0d58cc5a8890fd9df9bab",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re588bl1/-/tree/852f0a607e396d76cbf0d58cc5a8890fd9df9bab"
+    },
+    {
+      "item_id": "realme/re588bl1@qssi-user-13-TP1A.220905.001-1696911889642-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1696911889642-release-keys--IN",
+        "commit": "59eccde4797650e9bfd9bd642bd802a888e3621f",
+        "committed_date": "2023-12-04T20:10:40.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-09-01T16:58:01.267Z",
+        "namespace_hint": "realme",
+        "project_hint": "re588bl1",
+        "project_id": 4091,
+        "project_path": "realme/re588bl1"
+      },
+      "revision": "59eccde4797650e9bfd9bd642bd802a888e3621f",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re588bl1/-/tree/59eccde4797650e9bfd9bd642bd802a888e3621f"
+    },
+    {
+      "item_id": "realme/re588bl1@qssi-user-14-UKQ1.230924.001-1721711813063-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1721711813063-release-keys--IN",
+        "commit": "0bb46a3af7b3179fad911f14c6a722e8628761a9",
+        "committed_date": "2024-09-01T19:42:25.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-09-01T16:58:01.267Z",
+        "namespace_hint": "realme",
+        "project_hint": "re588bl1",
+        "project_id": 4091,
+        "project_path": "realme/re588bl1"
+      },
+      "revision": "0bb46a3af7b3179fad911f14c6a722e8628761a9",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re588bl1/-/tree/0bb46a3af7b3179fad911f14c6a722e8628761a9"
+    },
+    {
+      "item_id": "realme/re588dl1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-S.b0a00e-1-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-S.b0a00e-1-release-keys--IN",
+        "commit": "846c437d18ea7e5a1728a934cb27511792efca97",
+        "committed_date": "2022-10-24T17:42:33.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-10-24T14:38:03.569Z",
+        "namespace_hint": "realme",
+        "project_hint": "re588dl1",
+        "project_id": 2487,
+        "project_path": "realme/re588dl1"
+      },
+      "revision": "846c437d18ea7e5a1728a934cb27511792efca97",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re588dl1/-/tree/846c437d18ea7e5a1728a934cb27511792efca97"
+    },
+    {
+      "item_id": "realme/re58a0l1@sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1670208027854-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1670208027854-release-keys--IN",
+        "commit": "5a01aff1d1b993e4c36f799d1396c4b78a7ae7ae",
+        "committed_date": "2023-04-21T15:43:17.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-04-21T12:53:26.903Z",
+        "namespace_hint": "realme",
+        "project_hint": "re58a0l1",
+        "project_id": 4011,
+        "project_path": "realme/re58a0l1"
+      },
+      "revision": "5a01aff1d1b993e4c36f799d1396c4b78a7ae7ae",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re58a0l1/-/tree/5a01aff1d1b993e4c36f799d1396c4b78a7ae7ae"
+    },
+    {
+      "item_id": "realme/re58a0l1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1670179432258-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1670179432258-release-keys--IN",
+        "commit": "4a141bf3756525723c5cd77317e8a0c3cf698706",
+        "committed_date": "2022-12-29T12:10:01.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-21T12:53:26.903Z",
+        "namespace_hint": "realme",
+        "project_hint": "re58a0l1",
+        "project_id": 4011,
+        "project_path": "realme/re58a0l1"
+      },
+      "revision": "4a141bf3756525723c5cd77317e8a0c3cf698706",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re58a0l1/-/tree/4a141bf3756525723c5cd77317e8a0c3cf698706"
+    },
+    {
+      "item_id": "realme/re58a0l1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1680259588115-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1680259588115-release-keys--IN",
+        "commit": "b6194fb70d14f190b242a908b91fcc37de588fae",
+        "committed_date": "2023-04-21T13:50:07.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-21T12:53:26.903Z",
+        "namespace_hint": "realme",
+        "project_hint": "re58a0l1",
+        "project_id": 4011,
+        "project_path": "realme/re58a0l1"
+      },
+      "revision": "b6194fb70d14f190b242a908b91fcc37de588fae",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re58a0l1/-/tree/b6194fb70d14f190b242a908b91fcc37de588fae"
+    },
+    {
+      "item_id": "realme/re58a5l1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1691489582635-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1691489582635-release-keys--IN",
+        "commit": "dcc59780d930179c1eb44e58375c63b7bb525285",
+        "committed_date": "2023-08-26T01:26:55.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-09-04T23:17:43.930Z",
+        "namespace_hint": "realme",
+        "project_hint": "re58a5l1",
+        "project_id": 4414,
+        "project_path": "realme/re58a5l1"
+      },
+      "revision": "dcc59780d930179c1eb44e58375c63b7bb525285",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re58a5l1/-/tree/dcc59780d930179c1eb44e58375c63b7bb525285"
+    },
+    {
+      "item_id": "realme/re58a5l1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1701833575510-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1701833575510-release-keys--IN",
+        "commit": "200f448147d58b0c958ff662ca2e246e0c86372d",
+        "committed_date": "2024-02-14T13:48:30.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-09-04T23:17:43.930Z",
+        "namespace_hint": "realme",
+        "project_hint": "re58a5l1",
+        "project_id": 4414,
+        "project_path": "realme/re58a5l1"
+      },
+      "revision": "200f448147d58b0c958ff662ca2e246e0c86372d",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re58a5l1/-/tree/200f448147d58b0c958ff662ca2e246e0c86372d"
+    },
+    {
+      "item_id": "realme/re58a5l1@sys_mssi_64_cn_armv82-user-14-UKQ1.230924.001-1705483182779-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-14-UKQ1.230924.001-1705483182779-release-keys--IN",
+        "commit": "19c4508bc54cd08cc8c9f9d5aa5729855e83183c",
+        "committed_date": "2024-02-19T16:33:32.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-09-04T23:17:43.930Z",
+        "namespace_hint": "realme",
+        "project_hint": "re58a5l1",
+        "project_id": 4414,
+        "project_path": "realme/re58a5l1"
+      },
+      "revision": "19c4508bc54cd08cc8c9f9d5aa5729855e83183c",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re58a5l1/-/tree/19c4508bc54cd08cc8c9f9d5aa5729855e83183c"
+    },
+    {
+      "item_id": "realme/re58a5l1@sys_mssi_64_cn_armv82-user-15-AP3A.240617.008-1761034421651-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-15-AP3A.240617.008-1761034421651-release-keys--IN",
+        "commit": "94b7bb99325ec42fe617e9f44338d3f80cd7d726",
+        "committed_date": "2026-09-05T01:58:11.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-09-04T23:17:43.930Z",
+        "namespace_hint": "realme",
+        "project_hint": "re58a5l1",
+        "project_id": 4414,
+        "project_path": "realme/re58a5l1"
+      },
+      "revision": "94b7bb99325ec42fe617e9f44338d3f80cd7d726",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re58a5l1/-/tree/94b7bb99325ec42fe617e9f44338d3f80cd7d726"
+    },
+    {
+      "item_id": "realme/re58b2l1@qssi-user-12-RKQ1.211119.001-S.202209161126-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-RKQ1.211119.001-S.202209161126-release-keys--IN",
+        "commit": "0e6446dd169c75e1ea97a192b4b7bcc93fccfe79",
+        "committed_date": "2022-11-15T20:14:14.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-02-05T11:24:58.353Z",
+        "namespace_hint": "realme",
+        "project_hint": "re58b2l1",
+        "project_id": 2470,
+        "project_path": "realme/re58b2l1"
+      },
+      "revision": "0e6446dd169c75e1ea97a192b4b7bcc93fccfe79",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re58b2l1/-/tree/0e6446dd169c75e1ea97a192b4b7bcc93fccfe79"
+    },
+    {
+      "item_id": "realme/re58b2l1@qssi-user-13-TP1A.220905.001-1673407054945-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1673407054945-release-keys--IN",
+        "commit": "f010ab9a7a31ef448ed46b8864bf07847b6fd361",
+        "committed_date": "2023-02-05T14:13:15.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-02-05T11:24:58.353Z",
+        "namespace_hint": "realme",
+        "project_hint": "re58b2l1",
+        "project_id": 2470,
+        "project_path": "realme/re58b2l1"
+      },
+      "revision": "f010ab9a7a31ef448ed46b8864bf07847b6fd361",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re58b2l1/-/tree/f010ab9a7a31ef448ed46b8864bf07847b6fd361"
+    },
+    {
+      "item_id": "realme/re58b2l1@qssi-user-13-TP1A.220905.001-S.202209060841-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-S.202209060841-release-keys--IN",
+        "commit": "73bc3e9f45ad221d2a7683a3f6777fa00e482a7a",
+        "committed_date": "2022-10-08T13:34:21.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-02-05T11:24:58.353Z",
+        "namespace_hint": "realme",
+        "project_hint": "re58b2l1",
+        "project_id": 2470,
+        "project_path": "realme/re58b2l1"
+      },
+      "revision": "73bc3e9f45ad221d2a7683a3f6777fa00e482a7a",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re58b2l1/-/tree/73bc3e9f45ad221d2a7683a3f6777fa00e482a7a"
+    },
+    {
+      "item_id": "realme/re58b6l1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1687096740770-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1687096740770-release-keys--IN",
+        "commit": "553e4c6e6b380694c67bd809342f9c48f9d282dc",
+        "committed_date": "2023-07-23T11:46:52.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-08-31T14:33:24.310Z",
+        "namespace_hint": "realme",
+        "project_hint": "re58b6l1",
+        "project_id": 4365,
+        "project_path": "realme/re58b6l1"
+      },
+      "revision": "553e4c6e6b380694c67bd809342f9c48f9d282dc",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re58b6l1/-/tree/553e4c6e6b380694c67bd809342f9c48f9d282dc"
+    },
+    {
+      "item_id": "realme/re58b6l1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1694223451477-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1694223451477-release-keys--IN",
+        "commit": "a27b0203f9d2407c6211e9cfdb2ba63aa58b378b",
+        "committed_date": "2023-10-01T12:03:38.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-08-31T14:33:24.310Z",
+        "namespace_hint": "realme",
+        "project_hint": "re58b6l1",
+        "project_id": 4365,
+        "project_path": "realme/re58b6l1"
+      },
+      "revision": "a27b0203f9d2407c6211e9cfdb2ba63aa58b378b",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re58b6l1/-/tree/a27b0203f9d2407c6211e9cfdb2ba63aa58b378b"
+    },
+    {
+      "item_id": "realme/re58b6l1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1703208405687-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1703208405687-release-keys--IN",
+        "commit": "61c0bd8cefbc9832751374a3ab1a2edfddde64dc",
+        "committed_date": "2024-02-20T17:13:28.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-08-31T14:33:24.310Z",
+        "namespace_hint": "realme",
+        "project_hint": "re58b6l1",
+        "project_id": 4365,
+        "project_path": "realme/re58b6l1"
+      },
+      "revision": "61c0bd8cefbc9832751374a3ab1a2edfddde64dc",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re58b6l1/-/tree/61c0bd8cefbc9832751374a3ab1a2edfddde64dc"
+    },
+    {
+      "item_id": "realme/re58b6l1@sys_mssi_64_cn_armv82-user-14-UKQ1.230924.001-1706265261923-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-14-UKQ1.230924.001-1706265261923-release-keys--IN",
+        "commit": "bc2592886fb4c57b818bcd63f123d7da7b16ffcf",
+        "committed_date": "2024-03-22T18:51:25.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-08-31T14:33:24.310Z",
+        "namespace_hint": "realme",
+        "project_hint": "re58b6l1",
+        "project_id": 4365,
+        "project_path": "realme/re58b6l1"
+      },
+      "revision": "bc2592886fb4c57b818bcd63f123d7da7b16ffcf",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re58b6l1/-/tree/bc2592886fb4c57b818bcd63f123d7da7b16ffcf"
+    },
+    {
+      "item_id": "realme/re58b6l1@sys_mssi_64_cn_armv82-user-14-UKQ1.230924.001-1709725231079-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-14-UKQ1.230924.001-1709725231079-release-keys--IN",
+        "commit": "3c1bf6ee72003414cd9f521edf5de7ed9474482b",
+        "committed_date": "2024-03-27T15:55:14.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-08-31T14:33:24.310Z",
+        "namespace_hint": "realme",
+        "project_hint": "re58b6l1",
+        "project_id": 4365,
+        "project_path": "realme/re58b6l1"
+      },
+      "revision": "3c1bf6ee72003414cd9f521edf5de7ed9474482b",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re58b6l1/-/tree/3c1bf6ee72003414cd9f521edf5de7ed9474482b"
+    },
+    {
+      "item_id": "realme/re58b6l1@sys_mssi_64_cn_armv82-user-14-UKQ1.230924.001-1722249470570-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-14-UKQ1.230924.001-1722249470570-release-keys--IN",
+        "commit": "24bb6f4033f9e74143a32c0078eba4f430ec60ee",
+        "committed_date": "2024-10-03T10:47:13.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-08-31T14:33:24.310Z",
+        "namespace_hint": "realme",
+        "project_hint": "re58b6l1",
+        "project_id": 4365,
+        "project_path": "realme/re58b6l1"
+      },
+      "revision": "24bb6f4033f9e74143a32c0078eba4f430ec60ee",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re58b6l1/-/tree/24bb6f4033f9e74143a32c0078eba4f430ec60ee"
+    },
+    {
+      "item_id": "realme/re58b6l1@sys_mssi_64_cn_armv82-user-14-UP1A.230620.001-1700830599066-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-14-UP1A.230620.001-1700830599066-release-keys--IN",
+        "commit": "6ba19f6eb48dbcc00b516e5b4a75fdc7bc0497d2",
+        "committed_date": "2023-11-29T19:17:25.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-08-31T14:33:24.310Z",
+        "namespace_hint": "realme",
+        "project_hint": "re58b6l1",
+        "project_id": 4365,
+        "project_path": "realme/re58b6l1"
+      },
+      "revision": "6ba19f6eb48dbcc00b516e5b4a75fdc7bc0497d2",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re58b6l1/-/tree/6ba19f6eb48dbcc00b516e5b4a75fdc7bc0497d2"
+    },
+    {
+      "item_id": "realme/re58b6l1@sys_mssi_64_cn_armv82-user-15-AP3A.240617.008-1742658079927-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-15-AP3A.240617.008-1742658079927-release-keys--IN",
+        "commit": "1ebc8a61e6ba6f2418c8612762662f15daf1e1d3",
+        "committed_date": "2025-05-06T03:08:06.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-08-31T14:33:24.310Z",
+        "namespace_hint": "realme",
+        "project_hint": "re58b6l1",
+        "project_id": 4365,
+        "project_path": "realme/re58b6l1"
+      },
+      "revision": "1ebc8a61e6ba6f2418c8612762662f15daf1e1d3",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re58b6l1/-/tree/1ebc8a61e6ba6f2418c8612762662f15daf1e1d3"
+    },
+    {
+      "item_id": "realme/re58b6l1@sys_mssi_64_cn_armv82-user-15-AP3A.240617.008-1747207623321-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-15-AP3A.240617.008-1747207623321-release-keys--IN",
+        "commit": "66701459dfc788c82e11d3c534da08e213de61f4",
+        "committed_date": "2025-08-31T17:15:55.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-08-31T14:33:24.310Z",
+        "namespace_hint": "realme",
+        "project_hint": "re58b6l1",
+        "project_id": 4365,
+        "project_path": "realme/re58b6l1"
+      },
+      "revision": "66701459dfc788c82e11d3c534da08e213de61f4",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re58b6l1/-/tree/66701459dfc788c82e11d3c534da08e213de61f4"
+    },
+    {
+      "item_id": "realme/re58b8l1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1691143236912-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1691143236912-release-keys--IN",
+        "commit": "2a6540f74625551709c0911b5dfa5056b4daba14",
+        "committed_date": "2023-08-18T22:01:09.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-27T13:55:32.354Z",
+        "namespace_hint": "realme",
+        "project_hint": "re58b8l1",
+        "project_id": 4408,
+        "project_path": "realme/re58b8l1"
+      },
+      "revision": "2a6540f74625551709c0911b5dfa5056b4daba14",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re58b8l1/-/tree/2a6540f74625551709c0911b5dfa5056b4daba14"
+    },
+    {
+      "item_id": "realme/re58b8l1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1694223451477-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1694223451477-release-keys--IN",
+        "commit": "daa52b6cbdf3f7bec6921d38ad8db2a70825efdf",
+        "committed_date": "2023-10-01T12:30:58.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-27T13:55:32.354Z",
+        "namespace_hint": "realme",
+        "project_hint": "re58b8l1",
+        "project_id": 4408,
+        "project_path": "realme/re58b8l1"
+      },
+      "revision": "daa52b6cbdf3f7bec6921d38ad8db2a70825efdf",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re58b8l1/-/tree/daa52b6cbdf3f7bec6921d38ad8db2a70825efdf"
+    },
+    {
+      "item_id": "realme/re58b8l1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1703208405687-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1703208405687-release-keys--IN",
+        "commit": "c062dbc1807cd54182a54de68740bfe816655410",
+        "committed_date": "2024-02-20T16:44:23.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-27T13:55:32.354Z",
+        "namespace_hint": "realme",
+        "project_hint": "re58b8l1",
+        "project_id": 4408,
+        "project_path": "realme/re58b8l1"
+      },
+      "revision": "c062dbc1807cd54182a54de68740bfe816655410",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re58b8l1/-/tree/c062dbc1807cd54182a54de68740bfe816655410"
+    },
+    {
+      "item_id": "realme/re58b8l1@sys_mssi_64_cn_armv82-user-14-UKQ1.230924.001-1709724584099-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-14-UKQ1.230924.001-1709724584099-release-keys--IN",
+        "commit": "2e83319935507122977e36252d50a1137d0c4b70",
+        "committed_date": "2024-03-27T16:38:33.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-27T13:55:32.354Z",
+        "namespace_hint": "realme",
+        "project_hint": "re58b8l1",
+        "project_id": 4408,
+        "project_path": "realme/re58b8l1"
+      },
+      "revision": "2e83319935507122977e36252d50a1137d0c4b70",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re58b8l1/-/tree/2e83319935507122977e36252d50a1137d0c4b70"
+    },
+    {
+      "item_id": "realme/re58b8l1@sys_mssi_64_cn_armv82-user-14-UP1A.230620.001-1700830756820-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-14-UP1A.230620.001-1700830756820-release-keys--IN",
+        "commit": "19d4d350f23ac6d2ccf6c8fe715fa1c47b585fda",
+        "committed_date": "2023-11-29T18:47:25.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-27T13:55:32.354Z",
+        "namespace_hint": "realme",
+        "project_hint": "re58b8l1",
+        "project_id": 4408,
+        "project_path": "realme/re58b8l1"
+      },
+      "revision": "19d4d350f23ac6d2ccf6c8fe715fa1c47b585fda",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re58b8l1/-/tree/19d4d350f23ac6d2ccf6c8fe715fa1c47b585fda"
+    },
+    {
+      "item_id": "realme/re58c2@ums9230_hulk_Natv-user-13-TP1A.220624.014-464-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ums9230_hulk_Natv-user-13-TP1A.220624.014-464-release-keys",
+        "commit": "a890a8dcd7a620ad267c786a556e885dd9bd174d",
+        "committed_date": "2023-09-02T20:06:23.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-09-02T17:02:11.736Z",
+        "namespace_hint": "realme",
+        "project_hint": "re58c2",
+        "project_id": 4418,
+        "project_path": "realme/re58c2"
+      },
+      "revision": "a890a8dcd7a620ad267c786a556e885dd9bd174d",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re58c2/-/tree/a890a8dcd7a620ad267c786a556e885dd9bd174d"
+    },
+    {
+      "item_id": "realme/re58d1l1@qssi-user-14-UKQ1.230924.001-1705483727052-release-keys--MEA",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1705483727052-release-keys--MEA",
+        "commit": "a07f4d14f7faab99082d6e3a2f4b7a19750588d6",
+        "committed_date": "2024-02-25T18:41:21.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-02-25T15:31:37.210Z",
+        "namespace_hint": "realme",
+        "project_hint": "re58d1l1",
+        "project_id": 4741,
+        "project_path": "realme/re58d1l1"
+      },
+      "revision": "a07f4d14f7faab99082d6e3a2f4b7a19750588d6",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re58d1l1/-/tree/a07f4d14f7faab99082d6e3a2f4b7a19750588d6"
+    },
+    {
+      "item_id": "realme/re5c33@qssi-user-13-TP1A.220905.001-1693825106413-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1693825106413-release-keys--ALLNET",
+        "commit": "09d77d3df9e88ab9b3c3c50c7ac89d91737fc7de",
+        "committed_date": "2023-09-14T10:47:37.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-09-14T07:38:42.602Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5c33",
+        "project_id": 4429,
+        "project_path": "realme/re5c33"
+      },
+      "revision": "09d77d3df9e88ab9b3c3c50c7ac89d91737fc7de",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5c33/-/tree/09d77d3df9e88ab9b3c3c50c7ac89d91737fc7de"
+    },
+    {
+      "item_id": "realme/re5c39l1@qssi-user-14-UP1A.231005.007-1712716355670-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UP1A.231005.007-1712716355670-release-keys--ALLNET",
+        "commit": "bbf163ec8e48e9bdd679ae669116682eca86cf4e",
+        "committed_date": "2024-04-11T14:48:26.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-05-16T13:19:44.059Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5c39l1",
+        "project_id": 5233,
+        "project_path": "realme/re5c39l1"
+      },
+      "revision": "bbf163ec8e48e9bdd679ae669116682eca86cf4e",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5c39l1/-/tree/bbf163ec8e48e9bdd679ae669116682eca86cf4e"
+    },
+    {
+      "item_id": "realme/re5c39l1@qssi-user-14-UP1A.231005.007-1714124892230-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UP1A.231005.007-1714124892230-release-keys--ALLNET",
+        "commit": "1dc8171e905f9c89f49ec7f032f098e75f25784f",
+        "committed_date": "2024-05-16T15:50:40.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-05-16T13:19:44.059Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5c39l1",
+        "project_id": 5233,
+        "project_path": "realme/re5c39l1"
+      },
+      "revision": "1dc8171e905f9c89f49ec7f032f098e75f25784f",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5c39l1/-/tree/1dc8171e905f9c89f49ec7f032f098e75f25784f"
+    },
+    {
+      "item_id": "realme/re5c3b@qssi-user-14-UKQ1.230924.001-1708602677613-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1708602677613-release-keys--ALLNET",
+        "commit": "fc9ef590c2335fa4ef0a7cbf24cb61464537c61a",
+        "committed_date": "2024-06-08T22:15:26.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-28T07:14:36.390Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5c3b",
+        "project_id": 5230,
+        "project_path": "realme/re5c3b"
+      },
+      "revision": "fc9ef590c2335fa4ef0a7cbf24cb61464537c61a",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5c3b/-/tree/fc9ef590c2335fa4ef0a7cbf24cb61464537c61a"
+    },
+    {
+      "item_id": "realme/re5c3b@qssi-user-14-UKQ1.230924.001-1711644439857-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1711644439857-release-keys--ALLNET",
+        "commit": "fd554f98b6af92ce6c383248d19735f44e73f383",
+        "committed_date": "2024-04-10T15:31:45.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-28T07:14:36.390Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5c3b",
+        "project_id": 5230,
+        "project_path": "realme/re5c3b"
+      },
+      "revision": "fd554f98b6af92ce6c383248d19735f44e73f383",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5c3b/-/tree/fd554f98b6af92ce6c383248d19735f44e73f383"
+    },
+    {
+      "item_id": "realme/re5c3b@qssi-user-14-UKQ1.230924.001-1712506218015-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1712506218015-release-keys--ALLNET",
+        "commit": "c8d3576d82e43abafebc25fa5b542c733b4f7633",
+        "committed_date": "2024-04-12T20:39:51.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-28T07:14:36.390Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5c3b",
+        "project_id": 5230,
+        "project_path": "realme/re5c3b"
+      },
+      "revision": "c8d3576d82e43abafebc25fa5b542c733b4f7633",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5c3b/-/tree/c8d3576d82e43abafebc25fa5b542c733b4f7633"
+    },
+    {
+      "item_id": "realme/re5c3b@qssi-user-14-UKQ1.230924.001-1713186819741-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1713186819741-release-keys--ALLNET",
+        "commit": "9df71e54a25a9dda8f531c4b8169c7e9f20c7515",
+        "committed_date": "2024-04-24T17:07:53.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-28T07:14:36.390Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5c3b",
+        "project_id": 5230,
+        "project_path": "realme/re5c3b"
+      },
+      "revision": "9df71e54a25a9dda8f531c4b8169c7e9f20c7515",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5c3b/-/tree/9df71e54a25a9dda8f531c4b8169c7e9f20c7515"
+    },
+    {
+      "item_id": "realme/re5c3b@qssi-user-14-UKQ1.230924.001-1720531927912-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1720531927912-release-keys--ALLNET",
+        "commit": "30c350f601fa6f2b448c2a4de830ce8c948fabb1",
+        "committed_date": "2024-08-05T12:16:16.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-28T07:14:36.390Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5c3b",
+        "project_id": 5230,
+        "project_path": "realme/re5c3b"
+      },
+      "revision": "30c350f601fa6f2b448c2a4de830ce8c948fabb1",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5c3b/-/tree/30c350f601fa6f2b448c2a4de830ce8c948fabb1"
+    },
+    {
+      "item_id": "realme/re5c3b@qssi-user-14-UKQ1.230924.001-1728477417045-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1728477417045-release-keys--ALLNET",
+        "commit": "205b37d7ac4bed3883636be0efe358ac549e42a2",
+        "committed_date": "2024-11-28T09:55:07.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-11-28T07:14:36.390Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5c3b",
+        "project_id": 5230,
+        "project_path": "realme/re5c3b"
+      },
+      "revision": "205b37d7ac4bed3883636be0efe358ac549e42a2",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5c3b/-/tree/205b37d7ac4bed3883636be0efe358ac549e42a2"
+    },
+    {
+      "item_id": "realme/re5c46l1@qssi-user-14-UP1A.231005.007-1715010135425-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UP1A.231005.007-1715010135425-release-keys--ALLNET",
+        "commit": "1d01e62e08b3ddc8e3e00693fe664e59be418724",
+        "committed_date": "2024-05-22T01:11:36.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-05-21T22:01:04.791Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5c46l1",
+        "project_id": 5280,
+        "project_path": "realme/re5c46l1"
+      },
+      "revision": "1d01e62e08b3ddc8e3e00693fe664e59be418724",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5c46l1/-/tree/1d01e62e08b3ddc8e3e00693fe664e59be418724"
+    },
+    {
+      "item_id": "realme/re5c6cl1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1691510331480-release-keys--TW",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1691510331480-release-keys--TW",
+        "commit": "9f65613cd5dcf994018a312b5dc963a173a23731",
+        "committed_date": "2023-09-03T01:28:13.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-09-02T22:23:18.184Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5c6cl1",
+        "project_id": 4420,
+        "project_path": "realme/re5c6cl1"
+      },
+      "revision": "9f65613cd5dcf994018a312b5dc963a173a23731",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5c6cl1/-/tree/9f65613cd5dcf994018a312b5dc963a173a23731"
+    },
+    {
+      "item_id": "realme/re5c6el1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1689078763232-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1689078763232-release-keys--IN",
+        "commit": "97ad7a5a2dfb21f10bbfeb3898ef25bce28e1d4d",
+        "committed_date": "2023-08-01T10:47:13.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-26T06:41:11.949Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5c6el1",
+        "project_id": 4380,
+        "project_path": "realme/re5c6el1"
+      },
+      "revision": "97ad7a5a2dfb21f10bbfeb3898ef25bce28e1d4d",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5c6el1/-/tree/97ad7a5a2dfb21f10bbfeb3898ef25bce28e1d4d"
+    },
+    {
+      "item_id": "realme/re5c6el1@sys_mssi_64_cn_armv82-user-14-UKQ1.231108.001-1744010101464-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-14-UKQ1.231108.001-1744010101464-release-keys--IN",
+        "commit": "cf4c7f76a65ae767f46ac2599d7d3365649cf58c",
+        "committed_date": "2025-05-26T09:27:06.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-05-26T06:41:11.949Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5c6el1",
+        "project_id": 4380,
+        "project_path": "realme/re5c6el1"
+      },
+      "revision": "cf4c7f76a65ae767f46ac2599d7d3365649cf58c",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5c6el1/-/tree/cf4c7f76a65ae767f46ac2599d7d3365649cf58c"
+    },
+    {
+      "item_id": "realme/re5c7cl1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1701250710136-release-keys--PH",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1701250710136-release-keys--PH",
+        "commit": "6b1174c4b19c2a9437d6962fc672dc375228aa5e",
+        "committed_date": "2024-07-19T09:30:33.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-07-19T06:24:42.867Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5c7cl1",
+        "project_id": 5344,
+        "project_path": "realme/re5c7cl1"
+      },
+      "revision": "6b1174c4b19c2a9437d6962fc672dc375228aa5e",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5c7cl1/-/tree/6b1174c4b19c2a9437d6962fc672dc375228aa5e"
+    },
+    {
+      "item_id": "realme/re5c82l1@qssi-user-14-UKQ1.230924.001-1704561006729-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1704561006729-release-keys--IN",
+        "commit": "af11b6e1bc3d2387318f514de165cd3345fa63c6",
+        "committed_date": "2024-02-01T07:34:25.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-12T06:59:18.747Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5c82l1",
+        "project_id": 4729,
+        "project_path": "realme/re5c82l1"
+      },
+      "revision": "af11b6e1bc3d2387318f514de165cd3345fa63c6",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5c82l1/-/tree/af11b6e1bc3d2387318f514de165cd3345fa63c6"
+    },
+    {
+      "item_id": "realme/re5c82l1@qssi-user-14-UKQ1.230924.001-1708602833257-release-keys--EUEX",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1708602833257-release-keys--EUEX",
+        "commit": "4b8d4213c82089bc9d1998f4d0f67d84d535d2c2",
+        "committed_date": "2024-11-28T10:40:32.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-12T06:59:18.747Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5c82l1",
+        "project_id": 4729,
+        "project_path": "realme/re5c82l1"
+      },
+      "revision": "4b8d4213c82089bc9d1998f4d0f67d84d535d2c2",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5c82l1/-/tree/4b8d4213c82089bc9d1998f4d0f67d84d535d2c2"
+    },
+    {
+      "item_id": "realme/re5c82l1@qssi-user-14-UKQ1.230924.001-1708602833257-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1708602833257-release-keys--IN",
+        "commit": "2d1d086c5d9116d0ac97d900326fc4fe36d020fa",
+        "committed_date": "2024-06-08T21:43:50.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-12T06:59:18.747Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5c82l1",
+        "project_id": 4729,
+        "project_path": "realme/re5c82l1"
+      },
+      "revision": "2d1d086c5d9116d0ac97d900326fc4fe36d020fa",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5c82l1/-/tree/2d1d086c5d9116d0ac97d900326fc4fe36d020fa"
+    },
+    {
+      "item_id": "realme/re5c82l1@qssi-user-14-UKQ1.230924.001-1712506347505-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1712506347505-release-keys--IN",
+        "commit": "0ba0cdc3b9c694d3d85386186cd7822b4e44b626",
+        "committed_date": "2024-08-22T19:26:09.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-12T06:59:18.747Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5c82l1",
+        "project_id": 4729,
+        "project_path": "realme/re5c82l1"
+      },
+      "revision": "0ba0cdc3b9c694d3d85386186cd7822b4e44b626",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5c82l1/-/tree/0ba0cdc3b9c694d3d85386186cd7822b4e44b626"
+    },
+    {
+      "item_id": "realme/re5c82l1@qssi-user-14-UKQ1.230924.001-1715270474741-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1715270474741-release-keys--IN",
+        "commit": "98a9897a3b909acbf5048907a2148263e4a7a04e",
+        "committed_date": "2024-11-28T18:19:24.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-12T06:59:18.747Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5c82l1",
+        "project_id": 4729,
+        "project_path": "realme/re5c82l1"
+      },
+      "revision": "98a9897a3b909acbf5048907a2148263e4a7a04e",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5c82l1/-/tree/98a9897a3b909acbf5048907a2148263e4a7a04e"
+    },
+    {
+      "item_id": "realme/re5c82l1@qssi-user-14-UKQ1.230924.001-1724560850401-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1724560850401-release-keys--IN",
+        "commit": "2223388191a01f439ee5758ab2ad46696291472e",
+        "committed_date": "2024-12-23T16:27:15.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-12T06:59:18.747Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5c82l1",
+        "project_id": 4729,
+        "project_path": "realme/re5c82l1"
+      },
+      "revision": "2223388191a01f439ee5758ab2ad46696291472e",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5c82l1/-/tree/2223388191a01f439ee5758ab2ad46696291472e"
+    },
+    {
+      "item_id": "realme/re5c82l1@qssi-user-14-UKQ1.230924.001-1727604102488-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1727604102488-release-keys--IN",
+        "commit": "49964e651ac1987901fedc92ff75ec5000e34bba",
+        "committed_date": "2024-11-28T08:04:13.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-12T06:59:18.747Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5c82l1",
+        "project_id": 4729,
+        "project_path": "realme/re5c82l1"
+      },
+      "revision": "49964e651ac1987901fedc92ff75ec5000e34bba",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5c82l1/-/tree/49964e651ac1987901fedc92ff75ec5000e34bba"
+    },
+    {
+      "item_id": "realme/re5c82l1@qssi-user-15-AP3A.240617.008-1736872484407-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-15-AP3A.240617.008-1736872484407-release-keys--IN",
+        "commit": "9103ae8428547579b9ad532a22337f8895112cd6",
+        "committed_date": "2025-02-12T09:41:59.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-02-12T06:59:18.747Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5c82l1",
+        "project_id": 4729,
+        "project_path": "realme/re5c82l1"
+      },
+      "revision": "9103ae8428547579b9ad532a22337f8895112cd6",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5c82l1/-/tree/9103ae8428547579b9ad532a22337f8895112cd6"
+    },
+    {
+      "item_id": "realme/re5c82l1@qssi-user-VanillaIceCream-AP31.240322.016-1714903818523-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-VanillaIceCream-AP31.240322.016-1714903818523-release-keys--IN",
+        "commit": "d7af122ccc79088c23d7c97777ffa60133c860de",
+        "committed_date": "2024-05-14T18:50:09.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-12T06:59:18.747Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5c82l1",
+        "project_id": 4729,
+        "project_path": "realme/re5c82l1"
+      },
+      "revision": "d7af122ccc79088c23d7c97777ffa60133c860de",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5c82l1/-/tree/d7af122ccc79088c23d7c97777ffa60133c860de"
+    },
+    {
+      "item_id": "realme/re5c84l1@qssi-user-14-UKQ1.230924.001-1704561363811-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1704561363811-release-keys--IN",
+        "commit": "f81593852505a415736d9e718e20973057741d0e",
+        "committed_date": "2024-01-31T15:54:06.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-01-31T12:46:38.737Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5c84l1",
+        "project_id": 4727,
+        "project_path": "realme/re5c84l1"
+      },
+      "revision": "f81593852505a415736d9e718e20973057741d0e",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5c84l1/-/tree/f81593852505a415736d9e718e20973057741d0e"
+    },
+    {
+      "item_id": "realme/re5c91l1@qssi-user-14-UKQ1.230917.001-U.R4T2.202503211536-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230917.001-U.R4T2.202503211536-release-keys",
+        "commit": "173175646b0463fc9d4404fcefd981098194ae82",
+        "committed_date": "2025-04-09T10:14:11.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-04-09T07:09:12.255Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5c91l1",
+        "project_id": 5618,
+        "project_path": "realme/re5c91l1"
+      },
+      "revision": "173175646b0463fc9d4404fcefd981098194ae82",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5c91l1/-/tree/173175646b0463fc9d4404fcefd981098194ae82"
+    },
+    {
+      "item_id": "realme/re5c9al1@sys_mssi_64_cn_armv82-user-14-UP1A.231005.007-1716433695066-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-14-UP1A.231005.007-1716433695066-release-keys--IN",
+        "commit": "98b8fae5aaa477ea676f7189dbf982af93f4f067",
+        "committed_date": "2024-06-05T20:35:09.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-06-05T17:29:28.953Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5c9al1",
+        "project_id": 5300,
+        "project_path": "realme/re5c9al1"
+      },
+      "revision": "98b8fae5aaa477ea676f7189dbf982af93f4f067",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5c9al1/-/tree/98b8fae5aaa477ea676f7189dbf982af93f4f067"
+    },
+    {
+      "item_id": "realme/re5ca6l1@qssi_64-user-15-AP3A.240617.008-1735139678814-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-15-AP3A.240617.008-1735139678814-release-keys--IN",
+        "commit": "83691ca879206e9a5989ff28ae0c110e01fa66a6",
+        "committed_date": "2025-01-01T15:28:43.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-01-01T12:20:47.667Z",
+        "namespace_hint": "realme",
+        "project_hint": "re5ca6l1",
+        "project_id": 5532,
+        "project_path": "realme/re5ca6l1"
+      },
+      "revision": "83691ca879206e9a5989ff28ae0c110e01fa66a6",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re5ca6l1/-/tree/83691ca879206e9a5989ff28ae0c110e01fa66a6"
+    },
+    {
+      "item_id": "realme/re6018l1@qssi-user-15-AP3A.240617.008-1730305457825-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-15-AP3A.240617.008-1730305457825-release-keys--ALLNET",
+        "commit": "4b73c01b2de042124e39dbccdbfbb3f697be4603",
+        "committed_date": "2024-11-13T00:00:34.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-24T19:09:34.854Z",
+        "namespace_hint": "realme",
+        "project_hint": "re6018l1",
+        "project_id": 5493,
+        "project_path": "realme/re6018l1"
+      },
+      "revision": "4b73c01b2de042124e39dbccdbfbb3f697be4603",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re6018l1/-/tree/4b73c01b2de042124e39dbccdbfbb3f697be4603"
+    },
+    {
+      "item_id": "realme/re6018l1@qssi-user-15-AP3A.240617.008-1731662400665-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-15-AP3A.240617.008-1731662400665-release-keys--ALLNET",
+        "commit": "55c87d09f462855c001f747e631fd9cd128ab9eb",
+        "committed_date": "2024-12-01T15:30:14.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-24T19:09:34.854Z",
+        "namespace_hint": "realme",
+        "project_hint": "re6018l1",
+        "project_id": 5493,
+        "project_path": "realme/re6018l1"
+      },
+      "revision": "55c87d09f462855c001f747e631fd9cd128ab9eb",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re6018l1/-/tree/55c87d09f462855c001f747e631fd9cd128ab9eb"
+    },
+    {
+      "item_id": "realme/re6018l1@qssi-user-15-AP3A.240617.008-1734072560407-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-15-AP3A.240617.008-1734072560407-release-keys--ALLNET",
+        "commit": "8428a5c9bc64669beae3a5b6511f8106d3cfe77b",
+        "committed_date": "2024-12-24T21:49:08.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-12-24T19:09:34.854Z",
+        "namespace_hint": "realme",
+        "project_hint": "re6018l1",
+        "project_id": 5493,
+        "project_path": "realme/re6018l1"
+      },
+      "revision": "8428a5c9bc64669beae3a5b6511f8106d3cfe77b",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re6018l1/-/tree/8428a5c9bc64669beae3a5b6511f8106d3cfe77b"
+    },
+    {
+      "item_id": "realme/re602cl1@qssi-user-15-AP3A.240617.008-1743775865736-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-15-AP3A.240617.008-1743775865736-release-keys--ALLNET",
+        "commit": "e50ac1a12a69ebd84f8216e9ecaa51aa00d5f9fb",
+        "committed_date": "2025-04-20T16:24:20.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-07-19T10:13:13.184Z",
+        "namespace_hint": "realme",
+        "project_hint": "re602cl1",
+        "project_id": 5626,
+        "project_path": "realme/re602cl1"
+      },
+      "revision": "e50ac1a12a69ebd84f8216e9ecaa51aa00d5f9fb",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re602cl1/-/tree/e50ac1a12a69ebd84f8216e9ecaa51aa00d5f9fb"
+    },
+    {
+      "item_id": "realme/re602cl1@qssi-user-15-AP3A.240617.008-1757338470155-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-15-AP3A.240617.008-1757338470155-release-keys--ALLNET",
+        "commit": "daed235d6d499aa3f7180c259633e74fe9e8aabd",
+        "committed_date": "2026-07-19T12:52:52.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-07-19T10:13:13.184Z",
+        "namespace_hint": "realme",
+        "project_hint": "re602cl1",
+        "project_id": 5626,
+        "project_path": "realme/re602cl1"
+      },
+      "revision": "daed235d6d499aa3f7180c259633e74fe9e8aabd",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re602cl1/-/tree/daed235d6d499aa3f7180c259633e74fe9e8aabd"
+    },
+    {
+      "item_id": "realme/re605fl1@qssi_64-user-15-AP3A.240617.008-1733902276572-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-15-AP3A.240617.008-1733902276572-release-keys--IN",
+        "commit": "8faaadfb85be6e5d53d94eb715e3407f3bb74688",
+        "committed_date": "2025-01-01T18:31:53.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-01-01T15:23:39.549Z",
+        "namespace_hint": "realme",
+        "project_hint": "re605fl1",
+        "project_id": 5533,
+        "project_path": "realme/re605fl1"
+      },
+      "revision": "8faaadfb85be6e5d53d94eb715e3407f3bb74688",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re605fl1/-/tree/8faaadfb85be6e5d53d94eb715e3407f3bb74688"
+    },
+    {
+      "item_id": "realme/re606fl1@qssi_64-user-14-UP1A.231005.007-1716224336199-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-14-UP1A.231005.007-1716224336199-release-keys--IN",
+        "commit": "d4ef774fa751a3c14819a5ee03fbb10f9f1439c2",
+        "committed_date": "2024-05-26T15:07:24.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-01T13:30:01.878Z",
+        "namespace_hint": "realme",
+        "project_hint": "re606fl1",
+        "project_id": 5287,
+        "project_path": "realme/re606fl1"
+      },
+      "revision": "d4ef774fa751a3c14819a5ee03fbb10f9f1439c2",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re606fl1/-/tree/d4ef774fa751a3c14819a5ee03fbb10f9f1439c2"
+    },
+    {
+      "item_id": "realme/re606fl1@qssi_64-user-14-UP1A.231005.007-1718122606118-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-14-UP1A.231005.007-1718122606118-release-keys--IN",
+        "commit": "35c19b96d05d5e3e048c17e8a1a6cc242808cd13",
+        "committed_date": "2024-06-18T21:56:45.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-01T13:30:01.878Z",
+        "namespace_hint": "realme",
+        "project_hint": "re606fl1",
+        "project_id": 5287,
+        "project_path": "realme/re606fl1"
+      },
+      "revision": "35c19b96d05d5e3e048c17e8a1a6cc242808cd13",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re606fl1/-/tree/35c19b96d05d5e3e048c17e8a1a6cc242808cd13"
+    },
+    {
+      "item_id": "realme/re606fl1@qssi_64-user-15-AP3A.240617.008-1735139744780-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-15-AP3A.240617.008-1735139744780-release-keys--IN",
+        "commit": "d6a17fb38df3ba7066682bb05442697ca722e4ac",
+        "committed_date": "2025-01-01T16:11:26.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-01-01T13:30:01.878Z",
+        "namespace_hint": "realme",
+        "project_hint": "re606fl1",
+        "project_id": 5287,
+        "project_path": "realme/re606fl1"
+      },
+      "revision": "d6a17fb38df3ba7066682bb05442697ca722e4ac",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re606fl1/-/tree/d6a17fb38df3ba7066682bb05442697ca722e4ac"
+    },
+    {
+      "item_id": "realme/re6079l1@qssi_64-user-15-AP3A.240617.008-1735056454533-release-keys--RU",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-15-AP3A.240617.008-1735056454533-release-keys--RU",
+        "commit": "3656b2ddeae17691a382bdf719d9d98ed4379c76",
+        "committed_date": "2025-01-28T04:17:17.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-01-20T22:15:54.394Z",
+        "namespace_hint": "realme",
+        "project_hint": "re6079l1",
+        "project_id": 5554,
+        "project_path": "realme/re6079l1"
+      },
+      "revision": "3656b2ddeae17691a382bdf719d9d98ed4379c76",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re6079l1/-/tree/3656b2ddeae17691a382bdf719d9d98ed4379c76"
+    },
+    {
+      "item_id": "realme/re6079l1@qssi_64-user-15-AP3A.240617.008-1739290962432-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-15-AP3A.240617.008-1739290962432-release-keys--IN",
+        "commit": "77458a8aef38fa157471bf9e62aab8fea49ba3fa",
+        "committed_date": "2025-03-02T00:29:24.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-01-20T22:15:54.394Z",
+        "namespace_hint": "realme",
+        "project_hint": "re6079l1",
+        "project_id": 5554,
+        "project_path": "realme/re6079l1"
+      },
+      "revision": "77458a8aef38fa157471bf9e62aab8fea49ba3fa",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re6079l1/-/tree/77458a8aef38fa157471bf9e62aab8fea49ba3fa"
+    },
+    {
+      "item_id": "realme/re6079l1@qssi_64-user-15-AP3A.240617.008-1752907758017-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-15-AP3A.240617.008-1752907758017-release-keys--IN",
+        "commit": "a0762df15c9a633c47bcda7039faad1083108d93",
+        "committed_date": "2026-01-21T00:54:21.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-01-20T22:15:54.394Z",
+        "namespace_hint": "realme",
+        "project_hint": "re6079l1",
+        "project_id": 5554,
+        "project_path": "realme/re6079l1"
+      },
+      "revision": "a0762df15c9a633c47bcda7039faad1083108d93",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re6079l1/-/tree/a0762df15c9a633c47bcda7039faad1083108d93"
+    },
+    {
+      "item_id": "realme/re608el1@qssi_64-user-15-AP3A.240617.008-1757919988244-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-15-AP3A.240617.008-1757919988244-release-keys--IN",
+        "commit": "d5dc06d90262f246dee023ea8ca9fb386614dd3e",
+        "committed_date": "2026-01-21T01:54:37.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-01-20T22:44:30.172Z",
+        "namespace_hint": "realme",
+        "project_hint": "re608el1",
+        "project_id": 5738,
+        "project_path": "realme/re608el1"
+      },
+      "revision": "d5dc06d90262f246dee023ea8ca9fb386614dd3e",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re608el1/-/tree/d5dc06d90262f246dee023ea8ca9fb386614dd3e"
+    },
+    {
+      "item_id": "realme/re60c8l1@qssi_64-user-16-BP2A.250605.015-1775558843758-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-16-BP2A.250605.015-1775558843758-release-keys--IN",
+        "commit": "09e6af3e8a2a61e8c7707fd8211f77f5da606577",
+        "committed_date": "2026-06-30T01:49:45.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-06-29T23:13:13.232Z",
+        "namespace_hint": "realme",
+        "project_hint": "re60c8l1",
+        "project_id": 5783,
+        "project_path": "realme/re60c8l1"
+      },
+      "revision": "09e6af3e8a2a61e8c7707fd8211f77f5da606577",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re60c8l1/-/tree/09e6af3e8a2a61e8c7707fd8211f77f5da606577"
+    },
+    {
+      "item_id": "realme/re60c8l1@qssi_64-user-17-CP21.260306.017-1777403732697-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-17-CP21.260306.017-1777403732697-release-keys--IN",
+        "commit": "ae94616a2da8cd4bbb8457abb46e8ae48cc1bc52",
+        "committed_date": "2026-06-30T01:11:15.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-06-29T23:13:13.232Z",
+        "namespace_hint": "realme",
+        "project_hint": "re60c8l1",
+        "project_id": 5783,
+        "project_path": "realme/re60c8l1"
+      },
+      "revision": "ae94616a2da8cd4bbb8457abb46e8ae48cc1bc52",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re60c8l1/-/tree/ae94616a2da8cd4bbb8457abb46e8ae48cc1bc52"
+    },
+    {
+      "item_id": "realme/re879al1@qssi-user-11-RKQ1.201105.002-1627626453322-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201105.002-1627626453322-release-keys",
+        "commit": "f6cc1ac88dc3a34be56e9498ffb6bc3ed1382c9d",
+        "committed_date": "2022-02-23T20:45:50.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-10-11T05:59:03.812Z",
+        "namespace_hint": "realme",
+        "project_hint": "re879al1",
+        "project_id": 65,
+        "project_path": "realme/re879al1"
+      },
+      "revision": "f6cc1ac88dc3a34be56e9498ffb6bc3ed1382c9d",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re879al1/-/tree/f6cc1ac88dc3a34be56e9498ffb6bc3ed1382c9d"
+    },
+    {
+      "item_id": "realme/re879al1@qssi-user-13-TP1A.220905.001-1668519794102-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1668519794102-release-keys--IN",
+        "commit": "0b43fcda6ca114c3af90b84512912bd5700280a7",
+        "committed_date": "2022-11-21T19:00:04.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-10-11T05:59:03.812Z",
+        "namespace_hint": "realme",
+        "project_hint": "re879al1",
+        "project_id": 65,
+        "project_path": "realme/re879al1"
+      },
+      "revision": "0b43fcda6ca114c3af90b84512912bd5700280a7",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re879al1/-/tree/0b43fcda6ca114c3af90b84512912bd5700280a7"
+    },
+    {
+      "item_id": "realme/re879al1@qssi-user-13-TP1A.220905.001-1693477494904-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1693477494904-release-keys--IN",
+        "commit": "02398583412f15a742bf71ea7dfa3d648e7c4812",
+        "committed_date": "2023-10-11T08:45:58.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-10-11T05:59:03.812Z",
+        "namespace_hint": "realme",
+        "project_hint": "re879al1",
+        "project_id": 65,
+        "project_path": "realme/re879al1"
+      },
+      "revision": "02398583412f15a742bf71ea7dfa3d648e7c4812",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re879al1/-/tree/02398583412f15a742bf71ea7dfa3d648e7c4812"
+    },
+    {
+      "item_id": "realme/re879el1@sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1660098435915-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1660098435915-release-keys--IN",
+        "commit": "13752369bfaeece5e17e15fbcc731d26a3bcad63",
+        "committed_date": "2022-12-29T22:29:37.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-02-14T11:31:18.916Z",
+        "namespace_hint": "realme",
+        "project_hint": "re879el1",
+        "project_id": 2473,
+        "project_path": "realme/re879el1"
+      },
+      "revision": "13752369bfaeece5e17e15fbcc731d26a3bcad63",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re879el1/-/tree/13752369bfaeece5e17e15fbcc731d26a3bcad63"
+    },
+    {
+      "item_id": "realme/re879el1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1669364374358-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1669364374358-release-keys--IN",
+        "commit": "8c95c1fa1d4353d66d8322182f3aa0ed44987ff5",
+        "committed_date": "2022-12-10T17:09:16.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-02-14T11:31:18.916Z",
+        "namespace_hint": "realme",
+        "project_hint": "re879el1",
+        "project_id": 2473,
+        "project_path": "realme/re879el1"
+      },
+      "revision": "8c95c1fa1d4353d66d8322182f3aa0ed44987ff5",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re879el1/-/tree/8c95c1fa1d4353d66d8322182f3aa0ed44987ff5"
+    },
+    {
+      "item_id": "realme/re879el1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1695180677075-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1695180677075-release-keys--IN",
+        "commit": "5511cff1f55159788b52d422ea397184f766d102",
+        "committed_date": "2023-10-06T13:56:45.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-02-14T11:31:18.916Z",
+        "namespace_hint": "realme",
+        "project_hint": "re879el1",
+        "project_id": 2473,
+        "project_path": "realme/re879el1"
+      },
+      "revision": "5511cff1f55159788b52d422ea397184f766d102",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re879el1/-/tree/5511cff1f55159788b52d422ea397184f766d102"
+    },
+    {
+      "item_id": "realme/re879el1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1705389919836-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1705389919836-release-keys--IN",
+        "commit": "6a8eae32bff5baa022868bc2e7b936d31c06bbfa",
+        "committed_date": "2024-02-14T14:16:20.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-02-14T11:31:18.916Z",
+        "namespace_hint": "realme",
+        "project_hint": "re879el1",
+        "project_id": 2473,
+        "project_path": "realme/re879el1"
+      },
+      "revision": "6a8eae32bff5baa022868bc2e7b936d31c06bbfa",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re879el1/-/tree/6a8eae32bff5baa022868bc2e7b936d31c06bbfa"
+    },
+    {
+      "item_id": "realme/re879el1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-S.ad2626-1-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-S.ad2626-1-release-keys--IN",
+        "commit": "a7a8398e2f42eca3cf4589c3f839f5591d4aca14",
+        "committed_date": "2022-10-11T17:14:18.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-02-14T11:31:18.916Z",
+        "namespace_hint": "realme",
+        "project_hint": "re879el1",
+        "project_id": 2473,
+        "project_path": "realme/re879el1"
+      },
+      "revision": "a7a8398e2f42eca3cf4589c3f839f5591d4aca14",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re879el1/-/tree/a7a8398e2f42eca3cf4589c3f839f5591d4aca14"
+    },
+    {
+      "item_id": "realme/re8ddcl1@sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1667019607824-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1667019607824-release-keys--IN",
+        "commit": "b86c9c1fb79dc4ba4670b33bf563abff2876e82c",
+        "committed_date": "2022-11-09T16:39:17.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-08-09T05:16:53.197Z",
+        "namespace_hint": "realme",
+        "project_hint": "re8ddcl1",
+        "project_id": 2969,
+        "project_path": "realme/re8ddcl1"
+      },
+      "revision": "b86c9c1fb79dc4ba4670b33bf563abff2876e82c",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re8ddcl1/-/tree/b86c9c1fb79dc4ba4670b33bf563abff2876e82c"
+    },
+    {
+      "item_id": "realme/re8ddcl1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1671278984672-release-keys--ID",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1671278984672-release-keys--ID",
+        "commit": "8e20379df52c62b581c9e9fb66d406f07803dd74",
+        "committed_date": "2023-02-17T11:30:04.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-08-09T05:16:53.197Z",
+        "namespace_hint": "realme",
+        "project_hint": "re8ddcl1",
+        "project_id": 2969,
+        "project_path": "realme/re8ddcl1"
+      },
+      "revision": "8e20379df52c62b581c9e9fb66d406f07803dd74",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re8ddcl1/-/tree/8e20379df52c62b581c9e9fb66d406f07803dd74"
+    },
+    {
+      "item_id": "realme/re8ddcl1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1681186936973-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1681186936973-release-keys--IN",
+        "commit": "3099c28ba5b178bfb89e4374512591d6339a47b5",
+        "committed_date": "2023-06-19T16:22:04.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-08-09T05:16:53.197Z",
+        "namespace_hint": "realme",
+        "project_hint": "re8ddcl1",
+        "project_id": 2969,
+        "project_path": "realme/re8ddcl1"
+      },
+      "revision": "3099c28ba5b178bfb89e4374512591d6339a47b5",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re8ddcl1/-/tree/3099c28ba5b178bfb89e4374512591d6339a47b5"
+    },
+    {
+      "item_id": "realme/re8ddcl1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1704766504051-release-keys--ID",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1704766504051-release-keys--ID",
+        "commit": "632cae6e814adb0863df4f8be7ae18d2cc09eec3",
+        "committed_date": "2024-02-07T16:17:06.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-08-09T05:16:53.197Z",
+        "namespace_hint": "realme",
+        "project_hint": "re8ddcl1",
+        "project_id": 2969,
+        "project_path": "realme/re8ddcl1"
+      },
+      "revision": "632cae6e814adb0863df4f8be7ae18d2cc09eec3",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re8ddcl1/-/tree/632cae6e814adb0863df4f8be7ae18d2cc09eec3"
+    },
+    {
+      "item_id": "realme/re8ddcl1@sys_mssi_64_cn_armv82-user-14-UKQ1.230924.001-1719915855476-release-keys--ID",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-14-UKQ1.230924.001-1719915855476-release-keys--ID",
+        "commit": "69798023c9c26fde00ecf41f4d0e5a9bc61e9a23",
+        "committed_date": "2024-08-09T07:56:39.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-08-09T05:16:53.197Z",
+        "namespace_hint": "realme",
+        "project_hint": "re8ddcl1",
+        "project_id": 2969,
+        "project_path": "realme/re8ddcl1"
+      },
+      "revision": "69798023c9c26fde00ecf41f4d0e5a9bc61e9a23",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/re8ddcl1/-/tree/69798023c9c26fde00ecf41f4d0e5a9bc61e9a23"
+    },
+    {
+      "item_id": "realme/red8acl1@qssi-user-12-TP1A.220310.002-S.202204250340-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-TP1A.220310.002-S.202204250340-release-keys--IN",
+        "commit": "e4001e7fde02fe4555d0b50be643e61d35381061",
+        "committed_date": "2022-05-11T15:01:18.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T13:50:49.895Z",
+        "namespace_hint": "realme",
+        "project_hint": "red8acl1",
+        "project_id": 958,
+        "project_path": "realme/red8acl1"
+      },
+      "revision": "e4001e7fde02fe4555d0b50be643e61d35381061",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/red8acl1/-/tree/e4001e7fde02fe4555d0b50be643e61d35381061"
+    },
+    {
+      "item_id": "realme/red8acl1@qssi-user-13-SKQ1.220519.001-S.202209192224-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-SKQ1.220519.001-S.202209192224-release-keys--IN",
+        "commit": "68116cd680d4b0886c3201ff5f963cd686d19cc9",
+        "committed_date": "2022-09-25T02:37:50.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T13:50:49.895Z",
+        "namespace_hint": "realme",
+        "project_hint": "red8acl1",
+        "project_id": 958,
+        "project_path": "realme/red8acl1"
+      },
+      "revision": "68116cd680d4b0886c3201ff5f963cd686d19cc9",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/red8acl1/-/tree/68116cd680d4b0886c3201ff5f963cd686d19cc9"
+    },
+    {
+      "item_id": "realme/red8acl1@qssi-user-13-SKQ1.220519.001-S.b0b271-1277-158b7-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-SKQ1.220519.001-S.b0b271-1277-158b7-release-keys--IN",
+        "commit": "e90c9ec2cc3f9509781354ee5a7b5a2c3e85df38",
+        "committed_date": "2022-11-16T08:03:39.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T13:50:49.895Z",
+        "namespace_hint": "realme",
+        "project_hint": "red8acl1",
+        "project_id": 958,
+        "project_path": "realme/red8acl1"
+      },
+      "revision": "e90c9ec2cc3f9509781354ee5a7b5a2c3e85df38",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/red8acl1/-/tree/e90c9ec2cc3f9509781354ee5a7b5a2c3e85df38"
+    },
+    {
+      "item_id": "realme/red8acl1@qssi-user-13-TP1A.220310.002-S.202204250340-release-keys--EUEX",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220310.002-S.202204250340-release-keys--EUEX",
+        "commit": "5f28b51e34aca1dc614c9eba1162be9d43476ea9",
+        "committed_date": "2022-05-11T20:18:40.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T13:50:49.895Z",
+        "namespace_hint": "realme",
+        "project_hint": "red8acl1",
+        "project_id": 958,
+        "project_path": "realme/red8acl1"
+      },
+      "revision": "5f28b51e34aca1dc614c9eba1162be9d43476ea9",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/red8acl1/-/tree/5f28b51e34aca1dc614c9eba1162be9d43476ea9"
+    },
+    {
+      "item_id": "realme/red8acl1@qssi-user-13-TP1A.220905.001-1684751614468-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1684751614468-release-keys--IN",
+        "commit": "5670b92a478033069664a451cae8756c2e54eebc",
+        "committed_date": "2023-07-22T20:52:18.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T13:50:49.895Z",
+        "namespace_hint": "realme",
+        "project_hint": "red8acl1",
+        "project_id": 958,
+        "project_path": "realme/red8acl1"
+      },
+      "revision": "5670b92a478033069664a451cae8756c2e54eebc",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/red8acl1/-/tree/5670b92a478033069664a451cae8756c2e54eebc"
+    },
+    {
+      "item_id": "realme/red8acl1@qssi-user-14-UKQ1.230924.001-1703251726550-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1703251726550-release-keys--IN",
+        "commit": "fa1f9a30aa428e735b005561702a478ca3a7563e",
+        "committed_date": "2024-01-10T13:39:42.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T13:50:49.895Z",
+        "namespace_hint": "realme",
+        "project_hint": "red8acl1",
+        "project_id": 958,
+        "project_path": "realme/red8acl1"
+      },
+      "revision": "fa1f9a30aa428e735b005561702a478ca3a7563e",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/red8acl1/-/tree/fa1f9a30aa428e735b005561702a478ca3a7563e"
+    },
+    {
+      "item_id": "realme/red8acl1@qssi-user-14-UKQ1.230924.001-1723120993221-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1723120993221-release-keys--IN",
+        "commit": "e083cf915f06260978518fccd9ff514dbcdef6db",
+        "committed_date": "2024-10-20T20:20:50.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T13:50:49.895Z",
+        "namespace_hint": "realme",
+        "project_hint": "red8acl1",
+        "project_id": 958,
+        "project_path": "realme/red8acl1"
+      },
+      "revision": "e083cf915f06260978518fccd9ff514dbcdef6db",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/red8acl1/-/tree/e083cf915f06260978518fccd9ff514dbcdef6db"
+    },
+    {
+      "item_id": "realme/red8acl1@qssi-user-14-UKQ1.230924.001-1727422290855-release-keys--EUEX",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1727422290855-release-keys--EUEX",
+        "commit": "87a88cca5ca3d27411a54f90822324abe616d8e3",
+        "committed_date": "2024-12-30T16:34:28.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-12-30T13:50:49.895Z",
+        "namespace_hint": "realme",
+        "project_hint": "red8acl1",
+        "project_id": 958,
+        "project_path": "realme/red8acl1"
+      },
+      "revision": "87a88cca5ca3d27411a54f90822324abe616d8e3",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/red8acl1/-/tree/87a88cca5ca3d27411a54f90822324abe616d8e3"
+    },
+    {
+      "item_id": "realme/red8acl1@qssi-user-UpsideDownCake-UP1A.230309.002-1682234139892-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-UpsideDownCake-UP1A.230309.002-1682234139892-release-keys--IN",
+        "commit": "bac46bd7080ebbc1e637f5d7039790c276d2e656",
+        "committed_date": "2023-05-11T11:59:52.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T13:50:49.895Z",
+        "namespace_hint": "realme",
+        "project_hint": "red8acl1",
+        "project_id": 958,
+        "project_path": "realme/red8acl1"
+      },
+      "revision": "bac46bd7080ebbc1e637f5d7039790c276d2e656",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/red8acl1/-/tree/bac46bd7080ebbc1e637f5d7039790c276d2e656"
+    },
+    {
+      "item_id": "realme/red8bel1@sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1654171525471-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1654171525471-release-keys--IN",
+        "commit": "13dd6b0308e507ce1686c0dd8107d5a63354c443",
+        "committed_date": "2022-07-28T18:41:25.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-19T20:10:16.226Z",
+        "namespace_hint": "realme",
+        "project_hint": "red8bel1",
+        "project_id": 2377,
+        "project_path": "realme/red8bel1"
+      },
+      "revision": "13dd6b0308e507ce1686c0dd8107d5a63354c443",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/red8bel1/-/tree/13dd6b0308e507ce1686c0dd8107d5a63354c443"
+    },
+    {
+      "item_id": "realme/red8bel1@sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1661357406223-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1661357406223-release-keys--IN",
+        "commit": "eb22c4b63f77f9cfca1ea42cb2e93121a884cb23",
+        "committed_date": "2023-12-22T11:42:10.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-19T20:10:16.226Z",
+        "namespace_hint": "realme",
+        "project_hint": "red8bel1",
+        "project_id": 2377,
+        "project_path": "realme/red8bel1"
+      },
+      "revision": "eb22c4b63f77f9cfca1ea42cb2e93121a884cb23",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/red8bel1/-/tree/eb22c4b63f77f9cfca1ea42cb2e93121a884cb23"
+    },
+    {
+      "item_id": "realme/red8bel1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-S.a6150e-1-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-S.a6150e-1-release-keys--IN",
+        "commit": "b23b223baa6781d6764f8e0bcdb2c631e29fb1f3",
+        "committed_date": "2022-09-22T15:59:45.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-19T20:10:16.226Z",
+        "namespace_hint": "realme",
+        "project_hint": "red8bel1",
+        "project_id": 2377,
+        "project_path": "realme/red8bel1"
+      },
+      "revision": "b23b223baa6781d6764f8e0bcdb2c631e29fb1f3",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/red8bel1/-/tree/b23b223baa6781d6764f8e0bcdb2c631e29fb1f3"
+    },
+    {
+      "item_id": "realme/red8bel1@sys_mssi_64_cn_armv82-user-14-UKQ1.230924.001-1709277956847-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-14-UKQ1.230924.001-1709277956847-release-keys--IN",
+        "commit": "e91574c352b7201d29b74b322471187c3cd59617",
+        "committed_date": "2024-04-01T11:46:01.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-19T20:10:16.226Z",
+        "namespace_hint": "realme",
+        "project_hint": "red8bel1",
+        "project_id": 2377,
+        "project_path": "realme/red8bel1"
+      },
+      "revision": "e91574c352b7201d29b74b322471187c3cd59617",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/red8bel1/-/tree/e91574c352b7201d29b74b322471187c3cd59617"
+    },
+    {
+      "item_id": "realme/red8bel1@sys_mssi_64_cn_armv82-user-14-UKQ1.230924.001-1711079005598-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-14-UKQ1.230924.001-1711079005598-release-keys--IN",
+        "commit": "913c87fc8e1089f0436146addf29b96e9a928a4e",
+        "committed_date": "2024-04-30T15:52:00.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-19T20:10:16.226Z",
+        "namespace_hint": "realme",
+        "project_hint": "red8bel1",
+        "project_id": 2377,
+        "project_path": "realme/red8bel1"
+      },
+      "revision": "913c87fc8e1089f0436146addf29b96e9a928a4e",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/red8bel1/-/tree/913c87fc8e1089f0436146addf29b96e9a928a4e"
+    },
+    {
+      "item_id": "realme/red8bel1@sys_mssi_64_cn_armv82-user-14-UKQ1.230924.001-1730265381418-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-14-UKQ1.230924.001-1730265381418-release-keys--IN",
+        "commit": "60346154900c908f07e502d067acc08f836bea44",
+        "committed_date": "2024-11-19T22:52:06.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-11-19T20:10:16.226Z",
+        "namespace_hint": "realme",
+        "project_hint": "red8bel1",
+        "project_id": 2377,
+        "project_path": "realme/red8bel1"
+      },
+      "revision": "60346154900c908f07e502d067acc08f836bea44",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/red8bel1/-/tree/60346154900c908f07e502d067acc08f836bea44"
+    },
+    {
+      "item_id": "realme/red8c1l1@qssi-user-11-RKQ1.211019.001-1654712278328-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.211019.001-1654712278328-release-keys",
+        "commit": "d92667436d6cff8ee2019634334391cc9d6ffed1",
+        "committed_date": "2022-11-29T16:25:05.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-05-14T12:13:55.495Z",
+        "namespace_hint": "realme",
+        "project_hint": "red8c1l1",
+        "project_id": 3966,
+        "project_path": "realme/red8c1l1"
+      },
+      "revision": "d92667436d6cff8ee2019634334391cc9d6ffed1",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/red8c1l1/-/tree/d92667436d6cff8ee2019634334391cc9d6ffed1"
+    },
+    {
+      "item_id": "realme/red8c1l1@qssi-user-13-TP1A.220905.001-1678794327573-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1678794327573-release-keys--IN",
+        "commit": "76e3391b1843514de8da467612ac697e1a337da9",
+        "committed_date": "2023-05-14T15:02:54.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-05-14T12:13:55.495Z",
+        "namespace_hint": "realme",
+        "project_hint": "red8c1l1",
+        "project_id": 3966,
+        "project_path": "realme/red8c1l1"
+      },
+      "revision": "76e3391b1843514de8da467612ac697e1a337da9",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/red8c1l1/-/tree/76e3391b1843514de8da467612ac697e1a337da9"
+    },
+    {
+      "item_id": "realme/rmp2102@full_oppo8786-user-11-RP1A.200720.011-448-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo8786-user-11-RP1A.200720.011-448-release-keys",
+        "commit": "e8bbfcfc9ac117a335bc0ade730fe240868767bd",
+        "committed_date": "2022-04-03T15:46:59.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T18:02:14.698Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmp2102",
+        "project_id": 745,
+        "project_path": "realme/rmp2102"
+      },
+      "revision": "e8bbfcfc9ac117a335bc0ade730fe240868767bd",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmp2102/-/tree/e8bbfcfc9ac117a335bc0ade730fe240868767bd"
+    },
+    {
+      "item_id": "realme/rmx1821@full_oppo6771-user-10-QP1A.190711.020-08805472cb0b87b3-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6771-user-10-QP1A.190711.020-08805472cb0b87b3-release-keys",
+        "commit": "20ede45fc03b60ed23a72f0b1cf92d17cabcbe9a",
+        "committed_date": "2021-06-14T22:26:11.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T14:41:25.302Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1821",
+        "project_id": 1831,
+        "project_path": "realme/rmx1821"
+      },
+      "revision": "20ede45fc03b60ed23a72f0b1cf92d17cabcbe9a",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1821/-/tree/20ede45fc03b60ed23a72f0b1cf92d17cabcbe9a"
+    },
+    {
+      "item_id": "realme/rmx1823@full_oppo6771_18601-user-9-PPR1.180610.011-eng.root.20200113.215852-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6771_18601-user-9-PPR1.180610.011-eng.root.20200113.215852-release-keys",
+        "commit": "ab7a29789284ec79d13263531dce4d1bf3ab11b0",
+        "committed_date": "2020-03-18T11:34:48.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T15:37:32.985Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1823",
+        "project_id": 1891,
+        "project_path": "realme/rmx1823"
+      },
+      "revision": "ab7a29789284ec79d13263531dce4d1bf3ab11b0",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1823/-/tree/ab7a29789284ec79d13263531dce4d1bf3ab11b0"
+    },
+    {
+      "item_id": "realme/rmx1823@full_oppo6771_18601-user-9-PPR1.180610.011-eng.root.20200314.140254-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6771_18601-user-9-PPR1.180610.011-eng.root.20200314.140254-release-keys",
+        "commit": "9abca2c6c914bd243d5a8e5f479084d7f9738fb7",
+        "committed_date": "2020-03-24T18:25:52.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T15:37:32.985Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1823",
+        "project_id": 1891,
+        "project_path": "realme/rmx1823"
+      },
+      "revision": "9abca2c6c914bd243d5a8e5f479084d7f9738fb7",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1823/-/tree/9abca2c6c914bd243d5a8e5f479084d7f9738fb7"
+    },
+    {
+      "item_id": "realme/rmx1831@full_oppo6771_18611-user-8.1.0-O11019-1556007842-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6771_18611-user-8.1.0-O11019-1556007842-release-keys",
+        "commit": "689093365f10055ad1c6074049dc09163d88be11",
+        "committed_date": "2022-03-10T12:09:49.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T04:20:20.067Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1831",
+        "project_id": 895,
+        "project_path": "realme/rmx1831"
+      },
+      "revision": "689093365f10055ad1c6074049dc09163d88be11",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1831/-/tree/689093365f10055ad1c6074049dc09163d88be11"
+    },
+    {
+      "item_id": "realme/rmx1851@qssi-user-11-RKQ1.201217.002-1623376276806-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201217.002-1623376276806-release-keys",
+        "commit": "5afde84da172ab0a7d3e4c43922a0464c401e1cc",
+        "committed_date": "2022-07-20T16:11:08.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-07-20T13:19:44.282Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1851",
+        "project_id": 2168,
+        "project_path": "realme/rmx1851"
+      },
+      "revision": "5afde84da172ab0a7d3e4c43922a0464c401e1cc",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1851/-/tree/5afde84da172ab0a7d3e4c43922a0464c401e1cc"
+    },
+    {
+      "item_id": "realme/rmx1851@qssi-user-11-RKQ1.201217.002-1626947099367-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201217.002-1626947099367-release-keys",
+        "commit": "60cd55b610a236e0795f6313fe57fabb81386d1b",
+        "committed_date": "2022-02-15T16:50:54.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-07-20T13:19:44.282Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1851",
+        "project_id": 2168,
+        "project_path": "realme/rmx1851"
+      },
+      "revision": "60cd55b610a236e0795f6313fe57fabb81386d1b",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1851/-/tree/60cd55b610a236e0795f6313fe57fabb81386d1b"
+    },
+    {
+      "item_id": "realme/rmx1851@sdm710-user-10-QKQ1.190918.001--release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm710-user-10-QKQ1.190918.001--release-keys",
+        "commit": "96077f6cefd3f3a8d940e454f24c38593abbc41f",
+        "committed_date": "2021-04-24T13:47:57.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-07-20T13:19:44.282Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1851",
+        "project_id": 2168,
+        "project_path": "realme/rmx1851"
+      },
+      "revision": "96077f6cefd3f3a8d940e454f24c38593abbc41f",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1851/-/tree/96077f6cefd3f3a8d940e454f24c38593abbc41f"
+    },
+    {
+      "item_id": "realme/rmx1851cn@sdm710-user-9-PKQ1.190101.001-eng.root.20190905.231905-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm710-user-9-PKQ1.190101.001-eng.root.20190905.231905-release-keys",
+        "commit": "0987b580d2ed4bdfaee62d06990bf4f81ad0b44e",
+        "committed_date": "2019-10-23T20:23:05.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T15:28:20.272Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1851cn",
+        "project_id": 1884,
+        "project_path": "realme/rmx1851cn"
+      },
+      "revision": "0987b580d2ed4bdfaee62d06990bf4f81ad0b44e",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1851cn/-/tree/0987b580d2ed4bdfaee62d06990bf4f81ad0b44e"
+    },
+    {
+      "item_id": "realme/rmx1851cn@sdm710-user-9-PKQ1.190101.001-eng.root.20191017.075205-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm710-user-9-PKQ1.190101.001-eng.root.20191017.075205-release-keys",
+        "commit": "768ec9e75e44453d3326d7d954acc41712165d8a",
+        "committed_date": "2019-11-10T02:56:39.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T15:28:20.272Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1851cn",
+        "project_id": 1884,
+        "project_path": "realme/rmx1851cn"
+      },
+      "revision": "768ec9e75e44453d3326d7d954acc41712165d8a",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1851cn/-/tree/768ec9e75e44453d3326d7d954acc41712165d8a"
+    },
+    {
+      "item_id": "realme/rmx1901@sdm710-user-10-QKQ1.190918.001--release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm710-user-10-QKQ1.190918.001--release-keys",
+        "commit": "df8f81ae3421018af3caaf96f8c0ad9a528321ff",
+        "committed_date": "2021-04-22T10:51:08.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T13:19:08.371Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1901",
+        "project_id": 1783,
+        "project_path": "realme/rmx1901"
+      },
+      "revision": "df8f81ae3421018af3caaf96f8c0ad9a528321ff",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1901/-/tree/df8f81ae3421018af3caaf96f8c0ad9a528321ff"
+    },
+    {
+      "item_id": "realme/rmx1911@trinket-user-10-QKQ1.200209.002--release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "trinket-user-10-QKQ1.200209.002--release-keys",
+        "commit": "2c15f3e0106a5fb0d2a5fb46015eb90421873c3d",
+        "committed_date": "2021-05-25T12:03:18.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T01:56:58.180Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1911",
+        "project_id": 2317,
+        "project_path": "realme/rmx1911"
+      },
+      "revision": "2c15f3e0106a5fb0d2a5fb46015eb90421873c3d",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1911/-/tree/2c15f3e0106a5fb0d2a5fb46015eb90421873c3d"
+    },
+    {
+      "item_id": "realme/rmx1919@trinket-user-9-PKQ1.190616.001-eng.root.20200218.231356-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "trinket-user-9-PKQ1.190616.001-eng.root.20200218.231356-release-keys",
+        "commit": "dabf2885a33bb8521cd6106fb6a3a2588c541b4d",
+        "committed_date": "2020-03-18T11:44:46.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T12:46:38.358Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1919",
+        "project_id": 1758,
+        "project_path": "realme/rmx1919"
+      },
+      "revision": "dabf2885a33bb8521cd6106fb6a3a2588c541b4d",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1919/-/tree/dabf2885a33bb8521cd6106fb6a3a2588c541b4d"
+    },
+    {
+      "item_id": "realme/rmx1921@qssi-user-11-RKQ1.201217.002-1619368911282-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201217.002-1619368911282-release-keys",
+        "commit": "53839c1526b64a922a66604773bac601619f6b05",
+        "committed_date": "2021-10-05T09:37:19.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-08-30T09:16:09.522Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1921",
+        "project_id": 1954,
+        "project_path": "realme/rmx1921"
+      },
+      "revision": "53839c1526b64a922a66604773bac601619f6b05",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1921/-/tree/53839c1526b64a922a66604773bac601619f6b05"
+    },
+    {
+      "item_id": "realme/rmx1921@qssi-user-11-RKQ1.201217.002-1623376276806-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201217.002-1623376276806-release-keys",
+        "commit": "7122658577d62410cab2b4bed81a02be67a3d938",
+        "committed_date": "2022-08-30T12:08:06.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-08-30T09:16:09.522Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1921",
+        "project_id": 1954,
+        "project_path": "realme/rmx1921"
+      },
+      "revision": "7122658577d62410cab2b4bed81a02be67a3d938",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1921/-/tree/7122658577d62410cab2b4bed81a02be67a3d938"
+    },
+    {
+      "item_id": "realme/rmx1921@sdm710-user-10-QKQ1.190918.001--release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm710-user-10-QKQ1.190918.001--release-keys",
+        "commit": "2390c2430f7ec55e27925b65cd7a6ae9e0233222",
+        "committed_date": "2021-04-22T10:51:13.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-08-30T09:16:09.522Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1921",
+        "project_id": 1954,
+        "project_path": "realme/rmx1921"
+      },
+      "revision": "2390c2430f7ec55e27925b65cd7a6ae9e0233222",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1921/-/tree/2390c2430f7ec55e27925b65cd7a6ae9e0233222"
+    },
+    {
+      "item_id": "realme/rmx1927@trinket-user-9-PKQ1.190616.001-eng.root.20191129.230812-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "trinket-user-9-PKQ1.190616.001-eng.root.20191129.230812-release-keys",
+        "commit": "6d5dcbaf2445d724d952e44f8c41539afb0b3812",
+        "committed_date": "2019-12-05T05:16:36.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T23:22:48.206Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1927",
+        "project_id": 2201,
+        "project_path": "realme/rmx1927"
+      },
+      "revision": "6d5dcbaf2445d724d952e44f8c41539afb0b3812",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1927/-/tree/6d5dcbaf2445d724d952e44f8c41539afb0b3812"
+    },
+    {
+      "item_id": "realme/rmx1931@msmnile-user-10-QKQ1.191021.002-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msmnile-user-10-QKQ1.191021.002-release-keys",
+        "commit": "9629a6e93af7946c8afdbebd729e3152591c40d4",
+        "committed_date": "2020-03-08T10:06:33.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T06:39:01.239Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1931",
+        "project_id": 1522,
+        "project_path": "realme/rmx1931"
+      },
+      "revision": "9629a6e93af7946c8afdbebd729e3152591c40d4",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1931/-/tree/9629a6e93af7946c8afdbebd729e3152591c40d4"
+    },
+    {
+      "item_id": "realme/rmx1931@msmnile-user-9-PKQ1.190626.001-eng.root.20191031.123637-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msmnile-user-9-PKQ1.190626.001-eng.root.20191031.123637-release-keys",
+        "commit": "40cfc711b3b7587c5095e22dd57a51b8edc0aea7",
+        "committed_date": "2019-11-19T04:31:12.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T06:39:01.239Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1931",
+        "project_id": 1522,
+        "project_path": "realme/rmx1931"
+      },
+      "revision": "40cfc711b3b7587c5095e22dd57a51b8edc0aea7",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1931/-/tree/40cfc711b3b7587c5095e22dd57a51b8edc0aea7"
+    },
+    {
+      "item_id": "realme/rmx1931@msmnile-user-9-PKQ1.190626.001-eng.root.20191120.052459-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msmnile-user-9-PKQ1.190626.001-eng.root.20191120.052459-release-keys",
+        "commit": "f29586a3e97d5f2b84fd1d13760708752820a8dc",
+        "committed_date": "2019-11-29T04:14:25.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T06:39:01.239Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1931",
+        "project_id": 1522,
+        "project_path": "realme/rmx1931"
+      },
+      "revision": "f29586a3e97d5f2b84fd1d13760708752820a8dc",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1931/-/tree/f29586a3e97d5f2b84fd1d13760708752820a8dc"
+    },
+    {
+      "item_id": "realme/rmx1931@msmnile-user-9-PKQ1.190626.001-eng.root.20191225.111704-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msmnile-user-9-PKQ1.190626.001-eng.root.20191225.111704-release-keys",
+        "commit": "d767fca8c9ab76e02b9262d86b5ea2150fc7a50a",
+        "committed_date": "2020-01-04T09:04:08.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T06:39:01.239Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1931",
+        "project_id": 1522,
+        "project_path": "realme/rmx1931"
+      },
+      "revision": "d767fca8c9ab76e02b9262d86b5ea2150fc7a50a",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1931/-/tree/d767fca8c9ab76e02b9262d86b5ea2150fc7a50a"
+    },
+    {
+      "item_id": "realme/rmx1931@msmnile-user-9-PKQ1.190626.001-eng.root.20200116.220505-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msmnile-user-9-PKQ1.190626.001-eng.root.20200116.220505-release-keys",
+        "commit": "7ecf112e52c63f2497d5982c45d23de3aecada8a",
+        "committed_date": "2020-01-29T11:15:00.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T06:39:01.239Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1931",
+        "project_id": 1522,
+        "project_path": "realme/rmx1931"
+      },
+      "revision": "7ecf112e52c63f2497d5982c45d23de3aecada8a",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1931/-/tree/7ecf112e52c63f2497d5982c45d23de3aecada8a"
+    },
+    {
+      "item_id": "realme/rmx1931@msmnile-user-9-PKQ1.190626.001-eng.root.20200219.153736-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msmnile-user-9-PKQ1.190626.001-eng.root.20200219.153736-release-keys",
+        "commit": "0fa78880066435752fbf28c86c764116971abf14",
+        "committed_date": "2020-03-09T10:09:48.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T06:39:01.239Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1931",
+        "project_id": 1522,
+        "project_path": "realme/rmx1931"
+      },
+      "revision": "0fa78880066435752fbf28c86c764116971abf14",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1931/-/tree/0fa78880066435752fbf28c86c764116971abf14"
+    },
+    {
+      "item_id": "realme/rmx1931cn@msmnile-user-9-PKQ1.190626.001-eng.root.20191028.195007-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msmnile-user-9-PKQ1.190626.001-eng.root.20191028.195007-release-keys",
+        "commit": "e332d39b554bd47627a4785cb71c248be87c2c92",
+        "committed_date": "2019-11-04T04:13:44.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T06:52:12.086Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1931cn",
+        "project_id": 40,
+        "project_path": "realme/rmx1931cn"
+      },
+      "revision": "e332d39b554bd47627a4785cb71c248be87c2c92",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1931cn/-/tree/e332d39b554bd47627a4785cb71c248be87c2c92"
+    },
+    {
+      "item_id": "realme/rmx1931cn@msmnile-user-9-PKQ1.190626.001-eng.root.20191116.173956-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msmnile-user-9-PKQ1.190626.001-eng.root.20191116.173956-release-keys",
+        "commit": "5c061ea823988434be012dfa44227858caad6e7e",
+        "committed_date": "2019-11-29T04:25:19.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-14T06:52:12.086Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1931cn",
+        "project_id": 40,
+        "project_path": "realme/rmx1931cn"
+      },
+      "revision": "5c061ea823988434be012dfa44227858caad6e7e",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1931cn/-/tree/5c061ea823988434be012dfa44227858caad6e7e"
+    },
+    {
+      "item_id": "realme/rmx1931cn@msmnile-user-9-PKQ1.190626.001-eng.root.20191215.060409-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msmnile-user-9-PKQ1.190626.001-eng.root.20191215.060409-release-keys",
+        "commit": "206320bca3f6c2d08ead530d4dc47cd1a7820b5d",
+        "committed_date": "2019-12-27T06:07:09.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-14T06:52:12.086Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1931cn",
+        "project_id": 40,
+        "project_path": "realme/rmx1931cn"
+      },
+      "revision": "206320bca3f6c2d08ead530d4dc47cd1a7820b5d",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1931cn/-/tree/206320bca3f6c2d08ead530d4dc47cd1a7820b5d"
+    },
+    {
+      "item_id": "realme/rmx1941@full_oppo6762-user-10-QP1A.190711.020-bedd37e98646d3a1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6762-user-10-QP1A.190711.020-bedd37e98646d3a1-release-keys",
+        "commit": "44f4b9eec95037eade38bec6a72faa604e3f44ff",
+        "committed_date": "2021-03-17T05:47:29.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-06-21T08:46:51.112Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1941",
+        "project_id": 1309,
+        "project_path": "realme/rmx1941"
+      },
+      "revision": "44f4b9eec95037eade38bec6a72faa604e3f44ff",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1941/-/tree/44f4b9eec95037eade38bec6a72faa604e3f44ff"
+    },
+    {
+      "item_id": "realme/rmx1941@full_oppo6762_18540-user-9-PPR1.180610.011-eng.root.20190517.234935-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6762_18540-user-9-PPR1.180610.011-eng.root.20190517.234935-release-keys",
+        "commit": "7c7cb033045438663b37b44f308031dfdd97f3be",
+        "committed_date": "2023-06-21T11:42:21.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-06-21T08:46:51.112Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1941",
+        "project_id": 1309,
+        "project_path": "realme/rmx1941"
+      },
+      "revision": "7c7cb033045438663b37b44f308031dfdd97f3be",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1941/-/tree/7c7cb033045438663b37b44f308031dfdd97f3be"
+    },
+    {
+      "item_id": "realme/rmx1971@sdm710-user-10-QKQ1.190918.001--release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm710-user-10-QKQ1.190918.001--release-keys",
+        "commit": "b8c0e60fbf66448c409718c1fdd18291500726a1",
+        "committed_date": "2021-05-19T13:03:57.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T18:52:48.567Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1971",
+        "project_id": 2062,
+        "project_path": "realme/rmx1971"
+      },
+      "revision": "b8c0e60fbf66448c409718c1fdd18291500726a1",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1971/-/tree/b8c0e60fbf66448c409718c1fdd18291500726a1"
+    },
+    {
+      "item_id": "realme/rmx1971cn@sdm710-user-9-PKQ1.190101.001-eng.root.20190823.002138-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm710-user-9-PKQ1.190101.001-eng.root.20190823.002138-release-keys",
+        "commit": "e271e63e0359f12ae07e1a44cea87f79f1b1b3f1",
+        "committed_date": "2019-10-17T19:58:48.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T18:04:40.708Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1971cn",
+        "project_id": 2015,
+        "project_path": "realme/rmx1971cn"
+      },
+      "revision": "e271e63e0359f12ae07e1a44cea87f79f1b1b3f1",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1971cn/-/tree/e271e63e0359f12ae07e1a44cea87f79f1b1b3f1"
+    },
+    {
+      "item_id": "realme/rmx1971cn@sdm710-user-9-PKQ1.190101.001-eng.root.20191018.212446-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm710-user-9-PKQ1.190101.001-eng.root.20191018.212446-release-keys",
+        "commit": "cebb635d43d2fb9fa07a895ce025948c6fdf6984",
+        "committed_date": "2019-10-23T19:47:29.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T18:04:40.708Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1971cn",
+        "project_id": 2015,
+        "project_path": "realme/rmx1971cn"
+      },
+      "revision": "cebb635d43d2fb9fa07a895ce025948c6fdf6984",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1971cn/-/tree/cebb635d43d2fb9fa07a895ce025948c6fdf6984"
+    },
+    {
+      "item_id": "realme/rmx1971cn@sdm710-user-9-PKQ1.190101.001-eng.root.20191107.161755-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm710-user-9-PKQ1.190101.001-eng.root.20191107.161755-release-keys",
+        "commit": "4760298084b2a794d428c10b1357d9b8b8048651",
+        "committed_date": "2019-11-15T11:02:37.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T18:04:40.708Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1971cn",
+        "project_id": 2015,
+        "project_path": "realme/rmx1971cn"
+      },
+      "revision": "4760298084b2a794d428c10b1357d9b8b8048651",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1971cn/-/tree/4760298084b2a794d428c10b1357d9b8b8048651"
+    },
+    {
+      "item_id": "realme/rmx1971cn@sdm710-user-9-PKQ1.190101.001-eng.root.20191213.211521-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm710-user-9-PKQ1.190101.001-eng.root.20191213.211521-release-keys",
+        "commit": "c57e6977b2c1b8e1023a12ea8c24a7211fff8aac",
+        "committed_date": "2019-12-25T11:00:13.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T18:04:40.708Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1971cn",
+        "project_id": 2015,
+        "project_path": "realme/rmx1971cn"
+      },
+      "revision": "c57e6977b2c1b8e1023a12ea8c24a7211fff8aac",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1971cn/-/tree/c57e6977b2c1b8e1023a12ea8c24a7211fff8aac"
+    },
+    {
+      "item_id": "realme/rmx1991cn@sm6150-user-10-QKQ1.191201.002-eng.root.20210415.004326-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sm6150-user-10-QKQ1.191201.002-eng.root.20210415.004326-release-keys",
+        "commit": "6d3da403aaf8a9d7ffd5e35dc64fb85e4554ab17",
+        "committed_date": "2023-06-24T16:24:03.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-06-24T13:21:18.184Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1991cn",
+        "project_id": 4339,
+        "project_path": "realme/rmx1991cn"
+      },
+      "revision": "6d3da403aaf8a9d7ffd5e35dc64fb85e4554ab17",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1991cn/-/tree/6d3da403aaf8a9d7ffd5e35dc64fb85e4554ab17"
+    },
+    {
+      "item_id": "realme/rmx1992@qssi-user-11-RKQ1.201112.002-eng.root.20210716.172808-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201112.002-eng.root.20210716.172808-release-keys",
+        "commit": "4a1a7f0aac28506dd99f57b4fd5db84c4d40f735",
+        "committed_date": "2021-11-15T11:20:01.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T08:28:37.696Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1992",
+        "project_id": 1608,
+        "project_path": "realme/rmx1992"
+      },
+      "revision": "4a1a7f0aac28506dd99f57b4fd5db84c4d40f735",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1992/-/tree/4a1a7f0aac28506dd99f57b4fd5db84c4d40f735"
+    },
+    {
+      "item_id": "realme/rmx1993@qssi-user-11-RKQ1.201112.002-root07270112-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201112.002-root07270112-release-keys",
+        "commit": "4d56739030689e28ce49c49309474cc77114b550",
+        "committed_date": "2021-11-15T11:36:52.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T09:50:29.811Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1993",
+        "project_id": 1681,
+        "project_path": "realme/rmx1993"
+      },
+      "revision": "4d56739030689e28ce49c49309474cc77114b550",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1993/-/tree/4d56739030689e28ce49c49309474cc77114b550"
+    },
+    {
+      "item_id": "realme/rmx1993@sm6150-user-9-PKQ1.190630.001-eng.root.20191029.231423-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sm6150-user-9-PKQ1.190630.001-eng.root.20191029.231423-release-keys",
+        "commit": "39f6049f4050728d638976e267ac3411893886e8",
+        "committed_date": "2019-11-28T15:10:50.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T09:50:29.811Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1993",
+        "project_id": 1681,
+        "project_path": "realme/rmx1993"
+      },
+      "revision": "39f6049f4050728d638976e267ac3411893886e8",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1993/-/tree/39f6049f4050728d638976e267ac3411893886e8"
+    },
+    {
+      "item_id": "realme/rmx1993@sm6150-user-9-PKQ1.190630.001-eng.root.20200102.125425-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sm6150-user-9-PKQ1.190630.001-eng.root.20200102.125425-release-keys",
+        "commit": "91b46a5e9bd4ce39e5fc4e6e443b5eb1486e31ec",
+        "committed_date": "2020-01-23T23:43:30.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T09:50:29.811Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1993",
+        "project_id": 1681,
+        "project_path": "realme/rmx1993"
+      },
+      "revision": "91b46a5e9bd4ce39e5fc4e6e443b5eb1486e31ec",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1993/-/tree/91b46a5e9bd4ce39e5fc4e6e443b5eb1486e31ec"
+    },
+    {
+      "item_id": "realme/rmx1993@sm6150-user-9-PKQ1.190630.001-eng.root.20200117.170512-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sm6150-user-9-PKQ1.190630.001-eng.root.20200117.170512-release-keys",
+        "commit": "2da471c626cd3b8143f77186812640f469d6b18c",
+        "committed_date": "2020-01-30T18:06:22.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T09:50:29.811Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx1993",
+        "project_id": 1681,
+        "project_path": "realme/rmx1993"
+      },
+      "revision": "2da471c626cd3b8143f77186812640f469d6b18c",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx1993/-/tree/2da471c626cd3b8143f77186812640f469d6b18c"
+    },
+    {
+      "item_id": "realme/rmx2001@full_oppo6785-user-10-QP1A.190711.020-0b36b6c4f9b3bf3b-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6785-user-10-QP1A.190711.020-0b36b6c4f9b3bf3b-release-keys",
+        "commit": "6be8bf9f10eeb3b32b4c239319314745d0b0a6a8",
+        "committed_date": "2021-04-13T22:47:49.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T08:19:14.473Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx2001",
+        "project_id": 1600,
+        "project_path": "realme/rmx2001"
+      },
+      "revision": "6be8bf9f10eeb3b32b4c239319314745d0b0a6a8",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx2001/-/tree/6be8bf9f10eeb3b32b4c239319314745d0b0a6a8"
+    },
+    {
+      "item_id": "realme/rmx2020@full_oppo6769-user-10-QP1A.190711.020-68b77aba7cb33275-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6769-user-10-QP1A.190711.020-68b77aba7cb33275-release-keys",
+        "commit": "14723e770a720c02ef6d0a2d312754d04992d96c",
+        "committed_date": "2020-03-17T14:04:54.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-10-24T08:48:00.808Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx2020",
+        "project_id": 1435,
+        "project_path": "realme/rmx2020"
+      },
+      "revision": "14723e770a720c02ef6d0a2d312754d04992d96c",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx2020/-/tree/14723e770a720c02ef6d0a2d312754d04992d96c"
+    },
+    {
+      "item_id": "realme/rmx2020@sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-1607914664672-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-1607914664672-release-keys",
+        "commit": "d9dd4253600b43f2231d422cbb8e07fc1e65e944",
+        "committed_date": "2022-10-24T11:44:23.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-10-24T08:48:00.808Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx2020",
+        "project_id": 1435,
+        "project_path": "realme/rmx2020"
+      },
+      "revision": "d9dd4253600b43f2231d422cbb8e07fc1e65e944",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx2020/-/tree/d9dd4253600b43f2231d422cbb8e07fc1e65e944"
+    },
+    {
+      "item_id": "realme/rmx2050@qssi-user-10-QKQ1.200209.002--release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.200209.002--release-keys",
+        "commit": "cd82e190246431ba5bcf4306a42332afd5e446fb",
+        "committed_date": "2021-04-06T03:29:24.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2024-04-17T19:08:10.194Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx2050",
+        "project_id": 1218,
+        "project_path": "realme/rmx2050"
+      },
+      "revision": "cd82e190246431ba5bcf4306a42332afd5e446fb",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx2050/-/tree/cd82e190246431ba5bcf4306a42332afd5e446fb"
+    },
+    {
+      "item_id": "realme/rmx2050@qssi-user-11-RKQ1.200903.002-1651143221904-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200903.002-1651143221904-release-keys",
+        "commit": "e1e0f4e101925a5b4d3aafa13c619ae7a2a84d5c",
+        "committed_date": "2022-06-23T15:48:07.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-04-17T19:08:10.194Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx2050",
+        "project_id": 1218,
+        "project_path": "realme/rmx2050"
+      },
+      "revision": "e1e0f4e101925a5b4d3aafa13c619ae7a2a84d5c",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx2050/-/tree/e1e0f4e101925a5b4d3aafa13c619ae7a2a84d5c"
+    },
+    {
+      "item_id": "realme/rmx2050@qssi-user-11-RKQ1.200903.002-1661598594889-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200903.002-1661598594889-release-keys",
+        "commit": "746857281a73b2bd3679fc66c75618b92b137474",
+        "committed_date": "2024-04-17T22:03:46.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-04-17T19:08:10.194Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx2050",
+        "project_id": 1218,
+        "project_path": "realme/rmx2050"
+      },
+      "revision": "746857281a73b2bd3679fc66c75618b92b137474",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx2050/-/tree/746857281a73b2bd3679fc66c75618b92b137474"
+    },
+    {
+      "item_id": "realme/rmx2051cn@qssi-user-10-QKQ1.191117.002-eng.root.20200108.001858-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.191117.002-eng.root.20200108.001858-release-keys",
+        "commit": "a065b7537f3ec065e61f3c6125089a9a08da3d79",
+        "committed_date": "2020-01-19T22:38:21.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T23:12:06.575Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx2051cn",
+        "project_id": 2193,
+        "project_path": "realme/rmx2051cn"
+      },
+      "revision": "a065b7537f3ec065e61f3c6125089a9a08da3d79",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx2051cn/-/tree/a065b7537f3ec065e61f3c6125089a9a08da3d79"
+    },
+    {
+      "item_id": "realme/rmx2051cn@qssi-user-10-QKQ1.191117.002-eng.root.20200111.044700-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.191117.002-eng.root.20200111.044700-release-keys",
+        "commit": "117ec27c470a09f4d75127b5519ce0a4ec8f4a96",
+        "committed_date": "2020-01-19T22:28:05.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T23:12:06.575Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx2051cn",
+        "project_id": 2193,
+        "project_path": "realme/rmx2051cn"
+      },
+      "revision": "117ec27c470a09f4d75127b5519ce0a4ec8f4a96",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx2051cn/-/tree/117ec27c470a09f4d75127b5519ce0a4ec8f4a96"
+    },
+    {
+      "item_id": "realme/rmx2051cn@qssi-user-10-QKQ1.191117.002-eng.root.20200120.112752-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.191117.002-eng.root.20200120.112752-release-keys",
+        "commit": "b53eb650203c13a002588b8eb876da625c9fa0b7",
+        "committed_date": "2020-01-29T22:08:35.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T23:12:06.575Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx2051cn",
+        "project_id": 2193,
+        "project_path": "realme/rmx2051cn"
+      },
+      "revision": "b53eb650203c13a002588b8eb876da625c9fa0b7",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx2051cn/-/tree/b53eb650203c13a002588b8eb876da625c9fa0b7"
+    },
+    {
+      "item_id": "realme/rmx2051cn@qssi-user-10-RMX2051_11_A.09-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-RMX2051_11_A.09-release-keys",
+        "commit": "9449ac4845f3aab0bade80a6d4b1477449b3edb3",
+        "committed_date": "2020-02-27T13:14:08.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T23:12:06.575Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx2051cn",
+        "project_id": 2193,
+        "project_path": "realme/rmx2051cn"
+      },
+      "revision": "9449ac4845f3aab0bade80a6d4b1477449b3edb3",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx2051cn/-/tree/9449ac4845f3aab0bade80a6d4b1477449b3edb3"
+    },
+    {
+      "item_id": "realme/rmx2061@atoll-user-10-QKQ1.191222.002--release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "atoll-user-10-QKQ1.191222.002--release-keys",
+        "commit": "d851c0f0111f0bc14ee59602b1701a85c5ea5610",
+        "committed_date": "2020-06-22T15:26:39.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T12:43:33.986Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx2061",
+        "project_id": 1757,
+        "project_path": "realme/rmx2061"
+      },
+      "revision": "d851c0f0111f0bc14ee59602b1701a85c5ea5610",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx2061/-/tree/d851c0f0111f0bc14ee59602b1701a85c5ea5610"
+    },
+    {
+      "item_id": "realme/rmx2061@atoll-user-10-RMX2061_11_A.11-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "atoll-user-10-RMX2061_11_A.11-release-keys",
+        "commit": "6c6ac6cf15983578ed74cd94ed4c03a5f90f03db",
+        "committed_date": "2020-03-17T09:53:23.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T12:43:33.986Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx2061",
+        "project_id": 1757,
+        "project_path": "realme/rmx2061"
+      },
+      "revision": "6c6ac6cf15983578ed74cd94ed4c03a5f90f03db",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx2061/-/tree/6c6ac6cf15983578ed74cd94ed4c03a5f90f03db"
+    },
+    {
+      "item_id": "realme/rmx2076l1@qssi-user-10-QKQ1.191222.002--release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.191222.002--release-keys",
+        "commit": "07ad84487fccfc700e37a1b97cd9accd80627538",
+        "committed_date": "2020-05-08T17:57:28.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T21:53:31.911Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx2076l1",
+        "project_id": 1344,
+        "project_path": "realme/rmx2076l1"
+      },
+      "revision": "07ad84487fccfc700e37a1b97cd9accd80627538",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx2076l1/-/tree/07ad84487fccfc700e37a1b97cd9accd80627538"
+    },
+    {
+      "item_id": "realme/rmx2076l1@qssi-user-11-RKQ1.200710.002-root09230237-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200710.002-root09230237-release-keys",
+        "commit": "40f9cce967385ea33e65998f5ebe583e75283528",
+        "committed_date": "2021-05-25T15:27:05.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T21:53:31.911Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx2076l1",
+        "project_id": 1344,
+        "project_path": "realme/rmx2076l1"
+      },
+      "revision": "40f9cce967385ea33e65998f5ebe583e75283528",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx2076l1/-/tree/40f9cce967385ea33e65998f5ebe583e75283528"
+    },
+    {
+      "item_id": "realme/rmx2081l1@msmnile-user-10-QKQ1.191021.002--release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msmnile-user-10-QKQ1.191021.002--release-keys",
+        "commit": "b138fc379fc3767c1aa929d764069e101bf4af23",
+        "committed_date": "2020-08-20T13:45:38.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T18:48:43.607Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx2081l1",
+        "project_id": 2055,
+        "project_path": "realme/rmx2081l1"
+      },
+      "revision": "b138fc379fc3767c1aa929d764069e101bf4af23",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx2081l1/-/tree/b138fc379fc3767c1aa929d764069e101bf4af23"
+    },
+    {
+      "item_id": "realme/rmx2121l1@full_oppo6889-user-10-QP1A.190711.020-p2tc16sprmpr2V1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6889-user-10-QP1A.190711.020-p2tc16sprmpr2V1-release-keys",
+        "commit": "046c31b9ad708696c703337c94782c7c7fd4faee",
+        "committed_date": "2021-05-14T13:06:12.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T14:29:53.777Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx2121l1",
+        "project_id": 1091,
+        "project_path": "realme/rmx2121l1"
+      },
+      "revision": "046c31b9ad708696c703337c94782c7c7fd4faee",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx2121l1/-/tree/046c31b9ad708696c703337c94782c7c7fd4faee"
+    },
+    {
+      "item_id": "realme/rmx2151l1@full_oppo6785-user-10-QP1A.190711.020-f98a4913a52475a1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6785-user-10-QP1A.190711.020-f98a4913a52475a1-release-keys",
+        "commit": "160966249547808e106141692ee5142a8e8f34c7",
+        "committed_date": "2021-02-05T14:31:17.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T23:39:56.621Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx2151l1",
+        "project_id": 1400,
+        "project_path": "realme/rmx2151l1"
+      },
+      "revision": "160966249547808e106141692ee5142a8e8f34c7",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx2151l1/-/tree/160966249547808e106141692ee5142a8e8f34c7"
+    },
+    {
+      "item_id": "realme/rmx2170@atoll-user-10-QKQ1.200428.002--release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "atoll-user-10-QKQ1.200428.002--release-keys",
+        "commit": "b5f5b1c89b426376c7bf55dca8556ea26b13f1ab",
+        "committed_date": "2020-10-13T05:15:04.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T01:29:46.529Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx2170",
+        "project_id": 2292,
+        "project_path": "realme/rmx2170"
+      },
+      "revision": "b5f5b1c89b426376c7bf55dca8556ea26b13f1ab",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx2170/-/tree/b5f5b1c89b426376c7bf55dca8556ea26b13f1ab"
+    },
+    {
+      "item_id": "realme/rmx2176l1@full_oppo6853-user-10-QP1A.190711.020-p2tc16sprmpr2V1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6853-user-10-QP1A.190711.020-p2tc16sprmpr2V1-release-keys",
+        "commit": "890682e12e27ac93000823eb8ee087bca810abb2",
+        "committed_date": "2021-05-14T14:04:11.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T16:03:15.232Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx2176l1",
+        "project_id": 1160,
+        "project_path": "realme/rmx2176l1"
+      },
+      "revision": "890682e12e27ac93000823eb8ee087bca810abb2",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx2176l1/-/tree/890682e12e27ac93000823eb8ee087bca810abb2"
+    },
+    {
+      "item_id": "realme/rmx2185@full_oppo6765-user-10-QP1A.190711.020-bedd37e98646d3a1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6765-user-10-QP1A.190711.020-bedd37e98646d3a1-release-keys",
+        "commit": "fb284363b2de14f84cea58292ad1e571806e7664",
+        "committed_date": "2020-12-01T16:31:04.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T20:30:16.810Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx2185",
+        "project_id": 2135,
+        "project_path": "realme/rmx2185"
+      },
+      "revision": "fb284363b2de14f84cea58292ad1e571806e7664",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx2185/-/tree/fb284363b2de14f84cea58292ad1e571806e7664"
+    },
+    {
+      "item_id": "realme/rmx2189@sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-1609743540423-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-1609743540423-release-keys",
+        "commit": "e2ccfb907dc950706692abbd7a2affecf0f10b0c",
+        "committed_date": "2021-05-19T20:04:01.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T08:15:39.438Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx2189",
+        "project_id": 1595,
+        "project_path": "realme/rmx2189"
+      },
+      "revision": "e2ccfb907dc950706692abbd7a2affecf0f10b0c",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx2189/-/tree/e2ccfb907dc950706692abbd7a2affecf0f10b0c"
+    },
+    {
+      "item_id": "realme/rmx2202@qssi-user-11-RKQ1.201105.002-1611233928318-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201105.002-1611233928318-release-keys",
+        "commit": "319727fc56b7259ffe3acc9a9342c0047036d46f",
+        "committed_date": "2022-02-23T13:40:54.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T02:50:59.102Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx2202",
+        "project_id": 864,
+        "project_path": "realme/rmx2202"
+      },
+      "revision": "319727fc56b7259ffe3acc9a9342c0047036d46f",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx2202/-/tree/319727fc56b7259ffe3acc9a9342c0047036d46f"
+    },
+    {
+      "item_id": "realme/rmx2202cn@qssi-user-13-TP1A.220905.001-1707040506622-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1707040506622-release-keys--ALLNET",
+        "commit": "d245ba162d1b6bb9635f14926c471770acf917fa",
+        "committed_date": "2024-04-22T19:58:09.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-04-22T16:51:33.825Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx2202cn",
+        "project_id": 5246,
+        "project_path": "realme/rmx2202cn"
+      },
+      "revision": "d245ba162d1b6bb9635f14926c471770acf917fa",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx2202cn/-/tree/d245ba162d1b6bb9635f14926c471770acf917fa"
+    },
+    {
+      "item_id": "realme/rmx3031l1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1669209757947-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1669209757947-release-keys--IN",
+        "commit": "1d668576a6252e856df81db7306373c323ac9fce",
+        "committed_date": "2022-11-24T14:32:39.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-11-24T11:28:14.232Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx3031l1",
+        "project_id": 3962,
+        "project_path": "realme/rmx3031l1"
+      },
+      "revision": "1d668576a6252e856df81db7306373c323ac9fce",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx3031l1/-/tree/1d668576a6252e856df81db7306373c323ac9fce"
+    },
+    {
+      "item_id": "realme/rmx3061@full_oppo6765-user-10-QP1A.190711.020-bedd37e98646d3a1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6765-user-10-QP1A.190711.020-bedd37e98646d3a1-release-keys",
+        "commit": "3adcd50a57dfc3ef2196863d7a2e4a69e7729a45",
+        "committed_date": "2021-06-14T22:14:55.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T20:51:19.116Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx3061",
+        "project_id": 1295,
+        "project_path": "realme/rmx3061"
+      },
+      "revision": "3adcd50a57dfc3ef2196863d7a2e4a69e7729a45",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx3061/-/tree/3adcd50a57dfc3ef2196863d7a2e4a69e7729a45"
+    },
+    {
+      "item_id": "realme/rmx3081l1@qssi-user-13-TP1A.220905.001-1697005502756-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1697005502756-release-keys--IN",
+        "commit": "4b8996605db255a8456dc81ec35c3efa61f8cfb1",
+        "committed_date": "2024-01-17T17:36:26.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-05-07T15:31:16.696Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx3081l1",
+        "project_id": 4688,
+        "project_path": "realme/rmx3081l1"
+      },
+      "revision": "4b8996605db255a8456dc81ec35c3efa61f8cfb1",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx3081l1/-/tree/4b8996605db255a8456dc81ec35c3efa61f8cfb1"
+    },
+    {
+      "item_id": "realme/rmx3081l1@qssi-user-13-TP1A.220905.001-1714035646417-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1714035646417-release-keys--IN",
+        "commit": "9aed764b91f8d24e533b4ffdd1e85a3c1c23ff07",
+        "committed_date": "2024-05-07T18:17:47.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-05-07T15:31:16.696Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx3081l1",
+        "project_id": 4688,
+        "project_path": "realme/rmx3081l1"
+      },
+      "revision": "9aed764b91f8d24e533b4ffdd1e85a3c1c23ff07",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx3081l1/-/tree/9aed764b91f8d24e533b4ffdd1e85a3c1c23ff07"
+    },
+    {
+      "item_id": "realme/rmx3085l1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1684396792736-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1684396792736-release-keys--IN",
+        "commit": "36c4642bdebeaf9f0b5e01f8f55cb7e312e374db",
+        "committed_date": "2023-06-12T20:17:42.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-11-29T13:54:48.868Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx3085l1",
+        "project_id": 4329,
+        "project_path": "realme/rmx3085l1"
+      },
+      "revision": "36c4642bdebeaf9f0b5e01f8f55cb7e312e374db",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx3085l1/-/tree/36c4642bdebeaf9f0b5e01f8f55cb7e312e374db"
+    },
+    {
+      "item_id": "realme/rmx3085l1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1691667206253-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1691667206253-release-keys--IN",
+        "commit": "51267c4e4f852386110012743cdcd842d5bdb702",
+        "committed_date": "2023-11-29T16:41:21.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-11-29T13:54:48.868Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx3085l1",
+        "project_id": 4329,
+        "project_path": "realme/rmx3085l1"
+      },
+      "revision": "51267c4e4f852386110012743cdcd842d5bdb702",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx3085l1/-/tree/51267c4e4f852386110012743cdcd842d5bdb702"
+    },
+    {
+      "item_id": "realme/rmx3171@full_oppo6769-user-10-QP1A.190711.020-d54e398b2564fe22-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6769-user-10-QP1A.190711.020-d54e398b2564fe22-release-keys",
+        "commit": "b64c915ed06c136fbac251b63f3449b0dda2d039",
+        "committed_date": "2023-11-06T15:07:12.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-11-06T12:03:49.825Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx3171",
+        "project_id": 4576,
+        "project_path": "realme/rmx3171"
+      },
+      "revision": "b64c915ed06c136fbac251b63f3449b0dda2d039",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx3171/-/tree/b64c915ed06c136fbac251b63f3449b0dda2d039"
+    },
+    {
+      "item_id": "realme/rmx3360l1@qssi-user-11-RKQ1.210408.001-1620037230588-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210408.001-1620037230588-release-keys",
+        "commit": "26813ff780afa2b2979bc6ee1166ab0140120d11",
+        "committed_date": "2022-01-25T13:24:02.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T17:45:23.575Z",
+        "namespace_hint": "realme",
+        "project_hint": "rmx3360l1",
+        "project_id": 743,
+        "project_path": "realme/rmx3360l1"
+      },
+      "revision": "26813ff780afa2b2979bc6ee1166ab0140120d11",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/rmx3360l1/-/tree/26813ff780afa2b2979bc6ee1166ab0140120d11"
+    },
+    {
+      "item_id": "realme/sdm710@qssi-user-11-RKQ1.201217.002-1619368911282-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201217.002-1619368911282-release-keys",
+        "commit": "a7d9b8154416441f4931b30346655e8177fe88b5",
+        "committed_date": "2022-09-27T17:51:41.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-10-31T17:58:21.843Z",
+        "namespace_hint": "realme",
+        "project_hint": "sdm710",
+        "project_id": 2460,
+        "project_path": "realme/sdm710"
+      },
+      "revision": "a7d9b8154416441f4931b30346655e8177fe88b5",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/sdm710/-/tree/a7d9b8154416441f4931b30346655e8177fe88b5"
+    },
+    {
+      "item_id": "realme/sdm710@qssi-user-11-RKQ1.201217.002-1623376276806-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201217.002-1623376276806-release-keys",
+        "commit": "1ee509a469e66661a856c96af15ba5b496df57d0",
+        "committed_date": "2023-10-31T20:50:57.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-10-31T17:58:21.843Z",
+        "namespace_hint": "realme",
+        "project_hint": "sdm710",
+        "project_id": 2460,
+        "project_path": "realme/sdm710"
+      },
+      "revision": "1ee509a469e66661a856c96af15ba5b496df57d0",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/sdm710/-/tree/1ee509a469e66661a856c96af15ba5b496df57d0"
+    },
+    {
+      "item_id": "realme/x2@lineage_X2-user-10-QQ3A.200805.001-eng.dev-ha.20200910.175649-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "lineage_X2-user-10-QQ3A.200805.001-eng.dev-ha.20200910.175649-release-keys",
+        "commit": "fe72163dbad8015bb660bfaf5e1c52d7a8055839",
+        "committed_date": "2020-09-14T08:10:05.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T15:01:39.555Z",
+        "namespace_hint": "realme",
+        "project_hint": "x2",
+        "project_id": 1854,
+        "project_path": "realme/x2"
+      },
+      "revision": "fe72163dbad8015bb660bfaf5e1c52d7a8055839",
+      "url": "https://dumps.tadiphone.dev/dumps/realme/x2/-/tree/fe72163dbad8015bb660bfaf5e1c52d7a8055839"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

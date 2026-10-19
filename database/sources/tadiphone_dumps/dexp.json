@@ -1,0 +1,230 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "dexp/al240@AL240_ru-user-8.1.0-O11019-1545735012-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "AL240_ru-user-8.1.0-O11019-1545735012-release-keys",
+        "commit": "0e1176fc737cb4ea2b8b8c33948cf57c8e46448a",
+        "committed_date": "2020-01-22T07:53:25.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T13:49:30.580Z",
+        "namespace_hint": "dexp",
+        "project_hint": "al240",
+        "project_id": 1055,
+        "project_path": "dexp/al240"
+      },
+      "revision": "0e1176fc737cb4ea2b8b8c33948cf57c8e46448a",
+      "url": "https://dumps.tadiphone.dev/dumps/dexp/al240/-/tree/0e1176fc737cb4ea2b8b8c33948cf57c8e46448a"
+    },
+    {
+      "item_id": "dexp/b245@te801b_s4516e-user-8.1.0-OPM2.171019.012-41514-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "te801b_s4516e-user-8.1.0-OPM2.171019.012-41514-release-keys",
+        "commit": "7008d50fc61c68c7497726d2d26082e93e68e5a6",
+        "committed_date": "2019-11-11T17:52:26.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T14:34:01.078Z",
+        "namespace_hint": "dexp",
+        "project_hint": "b245",
+        "project_id": 1096,
+        "project_path": "dexp/b245"
+      },
+      "revision": "7008d50fc61c68c7497726d2d26082e93e68e5a6",
+      "url": "https://dumps.tadiphone.dev/dumps/dexp/b245/-/tree/7008d50fc61c68c7497726d2d26082e93e68e5a6"
+    },
+    {
+      "item_id": "dexp/b340@B340_ru-user-8.1.0-O11019-1544593920-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "B340_ru-user-8.1.0-O11019-1544593920-release-keys",
+        "commit": "ce42881edf1663622766a373e16bdecb04943ed3",
+        "committed_date": "2019-09-13T10:45:23.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T14:31:29.766Z",
+        "namespace_hint": "dexp",
+        "project_hint": "b340",
+        "project_id": 1092,
+        "project_path": "dexp/b340"
+      },
+      "revision": "ce42881edf1663622766a373e16bdecb04943ed3",
+      "url": "https://dumps.tadiphone.dev/dumps/dexp/b340/-/tree/ce42881edf1663622766a373e16bdecb04943ed3"
+    },
+    {
+      "item_id": "dexp/n210@s1072e_2g-user-8.1.0-OPM2.171019.012-43319-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "s1072e_2g-user-8.1.0-OPM2.171019.012-43319-release-keys",
+        "commit": "64cc30ea7b4fc2d606729df76d659da671c7028f",
+        "committed_date": "2019-11-11T14:58:21.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T14:33:03.500Z",
+        "namespace_hint": "dexp",
+        "project_hint": "n210",
+        "project_id": 1094,
+        "project_path": "dexp/n210"
+      },
+      "revision": "64cc30ea7b4fc2d606729df76d659da671c7028f",
+      "url": "https://dumps.tadiphone.dev/dumps/dexp/n210/-/tree/64cc30ea7b4fc2d606729df76d659da671c7028f"
+    },
+    {
+      "item_id": "dexp/n310@s1072e_2g-user-8.1.0-OPM2.171019.012-44403-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "s1072e_2g-user-8.1.0-OPM2.171019.012-44403-release-keys",
+        "commit": "618756f89906554b67c479b7138e119f74d760f6",
+        "committed_date": "2020-01-21T05:40:24.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T14:21:31.008Z",
+        "namespace_hint": "dexp",
+        "project_hint": "n310",
+        "project_id": 129,
+        "project_path": "dexp/n310"
+      },
+      "revision": "618756f89906554b67c479b7138e119f74d760f6",
+      "url": "https://dumps.tadiphone.dev/dumps/dexp/n310/-/tree/618756f89906554b67c479b7138e119f74d760f6"
+    },
+    {
+      "item_id": "dexp/n370@s8637e_1g-user-8.1.0-OPM2.171019.012-52619-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "s8637e_1g-user-8.1.0-OPM2.171019.012-52619-release-keys",
+        "commit": "72a6ca0de3884dbafa3ee59e026ebbbaaa29bc69",
+        "committed_date": "2019-11-11T00:45:43.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T01:46:59.443Z",
+        "namespace_hint": "dexp",
+        "project_hint": "n370",
+        "project_id": 1496,
+        "project_path": "dexp/n370"
+      },
+      "revision": "72a6ca0de3884dbafa3ee59e026ebbbaaa29bc69",
+      "url": "https://dumps.tadiphone.dev/dumps/dexp/n370/-/tree/72a6ca0de3884dbafa3ee59e026ebbbaaa29bc69"
+    },
+    {
+      "item_id": "dexp/n570@s7182e_2g-user-8.1.0-OPM2.171019.012-22418-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "s7182e_2g-user-8.1.0-OPM2.171019.012-22418-release-keys",
+        "commit": "d037b9464d5e4a0f80945310d22b13d52f42ceeb",
+        "committed_date": "2019-11-11T00:55:45.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T01:33:26.288Z",
+        "namespace_hint": "dexp",
+        "project_hint": "n570",
+        "project_id": 1489,
+        "project_path": "dexp/n570"
+      },
+      "revision": "d037b9464d5e4a0f80945310d22b13d52f42ceeb",
+      "url": "https://dumps.tadiphone.dev/dumps/dexp/n570/-/tree/d037b9464d5e4a0f80945310d22b13d52f42ceeb"
+    },
+    {
+      "item_id": "dexp/p380i@s8638e_1g-user-8.1.0-OPM2.171019.012-34509-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "s8638e_1g-user-8.1.0-OPM2.171019.012-34509-release-keys",
+        "commit": "7ce7ad94085ec309e1b8d02c41a0aca6ad13a8c7",
+        "committed_date": "2019-11-11T17:51:15.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T23:46:34.357Z",
+        "namespace_hint": "dexp",
+        "project_hint": "p380i",
+        "project_id": 2237,
+        "project_path": "dexp/p380i"
+      },
+      "revision": "7ce7ad94085ec309e1b8d02c41a0aca6ad13a8c7",
+      "url": "https://dumps.tadiphone.dev/dumps/dexp/p380i/-/tree/7ce7ad94085ec309e1b8d02c41a0aca6ad13a8c7"
+    },
+    {
+      "item_id": "dexp/p410@s8631e_1g-user-8.1.0-OPM2.171019.012-19109-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "s8631e_1g-user-8.1.0-OPM2.171019.012-19109-release-keys",
+        "commit": "e227ccc3086012c30ec045eac5da2a31dfd8bf64",
+        "committed_date": "2019-11-11T14:48:57.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T13:00:10.595Z",
+        "namespace_hint": "dexp",
+        "project_hint": "p410",
+        "project_id": 1011,
+        "project_path": "dexp/p410"
+      },
+      "revision": "e227ccc3086012c30ec045eac5da2a31dfd8bf64",
+      "url": "https://dumps.tadiphone.dev/dumps/dexp/p410/-/tree/e227ccc3086012c30ec045eac5da2a31dfd8bf64"
+    },
+    {
+      "item_id": "dexp/s280@s8638e_1g-user-8.1.0-OPM2.171019.012-11602-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "s8638e_1g-user-8.1.0-OPM2.171019.012-11602-release-keys",
+        "commit": "5b359ee792d546e01c00fa93239fa395e5277b66",
+        "committed_date": "2019-11-11T00:59:53.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T01:31:02.935Z",
+        "namespace_hint": "dexp",
+        "project_hint": "s280",
+        "project_id": 1487,
+        "project_path": "dexp/s280"
+      },
+      "revision": "5b359ee792d546e01c00fa93239fa395e5277b66",
+      "url": "https://dumps.tadiphone.dev/dumps/dexp/s280/-/tree/5b359ee792d546e01c00fa93239fa395e5277b66"
+    },
+    {
+      "item_id": "dexp/s380@full_tb8321p2_bsp-user-8.1.0-O11019-1555050376-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_tb8321p2_bsp-user-8.1.0-O11019-1555050376-dev-keys",
+        "commit": "72217c87f7cc6c07ed30044999f1b0d772effeca",
+        "committed_date": "2020-01-27T11:32:27.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T14:21:05.257Z",
+        "namespace_hint": "dexp",
+        "project_hint": "s380",
+        "project_id": 128,
+        "project_path": "dexp/s380"
+      },
+      "revision": "72217c87f7cc6c07ed30044999f1b0d772effeca",
+      "url": "https://dumps.tadiphone.dev/dumps/dexp/s380/-/tree/72217c87f7cc6c07ed30044999f1b0d772effeca"
+    },
+    {
+      "item_id": "dexp/va110@s1067e_1g-user-8.1.0-OPM2.171019.012-40410-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "s1067e_1g-user-8.1.0-OPM2.171019.012-40410-release-keys",
+        "commit": "c987d20dce71d811790160efb5a3b58e2cfb984f",
+        "committed_date": "2020-01-21T05:29:01.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T16:32:54.393Z",
+        "namespace_hint": "dexp",
+        "project_hint": "va110",
+        "project_id": 1184,
+        "project_path": "dexp/va110"
+      },
+      "revision": "c987d20dce71d811790160efb5a3b58e2cfb984f",
+      "url": "https://dumps.tadiphone.dev/dumps/dexp/va110/-/tree/c987d20dce71d811790160efb5a3b58e2cfb984f"
+    },
+    {
+      "item_id": "dexp/va210@s8631e_1g-user-8.1.0-OPM2.171019.012-10115-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "s8631e_1g-user-8.1.0-OPM2.171019.012-10115-release-keys",
+        "commit": "3d7a03ab1f8277fc0761c713910ea43ede106684",
+        "committed_date": "2019-11-11T01:03:58.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T11:10:51.887Z",
+        "namespace_hint": "dexp",
+        "project_hint": "va210",
+        "project_id": 972,
+        "project_path": "dexp/va210"
+      },
+      "revision": "3d7a03ab1f8277fc0761c713910ea43ede106684",
+      "url": "https://dumps.tadiphone.dev/dumps/dexp/va210/-/tree/3d7a03ab1f8277fc0761c713910ea43ede106684"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

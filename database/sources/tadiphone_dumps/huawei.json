@@ -1,0 +1,315 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "huawei/8425l@generic_a15-user-12-SP1A.210812.016-eng.huawei.20231013.161321-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "generic_a15-user-12-SP1A.210812.016-eng.huawei.20231013.161321-dev-keys",
+        "commit": "5a41cda0972be2299b1fcc8de06a78e064b6cf0d",
+        "committed_date": "2023-10-30T18:01:30.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-10-30T14:58:10.990Z",
+        "namespace_hint": "huawei",
+        "project_hint": "8425l",
+        "project_id": 4568,
+        "project_path": "huawei/8425l"
+      },
+      "revision": "5a41cda0972be2299b1fcc8de06a78e064b6cf0d",
+      "url": "https://dumps.tadiphone.dev/dumps/huawei/8425l/-/tree/5a41cda0972be2299b1fcc8de06a78e064b6cf0d"
+    },
+    {
+      "item_id": "huawei/atlanta@generic_a15-user-9-PPR1.180610.011-eng.jagent.20191101.115442-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "generic_a15-user-9-PPR1.180610.011-eng.jagent.20191101.115442-test-keys",
+        "commit": "ac9bb8c1f45ab4dec8bacd0b43d0fac39b25d201",
+        "committed_date": "2019-12-15T16:03:52.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T00:24:55.978Z",
+        "namespace_hint": "huawei",
+        "project_hint": "atlanta",
+        "project_id": 1425,
+        "project_path": "huawei/atlanta"
+      },
+      "revision": "ac9bb8c1f45ab4dec8bacd0b43d0fac39b25d201",
+      "url": "https://dumps.tadiphone.dev/dumps/huawei/atlanta/-/tree/ac9bb8c1f45ab4dec8bacd0b43d0fac39b25d201"
+    },
+    {
+      "item_id": "huawei/atlanta@generic_a15-user-9-PPR1.180610.011-eng.root.20190729.174844-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "generic_a15-user-9-PPR1.180610.011-eng.root.20190729.174844-test-keys",
+        "commit": "1e464fd58b7116d05699d85b500dc4c95dc4ed03",
+        "committed_date": "2019-12-16T00:56:32.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T00:24:55.978Z",
+        "namespace_hint": "huawei",
+        "project_hint": "atlanta",
+        "project_id": 1425,
+        "project_path": "huawei/atlanta"
+      },
+      "revision": "1e464fd58b7116d05699d85b500dc4c95dc4ed03",
+      "url": "https://dumps.tadiphone.dev/dumps/huawei/atlanta/-/tree/1e464fd58b7116d05699d85b500dc4c95dc4ed03"
+    },
+    {
+      "item_id": "huawei/atlanta@generic_a15-user-9-PPR1.180610.011-eng.root.20191021.220257-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "generic_a15-user-9-PPR1.180610.011-eng.root.20191021.220257-test-keys",
+        "commit": "29c3e7a9ddfaef550de935694b8ace1dd0d710b5",
+        "committed_date": "2019-12-20T10:15:33.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T00:24:55.978Z",
+        "namespace_hint": "huawei",
+        "project_hint": "atlanta",
+        "project_id": 1425,
+        "project_path": "huawei/atlanta"
+      },
+      "revision": "29c3e7a9ddfaef550de935694b8ace1dd0d710b5",
+      "url": "https://dumps.tadiphone.dev/dumps/huawei/atlanta/-/tree/29c3e7a9ddfaef550de935694b8ace1dd0d710b5"
+    },
+    {
+      "item_id": "huawei/atlanta@generic_a15-user-9-PPR1.180610.011-eng.root.20191211.102109-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "generic_a15-user-9-PPR1.180610.011-eng.root.20191211.102109-test-keys",
+        "commit": "0bb7e748ab926b2673f35b3a9674709372215030",
+        "committed_date": "2019-12-15T16:06:18.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T00:24:55.978Z",
+        "namespace_hint": "huawei",
+        "project_hint": "atlanta",
+        "project_id": 1425,
+        "project_path": "huawei/atlanta"
+      },
+      "revision": "0bb7e748ab926b2673f35b3a9674709372215030",
+      "url": "https://dumps.tadiphone.dev/dumps/huawei/atlanta/-/tree/0bb7e748ab926b2673f35b3a9674709372215030"
+    },
+    {
+      "item_id": "huawei/generic_a15@generic_a15-user-10-QP1A.190711.020-eng.root.20191018.013635-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "generic_a15-user-10-QP1A.190711.020-eng.root.20191018.013635-dev-keys",
+        "commit": "31415d0ec2ef0c389376f9154e77d3b78857e325",
+        "committed_date": "2019-12-15T14:30:16.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T15:49:15.747Z",
+        "namespace_hint": "huawei",
+        "project_hint": "generic_a15",
+        "project_id": 1903,
+        "project_path": "huawei/generic_a15"
+      },
+      "revision": "31415d0ec2ef0c389376f9154e77d3b78857e325",
+      "url": "https://dumps.tadiphone.dev/dumps/huawei/generic_a15/-/tree/31415d0ec2ef0c389376f9154e77d3b78857e325"
+    },
+    {
+      "item_id": "huawei/generic_a15@generic_a15-user-10-QP1A.190711.020-eng.root.20191023.231407-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "generic_a15-user-10-QP1A.190711.020-eng.root.20191023.231407-dev-keys",
+        "commit": "3b321321ad1e1c7ecbfb7c156b56745eea373777",
+        "committed_date": "2019-12-15T14:23:42.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T15:49:15.747Z",
+        "namespace_hint": "huawei",
+        "project_hint": "generic_a15",
+        "project_id": 1903,
+        "project_path": "huawei/generic_a15"
+      },
+      "revision": "3b321321ad1e1c7ecbfb7c156b56745eea373777",
+      "url": "https://dumps.tadiphone.dev/dumps/huawei/generic_a15/-/tree/3b321321ad1e1c7ecbfb7c156b56745eea373777"
+    },
+    {
+      "item_id": "huawei/huaweimate60@BRA-LGRP1-CHN-205.0.0.26(SP8)",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "BRA-LGRP1-CHN-205.0.0.26(SP8)",
+        "commit": "f6db29426fc4e148828e1a704deb1067ae117ca4",
+        "committed_date": "2024-07-20T23:16:25.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-07-20T20:12:02.721Z",
+        "namespace_hint": "huawei",
+        "project_hint": "huaweimate60",
+        "project_id": 5349,
+        "project_path": "huawei/huaweimate60"
+      },
+      "revision": "f6db29426fc4e148828e1a704deb1067ae117ca4",
+      "url": "https://dumps.tadiphone.dev/dumps/huawei/huaweimate60/-/tree/f6db29426fc4e148828e1a704deb1067ae117ca4"
+    },
+    {
+      "item_id": "huawei/hwana@ANA-AN00-user-11.1.0-HUAWEIANA-AN00-612-CHN-LGRP83-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ANA-AN00-user-11.1.0-HUAWEIANA-AN00-612-CHN-LGRP83-release-keys",
+        "commit": "2eb52be9c4e6a8efbab6e5d7b53e3d3273693c2c",
+        "committed_date": "2020-12-24T05:29:23.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T15:08:59.848Z",
+        "namespace_hint": "huawei",
+        "project_hint": "hwana",
+        "project_id": 1121,
+        "project_path": "huawei/hwana"
+      },
+      "revision": "2eb52be9c4e6a8efbab6e5d7b53e3d3273693c2c",
+      "url": "https://dumps.tadiphone.dev/dumps/huawei/hwana/-/tree/2eb52be9c4e6a8efbab6e5d7b53e3d3273693c2c"
+    },
+    {
+      "item_id": "huawei/hwcun-u6582@j8280_n6-user-4.4.2-KOT49H-eng.builder.1498128900-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "j8280_n6-user-4.4.2-KOT49H-eng.builder.1498128900-test-keys",
+        "commit": "622bcbe9acd9b97ac023ced54dc158c58647f1f3",
+        "committed_date": "2022-05-10T12:11:35.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T03:30:43.549Z",
+        "namespace_hint": "huawei",
+        "project_hint": "hwcun-u6582",
+        "project_id": 879,
+        "project_path": "huawei/hwcun-u6582"
+      },
+      "revision": "622bcbe9acd9b97ac023ced54dc158c58647f1f3",
+      "url": "https://dumps.tadiphone.dev/dumps/huawei/hwcun-u6582/-/tree/622bcbe9acd9b97ac023ced54dc158c58647f1f3"
+    },
+    {
+      "item_id": "huawei/hwy336-u@Y336-U02V100R001C328B113",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Y336-U02V100R001C328B113",
+        "commit": "e6cd68857a8f2a2f7c82f268b43f1f089ac198c1",
+        "committed_date": "2019-12-04T06:52:12.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T21:06:03.024Z",
+        "namespace_hint": "huawei",
+        "project_hint": "hwy336-u",
+        "project_id": 1303,
+        "project_path": "huawei/hwy336-u"
+      },
+      "revision": "e6cd68857a8f2a2f7c82f268b43f1f089ac198c1",
+      "url": "https://dumps.tadiphone.dev/dumps/huawei/hwy336-u/-/tree/e6cd68857a8f2a2f7c82f268b43f1f089ac198c1"
+    },
+    {
+      "item_id": "huawei/miami@generic_a15-user-9-PPR1.180610.011-eng.jenkin.20191211.123735-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "generic_a15-user-9-PPR1.180610.011-eng.jenkin.20191211.123735-test-keys",
+        "commit": "cdf742df95be7c81ea54e57de2f54d743b7ed961",
+        "committed_date": "2019-12-15T16:18:19.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T10:31:59.287Z",
+        "namespace_hint": "huawei",
+        "project_hint": "miami",
+        "project_id": 1722,
+        "project_path": "huawei/miami"
+      },
+      "revision": "cdf742df95be7c81ea54e57de2f54d743b7ed961",
+      "url": "https://dumps.tadiphone.dev/dumps/huawei/miami/-/tree/cdf742df95be7c81ea54e57de2f54d743b7ed961"
+    },
+    {
+      "item_id": "huawei/miami@generic_a15-user-9-PPR1.180610.011-eng.root.20191211.103712-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "generic_a15-user-9-PPR1.180610.011-eng.root.20191211.103712-test-keys",
+        "commit": "4929889085bd9d1312ad33c4c0ed5887192d94f4",
+        "committed_date": "2019-12-15T16:36:55.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T10:31:59.287Z",
+        "namespace_hint": "huawei",
+        "project_hint": "miami",
+        "project_id": 1722,
+        "project_path": "huawei/miami"
+      },
+      "revision": "4929889085bd9d1312ad33c4c0ed5887192d94f4",
+      "url": "https://dumps.tadiphone.dev/dumps/huawei/miami/-/tree/4929889085bd9d1312ad33c4c0ed5887192d94f4"
+    },
+    {
+      "item_id": "huawei/miami@generic_a15-user-9-PPR1.180610.011-eng.root.20191211.121041-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "generic_a15-user-9-PPR1.180610.011-eng.root.20191211.121041-test-keys",
+        "commit": "d3055f5704fc5a88683918f8cbb539ab5d5dd900",
+        "committed_date": "2019-12-15T16:20:25.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T10:31:59.287Z",
+        "namespace_hint": "huawei",
+        "project_hint": "miami",
+        "project_id": 1722,
+        "project_path": "huawei/miami"
+      },
+      "revision": "d3055f5704fc5a88683918f8cbb539ab5d5dd900",
+      "url": "https://dumps.tadiphone.dev/dumps/huawei/miami/-/tree/d3055f5704fc5a88683918f8cbb539ab5d5dd900"
+    },
+    {
+      "item_id": "huawei/miami@generic_a15-user-9-PPR1.180610.011-eng.root.20191211.153403-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "generic_a15-user-9-PPR1.180610.011-eng.root.20191211.153403-test-keys",
+        "commit": "fa35ad27234a62ab3fedf7b130626cba8cf775d9",
+        "committed_date": "2019-12-15T15:48:00.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T10:31:59.287Z",
+        "namespace_hint": "huawei",
+        "project_hint": "miami",
+        "project_id": 1722,
+        "project_path": "huawei/miami"
+      },
+      "revision": "fa35ad27234a62ab3fedf7b130626cba8cf775d9",
+      "url": "https://dumps.tadiphone.dev/dumps/huawei/miami/-/tree/fa35ad27234a62ab3fedf7b130626cba8cf775d9"
+    },
+    {
+      "item_id": "huawei/ohosqssi@ohosqssi-user-12-SKQ1.211230.001-eng.root.20220915.212408-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ohosqssi-user-12-SKQ1.211230.001-eng.root.20220915.212408-dev-keys",
+        "commit": "28118a239f244b911e9d5acc229fc57b3828a970",
+        "committed_date": "2024-12-30T20:14:58.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-12-30T17:10:54.866Z",
+        "namespace_hint": "huawei",
+        "project_hint": "ohosqssi",
+        "project_id": 5525,
+        "project_path": "huawei/ohosqssi"
+      },
+      "revision": "28118a239f244b911e9d5acc229fc57b3828a970",
+      "url": "https://dumps.tadiphone.dev/dumps/huawei/ohosqssi/-/tree/28118a239f244b911e9d5acc229fc57b3828a970"
+    },
+    {
+      "item_id": "huawei/p30@aeon6580_weg_l_l300-user-5.1-LMY47I-1555741941-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aeon6580_weg_l_l300-user-5.1-LMY47I-1555741941-test-keys",
+        "commit": "0d4cf3e15db205a4791d5f52dc7ea9f6f739b6bc",
+        "committed_date": "2019-12-16T19:32:00.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T19:28:22.642Z",
+        "namespace_hint": "huawei",
+        "project_hint": "p30",
+        "project_id": 764,
+        "project_path": "huawei/p30"
+      },
+      "revision": "0d4cf3e15db205a4791d5f52dc7ea9f6f739b6bc",
+      "url": "https://dumps.tadiphone.dev/dumps/huawei/p30/-/tree/0d4cf3e15db205a4791d5f52dc7ea9f6f739b6bc"
+    },
+    {
+      "item_id": "huawei/sturgeon@sturgeon-user-7.1.1-NWD1.171016.002-4398992-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sturgeon-user-7.1.1-NWD1.171016.002-4398992-release-keys",
+        "commit": "e413cee8f73dd230dea10f6378b6fa089ca0e5c5",
+        "committed_date": "2019-10-30T10:25:13.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T10:10:57.128Z",
+        "namespace_hint": "huawei",
+        "project_hint": "sturgeon",
+        "project_id": 1699,
+        "project_path": "huawei/sturgeon"
+      },
+      "revision": "e413cee8f73dd230dea10f6378b6fa089ca0e5c5",
+      "url": "https://dumps.tadiphone.dev/dumps/huawei/sturgeon/-/tree/e413cee8f73dd230dea10f6378b6fa089ca0e5c5"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

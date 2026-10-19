@@ -1,0 +1,264 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "itel/itel-a14@sp7731e_1h20_native-user-8.1.0-OPM2.171019.012-06252253-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sp7731e_1h20_native-user-8.1.0-OPM2.171019.012-06252253-release-keys",
+        "commit": "b6f44481158ca2c5e9e18bb4b55bda4f4d2ed674",
+        "committed_date": "2019-12-04T20:39:22.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T20:26:15.807Z",
+        "namespace_hint": "itel",
+        "project_hint": "itel-a14",
+        "project_id": 2131,
+        "project_path": "itel/itel-a14"
+      },
+      "revision": "b6f44481158ca2c5e9e18bb4b55bda4f4d2ed674",
+      "url": "https://dumps.tadiphone.dev/dumps/itel/itel-a14/-/tree/b6f44481158ca2c5e9e18bb4b55bda4f4d2ed674"
+    },
+    {
+      "item_id": "itel/itel-a16-plus@A16Plus-SA332-8.1-OP-V004-20180907",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "A16Plus-SA332-8.1-OP-V004-20180907",
+        "commit": "0809229e2222d4685f5bea9f01adaa2c9ae9554b",
+        "committed_date": "2019-12-04T20:44:50.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T14:45:53.769Z",
+        "namespace_hint": "itel",
+        "project_hint": "itel-a16-plus",
+        "project_id": 1835,
+        "project_path": "itel/itel-a16-plus"
+      },
+      "revision": "0809229e2222d4685f5bea9f01adaa2c9ae9554b",
+      "url": "https://dumps.tadiphone.dev/dumps/itel/itel-a16-plus/-/tree/0809229e2222d4685f5bea9f01adaa2c9ae9554b"
+    },
+    {
+      "item_id": "itel/itel-a662l@A662L-SU370ABCD-12.0-GL-20230312V369",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "A662L-SU370ABCD-12.0-GL-20230312V369",
+        "commit": "50d04d7459009591e2d764205f35d6c6e98a2ec9",
+        "committed_date": "2024-05-12T19:12:28.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-05-12T16:10:37.192Z",
+        "namespace_hint": "itel",
+        "project_hint": "itel-a662l",
+        "project_id": 5269,
+        "project_path": "itel/itel-a662l"
+      },
+      "revision": "50d04d7459009591e2d764205f35d6c6e98a2ec9",
+      "url": "https://dumps.tadiphone.dev/dumps/itel/itel-a662l/-/tree/50d04d7459009591e2d764205f35d6c6e98a2ec9"
+    },
+    {
+      "item_id": "itel/itel-l5002@L5002-user-9-PPR1.180610.011-252-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "L5002-user-9-PPR1.180610.011-252-release-keys",
+        "commit": "76753995dde2dc90937b53add5da52bf02e1d1f3",
+        "committed_date": "2019-11-29T16:17:55.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T22:46:43.750Z",
+        "namespace_hint": "itel",
+        "project_hint": "itel-l5002",
+        "project_id": 1368,
+        "project_path": "itel/itel-l5002"
+      },
+      "revision": "76753995dde2dc90937b53add5da52bf02e1d1f3",
+      "url": "https://dumps.tadiphone.dev/dumps/itel/itel-l5002/-/tree/76753995dde2dc90937b53add5da52bf02e1d1f3"
+    },
+    {
+      "item_id": "itel/itel-l5502@L5502-SU375-8.1-IN-V007-20181023",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "L5502-SU375-8.1-IN-V007-20181023",
+        "commit": "c4fc8917c957acfaafcd24a7a0e1ee89266a1f48",
+        "committed_date": "2019-12-04T20:58:28.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T09:48:23.675Z",
+        "namespace_hint": "itel",
+        "project_hint": "itel-l5502",
+        "project_id": 1677,
+        "project_path": "itel/itel-l5502"
+      },
+      "revision": "c4fc8917c957acfaafcd24a7a0e1ee89266a1f48",
+      "url": "https://dumps.tadiphone.dev/dumps/itel/itel-l5502/-/tree/c4fc8917c957acfaafcd24a7a0e1ee89266a1f48"
+    },
+    {
+      "item_id": "itel/itel-l5503@L5503-user-9-PPR1.180610.011-50-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "L5503-user-9-PPR1.180610.011-50-release-keys",
+        "commit": "710b5d780a275d9350e84c16bc970d1ce9ef148b",
+        "committed_date": "2019-12-04T10:21:24.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T19:54:04.064Z",
+        "namespace_hint": "itel",
+        "project_hint": "itel-l5503",
+        "project_id": 1280,
+        "project_path": "itel/itel-l5503"
+      },
+      "revision": "710b5d780a275d9350e84c16bc970d1ce9ef148b",
+      "url": "https://dumps.tadiphone.dev/dumps/itel/itel-l5503/-/tree/710b5d780a275d9350e84c16bc970d1ce9ef148b"
+    },
+    {
+      "item_id": "itel/itel-l6002p@L6002P-user-9-PPR1.180610.011-288-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "L6002P-user-9-PPR1.180610.011-288-release-keys",
+        "commit": "d9de07d0a5a8e395be4ff496547f43932638ea52",
+        "committed_date": "2019-12-04T10:20:15.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T12:57:56.169Z",
+        "namespace_hint": "itel",
+        "project_hint": "itel-l6002p",
+        "project_id": 1769,
+        "project_path": "itel/itel-l6002p"
+      },
+      "revision": "d9de07d0a5a8e395be4ff496547f43932638ea52",
+      "url": "https://dumps.tadiphone.dev/dumps/itel/itel-l6002p/-/tree/d9de07d0a5a8e395be4ff496547f43932638ea52"
+    },
+    {
+      "item_id": "itel/itel-l6003p@L6003P-user-9-PPR1.180610.011-148-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "L6003P-user-9-PPR1.180610.011-148-release-keys",
+        "commit": "ce5b039f07f3c3445cbe62e58b1ea636561f5052",
+        "committed_date": "2019-11-16T01:15:49.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T17:10:56.566Z",
+        "namespace_hint": "itel",
+        "project_hint": "itel-l6003p",
+        "project_id": 1967,
+        "project_path": "itel/itel-l6003p"
+      },
+      "revision": "ce5b039f07f3c3445cbe62e58b1ea636561f5052",
+      "url": "https://dumps.tadiphone.dev/dumps/itel/itel-l6003p/-/tree/ce5b039f07f3c3445cbe62e58b1ea636561f5052"
+    },
+    {
+      "item_id": "itel/itel-p10003l@P10003L-CS318-U-RU-240429V2",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "P10003L-CS318-U-RU-240429V2",
+        "commit": "ecd3c01bb88c52a2582054364472f9551ffb9c3f",
+        "committed_date": "2025-02-02T02:32:54.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-02-01T23:29:40.216Z",
+        "namespace_hint": "itel",
+        "project_hint": "itel-p10003l",
+        "project_id": 5560,
+        "project_path": "itel/itel-p10003l"
+      },
+      "revision": "ecd3c01bb88c52a2582054364472f9551ffb9c3f",
+      "url": "https://dumps.tadiphone.dev/dumps/itel/itel-p10003l/-/tree/ecd3c01bb88c52a2582054364472f9551ffb9c3f"
+    },
+    {
+      "item_id": "itel/itel-p661n@sys_tssi_64_armv82_itel-user-13-TP1A.220624.014-699017-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_itel-user-13-TP1A.220624.014-699017-release-keys",
+        "commit": "e6e713aae50f7225ab65de9fad9ded672e7b485f",
+        "committed_date": "2025-03-17T13:16:51.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-03-17T10:13:42.330Z",
+        "namespace_hint": "itel",
+        "project_hint": "itel-p661n",
+        "project_id": 5606,
+        "project_path": "itel/itel-p661n"
+      },
+      "revision": "e6e713aae50f7225ab65de9fad9ded672e7b485f",
+      "url": "https://dumps.tadiphone.dev/dumps/itel/itel-p661n/-/tree/e6e713aae50f7225ab65de9fad9ded672e7b485f"
+    },
+    {
+      "item_id": "itel/itel-s665l@S665L-user-12-SP1A.210812.016-360-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "S665L-user-12-SP1A.210812.016-360-release-keys",
+        "commit": "003da580a1a14cf1eeb9a48a4fb56f90e3b39d67",
+        "committed_date": "2023-08-14T13:26:27.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-08-14T10:22:33.392Z",
+        "namespace_hint": "itel",
+        "project_hint": "itel-s665l",
+        "project_id": 4397,
+        "project_path": "itel/itel-s665l"
+      },
+      "revision": "003da580a1a14cf1eeb9a48a4fb56f90e3b39d67",
+      "url": "https://dumps.tadiphone.dev/dumps/itel/itel-s665l/-/tree/003da580a1a14cf1eeb9a48a4fb56f90e3b39d67"
+    },
+    {
+      "item_id": "itel/itel-w4003@W4003-SA217-8.1-OP-V021-20190521",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "W4003-SA217-8.1-OP-V021-20190521",
+        "commit": "abfb27ae9af11cdcaafde34c72a8892c23db4c0d",
+        "committed_date": "2019-11-11T17:31:45.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T19:46:36.497Z",
+        "namespace_hint": "itel",
+        "project_hint": "itel-w4003",
+        "project_id": 781,
+        "project_path": "itel/itel-w4003"
+      },
+      "revision": "abfb27ae9af11cdcaafde34c72a8892c23db4c0d",
+      "url": "https://dumps.tadiphone.dev/dumps/itel/itel-w4003/-/tree/abfb27ae9af11cdcaafde34c72a8892c23db4c0d"
+    },
+    {
+      "item_id": "itel/itel-w5504@W5504-user-8.1.0-OPM2.171019.012-272-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "W5504-user-8.1.0-OPM2.171019.012-272-release-keys",
+        "commit": "8686647f58f670885c0e79794a201a3c030e951a",
+        "committed_date": "2019-12-04T20:52:42.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T17:10:18.289Z",
+        "namespace_hint": "itel",
+        "project_hint": "itel-w5504",
+        "project_id": 1966,
+        "project_path": "itel/itel-w5504"
+      },
+      "revision": "8686647f58f670885c0e79794a201a3c030e951a",
+      "url": "https://dumps.tadiphone.dev/dumps/itel/itel-w5504/-/tree/8686647f58f670885c0e79794a201a3c030e951a"
+    },
+    {
+      "item_id": "itel/l6005@L6005-user-9-PPR1.180610.011-176-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "L6005-user-9-PPR1.180610.011-176-release-keys",
+        "commit": "545f0d22ee0b53b23e26cda804b6e9bb6573a991",
+        "committed_date": "2020-03-06T04:54:24.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T07:34:52.160Z",
+        "namespace_hint": "itel",
+        "project_hint": "l6005",
+        "project_id": 1545,
+        "project_path": "itel/l6005"
+      },
+      "revision": "545f0d22ee0b53b23e26cda804b6e9bb6573a991",
+      "url": "https://dumps.tadiphone.dev/dumps/itel/l6005/-/tree/545f0d22ee0b53b23e26cda804b6e9bb6573a991"
+    },
+    {
+      "item_id": "itel/w6002@W6002-user-9-PPR1.180610.011-521-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "W6002-user-9-PPR1.180610.011-521-release-keys",
+        "commit": "d0eec52c1d67f7f1d7aae88f27f6e84246f388e1",
+        "committed_date": "2020-03-06T04:49:15.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T07:55:03.752Z",
+        "namespace_hint": "itel",
+        "project_hint": "w6002",
+        "project_id": 1577,
+        "project_path": "itel/w6002"
+      },
+      "revision": "d0eec52c1d67f7f1d7aae88f27f6e84246f388e1",
+      "url": "https://dumps.tadiphone.dev/dumps/itel/w6002/-/tree/d0eec52c1d67f7f1d7aae88f27f6e84246f388e1"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

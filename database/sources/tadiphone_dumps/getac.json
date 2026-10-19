@@ -1,0 +1,94 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "getac/zx10@sdm660_64-user-11-RKQ1.201129.002-ZX1000004-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-11-RKQ1.201129.002-ZX1000004-release-keys",
+        "commit": "7e773008a247eac282f1934bd1e709bcd306c822",
+        "committed_date": "2022-11-06T01:54:45.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-07-31T22:52:01.276Z",
+        "namespace_hint": "getac",
+        "project_hint": "zx10",
+        "project_id": 2513,
+        "project_path": "getac/zx10"
+      },
+      "revision": "7e773008a247eac282f1934bd1e709bcd306c822",
+      "url": "https://dumps.tadiphone.dev/dumps/getac/zx10/-/tree/7e773008a247eac282f1934bd1e709bcd306c822"
+    },
+    {
+      "item_id": "getac/zx10@sdm660_64-user-12-SKQ1.220713.001-ZX1000005-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-12-SKQ1.220713.001-ZX1000005-release-keys",
+        "commit": "172619eaaccf6f62d845867d34237d57ae78f198",
+        "committed_date": "2023-08-01T01:46:43.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-07-31T22:52:01.276Z",
+        "namespace_hint": "getac",
+        "project_hint": "zx10",
+        "project_id": 2513,
+        "project_path": "getac/zx10"
+      },
+      "revision": "172619eaaccf6f62d845867d34237d57ae78f198",
+      "url": "https://dumps.tadiphone.dev/dumps/getac/zx10/-/tree/172619eaaccf6f62d845867d34237d57ae78f198"
+    },
+    {
+      "item_id": "getac/zx70@zx70-userdebug-7.1.1-NMF27D-userdebug.builder.20200907.091214-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "zx70-userdebug-7.1.1-NMF27D-userdebug.builder.20200907.091214-release-keys",
+        "commit": "9fc0ae573da544fb2809152db1e2f0317370a8f6",
+        "committed_date": "2022-05-18T17:11:02.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T23:36:54.386Z",
+        "namespace_hint": "getac",
+        "project_hint": "zx70",
+        "project_id": 813,
+        "project_path": "getac/zx70"
+      },
+      "revision": "9fc0ae573da544fb2809152db1e2f0317370a8f6",
+      "url": "https://dumps.tadiphone.dev/dumps/getac/zx70/-/tree/9fc0ae573da544fb2809152db1e2f0317370a8f6"
+    },
+    {
+      "item_id": "getac/zx70g2@sdm660_64-user-10-QKQ1.200506.002-Z2001ED_LTE-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-10-QKQ1.200506.002-Z2001ED_LTE-release-keys",
+        "commit": "16e3a9f1026cfb66a6ca1057d37cb3cc7421c133",
+        "committed_date": "2022-05-18T16:29:30.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T22:42:46.711Z",
+        "namespace_hint": "getac",
+        "project_hint": "zx70g2",
+        "project_id": 803,
+        "project_path": "getac/zx70g2"
+      },
+      "revision": "16e3a9f1026cfb66a6ca1057d37cb3cc7421c133",
+      "url": "https://dumps.tadiphone.dev/dumps/getac/zx70g2/-/tree/16e3a9f1026cfb66a6ca1057d37cb3cc7421c133"
+    },
+    {
+      "item_id": "getac/zx70g2@sdm660_64-user-9-PKQ1.190723.001-Z2001ED_LTE-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-9-PKQ1.190723.001-Z2001ED_LTE-release-keys",
+        "commit": "7a9eb7836d855f525baeb48a0e21732ae704f9e4",
+        "committed_date": "2022-05-18T16:53:12.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-14T22:42:46.711Z",
+        "namespace_hint": "getac",
+        "project_hint": "zx70g2",
+        "project_id": 803,
+        "project_path": "getac/zx70g2"
+      },
+      "revision": "7a9eb7836d855f525baeb48a0e21732ae704f9e4",
+      "url": "https://dumps.tadiphone.dev/dumps/getac/zx70g2/-/tree/7a9eb7836d855f525baeb48a0e21732ae704f9e4"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

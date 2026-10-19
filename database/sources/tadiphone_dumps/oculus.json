@@ -1,0 +1,366 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "oculus/eureka@eureka-user-12-SQ3A.220605.009.A1-49698210068300510-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "eureka-user-12-SQ3A.220605.009.A1-49698210068300510-release-keys",
+        "commit": "e34d8b93ecdb75a2e7aa4ea37932feea0228cc5c",
+        "committed_date": "2023-10-07T16:58:38.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-05T21:15:15.480Z",
+        "namespace_hint": "oculus",
+        "project_hint": "eureka",
+        "project_id": 4505,
+        "project_path": "oculus/eureka"
+      },
+      "revision": "e34d8b93ecdb75a2e7aa4ea37932feea0228cc5c",
+      "url": "https://dumps.tadiphone.dev/dumps/oculus/eureka/-/tree/e34d8b93ecdb75a2e7aa4ea37932feea0228cc5c"
+    },
+    {
+      "item_id": "oculus/eureka@eureka-user-12-SQ3A.220605.009.A1-49698210077900510-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "eureka-user-12-SQ3A.220605.009.A1-49698210077900510-release-keys",
+        "commit": "f4077b48cb7c5a834b7947c8ac344c4dda4bcdb5",
+        "committed_date": "2023-10-25T10:27:28.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-05T21:15:15.480Z",
+        "namespace_hint": "oculus",
+        "project_hint": "eureka",
+        "project_id": 4505,
+        "project_path": "oculus/eureka"
+      },
+      "revision": "f4077b48cb7c5a834b7947c8ac344c4dda4bcdb5",
+      "url": "https://dumps.tadiphone.dev/dumps/oculus/eureka/-/tree/f4077b48cb7c5a834b7947c8ac344c4dda4bcdb5"
+    },
+    {
+      "item_id": "oculus/eureka@eureka-user-12-SQ3A.220605.009.A1-49777350047300510-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "eureka-user-12-SQ3A.220605.009.A1-49777350047300510-release-keys",
+        "commit": "7fb1e9d500f069933725e0ee274a32cba7c746e5",
+        "committed_date": "2023-12-19T18:39:35.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-05T21:15:15.480Z",
+        "namespace_hint": "oculus",
+        "project_hint": "eureka",
+        "project_id": 4505,
+        "project_path": "oculus/eureka"
+      },
+      "revision": "7fb1e9d500f069933725e0ee274a32cba7c746e5",
+      "url": "https://dumps.tadiphone.dev/dumps/oculus/eureka/-/tree/7fb1e9d500f069933725e0ee274a32cba7c746e5"
+    },
+    {
+      "item_id": "oculus/eureka@eureka-user-12-SQ3A.220605.009.A1-49777350068800510-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "eureka-user-12-SQ3A.220605.009.A1-49777350068800510-release-keys",
+        "commit": "5ef8597f13a04a7b3de313289c813fcf2bb7843b",
+        "committed_date": "2024-01-20T09:46:46.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-05T21:15:15.480Z",
+        "namespace_hint": "oculus",
+        "project_hint": "eureka",
+        "project_id": 4505,
+        "project_path": "oculus/eureka"
+      },
+      "revision": "5ef8597f13a04a7b3de313289c813fcf2bb7843b",
+      "url": "https://dumps.tadiphone.dev/dumps/oculus/eureka/-/tree/5ef8597f13a04a7b3de313289c813fcf2bb7843b"
+    },
+    {
+      "item_id": "oculus/eureka@eureka-user-12-SQ3A.220605.009.A1-50709660120700510-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "eureka-user-12-SQ3A.220605.009.A1-50709660120700510-release-keys",
+        "commit": "c5326e13807db0761edd9143dbb6e9250fb20ec2",
+        "committed_date": "2025-02-05T00:31:33.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-05T21:15:15.480Z",
+        "namespace_hint": "oculus",
+        "project_hint": "eureka",
+        "project_id": 4505,
+        "project_path": "oculus/eureka"
+      },
+      "revision": "c5326e13807db0761edd9143dbb6e9250fb20ec2",
+      "url": "https://dumps.tadiphone.dev/dumps/oculus/eureka/-/tree/c5326e13807db0761edd9143dbb6e9250fb20ec2"
+    },
+    {
+      "item_id": "oculus/eureka@eureka-user-14-UP1A.231005.007.A1-50974260049300520-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "eureka-user-14-UP1A.231005.007.A1-50974260049300520-release-keys",
+        "commit": "a784742539a3d06aa2b113b8fd95ad68edc63d1d",
+        "committed_date": "2025-05-06T00:09:44.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-05-05T21:15:15.480Z",
+        "namespace_hint": "oculus",
+        "project_hint": "eureka",
+        "project_id": 4505,
+        "project_path": "oculus/eureka"
+      },
+      "revision": "a784742539a3d06aa2b113b8fd95ad68edc63d1d",
+      "url": "https://dumps.tadiphone.dev/dumps/oculus/eureka/-/tree/a784742539a3d06aa2b113b8fd95ad68edc63d1d"
+    },
+    {
+      "item_id": "oculus/hollywood@hollywood-user-10-QQ3A.200805.001-24721900363900000-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "hollywood-user-10-QQ3A.200805.001-24721900363900000-release-keys",
+        "commit": "ed3900f60988a23369068abdbd7fed68b5d06e66",
+        "committed_date": "2022-03-08T12:17:47.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-09T20:33:02.929Z",
+        "namespace_hint": "oculus",
+        "project_hint": "hollywood",
+        "project_id": 805,
+        "project_path": "oculus/hollywood"
+      },
+      "revision": "ed3900f60988a23369068abdbd7fed68b5d06e66",
+      "url": "https://dumps.tadiphone.dev/dumps/oculus/hollywood/-/tree/ed3900f60988a23369068abdbd7fed68b5d06e66"
+    },
+    {
+      "item_id": "oculus/hollywood@hollywood-user-12-SQ3A.220605.009.A1-50600670038800150-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "hollywood-user-12-SQ3A.220605.009.A1-50600670038800150-release-keys",
+        "commit": "b8c77c7636223ce17bd26734caa161b7f3662ddc",
+        "committed_date": "2023-08-14T16:10:56.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-09T20:33:02.929Z",
+        "namespace_hint": "oculus",
+        "project_hint": "hollywood",
+        "project_id": 805,
+        "project_path": "oculus/hollywood"
+      },
+      "revision": "b8c77c7636223ce17bd26734caa161b7f3662ddc",
+      "url": "https://dumps.tadiphone.dev/dumps/oculus/hollywood/-/tree/b8c77c7636223ce17bd26734caa161b7f3662ddc"
+    },
+    {
+      "item_id": "oculus/hollywood@hollywood-user-12-SQ3A.220605.009.A1-50623410078100150-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "hollywood-user-12-SQ3A.220605.009.A1-50623410078100150-release-keys",
+        "commit": "d456629fad166436b95cfdb6c54e73b5f07590f4",
+        "committed_date": "2023-10-25T09:59:18.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-09T20:33:02.929Z",
+        "namespace_hint": "oculus",
+        "project_hint": "hollywood",
+        "project_id": 805,
+        "project_path": "oculus/hollywood"
+      },
+      "revision": "d456629fad166436b95cfdb6c54e73b5f07590f4",
+      "url": "https://dumps.tadiphone.dev/dumps/oculus/hollywood/-/tree/d456629fad166436b95cfdb6c54e73b5f07590f4"
+    },
+    {
+      "item_id": "oculus/hollywood@hollywood-user-12-SQ3A.220605.009.A1-50765700030900150-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "hollywood-user-12-SQ3A.220605.009.A1-50765700030900150-release-keys",
+        "commit": "84806add91606ec463ea9b28f352985fe5d4627a",
+        "committed_date": "2024-01-23T15:21:38.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-09T20:33:02.929Z",
+        "namespace_hint": "oculus",
+        "project_hint": "hollywood",
+        "project_id": 805,
+        "project_path": "oculus/hollywood"
+      },
+      "revision": "84806add91606ec463ea9b28f352985fe5d4627a",
+      "url": "https://dumps.tadiphone.dev/dumps/oculus/hollywood/-/tree/84806add91606ec463ea9b28f352985fe5d4627a"
+    },
+    {
+      "item_id": "oculus/hollywood@hollywood-user-12-SQ3A.220605.009.A1-50864850041500150-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "hollywood-user-12-SQ3A.220605.009.A1-50864850041500150-release-keys",
+        "commit": "33ceeb2f345c661875f88f0ea28467737aff5dc3",
+        "committed_date": "2024-06-10T19:29:31.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-09T20:33:02.929Z",
+        "namespace_hint": "oculus",
+        "project_hint": "hollywood",
+        "project_id": 805,
+        "project_path": "oculus/hollywood"
+      },
+      "revision": "33ceeb2f345c661875f88f0ea28467737aff5dc3",
+      "url": "https://dumps.tadiphone.dev/dumps/oculus/hollywood/-/tree/33ceeb2f345c661875f88f0ea28467737aff5dc3"
+    },
+    {
+      "item_id": "oculus/hollywood@hollywood-user-12-SQ3A.220605.009.A1-51203760097500150-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "hollywood-user-12-SQ3A.220605.009.A1-51203760097500150-release-keys",
+        "commit": "767a4d73723d54ab8e6399bc5abe18648ce4bb2c",
+        "committed_date": "2024-11-09T23:29:12.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-11-09T20:33:02.929Z",
+        "namespace_hint": "oculus",
+        "project_hint": "hollywood",
+        "project_id": 805,
+        "project_path": "oculus/hollywood"
+      },
+      "revision": "767a4d73723d54ab8e6399bc5abe18648ce4bb2c",
+      "url": "https://dumps.tadiphone.dev/dumps/oculus/hollywood/-/tree/767a4d73723d54ab8e6399bc5abe18648ce4bb2c"
+    },
+    {
+      "item_id": "oculus/monterey@vr_monterey-user-10-QQ3A.200805.001-49845030259200400-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "vr_monterey-user-10-QQ3A.200805.001-49845030259200400-release-keys",
+        "commit": "56aaabf6d700b8a03117678a016f7546d26a9485",
+        "committed_date": "2023-08-14T16:40:00.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-09-23T12:19:41.260Z",
+        "namespace_hint": "oculus",
+        "project_hint": "monterey",
+        "project_id": 4399,
+        "project_path": "oculus/monterey"
+      },
+      "revision": "56aaabf6d700b8a03117678a016f7546d26a9485",
+      "url": "https://dumps.tadiphone.dev/dumps/oculus/monterey/-/tree/56aaabf6d700b8a03117678a016f7546d26a9485"
+    },
+    {
+      "item_id": "oculus/monterey@vr_monterey-user-7.1.1-N9F27L-251.1150.0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "vr_monterey-user-7.1.1-N9F27L-251.1150.0-release-keys",
+        "commit": "41df2dce021b18c77c1e7c056c53b038dd6fb5d9",
+        "committed_date": "2025-09-23T15:17:49.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-09-23T12:19:41.260Z",
+        "namespace_hint": "oculus",
+        "project_hint": "monterey",
+        "project_id": 4399,
+        "project_path": "oculus/monterey"
+      },
+      "revision": "41df2dce021b18c77c1e7c056c53b038dd6fb5d9",
+      "url": "https://dumps.tadiphone.dev/dumps/oculus/monterey/-/tree/41df2dce021b18c77c1e7c056c53b038dd6fb5d9"
+    },
+    {
+      "item_id": "oculus/monterey@vr_monterey-user-7.1.1-NGI77B-256550.6810.0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "vr_monterey-user-7.1.1-NGI77B-256550.6810.0-release-keys",
+        "commit": "951578537afe22164e6ece625a9db786dfb990c3",
+        "committed_date": "2023-08-15T11:05:50.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-09-23T12:19:41.260Z",
+        "namespace_hint": "oculus",
+        "project_hint": "monterey",
+        "project_id": 4399,
+        "project_path": "oculus/monterey"
+      },
+      "revision": "951578537afe22164e6ece625a9db786dfb990c3",
+      "url": "https://dumps.tadiphone.dev/dumps/oculus/monterey/-/tree/951578537afe22164e6ece625a9db786dfb990c3"
+    },
+    {
+      "item_id": "oculus/pacific@vr_pacific-user-7.1.1-NGI77B-20480400000200000-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "vr_pacific-user-7.1.1-NGI77B-20480400000200000-release-keys",
+        "commit": "f39f9a2be4a362c04e7d2be7106d5718691a3969",
+        "committed_date": "2021-10-25T01:57:42.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T21:43:27.537Z",
+        "namespace_hint": "oculus",
+        "project_hint": "pacific",
+        "project_id": 1335,
+        "project_path": "oculus/pacific"
+      },
+      "revision": "f39f9a2be4a362c04e7d2be7106d5718691a3969",
+      "url": "https://dumps.tadiphone.dev/dumps/oculus/pacific/-/tree/f39f9a2be4a362c04e7d2be7106d5718691a3969"
+    },
+    {
+      "item_id": "oculus/panther@panther-user-12-SQ3A.220605.009.A1-464020121500610-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "panther-user-12-SQ3A.220605.009.A1-464020121500610-release-keys",
+        "commit": "374e03100894d9b4b0e117e862cb499d05b02579",
+        "committed_date": "2025-02-05T00:19:33.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-02-04T21:17:50.099Z",
+        "namespace_hint": "oculus",
+        "project_hint": "panther",
+        "project_id": 5564,
+        "project_path": "oculus/panther"
+      },
+      "revision": "374e03100894d9b4b0e117e862cb499d05b02579",
+      "url": "https://dumps.tadiphone.dev/dumps/oculus/panther/-/tree/374e03100894d9b4b0e117e862cb499d05b02579"
+    },
+    {
+      "item_id": "oculus/seacliff@seacliff-user-12-SQ3A.220605.009.A1-50065460038600330-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "seacliff-user-12-SQ3A.220605.009.A1-50065460038600330-release-keys",
+        "commit": "98c408a235153b41137b111bdcbcd70a156f7120",
+        "committed_date": "2023-08-14T13:38:22.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-07-23T03:25:15.471Z",
+        "namespace_hint": "oculus",
+        "project_hint": "seacliff",
+        "project_id": 4398,
+        "project_path": "oculus/seacliff"
+      },
+      "revision": "98c408a235153b41137b111bdcbcd70a156f7120",
+      "url": "https://dumps.tadiphone.dev/dumps/oculus/seacliff/-/tree/98c408a235153b41137b111bdcbcd70a156f7120"
+    },
+    {
+      "item_id": "oculus/seacliff@seacliff-user-12-SQ3A.220605.009.A1-50134520068700330-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "seacliff-user-12-SQ3A.220605.009.A1-50134520068700330-release-keys",
+        "commit": "c2a5dd1f8c79189f036829e8024b865c38930334",
+        "committed_date": "2024-01-20T09:12:13.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-07-23T03:25:15.471Z",
+        "namespace_hint": "oculus",
+        "project_hint": "seacliff",
+        "project_id": 4398,
+        "project_path": "oculus/seacliff"
+      },
+      "revision": "c2a5dd1f8c79189f036829e8024b865c38930334",
+      "url": "https://dumps.tadiphone.dev/dumps/oculus/seacliff/-/tree/c2a5dd1f8c79189f036829e8024b865c38930334"
+    },
+    {
+      "item_id": "oculus/seacliff@seacliff-user-12-SQ3A.220605.009.A1-50413040037500330-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "seacliff-user-12-SQ3A.220605.009.A1-50413040037500330-release-keys",
+        "commit": "75e14ccef90a744cf804168fd70684455b4c0533",
+        "committed_date": "2024-07-23T06:21:10.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-07-23T03:25:15.471Z",
+        "namespace_hint": "oculus",
+        "project_hint": "seacliff",
+        "project_id": 4398,
+        "project_path": "oculus/seacliff"
+      },
+      "revision": "75e14ccef90a744cf804168fd70684455b4c0533",
+      "url": "https://dumps.tadiphone.dev/dumps/oculus/seacliff/-/tree/75e14ccef90a744cf804168fd70684455b4c0533"
+    },
+    {
+      "item_id": "oculus/starlet@starlet-user-12-SQ3A.220605.009.A1-50217020038600390-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "starlet-user-12-SQ3A.220605.009.A1-50217020038600390-release-keys",
+        "commit": "8bddff2e1b1b310370bd59da6fa7a994970f9674",
+        "committed_date": "2024-01-11T02:33:15.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-01-10T23:32:51.017Z",
+        "namespace_hint": "oculus",
+        "project_hint": "starlet",
+        "project_id": 4682,
+        "project_path": "oculus/starlet"
+      },
+      "revision": "8bddff2e1b1b310370bd59da6fa7a994970f9674",
+      "url": "https://dumps.tadiphone.dev/dumps/oculus/starlet/-/tree/8bddff2e1b1b310370bd59da6fa7a994970f9674"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

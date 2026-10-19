@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "iku/a25@full_r62q1_sye_c06-user-12-SP1A.210812.016-mp1V15240-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_r62q1_sye_c06-user-12-SP1A.210812.016-mp1V15240-release-keys",
+        "commit": "3d6b7d54e9b04eecde8975617ca2e37ec097916b",
+        "committed_date": "2025-07-17T11:56:44.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-07-17T08:54:40.485Z",
+        "namespace_hint": "iku",
+        "project_hint": "a25",
+        "project_id": 5675,
+        "project_path": "iku/a25"
+      },
+      "revision": "3d6b7d54e9b04eecde8975617ca2e37ec097916b",
+      "url": "https://dumps.tadiphone.dev/dumps/iku/a25/-/tree/3d6b7d54e9b04eecde8975617ca2e37ec097916b"
+    },
+    {
+      "item_id": "iku/ix@sp7731e_fs280_32v4_project-user-8.1.0-OPM2.171019.012-01119-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sp7731e_fs280_32v4_project-user-8.1.0-OPM2.171019.012-01119-release-keys",
+        "commit": "8cb30cae08c49a80f08be4491cec50ca5634bf97",
+        "committed_date": "2020-01-22T07:44:10.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T11:31:59.658Z",
+        "namespace_hint": "iku",
+        "project_hint": "ix",
+        "project_id": 1728,
+        "project_path": "iku/ix"
+      },
+      "revision": "8cb30cae08c49a80f08be4491cec50ca5634bf97",
+      "url": "https://dumps.tadiphone.dev/dumps/iku/ix/-/tree/8cb30cae08c49a80f08be4491cec50ca5634bf97"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

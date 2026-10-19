@@ -1,0 +1,106 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "_project/5238",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": null,
+        "project_id": 5238,
+        "project_path": "droidlogic/galilei",
+        "reason": "repository_not_readable"
+      },
+      "revision": null,
+      "url": "https://dumps.tadiphone.dev/dumps/droidlogic/galilei"
+    },
+    {
+      "item_id": "droidlogic/ohm@ohm-userdebug-11-RQ2A.210305.007-eng.yxt-rd.20210811.121659-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ohm-userdebug-11-RQ2A.210305.007-eng.yxt-rd.20210811.121659-test-keys",
+        "commit": "e8712b6424fc72f884e4950e231915eec0da1240",
+        "committed_date": "2021-09-02T22:43:02.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T08:34:01.258Z",
+        "namespace_hint": "droidlogic",
+        "project_hint": "ohm",
+        "project_id": 1611,
+        "project_path": "droidlogic/ohm"
+      },
+      "revision": "e8712b6424fc72f884e4950e231915eec0da1240",
+      "url": "https://dumps.tadiphone.dev/dumps/droidlogic/ohm/-/tree/e8712b6424fc72f884e4950e231915eec0da1240"
+    },
+    {
+      "item_id": "droidlogic/ohm@ohm-userdebug-11-RQ3A.210805.001.A1-eng.yxt-rd.20211026.212128-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ohm-userdebug-11-RQ3A.210805.001.A1-eng.yxt-rd.20211026.212128-test-keys",
+        "commit": "ae86caac587b5b4b4e867bde4984ab7375a1b41c",
+        "committed_date": "2021-11-27T21:57:52.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:34:01.258Z",
+        "namespace_hint": "droidlogic",
+        "project_hint": "ohm",
+        "project_id": 1611,
+        "project_path": "droidlogic/ohm"
+      },
+      "revision": "ae86caac587b5b4b4e867bde4984ab7375a1b41c",
+      "url": "https://dumps.tadiphone.dev/dumps/droidlogic/ohm/-/tree/ae86caac587b5b4b4e867bde4984ab7375a1b41c"
+    },
+    {
+      "item_id": "droidlogic/rutherford@rutherford-userdebug-9-PPR1.180610.011-20201216-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "rutherford-userdebug-9-PPR1.180610.011-20201216-test-keys",
+        "commit": "a85d501d8a157987a6a3f080ca97cf5396dcf9d9",
+        "committed_date": "2021-01-12T10:03:04.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T01:49:04.006Z",
+        "namespace_hint": "droidlogic",
+        "project_hint": "rutherford",
+        "project_id": 2312,
+        "project_path": "droidlogic/rutherford"
+      },
+      "revision": "a85d501d8a157987a6a3f080ca97cf5396dcf9d9",
+      "url": "https://dumps.tadiphone.dev/dumps/droidlogic/rutherford/-/tree/a85d501d8a157987a6a3f080ca97cf5396dcf9d9"
+    },
+    {
+      "item_id": "droidlogic/t963_ak301@t963_ak301-userdebug-9-PI-20210426-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "t963_ak301-userdebug-9-PI-20210426-test-keys",
+        "commit": "83e43304b9ef34b16ae2f6ef7244973e988b646f",
+        "committed_date": "2021-04-27T06:29:06.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T08:18:48.851Z",
+        "namespace_hint": "droidlogic",
+        "project_hint": "t963_ak301",
+        "project_id": 1599,
+        "project_path": "droidlogic/t963_ak301"
+      },
+      "revision": "83e43304b9ef34b16ae2f6ef7244973e988b646f",
+      "url": "https://dumps.tadiphone.dev/dumps/droidlogic/t963_ak301/-/tree/83e43304b9ef34b16ae2f6ef7244973e988b646f"
+    },
+    {
+      "item_id": "droidlogic/w400@w400-userdebug-9-PPR1.180610.011-20211103-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "w400-userdebug-9-PPR1.180610.011-20211103-test-keys",
+        "commit": "c1fa72bf71b9b5aa25997522912b5708f73418ad",
+        "committed_date": "2021-11-05T12:42:32.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T10:14:13.049Z",
+        "namespace_hint": "droidlogic",
+        "project_hint": "w400",
+        "project_id": 1705,
+        "project_path": "droidlogic/w400"
+      },
+      "revision": "c1fa72bf71b9b5aa25997522912b5708f73418ad",
+      "url": "https://dumps.tadiphone.dev/dumps/droidlogic/w400/-/tree/c1fa72bf71b9b5aa25997522912b5708f73418ad"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

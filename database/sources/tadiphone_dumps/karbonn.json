@@ -1,0 +1,60 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "karbonn/k9_smart_plus@sn15k_64v8_gofu_osea-user-8.1.0-OPM2.171019.012-36218-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sn15k_64v8_gofu_osea-user-8.1.0-OPM2.171019.012-36218-release-keys",
+        "commit": "045a5a110c51372c9dcc13350a46ee84092ae852",
+        "committed_date": "2019-11-12T21:14:13.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T14:49:49.870Z",
+        "namespace_hint": "karbonn",
+        "project_hint": "k9_smart_plus",
+        "project_id": 1840,
+        "project_path": "karbonn/k9_smart_plus"
+      },
+      "revision": "045a5a110c51372c9dcc13350a46ee84092ae852",
+      "url": "https://dumps.tadiphone.dev/dumps/karbonn/k9_smart_plus/-/tree/045a5a110c51372c9dcc13350a46ee84092ae852"
+    },
+    {
+      "item_id": "karbonn/karbonn_vue_1@Karbonn_Vue_1_V07",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Karbonn_Vue_1_V07",
+        "commit": "b52da491b70791a606aa424bab5b46d66687fc2f",
+        "committed_date": "2019-11-11T14:40:03.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T23:31:42.613Z",
+        "namespace_hint": "karbonn",
+        "project_hint": "karbonn_vue_1",
+        "project_id": 2212,
+        "project_path": "karbonn/karbonn_vue_1"
+      },
+      "revision": "b52da491b70791a606aa424bab5b46d66687fc2f",
+      "url": "https://dumps.tadiphone.dev/dumps/karbonn/karbonn_vue_1/-/tree/b52da491b70791a606aa424bab5b46d66687fc2f"
+    },
+    {
+      "item_id": "karbonn/platinum_p9_pro@sp9832e_1h10_oversea-user-8.1.0-OPM2.171019.012-37515-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sp9832e_1h10_oversea-user-8.1.0-OPM2.171019.012-37515-release-keys",
+        "commit": "c57db659ae0c6e70fae1449dc6bf30bde67908c3",
+        "committed_date": "2019-11-11T17:40:02.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T00:27:33.224Z",
+        "namespace_hint": "karbonn",
+        "project_hint": "platinum_p9_pro",
+        "project_id": 1428,
+        "project_path": "karbonn/platinum_p9_pro"
+      },
+      "revision": "c57db659ae0c6e70fae1449dc6bf30bde67908c3",
+      "url": "https://dumps.tadiphone.dev/dumps/karbonn/platinum_p9_pro/-/tree/c57db659ae0c6e70fae1449dc6bf30bde67908c3"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

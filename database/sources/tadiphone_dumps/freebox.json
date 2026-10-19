@@ -1,0 +1,60 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "freebox/fbx8am@fbx8am-user-9-PI-v9.6.21-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "fbx8am-user-9-PI-v9.6.21-release-keys",
+        "commit": "7898c0ab8b178d6bcb71ed68112dec024d71a328",
+        "committed_date": "2021-10-03T04:14:00.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T23:25:19.029Z",
+        "namespace_hint": "freebox",
+        "project_hint": "fbx8am",
+        "project_id": 2203,
+        "project_path": "freebox/fbx8am"
+      },
+      "revision": "7898c0ab8b178d6bcb71ed68112dec024d71a328",
+      "url": "https://dumps.tadiphone.dev/dumps/freebox/fbx8am/-/tree/7898c0ab8b178d6bcb71ed68112dec024d71a328"
+    },
+    {
+      "item_id": "freebox/fbx8am@fbx8am-user-9-PI-v9.6.23-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "fbx8am-user-9-PI-v9.6.23-release-keys",
+        "commit": "77a6e9ff489385d3bf4d8fc980fc0393ebfda0d1",
+        "committed_date": "2021-10-03T04:09:27.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T23:25:19.029Z",
+        "namespace_hint": "freebox",
+        "project_hint": "fbx8am",
+        "project_id": 2203,
+        "project_path": "freebox/fbx8am"
+      },
+      "revision": "77a6e9ff489385d3bf4d8fc980fc0393ebfda0d1",
+      "url": "https://dumps.tadiphone.dev/dumps/freebox/fbx8am/-/tree/77a6e9ff489385d3bf4d8fc980fc0393ebfda0d1"
+    },
+    {
+      "item_id": "freebox/fbx8am@fbx8am-user-9-PI-v9.6.26-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "fbx8am-user-9-PI-v9.6.26-release-keys",
+        "commit": "7c6dd820a1674680d4701d2879a173c3d8a24a50",
+        "committed_date": "2021-10-03T04:02:38.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T23:25:19.029Z",
+        "namespace_hint": "freebox",
+        "project_hint": "fbx8am",
+        "project_id": 2203,
+        "project_path": "freebox/fbx8am"
+      },
+      "revision": "7c6dd820a1674680d4701d2879a173c3d8a24a50",
+      "url": "https://dumps.tadiphone.dev/dumps/freebox/fbx8am/-/tree/7c6dd820a1674680d4701d2879a173c3d8a24a50"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

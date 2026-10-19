@@ -1,0 +1,128 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "wiko/u307as@U307AS-user-9-P00610-1582839720-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "U307AS-user-9-P00610-1582839720-release-keys",
+        "commit": "103ad4fd3eab4f670eab58f3c9d5c8c5edc4e703",
+        "committed_date": "2021-09-12T23:57:04.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T03:18:06.590Z",
+        "namespace_hint": "wiko",
+        "project_hint": "u307as",
+        "project_id": 872,
+        "project_path": "wiko/u307as"
+      },
+      "revision": "103ad4fd3eab4f670eab58f3c9d5c8c5edc4e703",
+      "url": "https://dumps.tadiphone.dev/dumps/wiko/u307as/-/tree/103ad4fd3eab4f670eab58f3c9d5c8c5edc4e703"
+    },
+    {
+      "item_id": "wiko/v12bnlite@v12bnlite-user-7.1.2-N2G47H-eng.android.1535682088-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "v12bnlite-user-7.1.2-N2G47H-eng.android.1535682088-release-keys",
+        "commit": "4fba149c95dcf2f7b8c35f20e71ac38dd0c87ad2",
+        "committed_date": "2022-12-20T12:00:58.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-12-20T08:58:54.334Z",
+        "namespace_hint": "wiko",
+        "project_hint": "v12bnlite",
+        "project_id": 4002,
+        "project_path": "wiko/v12bnlite"
+      },
+      "revision": "4fba149c95dcf2f7b8c35f20e71ac38dd0c87ad2",
+      "url": "https://dumps.tadiphone.dev/dumps/wiko/v12bnlite/-/tree/4fba149c95dcf2f7b8c35f20e71ac38dd0c87ad2"
+    },
+    {
+      "item_id": "wiko/v2806@v2806-user-6.0-MRA58K-151-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "v2806-user-6.0-MRA58K-151-release-keys",
+        "commit": "9f8810d547d6457441a97af2265676365a5ba692",
+        "committed_date": "2024-09-24T13:04:40.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-09-24T10:03:37.471Z",
+        "namespace_hint": "wiko",
+        "project_hint": "v2806",
+        "project_id": 5426,
+        "project_path": "wiko/v2806"
+      },
+      "revision": "9f8810d547d6457441a97af2265676365a5ba692",
+      "url": "https://dumps.tadiphone.dev/dumps/wiko/v2806/-/tree/9f8810d547d6457441a97af2265676365a5ba692"
+    },
+    {
+      "item_id": "wiko/w-k200@full_k200_1g-user-8.1.0-O11019-1535015911-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k200_1g-user-8.1.0-O11019-1535015911-release-keys",
+        "commit": "64225f1ed19780cd308f4b8adc517e697aea7484",
+        "committed_date": "2020-01-26T14:13:21.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T23:10:05.967Z",
+        "namespace_hint": "wiko",
+        "project_hint": "w-k200",
+        "project_id": 1377,
+        "project_path": "wiko/w-k200"
+      },
+      "revision": "64225f1ed19780cd308f4b8adc517e697aea7484",
+      "url": "https://dumps.tadiphone.dev/dumps/wiko/w-k200/-/tree/64225f1ed19780cd308f4b8adc517e697aea7484"
+    },
+    {
+      "item_id": "wiko/w-p861@full_p861-user-11-RP1A.200720.011-1668774145-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_p861-user-11-RP1A.200720.011-1668774145-release-keys",
+        "commit": "68e66781ee5a7a7dd5c43728b20546328bc09fa1",
+        "committed_date": "2025-01-16T03:38:13.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-01-16T00:44:23.943Z",
+        "namespace_hint": "wiko",
+        "project_hint": "w-p861",
+        "project_id": 2516,
+        "project_path": "wiko/w-p861"
+      },
+      "revision": "68e66781ee5a7a7dd5c43728b20546328bc09fa1",
+      "url": "https://dumps.tadiphone.dev/dumps/wiko/w-p861/-/tree/68e66781ee5a7a7dd5c43728b20546328bc09fa1"
+    },
+    {
+      "item_id": "wiko/w-p861@full_p861-userdebug-11-RP1A.200720.011-1645092282-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_p861-userdebug-11-RP1A.200720.011-1645092282-release-keys",
+        "commit": "33cdddeab60fa4d4186e211e096e81e532b46b52",
+        "committed_date": "2022-11-07T18:13:16.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-16T00:44:23.943Z",
+        "namespace_hint": "wiko",
+        "project_hint": "w-p861",
+        "project_id": 2516,
+        "project_path": "wiko/w-p861"
+      },
+      "revision": "33cdddeab60fa4d4186e211e096e81e532b46b52",
+      "url": "https://dumps.tadiphone.dev/dumps/wiko/w-p861/-/tree/33cdddeab60fa4d4186e211e096e81e532b46b52"
+    },
+    {
+      "item_id": "wiko/w_k400@full_k400-user-8.1.0-O11019-1533186647-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k400-user-8.1.0-O11019-1533186647-release-keys",
+        "commit": "3cd5398548cb864d3eaeb041a6e5dba896cdd25c",
+        "committed_date": "2019-11-16T01:11:05.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T19:01:23.575Z",
+        "namespace_hint": "wiko",
+        "project_hint": "w_k400",
+        "project_id": 1255,
+        "project_path": "wiko/w_k400"
+      },
+      "revision": "3cd5398548cb864d3eaeb041a6e5dba896cdd25c",
+      "url": "https://dumps.tadiphone.dev/dumps/wiko/w_k400/-/tree/3cd5398548cb864d3eaeb041a6e5dba896cdd25c"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

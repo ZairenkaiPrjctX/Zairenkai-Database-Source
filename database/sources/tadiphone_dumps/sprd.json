@@ -1,0 +1,145 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "sprd/sl8541e_1h10@sp9832e_1h10_gofu-user-9-PPR1.180610.011-43314-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sp9832e_1h10_gofu-user-9-PPR1.180610.011-43314-release-keys",
+        "commit": "83b1a7c0bbd238c5fbe2146ddbeb04ee48990b28",
+        "committed_date": "2025-01-11T20:55:58.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-01-11T17:53:53.545Z",
+        "namespace_hint": "sprd",
+        "project_hint": "sl8541e_1h10",
+        "project_id": 5545,
+        "project_path": "sprd/sl8541e_1h10"
+      },
+      "revision": "83b1a7c0bbd238c5fbe2146ddbeb04ee48990b28",
+      "url": "https://dumps.tadiphone.dev/dumps/sprd/sl8541e_1h10/-/tree/83b1a7c0bbd238c5fbe2146ddbeb04ee48990b28"
+    },
+    {
+      "item_id": "sprd/sl8541e_1h10_32b@sl8541e_1h10_32b_Natv-user-10-QP1A.190711.020-1048-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sl8541e_1h10_32b_Natv-user-10-QP1A.190711.020-1048-release-keys",
+        "commit": "106d2135f905a95252c0ad3ffc5b116e314a048e",
+        "committed_date": "2025-08-24T12:10:54.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-08-24T09:09:52.102Z",
+        "namespace_hint": "sprd",
+        "project_hint": "sl8541e_1h10_32b",
+        "project_id": 5678,
+        "project_path": "sprd/sl8541e_1h10_32b"
+      },
+      "revision": "106d2135f905a95252c0ad3ffc5b116e314a048e",
+      "url": "https://dumps.tadiphone.dev/dumps/sprd/sl8541e_1h10_32b/-/tree/106d2135f905a95252c0ad3ffc5b116e314a048e"
+    },
+    {
+      "item_id": "sprd/sp7731e_1h10@sp7731e_1h10_native-user-9-PPR1.180610.011-13324-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sp7731e_1h10_native-user-9-PPR1.180610.011-13324-release-keys",
+        "commit": "23ba3f91c3e4335b8c2c9ee130d32c45356c0dfe",
+        "committed_date": "2019-11-11T14:39:23.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T01:17:21.695Z",
+        "namespace_hint": "sprd",
+        "project_hint": "sp7731e_1h10",
+        "project_id": 2283,
+        "project_path": "sprd/sp7731e_1h10"
+      },
+      "revision": "23ba3f91c3e4335b8c2c9ee130d32c45356c0dfe",
+      "url": "https://dumps.tadiphone.dev/dumps/sprd/sp7731e_1h10/-/tree/23ba3f91c3e4335b8c2c9ee130d32c45356c0dfe"
+    },
+    {
+      "item_id": "sprd/ums512_1h10@ums512_1h10_Natv-user-10-QP1A.190711.020-09411-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ums512_1h10_Natv-user-10-QP1A.190711.020-09411-release-keys",
+        "commit": "62aaf1c6f5be1113aee2aa2b9d0ebb96d7e8be89",
+        "committed_date": "2022-06-01T00:21:57.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T13:36:23.480Z",
+        "namespace_hint": "sprd",
+        "project_hint": "ums512_1h10",
+        "project_id": 62,
+        "project_path": "sprd/ums512_1h10"
+      },
+      "revision": "62aaf1c6f5be1113aee2aa2b9d0ebb96d7e8be89",
+      "url": "https://dumps.tadiphone.dev/dumps/sprd/ums512_1h10/-/tree/62aaf1c6f5be1113aee2aa2b9d0ebb96d7e8be89"
+    },
+    {
+      "item_id": "sprd/ums512_1h10@ums512_1h10_Natv-user-10-QP1A.190711.020-38414-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ums512_1h10_Natv-user-10-QP1A.190711.020-38414-release-keys",
+        "commit": "2a1ce641084c19146e3f16bec0ab3c38e0b1fcbb",
+        "committed_date": "2021-03-06T12:13:24.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-14T13:36:23.480Z",
+        "namespace_hint": "sprd",
+        "project_hint": "ums512_1h10",
+        "project_id": 62,
+        "project_path": "sprd/ums512_1h10"
+      },
+      "revision": "2a1ce641084c19146e3f16bec0ab3c38e0b1fcbb",
+      "url": "https://dumps.tadiphone.dev/dumps/sprd/ums512_1h10/-/tree/2a1ce641084c19146e3f16bec0ab3c38e0b1fcbb"
+    },
+    {
+      "item_id": "sprd/ums512_1h10@ums512_1h10_Natv-user-10-QP1A.190711.020-52215-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ums512_1h10_Natv-user-10-QP1A.190711.020-52215-release-keys",
+        "commit": "1ca43fb427ae323f24c9bde8dd0f20d1bf8a24e9",
+        "committed_date": "2021-03-06T11:57:14.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-14T13:36:23.480Z",
+        "namespace_hint": "sprd",
+        "project_hint": "ums512_1h10",
+        "project_id": 62,
+        "project_path": "sprd/ums512_1h10"
+      },
+      "revision": "1ca43fb427ae323f24c9bde8dd0f20d1bf8a24e9",
+      "url": "https://dumps.tadiphone.dev/dumps/sprd/ums512_1h10/-/tree/1ca43fb427ae323f24c9bde8dd0f20d1bf8a24e9"
+    },
+    {
+      "item_id": "sprd/uws6137_1h10_64b@uws6137_1h10_64b_1g-user-8.1.0-OPM2.171019.012-45518-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "uws6137_1h10_64b_1g-user-8.1.0-OPM2.171019.012-45518-release-keys",
+        "commit": "e84e435e8927ec53c1909e688d5b3f7e36ea4ebe",
+        "committed_date": "2025-07-05T03:04:03.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-07-05T00:02:10.733Z",
+        "namespace_hint": "sprd",
+        "project_hint": "uws6137_1h10_64b",
+        "project_id": 5672,
+        "project_path": "sprd/uws6137_1h10_64b"
+      },
+      "revision": "e84e435e8927ec53c1909e688d5b3f7e36ea4ebe",
+      "url": "https://dumps.tadiphone.dev/dumps/sprd/uws6137_1h10_64b/-/tree/e84e435e8927ec53c1909e688d5b3f7e36ea4ebe"
+    },
+    {
+      "item_id": "sprd/v800@v800-user-9-PPR1.180610.011-24-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "v800-user-9-PPR1.180610.011-24-release-keys",
+        "commit": "991338313fe4a6a1c937852b654a4d7622fbbce5",
+        "committed_date": "2019-11-11T14:31:58.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T17:49:26.289Z",
+        "namespace_hint": "sprd",
+        "project_hint": "v800",
+        "project_id": 1234,
+        "project_path": "sprd/v800"
+      },
+      "revision": "991338313fe4a6a1c937852b654a4d7622fbbce5",
+      "url": "https://dumps.tadiphone.dev/dumps/sprd/v800/-/tree/991338313fe4a6a1c937852b654a4d7622fbbce5"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

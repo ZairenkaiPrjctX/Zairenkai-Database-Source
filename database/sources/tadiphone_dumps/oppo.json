@@ -1,0 +1,3156 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "_project/4301",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": null,
+        "project_id": 4301,
+        "project_path": "oppo/op5989",
+        "reason": "repository_not_readable"
+      },
+      "revision": null,
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5989"
+    },
+    {
+      "item_id": "_project/4428",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": null,
+        "project_id": 4428,
+        "project_path": "oppo/op5705l1",
+        "reason": "repository_not_readable"
+      },
+      "revision": null,
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5705l1"
+    },
+    {
+      "item_id": "_project/4685",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": null,
+        "project_id": 4685,
+        "project_path": "oppo/op5226l1",
+        "reason": "repository_not_readable"
+      },
+      "revision": null,
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5226l1"
+    },
+    {
+      "item_id": "oppo/a1601@full_oppo6750_15331-user-5.1-LMY47I-1577332894-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6750_15331-user-5.1-LMY47I-1577332894-release-keys",
+        "commit": "ce4273eae2a2777710885daad0ed7546d8bd54a9",
+        "committed_date": "2021-12-01T15:51:23.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T22:48:21.271Z",
+        "namespace_hint": "oppo",
+        "project_hint": "a1601",
+        "project_id": 2174,
+        "project_path": "oppo/a1601"
+      },
+      "revision": "ce4273eae2a2777710885daad0ed7546d8bd54a9",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/a1601/-/tree/ce4273eae2a2777710885daad0ed7546d8bd54a9"
+    },
+    {
+      "item_id": "oppo/a1603@full_oppo6582_15093-user-5.1-LMY47I-1490702528-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6582_15093-user-5.1-LMY47I-1490702528-release-keys",
+        "commit": "8921f9e37b75e1b0c00f6119720aa0d8c443495c",
+        "committed_date": "2020-01-06T15:59:33.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T23:18:55.519Z",
+        "namespace_hint": "oppo",
+        "project_hint": "a1603",
+        "project_id": 2196,
+        "project_path": "oppo/a1603"
+      },
+      "revision": "8921f9e37b75e1b0c00f6119720aa0d8c443495c",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/a1603/-/tree/8921f9e37b75e1b0c00f6119720aa0d8c443495c"
+    },
+    {
+      "item_id": "oppo/a33w@full_oppo6582_15093-user-5.1-LMY47I-1551842523-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6582_15093-user-5.1-LMY47I-1551842523-release-keys",
+        "commit": "ef0ae93da2f464469c232a1382fc3510af899ed6",
+        "committed_date": "2019-10-24T05:10:00.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T16:02:06.747Z",
+        "namespace_hint": "oppo",
+        "project_hint": "a33w",
+        "project_id": 1919,
+        "project_path": "oppo/a33w"
+      },
+      "revision": "ef0ae93da2f464469c232a1382fc3510af899ed6",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/a33w/-/tree/ef0ae93da2f464469c232a1382fc3510af899ed6"
+    },
+    {
+      "item_id": "oppo/a37fw@msm8916_64-user-5.1.1-LMY47V-eng.root.20161014.182551-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8916_64-user-5.1.1-LMY47V-eng.root.20161014.182551-release-keys",
+        "commit": "8cc1637e85cf530e0b607250e5e5c8e9f3a9ee4a",
+        "committed_date": "2020-02-09T11:57:05.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T06:48:43.449Z",
+        "namespace_hint": "oppo",
+        "project_hint": "a37fw",
+        "project_id": 1529,
+        "project_path": "oppo/a37fw"
+      },
+      "revision": "8cc1637e85cf530e0b607250e5e5c8e9f3a9ee4a",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/a37fw/-/tree/8cc1637e85cf530e0b607250e5e5c8e9f3a9ee4a"
+    },
+    {
+      "item_id": "oppo/a37fw@msm8916_64-user-5.1.1-LMY47V-eng.root.20190711.032745-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8916_64-user-5.1.1-LMY47V-eng.root.20190711.032745-release-keys",
+        "commit": "955f98b4ffe50acebc60a40be6c31b9fd1e1af7d",
+        "committed_date": "2020-02-09T11:42:41.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T06:48:43.449Z",
+        "namespace_hint": "oppo",
+        "project_hint": "a37fw",
+        "project_id": 1529,
+        "project_path": "oppo/a37fw"
+      },
+      "revision": "955f98b4ffe50acebc60a40be6c31b9fd1e1af7d",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/a37fw/-/tree/955f98b4ffe50acebc60a40be6c31b9fd1e1af7d"
+    },
+    {
+      "item_id": "oppo/a73t@full_oppo6763_17031-user-7.1.1-N6F26Q-1569264842-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6763_17031-user-7.1.1-N6F26Q-1569264842-release-keys",
+        "commit": "2dd1b8c7d2783c19374fb64a78aa0b9fecb1d61a",
+        "committed_date": "2019-10-24T09:50:05.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T17:34:48.053Z",
+        "namespace_hint": "oppo",
+        "project_hint": "a73t",
+        "project_id": 1996,
+        "project_path": "oppo/a73t"
+      },
+      "revision": "2dd1b8c7d2783c19374fb64a78aa0b9fecb1d61a",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/a73t/-/tree/2dd1b8c7d2783c19374fb64a78aa0b9fecb1d61a"
+    },
+    {
+      "item_id": "oppo/cph1609@full_oppo6750_16391-user-6.0-MRA58K-1577469416-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6750_16391-user-6.0-MRA58K-1577469416-release-keys",
+        "commit": "9c5aaa780e222d143118a1a98a6f21706bddbf9e",
+        "committed_date": "2022-03-09T15:11:31.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T04:25:18.385Z",
+        "namespace_hint": "oppo",
+        "project_hint": "cph1609",
+        "project_id": 897,
+        "project_path": "oppo/cph1609"
+      },
+      "revision": "9c5aaa780e222d143118a1a98a6f21706bddbf9e",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/cph1609/-/tree/9c5aaa780e222d143118a1a98a6f21706bddbf9e"
+    },
+    {
+      "item_id": "oppo/cph1613@msm8952_64-user-6.0.1-MMB29M-eng.root.20180529.211828-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8952_64-user-6.0.1-MMB29M-eng.root.20180529.211828-release-keys",
+        "commit": "8c4e027efbd966d4da4ce969c1bf6d456428fe71",
+        "committed_date": "2019-10-24T04:59:26.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T23:36:52.456Z",
+        "namespace_hint": "oppo",
+        "project_hint": "cph1613",
+        "project_id": 1396,
+        "project_path": "oppo/cph1613"
+      },
+      "revision": "8c4e027efbd966d4da4ce969c1bf6d456428fe71",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/cph1613/-/tree/8c4e027efbd966d4da4ce969c1bf6d456428fe71"
+    },
+    {
+      "item_id": "oppo/cph1613@msm8952_64-user-6.0.1-MMB29M-eng.root.20190307.100547-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8952_64-user-6.0.1-MMB29M-eng.root.20190307.100547-release-keys",
+        "commit": "055cbbf40853c52629946f6a2b5fe86790e9e40b",
+        "committed_date": "2022-03-09T15:22:17.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T23:36:52.456Z",
+        "namespace_hint": "oppo",
+        "project_hint": "cph1613",
+        "project_id": 1396,
+        "project_path": "oppo/cph1613"
+      },
+      "revision": "055cbbf40853c52629946f6a2b5fe86790e9e40b",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/cph1613/-/tree/055cbbf40853c52629946f6a2b5fe86790e9e40b"
+    },
+    {
+      "item_id": "oppo/cph1707@sdm660_64-user-7.1.1-NMF26X-eng.root.20200711.020053-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-7.1.1-NMF26X-eng.root.20200711.020053-release-keys",
+        "commit": "81e0308d194b87fc8c32ed96eed8ff07302687be",
+        "committed_date": "2022-03-09T15:48:18.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T05:50:18.250Z",
+        "namespace_hint": "oppo",
+        "project_hint": "cph1707",
+        "project_id": 904,
+        "project_path": "oppo/cph1707"
+      },
+      "revision": "81e0308d194b87fc8c32ed96eed8ff07302687be",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/cph1707/-/tree/81e0308d194b87fc8c32ed96eed8ff07302687be"
+    },
+    {
+      "item_id": "oppo/cph1819@full_oppo6771_17331-user-8.1.0-O11019-1561044647-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6771_17331-user-8.1.0-O11019-1561044647-release-keys",
+        "commit": "6ed288b42406ad11eff8f1d3f13148fe68d6c0dc",
+        "committed_date": "2019-10-25T03:06:54.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T00:46:55.038Z",
+        "namespace_hint": "oppo",
+        "project_hint": "cph1819",
+        "project_id": 1450,
+        "project_path": "oppo/cph1819"
+      },
+      "revision": "6ed288b42406ad11eff8f1d3f13148fe68d6c0dc",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/cph1819/-/tree/6ed288b42406ad11eff8f1d3f13148fe68d6c0dc"
+    },
+    {
+      "item_id": "oppo/cph1819@full_oppo6771_17331-user-8.1.0-O11019-1572232253-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6771_17331-user-8.1.0-O11019-1572232253-release-keys",
+        "commit": "84d1f62712853b0a3678728d9187a8851771487b",
+        "committed_date": "2019-11-23T08:16:09.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T00:46:55.038Z",
+        "namespace_hint": "oppo",
+        "project_hint": "cph1819",
+        "project_id": 1450,
+        "project_path": "oppo/cph1819"
+      },
+      "revision": "84d1f62712853b0a3678728d9187a8851771487b",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/cph1819/-/tree/84d1f62712853b0a3678728d9187a8851771487b"
+    },
+    {
+      "item_id": "oppo/cph1819@full_oppo6771_17331-user-9-PPR1.180610.011-eng.root.20200710.230657-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6771_17331-user-9-PPR1.180610.011-eng.root.20200710.230657-release-keys",
+        "commit": "2dbd76d5de5052b9e9a487985e4722adccc50d68",
+        "committed_date": "2020-10-02T07:25:04.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T00:46:55.038Z",
+        "namespace_hint": "oppo",
+        "project_hint": "cph1819",
+        "project_id": 1450,
+        "project_path": "oppo/cph1819"
+      },
+      "revision": "2dbd76d5de5052b9e9a487985e4722adccc50d68",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/cph1819/-/tree/2dbd76d5de5052b9e9a487985e4722adccc50d68"
+    },
+    {
+      "item_id": "oppo/cph1823@full_oppo6771_18311-user-8.1.0-O11019-1572104148-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6771_18311-user-8.1.0-O11019-1572104148-release-keys",
+        "commit": "eef8f7176cc3fd9ab45d7c6c182dc8a0413c27e7",
+        "committed_date": "2019-11-18T09:15:20.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T07:40:00.225Z",
+        "namespace_hint": "oppo",
+        "project_hint": "cph1823",
+        "project_id": 1553,
+        "project_path": "oppo/cph1823"
+      },
+      "revision": "eef8f7176cc3fd9ab45d7c6c182dc8a0413c27e7",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/cph1823/-/tree/eef8f7176cc3fd9ab45d7c6c182dc8a0413c27e7"
+    },
+    {
+      "item_id": "oppo/cph1861@full_oppo6771_17061-user-8.1.0-O11019-1556036391-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6771_17061-user-8.1.0-O11019-1556036391-release-keys",
+        "commit": "0063636dc3a09069cd1e1803477c09fdb4643e93",
+        "committed_date": "2019-11-15T06:02:10.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T08:47:42.437Z",
+        "namespace_hint": "oppo",
+        "project_hint": "cph1861",
+        "project_id": 1625,
+        "project_path": "oppo/cph1861"
+      },
+      "revision": "0063636dc3a09069cd1e1803477c09fdb4643e93",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/cph1861/-/tree/0063636dc3a09069cd1e1803477c09fdb4643e93"
+    },
+    {
+      "item_id": "oppo/cph1861@full_oppo6771_17065-user-9-PPR1.180610.011-eng.root.20190708.180003-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6771_17065-user-9-PPR1.180610.011-eng.root.20190708.180003-release-keys",
+        "commit": "c83920d20b61fda75274230d97b5c127b05319e0",
+        "committed_date": "2019-07-29T15:00:55.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:47:42.437Z",
+        "namespace_hint": "oppo",
+        "project_hint": "cph1861",
+        "project_id": 1625,
+        "project_path": "oppo/cph1861"
+      },
+      "revision": "c83920d20b61fda75274230d97b5c127b05319e0",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/cph1861/-/tree/c83920d20b61fda75274230d97b5c127b05319e0"
+    },
+    {
+      "item_id": "oppo/cph1861@full_oppo6771_17065-user-9-PPR1.180610.011-eng.root.20191016.101428-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6771_17065-user-9-PPR1.180610.011-eng.root.20191016.101428-release-keys",
+        "commit": "a96ebcb8621765fccfd5067bd19574e18b4cf22c",
+        "committed_date": "2019-11-03T09:15:54.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:47:42.437Z",
+        "namespace_hint": "oppo",
+        "project_hint": "cph1861",
+        "project_id": 1625,
+        "project_path": "oppo/cph1861"
+      },
+      "revision": "a96ebcb8621765fccfd5067bd19574e18b4cf22c",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/cph1861/-/tree/a96ebcb8621765fccfd5067bd19574e18b4cf22c"
+    },
+    {
+      "item_id": "oppo/cph1861@full_oppo6771_17065-user-9-PPR1.180610.011-eng.root.20191129.130257-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6771_17065-user-9-PPR1.180610.011-eng.root.20191129.130257-release-keys",
+        "commit": "4dcc8e4f6d645f0b41f330e3920ddcd8f88b05f9",
+        "committed_date": "2019-12-11T10:43:12.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:47:42.437Z",
+        "namespace_hint": "oppo",
+        "project_hint": "cph1861",
+        "project_id": 1625,
+        "project_path": "oppo/cph1861"
+      },
+      "revision": "4dcc8e4f6d645f0b41f330e3920ddcd8f88b05f9",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/cph1861/-/tree/4dcc8e4f6d645f0b41f330e3920ddcd8f88b05f9"
+    },
+    {
+      "item_id": "oppo/cph1861@full_oppo6771_17065-user-9-PPR1.180610.011-eng.root.20200215.081652-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6771_17065-user-9-PPR1.180610.011-eng.root.20200215.081652-release-keys",
+        "commit": "23ee84ccb6d456f0bdb451ae91f97192d59a0981",
+        "committed_date": "2020-03-10T20:03:28.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:47:42.437Z",
+        "namespace_hint": "oppo",
+        "project_hint": "cph1861",
+        "project_id": 1625,
+        "project_path": "oppo/cph1861"
+      },
+      "revision": "23ee84ccb6d456f0bdb451ae91f97192d59a0981",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/cph1861/-/tree/23ee84ccb6d456f0bdb451ae91f97192d59a0981"
+    },
+    {
+      "item_id": "oppo/cph1861@full_oppo6771_17065-user-9-PPR1.180610.011-eng.root.20200509.060522-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6771_17065-user-9-PPR1.180610.011-eng.root.20200509.060522-release-keys",
+        "commit": "46cd1830cc0b806d77b673927ffd99ffd2451708",
+        "committed_date": "2020-09-18T05:17:46.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:47:42.437Z",
+        "namespace_hint": "oppo",
+        "project_hint": "cph1861",
+        "project_id": 1625,
+        "project_path": "oppo/cph1861"
+      },
+      "revision": "46cd1830cc0b806d77b673927ffd99ffd2451708",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/cph1861/-/tree/46cd1830cc0b806d77b673927ffd99ffd2451708"
+    },
+    {
+      "item_id": "oppo/cph1861@full_oppo6771_17065-user-9-PPR1.180610.011-eng.root.20201016.232423-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6771_17065-user-9-PPR1.180610.011-eng.root.20201016.232423-release-keys",
+        "commit": "15ce37780649170abccb96a1e36095a358937b66",
+        "committed_date": "2020-12-16T12:18:19.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:47:42.437Z",
+        "namespace_hint": "oppo",
+        "project_hint": "cph1861",
+        "project_id": 1625,
+        "project_path": "oppo/cph1861"
+      },
+      "revision": "15ce37780649170abccb96a1e36095a358937b66",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/cph1861/-/tree/15ce37780649170abccb96a1e36095a358937b66"
+    },
+    {
+      "item_id": "oppo/cph1871@sdm845-user-8.1.0-OPM1.171019.026-eng.root.20190725.220103-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm845-user-8.1.0-OPM1.171019.026-eng.root.20190725.220103-release-keys",
+        "commit": "99ce9baa52803d40e7612aff9761399f37aae5bb",
+        "committed_date": "2019-09-12T21:42:17.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T00:21:24.058Z",
+        "namespace_hint": "oppo",
+        "project_hint": "cph1871",
+        "project_id": 2261,
+        "project_path": "oppo/cph1871"
+      },
+      "revision": "99ce9baa52803d40e7612aff9761399f37aae5bb",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/cph1871/-/tree/99ce9baa52803d40e7612aff9761399f37aae5bb"
+    },
+    {
+      "item_id": "oppo/cph1871@sdm845-user-8.1.0-OPM1.171019.026-eng.root.20190928.010333-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm845-user-8.1.0-OPM1.171019.026-eng.root.20190928.010333-release-keys",
+        "commit": "25a6ec17d1dde1f461a9c4d429c706d27bd211b8",
+        "committed_date": "2019-10-19T08:14:47.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-17T00:21:24.058Z",
+        "namespace_hint": "oppo",
+        "project_hint": "cph1871",
+        "project_id": 2261,
+        "project_path": "oppo/cph1871"
+      },
+      "revision": "25a6ec17d1dde1f461a9c4d429c706d27bd211b8",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/cph1871/-/tree/25a6ec17d1dde1f461a9c4d429c706d27bd211b8"
+    },
+    {
+      "item_id": "oppo/cph1871@sdm845-user-9-PKQ1.190319.001-eng.root.20191010.201534-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm845-user-9-PKQ1.190319.001-eng.root.20191010.201534-release-keys",
+        "commit": "310f79edd816be9c51500f42e79c244dd522f575",
+        "committed_date": "2019-12-22T02:56:57.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-17T00:21:24.058Z",
+        "namespace_hint": "oppo",
+        "project_hint": "cph1871",
+        "project_id": 2261,
+        "project_path": "oppo/cph1871"
+      },
+      "revision": "310f79edd816be9c51500f42e79c244dd522f575",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/cph1871/-/tree/310f79edd816be9c51500f42e79c244dd522f575"
+    },
+    {
+      "item_id": "oppo/cph1877@sdm710-user-8.1.0-OPM1.171019.026-eng.root.20190913.070540-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm710-user-8.1.0-OPM1.171019.026-eng.root.20190913.070540-release-keys",
+        "commit": "c2dde0dfee8fdd25a24498e08a410830319dea14",
+        "committed_date": "2019-10-25T03:39:34.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T17:03:36.031Z",
+        "namespace_hint": "oppo",
+        "project_hint": "cph1877",
+        "project_id": 1961,
+        "project_path": "oppo/cph1877"
+      },
+      "revision": "c2dde0dfee8fdd25a24498e08a410830319dea14",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/cph1877/-/tree/c2dde0dfee8fdd25a24498e08a410830319dea14"
+    },
+    {
+      "item_id": "oppo/cph1877@sdm710-user-9-PKQ1.190519.001-eng.root.20191021.183352-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm710-user-9-PKQ1.190519.001-eng.root.20191021.183352-release-keys",
+        "commit": "2dfb2e30a666d9f72a2fd7e7fbc2e3f619d1ca57",
+        "committed_date": "2019-11-24T09:16:38.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T17:03:36.031Z",
+        "namespace_hint": "oppo",
+        "project_hint": "cph1877",
+        "project_id": 1961,
+        "project_path": "oppo/cph1877"
+      },
+      "revision": "2dfb2e30a666d9f72a2fd7e7fbc2e3f619d1ca57",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/cph1877/-/tree/2dfb2e30a666d9f72a2fd7e7fbc2e3f619d1ca57"
+    },
+    {
+      "item_id": "oppo/cph1877@sdm710-user-9-PKQ1.190519.001-eng.root.20191129.231110-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm710-user-9-PKQ1.190519.001-eng.root.20191129.231110-release-keys",
+        "commit": "576fd79584acd72b2bbf0e1b98e8e6ad0cea13c7",
+        "committed_date": "2019-12-22T03:07:20.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T17:03:36.031Z",
+        "namespace_hint": "oppo",
+        "project_hint": "cph1877",
+        "project_id": 1961,
+        "project_path": "oppo/cph1877"
+      },
+      "revision": "576fd79584acd72b2bbf0e1b98e8e6ad0cea13c7",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/cph1877/-/tree/576fd79584acd72b2bbf0e1b98e8e6ad0cea13c7"
+    },
+    {
+      "item_id": "oppo/cph1879@sdm710-user-10-QKQ1.190918.001--release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm710-user-10-QKQ1.190918.001--release-keys",
+        "commit": "d9b8135cbb246a9be2b71ebb527022bdf0da03f5",
+        "committed_date": "2021-12-26T12:08:00.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T14:16:47.670Z",
+        "namespace_hint": "oppo",
+        "project_hint": "cph1879",
+        "project_id": 126,
+        "project_path": "oppo/cph1879"
+      },
+      "revision": "d9b8135cbb246a9be2b71ebb527022bdf0da03f5",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/cph1879/-/tree/d9b8135cbb246a9be2b71ebb527022bdf0da03f5"
+    },
+    {
+      "item_id": "oppo/cph1893@sdm660_64-user-8.1.0-OPM1.171019.011-eng.root.20190724.171242-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-8.1.0-OPM1.171019.011-eng.root.20190724.171242-release-keys",
+        "commit": "bc1f4dcd51187d94ffb4e70b7ff585adc7a8259e",
+        "committed_date": "2019-09-12T17:15:43.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T00:34:12.405Z",
+        "namespace_hint": "oppo",
+        "project_hint": "cph1893",
+        "project_id": 2267,
+        "project_path": "oppo/cph1893"
+      },
+      "revision": "bc1f4dcd51187d94ffb4e70b7ff585adc7a8259e",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/cph1893/-/tree/bc1f4dcd51187d94ffb4e70b7ff585adc7a8259e"
+    },
+    {
+      "item_id": "oppo/cph1893@sdm660_64-user-8.1.0-OPM1.171019.011-eng.root.20190823.174035-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-8.1.0-OPM1.171019.011-eng.root.20190823.174035-release-keys",
+        "commit": "5a7d8d4444e583570f0427631c2ef35044347183",
+        "committed_date": "2019-10-23T05:28:55.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-17T00:34:12.405Z",
+        "namespace_hint": "oppo",
+        "project_hint": "cph1893",
+        "project_id": 2267,
+        "project_path": "oppo/cph1893"
+      },
+      "revision": "5a7d8d4444e583570f0427631c2ef35044347183",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/cph1893/-/tree/5a7d8d4444e583570f0427631c2ef35044347183"
+    },
+    {
+      "item_id": "oppo/cph1893@sdm660_64-user-8.1.0-OPM1.171019.011-eng.root.20190926.161506-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-8.1.0-OPM1.171019.011-eng.root.20190926.161506-release-keys",
+        "commit": "7927f3ba1224d751107ad0c64defe676ca8ae5ce",
+        "committed_date": "2019-11-04T03:27:01.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-17T00:34:12.405Z",
+        "namespace_hint": "oppo",
+        "project_hint": "cph1893",
+        "project_id": 2267,
+        "project_path": "oppo/cph1893"
+      },
+      "revision": "7927f3ba1224d751107ad0c64defe676ca8ae5ce",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/cph1893/-/tree/7927f3ba1224d751107ad0c64defe676ca8ae5ce"
+    },
+    {
+      "item_id": "oppo/cph1909@full_oppo6765_18511-user-8.1.0-O11019-1616154336-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6765_18511-user-8.1.0-O11019-1616154336-release-keys",
+        "commit": "d4743f2cc288804600a80e5e66af6f45b62cccae",
+        "committed_date": "2024-09-29T17:16:33.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-09-29T14:14:12.621Z",
+        "namespace_hint": "oppo",
+        "project_hint": "cph1909",
+        "project_id": 5434,
+        "project_path": "oppo/cph1909"
+      },
+      "revision": "d4743f2cc288804600a80e5e66af6f45b62cccae",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/cph1909/-/tree/d4743f2cc288804600a80e5e66af6f45b62cccae"
+    },
+    {
+      "item_id": "oppo/lito@qssi-user-13-TP1A.220905.001-1724321875374-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1724321875374-release-keys",
+        "commit": "6b585e77a497ee801a13b9fdc6c10ea020e52711",
+        "committed_date": "2025-01-14T15:36:44.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-01-14T12:43:03.768Z",
+        "namespace_hint": "oppo",
+        "project_hint": "lito",
+        "project_id": 5538,
+        "project_path": "oppo/lito"
+      },
+      "revision": "6b585e77a497ee801a13b9fdc6c10ea020e52711",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/lito/-/tree/6b585e77a497ee801a13b9fdc6c10ea020e52711"
+    },
+    {
+      "item_id": "oppo/lito@qssi-user-13-TP1A.220905.001-1730166154182-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1730166154182-release-keys",
+        "commit": "9c0072758f8aae777b560415066ef715d8eb9972",
+        "committed_date": "2025-01-02T20:02:33.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-14T12:43:03.768Z",
+        "namespace_hint": "oppo",
+        "project_hint": "lito",
+        "project_id": 5538,
+        "project_path": "oppo/lito"
+      },
+      "revision": "9c0072758f8aae777b560415066ef715d8eb9972",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/lito/-/tree/9c0072758f8aae777b560415066ef715d8eb9972"
+    },
+    {
+      "item_id": "oppo/oneplus8@qssi-user-11-RKQ1.200710.002-eng.root.20201215.045923-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200710.002-eng.root.20201215.045923-release-keys",
+        "commit": "4b45b78c05f945b3470cbd94514dd559e48e9b1d",
+        "committed_date": "2021-03-22T05:51:27.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T15:31:00.523Z",
+        "namespace_hint": "oppo",
+        "project_hint": "oneplus8",
+        "project_id": 1886,
+        "project_path": "oppo/oneplus8"
+      },
+      "revision": "4b45b78c05f945b3470cbd94514dd559e48e9b1d",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/oneplus8/-/tree/4b45b78c05f945b3470cbd94514dd559e48e9b1d"
+    },
+    {
+      "item_id": "oppo/op46c3@msmnile-user-9-PKQ1.190223.001-eng.root.20190911.125836-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msmnile-user-9-PKQ1.190223.001-eng.root.20190911.125836-release-keys",
+        "commit": "4182d777a3d4f448b417bb17b4672087d93b1be5",
+        "committed_date": "2019-10-18T05:40:31.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T00:19:54.329Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op46c3",
+        "project_id": 2260,
+        "project_path": "oppo/op46c3"
+      },
+      "revision": "4182d777a3d4f448b417bb17b4672087d93b1be5",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op46c3/-/tree/4182d777a3d4f448b417bb17b4672087d93b1be5"
+    },
+    {
+      "item_id": "oppo/op47dd@sdm710-user-10-QKQ1.190406.002-1556622305-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm710-user-10-QKQ1.190406.002-1556622305-release-keys",
+        "commit": "d2e94c722d7bb589f0e8f285b3f873875da0425d",
+        "committed_date": "2019-07-20T18:17:40.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T10:09:24.073Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op47dd",
+        "project_id": 1697,
+        "project_path": "oppo/op47dd"
+      },
+      "revision": "d2e94c722d7bb589f0e8f285b3f873875da0425d",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op47dd/-/tree/d2e94c722d7bb589f0e8f285b3f873875da0425d"
+    },
+    {
+      "item_id": "oppo/op47dd@sdm710-user-9-PKQ1.190101.001-eng.root.20190426.100039-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm710-user-9-PKQ1.190101.001-eng.root.20190426.100039-release-keys",
+        "commit": "98fba4f801a2af0a775502a358b830007f414d4a",
+        "committed_date": "2019-07-20T18:41:01.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T10:09:24.073Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op47dd",
+        "project_id": 1697,
+        "project_path": "oppo/op47dd"
+      },
+      "revision": "98fba4f801a2af0a775502a358b830007f414d4a",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op47dd/-/tree/98fba4f801a2af0a775502a358b830007f414d4a"
+    },
+    {
+      "item_id": "oppo/op47dd@sdm710-user-9-PKQ1.190101.001-eng.root.20190524.232307-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm710-user-9-PKQ1.190101.001-eng.root.20190524.232307-release-keys",
+        "commit": "239f8e5da514bc5bf30a8ea4158e941eca32a686",
+        "committed_date": "2019-07-19T05:10:37.000+08:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T10:09:24.073Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op47dd",
+        "project_id": 1697,
+        "project_path": "oppo/op47dd"
+      },
+      "revision": "239f8e5da514bc5bf30a8ea4158e941eca32a686",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op47dd/-/tree/239f8e5da514bc5bf30a8ea4158e941eca32a686"
+    },
+    {
+      "item_id": "oppo/op47dd@sdm710-user-9-PKQ1.190101.001-eng.root.20190630.083528-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm710-user-9-PKQ1.190101.001-eng.root.20190630.083528-release-keys",
+        "commit": "144b7a1f86e72ce75059dce43918176cb6f699e0",
+        "committed_date": "2019-09-12T21:27:12.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T10:09:24.073Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op47dd",
+        "project_id": 1697,
+        "project_path": "oppo/op47dd"
+      },
+      "revision": "144b7a1f86e72ce75059dce43918176cb6f699e0",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op47dd/-/tree/144b7a1f86e72ce75059dce43918176cb6f699e0"
+    },
+    {
+      "item_id": "oppo/op4845@msmnile-user-9-PKQ1.190223.001-eng.root.20190617.123331-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msmnile-user-9-PKQ1.190223.001-eng.root.20190617.123331-release-keys",
+        "commit": "0588d49e83f998dd90905879e8d37e4851f0cbf9",
+        "committed_date": "2019-10-25T06:34:15.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T19:25:56.879Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op4845",
+        "project_id": 2088,
+        "project_path": "oppo/op4845"
+      },
+      "revision": "0588d49e83f998dd90905879e8d37e4851f0cbf9",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op4845/-/tree/0588d49e83f998dd90905879e8d37e4851f0cbf9"
+    },
+    {
+      "item_id": "oppo/op4845@msmnile-user-9-PKQ1.190223.001-eng.root.20191022.185508-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msmnile-user-9-PKQ1.190223.001-eng.root.20191022.185508-release-keys",
+        "commit": "46dfe963b9063e2d945d4ce5b332afe6a2e26cfb",
+        "committed_date": "2019-11-27T07:56:19.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T19:25:56.879Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op4845",
+        "project_id": 2088,
+        "project_path": "oppo/op4845"
+      },
+      "revision": "46dfe963b9063e2d945d4ce5b332afe6a2e26cfb",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op4845/-/tree/46dfe963b9063e2d945d4ce5b332afe6a2e26cfb"
+    },
+    {
+      "item_id": "oppo/op4863@full_oppo6771_18531-user-9-PPR1.180610.011-eng.root.20190924.215717-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6771_18531-user-9-PPR1.180610.011-eng.root.20190924.215717-release-keys",
+        "commit": "93010694b506ac3b2631a13e5dad28ebe0789f98",
+        "committed_date": "2019-11-08T20:02:03.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T06:32:41.907Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op4863",
+        "project_id": 1516,
+        "project_path": "oppo/op4863"
+      },
+      "revision": "93010694b506ac3b2631a13e5dad28ebe0789f98",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op4863/-/tree/93010694b506ac3b2631a13e5dad28ebe0789f98"
+    },
+    {
+      "item_id": "oppo/op486b@sdm710-user-9-PKQ1.190101.001-eng.root.20190924.002921-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm710-user-9-PKQ1.190101.001-eng.root.20190924.002921-release-keys",
+        "commit": "1431461d06541131ead6228c8a93894890cd1da9",
+        "committed_date": "2019-10-14T14:48:06.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T19:33:23.041Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op486b",
+        "project_id": 2091,
+        "project_path": "oppo/op486b"
+      },
+      "revision": "1431461d06541131ead6228c8a93894890cd1da9",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op486b/-/tree/1431461d06541131ead6228c8a93894890cd1da9"
+    },
+    {
+      "item_id": "oppo/op486b@sdm710-user-9-PKQ1.190101.001-eng.root.20191015.231117-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm710-user-9-PKQ1.190101.001-eng.root.20191015.231117-release-keys",
+        "commit": "5019b73c19e6a7dd5040277d2d47b3a526754247",
+        "committed_date": "2019-11-07T10:38:38.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T19:33:23.041Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op486b",
+        "project_id": 2091,
+        "project_path": "oppo/op486b"
+      },
+      "revision": "5019b73c19e6a7dd5040277d2d47b3a526754247",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op486b/-/tree/5019b73c19e6a7dd5040277d2d47b3a526754247"
+    },
+    {
+      "item_id": "oppo/op486b@sdm710-user-9-PKQ1.190101.001-eng.root.20191119.032312-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm710-user-9-PKQ1.190101.001-eng.root.20191119.032312-release-keys",
+        "commit": "1a5a87fe72e71fa3c55ad78909bee03816ddb229",
+        "committed_date": "2019-12-07T17:21:35.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T19:33:23.041Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op486b",
+        "project_id": 2091,
+        "project_path": "oppo/op486b"
+      },
+      "revision": "1a5a87fe72e71fa3c55ad78909bee03816ddb229",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op486b/-/tree/1a5a87fe72e71fa3c55ad78909bee03816ddb229"
+    },
+    {
+      "item_id": "oppo/op4883@full_oppo6771_18531-user-9-PPR1.180610.011-eng.root.20190707.184450-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6771_18531-user-9-PPR1.180610.011-eng.root.20190707.184450-release-keys",
+        "commit": "4b78cf3084fc8702525311cee5f43bc3996788e0",
+        "committed_date": "2019-10-24T09:39:56.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T18:43:29.092Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op4883",
+        "project_id": 2048,
+        "project_path": "oppo/op4883"
+      },
+      "revision": "4b78cf3084fc8702525311cee5f43bc3996788e0",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op4883/-/tree/4b78cf3084fc8702525311cee5f43bc3996788e0"
+    },
+    {
+      "item_id": "oppo/op4a77@qssi-user-11-RKQ1.200507.003-1584699103-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200507.003-1584699103-release-keys",
+        "commit": "acc9e98a8d991e8b5ad88efedc16153d0f7d7601",
+        "committed_date": "2020-06-22T16:29:01.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T23:42:55.258Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op4a77",
+        "project_id": 2230,
+        "project_path": "oppo/op4a77"
+      },
+      "revision": "acc9e98a8d991e8b5ad88efedc16153d0f7d7601",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op4a77/-/tree/acc9e98a8d991e8b5ad88efedc16153d0f7d7601"
+    },
+    {
+      "item_id": "oppo/op4a79@qssi-user-10-QKQ1.191222.002--release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.191222.002--release-keys",
+        "commit": "3aca3756e031be3df0c42f534aa6ef511223e097",
+        "committed_date": "2020-04-21T12:19:16.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T14:14:58.583Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op4a79",
+        "project_id": 1824,
+        "project_path": "oppo/op4a79"
+      },
+      "revision": "3aca3756e031be3df0c42f534aa6ef511223e097",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op4a79/-/tree/3aca3756e031be3df0c42f534aa6ef511223e097"
+    },
+    {
+      "item_id": "oppo/op4a7a@qssi-user-11-RKQ1.200507.003-1584699103-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200507.003-1584699103-release-keys",
+        "commit": "706baafdc3e968e1a83cd62081279ab18e635f20",
+        "committed_date": "2020-06-22T16:28:58.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-01-10T12:52:31.268Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op4a7a",
+        "project_id": 2257,
+        "project_path": "oppo/op4a7a"
+      },
+      "revision": "706baafdc3e968e1a83cd62081279ab18e635f20",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op4a7a/-/tree/706baafdc3e968e1a83cd62081279ab18e635f20"
+    },
+    {
+      "item_id": "oppo/op4a7a@qssi-user-13-TP1A.220905.001-1672317808229-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1672317808229-release-keys--ALLNET",
+        "commit": "843cfb819109ceb1c08805460f8dea347ea65427",
+        "committed_date": "2023-01-10T15:39:25.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-01-10T12:52:31.268Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op4a7a",
+        "project_id": 2257,
+        "project_path": "oppo/op4a7a"
+      },
+      "revision": "843cfb819109ceb1c08805460f8dea347ea65427",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op4a7a/-/tree/843cfb819109ceb1c08805460f8dea347ea65427"
+    },
+    {
+      "item_id": "oppo/op4aa7@sm6150-user-10-QKQ1.190915.002-eng.root.20200713.223542-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sm6150-user-10-QKQ1.190915.002-eng.root.20200713.223542-release-keys",
+        "commit": "cf521a5661dc9b8c201ccaa2dbb41f767307ece5",
+        "committed_date": "2020-08-03T08:23:52.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T00:09:20.982Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op4aa7",
+        "project_id": 2253,
+        "project_path": "oppo/op4aa7"
+      },
+      "revision": "cf521a5661dc9b8c201ccaa2dbb41f767307ece5",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op4aa7/-/tree/cf521a5661dc9b8c201ccaa2dbb41f767307ece5"
+    },
+    {
+      "item_id": "oppo/op4b65@full_oppo6779_19301-user-9-PPR1.180610.011-eng.root.20190926.123847-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6779_19301-user-9-PPR1.180610.011-eng.root.20190926.123847-release-keys",
+        "commit": "4c5aacded3afb280917fe1a7cdb6087307bc7012",
+        "committed_date": "2019-10-23T04:47:47.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T10:25:28.081Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op4b65",
+        "project_id": 1715,
+        "project_path": "oppo/op4b65"
+      },
+      "revision": "4c5aacded3afb280917fe1a7cdb6087307bc7012",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op4b65/-/tree/4c5aacded3afb280917fe1a7cdb6087307bc7012"
+    },
+    {
+      "item_id": "oppo/op4b65@full_oppo6779_19301-user-9-PPR1.180610.011-eng.root.20191020.220813-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6779_19301-user-9-PPR1.180610.011-eng.root.20191020.220813-release-keys",
+        "commit": "f42dbcc6c67a6bbd066d53c8ac8c4adc26d616a0",
+        "committed_date": "2019-11-20T00:47:55.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T10:25:28.081Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op4b65",
+        "project_id": 1715,
+        "project_path": "oppo/op4b65"
+      },
+      "revision": "f42dbcc6c67a6bbd066d53c8ac8c4adc26d616a0",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op4b65/-/tree/f42dbcc6c67a6bbd066d53c8ac8c4adc26d616a0"
+    },
+    {
+      "item_id": "oppo/op4ba1@qssi-user-10-QKQ1.191222.002--release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.191222.002--release-keys",
+        "commit": "8b2197bd8186b96342cf3e8218e100e77fdd2440",
+        "committed_date": "2020-06-09T17:36:05.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T00:12:23.339Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op4ba1",
+        "project_id": 2255,
+        "project_path": "oppo/op4ba1"
+      },
+      "revision": "8b2197bd8186b96342cf3e8218e100e77fdd2440",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op4ba1/-/tree/8b2197bd8186b96342cf3e8218e100e77fdd2440"
+    },
+    {
+      "item_id": "oppo/op4ba1l1@qssi-user-11-RKQ1.200507.003-1584699103-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200507.003-1584699103-release-keys",
+        "commit": "a73388d71fac01e74c93b8fdb15c3414181bddad",
+        "committed_date": "2020-06-22T16:19:58.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T00:14:22.016Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op4ba1l1",
+        "project_id": 2256,
+        "project_path": "oppo/op4ba1l1"
+      },
+      "revision": "a73388d71fac01e74c93b8fdb15c3414181bddad",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op4ba1l1/-/tree/a73388d71fac01e74c93b8fdb15c3414181bddad"
+    },
+    {
+      "item_id": "oppo/op4ba2l1@qssi-user-11-RKQ1.200507.003-1584699103-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200507.003-1584699103-release-keys",
+        "commit": "83ef95553897cb61ffcfeb61ba2f66611f4b42c8",
+        "committed_date": "2020-06-22T16:17:36.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T00:05:06.897Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op4ba2l1",
+        "project_id": 2251,
+        "project_path": "oppo/op4ba2l1"
+      },
+      "revision": "83ef95553897cb61ffcfeb61ba2f66611f4b42c8",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op4ba2l1/-/tree/83ef95553897cb61ffcfeb61ba2f66611f4b42c8"
+    },
+    {
+      "item_id": "oppo/op4ba5l1@qssi-user-10-QKQ1.200428.002--release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.200428.002--release-keys",
+        "commit": "a1219f1f5896da6cf6d7f22558c5870ead59e50c",
+        "committed_date": "2021-09-10T21:58:48.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T16:44:39.688Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op4ba5l1",
+        "project_id": 1195,
+        "project_path": "oppo/op4ba5l1"
+      },
+      "revision": "a1219f1f5896da6cf6d7f22558c5870ead59e50c",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op4ba5l1/-/tree/a1219f1f5896da6cf6d7f22558c5870ead59e50c"
+    },
+    {
+      "item_id": "oppo/op4c4b@full_oppo6771_19531-user-9-PPR1.180610.011-eng.root.20190924.180737-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6771_19531-user-9-PPR1.180610.011-eng.root.20190924.180737-release-keys",
+        "commit": "58f4f2ca062384b52fd72a78dce053a829120ce5",
+        "committed_date": "2019-10-25T03:19:27.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T06:42:35.799Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op4c4b",
+        "project_id": 1526,
+        "project_path": "oppo/op4c4b"
+      },
+      "revision": "58f4f2ca062384b52fd72a78dce053a829120ce5",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op4c4b/-/tree/58f4f2ca062384b52fd72a78dce053a829120ce5"
+    },
+    {
+      "item_id": "oppo/op4c73@qssi-user-10-QKQ1.200114.002--release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.200114.002--release-keys",
+        "commit": "306bdf9771fc7d409b41f97faa96c91363bec762",
+        "committed_date": "2020-06-23T12:00:28.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T00:07:20.992Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op4c73",
+        "project_id": 2252,
+        "project_path": "oppo/op4c73"
+      },
+      "revision": "306bdf9771fc7d409b41f97faa96c91363bec762",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op4c73/-/tree/306bdf9771fc7d409b41f97faa96c91363bec762"
+    },
+    {
+      "item_id": "oppo/op4e75l1@qssi-user-13-TP1A.220624.014-R.202209281208-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220624.014-R.202209281208-release-keys--ALLNET",
+        "commit": "6797ca541d9135f1c735056ac0620a5a09a86e17",
+        "committed_date": "2022-10-17T08:33:18.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-12-04T00:58:20.162Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op4e75l1",
+        "project_id": 2479,
+        "project_path": "oppo/op4e75l1"
+      },
+      "revision": "6797ca541d9135f1c735056ac0620a5a09a86e17",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op4e75l1/-/tree/6797ca541d9135f1c735056ac0620a5a09a86e17"
+    },
+    {
+      "item_id": "oppo/op4e75l1@qssi-user-13-TP1A.220624.014-R.d522f9-1-3c955-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220624.014-R.d522f9-1-3c955-release-keys--ALLNET",
+        "commit": "8795ede9d5632103fa8df4e8c4e962a6f9639ded",
+        "committed_date": "2023-01-11T09:28:09.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-12-04T00:58:20.162Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op4e75l1",
+        "project_id": 2479,
+        "project_path": "oppo/op4e75l1"
+      },
+      "revision": "8795ede9d5632103fa8df4e8c4e962a6f9639ded",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op4e75l1/-/tree/8795ede9d5632103fa8df4e8c4e962a6f9639ded"
+    },
+    {
+      "item_id": "oppo/op4e75l1@qssi-user-13-TP1A.220905.001-1689567352699-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1689567352699-release-keys--ALLNET",
+        "commit": "be1785352f2c1747a2db16d43d0624870e2d1823",
+        "committed_date": "2023-08-13T18:51:13.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-12-04T00:58:20.162Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op4e75l1",
+        "project_id": 2479,
+        "project_path": "oppo/op4e75l1"
+      },
+      "revision": "be1785352f2c1747a2db16d43d0624870e2d1823",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op4e75l1/-/tree/be1785352f2c1747a2db16d43d0624870e2d1823"
+    },
+    {
+      "item_id": "oppo/op4e75l1@qssi-user-13-TP1A.220905.001-1694594759862-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1694594759862-release-keys--ALLNET",
+        "commit": "6e4e79a13822570b072f29b215d9071cdf7e0eff",
+        "committed_date": "2023-10-04T23:11:00.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-12-04T00:58:20.162Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op4e75l1",
+        "project_id": 2479,
+        "project_path": "oppo/op4e75l1"
+      },
+      "revision": "6e4e79a13822570b072f29b215d9071cdf7e0eff",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op4e75l1/-/tree/6e4e79a13822570b072f29b215d9071cdf7e0eff"
+    },
+    {
+      "item_id": "oppo/op4e75l1@qssi-user-14-UP1A.230620.001-1699540788095-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UP1A.230620.001-1699540788095-release-keys--ALLNET",
+        "commit": "2cb70f17f1087df25f54130ecdf555cbec8fed16",
+        "committed_date": "2023-12-04T03:42:03.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-12-04T00:58:20.162Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op4e75l1",
+        "project_id": 2479,
+        "project_path": "oppo/op4e75l1"
+      },
+      "revision": "2cb70f17f1087df25f54130ecdf555cbec8fed16",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op4e75l1/-/tree/2cb70f17f1087df25f54130ecdf555cbec8fed16"
+    },
+    {
+      "item_id": "oppo/op4ec1@qssi-user-13-TP1A.220905.001-1705910685312-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1705910685312-release-keys--ALLNET",
+        "commit": "e6e784c810cf4b545a23ea46fff66dc1014a00a3",
+        "committed_date": "2024-04-23T19:51:54.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-04-23T16:44:06.725Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op4ec1",
+        "project_id": 5248,
+        "project_path": "oppo/op4ec1"
+      },
+      "revision": "e6e784c810cf4b545a23ea46fff66dc1014a00a3",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op4ec1/-/tree/e6e784c810cf4b545a23ea46fff66dc1014a00a3"
+    },
+    {
+      "item_id": "oppo/op4efdl1@qssi-user-10-QKQ1.200614.002--release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.200614.002--release-keys",
+        "commit": "a3c844d7c70c4f9e1d05ff20d351a6e2738e2ca8",
+        "committed_date": "2022-12-31T15:15:52.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-12-31T12:11:57.757Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op4efdl1",
+        "project_id": 4018,
+        "project_path": "oppo/op4efdl1"
+      },
+      "revision": "a3c844d7c70c4f9e1d05ff20d351a6e2738e2ca8",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op4efdl1/-/tree/a3c844d7c70c4f9e1d05ff20d351a6e2738e2ca8"
+    },
+    {
+      "item_id": "oppo/op4f39l1@qssi-user-13-TP1A.220905.001-1730274706104-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1730274706104-release-keys--IN",
+        "commit": "69af3f04a9a4d0ffe9c5294b65b08d2cdbc0316f",
+        "committed_date": "2024-12-30T12:55:48.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-12-30T09:50:55.048Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op4f39l1",
+        "project_id": 5524,
+        "project_path": "oppo/op4f39l1"
+      },
+      "revision": "69af3f04a9a4d0ffe9c5294b65b08d2cdbc0316f",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op4f39l1/-/tree/69af3f04a9a4d0ffe9c5294b65b08d2cdbc0316f"
+    },
+    {
+      "item_id": "oppo/op4f43l1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1683804808465-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1683804808465-release-keys--IN",
+        "commit": "d59f426b02f44250e6a43f2addc62b8ed9ae402a",
+        "committed_date": "2023-07-28T02:32:28.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-07-27T23:27:10.858Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op4f43l1",
+        "project_id": 4372,
+        "project_path": "oppo/op4f43l1"
+      },
+      "revision": "d59f426b02f44250e6a43f2addc62b8ed9ae402a",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op4f43l1/-/tree/d59f426b02f44250e6a43f2addc62b8ed9ae402a"
+    },
+    {
+      "item_id": "oppo/op4f57l1@qssi-user-11-RKQ1.201105.002-1619185388338-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201105.002-1619185388338-release-keys",
+        "commit": "7ef29e4dad606a3d19feafbfef378b9fba3dba5c",
+        "committed_date": "2021-09-01T12:30:18.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T22:50:58.235Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op4f57l1",
+        "project_id": 1370,
+        "project_path": "oppo/op4f57l1"
+      },
+      "revision": "7ef29e4dad606a3d19feafbfef378b9fba3dba5c",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op4f57l1/-/tree/7ef29e4dad606a3d19feafbfef378b9fba3dba5c"
+    },
+    {
+      "item_id": "oppo/op4f57l1@qssi-user-12-SKQ1.210408.001-1620960465478-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210408.001-1620960465478-release-keys",
+        "commit": "3542574590758c89af623d7eaad17137c8282e27",
+        "committed_date": "2021-08-27T14:03:42.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T22:50:58.235Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op4f57l1",
+        "project_id": 1370,
+        "project_path": "oppo/op4f57l1"
+      },
+      "revision": "3542574590758c89af623d7eaad17137c8282e27",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op4f57l1/-/tree/3542574590758c89af623d7eaad17137c8282e27"
+    },
+    {
+      "item_id": "oppo/op5209l1@qssi-user-13-TP1A.220905.001-1675751356802-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1675751356802-release-keys--ALLNET",
+        "commit": "8c33d357faee8e0a385115735047204c5856e8ab",
+        "committed_date": "2023-02-17T12:08:34.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-02-17T08:56:32.689Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5209l1",
+        "project_id": 4070,
+        "project_path": "oppo/op5209l1"
+      },
+      "revision": "8c33d357faee8e0a385115735047204c5856e8ab",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5209l1/-/tree/8c33d357faee8e0a385115735047204c5856e8ab"
+    },
+    {
+      "item_id": "oppo/op5217@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1706675666698-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1706675666698-release-keys--ALLNET",
+        "commit": "b1206507aabaaa4c64f07b12dbbdcf07f993c29b",
+        "committed_date": "2024-04-30T15:16:27.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-04-30T12:07:59.544Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5217",
+        "project_id": 5252,
+        "project_path": "oppo/op5217"
+      },
+      "revision": "b1206507aabaaa4c64f07b12dbbdcf07f993c29b",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5217/-/tree/b1206507aabaaa4c64f07b12dbbdcf07f993c29b"
+    },
+    {
+      "item_id": "oppo/op5225@qssi-user-12-RKQ1.211119.001-S.202205141919-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-RKQ1.211119.001-S.202205141919-release-keys--ALLNET",
+        "commit": "b2f0ac68d42b3bc0e069ec66a7ce1161af80bc9c",
+        "committed_date": "2022-05-25T23:34:33.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T12:51:08.218Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5225",
+        "project_id": 1000,
+        "project_path": "oppo/op5225"
+      },
+      "revision": "b2f0ac68d42b3bc0e069ec66a7ce1161af80bc9c",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5225/-/tree/b2f0ac68d42b3bc0e069ec66a7ce1161af80bc9c"
+    },
+    {
+      "item_id": "oppo/op5227@qssi-user-13-TP1A.220905.001-1704266321110-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1704266321110-release-keys--ALLNET",
+        "commit": "b74f69eae03311a9f4f85762aa4d0845648faf21",
+        "committed_date": "2024-04-22T19:07:11.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-04-22T15:58:44.302Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5227",
+        "project_id": 5245,
+        "project_path": "oppo/op5227"
+      },
+      "revision": "b74f69eae03311a9f4f85762aa4d0845648faf21",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5227/-/tree/b74f69eae03311a9f4f85762aa4d0845648faf21"
+    },
+    {
+      "item_id": "oppo/op5245@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1676694035780-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1676694035780-release-keys--ALLNET",
+        "commit": "3fd3e4f1cd4f3f8d708c41ac8b8600e0ba41540e",
+        "committed_date": "2023-02-23T17:56:25.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-02-23T14:50:45.566Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5245",
+        "project_id": 4077,
+        "project_path": "oppo/op5245"
+      },
+      "revision": "3fd3e4f1cd4f3f8d708c41ac8b8600e0ba41540e",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5245/-/tree/3fd3e4f1cd4f3f8d708c41ac8b8600e0ba41540e"
+    },
+    {
+      "item_id": "oppo/op524f@qssi-user-13-TP1A.220905.001-1731981808000-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1731981808000-release-keys--ALLNET",
+        "commit": "fc19a1a82d0a4adf76df1375e71c7570305f069f",
+        "committed_date": "2025-01-02T20:47:14.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-01-02T17:40:54.176Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op524f",
+        "project_id": 5540,
+        "project_path": "oppo/op524f"
+      },
+      "revision": "fc19a1a82d0a4adf76df1375e71c7570305f069f",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op524f/-/tree/fc19a1a82d0a4adf76df1375e71c7570305f069f"
+    },
+    {
+      "item_id": "oppo/op5267@qssi-user-12-SKQ1.211209.001-R.1307aa6-5235-39916-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211209.001-R.1307aa6-5235-39916-release-keys--ALLNET",
+        "commit": "c6e907375ffe1f0a76dd3bb8c2ed4df35f6bdac7",
+        "committed_date": "2025-04-17T11:12:56.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-04-17T08:07:33.830Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5267",
+        "project_id": 5621,
+        "project_path": "oppo/op5267"
+      },
+      "revision": "c6e907375ffe1f0a76dd3bb8c2ed4df35f6bdac7",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5267/-/tree/c6e907375ffe1f0a76dd3bb8c2ed4df35f6bdac7"
+    },
+    {
+      "item_id": "oppo/op5285@qssi-user-12-SKQ1.220303.001-S.202211092137-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220303.001-S.202211092137-release-keys--ALLNET",
+        "commit": "bf7ce38cf601fc8ace91ea374def45e446cffe04",
+        "committed_date": "2022-12-06T09:08:36.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-12-06T06:02:44.451Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5285",
+        "project_id": 3986,
+        "project_path": "oppo/op5285"
+      },
+      "revision": "bf7ce38cf601fc8ace91ea374def45e446cffe04",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5285/-/tree/bf7ce38cf601fc8ace91ea374def45e446cffe04"
+    },
+    {
+      "item_id": "oppo/op528bl1@qssi-user-13-TP1A.220905.001-1677687796472-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1677687796472-release-keys--ALLNET",
+        "commit": "8663e164eabd114199b26ccef6385d1c3314cbb0",
+        "committed_date": "2023-04-12T02:09:58.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-05-29T14:03:40.958Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op528bl1",
+        "project_id": 4101,
+        "project_path": "oppo/op528bl1"
+      },
+      "revision": "8663e164eabd114199b26ccef6385d1c3314cbb0",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op528bl1/-/tree/8663e164eabd114199b26ccef6385d1c3314cbb0"
+    },
+    {
+      "item_id": "oppo/op528bl1@qssi-user-13-TP1A.220905.001-1682431598665-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1682431598665-release-keys--ALLNET",
+        "commit": "307372e8e48726c91571893516536c054d5957e8",
+        "committed_date": "2023-05-18T14:15:51.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-05-29T14:03:40.958Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op528bl1",
+        "project_id": 4101,
+        "project_path": "oppo/op528bl1"
+      },
+      "revision": "307372e8e48726c91571893516536c054d5957e8",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op528bl1/-/tree/307372e8e48726c91571893516536c054d5957e8"
+    },
+    {
+      "item_id": "oppo/op528bl1@qssi-user-13-TP1A.220905.001-1684823872976-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1684823872976-release-keys--ALLNET",
+        "commit": "4f2aeac3289783014f1076d4a977d1948dc794c0",
+        "committed_date": "2023-05-29T16:46:01.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-05-29T14:03:40.958Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op528bl1",
+        "project_id": 4101,
+        "project_path": "oppo/op528bl1"
+      },
+      "revision": "4f2aeac3289783014f1076d4a977d1948dc794c0",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op528bl1/-/tree/4f2aeac3289783014f1076d4a977d1948dc794c0"
+    },
+    {
+      "item_id": "oppo/op528f@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1677601025158-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1677601025158-release-keys--ALLNET",
+        "commit": "32ce85f60a161d3a47c442966fdcf95a317ebce4",
+        "committed_date": "2023-04-12T02:37:15.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-04-11T23:29:27.595Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op528f",
+        "project_id": 4102,
+        "project_path": "oppo/op528f"
+      },
+      "revision": "32ce85f60a161d3a47c442966fdcf95a317ebce4",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op528f/-/tree/32ce85f60a161d3a47c442966fdcf95a317ebce4"
+    },
+    {
+      "item_id": "oppo/op52d1l1@qssi-user-13-SKQ1.211113.001-S.GDPR.202206031544-release-keys--EUEX",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-SKQ1.211113.001-S.GDPR.202206031544-release-keys--EUEX",
+        "commit": "e8294d267b9fc9fb0899381b5f695aa054803ec2",
+        "committed_date": "2022-06-22T01:31:19.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T12:34:59.670Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op52d1l1",
+        "project_id": 850,
+        "project_path": "oppo/op52d1l1"
+      },
+      "revision": "e8294d267b9fc9fb0899381b5f695aa054803ec2",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op52d1l1/-/tree/e8294d267b9fc9fb0899381b5f695aa054803ec2"
+    },
+    {
+      "item_id": "oppo/op52d1l1@qssi-user-13-TP1A.220310.002-S.202204280643-release-keys--OCA",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220310.002-S.202204280643-release-keys--OCA",
+        "commit": "732e9b1fe3402db70ddbe5a11c15b56760f39a6d",
+        "committed_date": "2022-06-11T04:19:55.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T12:34:59.670Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op52d1l1",
+        "project_id": 850,
+        "project_path": "oppo/op52d1l1"
+      },
+      "revision": "732e9b1fe3402db70ddbe5a11c15b56760f39a6d",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op52d1l1/-/tree/732e9b1fe3402db70ddbe5a11c15b56760f39a6d"
+    },
+    {
+      "item_id": "oppo/op52d1l1@qssi-user-13-TP1A.220905.001-1686104511579-release-keys--EUEX",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1686104511579-release-keys--EUEX",
+        "commit": "d8e1b5fe66a26bdb19498c302dc0b393e6e56e7b",
+        "committed_date": "2023-07-03T16:27:27.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T12:34:59.670Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op52d1l1",
+        "project_id": 850,
+        "project_path": "oppo/op52d1l1"
+      },
+      "revision": "d8e1b5fe66a26bdb19498c302dc0b393e6e56e7b",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op52d1l1/-/tree/d8e1b5fe66a26bdb19498c302dc0b393e6e56e7b"
+    },
+    {
+      "item_id": "oppo/op52d1l1@qssi-user-14-UKQ1.230924.001-1730080779703-release-keys--EUEX",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1730080779703-release-keys--EUEX",
+        "commit": "8e4b22e0d86e87cbc137fe944df4a962329e1c49",
+        "committed_date": "2024-12-30T15:19:53.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-12-30T12:34:59.670Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op52d1l1",
+        "project_id": 850,
+        "project_path": "oppo/op52d1l1"
+      },
+      "revision": "8e4b22e0d86e87cbc137fe944df4a962329e1c49",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op52d1l1/-/tree/8e4b22e0d86e87cbc137fe944df4a962329e1c49"
+    },
+    {
+      "item_id": "oppo/op52f3l1@sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1663948981497-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1663948981497-release-keys--IN",
+        "commit": "2a54fb8212188aeeb0e658829714cb6c9c26eab0",
+        "committed_date": "2023-02-18T20:05:18.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-02-18T16:59:39.810Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op52f3l1",
+        "project_id": 4072,
+        "project_path": "oppo/op52f3l1"
+      },
+      "revision": "2a54fb8212188aeeb0e658829714cb6c9c26eab0",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op52f3l1/-/tree/2a54fb8212188aeeb0e658829714cb6c9c26eab0"
+    },
+    {
+      "item_id": "oppo/op52f3l1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1672893736705-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1672893736705-release-keys--IN",
+        "commit": "68459a521923fa17aba3c9afcbf5fcd96a6300ac",
+        "committed_date": "2023-02-18T20:35:00.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-02-18T16:59:39.810Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op52f3l1",
+        "project_id": 4072,
+        "project_path": "oppo/op52f3l1"
+      },
+      "revision": "68459a521923fa17aba3c9afcbf5fcd96a6300ac",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op52f3l1/-/tree/68459a521923fa17aba3c9afcbf5fcd96a6300ac"
+    },
+    {
+      "item_id": "oppo/op532fl1@qssi-user-13-TP1A.220624.003-R.202210111630-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220624.003-R.202210111630-release-keys--IN",
+        "commit": "aadc66c836530b882ed93019189818868ad50877",
+        "committed_date": "2022-11-03T18:35:28.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-11-03T15:31:09.272Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op532fl1",
+        "project_id": 2509,
+        "project_path": "oppo/op532fl1"
+      },
+      "revision": "aadc66c836530b882ed93019189818868ad50877",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op532fl1/-/tree/aadc66c836530b882ed93019189818868ad50877"
+    },
+    {
+      "item_id": "oppo/op5339l1@sys_mssi_64_cn_armv82-user-14-UKQ1.230924.001-1713175990472-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-14-UKQ1.230924.001-1713175990472-release-keys--IN",
+        "commit": "f3447cfb2b67f23d4129abe4137ca59b9bc8ac65",
+        "committed_date": "2024-05-10T01:23:11.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-05-09T22:14:16.585Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5339l1",
+        "project_id": 5266,
+        "project_path": "oppo/op5339l1"
+      },
+      "revision": "f3447cfb2b67f23d4129abe4137ca59b9bc8ac65",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5339l1/-/tree/f3447cfb2b67f23d4129abe4137ca59b9bc8ac65"
+    },
+    {
+      "item_id": "oppo/op55f1l1@qssi-user-13-TP1A.220905.001-1677685266867-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1677685266867-release-keys--ALLNET",
+        "commit": "bf9c6e40a38fbca39568a267f346663b4d89bfd1",
+        "committed_date": "2023-03-10T12:56:11.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-03-10T09:48:53.151Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op55f1l1",
+        "project_id": 4088,
+        "project_path": "oppo/op55f1l1"
+      },
+      "revision": "bf9c6e40a38fbca39568a267f346663b4d89bfd1",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op55f1l1/-/tree/bf9c6e40a38fbca39568a267f346663b4d89bfd1"
+    },
+    {
+      "item_id": "oppo/op55f3l1@qssi-user-13-TP1A.220905.001-1697881069627-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1697881069627-release-keys--ALLNET",
+        "commit": "75078b70ad7a28f17106e2e880b6f1f7ac3bb883",
+        "committed_date": "2023-11-04T18:51:02.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-01T15:17:04.156Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op55f3l1",
+        "project_id": 4575,
+        "project_path": "oppo/op55f3l1"
+      },
+      "revision": "75078b70ad7a28f17106e2e880b6f1f7ac3bb883",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op55f3l1/-/tree/75078b70ad7a28f17106e2e880b6f1f7ac3bb883"
+    },
+    {
+      "item_id": "oppo/op55f3l1@qssi-user-13-TP1A.220905.001-1699272378926-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1699272378926-release-keys--ALLNET",
+        "commit": "d571c1fdb0a15685933b9fd3028c373e290681bf",
+        "committed_date": "2023-11-14T19:35:22.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-01T15:17:04.156Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op55f3l1",
+        "project_id": 4575,
+        "project_path": "oppo/op55f3l1"
+      },
+      "revision": "d571c1fdb0a15685933b9fd3028c373e290681bf",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op55f3l1/-/tree/d571c1fdb0a15685933b9fd3028c373e290681bf"
+    },
+    {
+      "item_id": "oppo/op55f3l1@qssi-user-13-TP1A.220905.001-1702302496807-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1702302496807-release-keys--ALLNET",
+        "commit": "c3dd5b6a2f0b4afcf841c2ebcdff91ae03849ea8",
+        "committed_date": "2024-07-07T11:42:04.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-01T15:17:04.156Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op55f3l1",
+        "project_id": 4575,
+        "project_path": "oppo/op55f3l1"
+      },
+      "revision": "c3dd5b6a2f0b4afcf841c2ebcdff91ae03849ea8",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op55f3l1/-/tree/c3dd5b6a2f0b4afcf841c2ebcdff91ae03849ea8"
+    },
+    {
+      "item_id": "oppo/op55f3l1@qssi-user-15-AP3A.240617.008-1731657433421-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-15-AP3A.240617.008-1731657433421-release-keys--ALLNET",
+        "commit": "c4f879fbcaf995327ef5273a5da412f6c19ae648",
+        "committed_date": "2024-12-01T17:58:19.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-12-01T15:17:04.156Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op55f3l1",
+        "project_id": 4575,
+        "project_path": "oppo/op55f3l1"
+      },
+      "revision": "c4f879fbcaf995327ef5273a5da412f6c19ae648",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op55f3l1/-/tree/c4f879fbcaf995327ef5273a5da412f6c19ae648"
+    },
+    {
+      "item_id": "oppo/op55ff@qssi-user-13-TP1A.220905.001-1670511117847-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1670511117847-release-keys--ALLNET",
+        "commit": "7bc176dec5f188d4f69d81391f243d50deddf523",
+        "committed_date": "2023-01-05T21:24:46.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-01-05T18:18:05.955Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op55ff",
+        "project_id": 4023,
+        "project_path": "oppo/op55ff"
+      },
+      "revision": "7bc176dec5f188d4f69d81391f243d50deddf523",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op55ff/-/tree/7bc176dec5f188d4f69d81391f243d50deddf523"
+    },
+    {
+      "item_id": "oppo/op5601@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1670526267359-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1670526267359-release-keys--ALLNET",
+        "commit": "954b085faf189da55bb80a27731ea8e8c316d256",
+        "committed_date": "2023-01-05T20:16:02.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-01-05T17:08:21.734Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5601",
+        "project_id": 4022,
+        "project_path": "oppo/op5601"
+      },
+      "revision": "954b085faf189da55bb80a27731ea8e8c316d256",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5601/-/tree/954b085faf189da55bb80a27731ea8e8c316d256"
+    },
+    {
+      "item_id": "oppo/op5605@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1672071479222-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1672071479222-release-keys--ALLNET",
+        "commit": "5cff81b182cafe5451591104609610c37adefa5a",
+        "committed_date": "2023-01-08T21:51:17.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-11-03T00:44:52.128Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5605",
+        "project_id": 4026,
+        "project_path": "oppo/op5605"
+      },
+      "revision": "5cff81b182cafe5451591104609610c37adefa5a",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5605/-/tree/5cff81b182cafe5451591104609610c37adefa5a"
+    },
+    {
+      "item_id": "oppo/op5605@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1675329809966-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1675329809966-release-keys--ALLNET",
+        "commit": "a36100b397db614755df3e6da50a403a50f6aad8",
+        "committed_date": "2023-02-05T20:49:51.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-11-03T00:44:52.128Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5605",
+        "project_id": 4026,
+        "project_path": "oppo/op5605"
+      },
+      "revision": "a36100b397db614755df3e6da50a403a50f6aad8",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5605/-/tree/a36100b397db614755df3e6da50a403a50f6aad8"
+    },
+    {
+      "item_id": "oppo/op5605@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1681319056228-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1681319056228-release-keys--ALLNET",
+        "commit": "bb137d8cedf447e8a8d608dcb1da85dadafc63a2",
+        "committed_date": "2023-04-20T21:17:48.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-11-03T00:44:52.128Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5605",
+        "project_id": 4026,
+        "project_path": "oppo/op5605"
+      },
+      "revision": "bb137d8cedf447e8a8d608dcb1da85dadafc63a2",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5605/-/tree/bb137d8cedf447e8a8d608dcb1da85dadafc63a2"
+    },
+    {
+      "item_id": "oppo/op5605@sys_mssi_64_cn_armv82-user-14-UP1A.230620.001-1698838623823-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-14-UP1A.230620.001-1698838623823-release-keys--ALLNET",
+        "commit": "c406a44c2aab0f69645e71eb51ad5d4de8cbce9c",
+        "committed_date": "2023-11-03T03:27:26.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-11-03T00:44:52.128Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5605",
+        "project_id": 4026,
+        "project_path": "oppo/op5605"
+      },
+      "revision": "c406a44c2aab0f69645e71eb51ad5d4de8cbce9c",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5605/-/tree/c406a44c2aab0f69645e71eb51ad5d4de8cbce9c"
+    },
+    {
+      "item_id": "oppo/op5607l1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1695813692435-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1695813692435-release-keys--ALLNET",
+        "commit": "2f33e2a0f52132859a5f02a9285a3963126a783e",
+        "committed_date": "2023-10-08T20:35:16.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-11-08T15:28:11.018Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5607l1",
+        "project_id": 4507,
+        "project_path": "oppo/op5607l1"
+      },
+      "revision": "2f33e2a0f52132859a5f02a9285a3963126a783e",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5607l1/-/tree/2f33e2a0f52132859a5f02a9285a3963126a783e"
+    },
+    {
+      "item_id": "oppo/op5607l1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1699017592340-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1699017592340-release-keys--ALLNET",
+        "commit": "2800f987ebeb955479696ce10de1c0f03a1e1aaf",
+        "committed_date": "2023-11-08T18:08:48.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-11-08T15:28:11.018Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5607l1",
+        "project_id": 4507,
+        "project_path": "oppo/op5607l1"
+      },
+      "revision": "2800f987ebeb955479696ce10de1c0f03a1e1aaf",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5607l1/-/tree/2800f987ebeb955479696ce10de1c0f03a1e1aaf"
+    },
+    {
+      "item_id": "oppo/op561f@sys_mssi_64_cn_armv82-user-14-UKQ1.230924.001-1712716520095-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-14-UKQ1.230924.001-1712716520095-release-keys--ALLNET",
+        "commit": "ace7d43d7519ba44db7baa46d746bf68c7a7e0d1",
+        "committed_date": "2024-05-01T20:52:11.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-05-01T17:43:27.057Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op561f",
+        "project_id": 5253,
+        "project_path": "oppo/op561f"
+      },
+      "revision": "ace7d43d7519ba44db7baa46d746bf68c7a7e0d1",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op561f/-/tree/ace7d43d7519ba44db7baa46d746bf68c7a7e0d1"
+    },
+    {
+      "item_id": "oppo/op5627@qssi-user-13-TP1A.220905.001-1670508053718-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1670508053718-release-keys--ALLNET",
+        "commit": "79ba9c60760c260ac1022f19981a024559073a6d",
+        "committed_date": "2023-01-05T19:44:05.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-01-05T16:38:14.615Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5627",
+        "project_id": 4021,
+        "project_path": "oppo/op5627"
+      },
+      "revision": "79ba9c60760c260ac1022f19981a024559073a6d",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5627/-/tree/79ba9c60760c260ac1022f19981a024559073a6d"
+    },
+    {
+      "item_id": "oppo/op5647@sys_mssi_64_cn_armv82-user-14-UKQ1.230924.001-1722963943079-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-14-UKQ1.230924.001-1722963943079-release-keys--ALLNET",
+        "commit": "f84be611285901737b3711036aba5e26cdd159d0",
+        "committed_date": "2025-01-02T19:03:44.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-01-02T15:57:52.294Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5647",
+        "project_id": 5536,
+        "project_path": "oppo/op5647"
+      },
+      "revision": "f84be611285901737b3711036aba5e26cdd159d0",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5647/-/tree/f84be611285901737b3711036aba5e26cdd159d0"
+    },
+    {
+      "item_id": "oppo/op564b@qssi-user-13-TP1A.220905.001-1683946642459-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1683946642459-release-keys--ALLNET",
+        "commit": "9451452e466b631b7c9608b529638c561cd922ee",
+        "committed_date": "2023-06-06T15:42:59.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-06-06T13:38:43.225Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op564b",
+        "project_id": 4325,
+        "project_path": "oppo/op564b"
+      },
+      "revision": "9451452e466b631b7c9608b529638c561cd922ee",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op564b/-/tree/9451452e466b631b7c9608b529638c561cd922ee"
+    },
+    {
+      "item_id": "oppo/op564b@qssi-user-13-TP1A.220905.001-1685116545980-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1685116545980-release-keys--ALLNET",
+        "commit": "4c3541628f09de1715e4f12b6a12be79d2266c75",
+        "committed_date": "2023-06-06T16:21:27.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-06-06T13:38:43.225Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op564b",
+        "project_id": 4325,
+        "project_path": "oppo/op564b"
+      },
+      "revision": "4c3541628f09de1715e4f12b6a12be79d2266c75",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op564b/-/tree/4c3541628f09de1715e4f12b6a12be79d2266c75"
+    },
+    {
+      "item_id": "oppo/op565fl1@qssi-user-14-UP1A.231005.007-1704818062095-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UP1A.231005.007-1704818062095-release-keys--ALLNET",
+        "commit": "d99427b14313de043001f63ecfa99fc1861ff45b",
+        "committed_date": "2024-02-14T12:43:30.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-03-23T15:47:56.334Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op565fl1",
+        "project_id": 4722,
+        "project_path": "oppo/op565fl1"
+      },
+      "revision": "d99427b14313de043001f63ecfa99fc1861ff45b",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op565fl1/-/tree/d99427b14313de043001f63ecfa99fc1861ff45b"
+    },
+    {
+      "item_id": "oppo/op565fl1@qssi-user-14-UP1A.231005.007-1705942534650-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UP1A.231005.007-1705942534650-release-keys--ALLNET",
+        "commit": "7892921a9e43983470b139113178254e46ffea3e",
+        "committed_date": "2024-01-29T14:20:32.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-03-23T15:47:56.334Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op565fl1",
+        "project_id": 4722,
+        "project_path": "oppo/op565fl1"
+      },
+      "revision": "7892921a9e43983470b139113178254e46ffea3e",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op565fl1/-/tree/7892921a9e43983470b139113178254e46ffea3e"
+    },
+    {
+      "item_id": "oppo/op565fl1@qssi-user-14-UP1A.231005.007-1706810090251-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UP1A.231005.007-1706810090251-release-keys--ALLNET",
+        "commit": "2e7660878c4e46f227b4aefab42cbda82d1fae65",
+        "committed_date": "2024-02-02T18:27:05.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-03-23T15:47:56.334Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op565fl1",
+        "project_id": 4722,
+        "project_path": "oppo/op565fl1"
+      },
+      "revision": "2e7660878c4e46f227b4aefab42cbda82d1fae65",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op565fl1/-/tree/2e7660878c4e46f227b4aefab42cbda82d1fae65"
+    },
+    {
+      "item_id": "oppo/op565fl1@qssi-user-14-UP1A.231005.007-1709219456753-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UP1A.231005.007-1709219456753-release-keys--ALLNET",
+        "commit": "46c14e2f5bd2a76030e4868e2c4c7af202197f09",
+        "committed_date": "2024-03-03T00:39:05.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-03-23T15:47:56.334Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op565fl1",
+        "project_id": 4722,
+        "project_path": "oppo/op565fl1"
+      },
+      "revision": "46c14e2f5bd2a76030e4868e2c4c7af202197f09",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op565fl1/-/tree/46c14e2f5bd2a76030e4868e2c4c7af202197f09"
+    },
+    {
+      "item_id": "oppo/op565fl1@qssi-user-14-UP1A.231005.007-1715598237289-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UP1A.231005.007-1715598237289-release-keys--ALLNET",
+        "commit": "1103b128974519578e15066622279bcf93819141",
+        "committed_date": "2024-05-26T13:42:29.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-03-23T15:47:56.334Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op565fl1",
+        "project_id": 4722,
+        "project_path": "oppo/op565fl1"
+      },
+      "revision": "1103b128974519578e15066622279bcf93819141",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op565fl1/-/tree/1103b128974519578e15066622279bcf93819141"
+    },
+    {
+      "item_id": "oppo/op565fl1@qssi-user-15-AP3A.240617.008-1741709718283-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-15-AP3A.240617.008-1741709718283-release-keys--ALLNET",
+        "commit": "dcef9d53dfba9f6829055753ebba2db7c8650fe7",
+        "committed_date": "2025-03-23T18:28:15.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-03-23T15:47:56.334Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op565fl1",
+        "project_id": 4722,
+        "project_path": "oppo/op565fl1"
+      },
+      "revision": "dcef9d53dfba9f6829055753ebba2db7c8650fe7",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op565fl1/-/tree/dcef9d53dfba9f6829055753ebba2db7c8650fe7"
+    },
+    {
+      "item_id": "oppo/op5660l1@qssi-user-14-UKQ1.231108.001-1723427782284-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.231108.001-1723427782284-release-keys--ALLNET",
+        "commit": "42e4479b2188a14901fa74496a587473c520395d",
+        "committed_date": "2025-01-03T12:29:19.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-01-03T09:48:14.147Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5660l1",
+        "project_id": 5215,
+        "project_path": "oppo/op5660l1"
+      },
+      "revision": "42e4479b2188a14901fa74496a587473c520395d",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5660l1/-/tree/42e4479b2188a14901fa74496a587473c520395d"
+    },
+    {
+      "item_id": "oppo/op5660l1@qssi-user-14-UP1A.231005.007-1711639056004-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UP1A.231005.007-1711639056004-release-keys--ALLNET",
+        "commit": "119a11c81dc024188166f4f6bf337ac802f38850",
+        "committed_date": "2024-04-03T16:58:01.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-03T09:48:14.147Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5660l1",
+        "project_id": 5215,
+        "project_path": "oppo/op5660l1"
+      },
+      "revision": "119a11c81dc024188166f4f6bf337ac802f38850",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5660l1/-/tree/119a11c81dc024188166f4f6bf337ac802f38850"
+    },
+    {
+      "item_id": "oppo/op5660l1@qssi-user-14-UP1A.231005.007-1713154510533-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UP1A.231005.007-1713154510533-release-keys--ALLNET",
+        "commit": "ba0c3d4e9adbcf6d3b62c648cd67af089991f44d",
+        "committed_date": "2024-04-15T20:28:30.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-03T09:48:14.147Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5660l1",
+        "project_id": 5215,
+        "project_path": "oppo/op5660l1"
+      },
+      "revision": "ba0c3d4e9adbcf6d3b62c648cd67af089991f44d",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5660l1/-/tree/ba0c3d4e9adbcf6d3b62c648cd67af089991f44d"
+    },
+    {
+      "item_id": "oppo/op5660l1@qssi-user-14-UP1A.231005.007-1717069070983-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UP1A.231005.007-1717069070983-release-keys--ALLNET",
+        "commit": "96437fb1ea28ea4ef7d7c2327dbbd07189cf26c6",
+        "committed_date": "2024-06-08T17:41:40.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-03T09:48:14.147Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5660l1",
+        "project_id": 5215,
+        "project_path": "oppo/op5660l1"
+      },
+      "revision": "96437fb1ea28ea4ef7d7c2327dbbd07189cf26c6",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5660l1/-/tree/96437fb1ea28ea4ef7d7c2327dbbd07189cf26c6"
+    },
+    {
+      "item_id": "oppo/op5661l1@sys_mssi_64_cn_armv82-user-14-UP1A.231005.007-1715596857430-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-14-UP1A.231005.007-1715596857430-release-keys--ALLNET",
+        "commit": "52bf4cd4847259c0fbb064a118934473dcdaa61b",
+        "committed_date": "2024-06-04T20:58:14.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-23T14:28:30.651Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5661l1",
+        "project_id": 5295,
+        "project_path": "oppo/op5661l1"
+      },
+      "revision": "52bf4cd4847259c0fbb064a118934473dcdaa61b",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5661l1/-/tree/52bf4cd4847259c0fbb064a118934473dcdaa61b"
+    },
+    {
+      "item_id": "oppo/op5661l1@sys_mssi_64_cn_armv82-user-15-AP3A.240617.008-1731086858476-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-15-AP3A.240617.008-1731086858476-release-keys--ALLNET",
+        "commit": "bdf16f5e6cd1abd06682e9d0d543dd2def16441c",
+        "committed_date": "2024-12-23T17:10:45.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-12-23T14:28:30.651Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5661l1",
+        "project_id": 5295,
+        "project_path": "oppo/op5661l1"
+      },
+      "revision": "bdf16f5e6cd1abd06682e9d0d543dd2def16441c",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5661l1/-/tree/bdf16f5e6cd1abd06682e9d0d543dd2def16441c"
+    },
+    {
+      "item_id": "oppo/op56bbl1@qssi-user-13-TP1A.220905.001-1700752315307-release-keys--TW",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1700752315307-release-keys--TW",
+        "commit": "5cecd8680320ec554fca385cbfc4101d9a3bed5a",
+        "committed_date": "2023-12-06T00:44:55.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-12-05T21:37:23.124Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op56bbl1",
+        "project_id": 4634,
+        "project_path": "oppo/op56bbl1"
+      },
+      "revision": "5cecd8680320ec554fca385cbfc4101d9a3bed5a",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op56bbl1/-/tree/5cecd8680320ec554fca385cbfc4101d9a3bed5a"
+    },
+    {
+      "item_id": "oppo/op56cdl1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1678703446413-release-keys--EUEX",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1678703446413-release-keys--EUEX",
+        "commit": "7bd72ed696000ac77dcf16c30d73bf803bab6931",
+        "committed_date": "2023-04-19T14:57:26.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-11-17T12:57:59.346Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op56cdl1",
+        "project_id": 4252,
+        "project_path": "oppo/op56cdl1"
+      },
+      "revision": "7bd72ed696000ac77dcf16c30d73bf803bab6931",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op56cdl1/-/tree/7bd72ed696000ac77dcf16c30d73bf803bab6931"
+    },
+    {
+      "item_id": "oppo/op56cdl1@sys_mssi_64_cn_armv82-user-14-UKQ1.230924.001-1699868534449-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-14-UKQ1.230924.001-1699868534449-release-keys--IN",
+        "commit": "70c9423aa32cc619f15d37caec7c085505e0766f",
+        "committed_date": "2023-11-17T15:41:05.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-11-17T12:57:59.346Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op56cdl1",
+        "project_id": 4252,
+        "project_path": "oppo/op56cdl1"
+      },
+      "revision": "70c9423aa32cc619f15d37caec7c085505e0766f",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op56cdl1/-/tree/70c9423aa32cc619f15d37caec7c085505e0766f"
+    },
+    {
+      "item_id": "oppo/op56cfl1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1696865117728-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1696865117728-release-keys--IN",
+        "commit": "03849104b35818315fbbc3c059acc44aa7e946e6",
+        "committed_date": "2023-10-19T21:49:47.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-10-19T19:08:31.676Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op56cfl1",
+        "project_id": 4557,
+        "project_path": "oppo/op56cfl1"
+      },
+      "revision": "03849104b35818315fbbc3c059acc44aa7e946e6",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op56cfl1/-/tree/03849104b35818315fbbc3c059acc44aa7e946e6"
+    },
+    {
+      "item_id": "oppo/op56d3l1@qssi-user-15-AP3A.240617.008-1736352935402-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-15-AP3A.240617.008-1736352935402-release-keys--IN",
+        "commit": "e7cf0bb61d5f26801780da1dc4e13812c3edc5f3",
+        "committed_date": "2025-02-23T09:04:30.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-23T07:05:53.139Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op56d3l1",
+        "project_id": 5587,
+        "project_path": "oppo/op56d3l1"
+      },
+      "revision": "e7cf0bb61d5f26801780da1dc4e13812c3edc5f3",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op56d3l1/-/tree/e7cf0bb61d5f26801780da1dc4e13812c3edc5f3"
+    },
+    {
+      "item_id": "oppo/op56d3l1@qssi-user-15-AP3A.240617.008-1739450522127-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-15-AP3A.240617.008-1739450522127-release-keys--IN",
+        "commit": "f2dab904d9e2088e300656ab707d100ee2c6b77c",
+        "committed_date": "2025-02-23T09:46:59.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-02-23T07:05:53.139Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op56d3l1",
+        "project_id": 5587,
+        "project_path": "oppo/op56d3l1"
+      },
+      "revision": "f2dab904d9e2088e300656ab707d100ee2c6b77c",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op56d3l1/-/tree/f2dab904d9e2088e300656ab707d100ee2c6b77c"
+    },
+    {
+      "item_id": "oppo/op56e1l1@qssi-user-13-TP1A.220905.001-1674094518115-release-keys--TW",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1674094518115-release-keys--TW",
+        "commit": "a668dd4becf61270c1461c8b9b2b31c8e5877263",
+        "committed_date": "2023-02-19T15:29:56.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-02-19T12:25:23.327Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op56e1l1",
+        "project_id": 4074,
+        "project_path": "oppo/op56e1l1"
+      },
+      "revision": "a668dd4becf61270c1461c8b9b2b31c8e5877263",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op56e1l1/-/tree/a668dd4becf61270c1461c8b9b2b31c8e5877263"
+    },
+    {
+      "item_id": "oppo/op56edl1@qssi-user-14-UKQ1.230924.001-1731574659908-release-keys--ID",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1731574659908-release-keys--ID",
+        "commit": "21beeba9bda48a601eda56d0b944c8a8a96ddd8b",
+        "committed_date": "2025-01-04T14:44:52.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-04T16:01:15.348Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op56edl1",
+        "project_id": 5541,
+        "project_path": "oppo/op56edl1"
+      },
+      "revision": "21beeba9bda48a601eda56d0b944c8a8a96ddd8b",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op56edl1/-/tree/21beeba9bda48a601eda56d0b944c8a8a96ddd8b"
+    },
+    {
+      "item_id": "oppo/op56edl1@qssi-user-14-UKQ1.230924.001-1731574659908-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1731574659908-release-keys--IN",
+        "commit": "b2811cba9be3f17a4f5239411d161bb25606d142",
+        "committed_date": "2025-01-04T13:28:22.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-04T16:01:15.348Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op56edl1",
+        "project_id": 5541,
+        "project_path": "oppo/op56edl1"
+      },
+      "revision": "b2811cba9be3f17a4f5239411d161bb25606d142",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op56edl1/-/tree/b2811cba9be3f17a4f5239411d161bb25606d142"
+    },
+    {
+      "item_id": "oppo/op56edl1@qssi-user-14-UKQ1.230924.001-1731574659908-release-keys--KZ",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1731574659908-release-keys--KZ",
+        "commit": "59b6519e947a4c44dc91e608272fa0f16040b8ea",
+        "committed_date": "2025-01-04T18:46:08.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-04T16:01:15.348Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op56edl1",
+        "project_id": 5541,
+        "project_path": "oppo/op56edl1"
+      },
+      "revision": "59b6519e947a4c44dc91e608272fa0f16040b8ea",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op56edl1/-/tree/59b6519e947a4c44dc91e608272fa0f16040b8ea"
+    },
+    {
+      "item_id": "oppo/op56edl1@qssi-user-14-UKQ1.230924.001-1731574659908-release-keys--MY",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1731574659908-release-keys--MY",
+        "commit": "65c0ca7947c409a393d23584919963e7f84d3588",
+        "committed_date": "2025-01-04T15:26:27.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-04T16:01:15.348Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op56edl1",
+        "project_id": 5541,
+        "project_path": "oppo/op56edl1"
+      },
+      "revision": "65c0ca7947c409a393d23584919963e7f84d3588",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op56edl1/-/tree/65c0ca7947c409a393d23584919963e7f84d3588"
+    },
+    {
+      "item_id": "oppo/op56edl1@qssi-user-14-UKQ1.230924.001-1731574659908-release-keys--PH",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1731574659908-release-keys--PH",
+        "commit": "888012cd1988f4b2eda04801c31e7dbd8d0939f6",
+        "committed_date": "2025-01-04T17:31:30.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-04T16:01:15.348Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op56edl1",
+        "project_id": 5541,
+        "project_path": "oppo/op56edl1"
+      },
+      "revision": "888012cd1988f4b2eda04801c31e7dbd8d0939f6",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op56edl1/-/tree/888012cd1988f4b2eda04801c31e7dbd8d0939f6"
+    },
+    {
+      "item_id": "oppo/op56edl1@qssi-user-14-UKQ1.230924.001-1731574659908-release-keys--SA",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1731574659908-release-keys--SA",
+        "commit": "5221c35707e894839d48ca40ac3f2b08143096c2",
+        "committed_date": "2025-01-04T19:22:17.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-01-04T16:01:15.348Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op56edl1",
+        "project_id": 5541,
+        "project_path": "oppo/op56edl1"
+      },
+      "revision": "5221c35707e894839d48ca40ac3f2b08143096c2",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op56edl1/-/tree/5221c35707e894839d48ca40ac3f2b08143096c2"
+    },
+    {
+      "item_id": "oppo/op56edl1@qssi-user-14-UKQ1.230924.001-1731574659908-release-keys--SG",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1731574659908-release-keys--SG",
+        "commit": "2e400e435ff4e93e2e9b560f726de709f11af6eb",
+        "committed_date": "2025-01-04T14:06:43.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-04T16:01:15.348Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op56edl1",
+        "project_id": 5541,
+        "project_path": "oppo/op56edl1"
+      },
+      "revision": "2e400e435ff4e93e2e9b560f726de709f11af6eb",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op56edl1/-/tree/2e400e435ff4e93e2e9b560f726de709f11af6eb"
+    },
+    {
+      "item_id": "oppo/op56edl1@qssi-user-14-UKQ1.230924.001-1731574659908-release-keys--TH",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1731574659908-release-keys--TH",
+        "commit": "787f6d25f2aff0f6909728308df6b1ca925bc37d",
+        "committed_date": "2025-01-04T16:14:40.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-04T16:01:15.348Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op56edl1",
+        "project_id": 5541,
+        "project_path": "oppo/op56edl1"
+      },
+      "revision": "787f6d25f2aff0f6909728308df6b1ca925bc37d",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op56edl1/-/tree/787f6d25f2aff0f6909728308df6b1ca925bc37d"
+    },
+    {
+      "item_id": "oppo/op56edl1@qssi-user-14-UKQ1.230924.001-1731574659908-release-keys--TW",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1731574659908-release-keys--TW",
+        "commit": "793e986165c5794e633d6779ec9accab01277cce",
+        "committed_date": "2025-01-04T12:50:02.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-04T16:01:15.348Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op56edl1",
+        "project_id": 5541,
+        "project_path": "oppo/op56edl1"
+      },
+      "revision": "793e986165c5794e633d6779ec9accab01277cce",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op56edl1/-/tree/793e986165c5794e633d6779ec9accab01277cce"
+    },
+    {
+      "item_id": "oppo/op56edl1@qssi-user-14-UKQ1.230924.001-1731574659908-release-keys--VN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-1731574659908-release-keys--VN",
+        "commit": "509c8fcfb9458071e5a4d7fd70ecdd4226b1bd82",
+        "committed_date": "2025-01-04T16:53:31.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-04T16:01:15.348Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op56edl1",
+        "project_id": 5541,
+        "project_path": "oppo/op56edl1"
+      },
+      "revision": "509c8fcfb9458071e5a4d7fd70ecdd4226b1bd82",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op56edl1/-/tree/509c8fcfb9458071e5a4d7fd70ecdd4226b1bd82"
+    },
+    {
+      "item_id": "oppo/op56f5@sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1667277916601-release-keys--EUEX",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1667277916601-release-keys--EUEX",
+        "commit": "ceb36cc12aa5986ae9b378a966945aad4e6b2adf",
+        "committed_date": "2022-12-29T22:13:50.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-12-29T19:10:39.623Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op56f5",
+        "project_id": 4013,
+        "project_path": "oppo/op56f5"
+      },
+      "revision": "ceb36cc12aa5986ae9b378a966945aad4e6b2adf",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op56f5/-/tree/ceb36cc12aa5986ae9b378a966945aad4e6b2adf"
+    },
+    {
+      "item_id": "oppo/op573dl1@sys_mssi_64_cn_armv82-user-14-UKQ1.230924.001-1732872965630-release-keys--ID",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-14-UKQ1.230924.001-1732872965630-release-keys--ID",
+        "commit": "20ca24d584ac89c9e9c640827b7b5d0d29f0557d",
+        "committed_date": "2025-01-02T19:37:59.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-01-02T16:30:23.224Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op573dl1",
+        "project_id": 5537,
+        "project_path": "oppo/op573dl1"
+      },
+      "revision": "20ca24d584ac89c9e9c640827b7b5d0d29f0557d",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op573dl1/-/tree/20ca24d584ac89c9e9c640827b7b5d0d29f0557d"
+    },
+    {
+      "item_id": "oppo/op574fl1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1689686343296-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1689686343296-release-keys--IN",
+        "commit": "5f505161dda09c9efb154e7a95496e573f83a8c9",
+        "committed_date": "2023-08-08T16:11:23.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-12-26T13:21:38.506Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op574fl1",
+        "project_id": 4392,
+        "project_path": "oppo/op574fl1"
+      },
+      "revision": "5f505161dda09c9efb154e7a95496e573f83a8c9",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op574fl1/-/tree/5f505161dda09c9efb154e7a95496e573f83a8c9"
+    },
+    {
+      "item_id": "oppo/op574fl1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1692615026355-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1692615026355-release-keys--IN",
+        "commit": "68ed4ce4bca5d07b5ed58f70ff8f5ef9e11c8ccf",
+        "committed_date": "2023-09-02T19:36:39.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-12-26T13:21:38.506Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op574fl1",
+        "project_id": 4392,
+        "project_path": "oppo/op574fl1"
+      },
+      "revision": "68ed4ce4bca5d07b5ed58f70ff8f5ef9e11c8ccf",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op574fl1/-/tree/68ed4ce4bca5d07b5ed58f70ff8f5ef9e11c8ccf"
+    },
+    {
+      "item_id": "oppo/op574fl1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1698854134571-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1698854134571-release-keys--IN",
+        "commit": "10aee92b7715a4976bd375d704201502ea099308",
+        "committed_date": "2023-11-25T19:02:11.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-12-26T13:21:38.506Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op574fl1",
+        "project_id": 4392,
+        "project_path": "oppo/op574fl1"
+      },
+      "revision": "10aee92b7715a4976bd375d704201502ea099308",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op574fl1/-/tree/10aee92b7715a4976bd375d704201502ea099308"
+    },
+    {
+      "item_id": "oppo/op574fl1@sys_mssi_64_cn_armv82-user-14-UKQ1.230924.001-1702648312726-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-14-UKQ1.230924.001-1702648312726-release-keys--IN",
+        "commit": "abc588500f3fa991ecfd51ff9bc4c941c6ea9bfd",
+        "committed_date": "2023-12-26T16:08:47.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-12-26T13:21:38.506Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op574fl1",
+        "project_id": 4392,
+        "project_path": "oppo/op574fl1"
+      },
+      "revision": "abc588500f3fa991ecfd51ff9bc4c941c6ea9bfd",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op574fl1/-/tree/abc588500f3fa991ecfd51ff9bc4c941c6ea9bfd"
+    },
+    {
+      "item_id": "oppo/op5759l1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1692629585964-release-keys--IN",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1692629585964-release-keys--IN",
+        "commit": "b46eff2dd19629dfbe54227d76b787aaba981532",
+        "committed_date": "2023-09-10T16:23:40.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-09-10T13:18:54.286Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5759l1",
+        "project_id": 4427,
+        "project_path": "oppo/op5759l1"
+      },
+      "revision": "b46eff2dd19629dfbe54227d76b787aaba981532",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5759l1/-/tree/b46eff2dd19629dfbe54227d76b787aaba981532"
+    },
+    {
+      "item_id": "oppo/op59f7@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1709177498506-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1709177498506-release-keys--ALLNET",
+        "commit": "8a8b09f5a0521a886f2ab9af0c1e886d0153964d",
+        "committed_date": "2024-03-26T15:56:29.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-29T11:48:18.164Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op59f7",
+        "project_id": 5204,
+        "project_path": "oppo/op59f7"
+      },
+      "revision": "8a8b09f5a0521a886f2ab9af0c1e886d0153964d",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op59f7/-/tree/8a8b09f5a0521a886f2ab9af0c1e886d0153964d"
+    },
+    {
+      "item_id": "oppo/op59f7@sys_mssi_64_cn_armv82-user-14-UKQ1.230924.001-1730965540841-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-14-UKQ1.230924.001-1730965540841-release-keys--ALLNET",
+        "commit": "0a50ff0698ccc1805ebee2f9d194c0c5b6c79f1e",
+        "committed_date": "2024-12-29T14:32:42.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-12-29T11:48:18.164Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op59f7",
+        "project_id": 5204,
+        "project_path": "oppo/op59f7"
+      },
+      "revision": "0a50ff0698ccc1805ebee2f9d194c0c5b6c79f1e",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op59f7/-/tree/0a50ff0698ccc1805ebee2f9d194c0c5b6c79f1e"
+    },
+    {
+      "item_id": "oppo/op59fb@sys_mssi_64_cn_armv82-user-14-UP1A.231005.007-1728647072334-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-14-UP1A.231005.007-1728647072334-release-keys--ALLNET",
+        "commit": "a0383229b4c85208518a145cff35062f3ff86a56",
+        "committed_date": "2024-12-29T13:56:50.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-12-29T10:48:38.831Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op59fb",
+        "project_id": 5523,
+        "project_path": "oppo/op59fb"
+      },
+      "revision": "a0383229b4c85208518a145cff35062f3ff86a56",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op59fb/-/tree/a0383229b4c85208518a145cff35062f3ff86a56"
+    },
+    {
+      "item_id": "oppo/op5a29l1@sys_mssi_64_cn_armv82-user-14-UKQ1.231108.001-1716959436818-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-14-UKQ1.231108.001-1716959436818-release-keys--ALLNET",
+        "commit": "22ae64f11079594cac61bfd355772ed84ba1c508",
+        "committed_date": "2024-06-08T12:58:16.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-06-08T09:50:29.744Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5a29l1",
+        "project_id": 5303,
+        "project_path": "oppo/op5a29l1"
+      },
+      "revision": "22ae64f11079594cac61bfd355772ed84ba1c508",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5a29l1/-/tree/22ae64f11079594cac61bfd355772ed84ba1c508"
+    },
+    {
+      "item_id": "oppo/op5a2bl1@sys_mssi_64_cn_armv82-user-14-UKQ1.231108.001-1716959416978-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-14-UKQ1.231108.001-1716959416978-release-keys--ALLNET",
+        "commit": "396bd99a83e0f01bb217d077cc55dcc6d476714e",
+        "committed_date": "2024-06-08T13:46:21.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-06-08T10:38:33.305Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5a2bl1",
+        "project_id": 5304,
+        "project_path": "oppo/op5a2bl1"
+      },
+      "revision": "396bd99a83e0f01bb217d077cc55dcc6d476714e",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5a2bl1/-/tree/396bd99a83e0f01bb217d077cc55dcc6d476714e"
+    },
+    {
+      "item_id": "oppo/op5a41l1@sys_mssi_64_cn_armv82-user-15-AP3A.240617.008-1735035555324-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-15-AP3A.240617.008-1735035555324-release-keys--ALLNET",
+        "commit": "b00f337190f4ad0711eb11dc60d8875b5338ba86",
+        "committed_date": "2025-01-14T10:19:15.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-01-14T07:11:24.668Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5a41l1",
+        "project_id": 5548,
+        "project_path": "oppo/op5a41l1"
+      },
+      "revision": "b00f337190f4ad0711eb11dc60d8875b5338ba86",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5a41l1/-/tree/b00f337190f4ad0711eb11dc60d8875b5338ba86"
+    },
+    {
+      "item_id": "oppo/op5d72l1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1700474429090-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1700474429090-release-keys--ALLNET",
+        "commit": "43b6905807300027b441b43b4642c1319bad350c",
+        "committed_date": "2023-12-04T04:35:18.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-12-04T01:29:52.541Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5d72l1",
+        "project_id": 4628,
+        "project_path": "oppo/op5d72l1"
+      },
+      "revision": "43b6905807300027b441b43b4642c1319bad350c",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5d72l1/-/tree/43b6905807300027b441b43b4642c1319bad350c"
+    },
+    {
+      "item_id": "oppo/op5da8l1@qssi_64-user-15-AP3A.240617.008-1734170385136-release-keys--EUEX",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-15-AP3A.240617.008-1734170385136-release-keys--EUEX",
+        "commit": "040845e40b2173e234e8ed18168df8f7934fabc2",
+        "committed_date": "2025-01-14T15:12:44.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-01-14T12:06:42.279Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5da8l1",
+        "project_id": 5550,
+        "project_path": "oppo/op5da8l1"
+      },
+      "revision": "040845e40b2173e234e8ed18168df8f7934fabc2",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5da8l1/-/tree/040845e40b2173e234e8ed18168df8f7934fabc2"
+    },
+    {
+      "item_id": "oppo/op5dc1l1@qssi-user-15-AP3A.240617.008-1740150618928-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-15-AP3A.240617.008-1740150618928-release-keys--ALLNET",
+        "commit": "ad0e85e4d904d90c5b438b183fe3cc44a88b46b9",
+        "committed_date": "2025-02-27T18:28:31.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-02-27T15:20:12.898Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5dc1l1",
+        "project_id": 5592,
+        "project_path": "oppo/op5dc1l1"
+      },
+      "revision": "ad0e85e4d904d90c5b438b183fe3cc44a88b46b9",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5dc1l1/-/tree/ad0e85e4d904d90c5b438b183fe3cc44a88b46b9"
+    },
+    {
+      "item_id": "oppo/op5dcbl1@sys_mssi_64_cn_armv82-user-15-AP3A.240617.008-1744334014422-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-15-AP3A.240617.008-1744334014422-release-keys--ALLNET",
+        "commit": "d40a8e08ec417f67e1cf8aed3d9e6b29daa611d3",
+        "committed_date": "2025-04-19T20:06:13.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-04-19T16:58:06.392Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5dcbl1",
+        "project_id": 5625,
+        "project_path": "oppo/op5dcbl1"
+      },
+      "revision": "d40a8e08ec417f67e1cf8aed3d9e6b29daa611d3",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5dcbl1/-/tree/d40a8e08ec417f67e1cf8aed3d9e6b29daa611d3"
+    },
+    {
+      "item_id": "oppo/op5dcdl1@sys_mssi_64_cn_armv82-user-15-AP3A.240617.008-1744334138900-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-15-AP3A.240617.008-1744334138900-release-keys--ALLNET",
+        "commit": "be44e10f710a01cbf3dee04be0f5e1ea9a612803",
+        "committed_date": "2025-04-19T19:21:43.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-04-19T16:13:24.280Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5dcdl1",
+        "project_id": 5624,
+        "project_path": "oppo/op5dcdl1"
+      },
+      "revision": "be44e10f710a01cbf3dee04be0f5e1ea9a612803",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5dcdl1/-/tree/be44e10f710a01cbf3dee04be0f5e1ea9a612803"
+    },
+    {
+      "item_id": "oppo/op5dd3l1@qssi-user-15-AP3A.240617.008-1744418039510-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-15-AP3A.240617.008-1744418039510-release-keys--ALLNET",
+        "commit": "e0b9f5be6e9274dad16d147611be4c1f008fa4bb",
+        "committed_date": "2025-04-19T17:36:32.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-04-19T14:27:47.098Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5dd3l1",
+        "project_id": 5623,
+        "project_path": "oppo/op5dd3l1"
+      },
+      "revision": "e0b9f5be6e9274dad16d147611be4c1f008fa4bb",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5dd3l1/-/tree/e0b9f5be6e9274dad16d147611be4c1f008fa4bb"
+    },
+    {
+      "item_id": "oppo/op5dd7l1@sys_mssi_64_cn_armv82-user-15-AP3A.240617.008-1732206232133-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-15-AP3A.240617.008-1732206232133-release-keys--ALLNET",
+        "commit": "c1a0633d59e83127874fc00f218d888129194f95",
+        "committed_date": "2024-12-26T11:05:46.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-12-26T07:58:06.167Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5dd7l1",
+        "project_id": 5519,
+        "project_path": "oppo/op5dd7l1"
+      },
+      "revision": "c1a0633d59e83127874fc00f218d888129194f95",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5dd7l1/-/tree/c1a0633d59e83127874fc00f218d888129194f95"
+    },
+    {
+      "item_id": "oppo/op5df3@sys_mssi_64_cn_armv82-user-15-AP3A.240617.008-1734488607205-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-15-AP3A.240617.008-1734488607205-release-keys--ALLNET",
+        "commit": "dc19e927bd65b7154a2d223d91e2275ea669402d",
+        "committed_date": "2024-12-29T13:16:02.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-12-29T10:08:09.422Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5df3",
+        "project_id": 5522,
+        "project_path": "oppo/op5df3"
+      },
+      "revision": "dc19e927bd65b7154a2d223d91e2275ea669402d",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5df3/-/tree/dc19e927bd65b7154a2d223d91e2275ea669402d"
+    },
+    {
+      "item_id": "oppo/op5e07l1@sys_mssi_64_cn_armv82-user-15-AP3A.240617.008-1747495579146-release-keys--ALLNET",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-15-AP3A.240617.008-1747495579146-release-keys--ALLNET",
+        "commit": "4d58de61a0a32264a8f5679e9d691d07b552d2e6",
+        "committed_date": "2025-07-01T17:59:43.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-07-01T14:48:22.697Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5e07l1",
+        "project_id": 5665,
+        "project_path": "oppo/op5e07l1"
+      },
+      "revision": "4d58de61a0a32264a8f5679e9d691d07b552d2e6",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5e07l1/-/tree/4d58de61a0a32264a8f5679e9d691d07b552d2e6"
+    },
+    {
+      "item_id": "oppo/op5e8bl1@sys_mssi_64_64only_cn_armv82-user-16-BP2A.250605.015-1767024356686-release-keys--EUEX",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_64only_cn_armv82-user-16-BP2A.250605.015-1767024356686-release-keys--EUEX",
+        "commit": "31910def8cfe0e6f9f8b0295e08260c6746280f4",
+        "committed_date": "2026-02-01T23:31:00.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-02-01T20:14:58.613Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5e8bl1",
+        "project_id": 5741,
+        "project_path": "oppo/op5e8bl1"
+      },
+      "revision": "31910def8cfe0e6f9f8b0295e08260c6746280f4",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5e8bl1/-/tree/31910def8cfe0e6f9f8b0295e08260c6746280f4"
+    },
+    {
+      "item_id": "oppo/op5e8el1@sys_mssi_64_64only_cn_armv82-user-16-BP2A.250605.015-1764606314598-release-keys--EUEX",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_64only_cn_armv82-user-16-BP2A.250605.015-1764606314598-release-keys--EUEX",
+        "commit": "82aeab0c68b92da4fa209b7beaa18ab971479e49",
+        "committed_date": "2026-01-26T13:35:44.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-01-26T10:21:51.227Z",
+        "namespace_hint": "oppo",
+        "project_hint": "op5e8el1",
+        "project_id": 5739,
+        "project_path": "oppo/op5e8el1"
+      },
+      "revision": "82aeab0c68b92da4fa209b7beaa18ab971479e49",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/op5e8el1/-/tree/82aeab0c68b92da4fa209b7beaa18ab971479e49"
+    },
+    {
+      "item_id": "oppo/opd4a1l1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1669807577595-release-keys--EUEX",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1669807577595-release-keys--EUEX",
+        "commit": "7ed2ad5d34fddf77b1e9463f33c87b9951ec7219",
+        "committed_date": "2023-01-05T22:14:21.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-01-05T19:09:36.890Z",
+        "namespace_hint": "oppo",
+        "project_hint": "opd4a1l1",
+        "project_id": 4024,
+        "project_path": "oppo/opd4a1l1"
+      },
+      "revision": "7ed2ad5d34fddf77b1e9463f33c87b9951ec7219",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/opd4a1l1/-/tree/7ed2ad5d34fddf77b1e9463f33c87b9951ec7219"
+    },
+    {
+      "item_id": "oppo/ossi@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1729839228059-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1729839228059-release-keys",
+        "commit": "a8c9c22c90b5976a6eb646a78a79095a9fd1956e",
+        "committed_date": "2025-01-02T20:19:50.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-02T18:22:39.401Z",
+        "namespace_hint": "oppo",
+        "project_hint": "ossi",
+        "project_id": 5539,
+        "project_path": "oppo/ossi"
+      },
+      "revision": "a8c9c22c90b5976a6eb646a78a79095a9fd1956e",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/ossi/-/tree/a8c9c22c90b5976a6eb646a78a79095a9fd1956e"
+    },
+    {
+      "item_id": "oppo/ossi@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1732173760139-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1732173760139-release-keys",
+        "commit": "194192d425133eb1b4f8a8165ec4cae9ca820ad1",
+        "committed_date": "2025-01-02T21:17:01.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-01-02T18:22:39.401Z",
+        "namespace_hint": "oppo",
+        "project_hint": "ossi",
+        "project_id": 5539,
+        "project_path": "oppo/ossi"
+      },
+      "revision": "194192d425133eb1b4f8a8165ec4cae9ca820ad1",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/ossi/-/tree/194192d425133eb1b4f8a8165ec4cae9ca820ad1"
+    },
+    {
+      "item_id": "oppo/paft00@sdm845-user-8.1.0-OPM1.171019.026-eng.root.20180801.012954-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm845-user-8.1.0-OPM1.171019.026-eng.root.20180801.012954-release-keys",
+        "commit": "ebba970a2ac17b1061d121709ff0bec9dcd9aebc",
+        "committed_date": "2018-08-12T22:31:17.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T01:36:38.178Z",
+        "namespace_hint": "oppo",
+        "project_hint": "paft00",
+        "project_id": 2299,
+        "project_path": "oppo/paft00"
+      },
+      "revision": "ebba970a2ac17b1061d121709ff0bec9dcd9aebc",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/paft00/-/tree/ebba970a2ac17b1061d121709ff0bec9dcd9aebc"
+    },
+    {
+      "item_id": "oppo/pbcm10@sdm660_64-user-8.1.0-OPM1.171019.011-eng.root.20190827.030246-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-8.1.0-OPM1.171019.011-eng.root.20190827.030246-release-keys",
+        "commit": "2f9c317362d18e41f244f9d49b7c3d1a5bf25ccc",
+        "committed_date": "2019-10-13T17:28:08.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T23:35:13.693Z",
+        "namespace_hint": "oppo",
+        "project_hint": "pbcm10",
+        "project_id": 2220,
+        "project_path": "oppo/pbcm10"
+      },
+      "revision": "2f9c317362d18e41f244f9d49b7c3d1a5bf25ccc",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/pbcm10/-/tree/2f9c317362d18e41f244f9d49b7c3d1a5bf25ccc"
+    },
+    {
+      "item_id": "oppo/rmx1801@sdm660_64-user-10-QKQ1.191014.001-eng.root.20200514.023540-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-10-QKQ1.191014.001-eng.root.20200514.023540-release-keys",
+        "commit": "667d139670489eb1554bbbd77c6880249dafeeaf",
+        "committed_date": "2020-05-21T17:50:32.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T10:04:51.457Z",
+        "namespace_hint": "oppo",
+        "project_hint": "rmx1801",
+        "project_id": 1691,
+        "project_path": "oppo/rmx1801"
+      },
+      "revision": "667d139670489eb1554bbbd77c6880249dafeeaf",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/rmx1801/-/tree/667d139670489eb1554bbbd77c6880249dafeeaf"
+    },
+    {
+      "item_id": "oppo/rmx1801@sdm660_64-user-10-QKQ1.191014.001-eng.root.20200629.165622-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-10-QKQ1.191014.001-eng.root.20200629.165622-release-keys",
+        "commit": "0b9d33e682b545b08758bd0480727b99c265e9b0",
+        "committed_date": "2020-06-30T16:01:06.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T10:04:51.457Z",
+        "namespace_hint": "oppo",
+        "project_hint": "rmx1801",
+        "project_id": 1691,
+        "project_path": "oppo/rmx1801"
+      },
+      "revision": "0b9d33e682b545b08758bd0480727b99c265e9b0",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/rmx1801/-/tree/0b9d33e682b545b08758bd0480727b99c265e9b0"
+    },
+    {
+      "item_id": "oppo/rmx1801@sdm660_64-user-10-QKQ1.191014.001-eng.root.20200817.131150-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-10-QKQ1.191014.001-eng.root.20200817.131150-release-keys",
+        "commit": "dadb80e9f458e6631f69efa31d182d4b00673e07",
+        "committed_date": "2020-08-20T11:12:40.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T10:04:51.457Z",
+        "namespace_hint": "oppo",
+        "project_hint": "rmx1801",
+        "project_id": 1691,
+        "project_path": "oppo/rmx1801"
+      },
+      "revision": "dadb80e9f458e6631f69efa31d182d4b00673e07",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/rmx1801/-/tree/dadb80e9f458e6631f69efa31d182d4b00673e07"
+    },
+    {
+      "item_id": "oppo/rmx1801@sdm660_64-user-10-QKQ1.191014.001-eng.root.20201016.161857-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-10-QKQ1.191014.001-eng.root.20201016.161857-release-keys",
+        "commit": "543b61ac0e28c31245ebcdb34595aeb3c250e775",
+        "committed_date": "2020-11-03T04:51:04.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T10:04:51.457Z",
+        "namespace_hint": "oppo",
+        "project_hint": "rmx1801",
+        "project_id": 1691,
+        "project_path": "oppo/rmx1801"
+      },
+      "revision": "543b61ac0e28c31245ebcdb34595aeb3c250e775",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/rmx1801/-/tree/543b61ac0e28c31245ebcdb34595aeb3c250e775"
+    },
+    {
+      "item_id": "oppo/rmx1801@sdm660_64-user-9-PKQ1.181121.001-eng.root.20190602.025203-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-9-PKQ1.181121.001-eng.root.20190602.025203-release-keys",
+        "commit": "bab83cef50c1826dc8541e8180f18d7b71f7ffdb",
+        "committed_date": "2019-08-18T12:06:11.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T10:04:51.457Z",
+        "namespace_hint": "oppo",
+        "project_hint": "rmx1801",
+        "project_id": 1691,
+        "project_path": "oppo/rmx1801"
+      },
+      "revision": "bab83cef50c1826dc8541e8180f18d7b71f7ffdb",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/rmx1801/-/tree/bab83cef50c1826dc8541e8180f18d7b71f7ffdb"
+    },
+    {
+      "item_id": "oppo/rmx1801@sdm660_64-user-9-PKQ1.181121.001-eng.root.20191107.030734-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-9-PKQ1.181121.001-eng.root.20191107.030734-release-keys",
+        "commit": "95243ddb648a9f2a71c9db82ec21eddc8a9cb34d",
+        "committed_date": "2019-12-04T21:12:04.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T10:04:51.457Z",
+        "namespace_hint": "oppo",
+        "project_hint": "rmx1801",
+        "project_id": 1691,
+        "project_path": "oppo/rmx1801"
+      },
+      "revision": "95243ddb648a9f2a71c9db82ec21eddc8a9cb34d",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/rmx1801/-/tree/95243ddb648a9f2a71c9db82ec21eddc8a9cb34d"
+    },
+    {
+      "item_id": "oppo/rmx1801@sdm660_64-user-9-PKQ1.181121.001-eng.root.20191228.034411-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-9-PKQ1.181121.001-eng.root.20191228.034411-release-keys",
+        "commit": "992918d44d9643ff913e763b06f990c775f67995",
+        "committed_date": "2020-01-08T10:25:37.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T10:04:51.457Z",
+        "namespace_hint": "oppo",
+        "project_hint": "rmx1801",
+        "project_id": 1691,
+        "project_path": "oppo/rmx1801"
+      },
+      "revision": "992918d44d9643ff913e763b06f990c775f67995",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/rmx1801/-/tree/992918d44d9643ff913e763b06f990c775f67995"
+    },
+    {
+      "item_id": "oppo/rmx1801@sdm660_64-user-9-PKQ1.181121.001-eng.root.20200512.010506-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-9-PKQ1.181121.001-eng.root.20200512.010506-release-keys",
+        "commit": "ba0d66c7a1a8122b61496d337bda7ec26f4837ac",
+        "committed_date": "2020-07-22T09:50:03.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T10:04:51.457Z",
+        "namespace_hint": "oppo",
+        "project_hint": "rmx1801",
+        "project_id": 1691,
+        "project_path": "oppo/rmx1801"
+      },
+      "revision": "ba0d66c7a1a8122b61496d337bda7ec26f4837ac",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/rmx1801/-/tree/ba0d66c7a1a8122b61496d337bda7ec26f4837ac"
+    },
+    {
+      "item_id": "oppo/rmx1803@sdm660_64-user-9-PKQ1.181121.001-eng.root.20190824.025904-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-9-PKQ1.181121.001-eng.root.20190824.025904-release-keys",
+        "commit": "b2387046e7c653f6501798092deb026ed007c331",
+        "committed_date": "2019-10-27T06:48:20.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T01:28:13.710Z",
+        "namespace_hint": "oppo",
+        "project_hint": "rmx1803",
+        "project_id": 1485,
+        "project_path": "oppo/rmx1803"
+      },
+      "revision": "b2387046e7c653f6501798092deb026ed007c331",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/rmx1803/-/tree/b2387046e7c653f6501798092deb026ed007c331"
+    },
+    {
+      "item_id": "oppo/rmx1803@sdm660_64-user-9-PKQ1.181121.001-eng.root.20191107.030734-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-9-PKQ1.181121.001-eng.root.20191107.030734-release-keys",
+        "commit": "8ee9e092fe3ecb635420cbe292c184ed7c7fbdad",
+        "committed_date": "2019-11-12T05:03:11.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T01:28:13.710Z",
+        "namespace_hint": "oppo",
+        "project_hint": "rmx1803",
+        "project_id": 1485,
+        "project_path": "oppo/rmx1803"
+      },
+      "revision": "8ee9e092fe3ecb635420cbe292c184ed7c7fbdad",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/rmx1803/-/tree/8ee9e092fe3ecb635420cbe292c184ed7c7fbdad"
+    },
+    {
+      "item_id": "oppo/rmx1803@sdm660_64-user-9-PKQ1.181121.001-eng.root.20200307.153148-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-9-PKQ1.181121.001-eng.root.20200307.153148-release-keys",
+        "commit": "6c7bb136544f8821d19cc970facd9974f9858fae",
+        "committed_date": "2020-03-18T04:48:39.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T01:28:13.710Z",
+        "namespace_hint": "oppo",
+        "project_hint": "rmx1803",
+        "project_id": 1485,
+        "project_path": "oppo/rmx1803"
+      },
+      "revision": "6c7bb136544f8821d19cc970facd9974f9858fae",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/rmx1803/-/tree/6c7bb136544f8821d19cc970facd9974f9858fae"
+    },
+    {
+      "item_id": "oppo/rmx1805@S88051AA1-user-9-PKQ1.190319.001-eng.root.20190924.190907-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "S88051AA1-user-9-PKQ1.190319.001-eng.root.20190924.190907-release-keys",
+        "commit": "90f6daca179109fc2a8ecd0a74854e74ac2b9f70",
+        "committed_date": "2019-10-13T16:27:33.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T00:50:28.790Z",
+        "namespace_hint": "oppo",
+        "project_hint": "rmx1805",
+        "project_id": 1451,
+        "project_path": "oppo/rmx1805"
+      },
+      "revision": "90f6daca179109fc2a8ecd0a74854e74ac2b9f70",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/rmx1805/-/tree/90f6daca179109fc2a8ecd0a74854e74ac2b9f70"
+    },
+    {
+      "item_id": "oppo/rmx1805@S88051AA1-user-9-PKQ1.190319.001-eng.root.20191113.124726-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "S88051AA1-user-9-PKQ1.190319.001-eng.root.20191113.124726-release-keys",
+        "commit": "d49236c833e4c4b7b98a50ef5b56e0b29ae50caa",
+        "committed_date": "2019-11-18T09:46:23.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T00:50:28.790Z",
+        "namespace_hint": "oppo",
+        "project_hint": "rmx1805",
+        "project_id": 1451,
+        "project_path": "oppo/rmx1805"
+      },
+      "revision": "d49236c833e4c4b7b98a50ef5b56e0b29ae50caa",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/rmx1805/-/tree/d49236c833e4c4b7b98a50ef5b56e0b29ae50caa"
+    },
+    {
+      "item_id": "oppo/rmx1805@S88051AA1-user-9-PKQ1.190319.001-eng.root.20200102.165317-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "S88051AA1-user-9-PKQ1.190319.001-eng.root.20200102.165317-release-keys",
+        "commit": "7d093b00ebbc940561bc5bed699787cfe04c434d",
+        "committed_date": "2020-01-20T05:56:25.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T00:50:28.790Z",
+        "namespace_hint": "oppo",
+        "project_hint": "rmx1805",
+        "project_id": 1451,
+        "project_path": "oppo/rmx1805"
+      },
+      "revision": "7d093b00ebbc940561bc5bed699787cfe04c434d",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/rmx1805/-/tree/7d093b00ebbc940561bc5bed699787cfe04c434d"
+    },
+    {
+      "item_id": "oppo/rmx1805@S88051AA1-user-9-PKQ1.190319.001-eng.root.20201120.092029-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "S88051AA1-user-9-PKQ1.190319.001-eng.root.20201120.092029-release-keys",
+        "commit": "7472ef5ec2a2cc45c5693c9c4ed2d06c0ec4acf6",
+        "committed_date": "2021-02-02T10:59:58.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T00:50:28.790Z",
+        "namespace_hint": "oppo",
+        "project_hint": "rmx1805",
+        "project_id": 1451,
+        "project_path": "oppo/rmx1805"
+      },
+      "revision": "7472ef5ec2a2cc45c5693c9c4ed2d06c0ec4acf6",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/rmx1805/-/tree/7472ef5ec2a2cc45c5693c9c4ed2d06c0ec4acf6"
+    },
+    {
+      "item_id": "oppo/rmx2061@atoll-user-10-QKQ1.191222.002--release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "atoll-user-10-QKQ1.191222.002--release-keys",
+        "commit": "692d769321f2f2224be065d7f842ce366a85e618",
+        "committed_date": "2020-05-08T16:40:10.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T00:00:28.240Z",
+        "namespace_hint": "oppo",
+        "project_hint": "rmx2061",
+        "project_id": 2249,
+        "project_path": "oppo/rmx2061"
+      },
+      "revision": "692d769321f2f2224be065d7f842ce366a85e618",
+      "url": "https://dumps.tadiphone.dev/dumps/oppo/rmx2061/-/tree/692d769321f2f2224be065d7f842ce366a85e618"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

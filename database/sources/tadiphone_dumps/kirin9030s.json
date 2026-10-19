@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "kirin9030s/kirin9030s@generic_a15-user-16-BP2A.250605.031.A3-eng.huawei-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "generic_a15-user-16-BP2A.250605.031.A3-eng.huawei-dev-keys",
+        "commit": "d111704149dca251ca42d0d478ef97aa20bce64d",
+        "committed_date": "2026-07-15T17:46:11.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-07-15T14:43:15.354Z",
+        "namespace_hint": "kirin9030s",
+        "project_hint": "kirin9030s",
+        "project_id": 5800,
+        "project_path": "kirin9030s/kirin9030s"
+      },
+      "revision": "d111704149dca251ca42d0d478ef97aa20bce64d",
+      "url": "https://dumps.tadiphone.dev/dumps/kirin9030s/kirin9030s/-/tree/d111704149dca251ca42d0d478ef97aa20bce64d"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

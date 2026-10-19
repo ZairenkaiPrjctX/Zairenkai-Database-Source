@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "omix/k85v1_64@X700-user-12-SP1A.210812.016-1690427665-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "X700-user-12-SP1A.210812.016-1690427665-release-keys",
+        "commit": "416b74e3ce09e8f9b97d09e993da213ff03bd557",
+        "committed_date": "2024-08-28T13:25:11.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-08-28T10:22:40.063Z",
+        "namespace_hint": "omix",
+        "project_hint": "k85v1_64",
+        "project_id": 5400,
+        "project_path": "omix/k85v1_64"
+      },
+      "revision": "416b74e3ce09e8f9b97d09e993da213ff03bd557",
+      "url": "https://dumps.tadiphone.dev/dumps/omix/k85v1_64/-/tree/416b74e3ce09e8f9b97d09e993da213ff03bd557"
+    },
+    {
+      "item_id": "omix/x500@full_k69v1_64-user-11-RP1A.200720.011-1640161050-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k69v1_64-user-11-RP1A.200720.011-1640161050-release-keys",
+        "commit": "552911a879d1fd4dee092e926087f8430c907a51",
+        "committed_date": "2023-12-10T14:39:05.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-12-10T11:37:05.308Z",
+        "namespace_hint": "omix",
+        "project_hint": "x500",
+        "project_id": 4657,
+        "project_path": "omix/x500"
+      },
+      "revision": "552911a879d1fd4dee092e926087f8430c907a51",
+      "url": "https://dumps.tadiphone.dev/dumps/omix/x500/-/tree/552911a879d1fd4dee092e926087f8430c907a51"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

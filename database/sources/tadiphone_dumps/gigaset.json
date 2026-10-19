@@ -1,0 +1,128 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "gigaset/gs290@full_k63v2_64_bsp-user-10-QP1A.190711.020-1676368022-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k63v2_64_bsp-user-10-QP1A.190711.020-1676368022-release-keys",
+        "commit": "b5e217c07ebb98d8ce0cfeb0aed3790e6f8cae2c",
+        "committed_date": "2025-05-09T12:04:03.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-05-09T09:02:23.257Z",
+        "namespace_hint": "gigaset",
+        "project_hint": "gs290",
+        "project_id": 5635,
+        "project_path": "gigaset/gs290"
+      },
+      "revision": "b5e217c07ebb98d8ce0cfeb0aed3790e6f8cae2c",
+      "url": "https://dumps.tadiphone.dev/dumps/gigaset/gs290/-/tree/b5e217c07ebb98d8ce0cfeb0aed3790e6f8cae2c"
+    },
+    {
+      "item_id": "gigaset/gs3@full_yk673v6_lwg62_64-user-10-QP1A.190711.020-p1k61v164bspP53-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_yk673v6_lwg62_64-user-10-QP1A.190711.020-p1k61v164bspP53-release-keys",
+        "commit": "e82318c222ca993ebbf769ec7ba02dfc686e8a86",
+        "committed_date": "2024-05-19T07:37:09.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-05-19T04:35:32.260Z",
+        "namespace_hint": "gigaset",
+        "project_hint": "gs3",
+        "project_id": 5276,
+        "project_path": "gigaset/gs3"
+      },
+      "revision": "e82318c222ca993ebbf769ec7ba02dfc686e8a86",
+      "url": "https://dumps.tadiphone.dev/dumps/gigaset/gs3/-/tree/e82318c222ca993ebbf769ec7ba02dfc686e8a86"
+    },
+    {
+      "item_id": "gigaset/gs5@GS5-user-12-SP1A.210812.016-1676877686-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "GS5-user-12-SP1A.210812.016-1676877686-release-keys",
+        "commit": "9ba558c8ed6a60b4264bd854b95aeb0d4a865185",
+        "committed_date": "2023-04-19T00:09:33.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-09-14T00:06:02.770Z",
+        "namespace_hint": "gigaset",
+        "project_hint": "gs5",
+        "project_id": 4249,
+        "project_path": "gigaset/gs5"
+      },
+      "revision": "9ba558c8ed6a60b4264bd854b95aeb0d4a865185",
+      "url": "https://dumps.tadiphone.dev/dumps/gigaset/gs5/-/tree/9ba558c8ed6a60b4264bd854b95aeb0d4a865185"
+    },
+    {
+      "item_id": "gigaset/gs5@GS5-user-12-SP1A.210812.016-1679276541-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "GS5-user-12-SP1A.210812.016-1679276541-release-keys",
+        "commit": "d8e5c3e02f2581d23be70565300c319730526981",
+        "committed_date": "2023-04-19T00:23:43.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-09-14T00:06:02.770Z",
+        "namespace_hint": "gigaset",
+        "project_hint": "gs5",
+        "project_id": 4249,
+        "project_path": "gigaset/gs5"
+      },
+      "revision": "d8e5c3e02f2581d23be70565300c319730526981",
+      "url": "https://dumps.tadiphone.dev/dumps/gigaset/gs5/-/tree/d8e5c3e02f2581d23be70565300c319730526981"
+    },
+    {
+      "item_id": "gigaset/gs5@GS5-user-12-SP1A.210812.016-1685498763-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "GS5-user-12-SP1A.210812.016-1685498763-release-keys",
+        "commit": "f6a0d6e16a8f872bfb0adfd724226a5206813700",
+        "committed_date": "2023-08-30T15:43:19.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-09-14T00:06:02.770Z",
+        "namespace_hint": "gigaset",
+        "project_hint": "gs5",
+        "project_id": 4249,
+        "project_path": "gigaset/gs5"
+      },
+      "revision": "f6a0d6e16a8f872bfb0adfd724226a5206813700",
+      "url": "https://dumps.tadiphone.dev/dumps/gigaset/gs5/-/tree/f6a0d6e16a8f872bfb0adfd724226a5206813700"
+    },
+    {
+      "item_id": "gigaset/gs5@GS5-user-13-TP1A.220624.014-1693463242-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "GS5-user-13-TP1A.220624.014-1693463242-release-keys",
+        "commit": "8c446091bfb40904e83731ae874946db595cde22",
+        "committed_date": "2023-09-14T02:59:15.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-09-14T00:06:02.770Z",
+        "namespace_hint": "gigaset",
+        "project_hint": "gs5",
+        "project_id": 4249,
+        "project_path": "gigaset/gs5"
+      },
+      "revision": "8c446091bfb40904e83731ae874946db595cde22",
+      "url": "https://dumps.tadiphone.dev/dumps/gigaset/gs5/-/tree/8c446091bfb40904e83731ae874946db595cde22"
+    },
+    {
+      "item_id": "gigaset/gx4_pro@GX4_PRO-user-13-TP1A.220624.014-1720784600-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "GX4_PRO-user-13-TP1A.220624.014-1720784600-release-keys",
+        "commit": "c38952e9ec86fb1acb3f4dca820513e02785f671",
+        "committed_date": "2024-08-17T15:53:20.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-08-17T12:50:29.321Z",
+        "namespace_hint": "gigaset",
+        "project_hint": "gx4_pro",
+        "project_id": 5386,
+        "project_path": "gigaset/gx4_pro"
+      },
+      "revision": "c38952e9ec86fb1acb3f4dca820513e02785f671",
+      "url": "https://dumps.tadiphone.dev/dumps/gigaset/gx4_pro/-/tree/c38952e9ec86fb1acb3f4dca820513e02785f671"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

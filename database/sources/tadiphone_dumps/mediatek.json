@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "mediatek/mt2712_saic_eh32@mt2712_saic_eh32-user-9-PPR1.181005.003-9431-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "mt2712_saic_eh32-user-9-PPR1.181005.003-9431-test-keys",
+        "commit": "be2fa1bbbf253a2ee4cbd5dfdde3abdcc02045b1",
+        "committed_date": "2024-08-09T14:05:37.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-08-09T11:04:20.216Z",
+        "namespace_hint": "mediatek",
+        "project_hint": "mt2712_saic_eh32",
+        "project_id": 5375,
+        "project_path": "mediatek/mt2712_saic_eh32"
+      },
+      "revision": "be2fa1bbbf253a2ee4cbd5dfdde3abdcc02045b1",
+      "url": "https://dumps.tadiphone.dev/dumps/mediatek/mt2712_saic_eh32/-/tree/be2fa1bbbf253a2ee4cbd5dfdde3abdcc02045b1"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

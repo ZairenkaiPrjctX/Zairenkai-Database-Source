@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "chiq/samseong@DVB93CQ-user-11-RTO2.220913.001-9056767-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "DVB93CQ-user-11-RTO2.220913.001-9056767-release-keys",
+        "commit": "eb4d64786b275f5f32416d21fd00f37519c86d70",
+        "committed_date": "2026-08-15T20:04:58.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-08-15T17:04:03.683Z",
+        "namespace_hint": "chiq",
+        "project_hint": "samseong",
+        "project_id": 5816,
+        "project_path": "chiq/samseong"
+      },
+      "revision": "eb4d64786b275f5f32416d21fd00f37519c86d70",
+      "url": "https://dumps.tadiphone.dev/dumps/chiq/samseong/-/tree/eb4d64786b275f5f32416d21fd00f37519c86d70"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

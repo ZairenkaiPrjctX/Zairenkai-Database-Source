@@ -1,0 +1,1585 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "_project/4644",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": null,
+        "project_id": 4644,
+        "project_path": "alps/op5303",
+        "reason": "repository_not_readable"
+      },
+      "revision": null,
+      "url": "https://dumps.tadiphone.dev/dumps/alps/op5303"
+    },
+    {
+      "item_id": "alps/8227l_demo@JCAC10003-OC2-V1.0.97R3-231023_1114",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "JCAC10003-OC2-V1.0.97R3-231023_1114",
+        "commit": "9fe52c4c9ed3d1c232f0363b7aa75f2d64eda6b5",
+        "committed_date": "2024-01-30T18:14:09.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-01-30T15:16:18.757Z",
+        "namespace_hint": "alps",
+        "project_hint": "8227l_demo",
+        "project_id": 1828,
+        "project_path": "alps/8227l_demo"
+      },
+      "revision": "9fe52c4c9ed3d1c232f0363b7aa75f2d64eda6b5",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/8227l_demo/-/tree/9fe52c4c9ed3d1c232f0363b7aa75f2d64eda6b5"
+    },
+    {
+      "item_id": "alps/8227l_demo@full_8227L_demo-user-8.1.0-O11019-1564460321-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_8227L_demo-user-8.1.0-O11019-1564460321-test-keys",
+        "commit": "fb8f57bced84dd9417a85d7062857d451eb317b7",
+        "committed_date": "2019-11-16T01:00:10.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2024-01-30T15:16:18.757Z",
+        "namespace_hint": "alps",
+        "project_hint": "8227l_demo",
+        "project_id": 1828,
+        "project_path": "alps/8227l_demo"
+      },
+      "revision": "fb8f57bced84dd9417a85d7062857d451eb317b7",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/8227l_demo/-/tree/fb8f57bced84dd9417a85d7062857d451eb317b7"
+    },
+    {
+      "item_id": "alps/8227l_demo@full_8227L_demo-user-8.1.0-O11019-1601257029-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_8227L_demo-user-8.1.0-O11019-1601257029-test-keys",
+        "commit": "89cb3bf2109b68d4323c264cd791a81046cdeb76",
+        "committed_date": "2021-11-30T13:24:36.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-01-30T15:16:18.757Z",
+        "namespace_hint": "alps",
+        "project_hint": "8227l_demo",
+        "project_id": 1828,
+        "project_path": "alps/8227l_demo"
+      },
+      "revision": "89cb3bf2109b68d4323c264cd791a81046cdeb76",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/8227l_demo/-/tree/89cb3bf2109b68d4323c264cd791a81046cdeb76"
+    },
+    {
+      "item_id": "alps/8227l_demo@full_8227L_demo-user-8.1.0-O11019-1605768519-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_8227L_demo-user-8.1.0-O11019-1605768519-test-keys",
+        "commit": "4eac6a3ada2c0c26d3fe7d30a254fa20ebb1bfac",
+        "committed_date": "2021-11-30T12:35:08.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-01-30T15:16:18.757Z",
+        "namespace_hint": "alps",
+        "project_hint": "8227l_demo",
+        "project_id": 1828,
+        "project_path": "alps/8227l_demo"
+      },
+      "revision": "4eac6a3ada2c0c26d3fe7d30a254fa20ebb1bfac",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/8227l_demo/-/tree/4eac6a3ada2c0c26d3fe7d30a254fa20ebb1bfac"
+    },
+    {
+      "item_id": "alps/ac8257_demo_1g_32@YT5760L_00001_V001",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "YT5760L_00001_V001",
+        "commit": "17569310a71472044b1d816851070f39d98a9a22",
+        "committed_date": "2021-11-24T23:27:13.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-10-09T23:33:13.922Z",
+        "namespace_hint": "alps",
+        "project_hint": "ac8257_demo_1g_32",
+        "project_id": 2228,
+        "project_path": "alps/ac8257_demo_1g_32"
+      },
+      "revision": "17569310a71472044b1d816851070f39d98a9a22",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/ac8257_demo_1g_32/-/tree/17569310a71472044b1d816851070f39d98a9a22"
+    },
+    {
+      "item_id": "alps/ac8257_demo_1g_32@YT7260B_00007_V001",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "YT7260B_00007_V001",
+        "commit": "62e72ddd46de98c9aa879d38b12d738c2e84f30d",
+        "committed_date": "2023-10-10T02:30:44.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-10-09T23:33:13.922Z",
+        "namespace_hint": "alps",
+        "project_hint": "ac8257_demo_1g_32",
+        "project_id": 2228,
+        "project_path": "alps/ac8257_demo_1g_32"
+      },
+      "revision": "62e72ddd46de98c9aa879d38b12d738c2e84f30d",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/ac8257_demo_1g_32/-/tree/62e72ddd46de98c9aa879d38b12d738c2e84f30d"
+    },
+    {
+      "item_id": "alps/aiv8167sm3_bsp@full_aiv8167sm3_bsp-eng-8.1.0-O11019-1547503594-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_aiv8167sm3_bsp-eng-8.1.0-O11019-1547503594-test-keys",
+        "commit": "960f1e54f401c6fe7c677650d7d39f6647c6cc4c",
+        "committed_date": "2020-10-30T05:17:09.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-26T23:03:31.452Z",
+        "namespace_hint": "alps",
+        "project_hint": "aiv8167sm3_bsp",
+        "project_id": 1037,
+        "project_path": "alps/aiv8167sm3_bsp"
+      },
+      "revision": "960f1e54f401c6fe7c677650d7d39f6647c6cc4c",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/aiv8167sm3_bsp/-/tree/960f1e54f401c6fe7c677650d7d39f6647c6cc4c"
+    },
+    {
+      "item_id": "alps/aiv8167sm3_bsp@full_aiv8167sm3_bsp-user-8.1.0-O11019-1.2.3-1583400421-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_aiv8167sm3_bsp-user-8.1.0-O11019-1.2.3-1583400421-release-keys",
+        "commit": "763db2c43a7ad43770f3ff9917595928d261c6ba",
+        "committed_date": "2025-05-27T02:02:28.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-05-26T23:03:31.452Z",
+        "namespace_hint": "alps",
+        "project_hint": "aiv8167sm3_bsp",
+        "project_id": 1037,
+        "project_path": "alps/aiv8167sm3_bsp"
+      },
+      "revision": "763db2c43a7ad43770f3ff9917595928d261c6ba",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/aiv8167sm3_bsp/-/tree/763db2c43a7ad43770f3ff9917595928d261c6ba"
+    },
+    {
+      "item_id": "alps/aiv8167sm3_bsp@full_aiv8167sm3_bsp-userdebug-8.1.0-O11019-1576122829-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_aiv8167sm3_bsp-userdebug-8.1.0-O11019-1576122829-test-keys",
+        "commit": "10232434c54a32a58c308a05b858c71b835c1230",
+        "committed_date": "2020-10-30T05:04:52.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-26T23:03:31.452Z",
+        "namespace_hint": "alps",
+        "project_hint": "aiv8167sm3_bsp",
+        "project_id": 1037,
+        "project_path": "alps/aiv8167sm3_bsp"
+      },
+      "revision": "10232434c54a32a58c308a05b858c71b835c1230",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/aiv8167sm3_bsp/-/tree/10232434c54a32a58c308a05b858c71b835c1230"
+    },
+    {
+      "item_id": "alps/android@full_t188ha_v2_aj_hbh_z601_cz_o-userdebug-8.1.0-O11019-1538295336-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_t188ha_v2_aj_hbh_z601_cz_o-userdebug-8.1.0-O11019-1538295336-release-keys",
+        "commit": "84998f038f3565ed0c66792eac87099003500de9",
+        "committed_date": "2019-09-13T11:43:16.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T13:01:46.471Z",
+        "namespace_hint": "alps",
+        "project_hint": "android",
+        "project_id": 1013,
+        "project_path": "alps/android"
+      },
+      "revision": "84998f038f3565ed0c66792eac87099003500de9",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/android/-/tree/84998f038f3565ed0c66792eac87099003500de9"
+    },
+    {
+      "item_id": "alps/aqua_glam@full_w818e_aw_xunhu_ser-user-5.1-LMY47I-1441338257-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_w818e_aw_xunhu_ser-user-5.1-LMY47I-1441338257-test-keys",
+        "commit": "f4a89c3f796c687be4f86c7eddf2d9698d8cf063",
+        "committed_date": "2020-01-05T15:20:33.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T09:37:00.731Z",
+        "namespace_hint": "alps",
+        "project_hint": "aqua_glam",
+        "project_id": 891,
+        "project_path": "alps/aqua_glam"
+      },
+      "revision": "f4a89c3f796c687be4f86c7eddf2d9698d8cf063",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/aqua_glam/-/tree/f4a89c3f796c687be4f86c7eddf2d9698d8cf063"
+    },
+    {
+      "item_id": "alps/co2@CO2-eng-8.0.0-O00623-1516158913-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "CO2-eng-8.0.0-O00623-1516158913-release-keys",
+        "commit": "b9b4aa472e22a33837f95108eea2e9dd4dbbcf12",
+        "committed_date": "2021-01-06T12:28:25.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T01:19:35.870Z",
+        "namespace_hint": "alps",
+        "project_hint": "co2",
+        "project_id": 837,
+        "project_path": "alps/co2"
+      },
+      "revision": "b9b4aa472e22a33837f95108eea2e9dd4dbbcf12",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/co2/-/tree/b9b4aa472e22a33837f95108eea2e9dd4dbbcf12"
+    },
+    {
+      "item_id": "alps/co2@CO2-userdebug-8.0.0-O00623-1516958023-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "CO2-userdebug-8.0.0-O00623-1516958023-release-keys",
+        "commit": "f957421728c9e20d11a227ad5151deb6353bf809",
+        "committed_date": "2021-01-06T12:17:46.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T01:19:35.870Z",
+        "namespace_hint": "alps",
+        "project_hint": "co2",
+        "project_id": 837,
+        "project_path": "alps/co2"
+      },
+      "revision": "f957421728c9e20d11a227ad5151deb6353bf809",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/co2/-/tree/f957421728c9e20d11a227ad5151deb6353bf809"
+    },
+    {
+      "item_id": "alps/es2@Essential2_00WW-user-10-QP1A.190711.020-00WW_4_200-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Essential2_00WW-user-10-QP1A.190711.020-00WW_4_200-release-keys",
+        "commit": "1c9c4ee71a42bc5cee119d5ef51e660ae8f269b4",
+        "committed_date": "2022-04-20T06:28:20.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T00:29:51.505Z",
+        "namespace_hint": "alps",
+        "project_hint": "es2",
+        "project_id": 833,
+        "project_path": "alps/es2"
+      },
+      "revision": "1c9c4ee71a42bc5cee119d5ef51e660ae8f269b4",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/es2/-/tree/1c9c4ee71a42bc5cee119d5ef51e660ae8f269b4"
+    },
+    {
+      "item_id": "alps/f202_f22_p10@full_f202_f22_p10-user-6.0-MRA58K-1637753601-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_f202_f22_p10-user-6.0-MRA58K-1637753601-release-keys",
+        "commit": "ab57f50795c87216641e2537e3842de36fa53474",
+        "committed_date": "2023-01-14T22:12:51.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-01-14T19:12:17.284Z",
+        "namespace_hint": "alps",
+        "project_hint": "f202_f22_p10",
+        "project_id": 4031,
+        "project_path": "alps/f202_f22_p10"
+      },
+      "revision": "ab57f50795c87216641e2537e3842de36fa53474",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/f202_f22_p10/-/tree/ab57f50795c87216641e2537e3842de36fa53474"
+    },
+    {
+      "item_id": "alps/frt@Frontier_00WW-user-9-PPR1.180610.011-00WW_2_130-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Frontier_00WW-user-9-PPR1.180610.011-00WW_2_130-release-keys",
+        "commit": "0e33deadd0d27373109ab6c83f1e00807353baa2",
+        "committed_date": "2019-07-20T00:05:34.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T01:20:15.611Z",
+        "namespace_hint": "alps",
+        "project_hint": "frt",
+        "project_id": 838,
+        "project_path": "alps/frt"
+      },
+      "revision": "0e33deadd0d27373109ab6c83f1e00807353baa2",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/frt/-/tree/0e33deadd0d27373109ab6c83f1e00807353baa2"
+    },
+    {
+      "item_id": "alps/h2s@full_h2s-userdebug-10-QP1A.190711.020-2022042707_1.0.0-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_h2s-userdebug-10-QP1A.190711.020-2022042707_1.0.0-dev-keys",
+        "commit": "a9cc06ed8e364460432335962303bd886f7b635f",
+        "committed_date": "2024-01-06T13:40:10.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-01-07T07:35:07.304Z",
+        "namespace_hint": "alps",
+        "project_hint": "h2s",
+        "project_id": 4677,
+        "project_path": "alps/h2s"
+      },
+      "revision": "a9cc06ed8e364460432335962303bd886f7b635f",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/h2s/-/tree/a9cc06ed8e364460432335962303bd886f7b635f"
+    },
+    {
+      "item_id": "alps/h2s@full_h2s-userdebug-10-QP1A.190711.020-mp7V125-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_h2s-userdebug-10-QP1A.190711.020-mp7V125-dev-keys",
+        "commit": "b43229f5448aa50fb6fc159494df3eb8b9118d2c",
+        "committed_date": "2024-01-07T10:33:05.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-01-07T07:35:07.304Z",
+        "namespace_hint": "alps",
+        "project_hint": "h2s",
+        "project_id": 4677,
+        "project_path": "alps/h2s"
+      },
+      "revision": "b43229f5448aa50fb6fc159494df3eb8b9118d2c",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/h2s/-/tree/b43229f5448aa50fb6fc159494df3eb8b9118d2c"
+    },
+    {
+      "item_id": "alps/h55_mt8163_60_n@full_h55_mt8163_60_n-user-7.0-NRD90M-vWC200103-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_h55_mt8163_60_n-user-7.0-NRD90M-vWC200103-test-keys",
+        "commit": "e73132f716ae705ebb1d68e6d2b290e26bb599e0",
+        "committed_date": "2020-02-12T23:28:42.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T09:41:50.694Z",
+        "namespace_hint": "alps",
+        "project_hint": "h55_mt8163_60_n",
+        "project_id": 840,
+        "project_path": "alps/h55_mt8163_60_n"
+      },
+      "revision": "e73132f716ae705ebb1d68e6d2b290e26bb599e0",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/h55_mt8163_60_n/-/tree/e73132f716ae705ebb1d68e6d2b290e26bb599e0"
+    },
+    {
+      "item_id": "alps/hinoki@full_hinoki-user-8.0.0-O00623-1557504422-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_hinoki-user-8.0.0-O00623-1557504422-test-keys",
+        "commit": "22e8726232cb7bac7d45e916c4c78eab636b6506",
+        "committed_date": "2019-08-27T01:28:49.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T01:30:48.018Z",
+        "namespace_hint": "alps",
+        "project_hint": "hinoki",
+        "project_id": 841,
+        "project_path": "alps/hinoki"
+      },
+      "revision": "22e8726232cb7bac7d45e916c4c78eab636b6506",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/hinoki/-/tree/22e8726232cb7bac7d45e916c4c78eab636b6506"
+    },
+    {
+      "item_id": "alps/i14_pro_max@full_k80hd_bsp_fwv_512m-user-8.1.0-O11019-1696565529-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k80hd_bsp_fwv_512m-user-8.1.0-O11019-1696565529-test-keys",
+        "commit": "288895bdbdeadb1ab92f7c8a81325a0c83d21ee7",
+        "committed_date": "2024-12-02T19:29:01.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-12-02T16:28:07.621Z",
+        "namespace_hint": "alps",
+        "project_hint": "i14_pro_max",
+        "project_id": 5509,
+        "project_path": "alps/i14_pro_max"
+      },
+      "revision": "288895bdbdeadb1ab92f7c8a81325a0c83d21ee7",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/i14_pro_max/-/tree/288895bdbdeadb1ab92f7c8a81325a0c83d21ee7"
+    },
+    {
+      "item_id": "alps/k63v1us_64_bsp@full_k63v1us_64_bsp_na_cxp-userdebug-8.1.0-O11019-1534824801-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k63v1us_64_bsp_na_cxp-userdebug-8.1.0-O11019-1534824801-dev-keys",
+        "commit": "12b63df9a928171b063fcb07a15d3f277ac67c8c",
+        "committed_date": "2023-05-25T18:10:48.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-05-25T15:09:40.923Z",
+        "namespace_hint": "alps",
+        "project_hint": "k63v1us_64_bsp",
+        "project_id": 4315,
+        "project_path": "alps/k63v1us_64_bsp"
+      },
+      "revision": "12b63df9a928171b063fcb07a15d3f277ac67c8c",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/k63v1us_64_bsp/-/tree/12b63df9a928171b063fcb07a15d3f277ac67c8c"
+    },
+    {
+      "item_id": "alps/k63v2_64_bsp@full_k63v2_64_bsp-user-10-QSV1.210329.017-mp1V9135-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k63v2_64_bsp-user-10-QSV1.210329.017-mp1V9135-dev-keys",
+        "commit": "bcc2e75c1bf8a44cdcfd5f8f504230fa56f13e23",
+        "committed_date": "2022-08-05T13:52:03.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-08-05T10:54:39.012Z",
+        "namespace_hint": "alps",
+        "project_hint": "k63v2_64_bsp",
+        "project_id": 2130,
+        "project_path": "alps/k63v2_64_bsp"
+      },
+      "revision": "bcc2e75c1bf8a44cdcfd5f8f504230fa56f13e23",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/k63v2_64_bsp/-/tree/bcc2e75c1bf8a44cdcfd5f8f504230fa56f13e23"
+    },
+    {
+      "item_id": "alps/k63v2_64_bsp@full_k63v2_64_bsp-user-9-PPR1.180610.011-eng.helios.20201019.112318-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k63v2_64_bsp-user-9-PPR1.180610.011-eng.helios.20201019.112318-dev-keys",
+        "commit": "5a3eed0a7493ce79ba94f3c34528642a609f71e8",
+        "committed_date": "2020-12-04T15:48:10.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-08-05T10:54:39.012Z",
+        "namespace_hint": "alps",
+        "project_hint": "k63v2_64_bsp",
+        "project_id": 2130,
+        "project_path": "alps/k63v2_64_bsp"
+      },
+      "revision": "5a3eed0a7493ce79ba94f3c34528642a609f71e8",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/k63v2_64_bsp/-/tree/5a3eed0a7493ce79ba94f3c34528642a609f71e8"
+    },
+    {
+      "item_id": "alps/k63v2_64_bsp@full_k63v2_64_bsp-user-9-PPR1.180610.011-eng.helios.20210509.144522-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k63v2_64_bsp-user-9-PPR1.180610.011-eng.helios.20210509.144522-dev-keys",
+        "commit": "1af081674194c34d0fda31bd3b6763c935bb6f64",
+        "committed_date": "2022-08-05T14:08:40.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-08-05T10:54:39.012Z",
+        "namespace_hint": "alps",
+        "project_hint": "k63v2_64_bsp",
+        "project_id": 2130,
+        "project_path": "alps/k63v2_64_bsp"
+      },
+      "revision": "1af081674194c34d0fda31bd3b6763c935bb6f64",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/k63v2_64_bsp/-/tree/1af081674194c34d0fda31bd3b6763c935bb6f64"
+    },
+    {
+      "item_id": "alps/k65v1_64_bsp@sys_mssi_64_cn-user-13-TP1A.220624.014-eng.jenkin.20240509.121451-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn-user-13-TP1A.220624.014-eng.jenkin.20240509.121451-release-keys",
+        "commit": "9d22fe542fb0e9cdbce9ecfc0ba305baa4c61c63",
+        "committed_date": "2024-05-24T04:15:04.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-05-24T01:13:43.412Z",
+        "namespace_hint": "alps",
+        "project_hint": "k65v1_64_bsp",
+        "project_id": 5283,
+        "project_path": "alps/k65v1_64_bsp"
+      },
+      "revision": "9d22fe542fb0e9cdbce9ecfc0ba305baa4c61c63",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/k65v1_64_bsp/-/tree/9d22fe542fb0e9cdbce9ecfc0ba305baa4c61c63"
+    },
+    {
+      "item_id": "alps/k6789v1_64@sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1677862540-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1677862540-release-keys",
+        "commit": "73ec1badc5bb52e251ba1fdeb6b1b787a58407cd",
+        "committed_date": "2023-04-12T17:19:59.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-04-12T14:18:36.585Z",
+        "namespace_hint": "alps",
+        "project_hint": "k6789v1_64",
+        "project_id": 4109,
+        "project_path": "alps/k6789v1_64"
+      },
+      "revision": "73ec1badc5bb52e251ba1fdeb6b1b787a58407cd",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/k6789v1_64/-/tree/73ec1badc5bb52e251ba1fdeb6b1b787a58407cd"
+    },
+    {
+      "item_id": "alps/kw_c7s_auo@full_KW_C7S_AUO-user-7.1.1-N6F26Q-1545014370-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_KW_C7S_AUO-user-7.1.1-N6F26Q-1545014370-test-keys",
+        "commit": "2dfabfa93e62c88173434cc5f7c30da073c885ea",
+        "committed_date": "2019-07-06T11:17:11.000-05:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T09:40:37.207Z",
+        "namespace_hint": "alps",
+        "project_hint": "kw_c7s_auo",
+        "project_id": 842,
+        "project_path": "alps/kw_c7s_auo"
+      },
+      "revision": "2dfabfa93e62c88173434cc5f7c30da073c885ea",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/kw_c7s_auo/-/tree/2dfabfa93e62c88173434cc5f7c30da073c885ea"
+    },
+    {
+      "item_id": "alps/ld_c15_tft_lflt@full_LD_C15_TFT_LFLT-user-10-QP1A.190711.020-mp1V948-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_LD_C15_TFT_LFLT-user-10-QP1A.190711.020-mp1V948-test-keys",
+        "commit": "bbcd3598c430955c64fad27758473985e50d5ce1",
+        "committed_date": "2021-03-25T08:08:04.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T15:48:28.956Z",
+        "namespace_hint": "alps",
+        "project_hint": "ld_c15_tft_lflt",
+        "project_id": 1146,
+        "project_path": "alps/ld_c15_tft_lflt"
+      },
+      "revision": "bbcd3598c430955c64fad27758473985e50d5ce1",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/ld_c15_tft_lflt/-/tree/bbcd3598c430955c64fad27758473985e50d5ce1"
+    },
+    {
+      "item_id": "alps/leedsa@missi-user-16-BP2A.250605.031.A3-OS3.0.303.0.WDTMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-16-BP2A.250605.031.A3-OS3.0.303.0.WDTMIXM-release-keys",
+        "commit": "68c27cb9953e669c99ef9efb631228f3db2a924b",
+        "committed_date": "2026-08-10T11:48:53.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-08-10T08:43:56.048Z",
+        "namespace_hint": "alps",
+        "project_hint": "leedsa",
+        "project_id": 5812,
+        "project_path": "alps/leedsa"
+      },
+      "revision": "68c27cb9953e669c99ef9efb631228f3db2a924b",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/leedsa/-/tree/68c27cb9953e669c99ef9efb631228f3db2a924b"
+    },
+    {
+      "item_id": "alps/lw_c15_tft_lflt@full_LW_C15_TFT_LFLT-user-10-QP1A.190711.020-mp1V948-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_LW_C15_TFT_LFLT-user-10-QP1A.190711.020-mp1V948-test-keys",
+        "commit": "395bc8b5fc23d6dbb64d41f9dffca5167e295cc3",
+        "committed_date": "2021-03-25T08:16:19.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T15:47:33.522Z",
+        "namespace_hint": "alps",
+        "project_hint": "lw_c15_tft_lflt",
+        "project_id": 1144,
+        "project_path": "alps/lw_c15_tft_lflt"
+      },
+      "revision": "395bc8b5fc23d6dbb64d41f9dffca5167e295cc3",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/lw_c15_tft_lflt/-/tree/395bc8b5fc23d6dbb64d41f9dffca5167e295cc3"
+    },
+    {
+      "item_id": "alps/mgvi-64-64only-armv82@missi-user-16-BP2A.250605.031.A3-OS3.0.303.0.WPTMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-16-BP2A.250605.031.A3-OS3.0.303.0.WPTMIXM-release-keys",
+        "commit": "176acb06151dcc331c582b477aa986d28c634b84",
+        "committed_date": "2026-05-29T16:39:42.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-05-29T13:30:02.452Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi-64-64only-armv82",
+        "project_id": 5770,
+        "project_path": "alps/mgvi-64-64only-armv82"
+      },
+      "revision": "176acb06151dcc331c582b477aa986d28c634b84",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi-64-64only-armv82/-/tree/176acb06151dcc331c582b477aa986d28c634b84"
+    },
+    {
+      "item_id": "alps/mgvi-64-64only-armv82@missi-user-16-BP2A.250605.031.A3-OS3.0.305.0.WPSMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-16-BP2A.250605.031.A3-OS3.0.305.0.WPSMIXM-release-keys",
+        "commit": "5b3e098473ad89a2519efd180bd945a10ccb984a",
+        "committed_date": "2026-05-29T16:42:01.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-05-29T13:30:02.452Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi-64-64only-armv82",
+        "project_id": 5770,
+        "project_path": "alps/mgvi-64-64only-armv82"
+      },
+      "revision": "5b3e098473ad89a2519efd180bd945a10ccb984a",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi-64-64only-armv82/-/tree/5b3e098473ad89a2519efd180bd945a10ccb984a"
+    },
+    {
+      "item_id": "alps/mgvi-64-64only-ww-armv82@sys_mssi_64_64only_ww_armv82-user-16-BP2A.250605.031.A3-2605081508-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_64only_ww_armv82-user-16-BP2A.250605.031.A3-2605081508-release-keys",
+        "commit": "0733fc3d2569688ad1d6695e81815639c9db8c3f",
+        "committed_date": "2026-05-19T16:53:46.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-05-19T13:44:19.745Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi-64-64only-ww-armv82",
+        "project_id": 5764,
+        "project_path": "alps/mgvi-64-64only-ww-armv82"
+      },
+      "revision": "0733fc3d2569688ad1d6695e81815639c9db8c3f",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi-64-64only-ww-armv82/-/tree/0733fc3d2569688ad1d6695e81815639c9db8c3f"
+    },
+    {
+      "item_id": "alps/mgvi-64-armv82@sys_mssi_64_ww_armv82-user-16-BP2A.250605.031.A3-2604142142-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_ww_armv82-user-16-BP2A.250605.031.A3-2604142142-release-keys",
+        "commit": "4a66f642ab41442345a9bf91ca659f56296ffd1b",
+        "committed_date": "2026-05-13T16:21:16.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-05-13T13:12:18.289Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi-64-armv82",
+        "project_id": 5762,
+        "project_path": "alps/mgvi-64-armv82"
+      },
+      "revision": "4a66f642ab41442345a9bf91ca659f56296ffd1b",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi-64-armv82/-/tree/4a66f642ab41442345a9bf91ca659f56296ffd1b"
+    },
+    {
+      "item_id": "alps/mgvi_64_64only_armv82@missi-user-16-BP2A.250605.031.A3-OS3.0.18.0.WPJCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-16-BP2A.250605.031.A3-OS3.0.18.0.WPJCNXM-release-keys",
+        "commit": "80db584a4908a7b5451952672b41d6aacaef061b",
+        "committed_date": "2026-01-29T23:07:27.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-01-29T20:27:36.225Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi_64_64only_armv82",
+        "project_id": 5740,
+        "project_path": "alps/mgvi_64_64only_armv82"
+      },
+      "revision": "80db584a4908a7b5451952672b41d6aacaef061b",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi_64_64only_armv82/-/tree/80db584a4908a7b5451952672b41d6aacaef061b"
+    },
+    {
+      "item_id": "alps/mgvi_64_64only_armv82@missi-user-16-BP2A.250605.031.A3-OS3.0.6.0.WPLCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-16-BP2A.250605.031.A3-OS3.0.6.0.WPLCNXM-release-keys",
+        "commit": "82c69a8ef2f45d63474be51bddb282d6ea88deba",
+        "committed_date": "2026-01-29T22:02:56.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-01-29T20:27:36.225Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi_64_64only_armv82",
+        "project_id": 5740,
+        "project_path": "alps/mgvi_64_64only_armv82"
+      },
+      "revision": "82c69a8ef2f45d63474be51bddb282d6ea88deba",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi_64_64only_armv82/-/tree/82c69a8ef2f45d63474be51bddb282d6ea88deba"
+    },
+    {
+      "item_id": "alps/mgvi_64_64only_ww_armv82@sys_mssi_64_64only_ww_armv82-user-16-BP2A.250605.031.A3-2512182326-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_64only_ww_armv82-user-16-BP2A.250605.031.A3-2512182326-release-keys",
+        "commit": "551cca1d80ffafc0b322aefc9890420be8133b6d",
+        "committed_date": "2025-12-30T15:49:41.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-03-14T12:42:44.030Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi_64_64only_ww_armv82",
+        "project_id": 5724,
+        "project_path": "alps/mgvi_64_64only_ww_armv82"
+      },
+      "revision": "551cca1d80ffafc0b322aefc9890420be8133b6d",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi_64_64only_ww_armv82/-/tree/551cca1d80ffafc0b322aefc9890420be8133b6d"
+    },
+    {
+      "item_id": "alps/mgvi_64_64only_ww_armv82@sys_mssi_64_64only_ww_armv82-user-16-BP2A.250605.031.A3-2602261122-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_64only_ww_armv82-user-16-BP2A.250605.031.A3-2602261122-release-keys",
+        "commit": "cd9210e5e2efc181cde3807c2e2a75aa58c09306",
+        "committed_date": "2026-03-14T15:29:49.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-03-14T12:42:44.030Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi_64_64only_ww_armv82",
+        "project_id": 5724,
+        "project_path": "alps/mgvi_64_64only_ww_armv82"
+      },
+      "revision": "cd9210e5e2efc181cde3807c2e2a75aa58c09306",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi_64_64only_ww_armv82/-/tree/cd9210e5e2efc181cde3807c2e2a75aa58c09306"
+    },
+    {
+      "item_id": "alps/mgvi_64_armv82@missi-user-16-BP2A.250605.031.A3-OS3.0.4.0.WPPCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-16-BP2A.250605.031.A3-OS3.0.4.0.WPPCNXM-release-keys",
+        "commit": "ff63016af35348d6a4d8ef6e86fe7b2a235fd316",
+        "committed_date": "2026-01-14T20:10:27.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-01-14T17:26:05.995Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi_64_armv82",
+        "project_id": 5220,
+        "project_path": "alps/mgvi_64_armv82"
+      },
+      "revision": "ff63016af35348d6a4d8ef6e86fe7b2a235fd316",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi_64_armv82/-/tree/ff63016af35348d6a4d8ef6e86fe7b2a235fd316"
+    },
+    {
+      "item_id": "alps/mgvi_64_armv82@sys_mssi_64_ww_armv82-user-16-BP2A.250605.031.A3-2511282240-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_ww_armv82-user-16-BP2A.250605.031.A3-2511282240-release-keys",
+        "commit": "fb7b1935d617e82f23a9470e6d414f20fa6ae17f",
+        "committed_date": "2025-12-16T08:04:27.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-01-14T17:26:05.995Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi_64_armv82",
+        "project_id": 5220,
+        "project_path": "alps/mgvi_64_armv82"
+      },
+      "revision": "fb7b1935d617e82f23a9470e6d414f20fa6ae17f",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi_64_armv82/-/tree/fb7b1935d617e82f23a9470e6d414f20fa6ae17f"
+    },
+    {
+      "item_id": "alps/mgvi_64_armv82@sys_mssi_64_ww_armv82-user-16-BP2A.250605.031.A3-2511282246-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_ww_armv82-user-16-BP2A.250605.031.A3-2511282246-release-keys",
+        "commit": "a7907180ff1e8f443696d377fe02dc4a61c7fc98",
+        "committed_date": "2025-12-16T07:30:04.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-01-14T17:26:05.995Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi_64_armv82",
+        "project_id": 5220,
+        "project_path": "alps/mgvi_64_armv82"
+      },
+      "revision": "a7907180ff1e8f443696d377fe02dc4a61c7fc98",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi_64_armv82/-/tree/a7907180ff1e8f443696d377fe02dc4a61c7fc98"
+    },
+    {
+      "item_id": "alps/mgvi_64_armv82@sys_tssi_64_armv82_tecno_dolby-user-14-UP1A.231005.007-507777-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_tecno_dolby-user-14-UP1A.231005.007-507777-release-keys",
+        "commit": "d37ceeb8bceccdb9e291fadfe459e5c7950911aa",
+        "committed_date": "2024-04-04T18:51:55.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-01-14T17:26:05.995Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi_64_armv82",
+        "project_id": 5220,
+        "project_path": "alps/mgvi_64_armv82"
+      },
+      "revision": "d37ceeb8bceccdb9e291fadfe459e5c7950911aa",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi_64_armv82/-/tree/d37ceeb8bceccdb9e291fadfe459e5c7950911aa"
+    },
+    {
+      "item_id": "alps/mgvi_64_nfc_armv82@sys_tssi_64_armv82_infinix-user-14-UP1A.231005.007-487929-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_infinix-user-14-UP1A.231005.007-487929-release-keys",
+        "commit": "22f3ad381609dc6abb94ae4676cba977dd8b7bbe",
+        "committed_date": "2024-01-21T15:48:43.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T18:59:10.543Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi_64_nfc_armv82",
+        "project_id": 4396,
+        "project_path": "alps/mgvi_64_nfc_armv82"
+      },
+      "revision": "22f3ad381609dc6abb94ae4676cba977dd8b7bbe",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi_64_nfc_armv82/-/tree/22f3ad381609dc6abb94ae4676cba977dd8b7bbe"
+    },
+    {
+      "item_id": "alps/mgvi_64_nfc_armv82@sys_tssi_64_armv82_infinix-user-14-UP1A.231005.007-587272-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_infinix-user-14-UP1A.231005.007-587272-release-keys",
+        "commit": "0ddeadf93f597ea63c01478756407609a5a9f933",
+        "committed_date": "2024-05-29T22:16:28.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T18:59:10.543Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi_64_nfc_armv82",
+        "project_id": 4396,
+        "project_path": "alps/mgvi_64_nfc_armv82"
+      },
+      "revision": "0ddeadf93f597ea63c01478756407609a5a9f933",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi_64_nfc_armv82/-/tree/0ddeadf93f597ea63c01478756407609a5a9f933"
+    },
+    {
+      "item_id": "alps/mgvi_64_nfc_armv82@sys_tssi_64_armv82_infinix-user-14-UP1A.231005.007-689348-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_infinix-user-14-UP1A.231005.007-689348-release-keys",
+        "commit": "09a58ca5f38cce941893a2bee90b156495a70874",
+        "committed_date": "2024-09-16T12:06:19.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T18:59:10.543Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi_64_nfc_armv82",
+        "project_id": 4396,
+        "project_path": "alps/mgvi_64_nfc_armv82"
+      },
+      "revision": "09a58ca5f38cce941893a2bee90b156495a70874",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi_64_nfc_armv82/-/tree/09a58ca5f38cce941893a2bee90b156495a70874"
+    },
+    {
+      "item_id": "alps/mgvi_64_nfc_armv82@sys_tssi_64_armv82_itel-user-13-TP1A.220624.014-568468-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_itel-user-13-TP1A.220624.014-568468-release-keys",
+        "commit": "294099b389158633392217339ea39986753c11bd",
+        "committed_date": "2024-04-28T14:47:31.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T18:59:10.543Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi_64_nfc_armv82",
+        "project_id": 4396,
+        "project_path": "alps/mgvi_64_nfc_armv82"
+      },
+      "revision": "294099b389158633392217339ea39986753c11bd",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi_64_nfc_armv82/-/tree/294099b389158633392217339ea39986753c11bd"
+    },
+    {
+      "item_id": "alps/mgvi_64_nfc_armv82@sys_tssi_64_armv82_tecno-user-12-SP1A.210812.016-278293-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_tecno-user-12-SP1A.210812.016-278293-release-keys",
+        "commit": "a0dbb71db07f78c0e155f22bc3939af09dad913f",
+        "committed_date": "2023-11-21T19:33:46.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T18:59:10.543Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi_64_nfc_armv82",
+        "project_id": 4396,
+        "project_path": "alps/mgvi_64_nfc_armv82"
+      },
+      "revision": "a0dbb71db07f78c0e155f22bc3939af09dad913f",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi_64_nfc_armv82/-/tree/a0dbb71db07f78c0e155f22bc3939af09dad913f"
+    },
+    {
+      "item_id": "alps/mgvi_64_nfc_armv82@sys_tssi_64_armv82_tecno-user-12-SP1A.210812.016-336942-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_tecno-user-12-SP1A.210812.016-336942-release-keys",
+        "commit": "b70a87267031c9981a14ad2435d36b5a0ff4506b",
+        "committed_date": "2023-11-20T16:46:55.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T18:59:10.543Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi_64_nfc_armv82",
+        "project_id": 4396,
+        "project_path": "alps/mgvi_64_nfc_armv82"
+      },
+      "revision": "b70a87267031c9981a14ad2435d36b5a0ff4506b",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi_64_nfc_armv82/-/tree/b70a87267031c9981a14ad2435d36b5a0ff4506b"
+    },
+    {
+      "item_id": "alps/mgvi_64_nfc_armv82@sys_tssi_64_armv82_tecno-user-12-SP1A.210812.016-426972-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_tecno-user-12-SP1A.210812.016-426972-release-keys",
+        "commit": "9500ee72c8132de64ef74dafc176dd8a4af7c71b",
+        "committed_date": "2023-12-09T16:54:58.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T18:59:10.543Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi_64_nfc_armv82",
+        "project_id": 4396,
+        "project_path": "alps/mgvi_64_nfc_armv82"
+      },
+      "revision": "9500ee72c8132de64ef74dafc176dd8a4af7c71b",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi_64_nfc_armv82/-/tree/9500ee72c8132de64ef74dafc176dd8a4af7c71b"
+    },
+    {
+      "item_id": "alps/mgvi_64_nfc_armv82@sys_tssi_64_armv82_tecno-user-12-SP1A.210812.016-479070-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_tecno-user-12-SP1A.210812.016-479070-release-keys",
+        "commit": "3f1791b07cd8eca04c0dd07aa338c1939f82f7a4",
+        "committed_date": "2023-12-15T21:07:12.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T18:59:10.543Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi_64_nfc_armv82",
+        "project_id": 4396,
+        "project_path": "alps/mgvi_64_nfc_armv82"
+      },
+      "revision": "3f1791b07cd8eca04c0dd07aa338c1939f82f7a4",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi_64_nfc_armv82/-/tree/3f1791b07cd8eca04c0dd07aa338c1939f82f7a4"
+    },
+    {
+      "item_id": "alps/mgvi_64_nfc_armv82@sys_tssi_64_armv82_tecno-user-12-SP1A.210812.016-481391-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_tecno-user-12-SP1A.210812.016-481391-release-keys",
+        "commit": "044c03abdb690ff5ced33a832ebacd25cbf150b1",
+        "committed_date": "2023-12-14T01:05:43.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T18:59:10.543Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi_64_nfc_armv82",
+        "project_id": 4396,
+        "project_path": "alps/mgvi_64_nfc_armv82"
+      },
+      "revision": "044c03abdb690ff5ced33a832ebacd25cbf150b1",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi_64_nfc_armv82/-/tree/044c03abdb690ff5ced33a832ebacd25cbf150b1"
+    },
+    {
+      "item_id": "alps/mgvi_64_nfc_armv82@sys_tssi_64_armv82_tecno-user-12-SP1A.210812.016-561545-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_tecno-user-12-SP1A.210812.016-561545-release-keys",
+        "commit": "1afe4eff8141d8cc3d30684fc8ee62754d3cde72",
+        "committed_date": "2024-07-17T20:28:33.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T18:59:10.543Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi_64_nfc_armv82",
+        "project_id": 4396,
+        "project_path": "alps/mgvi_64_nfc_armv82"
+      },
+      "revision": "1afe4eff8141d8cc3d30684fc8ee62754d3cde72",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi_64_nfc_armv82/-/tree/1afe4eff8141d8cc3d30684fc8ee62754d3cde72"
+    },
+    {
+      "item_id": "alps/mgvi_64_nfc_armv82@sys_tssi_64_armv82_tecno-user-12-SP1A.210812.016-623946-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_tecno-user-12-SP1A.210812.016-623946-release-keys",
+        "commit": "dc3262da5f509f7c07d0bcd2ede93e4b55c883d9",
+        "committed_date": "2024-07-23T14:05:38.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T18:59:10.543Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi_64_nfc_armv82",
+        "project_id": 4396,
+        "project_path": "alps/mgvi_64_nfc_armv82"
+      },
+      "revision": "dc3262da5f509f7c07d0bcd2ede93e4b55c883d9",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi_64_nfc_armv82/-/tree/dc3262da5f509f7c07d0bcd2ede93e4b55c883d9"
+    },
+    {
+      "item_id": "alps/mgvi_64_nfc_armv82@sys_tssi_64_armv82_tecno-user-13-TP1A.220624.014-359523-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_tecno-user-13-TP1A.220624.014-359523-release-keys",
+        "commit": "de22343b8fa8b2283babca77a9792d514ba2a041",
+        "committed_date": "2023-08-14T13:06:33.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T18:59:10.543Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi_64_nfc_armv82",
+        "project_id": 4396,
+        "project_path": "alps/mgvi_64_nfc_armv82"
+      },
+      "revision": "de22343b8fa8b2283babca77a9792d514ba2a041",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi_64_nfc_armv82/-/tree/de22343b8fa8b2283babca77a9792d514ba2a041"
+    },
+    {
+      "item_id": "alps/mgvi_64_nfc_armv82@sys_tssi_64_armv82_tecno-user-13-TP1A.220624.014-407565-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_tecno-user-13-TP1A.220624.014-407565-release-keys",
+        "commit": "a8a0106ccf2b9de7fc6245d71e2f3cf878516a1f",
+        "committed_date": "2023-09-30T21:26:24.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T18:59:10.543Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi_64_nfc_armv82",
+        "project_id": 4396,
+        "project_path": "alps/mgvi_64_nfc_armv82"
+      },
+      "revision": "a8a0106ccf2b9de7fc6245d71e2f3cf878516a1f",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi_64_nfc_armv82/-/tree/a8a0106ccf2b9de7fc6245d71e2f3cf878516a1f"
+    },
+    {
+      "item_id": "alps/mgvi_64_nfc_armv82@sys_tssi_64_armv82_tecno-user-13-TP1A.220624.014-446302-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_tecno-user-13-TP1A.220624.014-446302-release-keys",
+        "commit": "72b057aee9b9f333778501423a995e1f5edc9f0f",
+        "committed_date": "2023-11-20T15:41:44.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T18:59:10.543Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi_64_nfc_armv82",
+        "project_id": 4396,
+        "project_path": "alps/mgvi_64_nfc_armv82"
+      },
+      "revision": "72b057aee9b9f333778501423a995e1f5edc9f0f",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi_64_nfc_armv82/-/tree/72b057aee9b9f333778501423a995e1f5edc9f0f"
+    },
+    {
+      "item_id": "alps/mgvi_64_nfc_armv82@sys_tssi_64_armv82_tecno-user-13-TP1A.220624.014-454163-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_tecno-user-13-TP1A.220624.014-454163-release-keys",
+        "commit": "6d248bf4a6047c90c77a5597ad4fd96d46bcb5b9",
+        "committed_date": "2023-11-18T22:18:43.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T18:59:10.543Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi_64_nfc_armv82",
+        "project_id": 4396,
+        "project_path": "alps/mgvi_64_nfc_armv82"
+      },
+      "revision": "6d248bf4a6047c90c77a5597ad4fd96d46bcb5b9",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi_64_nfc_armv82/-/tree/6d248bf4a6047c90c77a5597ad4fd96d46bcb5b9"
+    },
+    {
+      "item_id": "alps/mgvi_64_nfc_armv82@sys_tssi_64_armv82_tecno-user-13-TP1A.220624.014-486884-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_tecno-user-13-TP1A.220624.014-486884-release-keys",
+        "commit": "7919a80560dd5c3cccf9c57b828d060fd224a753",
+        "committed_date": "2023-12-12T14:57:11.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T18:59:10.543Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi_64_nfc_armv82",
+        "project_id": 4396,
+        "project_path": "alps/mgvi_64_nfc_armv82"
+      },
+      "revision": "7919a80560dd5c3cccf9c57b828d060fd224a753",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi_64_nfc_armv82/-/tree/7919a80560dd5c3cccf9c57b828d060fd224a753"
+    },
+    {
+      "item_id": "alps/mgvi_64_nfc_armv82@sys_tssi_64_armv82_tecno-user-13-TP1A.220624.014-487922-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_tecno-user-13-TP1A.220624.014-487922-release-keys",
+        "commit": "ea7d65bcd2e7a01f5860e4d857e106af19fcfbfb",
+        "committed_date": "2023-12-11T22:29:10.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T18:59:10.543Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi_64_nfc_armv82",
+        "project_id": 4396,
+        "project_path": "alps/mgvi_64_nfc_armv82"
+      },
+      "revision": "ea7d65bcd2e7a01f5860e4d857e106af19fcfbfb",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi_64_nfc_armv82/-/tree/ea7d65bcd2e7a01f5860e4d857e106af19fcfbfb"
+    },
+    {
+      "item_id": "alps/mgvi_64_nfc_armv82@sys_tssi_64_armv82_tecno-user-14-UP1A.231005.007-590172-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_tecno-user-14-UP1A.231005.007-590172-release-keys",
+        "commit": "ce41ac355b6c06655ed98a3fd678d431bc1ad957",
+        "committed_date": "2024-06-09T09:40:50.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T18:59:10.543Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi_64_nfc_armv82",
+        "project_id": 4396,
+        "project_path": "alps/mgvi_64_nfc_armv82"
+      },
+      "revision": "ce41ac355b6c06655ed98a3fd678d431bc1ad957",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi_64_nfc_armv82/-/tree/ce41ac355b6c06655ed98a3fd678d431bc1ad957"
+    },
+    {
+      "item_id": "alps/mgvi_64_nfc_armv82@sys_tssi_64_armv82_tecno-user-14-UP1A.231005.007-651368-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_tecno-user-14-UP1A.231005.007-651368-release-keys",
+        "commit": "b768db07db105ece87ef1c8adad458775f8574cd",
+        "committed_date": "2024-09-05T01:14:50.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T18:59:10.543Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi_64_nfc_armv82",
+        "project_id": 4396,
+        "project_path": "alps/mgvi_64_nfc_armv82"
+      },
+      "revision": "b768db07db105ece87ef1c8adad458775f8574cd",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi_64_nfc_armv82/-/tree/b768db07db105ece87ef1c8adad458775f8574cd"
+    },
+    {
+      "item_id": "alps/mgvi_64_nfc_armv82@sys_tssi_64_armv82_tecno-user-14-UP1A.231005.007-698122-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_tecno-user-14-UP1A.231005.007-698122-release-keys",
+        "commit": "0c7741639c4167b4e59fe30792e874201ba11489",
+        "committed_date": "2024-12-30T21:43:12.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-12-30T18:59:10.543Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi_64_nfc_armv82",
+        "project_id": 4396,
+        "project_path": "alps/mgvi_64_nfc_armv82"
+      },
+      "revision": "0c7741639c4167b4e59fe30792e874201ba11489",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi_64_nfc_armv82/-/tree/0c7741639c4167b4e59fe30792e874201ba11489"
+    },
+    {
+      "item_id": "alps/mgvi_64_nfc_armv82@sys_tssi_64_armv82_tecno-user-14-UP1A.231005.007-719611-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_tecno-user-14-UP1A.231005.007-719611-release-keys",
+        "commit": "a0e348d1650cc5dbd7b96178b36b2ee969e79727",
+        "committed_date": "2024-12-18T10:28:14.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T18:59:10.543Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi_64_nfc_armv82",
+        "project_id": 4396,
+        "project_path": "alps/mgvi_64_nfc_armv82"
+      },
+      "revision": "a0e348d1650cc5dbd7b96178b36b2ee969e79727",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi_64_nfc_armv82/-/tree/a0e348d1650cc5dbd7b96178b36b2ee969e79727"
+    },
+    {
+      "item_id": "alps/mgvi_t_64_armv82@iPlay_50_mini_Pro-user-13-TP1A.220624.014-1687767699-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "iPlay_50_mini_Pro-user-13-TP1A.220624.014-1687767699-release-keys",
+        "commit": "a9da96458c4482efd9ddacc5bb5d373fd1d40f19",
+        "committed_date": "2024-01-19T16:41:29.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-26T18:24:19.277Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi_t_64_armv82",
+        "project_id": 4701,
+        "project_path": "alps/mgvi_t_64_armv82"
+      },
+      "revision": "a9da96458c4482efd9ddacc5bb5d373fd1d40f19",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi_t_64_armv82/-/tree/a9da96458c4482efd9ddacc5bb5d373fd1d40f19"
+    },
+    {
+      "item_id": "alps/mgvi_t_64_armv82@iPlay_50_mini_Pro-user-13-TP1A.220624.014-1687767888-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "iPlay_50_mini_Pro-user-13-TP1A.220624.014-1687767888-release-keys",
+        "commit": "e7754ed24a21b1500272e317a875b2bf99c0fa00",
+        "committed_date": "2024-10-10T15:38:47.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-26T18:24:19.277Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi_t_64_armv82",
+        "project_id": 4701,
+        "project_path": "alps/mgvi_t_64_armv82"
+      },
+      "revision": "e7754ed24a21b1500272e317a875b2bf99c0fa00",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi_t_64_armv82/-/tree/e7754ed24a21b1500272e317a875b2bf99c0fa00"
+    },
+    {
+      "item_id": "alps/mgvi_t_64_armv82@sys_mssi_t_64_cn_armv82-user-14-UP1A.231005.007-1733385858-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_t_64_cn_armv82-user-14-UP1A.231005.007-1733385858-release-keys",
+        "commit": "0f53507d68e9a694a3fcaaa8dee69a86c67634d2",
+        "committed_date": "2025-01-26T21:17:31.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-01-26T18:24:19.277Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi_t_64_armv82",
+        "project_id": 4701,
+        "project_path": "alps/mgvi_t_64_armv82"
+      },
+      "revision": "0f53507d68e9a694a3fcaaa8dee69a86c67634d2",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi_t_64_armv82/-/tree/0f53507d68e9a694a3fcaaa8dee69a86c67634d2"
+    },
+    {
+      "item_id": "alps/mgvi_t_64_wifi_armv82@sys_calla_row_wifi-user-14-UP1A.231005.007-16.0.10.086_240412-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_calla_row_wifi-user-14-UP1A.231005.007-16.0.10.086_240412-release-keys",
+        "commit": "99617036ede6a6a6f021bff3e376f025552a0471",
+        "committed_date": "2024-05-09T14:58:24.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-05-09T11:53:21.863Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi_t_64_wifi_armv82",
+        "project_id": 5263,
+        "project_path": "alps/mgvi_t_64_wifi_armv82"
+      },
+      "revision": "99617036ede6a6a6f021bff3e376f025552a0471",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mgvi_t_64_wifi_armv82/-/tree/99617036ede6a6a6f021bff3e376f025552a0471"
+    },
+    {
+      "item_id": "alps/mihal@missi-user-12-SP1A.210812.016-V13.0.12.0.SLUINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SP1A.210812.016-V13.0.12.0.SLUINXM-release-keys",
+        "commit": "ece5be0a635627f348338d86cdf3abc89dd89529",
+        "committed_date": "2023-07-12T15:18:16.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T03:35:00.426Z",
+        "namespace_hint": "alps",
+        "project_hint": "mihal",
+        "project_id": 2512,
+        "project_path": "alps/mihal"
+      },
+      "revision": "ece5be0a635627f348338d86cdf3abc89dd89529",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mihal/-/tree/ece5be0a635627f348338d86cdf3abc89dd89529"
+    },
+    {
+      "item_id": "alps/mihal@missi-user-12-SP1A.210812.016-V13.0.2.0.SLUTWXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SP1A.210812.016-V13.0.2.0.SLUTWXM-release-keys",
+        "commit": "d88b3716c8a1616e544ddeda350fe2c425ad52f3",
+        "committed_date": "2022-11-04T19:35:01.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T03:35:00.426Z",
+        "namespace_hint": "alps",
+        "project_hint": "mihal",
+        "project_id": 2512,
+        "project_path": "alps/mihal"
+      },
+      "revision": "d88b3716c8a1616e544ddeda350fe2c425ad52f3",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mihal/-/tree/d88b3716c8a1616e544ddeda350fe2c425ad52f3"
+    },
+    {
+      "item_id": "alps/mihal@missi-user-15-AP3A.240905.015.A2-OS2.0.1.0.VOGMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-15-AP3A.240905.015.A2-OS2.0.1.0.VOGMIXM-release-keys",
+        "commit": "433416384506effee541de0e94452f017d62903c",
+        "committed_date": "2025-05-03T06:20:56.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-05-03T03:35:00.426Z",
+        "namespace_hint": "alps",
+        "project_hint": "mihal",
+        "project_id": 2512,
+        "project_path": "alps/mihal"
+      },
+      "revision": "433416384506effee541de0e94452f017d62903c",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mihal/-/tree/433416384506effee541de0e94452f017d62903c"
+    },
+    {
+      "item_id": "alps/mihal@missi_phone_global-user-14-UP1A.231005.007-V816.0.4.0.UOGMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-14-UP1A.231005.007-V816.0.4.0.UOGMIXM-release-keys",
+        "commit": "04613cd74839e61f282893608e391488279c341c",
+        "committed_date": "2025-01-14T03:03:18.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T03:35:00.426Z",
+        "namespace_hint": "alps",
+        "project_hint": "mihal",
+        "project_id": 2512,
+        "project_path": "alps/mihal"
+      },
+      "revision": "04613cd74839e61f282893608e391488279c341c",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mihal/-/tree/04613cd74839e61f282893608e391488279c341c"
+    },
+    {
+      "item_id": "alps/mihal@missi_phone_global_ext4-user-14-UP1A.231005.007-V816.0.10.0.ULUMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global_ext4-user-14-UP1A.231005.007-V816.0.10.0.ULUMIXM-release-keys",
+        "commit": "43695af32e7cb237ed5beca5169de4287b054e1d",
+        "committed_date": "2024-10-15T20:00:40.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T03:35:00.426Z",
+        "namespace_hint": "alps",
+        "project_hint": "mihal",
+        "project_id": 2512,
+        "project_path": "alps/mihal"
+      },
+      "revision": "43695af32e7cb237ed5beca5169de4287b054e1d",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mihal/-/tree/43695af32e7cb237ed5beca5169de4287b054e1d"
+    },
+    {
+      "item_id": "alps/mihal@missi_phone_global_ext4-user-14-UP1A.231005.007-V816.0.3.0.ULUINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global_ext4-user-14-UP1A.231005.007-V816.0.3.0.ULUINXM-release-keys",
+        "commit": "2e52b3076731d73cf01fd8f1ab1fb1670cdda5f6",
+        "committed_date": "2024-03-22T00:04:11.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T03:35:00.426Z",
+        "namespace_hint": "alps",
+        "project_hint": "mihal",
+        "project_id": 2512,
+        "project_path": "alps/mihal"
+      },
+      "revision": "2e52b3076731d73cf01fd8f1ab1fb1670cdda5f6",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mihal/-/tree/2e52b3076731d73cf01fd8f1ab1fb1670cdda5f6"
+    },
+    {
+      "item_id": "alps/mihal@missi_phone_global_ext4-user-14-UP1A.231005.007-V816.0.7.0.ULUINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global_ext4-user-14-UP1A.231005.007-V816.0.7.0.ULUINXM-release-keys",
+        "commit": "4aac3f4627eb644668cb202569fd277061e56c94",
+        "committed_date": "2024-09-16T01:06:25.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T03:35:00.426Z",
+        "namespace_hint": "alps",
+        "project_hint": "mihal",
+        "project_id": 2512,
+        "project_path": "alps/mihal"
+      },
+      "revision": "4aac3f4627eb644668cb202569fd277061e56c94",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mihal/-/tree/4aac3f4627eb644668cb202569fd277061e56c94"
+    },
+    {
+      "item_id": "alps/mihal@missi_phoneext4_global-user-13-TP1A.220624.014-V14.0.2.0.TLUINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_global-user-13-TP1A.220624.014-V14.0.2.0.TLUINXM-release-keys",
+        "commit": "34e576ae72c71feed68d6a9796607cff60875eed",
+        "committed_date": "2023-11-13T14:33:47.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T03:35:00.426Z",
+        "namespace_hint": "alps",
+        "project_hint": "mihal",
+        "project_id": 2512,
+        "project_path": "alps/mihal"
+      },
+      "revision": "34e576ae72c71feed68d6a9796607cff60875eed",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mihal/-/tree/34e576ae72c71feed68d6a9796607cff60875eed"
+    },
+    {
+      "item_id": "alps/mihal@missi_phoneext4_global-user-13-TP1A.220624.014-V14.0.3.0.TLUINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_global-user-13-TP1A.220624.014-V14.0.3.0.TLUINXM-release-keys",
+        "commit": "a477ed3dde5cc8be476cca2bc9259dbd7b6a0226",
+        "committed_date": "2024-01-17T15:17:19.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T03:35:00.426Z",
+        "namespace_hint": "alps",
+        "project_hint": "mihal",
+        "project_id": 2512,
+        "project_path": "alps/mihal"
+      },
+      "revision": "a477ed3dde5cc8be476cca2bc9259dbd7b6a0226",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mihal/-/tree/a477ed3dde5cc8be476cca2bc9259dbd7b6a0226"
+    },
+    {
+      "item_id": "alps/mihal@missi_phoneext4_global-user-13-TP1A.220624.014-V14.0.5.0.TLUIDXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_global-user-13-TP1A.220624.014-V14.0.5.0.TLUIDXM-release-keys",
+        "commit": "d9fff61cb1c80e833185815c7d089d6d568103df",
+        "committed_date": "2023-12-24T19:18:04.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T03:35:00.426Z",
+        "namespace_hint": "alps",
+        "project_hint": "mihal",
+        "project_id": 2512,
+        "project_path": "alps/mihal"
+      },
+      "revision": "d9fff61cb1c80e833185815c7d089d6d568103df",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mihal/-/tree/d9fff61cb1c80e833185815c7d089d6d568103df"
+    },
+    {
+      "item_id": "alps/mihal@missi_phoneext4_global-user-13-TP1A.220624.014-V14.0.6.0.TLUMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_global-user-13-TP1A.220624.014-V14.0.6.0.TLUMIXM-release-keys",
+        "commit": "1af85a53e829d0c802b6f49dcf22a137f3af875b",
+        "committed_date": "2023-03-09T19:42:58.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T03:35:00.426Z",
+        "namespace_hint": "alps",
+        "project_hint": "mihal",
+        "project_id": 2512,
+        "project_path": "alps/mihal"
+      },
+      "revision": "1af85a53e829d0c802b6f49dcf22a137f3af875b",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/mihal/-/tree/1af85a53e829d0c802b6f49dcf22a137f3af875b"
+    },
+    {
+      "item_id": "alps/ne1@NE1_00WW_FIH-user-9-PPR1.180610.011-00WW_5_22D-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "NE1_00WW_FIH-user-9-PPR1.180610.011-00WW_5_22D-release-keys",
+        "commit": "993c21b91c8cf890056b7da2dd6ef7eb2fe5cb90",
+        "committed_date": "2020-10-02T15:50:02.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T01:31:43.603Z",
+        "namespace_hint": "alps",
+        "project_hint": "ne1",
+        "project_id": 843,
+        "project_path": "alps/ne1"
+      },
+      "revision": "993c21b91c8cf890056b7da2dd6ef7eb2fe5cb90",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/ne1/-/tree/993c21b91c8cf890056b7da2dd6ef7eb2fe5cb90"
+    },
+    {
+      "item_id": "alps/ranger@ranger-user-7.1.1-2.99.J.6.46_201808312100-1535746834-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ranger-user-7.1.1-2.99.J.6.46_201808312100-1535746834-test-keys",
+        "commit": "e521dca8afbc81ac7e411cfd8b4dec2e2670eee0",
+        "committed_date": "2019-12-14T16:30:30.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T01:32:30.531Z",
+        "namespace_hint": "alps",
+        "project_hint": "ranger",
+        "project_id": 844,
+        "project_path": "alps/ranger"
+      },
+      "revision": "e521dca8afbc81ac7e411cfd8b4dec2e2670eee0",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/ranger/-/tree/e521dca8afbc81ac7e411cfd8b4dec2e2670eee0"
+    },
+    {
+      "item_id": "alps/sanstar77_jb@sanstar77_jb-user-4.1.2-JZO54K-eng.root.1367071954-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sanstar77_jb-user-4.1.2-JZO54K-eng.root.1367071954-test-keys",
+        "commit": "75939b1a6830aeadd7e5e8ee8b4f9853dea88f5f",
+        "committed_date": "2021-10-07T00:02:03.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T17:04:10.993Z",
+        "namespace_hint": "alps",
+        "project_hint": "sanstar77_jb",
+        "project_id": 1217,
+        "project_path": "alps/sanstar77_jb"
+      },
+      "revision": "75939b1a6830aeadd7e5e8ee8b4f9853dea88f5f",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/sanstar77_jb/-/tree/75939b1a6830aeadd7e5e8ee8b4f9853dea88f5f"
+    },
+    {
+      "item_id": "alps/sm34@sm34-user-9-2.103.J.1.366_202002131816-18-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sm34-user-9-2.103.J.1.366_202002131816-18-dev-keys",
+        "commit": "9719e8038fd55383842a52e9953ae480f7e23469",
+        "committed_date": "2020-05-08T16:46:56.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T01:33:28.166Z",
+        "namespace_hint": "alps",
+        "project_hint": "sm34",
+        "project_id": 845,
+        "project_path": "alps/sm34"
+      },
+      "revision": "9719e8038fd55383842a52e9953ae480f7e23469",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/sm34/-/tree/9719e8038fd55383842a52e9953ae480f7e23469"
+    },
+    {
+      "item_id": "alps/spm8666p1_64_bsp@full_spm8666p1_64_bsp-userdebug-8.1.0-V0.101-69CN_0_101-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_spm8666p1_64_bsp-userdebug-8.1.0-V0.101-69CN_0_101-test-keys",
+        "commit": "f3e9ef10f09a2c5ba13bd7d697350d046712afc8",
+        "committed_date": "2019-10-24T05:37:30.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T21:18:15.289Z",
+        "namespace_hint": "alps",
+        "project_hint": "spm8666p1_64_bsp",
+        "project_id": 1315,
+        "project_path": "alps/spm8666p1_64_bsp"
+      },
+      "revision": "f3e9ef10f09a2c5ba13bd7d697350d046712afc8",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/spm8666p1_64_bsp/-/tree/f3e9ef10f09a2c5ba13bd7d697350d046712afc8"
+    },
+    {
+      "item_id": "alps/spm8666p1_64_bsp@full_spm8666p1_64_bsp-userdebug-8.1.0-V0.370-00CN_0_370-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_spm8666p1_64_bsp-userdebug-8.1.0-V0.370-00CN_0_370-dev-keys",
+        "commit": "022d3d56bafc1b90100b48b24017c8a33065f3a1",
+        "committed_date": "2020-07-30T11:09:26.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T21:18:15.289Z",
+        "namespace_hint": "alps",
+        "project_hint": "spm8666p1_64_bsp",
+        "project_id": 1315,
+        "project_path": "alps/spm8666p1_64_bsp"
+      },
+      "revision": "022d3d56bafc1b90100b48b24017c8a33065f3a1",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/spm8666p1_64_bsp/-/tree/022d3d56bafc1b90100b48b24017c8a33065f3a1"
+    },
+    {
+      "item_id": "alps/stone@missi-user-12-SP1A.210812.016-V13.0.3.0.SLUEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SP1A.210812.016-V13.0.3.0.SLUEUXM-release-keys",
+        "commit": "4275c26014ff21b92ca306efe71dcd921fda259f",
+        "committed_date": "2022-09-06T19:50:34.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-09-06T16:47:07.075Z",
+        "namespace_hint": "alps",
+        "project_hint": "stone",
+        "project_id": 2412,
+        "project_path": "alps/stone"
+      },
+      "revision": "4275c26014ff21b92ca306efe71dcd921fda259f",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/stone/-/tree/4275c26014ff21b92ca306efe71dcd921fda259f"
+    },
+    {
+      "item_id": "alps/tb8768p1_64_a32@a53_a53_32-user-10-QP1A.190711.020-eng.root.20220711.180927-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "a53_a53_32-user-10-QP1A.190711.020-eng.root.20220711.180927-dev-keys",
+        "commit": "e07c5b977e6f453dbb2c80aff9eef2ec07d74e36",
+        "committed_date": "2025-05-18T21:48:38.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-05-18T18:46:22.495Z",
+        "namespace_hint": "alps",
+        "project_hint": "tb8768p1_64_a32",
+        "project_id": 5642,
+        "project_path": "alps/tb8768p1_64_a32"
+      },
+      "revision": "e07c5b977e6f453dbb2c80aff9eef2ec07d74e36",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/tb8768p1_64_a32/-/tree/e07c5b977e6f453dbb2c80aff9eef2ec07d74e36"
+    },
+    {
+      "item_id": "alps/tb8797p1_64_k419@sys_mssi_t_64_cn_armv82-user-13-TP1A.220624.014-mp1V1196-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_t_64_cn_armv82-user-13-TP1A.220624.014-mp1V1196-release-keys",
+        "commit": "4f9215a487e53efbf385ae997986d694fa89f07f",
+        "committed_date": "2024-11-20T18:17:36.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-11-20T15:14:35.708Z",
+        "namespace_hint": "alps",
+        "project_hint": "tb8797p1_64_k419",
+        "project_id": 5496,
+        "project_path": "alps/tb8797p1_64_k419"
+      },
+      "revision": "4f9215a487e53efbf385ae997986d694fa89f07f",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/tb8797p1_64_k419/-/tree/4f9215a487e53efbf385ae997986d694fa89f07f"
+    },
+    {
+      "item_id": "alps/wt6580_we_n@full_wt6580_we_n-user-7.0-NRD90M-1552641841-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_wt6580_we_n-user-7.0-NRD90M-1552641841-release-keys",
+        "commit": "df394032dd21426b4f4be500fd7ade8546d5206f",
+        "committed_date": "2024-10-20T17:15:31.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-10-20T14:15:03.209Z",
+        "namespace_hint": "alps",
+        "project_hint": "wt6580_we_n",
+        "project_id": 5463,
+        "project_path": "alps/wt6580_we_n"
+      },
+      "revision": "df394032dd21426b4f4be500fd7ade8546d5206f",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/wt6580_we_n/-/tree/df394032dd21426b4f4be500fd7ade8546d5206f"
+    },
+    {
+      "item_id": "alps/wt6580_we_n@full_wt6580_we_n-user-7.0-NRD90M-1571069147-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_wt6580_we_n-user-7.0-NRD90M-1571069147-release-keys",
+        "commit": "0cbf68554cb4f8af970c2acf2de378fc05f62ac9",
+        "committed_date": "2024-10-20T17:20:07.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-20T14:15:03.209Z",
+        "namespace_hint": "alps",
+        "project_hint": "wt6580_we_n",
+        "project_id": 5463,
+        "project_path": "alps/wt6580_we_n"
+      },
+      "revision": "0cbf68554cb4f8af970c2acf2de378fc05f62ac9",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/wt6580_we_n/-/tree/0cbf68554cb4f8af970c2acf2de378fc05f62ac9"
+    },
+    {
+      "item_id": "alps/xy_d09_tft_lflt@full_XY_D09_TFT_LFLT-user-10-QP1A.190711.020-mp1V948-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_XY_D09_TFT_LFLT-user-10-QP1A.190711.020-mp1V948-test-keys",
+        "commit": "335002d006ce65dba3145637676bf4695985079f",
+        "committed_date": "2020-12-30T02:54:27.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T01:34:17.272Z",
+        "namespace_hint": "alps",
+        "project_hint": "xy_d09_tft_lflt",
+        "project_id": 846,
+        "project_path": "alps/xy_d09_tft_lflt"
+      },
+      "revision": "335002d006ce65dba3145637676bf4695985079f",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/xy_d09_tft_lflt/-/tree/335002d006ce65dba3145637676bf4695985079f"
+    },
+    {
+      "item_id": "alps/z703_32@full_z703_32-user-6.0-MRA58K-1484985394-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_z703_32-user-6.0-MRA58K-1484985394-release-keys",
+        "commit": "6c3e1e1d4c68c625330ddd4c8ec8d1e1ab815bc7",
+        "committed_date": "2023-12-06T20:19:36.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-12-06T17:18:23.360Z",
+        "namespace_hint": "alps",
+        "project_hint": "z703_32",
+        "project_id": 4636,
+        "project_path": "alps/z703_32"
+      },
+      "revision": "6c3e1e1d4c68c625330ddd4c8ec8d1e1ab815bc7",
+      "url": "https://dumps.tadiphone.dev/dumps/alps/z703_32/-/tree/6c3e1e1d4c68c625330ddd4c8ec8d1e1ab815bc7"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

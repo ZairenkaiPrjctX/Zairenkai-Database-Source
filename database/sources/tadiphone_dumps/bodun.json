@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "bodun/turing@ums9620_2h10_ctcc-user-11-RP1A.201005.001-1695577094-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ums9620_2h10_ctcc-user-11-RP1A.201005.001-1695577094-release-keys",
+        "commit": "9a5e23459f3cf9d33a41a85ebd5c5a1f567862bc",
+        "committed_date": "2024-05-29T13:32:02.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-05-29T10:29:03.631Z",
+        "namespace_hint": "bodun",
+        "project_hint": "turing",
+        "project_id": 5289,
+        "project_path": "bodun/turing"
+      },
+      "revision": "9a5e23459f3cf9d33a41a85ebd5c5a1f567862bc",
+      "url": "https://dumps.tadiphone.dev/dumps/bodun/turing/-/tree/9a5e23459f3cf9d33a41a85ebd5c5a1f567862bc"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

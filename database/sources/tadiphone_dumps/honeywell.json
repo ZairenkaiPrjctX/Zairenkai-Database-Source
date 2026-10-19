@@ -1,0 +1,196 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "honeywell/ct47@qssi-user-12-412.01.05-G-0056-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-412.01.05-G-0056-release-keys",
+        "commit": "1c49e0dbbcf9265131156ed4ca7726f472a00a36",
+        "committed_date": "2023-12-06T21:42:29.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-12-06T18:40:05.044Z",
+        "namespace_hint": "honeywell",
+        "project_hint": "ct47",
+        "project_id": 4640,
+        "project_path": "honeywell/ct47"
+      },
+      "revision": "1c49e0dbbcf9265131156ed4ca7726f472a00a36",
+      "url": "https://dumps.tadiphone.dev/dumps/honeywell/ct47/-/tree/1c49e0dbbcf9265131156ed4ca7726f472a00a36"
+    },
+    {
+      "item_id": "honeywell/ct47@qssi-user-12-412.01.05-N-0056-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-412.01.05-N-0056-release-keys",
+        "commit": "4f52c923df8554a432d5272b1bcc31333cf5c18e",
+        "committed_date": "2023-12-06T22:09:29.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-12-06T18:40:05.044Z",
+        "namespace_hint": "honeywell",
+        "project_hint": "ct47",
+        "project_id": 4640,
+        "project_path": "honeywell/ct47"
+      },
+      "revision": "4f52c923df8554a432d5272b1bcc31333cf5c18e",
+      "url": "https://dumps.tadiphone.dev/dumps/honeywell/ct47/-/tree/4f52c923df8554a432d5272b1bcc31333cf5c18e"
+    },
+    {
+      "item_id": "honeywell/eda10a@qssi-user-12-SKQ1.220303.001-A12.31.06.0122-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220303.001-A12.31.06.0122-release-keys",
+        "commit": "0a427acd7aca9aa485b28cfab12434968ee743f7",
+        "committed_date": "2023-12-06T22:42:58.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-12-06T19:40:46.632Z",
+        "namespace_hint": "honeywell",
+        "project_hint": "eda10a",
+        "project_id": 4642,
+        "project_path": "honeywell/eda10a"
+      },
+      "revision": "0a427acd7aca9aa485b28cfab12434968ee743f7",
+      "url": "https://dumps.tadiphone.dev/dumps/honeywell/eda10a/-/tree/0a427acd7aca9aa485b28cfab12434968ee743f7"
+    },
+    {
+      "item_id": "honeywell/eda52@qssi-user-11-RKQ1.210107.001-218.01.15.0185-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210107.001-218.01.15.0185-release-keys",
+        "commit": "9e7b84ed9c133c8d92c456e85d92e127a19d365c",
+        "committed_date": "2023-12-06T22:53:19.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-15T10:22:53.827Z",
+        "namespace_hint": "honeywell",
+        "project_hint": "eda52",
+        "project_id": 4083,
+        "project_path": "honeywell/eda52"
+      },
+      "revision": "9e7b84ed9c133c8d92c456e85d92e127a19d365c",
+      "url": "https://dumps.tadiphone.dev/dumps/honeywell/eda52/-/tree/9e7b84ed9c133c8d92c456e85d92e127a19d365c"
+    },
+    {
+      "item_id": "honeywell/eda52@qssi-user-11-RKQ1.210107.001-218.02.15.0185-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210107.001-218.02.15.0185-release-keys",
+        "commit": "f410817fa486554ba87b471462397df7ba1f53d5",
+        "committed_date": "2023-03-04T13:48:17.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-15T10:22:53.827Z",
+        "namespace_hint": "honeywell",
+        "project_hint": "eda52",
+        "project_id": 4083,
+        "project_path": "honeywell/eda52"
+      },
+      "revision": "f410817fa486554ba87b471462397df7ba1f53d5",
+      "url": "https://dumps.tadiphone.dev/dumps/honeywell/eda52/-/tree/f410817fa486554ba87b471462397df7ba1f53d5"
+    },
+    {
+      "item_id": "honeywell/eda52@qssi-user-11-RKQ1.210107.001-221.01.06.0060-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210107.001-221.01.06.0060-release-keys",
+        "commit": "b2e59bd6f29eea1310439f28475a3e5a30f147b1",
+        "committed_date": "2023-12-06T23:03:33.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-15T10:22:53.827Z",
+        "namespace_hint": "honeywell",
+        "project_hint": "eda52",
+        "project_id": 4083,
+        "project_path": "honeywell/eda52"
+      },
+      "revision": "b2e59bd6f29eea1310439f28475a3e5a30f147b1",
+      "url": "https://dumps.tadiphone.dev/dumps/honeywell/eda52/-/tree/b2e59bd6f29eea1310439f28475a3e5a30f147b1"
+    },
+    {
+      "item_id": "honeywell/eda52@qssi-user-13-TKQ1.230420.001-222.01.01.0147-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.230420.001-222.01.01.0147-release-keys",
+        "commit": "b9c830b9b0ece01e131f9a4199dd70391720d87b",
+        "committed_date": "2024-12-15T13:16:37.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-12-15T10:22:53.827Z",
+        "namespace_hint": "honeywell",
+        "project_hint": "eda52",
+        "project_id": 4083,
+        "project_path": "honeywell/eda52"
+      },
+      "revision": "b9c830b9b0ece01e131f9a4199dd70391720d87b",
+      "url": "https://dumps.tadiphone.dev/dumps/honeywell/eda52/-/tree/b9c830b9b0ece01e131f9a4199dd70391720d87b"
+    },
+    {
+      "item_id": "honeywell/hon4290@qssi-user-12-312.00.02-G-0045-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-312.00.02-G-0045-release-keys",
+        "commit": "193b2fcb5f171f75a39f7c14415f07ee9338f998",
+        "committed_date": "2023-12-06T22:20:23.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-12-06T19:18:14.693Z",
+        "namespace_hint": "honeywell",
+        "project_hint": "hon4290",
+        "project_id": 4641,
+        "project_path": "honeywell/hon4290"
+      },
+      "revision": "193b2fcb5f171f75a39f7c14415f07ee9338f998",
+      "url": "https://dumps.tadiphone.dev/dumps/honeywell/hon4290/-/tree/193b2fcb5f171f75a39f7c14415f07ee9338f998"
+    },
+    {
+      "item_id": "honeywell/hon660@hon660-user-12-93.00.05-0054-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "hon660-user-12-93.00.05-0054-release-keys",
+        "commit": "9191f5f03f30de83ca91881af20b2d450d0dc57c",
+        "committed_date": "2024-03-20T17:32:16.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-20T14:35:05.323Z",
+        "namespace_hint": "honeywell",
+        "project_hint": "hon660",
+        "project_id": 4643,
+        "project_path": "honeywell/hon660"
+      },
+      "revision": "9191f5f03f30de83ca91881af20b2d450d0dc57c",
+      "url": "https://dumps.tadiphone.dev/dumps/honeywell/hon660/-/tree/9191f5f03f30de83ca91881af20b2d450d0dc57c"
+    },
+    {
+      "item_id": "honeywell/hon660@hon660-user-12-94.00.01-0016-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "hon660-user-12-94.00.01-0016-release-keys",
+        "commit": "a14ef19fc00c51bf7680c4976a016e487c4ccdad",
+        "committed_date": "2023-12-06T23:20:34.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-20T14:35:05.323Z",
+        "namespace_hint": "honeywell",
+        "project_hint": "hon660",
+        "project_id": 4643,
+        "project_path": "honeywell/hon660"
+      },
+      "revision": "a14ef19fc00c51bf7680c4976a016e487c4ccdad",
+      "url": "https://dumps.tadiphone.dev/dumps/honeywell/hon660/-/tree/a14ef19fc00c51bf7680c4976a016e487c4ccdad"
+    },
+    {
+      "item_id": "honeywell/hon660@hon660-user-12-94.00.03-0037-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "hon660-user-12-94.00.03-0037-release-keys",
+        "commit": "681062daaafb89039f6bb5cb73fd84753d3c2b83",
+        "committed_date": "2023-12-06T23:41:32.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-20T14:35:05.323Z",
+        "namespace_hint": "honeywell",
+        "project_hint": "hon660",
+        "project_id": 4643,
+        "project_path": "honeywell/hon660"
+      },
+      "revision": "681062daaafb89039f6bb5cb73fd84753d3c2b83",
+      "url": "https://dumps.tadiphone.dev/dumps/honeywell/hon660/-/tree/681062daaafb89039f6bb5cb73fd84753d3c2b83"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

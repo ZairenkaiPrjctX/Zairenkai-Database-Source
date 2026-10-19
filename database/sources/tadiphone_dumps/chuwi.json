@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "chuwi/hi9pro@full_x20p_wqxga_84-user-8.0.0-O00623-1542285175-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_x20p_wqxga_84-user-8.0.0-O00623-1542285175-release-keys",
+        "commit": "f9157b420f7efb557d45f745d1ae219ca60b89ac",
+        "committed_date": "2019-07-25T23:49:47.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T16:06:04.525Z",
+        "namespace_hint": "chuwi",
+        "project_hint": "hi9pro",
+        "project_id": 1924,
+        "project_path": "chuwi/hi9pro"
+      },
+      "revision": "f9157b420f7efb557d45f745d1ae219ca60b89ac",
+      "url": "https://dumps.tadiphone.dev/dumps/chuwi/hi9pro/-/tree/f9157b420f7efb557d45f745d1ae219ca60b89ac"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

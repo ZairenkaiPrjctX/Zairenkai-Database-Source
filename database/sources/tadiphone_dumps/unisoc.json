@@ -1,0 +1,60 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "unisoc/uis7870sc-2h10@uis7870sc_2h10_nosec-user-13-TP1A.220624.014-eng.ls.20251126.172552-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "uis7870sc_2h10_nosec-user-13-TP1A.220624.014-eng.ls.20251126.172552-release-keys",
+        "commit": "0feec4ef3d4c861709784c87000f142ad9d0f313",
+        "committed_date": "2026-06-10T04:18:56.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-06-10T01:16:53.377Z",
+        "namespace_hint": "unisoc",
+        "project_hint": "uis7870sc-2h10",
+        "project_id": 5775,
+        "project_path": "unisoc/uis7870sc-2h10"
+      },
+      "revision": "0feec4ef3d4c861709784c87000f142ad9d0f313",
+      "url": "https://dumps.tadiphone.dev/dumps/unisoc/uis7870sc-2h10/-/tree/0feec4ef3d4c861709784c87000f142ad9d0f313"
+    },
+    {
+      "item_id": "unisoc/ums512_1h10@aosp_arm64-user-11-RJR1.210303.001-7181974-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_arm64-user-11-RJR1.210303.001-7181974-release-keys",
+        "commit": "0491484c3ee1d65a3842470f62fe101839b50161",
+        "committed_date": "2021-04-04T22:31:06.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T15:43:02.691Z",
+        "namespace_hint": "unisoc",
+        "project_hint": "ums512_1h10",
+        "project_id": 1141,
+        "project_path": "unisoc/ums512_1h10"
+      },
+      "revision": "0491484c3ee1d65a3842470f62fe101839b50161",
+      "url": "https://dumps.tadiphone.dev/dumps/unisoc/ums512_1h10/-/tree/0491484c3ee1d65a3842470f62fe101839b50161"
+    },
+    {
+      "item_id": "unisoc/ums512_1h10@ums512_1h10_Natv-user-11-RP1A.201005.001-13427-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ums512_1h10_Natv-user-11-RP1A.201005.001-13427-release-keys",
+        "commit": "8bb7f241ae7909266aaffed0a8adefaf3665abb4",
+        "committed_date": "2021-04-04T23:07:54.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T15:43:02.691Z",
+        "namespace_hint": "unisoc",
+        "project_hint": "ums512_1h10",
+        "project_id": 1141,
+        "project_path": "unisoc/ums512_1h10"
+      },
+      "revision": "8bb7f241ae7909266aaffed0a8adefaf3665abb4",
+      "url": "https://dumps.tadiphone.dev/dumps/unisoc/ums512_1h10/-/tree/8bb7f241ae7909266aaffed0a8adefaf3665abb4"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

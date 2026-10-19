@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "8849/tank3@sys_mssi_g91v95c2k_dfl_eea-user-13-TP1A.220624.014-root.20231110.135415-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_g91v95c2k_dfl_eea-user-13-TP1A.220624.014-root.20231110.135415-release-keys",
+        "commit": "c4e4d821beb0ab56923d9e3b8c4e5e10a724aeed",
+        "committed_date": "2024-08-28T00:22:29.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-08-27T21:19:17.806Z",
+        "namespace_hint": "8849",
+        "project_hint": "tank3",
+        "project_id": 5399,
+        "project_path": "8849/tank3"
+      },
+      "revision": "c4e4d821beb0ab56923d9e3b8c4e5e10a724aeed",
+      "url": "https://dumps.tadiphone.dev/dumps/8849/tank3/-/tree/c4e4d821beb0ab56923d9e3b8c4e5e10a724aeed"
+    },
+    {
+      "item_id": "8849/tank_mini_1@sys_mssi_g95v89c2k_dfl_tee8849-user-13-TP1A.220624.014-root.20231213.125627-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_g95v89c2k_dfl_tee8849-user-13-TP1A.220624.014-root.20231213.125627-release-keys",
+        "commit": "7aac6993864d6093e430cbf33681626980174b8d",
+        "committed_date": "2024-03-28T03:02:30.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-27T23:59:42.802Z",
+        "namespace_hint": "8849",
+        "project_hint": "tank_mini_1",
+        "project_id": 5205,
+        "project_path": "8849/tank_mini_1"
+      },
+      "revision": "7aac6993864d6093e430cbf33681626980174b8d",
+      "url": "https://dumps.tadiphone.dev/dumps/8849/tank_mini_1/-/tree/7aac6993864d6093e430cbf33681626980174b8d"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

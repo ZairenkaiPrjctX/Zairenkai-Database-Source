@@ -1,0 +1,298 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "adt-3/adt3@adt3-user-10-QTT1.200116.002.B6-6245789-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "adt3-user-10-QTT1.200116.002.B6-6245789-release-keys",
+        "commit": "f0856ad62121383bce3acbc51249debbdec2f292",
+        "committed_date": "2021-07-16T00:52:06.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-12-02T20:03:00.035Z",
+        "namespace_hint": "adt-3",
+        "project_hint": "adt3",
+        "project_id": 788,
+        "project_path": "adt-3/adt3"
+      },
+      "revision": "f0856ad62121383bce3acbc51249debbdec2f292",
+      "url": "https://dumps.tadiphone.dev/dumps/adt-3/adt3/-/tree/f0856ad62121383bce3acbc51249debbdec2f292"
+    },
+    {
+      "item_id": "adt-3/adt3@adt3-user-11-RP1A.200521.001-6516341-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "adt3-user-11-RP1A.200521.001-6516341-release-keys",
+        "commit": "c9764afc08032d86c9efc8aec46cea952ad08474",
+        "committed_date": "2020-06-25T15:07:33.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-12-02T20:03:00.035Z",
+        "namespace_hint": "adt-3",
+        "project_hint": "adt3",
+        "project_id": 788,
+        "project_path": "adt-3/adt3"
+      },
+      "revision": "c9764afc08032d86c9efc8aec46cea952ad08474",
+      "url": "https://dumps.tadiphone.dev/dumps/adt-3/adt3/-/tree/c9764afc08032d86c9efc8aec46cea952ad08474"
+    },
+    {
+      "item_id": "adt-3/adt3@adt3-user-11-RTT1.200909.003.A2-6832896-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "adt3-user-11-RTT1.200909.003.A2-6832896-release-keys",
+        "commit": "328215a309b9d47bd508911600af6e4adc120adc",
+        "committed_date": "2021-06-24T01:25:25.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-12-02T20:03:00.035Z",
+        "namespace_hint": "adt-3",
+        "project_hint": "adt3",
+        "project_id": 788,
+        "project_path": "adt-3/adt3"
+      },
+      "revision": "328215a309b9d47bd508911600af6e4adc120adc",
+      "url": "https://dumps.tadiphone.dev/dumps/adt-3/adt3/-/tree/328215a309b9d47bd508911600af6e4adc120adc"
+    },
+    {
+      "item_id": "adt-3/adt3@adt3-user-12-SPB3.210618.014-7541949-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "adt3-user-12-SPB3.210618.014-7541949-release-keys",
+        "commit": "72e6a98060d93b56d31032a67be4902cfcf311d3",
+        "committed_date": "2021-07-16T00:58:28.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-12-02T20:03:00.035Z",
+        "namespace_hint": "adt-3",
+        "project_hint": "adt3",
+        "project_id": 788,
+        "project_path": "adt-3/adt3"
+      },
+      "revision": "72e6a98060d93b56d31032a67be4902cfcf311d3",
+      "url": "https://dumps.tadiphone.dev/dumps/adt-3/adt3/-/tree/72e6a98060d93b56d31032a67be4902cfcf311d3"
+    },
+    {
+      "item_id": "adt-3/adt3@adt3-user-12-STT1.211025.001.Z4-7928920-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "adt3-user-12-STT1.211025.001.Z4-7928920-release-keys",
+        "commit": "2ded3c7379459fb22d7cc74aa1aebbca58bb8f9e",
+        "committed_date": "2021-12-01T06:13:11.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-12-02T20:03:00.035Z",
+        "namespace_hint": "adt-3",
+        "project_hint": "adt3",
+        "project_id": 788,
+        "project_path": "adt-3/adt3"
+      },
+      "revision": "2ded3c7379459fb22d7cc74aa1aebbca58bb8f9e",
+      "url": "https://dumps.tadiphone.dev/dumps/adt-3/adt3/-/tree/2ded3c7379459fb22d7cc74aa1aebbca58bb8f9e"
+    },
+    {
+      "item_id": "adt-3/adt3@adt3-user-12-STTA.210903.002-7710029-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "adt3-user-12-STTA.210903.002-7710029-release-keys",
+        "commit": "d10fd81f454b5dba113931ec2cee3d584ed3faa0",
+        "committed_date": "2021-09-24T21:28:21.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-12-02T20:03:00.035Z",
+        "namespace_hint": "adt-3",
+        "project_hint": "adt3",
+        "project_id": 788,
+        "project_path": "adt-3/adt3"
+      },
+      "revision": "d10fd81f454b5dba113931ec2cee3d584ed3faa0",
+      "url": "https://dumps.tadiphone.dev/dumps/adt-3/adt3/-/tree/d10fd81f454b5dba113931ec2cee3d584ed3faa0"
+    },
+    {
+      "item_id": "adt-3/adt3@adt3-user-13-TTT1.220909.001.B7-9305992-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "adt3-user-13-TTT1.220909.001.B7-9305992-release-keys",
+        "commit": "e285074d85c89a8b0c311316f27ecef72d5cd56c",
+        "committed_date": "2022-12-02T23:00:54.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-12-02T20:03:00.035Z",
+        "namespace_hint": "adt-3",
+        "project_hint": "adt3",
+        "project_id": 788,
+        "project_path": "adt-3/adt3"
+      },
+      "revision": "e285074d85c89a8b0c311316f27ecef72d5cd56c",
+      "url": "https://dumps.tadiphone.dev/dumps/adt-3/adt3/-/tree/e285074d85c89a8b0c311316f27ecef72d5cd56c"
+    },
+    {
+      "item_id": "adt-3/adt3@adt3-user-S-SPB2.210513.009-7423495-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "adt3-user-S-SPB2.210513.009-7423495-release-keys",
+        "commit": "a37b068366777dd50dc5e8e0f295248277312f46",
+        "committed_date": "2021-06-17T21:12:53.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-12-02T20:03:00.035Z",
+        "namespace_hint": "adt-3",
+        "project_hint": "adt3",
+        "project_id": 788,
+        "project_path": "adt-3/adt3"
+      },
+      "revision": "a37b068366777dd50dc5e8e0f295248277312f46",
+      "url": "https://dumps.tadiphone.dev/dumps/adt-3/adt3/-/tree/a37b068366777dd50dc5e8e0f295248277312f46"
+    },
+    {
+      "item_id": "adt-3/adt3@adt3-user-S-SPP1.210122.020.A3-7145137-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "adt3-user-S-SPP1.210122.020.A3-7145137-release-keys",
+        "commit": "bb61d70bb885fcd8aa6b9d94128a0d21840a10d3",
+        "committed_date": "2021-03-08T02:28:09.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-12-02T20:03:00.035Z",
+        "namespace_hint": "adt-3",
+        "project_hint": "adt3",
+        "project_id": 788,
+        "project_path": "adt-3/adt3"
+      },
+      "revision": "bb61d70bb885fcd8aa6b9d94128a0d21840a10d3",
+      "url": "https://dumps.tadiphone.dev/dumps/adt-3/adt3/-/tree/bb61d70bb885fcd8aa6b9d94128a0d21840a10d3"
+    },
+    {
+      "item_id": "adt-3/adt3@adt3-user-S-SPP2.210219.010-7201729-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "adt3-user-S-SPP2.210219.010-7201729-release-keys",
+        "commit": "d7e4b0c98f0cfde5948f4c15663ade56dae5f0fd",
+        "committed_date": "2021-03-17T18:38:43.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-12-02T20:03:00.035Z",
+        "namespace_hint": "adt-3",
+        "project_hint": "adt3",
+        "project_id": 788,
+        "project_path": "adt-3/adt3"
+      },
+      "revision": "d7e4b0c98f0cfde5948f4c15663ade56dae5f0fd",
+      "url": "https://dumps.tadiphone.dev/dumps/adt-3/adt3/-/tree/d7e4b0c98f0cfde5948f4c15663ade56dae5f0fd"
+    },
+    {
+      "item_id": "adt-3/adt3@adt3_gtv-user-12-SPB3.210618.014-7541949-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "adt3_gtv-user-12-SPB3.210618.014-7541949-release-keys",
+        "commit": "7fc4ca1a8e2cc70ad11f2078a1445a66d3f18224",
+        "committed_date": "2021-07-16T01:09:32.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-12-02T20:03:00.035Z",
+        "namespace_hint": "adt-3",
+        "project_hint": "adt3",
+        "project_id": 788,
+        "project_path": "adt-3/adt3"
+      },
+      "revision": "7fc4ca1a8e2cc70ad11f2078a1445a66d3f18224",
+      "url": "https://dumps.tadiphone.dev/dumps/adt-3/adt3/-/tree/7fc4ca1a8e2cc70ad11f2078a1445a66d3f18224"
+    },
+    {
+      "item_id": "adt-3/adt3@adt3_gtv-user-12-STT1.211025.001.Z3-7911121-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "adt3_gtv-user-12-STT1.211025.001.Z3-7911121-release-keys",
+        "commit": "2fcd348f83d343ec3be4b3024f2dc4df4d0d6ef2",
+        "committed_date": "2021-12-01T06:07:47.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-12-02T20:03:00.035Z",
+        "namespace_hint": "adt-3",
+        "project_hint": "adt3",
+        "project_id": 788,
+        "project_path": "adt-3/adt3"
+      },
+      "revision": "2fcd348f83d343ec3be4b3024f2dc4df4d0d6ef2",
+      "url": "https://dumps.tadiphone.dev/dumps/adt-3/adt3/-/tree/2fcd348f83d343ec3be4b3024f2dc4df4d0d6ef2"
+    },
+    {
+      "item_id": "adt-3/adt3@adt3_gtv-user-12-STTA.210903.002-7710029-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "adt3_gtv-user-12-STTA.210903.002-7710029-release-keys",
+        "commit": "7c59413875dd619e474ac3413aa14552fdaad63e",
+        "committed_date": "2021-09-24T21:34:18.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-12-02T20:03:00.035Z",
+        "namespace_hint": "adt-3",
+        "project_hint": "adt3",
+        "project_id": 788,
+        "project_path": "adt-3/adt3"
+      },
+      "revision": "7c59413875dd619e474ac3413aa14552fdaad63e",
+      "url": "https://dumps.tadiphone.dev/dumps/adt-3/adt3/-/tree/7c59413875dd619e474ac3413aa14552fdaad63e"
+    },
+    {
+      "item_id": "adt-3/adt3@adt3_gtv-user-13-TTT1.220909.001.B7-9305992-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "adt3_gtv-user-13-TTT1.220909.001.B7-9305992-release-keys",
+        "commit": "4fc8b6834b0544001101597aab186ca4928ec31e",
+        "committed_date": "2022-12-02T23:06:37.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-12-02T20:03:00.035Z",
+        "namespace_hint": "adt-3",
+        "project_hint": "adt3",
+        "project_id": 788,
+        "project_path": "adt-3/adt3"
+      },
+      "revision": "4fc8b6834b0544001101597aab186ca4928ec31e",
+      "url": "https://dumps.tadiphone.dev/dumps/adt-3/adt3/-/tree/4fc8b6834b0544001101597aab186ca4928ec31e"
+    },
+    {
+      "item_id": "adt-3/adt3@adt3_gtv-user-S-SPB2.210513.009-7423495-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "adt3_gtv-user-S-SPB2.210513.009-7423495-release-keys",
+        "commit": "ecdad88c4157a01f75488553b01106822e018746",
+        "committed_date": "2021-06-17T21:13:11.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-12-02T20:03:00.035Z",
+        "namespace_hint": "adt-3",
+        "project_hint": "adt3",
+        "project_id": 788,
+        "project_path": "adt-3/adt3"
+      },
+      "revision": "ecdad88c4157a01f75488553b01106822e018746",
+      "url": "https://dumps.tadiphone.dev/dumps/adt-3/adt3/-/tree/ecdad88c4157a01f75488553b01106822e018746"
+    },
+    {
+      "item_id": "adt-3/adt3@adt3_gtv-user-S-SPP1.210122.020.A3-7145137-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "adt3_gtv-user-S-SPP1.210122.020.A3-7145137-release-keys",
+        "commit": "8c50f271572d8bb1e80a218f216511c0546f6782",
+        "committed_date": "2021-03-08T02:28:27.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-12-02T20:03:00.035Z",
+        "namespace_hint": "adt-3",
+        "project_hint": "adt3",
+        "project_id": 788,
+        "project_path": "adt-3/adt3"
+      },
+      "revision": "8c50f271572d8bb1e80a218f216511c0546f6782",
+      "url": "https://dumps.tadiphone.dev/dumps/adt-3/adt3/-/tree/8c50f271572d8bb1e80a218f216511c0546f6782"
+    },
+    {
+      "item_id": "adt-3/adt3@adt3_gtv-user-S-SPP2.210219.010-7201729-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "adt3_gtv-user-S-SPP2.210219.010-7201729-release-keys",
+        "commit": "637bfc804f0f99ace60bf04deb7e322650989e81",
+        "committed_date": "2021-03-17T18:38:52.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-12-02T20:03:00.035Z",
+        "namespace_hint": "adt-3",
+        "project_hint": "adt3",
+        "project_id": 788,
+        "project_path": "adt-3/adt3"
+      },
+      "revision": "637bfc804f0f99ace60bf04deb7e322650989e81",
+      "url": "https://dumps.tadiphone.dev/dumps/adt-3/adt3/-/tree/637bfc804f0f99ace60bf04deb7e322650989e81"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

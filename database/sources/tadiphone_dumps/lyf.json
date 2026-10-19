@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "lyf/ls-5013@LS-5013-user-6.0-MRA58K-1468585115-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "LS-5013-user-6.0-MRA58K-1468585115-release-keys",
+        "commit": "7b05c88bfea8d77f5caa878e2544f031ad933ecd",
+        "committed_date": "2021-08-15T07:34:19.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T20:19:40.497Z",
+        "namespace_hint": "lyf",
+        "project_hint": "ls-5013",
+        "project_id": 2127,
+        "project_path": "lyf/ls-5013"
+      },
+      "revision": "7b05c88bfea8d77f5caa878e2544f031ad933ecd",
+      "url": "https://dumps.tadiphone.dev/dumps/lyf/ls-5013/-/tree/7b05c88bfea8d77f5caa878e2544f031ad933ecd"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

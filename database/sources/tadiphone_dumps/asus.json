@@ -1,0 +1,3562 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "asus/52@asus-52",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "asus-52",
+        "commit": "5869709387e263d299bf8052703a4b82bcfdcfca",
+        "committed_date": "2019-07-07T17:35:57.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T13:30:03.092Z",
+        "namespace_hint": "asus",
+        "project_hint": "52",
+        "project_id": 1038,
+        "project_path": "asus/52"
+      },
+      "revision": "5869709387e263d299bf8052703a4b82bcfdcfca",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/52/-/tree/5869709387e263d299bf8052703a4b82bcfdcfca"
+    },
+    {
+      "item_id": "asus/ZS620KL@ZS620KL-user-10-QKQ1.190406.002-52-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ZS620KL-user-10-QKQ1.190406.002-52-release-keys",
+        "commit": "3f7345e14f8fa844d8147c86a2f1d89675985e9e",
+        "committed_date": "2019-07-08T16:09:30.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T15:37:07.255Z",
+        "namespace_hint": "asus",
+        "project_hint": "ZS620KL",
+        "project_id": 1890,
+        "project_path": "asus/ZS620KL"
+      },
+      "revision": "3f7345e14f8fa844d8147c86a2f1d89675985e9e",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/ZS620KL/-/tree/3f7345e14f8fa844d8147c86a2f1d89675985e9e"
+    },
+    {
+      "item_id": "asus/asus-ai2205@qssi-user-15-AQ3A.240812.002-35.0604.0820.88-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-15-AQ3A.240812.002-35.0604.0820.88-release-keys",
+        "commit": "4c8c7d398038a908159eb4478efff6fefceb3c10",
+        "committed_date": "2026-09-10T08:09:04.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-09-10T05:02:37.092Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus-ai2205",
+        "project_id": 5832,
+        "project_path": "asus/asus-ai2205"
+      },
+      "revision": "4c8c7d398038a908159eb4478efff6fefceb3c10",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus-ai2205/-/tree/4c8c7d398038a908159eb4478efff6fefceb3c10"
+    },
+    {
+      "item_id": "asus/asus-ai2302@qssi-user-15-AQ3A.240812.002-35.0604.0404.165-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-15-AQ3A.240812.002-35.0604.0404.165-release-keys",
+        "commit": "315e1bf492954a7303540366b25c2e2a19a6ffe1",
+        "committed_date": "2026-09-10T07:31:20.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-09-10T04:26:22.818Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus-ai2302",
+        "project_id": 5831,
+        "project_path": "asus/asus-ai2302"
+      },
+      "revision": "315e1bf492954a7303540366b25c2e2a19a6ffe1",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus-ai2302/-/tree/315e1bf492954a7303540366b25c2e2a19a6ffe1"
+    },
+    {
+      "item_id": "asus/asus_a001d_2@WW_Phone-user-9-PPR1-16.14.2006.305-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "WW_Phone-user-9-PPR1-16.14.2006.305-release-keys",
+        "commit": "96fbfd44c07c54cd29ff3082dd4001fb392aa376",
+        "committed_date": "2021-09-01T14:06:36.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T00:39:36.552Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_a001d_2",
+        "project_id": 1443,
+        "project_path": "asus/asus_a001d_2"
+      },
+      "revision": "96fbfd44c07c54cd29ff3082dd4001fb392aa376",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_a001d_2/-/tree/96fbfd44c07c54cd29ff3082dd4001fb392aa376"
+    },
+    {
+      "item_id": "asus/asus_a002@WW_Phone-user-7.0-NRD90M-14.1600.1805.51-20180626-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "WW_Phone-user-7.0-NRD90M-14.1600.1805.51-20180626-release-keys",
+        "commit": "aa772247e0ab0e72db407d8fadbc5e8db1ef6c60",
+        "committed_date": "2022-07-24T03:03:45.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-07-24T00:01:36.435Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_a002",
+        "project_id": 2372,
+        "project_path": "asus/asus_a002"
+      },
+      "revision": "aa772247e0ab0e72db407d8fadbc5e8db1ef6c60",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_a002/-/tree/aa772247e0ab0e72db407d8fadbc5e8db1ef6c60"
+    },
+    {
+      "item_id": "asus/asus_a002_2@WW_Phone-user-7.0-NRD90M-14.1610.1802.18-20180321-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "WW_Phone-user-7.0-NRD90M-14.1610.1802.18-20180321-release-keys",
+        "commit": "7dcd41d5389a2c6b9f2c6075bc6c4b445434a115",
+        "committed_date": "2022-07-29T13:19:25.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-07-29T10:17:39.193Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_a002_2",
+        "project_id": 2378,
+        "project_path": "asus/asus_a002_2"
+      },
+      "revision": "7dcd41d5389a2c6b9f2c6075bc6c4b445434a115",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_a002_2/-/tree/7dcd41d5389a2c6b9f2c6075bc6c4b445434a115"
+    },
+    {
+      "item_id": "asus/asus_ai2201@qssi-user-12-SKQ1.220406.001-32.2810.2205.63-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220406.001-32.2810.2205.63-0-release-keys",
+        "commit": "84e6d45a47141490e4a18d5d110f6217227984dd",
+        "committed_date": "2022-07-07T06:36:00.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T02:21:37.210Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2201",
+        "project_id": 2349,
+        "project_path": "asus/asus_ai2201"
+      },
+      "revision": "84e6d45a47141490e4a18d5d110f6217227984dd",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2201/-/tree/84e6d45a47141490e4a18d5d110f6217227984dd"
+    },
+    {
+      "item_id": "asus/asus_ai2201@qssi-user-12-SKQ1.220406.001-32.2810.2206.95-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220406.001-32.2810.2206.95-0-release-keys",
+        "commit": "a2c2fd5dc360af53eef5a0da09f75272ca4219e7",
+        "committed_date": "2022-07-22T09:30:03.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T02:21:37.210Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2201",
+        "project_id": 2349,
+        "project_path": "asus/asus_ai2201"
+      },
+      "revision": "a2c2fd5dc360af53eef5a0da09f75272ca4219e7",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2201/-/tree/a2c2fd5dc360af53eef5a0da09f75272ca4219e7"
+    },
+    {
+      "item_id": "asus/asus_ai2201@qssi-user-12-SKQ1.220406.001-32.2810.2206.97-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220406.001-32.2810.2206.97-0-release-keys",
+        "commit": "ae360c5c86fad2865ddfb05098d442abae7ba1a7",
+        "committed_date": "2022-08-03T09:31:41.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T02:21:37.210Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2201",
+        "project_id": 2349,
+        "project_path": "asus/asus_ai2201"
+      },
+      "revision": "ae360c5c86fad2865ddfb05098d442abae7ba1a7",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2201/-/tree/ae360c5c86fad2865ddfb05098d442abae7ba1a7"
+    },
+    {
+      "item_id": "asus/asus_ai2201@qssi-user-12-SKQ1.220406.001-32.2810.2207.134-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220406.001-32.2810.2207.134-0-release-keys",
+        "commit": "bca28b4c8fbae039b9e95d418334bb9d00c5b879",
+        "committed_date": "2022-08-17T07:02:02.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T02:21:37.210Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2201",
+        "project_id": 2349,
+        "project_path": "asus/asus_ai2201"
+      },
+      "revision": "bca28b4c8fbae039b9e95d418334bb9d00c5b879",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2201/-/tree/bca28b4c8fbae039b9e95d418334bb9d00c5b879"
+    },
+    {
+      "item_id": "asus/asus_ai2201@qssi-user-12-SKQ1.220406.001-32.2810.2208.160-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220406.001-32.2810.2208.160-0-release-keys",
+        "commit": "1b928371272907d28a81fd20c17d6ab564caf576",
+        "committed_date": "2022-08-31T17:55:51.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T02:21:37.210Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2201",
+        "project_id": 2349,
+        "project_path": "asus/asus_ai2201"
+      },
+      "revision": "1b928371272907d28a81fd20c17d6ab564caf576",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2201/-/tree/1b928371272907d28a81fd20c17d6ab564caf576"
+    },
+    {
+      "item_id": "asus/asus_ai2201@qssi-user-12-SKQ1.220406.001-32.2810.2209.195-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220406.001-32.2810.2209.195-0-release-keys",
+        "commit": "368f774fa8ae0e43a37565f1ce50e674ea76b9a9",
+        "committed_date": "2022-10-03T16:19:03.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T02:21:37.210Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2201",
+        "project_id": 2349,
+        "project_path": "asus/asus_ai2201"
+      },
+      "revision": "368f774fa8ae0e43a37565f1ce50e674ea76b9a9",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2201/-/tree/368f774fa8ae0e43a37565f1ce50e674ea76b9a9"
+    },
+    {
+      "item_id": "asus/asus_ai2201@qssi-user-12-SKQ1.220406.001-32.2810.2210.216-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220406.001-32.2810.2210.216-0-release-keys",
+        "commit": "b2e88f11a88274a3fbef6ef80326b1b2370501e4",
+        "committed_date": "2022-11-03T21:45:25.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T02:21:37.210Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2201",
+        "project_id": 2349,
+        "project_path": "asus/asus_ai2201"
+      },
+      "revision": "b2e88f11a88274a3fbef6ef80326b1b2370501e4",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2201/-/tree/b2e88f11a88274a3fbef6ef80326b1b2370501e4"
+    },
+    {
+      "item_id": "asus/asus_ai2201@qssi-user-12-SKQ1.220406.001-32.2810.2210.220-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220406.001-32.2810.2210.220-0-release-keys",
+        "commit": "8778e189606ebe145fe724daf6910c7dc072d5f2",
+        "committed_date": "2022-12-10T14:38:35.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T02:21:37.210Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2201",
+        "project_id": 2349,
+        "project_path": "asus/asus_ai2201"
+      },
+      "revision": "8778e189606ebe145fe724daf6910c7dc072d5f2",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2201/-/tree/8778e189606ebe145fe724daf6910c7dc072d5f2"
+    },
+    {
+      "item_id": "asus/asus_ai2201@qssi-user-12-SKQ1.220406.001-32.2810.2212.241-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220406.001-32.2810.2212.241-0-release-keys",
+        "commit": "5cba8867f1f5f5e1a1290b8a949871bfd06eb8c7",
+        "committed_date": "2023-01-04T15:29:45.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T02:21:37.210Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2201",
+        "project_id": 2349,
+        "project_path": "asus/asus_ai2201"
+      },
+      "revision": "5cba8867f1f5f5e1a1290b8a949871bfd06eb8c7",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2201/-/tree/5cba8867f1f5f5e1a1290b8a949871bfd06eb8c7"
+    },
+    {
+      "item_id": "asus/asus_ai2201@qssi-user-13-TKQ1.220807.001-33.0610.2810.104-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.220807.001-33.0610.2810.104-0-release-keys",
+        "commit": "4e556d2a8e16e89630da20cce84070bc83297636",
+        "committed_date": "2023-05-05T15:28:30.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T02:21:37.210Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2201",
+        "project_id": 2349,
+        "project_path": "asus/asus_ai2201"
+      },
+      "revision": "4e556d2a8e16e89630da20cce84070bc83297636",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2201/-/tree/4e556d2a8e16e89630da20cce84070bc83297636"
+    },
+    {
+      "item_id": "asus/asus_ai2201@qssi-user-13-TKQ1.220807.001-33.0610.2810.157-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.220807.001-33.0610.2810.157-0-release-keys",
+        "commit": "14aed261e5ba394fd8d9a90cca199d249218b0b2",
+        "committed_date": "2023-07-31T15:55:07.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T02:21:37.210Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2201",
+        "project_id": 2349,
+        "project_path": "asus/asus_ai2201"
+      },
+      "revision": "14aed261e5ba394fd8d9a90cca199d249218b0b2",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2201/-/tree/14aed261e5ba394fd8d9a90cca199d249218b0b2"
+    },
+    {
+      "item_id": "asus/asus_ai2201@qssi-user-13-TKQ1.220807.001-33.0610.2810.72-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.220807.001-33.0610.2810.72-0-release-keys",
+        "commit": "9eef7062cf65a719d580e97e770fb8ddaf4f5cd3",
+        "committed_date": "2023-02-21T14:00:06.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T02:21:37.210Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2201",
+        "project_id": 2349,
+        "project_path": "asus/asus_ai2201"
+      },
+      "revision": "9eef7062cf65a719d580e97e770fb8ddaf4f5cd3",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2201/-/tree/9eef7062cf65a719d580e97e770fb8ddaf4f5cd3"
+    },
+    {
+      "item_id": "asus/asus_ai2201@qssi-user-14-UKQ1.230924.001-34.0210.0210.241-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-34.0210.0210.241-0-release-keys",
+        "commit": "6d47419662244b66b78bf8b98324011ee796b80d",
+        "committed_date": "2024-03-08T05:10:42.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T02:21:37.210Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2201",
+        "project_id": 2349,
+        "project_path": "asus/asus_ai2201"
+      },
+      "revision": "6d47419662244b66b78bf8b98324011ee796b80d",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2201/-/tree/6d47419662244b66b78bf8b98324011ee796b80d"
+    },
+    {
+      "item_id": "asus/asus_ai2202@qssi-user-12-SKQ1.220406.001-32.2004.2004.84-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220406.001-32.2004.2004.84-release-keys",
+        "commit": "8882ba3a46965214a64e6962a296bbb647c1cfca",
+        "committed_date": "2022-07-31T06:37:12.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-07-07T11:18:19.233Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2202",
+        "project_id": 2379,
+        "project_path": "asus/asus_ai2202"
+      },
+      "revision": "8882ba3a46965214a64e6962a296bbb647c1cfca",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2202/-/tree/8882ba3a46965214a64e6962a296bbb647c1cfca"
+    },
+    {
+      "item_id": "asus/asus_ai2202@qssi-user-12-SKQ1.220406.001-32.2030.2030.26-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220406.001-32.2030.2030.26-release-keys",
+        "commit": "53aca742798c14076760cf68745cd9ec3733a068",
+        "committed_date": "2022-08-23T08:45:27.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-07-07T11:18:19.233Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2202",
+        "project_id": 2379,
+        "project_path": "asus/asus_ai2202"
+      },
+      "revision": "53aca742798c14076760cf68745cd9ec3733a068",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2202/-/tree/53aca742798c14076760cf68745cd9ec3733a068"
+    },
+    {
+      "item_id": "asus/asus_ai2202@qssi-user-12-SKQ1.220406.001-32.2040.2040.23-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220406.001-32.2040.2040.23-release-keys",
+        "commit": "41fa4e06f13af40acc8fd953c8b2ca6e1ab3d60f",
+        "committed_date": "2022-09-24T22:00:40.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-07-07T11:18:19.233Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2202",
+        "project_id": 2379,
+        "project_path": "asus/asus_ai2202"
+      },
+      "revision": "41fa4e06f13af40acc8fd953c8b2ca6e1ab3d60f",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2202/-/tree/41fa4e06f13af40acc8fd953c8b2ca6e1ab3d60f"
+    },
+    {
+      "item_id": "asus/asus_ai2202@qssi-user-12-SKQ1.220406.001-32.2050.2050.29-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220406.001-32.2050.2050.29-release-keys",
+        "commit": "cc9a14379faa132aefe272813a3b4f274ba51512",
+        "committed_date": "2022-10-27T15:35:01.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-07-07T11:18:19.233Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2202",
+        "project_id": 2379,
+        "project_path": "asus/asus_ai2202"
+      },
+      "revision": "cc9a14379faa132aefe272813a3b4f274ba51512",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2202/-/tree/cc9a14379faa132aefe272813a3b4f274ba51512"
+    },
+    {
+      "item_id": "asus/asus_ai2202@qssi-user-12-SKQ1.220406.001-32.2050.2050.43-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220406.001-32.2050.2050.43-release-keys",
+        "commit": "e5563d6cbe1b5aafb4e4e3b9346b14eb19ed22b5",
+        "committed_date": "2022-12-30T16:02:08.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-07-07T11:18:19.233Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2202",
+        "project_id": 2379,
+        "project_path": "asus/asus_ai2202"
+      },
+      "revision": "e5563d6cbe1b5aafb4e4e3b9346b14eb19ed22b5",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2202/-/tree/e5563d6cbe1b5aafb4e4e3b9346b14eb19ed22b5"
+    },
+    {
+      "item_id": "asus/asus_ai2202@qssi-user-13-TKQ1.220807.001-33.0804.2060.113-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.220807.001-33.0804.2060.113-release-keys",
+        "commit": "f7a32349a44496b4f12dcf17aedbdde342c90bd9",
+        "committed_date": "2023-04-12T18:13:12.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-07-07T11:18:19.233Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2202",
+        "project_id": 2379,
+        "project_path": "asus/asus_ai2202"
+      },
+      "revision": "f7a32349a44496b4f12dcf17aedbdde342c90bd9",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2202/-/tree/f7a32349a44496b4f12dcf17aedbdde342c90bd9"
+    },
+    {
+      "item_id": "asus/asus_ai2202@qssi-user-13-TKQ1.220807.001-33.0804.2060.142-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.220807.001-33.0804.2060.142-release-keys",
+        "commit": "824d4d16a177234a77d4d4477bac8e0945c6145f",
+        "committed_date": "2023-06-01T19:18:26.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-07-07T11:18:19.233Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2202",
+        "project_id": 2379,
+        "project_path": "asus/asus_ai2202"
+      },
+      "revision": "824d4d16a177234a77d4d4477bac8e0945c6145f",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2202/-/tree/824d4d16a177234a77d4d4477bac8e0945c6145f"
+    },
+    {
+      "item_id": "asus/asus_ai2202@qssi-user-13-TKQ1.220807.001-33.0804.2060.65-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.220807.001-33.0804.2060.65-release-keys",
+        "commit": "4934c1a00885c150aebeacd9d3deccd634d8ec3b",
+        "committed_date": "2022-12-08T15:58:30.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-07-07T11:18:19.233Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2202",
+        "project_id": 2379,
+        "project_path": "asus/asus_ai2202"
+      },
+      "revision": "4934c1a00885c150aebeacd9d3deccd634d8ec3b",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2202/-/tree/4934c1a00885c150aebeacd9d3deccd634d8ec3b"
+    },
+    {
+      "item_id": "asus/asus_ai2202@qssi-user-13-TKQ1.220807.001-33.0804.2060.73-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.220807.001-33.0804.2060.73-release-keys",
+        "commit": "99126c87a8e99c9897c7d07a88b0f56ff2d3a36d",
+        "committed_date": "2022-12-20T17:53:24.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-07-07T11:18:19.233Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2202",
+        "project_id": 2379,
+        "project_path": "asus/asus_ai2202"
+      },
+      "revision": "99126c87a8e99c9897c7d07a88b0f56ff2d3a36d",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2202/-/tree/99126c87a8e99c9897c7d07a88b0f56ff2d3a36d"
+    },
+    {
+      "item_id": "asus/asus_ai2202@qssi-user-13-TKQ1.220807.001-33.0804.2060.88-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.220807.001-33.0804.2060.88-release-keys",
+        "commit": "7ef63ee61ff28664973986d77c95ccb8f5ae6baa",
+        "committed_date": "2023-01-31T15:00:22.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-07-07T11:18:19.233Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2202",
+        "project_id": 2379,
+        "project_path": "asus/asus_ai2202"
+      },
+      "revision": "7ef63ee61ff28664973986d77c95ccb8f5ae6baa",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2202/-/tree/7ef63ee61ff28664973986d77c95ccb8f5ae6baa"
+    },
+    {
+      "item_id": "asus/asus_ai2202@qssi-user-14-UKQ1.230924.001-34.0304.2004.108-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-34.0304.2004.108-release-keys",
+        "commit": "ab4c417a99441a2a154910ce2f66dd3c8147ec60",
+        "committed_date": "2024-04-11T18:02:27.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-07-07T11:18:19.233Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2202",
+        "project_id": 2379,
+        "project_path": "asus/asus_ai2202"
+      },
+      "revision": "ab4c417a99441a2a154910ce2f66dd3c8147ec60",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2202/-/tree/ab4c417a99441a2a154910ce2f66dd3c8147ec60"
+    },
+    {
+      "item_id": "asus/asus_ai2202@qssi-user-14-UKQ1.230924.001-34.0304.2004.145-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-34.0304.2004.145-release-keys",
+        "commit": "f76bc7fc4286b7a5ddb4c9f5236bb935d554d088",
+        "committed_date": "2024-07-07T14:08:15.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-07-07T11:18:19.233Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2202",
+        "project_id": 2379,
+        "project_path": "asus/asus_ai2202"
+      },
+      "revision": "f76bc7fc4286b7a5ddb4c9f5236bb935d554d088",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2202/-/tree/f76bc7fc4286b7a5ddb4c9f5236bb935d554d088"
+    },
+    {
+      "item_id": "asus/asus_ai2202@qssi-user-14-UKQ1.230924.001-34.0304.2004.87-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230924.001-34.0304.2004.87-release-keys",
+        "commit": "0df6ca1cef9da89d95b9b44ae41e4b09484a2908",
+        "committed_date": "2024-03-04T19:52:23.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-07-07T11:18:19.233Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2202",
+        "project_id": 2379,
+        "project_path": "asus/asus_ai2202"
+      },
+      "revision": "0df6ca1cef9da89d95b9b44ae41e4b09484a2908",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2202/-/tree/0df6ca1cef9da89d95b9b44ae41e4b09484a2908"
+    },
+    {
+      "item_id": "asus/asus_ai2203@sys_mssi_64_ww_armv82-user-12-SP1A.210812.016-31.0830.0830.26-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_ww_armv82-user-12-SP1A.210812.016-31.0830.0830.26-release-keys",
+        "commit": "dae7c44bc9f74f4c5ec60601c4fcfde57a3470cc",
+        "committed_date": "2022-09-21T09:57:35.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-28T10:49:08.334Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2203",
+        "project_id": 2445,
+        "project_path": "asus/asus_ai2203"
+      },
+      "revision": "dae7c44bc9f74f4c5ec60601c4fcfde57a3470cc",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2203/-/tree/dae7c44bc9f74f4c5ec60601c4fcfde57a3470cc"
+    },
+    {
+      "item_id": "asus/asus_ai2203@sys_mssi_64_ww_armv82-user-12-SP1A.210812.016-31.0840.0840.42-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_ww_armv82-user-12-SP1A.210812.016-31.0840.0840.42-release-keys",
+        "commit": "907f28838900aa7f81caf6edc7ab70709faa1093",
+        "committed_date": "2022-10-26T17:16:05.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-28T10:49:08.334Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2203",
+        "project_id": 2445,
+        "project_path": "asus/asus_ai2203"
+      },
+      "revision": "907f28838900aa7f81caf6edc7ab70709faa1093",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2203/-/tree/907f28838900aa7f81caf6edc7ab70709faa1093"
+    },
+    {
+      "item_id": "asus/asus_ai2203@sys_mssi_64_ww_armv82-user-12-SP1A.210812.016-31.0840.0840.50-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_ww_armv82-user-12-SP1A.210812.016-31.0840.0840.50-release-keys",
+        "commit": "fcb5ccb45281217a1ea9efe9cff1f28384aa56f8",
+        "committed_date": "2022-11-22T14:38:25.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-28T10:49:08.334Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2203",
+        "project_id": 2445,
+        "project_path": "asus/asus_ai2203"
+      },
+      "revision": "fcb5ccb45281217a1ea9efe9cff1f28384aa56f8",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2203/-/tree/fcb5ccb45281217a1ea9efe9cff1f28384aa56f8"
+    },
+    {
+      "item_id": "asus/asus_ai2203@sys_mssi_64_ww_armv82-user-13-TP1A.220624.014-33.0404.1203.63-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_ww_armv82-user-13-TP1A.220624.014-33.0404.1203.63-release-keys",
+        "commit": "1cffc9de05d6a49ee1d79cabd68d3179b32ea8a7",
+        "committed_date": "2023-03-01T18:38:17.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-28T10:49:08.334Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2203",
+        "project_id": 2445,
+        "project_path": "asus/asus_ai2203"
+      },
+      "revision": "1cffc9de05d6a49ee1d79cabd68d3179b32ea8a7",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2203/-/tree/1cffc9de05d6a49ee1d79cabd68d3179b32ea8a7"
+    },
+    {
+      "item_id": "asus/asus_ai2203@sys_mssi_64_ww_armv82-user-14-UP1A.231005.007-34.0804.1204.107-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_ww_armv82-user-14-UP1A.231005.007-34.0804.1204.107-release-keys",
+        "commit": "2142111130a0a958a998d584a1b8f89623317b69",
+        "committed_date": "2025-07-28T13:38:08.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-07-28T10:49:08.334Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2203",
+        "project_id": 2445,
+        "project_path": "asus/asus_ai2203"
+      },
+      "revision": "2142111130a0a958a998d584a1b8f89623317b69",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2203/-/tree/2142111130a0a958a998d584a1b8f89623317b69"
+    },
+    {
+      "item_id": "asus/asus_ai2205@qssi-user-13-TKQ1.220928.001-33.0820.0810.121-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.220928.001-33.0820.0810.121-0-release-keys",
+        "commit": "8c570afeebf5b6f9ac6abd8de851798c2f8d791e",
+        "committed_date": "2023-04-19T16:08:40.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-04-25T04:42:52.913Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2205",
+        "project_id": 4254,
+        "project_path": "asus/asus_ai2205"
+      },
+      "revision": "8c570afeebf5b6f9ac6abd8de851798c2f8d791e",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2205/-/tree/8c570afeebf5b6f9ac6abd8de851798c2f8d791e"
+    },
+    {
+      "item_id": "asus/asus_ai2205@qssi-user-13-TKQ1.220928.001-33.0820.0810.175-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.220928.001-33.0820.0810.175-0-release-keys",
+        "commit": "c6eb9fb37bff0b6f3ca4e7fd47abe33d83a4648a",
+        "committed_date": "2023-05-25T17:35:33.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-04-25T04:42:52.913Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2205",
+        "project_id": 4254,
+        "project_path": "asus/asus_ai2205"
+      },
+      "revision": "c6eb9fb37bff0b6f3ca4e7fd47abe33d83a4648a",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2205/-/tree/c6eb9fb37bff0b6f3ca4e7fd47abe33d83a4648a"
+    },
+    {
+      "item_id": "asus/asus_ai2205@qssi-user-13-TKQ1.220928.001-33.0820.0810.188-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.220928.001-33.0820.0810.188-0-release-keys",
+        "commit": "d23ab1fbe727cdf8af745f5c3084b9225eeaec35",
+        "committed_date": "2023-06-14T04:47:41.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-04-25T04:42:52.913Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2205",
+        "project_id": 4254,
+        "project_path": "asus/asus_ai2205"
+      },
+      "revision": "d23ab1fbe727cdf8af745f5c3084b9225eeaec35",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2205/-/tree/d23ab1fbe727cdf8af745f5c3084b9225eeaec35"
+    },
+    {
+      "item_id": "asus/asus_ai2205@qssi-user-13-TKQ1.220928.001-33.0820.0810.206-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.220928.001-33.0820.0810.206-0-release-keys",
+        "commit": "b61ac3705b7facd05e59b2f4f213538e091219ca",
+        "committed_date": "2023-07-12T14:59:32.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-04-25T04:42:52.913Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2205",
+        "project_id": 4254,
+        "project_path": "asus/asus_ai2205"
+      },
+      "revision": "b61ac3705b7facd05e59b2f4f213538e091219ca",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2205/-/tree/b61ac3705b7facd05e59b2f4f213538e091219ca"
+    },
+    {
+      "item_id": "asus/asus_ai2205@qssi-user-13-TKQ1.220928.001-33.0820.0810.217-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.220928.001-33.0820.0810.217-0-release-keys",
+        "commit": "343cd055c1f5b2f55e455fcf539ec0701623e56d",
+        "committed_date": "2023-08-17T09:39:39.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-04-25T04:42:52.913Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2205",
+        "project_id": 4254,
+        "project_path": "asus/asus_ai2205"
+      },
+      "revision": "343cd055c1f5b2f55e455fcf539ec0701623e56d",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2205/-/tree/343cd055c1f5b2f55e455fcf539ec0701623e56d"
+    },
+    {
+      "item_id": "asus/asus_ai2205@qssi-user-14-UKQ1.230917.001-34.1010.0820.55-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230917.001-34.1010.0820.55-0-release-keys",
+        "commit": "9b673fc36d7f19cd7b193639ba76279e92142182",
+        "committed_date": "2024-02-16T13:24:49.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-04-25T04:42:52.913Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2205",
+        "project_id": 4254,
+        "project_path": "asus/asus_ai2205"
+      },
+      "revision": "9b673fc36d7f19cd7b193639ba76279e92142182",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2205/-/tree/9b673fc36d7f19cd7b193639ba76279e92142182"
+    },
+    {
+      "item_id": "asus/asus_ai2205@qssi-user-14-UKQ1.230917.001-34.1010.0820.70-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230917.001-34.1010.0820.70-0-release-keys",
+        "commit": "34654016338823c1e69348ed671a7a6dad37f67f",
+        "committed_date": "2024-03-29T19:18:58.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-04-25T04:42:52.913Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2205",
+        "project_id": 4254,
+        "project_path": "asus/asus_ai2205"
+      },
+      "revision": "34654016338823c1e69348ed671a7a6dad37f67f",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2205/-/tree/34654016338823c1e69348ed671a7a6dad37f67f"
+    },
+    {
+      "item_id": "asus/asus_ai2205@qssi-user-14-UKQ1.230917.001-34.1010.0820.88-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230917.001-34.1010.0820.88-0-release-keys",
+        "commit": "f5251f58fd187a3b600f24e992837117030df353",
+        "committed_date": "2024-09-07T17:04:13.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-04-25T04:42:52.913Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2205",
+        "project_id": 4254,
+        "project_path": "asus/asus_ai2205"
+      },
+      "revision": "f5251f58fd187a3b600f24e992837117030df353",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2205/-/tree/f5251f58fd187a3b600f24e992837117030df353"
+    },
+    {
+      "item_id": "asus/asus_ai2205@qssi-user-15-AQ3A.240812.002-35.0604.0820.56-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-15-AQ3A.240812.002-35.0604.0820.56-0-release-keys",
+        "commit": "768ea956bf74ba10fa5cc972189348320e2d029c",
+        "committed_date": "2025-04-25T07:28:55.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-04-25T04:42:52.913Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2205",
+        "project_id": 4254,
+        "project_path": "asus/asus_ai2205"
+      },
+      "revision": "768ea956bf74ba10fa5cc972189348320e2d029c",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2205/-/tree/768ea956bf74ba10fa5cc972189348320e2d029c"
+    },
+    {
+      "item_id": "asus/asus_ai2302@qssi-user-13-TKQ1.220928.001-33.0220.0220.10-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.220928.001-33.0220.0220.10-release-keys",
+        "commit": "4e53b4a98e664e253649d61049a57b09a4b0e25a",
+        "committed_date": "2023-07-01T10:04:41.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-09T01:47:10.336Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2302",
+        "project_id": 4345,
+        "project_path": "asus/asus_ai2302"
+      },
+      "revision": "4e53b4a98e664e253649d61049a57b09a4b0e25a",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2302/-/tree/4e53b4a98e664e253649d61049a57b09a4b0e25a"
+    },
+    {
+      "item_id": "asus/asus_ai2302@qssi-user-13-TKQ1.220928.001-33.0220.0220.17-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.220928.001-33.0220.0220.17-release-keys",
+        "commit": "654ed5a4c7a4d030b9a761af889cc69b1ae7e2ae",
+        "committed_date": "2023-07-10T18:41:01.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-09T01:47:10.336Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2302",
+        "project_id": 4345,
+        "project_path": "asus/asus_ai2302"
+      },
+      "revision": "654ed5a4c7a4d030b9a761af889cc69b1ae7e2ae",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2302/-/tree/654ed5a4c7a4d030b9a761af889cc69b1ae7e2ae"
+    },
+    {
+      "item_id": "asus/asus_ai2302@qssi-user-13-TKQ1.220928.001-33.0220.0220.28-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.220928.001-33.0220.0220.28-release-keys",
+        "commit": "f1f4773feb63bccc404c848c8e87a887fe763950",
+        "committed_date": "2023-07-22T05:31:24.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-09T01:47:10.336Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2302",
+        "project_id": 4345,
+        "project_path": "asus/asus_ai2302"
+      },
+      "revision": "f1f4773feb63bccc404c848c8e87a887fe763950",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2302/-/tree/f1f4773feb63bccc404c848c8e87a887fe763950"
+    },
+    {
+      "item_id": "asus/asus_ai2302@qssi-user-13-TKQ1.220928.001-33.0220.0220.43-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.220928.001-33.0220.0220.43-release-keys",
+        "commit": "a1ebc144a1c1f8ba0a06867b2c33cc86e429b895",
+        "committed_date": "2023-08-10T19:23:17.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-09T01:47:10.336Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2302",
+        "project_id": 4345,
+        "project_path": "asus/asus_ai2302"
+      },
+      "revision": "a1ebc144a1c1f8ba0a06867b2c33cc86e429b895",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2302/-/tree/a1ebc144a1c1f8ba0a06867b2c33cc86e429b895"
+    },
+    {
+      "item_id": "asus/asus_ai2302@qssi-user-13-TKQ1.220928.001-33.0220.0220.52-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.220928.001-33.0220.0220.52-release-keys",
+        "commit": "2cca667628d572452dceb9bc68665dba30a3a76f",
+        "committed_date": "2023-09-02T04:24:35.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-09T01:47:10.336Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2302",
+        "project_id": 4345,
+        "project_path": "asus/asus_ai2302"
+      },
+      "revision": "2cca667628d572452dceb9bc68665dba30a3a76f",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2302/-/tree/2cca667628d572452dceb9bc68665dba30a3a76f"
+    },
+    {
+      "item_id": "asus/asus_ai2302@qssi-user-14-UKQ1.230917.001-34.1004.0204.128-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230917.001-34.1004.0204.128-release-keys",
+        "commit": "33c2a254d594c6ccbe65c835909eda49f8f4433c",
+        "committed_date": "2024-03-29T16:55:29.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-09T01:47:10.336Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2302",
+        "project_id": 4345,
+        "project_path": "asus/asus_ai2302"
+      },
+      "revision": "33c2a254d594c6ccbe65c835909eda49f8f4433c",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2302/-/tree/33c2a254d594c6ccbe65c835909eda49f8f4433c"
+    },
+    {
+      "item_id": "asus/asus_ai2302@qssi-user-14-UKQ1.230917.001-34.1004.0204.201-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230917.001-34.1004.0204.201-release-keys",
+        "commit": "c3ac1c9e29baba5f5972e388cde6456acf599a3c",
+        "committed_date": "2024-11-09T04:34:23.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-11-09T01:47:10.336Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2302",
+        "project_id": 4345,
+        "project_path": "asus/asus_ai2302"
+      },
+      "revision": "c3ac1c9e29baba5f5972e388cde6456acf599a3c",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2302/-/tree/c3ac1c9e29baba5f5972e388cde6456acf599a3c"
+    },
+    {
+      "item_id": "asus/asus_ai2302@qssi-user-14-UKQ1.230917.001-34.1004.0204.65-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230917.001-34.1004.0204.65-release-keys",
+        "commit": "71a7481f5cb6dcffa81491e6566b8b36da3f685f",
+        "committed_date": "2023-12-29T13:58:06.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-09T01:47:10.336Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2302",
+        "project_id": 4345,
+        "project_path": "asus/asus_ai2302"
+      },
+      "revision": "71a7481f5cb6dcffa81491e6566b8b36da3f685f",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2302/-/tree/71a7481f5cb6dcffa81491e6566b8b36da3f685f"
+    },
+    {
+      "item_id": "asus/asus_ai2302@qssi-user-14-UKQ1.230917.001-34.1004.0204.88-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UKQ1.230917.001-34.1004.0204.88-release-keys",
+        "commit": "0d0859ff273884a8da2466a533bb08cb246b76d9",
+        "committed_date": "2024-03-26T20:36:13.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-09T01:47:10.336Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2302",
+        "project_id": 4345,
+        "project_path": "asus/asus_ai2302"
+      },
+      "revision": "0d0859ff273884a8da2466a533bb08cb246b76d9",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2302/-/tree/0d0859ff273884a8da2466a533bb08cb246b76d9"
+    },
+    {
+      "item_id": "asus/asus_ai2401@qssi_64-user-14-UKQ1.231003.002-34.1420.1420.173-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-14-UKQ1.231003.002-34.1420.1420.173-0-release-keys",
+        "commit": "d4fadbea52f57c6235b406d4052e24e69e9fd7cb",
+        "committed_date": "2024-02-01T07:08:10.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-02-15T19:11:44.154Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2401",
+        "project_id": 4728,
+        "project_path": "asus/asus_ai2401"
+      },
+      "revision": "d4fadbea52f57c6235b406d4052e24e69e9fd7cb",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2401/-/tree/d4fadbea52f57c6235b406d4052e24e69e9fd7cb"
+    },
+    {
+      "item_id": "asus/asus_ai2401@qssi_64-user-14-UKQ1.231003.002-34.1420.1420.218-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-14-UKQ1.231003.002-34.1420.1420.218-0-release-keys",
+        "commit": "00cf69416a874914373ee43604766b1b96e4b5f7",
+        "committed_date": "2024-02-08T12:46:49.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-02-15T19:11:44.154Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2401",
+        "project_id": 4728,
+        "project_path": "asus/asus_ai2401"
+      },
+      "revision": "00cf69416a874914373ee43604766b1b96e4b5f7",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2401/-/tree/00cf69416a874914373ee43604766b1b96e4b5f7"
+    },
+    {
+      "item_id": "asus/asus_ai2401@qssi_64-user-14-UKQ1.231003.002-34.1420.1420.316-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-14-UKQ1.231003.002-34.1420.1420.316-0-release-keys",
+        "commit": "571004686839798620346029848f8576aae90cdf",
+        "committed_date": "2024-03-01T19:14:25.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-02-15T19:11:44.154Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2401",
+        "project_id": 4728,
+        "project_path": "asus/asus_ai2401"
+      },
+      "revision": "571004686839798620346029848f8576aae90cdf",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2401/-/tree/571004686839798620346029848f8576aae90cdf"
+    },
+    {
+      "item_id": "asus/asus_ai2401@qssi_64-user-14-UKQ1.231003.002-34.1420.1420.321-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-14-UKQ1.231003.002-34.1420.1420.321-0-release-keys",
+        "commit": "fdb55172dd0d3b7005c16761a731a5409d9f282f",
+        "committed_date": "2024-03-24T03:59:31.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-02-15T19:11:44.154Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2401",
+        "project_id": 4728,
+        "project_path": "asus/asus_ai2401"
+      },
+      "revision": "fdb55172dd0d3b7005c16761a731a5409d9f282f",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2401/-/tree/fdb55172dd0d3b7005c16761a731a5409d9f282f"
+    },
+    {
+      "item_id": "asus/asus_ai2401@qssi_64-user-14-UKQ1.231003.002-34.1420.1420.387-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-14-UKQ1.231003.002-34.1420.1420.387-0-release-keys",
+        "commit": "a3cbea0a72e63dc17c31469a94551a4e3616c368",
+        "committed_date": "2024-05-17T18:15:31.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-02-15T19:11:44.154Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2401",
+        "project_id": 4728,
+        "project_path": "asus/asus_ai2401"
+      },
+      "revision": "a3cbea0a72e63dc17c31469a94551a4e3616c368",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2401/-/tree/a3cbea0a72e63dc17c31469a94551a4e3616c368"
+    },
+    {
+      "item_id": "asus/asus_ai2401@qssi_64-user-14-UKQ1.231003.002-34.1420.1420.407-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-14-UKQ1.231003.002-34.1420.1420.407-0-release-keys",
+        "commit": "56e6ef82a56e6983fea59864c6104d786f5f8a44",
+        "committed_date": "2024-06-16T14:28:08.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-02-15T19:11:44.154Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2401",
+        "project_id": 4728,
+        "project_path": "asus/asus_ai2401"
+      },
+      "revision": "56e6ef82a56e6983fea59864c6104d786f5f8a44",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2401/-/tree/56e6ef82a56e6983fea59864c6104d786f5f8a44"
+    },
+    {
+      "item_id": "asus/asus_ai2401@qssi_64-user-14-UKQ1.231003.002-34.1420.1420.427-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-14-UKQ1.231003.002-34.1420.1420.427-0-release-keys",
+        "commit": "da419540ce2088a2e2458fcc1890b932bde91a4c",
+        "committed_date": "2024-08-22T15:06:33.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-02-15T19:11:44.154Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2401",
+        "project_id": 4728,
+        "project_path": "asus/asus_ai2401"
+      },
+      "revision": "da419540ce2088a2e2458fcc1890b932bde91a4c",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2401/-/tree/da419540ce2088a2e2458fcc1890b932bde91a4c"
+    },
+    {
+      "item_id": "asus/asus_ai2401@qssi_64-user-14-UKQ1.231003.002-34.1420.1420.472-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-14-UKQ1.231003.002-34.1420.1420.472-0-release-keys",
+        "commit": "9b6173191267ec25c91c4997df668c6830250bbb",
+        "committed_date": "2024-11-20T08:29:44.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-02-15T19:11:44.154Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2401",
+        "project_id": 4728,
+        "project_path": "asus/asus_ai2401"
+      },
+      "revision": "9b6173191267ec25c91c4997df668c6830250bbb",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2401/-/tree/9b6173191267ec25c91c4997df668c6830250bbb"
+    },
+    {
+      "item_id": "asus/asus_ai2401@qssi_64-user-15-AQ3A.240812.002-35.1210.1420.71-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-15-AQ3A.240812.002-35.1210.1420.71-0-release-keys",
+        "commit": "051a6eaf1a8c76eee9008bb43c163b74d1013010",
+        "committed_date": "2025-02-05T11:01:05.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-02-15T19:11:44.154Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2401",
+        "project_id": 4728,
+        "project_path": "asus/asus_ai2401"
+      },
+      "revision": "051a6eaf1a8c76eee9008bb43c163b74d1013010",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2401/-/tree/051a6eaf1a8c76eee9008bb43c163b74d1013010"
+    },
+    {
+      "item_id": "asus/asus_ai2401@qssi_64-user-15-AQ3A.240812.002-35.1210.1420.78-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-15-AQ3A.240812.002-35.1210.1420.78-0-release-keys",
+        "commit": "4aa0139c7f32e27fff43e4d86aacc7a41ba836e9",
+        "committed_date": "2025-03-05T15:54:01.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-02-15T19:11:44.154Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2401",
+        "project_id": 4728,
+        "project_path": "asus/asus_ai2401"
+      },
+      "revision": "4aa0139c7f32e27fff43e4d86aacc7a41ba836e9",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2401/-/tree/4aa0139c7f32e27fff43e4d86aacc7a41ba836e9"
+    },
+    {
+      "item_id": "asus/asus_ai2401@qssi_64-user-16-BQ2A.250610.001-36.0210.1420.27-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-16-BQ2A.250610.001-36.0210.1420.27-0-release-keys",
+        "commit": "7b9bf397ac9a465a72af5ed6110b2a202f7dc87b",
+        "committed_date": "2026-02-15T21:58:23.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-02-15T19:11:44.154Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_ai2401",
+        "project_id": 4728,
+        "project_path": "asus/asus_ai2401"
+      },
+      "revision": "7b9bf397ac9a465a72af5ed6110b2a202f7dc87b",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_ai2401/-/tree/7b9bf397ac9a465a72af5ed6110b2a202f7dc87b"
+    },
+    {
+      "item_id": "asus/asus_i001_1@CN_Phone-user-9-PKQ1.190414.001-16.0621.1906.12-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "CN_Phone-user-9-PKQ1.190414.001-16.0621.1906.12-0-release-keys",
+        "commit": "14ba865c28ac23e0bbe31fc4993bd6e23300054b",
+        "committed_date": "2019-08-13T13:09:28.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-20T09:48:35.265Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i001_1",
+        "project_id": 55,
+        "project_path": "asus/asus_i001_1"
+      },
+      "revision": "14ba865c28ac23e0bbe31fc4993bd6e23300054b",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i001_1/-/tree/14ba865c28ac23e0bbe31fc4993bd6e23300054b"
+    },
+    {
+      "item_id": "asus/asus_i001_1@WW_Phone-user-9-PKQ1.190414.001-16.0622.1906.19-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "WW_Phone-user-9-PKQ1.190414.001-16.0622.1906.19-0-release-keys",
+        "commit": "1c7d0908585dbfa3a13fb178fd397b4b0b7e1c67",
+        "committed_date": "2019-08-19T18:41:17.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-20T09:48:35.265Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i001_1",
+        "project_id": 55,
+        "project_path": "asus/asus_i001_1"
+      },
+      "revision": "1c7d0908585dbfa3a13fb178fd397b4b0b7e1c67",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i001_1/-/tree/1c7d0908585dbfa3a13fb178fd397b4b0b7e1c67"
+    },
+    {
+      "item_id": "asus/asus_i001_1@WW_Phone-user-9-PKQ1.190414.001-16.0631.1908.21-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "WW_Phone-user-9-PKQ1.190414.001-16.0631.1908.21-0-release-keys",
+        "commit": "37081f0dcd5d26bca11925bf0357b28fa6cde70d",
+        "committed_date": "2019-10-27T06:04:05.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-20T09:48:35.265Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i001_1",
+        "project_id": 55,
+        "project_path": "asus/asus_i001_1"
+      },
+      "revision": "37081f0dcd5d26bca11925bf0357b28fa6cde70d",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i001_1/-/tree/37081f0dcd5d26bca11925bf0357b28fa6cde70d"
+    },
+    {
+      "item_id": "asus/asus_i001_1@qssi-user-10-QKQ1.190825.002-17.0210.2001.60-0-",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.190825.002-17.0210.2001.60-0-",
+        "commit": "de5544661d53b6c0348d217519717a77c9573a5e",
+        "committed_date": "2020-04-14T06:54:45.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-20T09:48:35.265Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i001_1",
+        "project_id": 55,
+        "project_path": "asus/asus_i001_1"
+      },
+      "revision": "de5544661d53b6c0348d217519717a77c9573a5e",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i001_1/-/tree/de5544661d53b6c0348d217519717a77c9573a5e"
+    },
+    {
+      "item_id": "asus/asus_i001_1@qssi-user-10-QKQ1.190825.002-17.0230.2002.32-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.190825.002-17.0230.2002.32-0-release-keys",
+        "commit": "efde4dcdf2dc407d7da7d88f39ce822b7b640f9c",
+        "committed_date": "2020-05-04T19:15:52.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-20T09:48:35.265Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i001_1",
+        "project_id": 55,
+        "project_path": "asus/asus_i001_1"
+      },
+      "revision": "efde4dcdf2dc407d7da7d88f39ce822b7b640f9c",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i001_1/-/tree/efde4dcdf2dc407d7da7d88f39ce822b7b640f9c"
+    },
+    {
+      "item_id": "asus/asus_i001_1@qssi-user-11-RKQ1.200710.002-18.0210.2111.160-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200710.002-18.0210.2111.160-0-release-keys",
+        "commit": "6f4c9d5f0c65cccdc84aa80837110eedb0cfe4b2",
+        "committed_date": "2021-11-24T21:54:17.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-09-20T09:48:35.265Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i001_1",
+        "project_id": 55,
+        "project_path": "asus/asus_i001_1"
+      },
+      "revision": "6f4c9d5f0c65cccdc84aa80837110eedb0cfe4b2",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i001_1/-/tree/6f4c9d5f0c65cccdc84aa80837110eedb0cfe4b2"
+    },
+    {
+      "item_id": "asus/asus_i001_1@qssi-user-11-RKQ1.200710.002-18.0210.2201.215-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200710.002-18.0210.2201.215-0-release-keys",
+        "commit": "d0df7415a4d32e5c815830bbeb6dc3a0ab622448",
+        "committed_date": "2022-09-20T12:42:06.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-09-20T09:48:35.265Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i001_1",
+        "project_id": 55,
+        "project_path": "asus/asus_i001_1"
+      },
+      "revision": "d0df7415a4d32e5c815830bbeb6dc3a0ab622448",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i001_1/-/tree/d0df7415a4d32e5c815830bbeb6dc3a0ab622448"
+    },
+    {
+      "item_id": "asus/asus_i002d@qssi-user-10-QKQ1.200127.002-29.12.18.14_20200902-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.200127.002-29.12.18.14_20200902-release-keys",
+        "commit": "2c0ce848aa240edf300104fb2e3b05aa55c6dad3",
+        "committed_date": "2020-09-14T19:11:59.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-08-04T08:28:19.448Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i002d",
+        "project_id": 836,
+        "project_path": "asus/asus_i002d"
+      },
+      "revision": "2c0ce848aa240edf300104fb2e3b05aa55c6dad3",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i002d/-/tree/2c0ce848aa240edf300104fb2e3b05aa55c6dad3"
+    },
+    {
+      "item_id": "asus/asus_i002d@qssi-user-11-RKQ1.200710.002-30.40.30.93_20210311-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200710.002-30.40.30.93_20210311-release-keys",
+        "commit": "20bb1648db126b1b915c0def6b4a2addcf4a22ef",
+        "committed_date": "2021-03-26T07:59:09.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-08-04T08:28:19.448Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i002d",
+        "project_id": 836,
+        "project_path": "asus/asus_i002d"
+      },
+      "revision": "20bb1648db126b1b915c0def6b4a2addcf4a22ef",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i002d/-/tree/20bb1648db126b1b915c0def6b4a2addcf4a22ef"
+    },
+    {
+      "item_id": "asus/asus_i002d@qssi-user-11-RKQ1.200710.002-30.41.69.170_20220319-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200710.002-30.41.69.170_20220319-release-keys",
+        "commit": "8f8a79c7697257e2545b8dc44d01f2dd7b2ffd86",
+        "committed_date": "2022-03-26T09:23:51.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-08-04T08:28:19.448Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i002d",
+        "project_id": 836,
+        "project_path": "asus/asus_i002d"
+      },
+      "revision": "8f8a79c7697257e2545b8dc44d01f2dd7b2ffd86",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i002d/-/tree/8f8a79c7697257e2545b8dc44d01f2dd7b2ffd86"
+    },
+    {
+      "item_id": "asus/asus_i002d@qssi-user-11-RKQ1.200710.002-30.41.69.51_20210420-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200710.002-30.41.69.51_20210420-release-keys",
+        "commit": "09a2b1811b835b3d102afe369b01e520e88ded4c",
+        "committed_date": "2021-05-02T18:53:19.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-08-04T08:28:19.448Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i002d",
+        "project_id": 836,
+        "project_path": "asus/asus_i002d"
+      },
+      "revision": "09a2b1811b835b3d102afe369b01e520e88ded4c",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i002d/-/tree/09a2b1811b835b3d102afe369b01e520e88ded4c"
+    },
+    {
+      "item_id": "asus/asus_i002d@qssi-user-11-RKQ1.200710.002-30.41.69.89_20210728-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200710.002-30.41.69.89_20210728-release-keys",
+        "commit": "2ec63eb6ff3dbf7f4820bf3f6cafc24501cbec63",
+        "committed_date": "2021-09-07T21:19:28.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-08-04T08:28:19.448Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i002d",
+        "project_id": 836,
+        "project_path": "asus/asus_i002d"
+      },
+      "revision": "2ec63eb6ff3dbf7f4820bf3f6cafc24501cbec63",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i002d/-/tree/2ec63eb6ff3dbf7f4820bf3f6cafc24501cbec63"
+    },
+    {
+      "item_id": "asus/asus_i002d@qssi-user-12-SKQ1.210821.001-31.0210.0210.250-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210821.001-31.0210.0210.250-release-keys",
+        "commit": "7236793e66321f373933ea49996190dcf174ed71",
+        "committed_date": "2022-05-19T11:14:56.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-08-04T08:28:19.448Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i002d",
+        "project_id": 836,
+        "project_path": "asus/asus_i002d"
+      },
+      "revision": "7236793e66321f373933ea49996190dcf174ed71",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i002d/-/tree/7236793e66321f373933ea49996190dcf174ed71"
+    },
+    {
+      "item_id": "asus/asus_i002d@qssi-user-12-SKQ1.210821.001-31.0210.0210.287-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210821.001-31.0210.0210.287-release-keys",
+        "commit": "b3cbaaedf7f84ce8e7ce8545c4888191b0bc7fd4",
+        "committed_date": "2022-08-04T11:20:53.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-08-04T08:28:19.448Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i002d",
+        "project_id": 836,
+        "project_path": "asus/asus_i002d"
+      },
+      "revision": "b3cbaaedf7f84ce8e7ce8545c4888191b0bc7fd4",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i002d/-/tree/b3cbaaedf7f84ce8e7ce8545c4888191b0bc7fd4"
+    },
+    {
+      "item_id": "asus/asus_i003_1@qssi-user-12-SKQ1.210821.001-31.0210.0210.236-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210821.001-31.0210.0210.236-0-release-keys",
+        "commit": "b1269d9cd54fc801eee2e2932a4149ec61b8144b",
+        "committed_date": "2022-08-04T11:02:50.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-06-27T17:03:27.925Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i003_1",
+        "project_id": 2380,
+        "project_path": "asus/asus_i003_1"
+      },
+      "revision": "b1269d9cd54fc801eee2e2932a4149ec61b8144b",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i003_1/-/tree/b1269d9cd54fc801eee2e2932a4149ec61b8144b"
+    },
+    {
+      "item_id": "asus/asus_i003_1@qssi-user-12-SKQ1.210821.001-31.0210.0210.258-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210821.001-31.0210.0210.258-0-release-keys",
+        "commit": "53881c3929d7b3314de5a958f9d401e7cf9ed39b",
+        "committed_date": "2023-02-06T18:58:37.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-06-27T17:03:27.925Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i003_1",
+        "project_id": 2380,
+        "project_path": "asus/asus_i003_1"
+      },
+      "revision": "53881c3929d7b3314de5a958f9d401e7cf9ed39b",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i003_1/-/tree/53881c3929d7b3314de5a958f9d401e7cf9ed39b"
+    },
+    {
+      "item_id": "asus/asus_i003_1@qssi-user-12-SKQ1.210821.001-31.0210.0210.272-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210821.001-31.0210.0210.272-0-release-keys",
+        "commit": "00b6b8c8398c92046e16b1c15a99146d937fdd3e",
+        "committed_date": "2023-06-27T19:54:52.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-06-27T17:03:27.925Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i003_1",
+        "project_id": 2380,
+        "project_path": "asus/asus_i003_1"
+      },
+      "revision": "00b6b8c8398c92046e16b1c15a99146d937fdd3e",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i003_1/-/tree/00b6b8c8398c92046e16b1c15a99146d937fdd3e"
+    },
+    {
+      "item_id": "asus/asus_i004d@qssi-user-12-SKQ1.210821.001-31.1004.0404.61-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210821.001-31.1004.0404.61-release-keys",
+        "commit": "3d40b1e3dfe2ef488913f3256c170754e87542d5",
+        "committed_date": "2021-12-29T06:23:26.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-01-15T16:34:27.812Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i004d",
+        "project_id": 44,
+        "project_path": "asus/asus_i004d"
+      },
+      "revision": "3d40b1e3dfe2ef488913f3256c170754e87542d5",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i004d/-/tree/3d40b1e3dfe2ef488913f3256c170754e87542d5"
+    },
+    {
+      "item_id": "asus/asus_i004d@qssi-user-13-TKQ1.220807.001-33.0210.0210.210-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.220807.001-33.0210.0210.210-release-keys",
+        "commit": "6d7ffbefd99219be9e28cefbab3ca3e4bb8bb319",
+        "committed_date": "2023-01-15T19:25:43.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-01-15T16:34:27.812Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i004d",
+        "project_id": 44,
+        "project_path": "asus/asus_i004d"
+      },
+      "revision": "6d7ffbefd99219be9e28cefbab3ca3e4bb8bb319",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i004d/-/tree/6d7ffbefd99219be9e28cefbab3ca3e4bb8bb319"
+    },
+    {
+      "item_id": "asus/asus_i005_1@qssi-user-11-RKQ1.201022.002-18.0830.2101.73-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201022.002-18.0830.2101.73-0-release-keys",
+        "commit": "4d436e9066389512ca1011ddfb3e06f5c489faea",
+        "committed_date": "2021-03-17T06:23:04.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-07-04T11:14:00.902Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i005_1",
+        "project_id": 1821,
+        "project_path": "asus/asus_i005_1"
+      },
+      "revision": "4d436e9066389512ca1011ddfb3e06f5c489faea",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i005_1/-/tree/4d436e9066389512ca1011ddfb3e06f5c489faea"
+    },
+    {
+      "item_id": "asus/asus_i005_1@qssi-user-11-RKQ1.201022.002-18.0830.2101.75-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201022.002-18.0830.2101.75-0-release-keys",
+        "commit": "2b896bef318fe674a1f6f4b21a901eaf8f5061d4",
+        "committed_date": "2021-03-17T06:29:29.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-07-04T11:14:00.902Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i005_1",
+        "project_id": 1821,
+        "project_path": "asus/asus_i005_1"
+      },
+      "revision": "2b896bef318fe674a1f6f4b21a901eaf8f5061d4",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i005_1/-/tree/2b896bef318fe674a1f6f4b21a901eaf8f5061d4"
+    },
+    {
+      "item_id": "asus/asus_i005_1@qssi-user-11-RKQ1.201022.002-18.0830.2101.81-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201022.002-18.0830.2101.81-0-release-keys",
+        "commit": "7dfa3137c459eafb03b4175fb6fddf7eaffc92c8",
+        "committed_date": "2021-03-29T22:16:47.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-07-04T11:14:00.902Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i005_1",
+        "project_id": 1821,
+        "project_path": "asus/asus_i005_1"
+      },
+      "revision": "7dfa3137c459eafb03b4175fb6fddf7eaffc92c8",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i005_1/-/tree/7dfa3137c459eafb03b4175fb6fddf7eaffc92c8"
+    },
+    {
+      "item_id": "asus/asus_i005_1@qssi-user-11-RKQ1.210303.002-18.1220.2107.106-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210303.002-18.1220.2107.106-0-release-keys",
+        "commit": "6a5d7f37112ddf9d0608267c8076f43f8c5788bc",
+        "committed_date": "2021-08-21T19:16:27.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-07-04T11:14:00.902Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i005_1",
+        "project_id": 1821,
+        "project_path": "asus/asus_i005_1"
+      },
+      "revision": "6a5d7f37112ddf9d0608267c8076f43f8c5788bc",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i005_1/-/tree/6a5d7f37112ddf9d0608267c8076f43f8c5788bc"
+    },
+    {
+      "item_id": "asus/asus_i005_1@qssi-user-11-RKQ1.210303.002-18.1220.2107.108-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210303.002-18.1220.2107.108-0-release-keys",
+        "commit": "6b10c61e4b1dc8757cb50e3e625267aaaf3b1f5e",
+        "committed_date": "2021-08-21T18:58:55.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-07-04T11:14:00.902Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i005_1",
+        "project_id": 1821,
+        "project_path": "asus/asus_i005_1"
+      },
+      "revision": "6b10c61e4b1dc8757cb50e3e625267aaaf3b1f5e",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i005_1/-/tree/6b10c61e4b1dc8757cb50e3e625267aaaf3b1f5e"
+    },
+    {
+      "item_id": "asus/asus_i005_1@qssi-user-11-RKQ1.210303.002-18.1220.2109.126-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210303.002-18.1220.2109.126-0-release-keys",
+        "commit": "3c7e2eca7663a78f7a4e4054be3c64d53a1cb4f0",
+        "committed_date": "2021-09-17T15:39:07.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-07-04T11:14:00.902Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i005_1",
+        "project_id": 1821,
+        "project_path": "asus/asus_i005_1"
+      },
+      "revision": "3c7e2eca7663a78f7a4e4054be3c64d53a1cb4f0",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i005_1/-/tree/3c7e2eca7663a78f7a4e4054be3c64d53a1cb4f0"
+    },
+    {
+      "item_id": "asus/asus_i005_1@qssi-user-11-RKQ1.210303.002-18.1220.2109.131-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210303.002-18.1220.2109.131-0-release-keys",
+        "commit": "34d978401661e10ba3622d9e739245c6e26add10",
+        "committed_date": "2021-10-03T16:10:25.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-07-04T11:14:00.902Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i005_1",
+        "project_id": 1821,
+        "project_path": "asus/asus_i005_1"
+      },
+      "revision": "34d978401661e10ba3622d9e739245c6e26add10",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i005_1/-/tree/34d978401661e10ba3622d9e739245c6e26add10"
+    },
+    {
+      "item_id": "asus/asus_i005_1@qssi-user-12-SKQ1.210821.001-31.0810.1226.57-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210821.001-31.0810.1226.57-0-release-keys",
+        "commit": "bea4637c0b5c89f6bc41b69994aff5b6caa82a6e",
+        "committed_date": "2022-03-14T14:38:37.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-07-04T11:14:00.902Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i005_1",
+        "project_id": 1821,
+        "project_path": "asus/asus_i005_1"
+      },
+      "revision": "bea4637c0b5c89f6bc41b69994aff5b6caa82a6e",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i005_1/-/tree/bea4637c0b5c89f6bc41b69994aff5b6caa82a6e"
+    },
+    {
+      "item_id": "asus/asus_i005_1@qssi-user-13-TKQ1.220807.001-33.0210.0210.221-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.220807.001-33.0210.0210.221-0-release-keys",
+        "commit": "9437ab17b4820346aaf261b67ac662891bb90258",
+        "committed_date": "2023-07-04T14:03:41.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-07-04T11:14:00.902Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i005_1",
+        "project_id": 1821,
+        "project_path": "asus/asus_i005_1"
+      },
+      "revision": "9437ab17b4820346aaf261b67ac662891bb90258",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i005_1/-/tree/9437ab17b4820346aaf261b67ac662891bb90258"
+    },
+    {
+      "item_id": "asus/asus_i006d@qssi-user-11-RKQ1.201022.002-30.11.51.112-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201022.002-30.11.51.112-release-keys",
+        "commit": "7e9e16c655b198e367ac9f60d6a1b86527a676e1",
+        "committed_date": "2021-08-21T19:39:24.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-05-18T12:35:46.191Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i006d",
+        "project_id": 1533,
+        "project_path": "asus/asus_i006d"
+      },
+      "revision": "7e9e16c655b198e367ac9f60d6a1b86527a676e1",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i006d/-/tree/7e9e16c655b198e367ac9f60d6a1b86527a676e1"
+    },
+    {
+      "item_id": "asus/asus_i006d@qssi-user-11-RKQ1.201022.002-30.11.51.115-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201022.002-30.11.51.115-release-keys",
+        "commit": "ead47c703b7f91eb0ddee433c2a27d3f6a7a2b30",
+        "committed_date": "2021-09-07T18:59:34.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-05-18T12:35:46.191Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i006d",
+        "project_id": 1533,
+        "project_path": "asus/asus_i006d"
+      },
+      "revision": "ead47c703b7f91eb0ddee433c2a27d3f6a7a2b30",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i006d/-/tree/ead47c703b7f91eb0ddee433c2a27d3f6a7a2b30"
+    },
+    {
+      "item_id": "asus/asus_i006d@qssi-user-11-RKQ1.201022.002-30.11.51.67-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201022.002-30.11.51.67-release-keys",
+        "commit": "040ae64ea1d85106661f667239bad127df509ae0",
+        "committed_date": "2021-06-23T19:12:42.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-05-18T12:35:46.191Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i006d",
+        "project_id": 1533,
+        "project_path": "asus/asus_i006d"
+      },
+      "revision": "040ae64ea1d85106661f667239bad127df509ae0",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i006d/-/tree/040ae64ea1d85106661f667239bad127df509ae0"
+    },
+    {
+      "item_id": "asus/asus_i006d@qssi-user-11-RKQ1.201022.002-30.12.112.46-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201022.002-30.12.112.46-release-keys",
+        "commit": "ed74007a08e606d9e21c9be92acc3ff864ac3d60",
+        "committed_date": "2021-11-05T13:21:15.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-05-18T12:35:46.191Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i006d",
+        "project_id": 1533,
+        "project_path": "asus/asus_i006d"
+      },
+      "revision": "ed74007a08e606d9e21c9be92acc3ff864ac3d60",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i006d/-/tree/ed74007a08e606d9e21c9be92acc3ff864ac3d60"
+    },
+    {
+      "item_id": "asus/asus_i006d@qssi-user-11-RKQ1.201022.002-30.12.112.82-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201022.002-30.12.112.82-release-keys",
+        "commit": "72ccb8899f3b8d7fb8d4833d98cbacadb7f0a25c",
+        "committed_date": "2022-02-21T22:58:40.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-05-18T12:35:46.191Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i006d",
+        "project_id": 1533,
+        "project_path": "asus/asus_i006d"
+      },
+      "revision": "72ccb8899f3b8d7fb8d4833d98cbacadb7f0a25c",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i006d/-/tree/72ccb8899f3b8d7fb8d4833d98cbacadb7f0a25c"
+    },
+    {
+      "item_id": "asus/asus_i006d@qssi-user-11-SKQ1.210408.001-7-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-SKQ1.210408.001-7-release-keys",
+        "commit": "b9b6127bd2de54bfc4b4bcd1ac3df6b176c97ad0",
+        "committed_date": "2021-05-18T19:06:23.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-05-18T12:35:46.191Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i006d",
+        "project_id": 1533,
+        "project_path": "asus/asus_i006d"
+      },
+      "revision": "b9b6127bd2de54bfc4b4bcd1ac3df6b176c97ad0",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i006d/-/tree/b9b6127bd2de54bfc4b4bcd1ac3df6b176c97ad0"
+    },
+    {
+      "item_id": "asus/asus_i006d@qssi-user-12-SKQ1.210821.001-31.1004.0404.107-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210821.001-31.1004.0404.107-release-keys",
+        "commit": "fbb9fd434bbe923d4183be728e14036eb08be059",
+        "committed_date": "2022-03-11T12:49:14.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-05-18T12:35:46.191Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i006d",
+        "project_id": 1533,
+        "project_path": "asus/asus_i006d"
+      },
+      "revision": "fbb9fd434bbe923d4183be728e14036eb08be059",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i006d/-/tree/fbb9fd434bbe923d4183be728e14036eb08be059"
+    },
+    {
+      "item_id": "asus/asus_i006d@qssi-user-12-SKQ1.210821.001-31.1004.0404.73-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210821.001-31.1004.0404.73-release-keys",
+        "commit": "faf5bfb43517f50993a6a828ca77f57329b40112",
+        "committed_date": "2021-12-29T06:40:56.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-05-18T12:35:46.191Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i006d",
+        "project_id": 1533,
+        "project_path": "asus/asus_i006d"
+      },
+      "revision": "faf5bfb43517f50993a6a828ca77f57329b40112",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i006d/-/tree/faf5bfb43517f50993a6a828ca77f57329b40112"
+    },
+    {
+      "item_id": "asus/asus_i006d@qssi-user-12-SKQ1.210821.001-31.1010.0410.43-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210821.001-31.1010.0410.43-release-keys",
+        "commit": "c97de515d8bbfc9701e836eb9f88dd48eaf0e861",
+        "committed_date": "2022-03-31T12:37:50.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-05-18T12:35:46.191Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i006d",
+        "project_id": 1533,
+        "project_path": "asus/asus_i006d"
+      },
+      "revision": "c97de515d8bbfc9701e836eb9f88dd48eaf0e861",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i006d/-/tree/c97de515d8bbfc9701e836eb9f88dd48eaf0e861"
+    },
+    {
+      "item_id": "asus/asus_i006d@qssi-user-12-SKQ1.210821.001-31.1010.0410.61-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210821.001-31.1010.0410.61-release-keys",
+        "commit": "030beadf5a766da74cbcb08772f1540e0db72478",
+        "committed_date": "2022-05-12T15:24:20.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-05-18T12:35:46.191Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i006d",
+        "project_id": 1533,
+        "project_path": "asus/asus_i006d"
+      },
+      "revision": "030beadf5a766da74cbcb08772f1540e0db72478",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i006d/-/tree/030beadf5a766da74cbcb08772f1540e0db72478"
+    },
+    {
+      "item_id": "asus/asus_i006d@qssi-user-12-SKQ1.210821.001-31.1010.0410.72-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210821.001-31.1010.0410.72-release-keys",
+        "commit": "6c0d36db227c5210a8dc9c5f83f1981dfde61a02",
+        "committed_date": "2022-06-21T20:04:13.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-05-18T12:35:46.191Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i006d",
+        "project_id": 1533,
+        "project_path": "asus/asus_i006d"
+      },
+      "revision": "6c0d36db227c5210a8dc9c5f83f1981dfde61a02",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i006d/-/tree/6c0d36db227c5210a8dc9c5f83f1981dfde61a02"
+    },
+    {
+      "item_id": "asus/asus_i006d@qssi-user-12-SKQ1.210821.001-31.1010.0411.113-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210821.001-31.1010.0411.113-release-keys",
+        "commit": "1666e60ff3b44e0afb43ef22fb27a3cd7533e05c",
+        "committed_date": "2022-08-04T10:43:48.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-05-18T12:35:46.191Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i006d",
+        "project_id": 1533,
+        "project_path": "asus/asus_i006d"
+      },
+      "revision": "1666e60ff3b44e0afb43ef22fb27a3cd7533e05c",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i006d/-/tree/1666e60ff3b44e0afb43ef22fb27a3cd7533e05c"
+    },
+    {
+      "item_id": "asus/asus_i006d@qssi-user-12-SKQ1.210821.001-31.1010.0411.122-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210821.001-31.1010.0411.122-release-keys",
+        "commit": "d32fb33a53e6491b8a151f157ce40b514862ff86",
+        "committed_date": "2022-09-07T21:30:06.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-05-18T12:35:46.191Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i006d",
+        "project_id": 1533,
+        "project_path": "asus/asus_i006d"
+      },
+      "revision": "d32fb33a53e6491b8a151f157ce40b514862ff86",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i006d/-/tree/d32fb33a53e6491b8a151f157ce40b514862ff86"
+    },
+    {
+      "item_id": "asus/asus_i006d@qssi-user-12-SKQ1.210821.001-31.1010.0411.132-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210821.001-31.1010.0411.132-release-keys",
+        "commit": "0a3ef1331569a2eb096accddc20469ec8a049c6f",
+        "committed_date": "2022-10-07T20:39:23.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-05-18T12:35:46.191Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i006d",
+        "project_id": 1533,
+        "project_path": "asus/asus_i006d"
+      },
+      "revision": "0a3ef1331569a2eb096accddc20469ec8a049c6f",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i006d/-/tree/0a3ef1331569a2eb096accddc20469ec8a049c6f"
+    },
+    {
+      "item_id": "asus/asus_i006d@qssi-user-12-SKQ1.210821.001-31.1010.0411.89-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210821.001-31.1010.0411.89-release-keys",
+        "commit": "f4eed0c64bdcdc109aef97025e41111f93b97927",
+        "committed_date": "2022-06-21T23:52:35.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-05-18T12:35:46.191Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i006d",
+        "project_id": 1533,
+        "project_path": "asus/asus_i006d"
+      },
+      "revision": "f4eed0c64bdcdc109aef97025e41111f93b97927",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i006d/-/tree/f4eed0c64bdcdc109aef97025e41111f93b97927"
+    },
+    {
+      "item_id": "asus/asus_i006d@qssi-user-12-SKQ3.210717.001-31.0803.0403.54-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ3.210717.001-31.0803.0403.54-release-keys",
+        "commit": "68226653f7ef7e35a8508e9300719ca2ae5f9352",
+        "committed_date": "2021-09-14T05:32:25.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-05-18T12:35:46.191Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i006d",
+        "project_id": 1533,
+        "project_path": "asus/asus_i006d"
+      },
+      "revision": "68226653f7ef7e35a8508e9300719ca2ae5f9352",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i006d/-/tree/68226653f7ef7e35a8508e9300719ca2ae5f9352"
+    },
+    {
+      "item_id": "asus/asus_i006d@qssi-user-13-TKQ1.220807.001-33.0210.0210.210-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.220807.001-33.0210.0210.210-release-keys",
+        "commit": "02640f3744470cfa4c437fb109ea521db3e39880",
+        "committed_date": "2023-01-14T16:15:06.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-05-18T12:35:46.191Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i006d",
+        "project_id": 1533,
+        "project_path": "asus/asus_i006d"
+      },
+      "revision": "02640f3744470cfa4c437fb109ea521db3e39880",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i006d/-/tree/02640f3744470cfa4c437fb109ea521db3e39880"
+    },
+    {
+      "item_id": "asus/asus_i006d@qssi-user-13-TKQ1.220807.001-33.0210.0210.296-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.220807.001-33.0210.0210.296-release-keys",
+        "commit": "fa4e6b3fd068270eeff319f1be7f3677dbf95e01",
+        "committed_date": "2023-05-18T15:26:42.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-05-18T12:35:46.191Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i006d",
+        "project_id": 1533,
+        "project_path": "asus/asus_i006d"
+      },
+      "revision": "fa4e6b3fd068270eeff319f1be7f3677dbf95e01",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i006d/-/tree/fa4e6b3fd068270eeff319f1be7f3677dbf95e01"
+    },
+    {
+      "item_id": "asus/asus_i006d@qssi-userdebug-11-RKQ1.200903.002-30.02.46.97-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-userdebug-11-RKQ1.200903.002-30.02.46.97-test-keys",
+        "commit": "18e975d4b7fca66d3e9717425abda42cdb43d0fe",
+        "committed_date": "2022-03-26T07:59:01.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-05-18T12:35:46.191Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i006d",
+        "project_id": 1533,
+        "project_path": "asus/asus_i006d"
+      },
+      "revision": "18e975d4b7fca66d3e9717425abda42cdb43d0fe",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i006d/-/tree/18e975d4b7fca66d3e9717425abda42cdb43d0fe"
+    },
+    {
+      "item_id": "asus/asus_i007_1@qssi-user-11-RKQ1.201112.002-18.1030.2107.138-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201112.002-18.1030.2107.138-0-release-keys",
+        "commit": "fd1fc5cc814fae0ea8af78a9897d039490bc2173",
+        "committed_date": "2021-09-04T05:29:57.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-05-17T10:16:19.724Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i007_1",
+        "project_id": 2188,
+        "project_path": "asus/asus_i007_1"
+      },
+      "revision": "fd1fc5cc814fae0ea8af78a9897d039490bc2173",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i007_1/-/tree/fd1fc5cc814fae0ea8af78a9897d039490bc2173"
+    },
+    {
+      "item_id": "asus/asus_i007_1@qssi-user-11-RKQ1.201112.002-18.1050.2109.163-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201112.002-18.1050.2109.163-0-release-keys",
+        "commit": "6397dcf08d55bf896764c67f6d0ba64bd7d92498",
+        "committed_date": "2021-10-04T03:12:09.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-05-17T10:16:19.724Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i007_1",
+        "project_id": 2188,
+        "project_path": "asus/asus_i007_1"
+      },
+      "revision": "6397dcf08d55bf896764c67f6d0ba64bd7d92498",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i007_1/-/tree/6397dcf08d55bf896764c67f6d0ba64bd7d92498"
+    },
+    {
+      "item_id": "asus/asus_i007_1@qssi-user-11-RKQ1.201112.002-18.1055.2305.249-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201112.002-18.1055.2305.249-0-release-keys",
+        "commit": "d1657b936281b268824c5cb68a3138ad5996c2d3",
+        "committed_date": "2023-05-17T13:09:14.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-05-17T10:16:19.724Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i007_1",
+        "project_id": 2188,
+        "project_path": "asus/asus_i007_1"
+      },
+      "revision": "d1657b936281b268824c5cb68a3138ad5996c2d3",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i007_1/-/tree/d1657b936281b268824c5cb68a3138ad5996c2d3"
+    },
+    {
+      "item_id": "asus/asus_i01wd@qssi-user-11-RKQ1.200710.002-18.0610.2106.156-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200710.002-18.0610.2106.156-0-release-keys",
+        "commit": "6a105367eade92bb66ac157f6256e702a60da090",
+        "committed_date": "2025-03-28T20:16:31.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-03-28T17:13:59.526Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_i01wd",
+        "project_id": 5611,
+        "project_path": "asus/asus_i01wd"
+      },
+      "revision": "6a105367eade92bb66ac157f6256e702a60da090",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_i01wd/-/tree/6a105367eade92bb66ac157f6256e702a60da090"
+    },
+    {
+      "item_id": "asus/asus_p00j@VZW_ASUS_P00J-user-8.0.0-OPR1.170623.032-VZW_ASUS_P00J-V5.1.5-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "VZW_ASUS_P00J-user-8.0.0-OPR1.170623.032-VZW_ASUS_P00J-V5.1.5-release-keys",
+        "commit": "f09f0a2edda0f7a5cc5c3eea82a981bd9aaa13e0",
+        "committed_date": "2023-03-01T20:31:12.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-03-01T17:29:33.955Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_p00j",
+        "project_id": 4080,
+        "project_path": "asus/asus_p00j"
+      },
+      "revision": "f09f0a2edda0f7a5cc5c3eea82a981bd9aaa13e0",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_p00j/-/tree/f09f0a2edda0f7a5cc5c3eea82a981bd9aaa13e0"
+    },
+    {
+      "item_id": "asus/asus_x00hd@msm8937_64-userdebug-7.1.1-NMF26F-14.2016.1612.F321-20170923-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_64-userdebug-7.1.1-NMF26F-14.2016.1612.F321-20170923-release-keys",
+        "commit": "6f488cb4948159e02eb05df31ec0415678b7c55b",
+        "committed_date": "2020-09-18T10:27:14.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T13:25:47.344Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_x00hd",
+        "project_id": 1032,
+        "project_path": "asus/asus_x00hd"
+      },
+      "revision": "6f488cb4948159e02eb05df31ec0415678b7c55b",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_x00hd/-/tree/6f488cb4948159e02eb05df31ec0415678b7c55b"
+    },
+    {
+      "item_id": "asus/asus_x00id@msm8937_64-user-9-PKQ1.181203.001-16.0200.1907.28-20190708-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_64-user-9-PKQ1.181203.001-16.0200.1907.28-20190708-release-keys",
+        "commit": "739966e15e80a9eef7fe4ea4394c9f4ba7c4c45b",
+        "committed_date": "2021-08-11T16:53:30.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T01:25:47.359Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_x00id",
+        "project_id": 1483,
+        "project_path": "asus/asus_x00id"
+      },
+      "revision": "739966e15e80a9eef7fe4ea4394c9f4ba7c4c45b",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_x00id/-/tree/739966e15e80a9eef7fe4ea4394c9f4ba7c4c45b"
+    },
+    {
+      "item_id": "asus/asus_x00ld_1@msm8937_64-user-8.1.0-OPM1.171019.011-15.0400.1910.518-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_64-user-8.1.0-OPM1.171019.011-15.0400.1910.518-0-release-keys",
+        "commit": "f72f3ffb15d3e99da3f4e75c9f5151a322e27341",
+        "committed_date": "2020-10-26T06:08:31.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T16:49:37.620Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_x00ld_1",
+        "project_id": 1201,
+        "project_path": "asus/asus_x00ld_1"
+      },
+      "revision": "f72f3ffb15d3e99da3f4e75c9f5151a322e27341",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_x00ld_1/-/tree/f72f3ffb15d3e99da3f4e75c9f5151a322e27341"
+    },
+    {
+      "item_id": "asus/asus_x00ld_1@msm8937_64-user-9-PKQ1.181203.001-16.0200.1907.19-20190708-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_64-user-9-PKQ1.181203.001-16.0200.1907.19-20190708-release-keys",
+        "commit": "a8237670e69ca85e69cb95105b992187d71ebff8",
+        "committed_date": "2020-10-26T06:08:04.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T16:49:37.620Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_x00ld_1",
+        "project_id": 1201,
+        "project_path": "asus/asus_x00ld_1"
+      },
+      "revision": "a8237670e69ca85e69cb95105b992187d71ebff8",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_x00ld_1/-/tree/a8237670e69ca85e69cb95105b992187d71ebff8"
+    },
+    {
+      "item_id": "asus/asus_x00pd@msm8937_64-user-10-QKQ1.191002.002-17.00.2003.23-20200401-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_64-user-10-QKQ1.191002.002-17.00.2003.23-20200401-release-keys",
+        "commit": "7883a2d2dbf2d83c91b322b105e439c0b101260a",
+        "committed_date": "2020-04-14T19:23:45.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T00:14:53.060Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_x00pd",
+        "project_id": 827,
+        "project_path": "asus/asus_x00pd"
+      },
+      "revision": "7883a2d2dbf2d83c91b322b105e439c0b101260a",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_x00pd/-/tree/7883a2d2dbf2d83c91b322b105e439c0b101260a"
+    },
+    {
+      "item_id": "asus/asus_x00qd@WW_Phone-user-9-PPR1.180610.009-16.0615.1905.100-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "WW_Phone-user-9-PPR1.180610.009-16.0615.1905.100-0-release-keys",
+        "commit": "3cfb50fe4765026bd5f7241d25a53b368ea54855",
+        "committed_date": "2019-07-21T00:44:14.000+08:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T07:56:32.344Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_x00qd",
+        "project_id": 1581,
+        "project_path": "asus/asus_x00qd"
+      },
+      "revision": "3cfb50fe4765026bd5f7241d25a53b368ea54855",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_x00qd/-/tree/3cfb50fe4765026bd5f7241d25a53b368ea54855"
+    },
+    {
+      "item_id": "asus/asus_x00qd@WW_Phone-user-9-PPR1.180610.009-16.0615.1905.102-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "WW_Phone-user-9-PPR1.180610.009-16.0615.1905.102-0-release-keys",
+        "commit": "907771b9cd354bf4aa7417180f5c1ec662ce89cd",
+        "committed_date": "2019-08-27T01:11:41.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T07:56:32.344Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_x00qd",
+        "project_id": 1581,
+        "project_path": "asus/asus_x00qd"
+      },
+      "revision": "907771b9cd354bf4aa7417180f5c1ec662ce89cd",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_x00qd/-/tree/907771b9cd354bf4aa7417180f5c1ec662ce89cd"
+    },
+    {
+      "item_id": "asus/asus_x00qd@sdm660_64-user-10-QKQ1.190723.002-89-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-10-QKQ1.190723.002-89-release-keys",
+        "commit": "0b0f5e0a238ef99931c0c2626ced1055cd44a23e",
+        "committed_date": "2020-04-08T16:05:26.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T07:56:32.344Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_x00qd",
+        "project_id": 1581,
+        "project_path": "asus/asus_x00qd"
+      },
+      "revision": "0b0f5e0a238ef99931c0c2626ced1055cd44a23e",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_x00qd/-/tree/0b0f5e0a238ef99931c0c2626ced1055cd44a23e"
+    },
+    {
+      "item_id": "asus/asus_x00rd@msm8937_64-user-10-QKQ1.191002.002-17.07.2003.405-20200330-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_64-user-10-QKQ1.191002.002-17.07.2003.405-20200330-release-keys",
+        "commit": "c5e5f48335ff5ae828683d0b1e9a94df9f0ff30f",
+        "committed_date": "2020-04-11T05:43:09.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T09:14:27.201Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_x00rd",
+        "project_id": 935,
+        "project_path": "asus/asus_x00rd"
+      },
+      "revision": "c5e5f48335ff5ae828683d0b1e9a94df9f0ff30f",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_x00rd/-/tree/c5e5f48335ff5ae828683d0b1e9a94df9f0ff30f"
+    },
+    {
+      "item_id": "asus/asus_x00td@sdm660_64-user-10-QKQ1-72-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-10-QKQ1-72-release-keys",
+        "commit": "57bb8c3967be21b5455214c647d2afcd1c0557af",
+        "committed_date": "2021-05-01T11:16:18.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T15:14:54.468Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_x00td",
+        "project_id": 1127,
+        "project_path": "asus/asus_x00td"
+      },
+      "revision": "57bb8c3967be21b5455214c647d2afcd1c0557af",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_x00td/-/tree/57bb8c3967be21b5455214c647d2afcd1c0557af"
+    },
+    {
+      "item_id": "asus/asus_x01a_1@msm8953_64-user-10-WW_Phone-202005071625-17.2018.2004.31-20200507-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8953_64-user-10-WW_Phone-202005071625-17.2018.2004.31-20200507-release-keys",
+        "commit": "5dd04b9dd4197fcf97645d7077a08aaf33bd9ae6",
+        "committed_date": "2022-04-03T09:08:28.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T20:54:52.841Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_x01a_1",
+        "project_id": 1297,
+        "project_path": "asus/asus_x01a_1"
+      },
+      "revision": "5dd04b9dd4197fcf97645d7077a08aaf33bd9ae6",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_x01a_1/-/tree/5dd04b9dd4197fcf97645d7077a08aaf33bd9ae6"
+    },
+    {
+      "item_id": "asus/asus_x01a_1@msm8953_64-user-9-WW_Phone-202011271133-78-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8953_64-user-9-WW_Phone-202011271133-78-release-keys",
+        "commit": "3a5ef24abdd0a20f4ba7b887cc9aeee26734ff83",
+        "committed_date": "2022-05-24T23:26:13.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T20:54:52.841Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_x01a_1",
+        "project_id": 1297,
+        "project_path": "asus/asus_x01a_1"
+      },
+      "revision": "3a5ef24abdd0a20f4ba7b887cc9aeee26734ff83",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_x01a_1/-/tree/3a5ef24abdd0a20f4ba7b887cc9aeee26734ff83"
+    },
+    {
+      "item_id": "asus/asus_x01bd@sdm660_64-user-10-QKQ1-73-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-10-QKQ1-73-release-keys",
+        "commit": "87aa969ee183d450016cea783f6f5387ea3b7970",
+        "committed_date": "2021-05-01T11:14:24.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T10:07:42.756Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_x01bd",
+        "project_id": 942,
+        "project_path": "asus/asus_x01bd"
+      },
+      "revision": "87aa969ee183d450016cea783f6f5387ea3b7970",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_x01bd/-/tree/87aa969ee183d450016cea783f6f5387ea3b7970"
+    },
+    {
+      "item_id": "asus/asus_z00e_2@WW_Phone-user-6.0.1-MMB29P-13.1010.1612.53-20170202-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "WW_Phone-user-6.0.1-MMB29P-13.1010.1612.53-20170202-release-keys",
+        "commit": "d0d99be923ac50f95fe6b0b02acfc682aaf1be52",
+        "committed_date": "2023-12-02T04:19:41.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-12-02T01:17:58.992Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_z00e_2",
+        "project_id": 4627,
+        "project_path": "asus/asus_z00e_2"
+      },
+      "revision": "d0d99be923ac50f95fe6b0b02acfc682aaf1be52",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_z00e_2/-/tree/d0d99be923ac50f95fe6b0b02acfc682aaf1be52"
+    },
+    {
+      "item_id": "asus/asus_z01h_1@Z01H-user-6.0.1-MMB29P-WW_user_11.41.87.2_20170514-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Z01H-user-6.0.1-MMB29P-WW_user_11.41.87.2_20170514-release-keys",
+        "commit": "b5c9a5fe0e1cbe4f3fe4efcce7be89dd20157db7",
+        "committed_date": "2022-08-08T01:39:31.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-11-02T08:03:25.097Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_z01h_1",
+        "project_id": 2338,
+        "project_path": "asus/asus_z01h_1"
+      },
+      "revision": "b5c9a5fe0e1cbe4f3fe4efcce7be89dd20157db7",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_z01h_1/-/tree/b5c9a5fe0e1cbe4f3fe4efcce7be89dd20157db7"
+    },
+    {
+      "item_id": "asus/asus_z01h_1@Z01H-user-7.1.1-NMF26F-WW_user_71.60.139.30_20180306-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Z01H-user-7.1.1-NMF26F-WW_user_71.60.139.30_20180306-release-keys",
+        "commit": "76719df2b868d61e250ec2508e9bf0141e32d415",
+        "committed_date": "2022-11-02T10:58:49.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-11-02T08:03:25.097Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_z01h_1",
+        "project_id": 2338,
+        "project_path": "asus/asus_z01h_1"
+      },
+      "revision": "76719df2b868d61e250ec2508e9bf0141e32d415",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_z01h_1/-/tree/76719df2b868d61e250ec2508e9bf0141e32d415"
+    },
+    {
+      "item_id": "asus/asus_z01h_1@Z01H-user-8.0.0-OPR1.170623.026-WW_user_80.30.76.74_20190319-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Z01H-user-8.0.0-OPR1.170623.026-WW_user_80.30.76.74_20190319-release-keys",
+        "commit": "18fc42424d3151d23d8cab397f2088287739839c",
+        "committed_date": "2022-07-01T03:41:12.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-11-02T08:03:25.097Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_z01h_1",
+        "project_id": 2338,
+        "project_path": "asus/asus_z01h_1"
+      },
+      "revision": "18fc42424d3151d23d8cab397f2088287739839c",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_z01h_1/-/tree/18fc42424d3151d23d8cab397f2088287739839c"
+    },
+    {
+      "item_id": "asus/asus_z01kd_1@WW_Phone-user-8.0.0-OPR1.170623.032-15.0610.1909.39-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "WW_Phone-user-8.0.0-OPR1.170623.032-15.0610.1909.39-0-release-keys",
+        "commit": "0fd3b00c9cd5e72dc446c7151a22fe2bc678cb80",
+        "committed_date": "2022-03-05T13:31:01.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T18:09:48.172Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_z01kd_1",
+        "project_id": 749,
+        "project_path": "asus/asus_z01kd_1"
+      },
+      "revision": "0fd3b00c9cd5e72dc446c7151a22fe2bc678cb80",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_z01kd_1/-/tree/0fd3b00c9cd5e72dc446c7151a22fe2bc678cb80"
+    },
+    {
+      "item_id": "asus/asus_z01m_1@Z01M-user-7.1.1-NMF26F-WW_user_71.50.395.99_20190918-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Z01M-user-7.1.1-NMF26F-WW_user_71.50.395.99_20190918-release-keys",
+        "commit": "2c5acd2192654aac70112e19bffb8130f16db41e",
+        "committed_date": "2022-08-04T17:23:09.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-08-04T14:21:21.990Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_z01m_1",
+        "project_id": 2381,
+        "project_path": "asus/asus_z01m_1"
+      },
+      "revision": "2c5acd2192654aac70112e19bffb8130f16db41e",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_z01m_1/-/tree/2c5acd2192654aac70112e19bffb8130f16db41e"
+    },
+    {
+      "item_id": "asus/asus_z01qd_1@CN_Phone-user-8.1.0-OPM1.171019.026-15.1630.1903.90-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "CN_Phone-user-8.1.0-OPM1.171019.026-15.1630.1903.90-0-release-keys",
+        "commit": "4d741e9c4eb1657678473e26c601b2901ce98841",
+        "committed_date": "2019-08-27T01:17:42.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T20:58:37.414Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_z01qd_1",
+        "project_id": 1298,
+        "project_path": "asus/asus_z01qd_1"
+      },
+      "revision": "4d741e9c4eb1657678473e26c601b2901ce98841",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_z01qd_1/-/tree/4d741e9c4eb1657678473e26c601b2901ce98841"
+    },
+    {
+      "item_id": "asus/asus_z01qd_1@WW_Phone-user-8.1.0-OPM1.171019.026-15.1616.1809.48-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "WW_Phone-user-8.1.0-OPM1.171019.026-15.1616.1809.48-0-release-keys",
+        "commit": "5bb50439104d4398e6065f9fefcaca3988d20a02",
+        "committed_date": "2019-07-26T16:51:15.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T20:58:37.414Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_z01qd_1",
+        "project_id": 1298,
+        "project_path": "asus/asus_z01qd_1"
+      },
+      "revision": "5bb50439104d4398e6065f9fefcaca3988d20a02",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_z01qd_1/-/tree/5bb50439104d4398e6065f9fefcaca3988d20a02"
+    },
+    {
+      "item_id": "asus/asus_z01qd_1@WW_Phone-user-8.1.0-OPM1.171019.026-15.1630.1903.89-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "WW_Phone-user-8.1.0-OPM1.171019.026-15.1630.1903.89-0-release-keys",
+        "commit": "b9ec338a0f59f423a3a877552ae08b0cd380e91c",
+        "committed_date": "2019-07-25T13:29:22.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T20:58:37.414Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_z01qd_1",
+        "project_id": 1298,
+        "project_path": "asus/asus_z01qd_1"
+      },
+      "revision": "b9ec338a0f59f423a3a877552ae08b0cd380e91c",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_z01qd_1/-/tree/b9ec338a0f59f423a3a877552ae08b0cd380e91c"
+    },
+    {
+      "item_id": "asus/asus_z01r_1@Z01R-user-9-PPR1.180610.009-WW_user_90.11.162.58_20190424-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Z01R-user-9-PPR1.180610.009-WW_user_90.11.162.58_20190424-release-keys",
+        "commit": "6647911ba92c6c07406ef2ae36c00b6aa2761342",
+        "committed_date": "2019-07-08T16:11:05.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T21:01:04.462Z",
+        "namespace_hint": "asus",
+        "project_hint": "asus_z01r_1",
+        "project_id": 1299,
+        "project_path": "asus/asus_z01r_1"
+      },
+      "revision": "6647911ba92c6c07406ef2ae36c00b6aa2761342",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asus_z01r_1/-/tree/6647911ba92c6c07406ef2ae36c00b6aa2761342"
+    },
+    {
+      "item_id": "asus/asusai2501@qssi_64-user-15-AQ3A.240829.003-35.1810.1810.123-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-15-AQ3A.240829.003-35.1810.1810.123-0-release-keys",
+        "commit": "f9841110d17e10f8a98592b4397cb6eb0767de30",
+        "committed_date": "2024-12-05T18:31:01.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-11-26T07:54:17.050Z",
+        "namespace_hint": "asus",
+        "project_hint": "asusai2501",
+        "project_id": 5497,
+        "project_path": "asus/asusai2501"
+      },
+      "revision": "f9841110d17e10f8a98592b4397cb6eb0767de30",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asusai2501/-/tree/f9841110d17e10f8a98592b4397cb6eb0767de30"
+    },
+    {
+      "item_id": "asus/asusai2501@qssi_64-user-15-AQ3A.240829.003-35.1810.1810.164-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-15-AQ3A.240829.003-35.1810.1810.164-0-release-keys",
+        "commit": "c56ddbf5310dd84460a4b8ad3abf6422ce75c5ea",
+        "committed_date": "2025-01-05T06:12:28.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-11-26T07:54:17.050Z",
+        "namespace_hint": "asus",
+        "project_hint": "asusai2501",
+        "project_id": 5497,
+        "project_path": "asus/asusai2501"
+      },
+      "revision": "c56ddbf5310dd84460a4b8ad3abf6422ce75c5ea",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asusai2501/-/tree/c56ddbf5310dd84460a4b8ad3abf6422ce75c5ea"
+    },
+    {
+      "item_id": "asus/asusai2501@qssi_64-user-15-AQ3A.240829.003-35.1810.1810.218-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-15-AQ3A.240829.003-35.1810.1810.218-0-release-keys",
+        "commit": "fec1bbb2cfb4747ba1dbf382dd951218cff0e739",
+        "committed_date": "2025-01-23T07:49:13.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-11-26T07:54:17.050Z",
+        "namespace_hint": "asus",
+        "project_hint": "asusai2501",
+        "project_id": 5497,
+        "project_path": "asus/asusai2501"
+      },
+      "revision": "fec1bbb2cfb4747ba1dbf382dd951218cff0e739",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asusai2501/-/tree/fec1bbb2cfb4747ba1dbf382dd951218cff0e739"
+    },
+    {
+      "item_id": "asus/asusai2501@qssi_64-user-15-AQ3A.240829.003-35.1810.1810.243-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-15-AQ3A.240829.003-35.1810.1810.243-0-release-keys",
+        "commit": "6f08f9b80d053b1c9b244daceb3db0185fdf86f0",
+        "committed_date": "2025-02-06T13:48:41.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-11-26T07:54:17.050Z",
+        "namespace_hint": "asus",
+        "project_hint": "asusai2501",
+        "project_id": 5497,
+        "project_path": "asus/asusai2501"
+      },
+      "revision": "6f08f9b80d053b1c9b244daceb3db0185fdf86f0",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asusai2501/-/tree/6f08f9b80d053b1c9b244daceb3db0185fdf86f0"
+    },
+    {
+      "item_id": "asus/asusai2501@qssi_64-user-15-AQ3A.240829.003-35.1810.1810.346-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-15-AQ3A.240829.003-35.1810.1810.346-0-release-keys",
+        "commit": "88658e511fb2add44ab10952ae4e552bf8f22b63",
+        "committed_date": "2025-04-25T08:10:33.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-11-26T07:54:17.050Z",
+        "namespace_hint": "asus",
+        "project_hint": "asusai2501",
+        "project_id": 5497,
+        "project_path": "asus/asusai2501"
+      },
+      "revision": "88658e511fb2add44ab10952ae4e552bf8f22b63",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asusai2501/-/tree/88658e511fb2add44ab10952ae4e552bf8f22b63"
+    },
+    {
+      "item_id": "asus/asusai2501@qssi_64-user-15-AQ3A.240829.003-35.1810.1810.411-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-15-AQ3A.240829.003-35.1810.1810.411-0-release-keys",
+        "commit": "7c9e74e2bd967dde740be5291328c9a47cdae027",
+        "committed_date": "2025-07-23T07:11:07.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-11-26T07:54:17.050Z",
+        "namespace_hint": "asus",
+        "project_hint": "asusai2501",
+        "project_id": 5497,
+        "project_path": "asus/asusai2501"
+      },
+      "revision": "7c9e74e2bd967dde740be5291328c9a47cdae027",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asusai2501/-/tree/7c9e74e2bd967dde740be5291328c9a47cdae027"
+    },
+    {
+      "item_id": "asus/asusai2501@qssi_64-user-15-AQ3A.240829.003-35.1810.1810.78-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-15-AQ3A.240829.003-35.1810.1810.78-0-release-keys",
+        "commit": "2203f6c2890e3eacd88f8b856f23b91a815b12f8",
+        "committed_date": "2024-11-21T04:59:14.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-11-26T07:54:17.050Z",
+        "namespace_hint": "asus",
+        "project_hint": "asusai2501",
+        "project_id": 5497,
+        "project_path": "asus/asusai2501"
+      },
+      "revision": "2203f6c2890e3eacd88f8b856f23b91a815b12f8",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asusai2501/-/tree/2203f6c2890e3eacd88f8b856f23b91a815b12f8"
+    },
+    {
+      "item_id": "asus/asusai2501@qssi_64-user-16-BQ2A.250525.001-36.0810.1810.43-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-16-BQ2A.250525.001-36.0810.1810.43-0-release-keys",
+        "commit": "ec87ecc568f92be6daa8430f433a84b551451d90",
+        "committed_date": "2025-11-26T10:36:50.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-11-26T07:54:17.050Z",
+        "namespace_hint": "asus",
+        "project_hint": "asusai2501",
+        "project_id": 5497,
+        "project_path": "asus/asusai2501"
+      },
+      "revision": "ec87ecc568f92be6daa8430f433a84b551451d90",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/asusai2501/-/tree/ec87ecc568f92be6daa8430f433a84b551451d90"
+    },
+    {
+      "item_id": "asus/fake@qssi-user-15-AQ3A.240812.002-35.0604.0404.153-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-15-AQ3A.240812.002-35.0604.0404.153-release-keys",
+        "commit": "9a598d3f9272e510853d6fe1b5c2d00d8426ae2a",
+        "committed_date": "2026-03-06T07:03:51.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-03-06T03:58:52.009Z",
+        "namespace_hint": "asus",
+        "project_hint": "fake",
+        "project_id": 5749,
+        "project_path": "asus/fake"
+      },
+      "revision": "9a598d3f9272e510853d6fe1b5c2d00d8426ae2a",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/fake/-/tree/9a598d3f9272e510853d6fe1b5c2d00d8426ae2a"
+    },
+    {
+      "item_id": "asus/i001_1@CN_Phone-user-9-PKQ1.190414.001-16.0631.1910.63-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "CN_Phone-user-9-PKQ1.190414.001-16.0631.1910.63-0-release-keys",
+        "commit": "badd2e51a721488dae9c99665bb08254c5d0e29e",
+        "committed_date": "2019-12-19T21:21:56.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T12:32:15.035Z",
+        "namespace_hint": "asus",
+        "project_hint": "i001_1",
+        "project_id": 992,
+        "project_path": "asus/i001_1"
+      },
+      "revision": "badd2e51a721488dae9c99665bb08254c5d0e29e",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/i001_1/-/tree/badd2e51a721488dae9c99665bb08254c5d0e29e"
+    },
+    {
+      "item_id": "asus/i001_1@WW_Phone-user-9-PKQ1.190414.001-16.0631.1910.35-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "WW_Phone-user-9-PKQ1.190414.001-16.0631.1910.35-0-release-keys",
+        "commit": "3674bbeca307461136ec356b51642287dd2d20d7",
+        "committed_date": "2019-12-06T11:46:55.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T12:32:15.035Z",
+        "namespace_hint": "asus",
+        "project_hint": "i001_1",
+        "project_id": 992,
+        "project_path": "asus/i001_1"
+      },
+      "revision": "3674bbeca307461136ec356b51642287dd2d20d7",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/i001_1/-/tree/3674bbeca307461136ec356b51642287dd2d20d7"
+    },
+    {
+      "item_id": "asus/i001_1@WW_Phone-user-9-PKQ1.190414.001-16.0631.1910.64-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "WW_Phone-user-9-PKQ1.190414.001-16.0631.1910.64-0-release-keys",
+        "commit": "d6c026486497f0dc2aec60b87b7aa87e1ea3652d",
+        "committed_date": "2020-03-09T02:48:20.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T12:32:15.035Z",
+        "namespace_hint": "asus",
+        "project_hint": "i001_1",
+        "project_id": 992,
+        "project_path": "asus/i001_1"
+      },
+      "revision": "d6c026486497f0dc2aec60b87b7aa87e1ea3652d",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/i001_1/-/tree/d6c026486497f0dc2aec60b87b7aa87e1ea3652d"
+    },
+    {
+      "item_id": "asus/i001_1@qssi-user-10-QKQ1.190825.002-17.0210.2001.60-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.190825.002-17.0210.2001.60-0-release-keys",
+        "commit": "02c53ad84a54bbec0206e677ac489e7616b63042",
+        "committed_date": "2020-03-13T09:51:23.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T12:32:15.035Z",
+        "namespace_hint": "asus",
+        "project_hint": "i001_1",
+        "project_id": 992,
+        "project_path": "asus/i001_1"
+      },
+      "revision": "02c53ad84a54bbec0206e677ac489e7616b63042",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/i001_1/-/tree/02c53ad84a54bbec0206e677ac489e7616b63042"
+    },
+    {
+      "item_id": "asus/i01wd@qssi-user-10-QP1A.190711.005-17.1810.1910.73-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QP1A.190711.005-17.1810.1910.73-0-release-keys",
+        "commit": "50a5e51099ab3bcf128bb0b751f3d31988fe779e",
+        "committed_date": "2019-12-03T23:59:56.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T10:06:12.809Z",
+        "namespace_hint": "asus",
+        "project_hint": "i01wd",
+        "project_id": 941,
+        "project_path": "asus/i01wd"
+      },
+      "revision": "50a5e51099ab3bcf128bb0b751f3d31988fe779e",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/i01wd/-/tree/50a5e51099ab3bcf128bb0b751f3d31988fe779e"
+    },
+    {
+      "item_id": "asus/i01wd@qssi-user-10-QP1A.190711.005-17.1810.1911.110-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QP1A.190711.005-17.1810.1911.110-0-release-keys",
+        "commit": "c5e6f2936efeffd768f3b72adf3cb6f581e09c72",
+        "committed_date": "2019-12-24T23:22:42.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T10:06:12.809Z",
+        "namespace_hint": "asus",
+        "project_hint": "i01wd",
+        "project_id": 941,
+        "project_path": "asus/i01wd"
+      },
+      "revision": "c5e6f2936efeffd768f3b72adf3cb6f581e09c72",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/i01wd/-/tree/c5e6f2936efeffd768f3b72adf3cb6f581e09c72"
+    },
+    {
+      "item_id": "asus/kona@qssi-user-12-SKQ1.210821.001-31.0210.0210.309-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210821.001-31.0210.0210.309-release-keys",
+        "commit": "aaf39dd0306d55c7037ccc2b54ff59ae3f67b987",
+        "committed_date": "2023-05-06T12:31:22.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-06-12T12:46:24.904Z",
+        "namespace_hint": "asus",
+        "project_hint": "kona",
+        "project_id": 4277,
+        "project_path": "asus/kona"
+      },
+      "revision": "aaf39dd0306d55c7037ccc2b54ff59ae3f67b987",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/kona/-/tree/aaf39dd0306d55c7037ccc2b54ff59ae3f67b987"
+    },
+    {
+      "item_id": "asus/kona@qssi-user-12-SKQ1.210821.001-31.0210.0210.324-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210821.001-31.0210.0210.324-release-keys",
+        "commit": "c3d4af767df8fe94428a7f7e4816fc8a07a4dfcc",
+        "committed_date": "2023-06-12T15:38:18.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-06-12T12:46:24.904Z",
+        "namespace_hint": "asus",
+        "project_hint": "kona",
+        "project_id": 4277,
+        "project_path": "asus/kona"
+      },
+      "revision": "c3d4af767df8fe94428a7f7e4816fc8a07a4dfcc",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/kona/-/tree/c3d4af767df8fe94428a7f7e4816fc8a07a4dfcc"
+    },
+    {
+      "item_id": "asus/msm8953_64@msm8953_64-user-9-WW_Phone-202001171115-58-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8953_64-user-9-WW_Phone-202001171115-58-release-keys",
+        "commit": "7303d7137606aa01d2bed42c366b0cf6f342ee00",
+        "committed_date": "2020-02-26T03:34:36.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T00:53:17.188Z",
+        "namespace_hint": "asus",
+        "project_hint": "msm8953_64",
+        "project_id": 1454,
+        "project_path": "asus/msm8953_64"
+      },
+      "revision": "7303d7137606aa01d2bed42c366b0cf6f342ee00",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/msm8953_64/-/tree/7303d7137606aa01d2bed42c366b0cf6f342ee00"
+    },
+    {
+      "item_id": "asus/p00c_2@JP_P00C-user-7.0-NRD90M-JP_P00C-V5.3.20-20171229-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "JP_P00C-user-7.0-NRD90M-JP_P00C-V5.3.20-20171229-release-keys",
+        "commit": "77ab96ad116bd3addaa4667d52db5de425e113fa",
+        "committed_date": "2024-12-14T21:03:22.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-12-14T18:01:46.904Z",
+        "namespace_hint": "asus",
+        "project_hint": "p00c_2",
+        "project_id": 5513,
+        "project_path": "asus/p00c_2"
+      },
+      "revision": "77ab96ad116bd3addaa4667d52db5de425e113fa",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/p00c_2/-/tree/77ab96ad116bd3addaa4667d52db5de425e113fa"
+    },
+    {
+      "item_id": "asus/qssi@qssi-user-12-TKQ1.220327.001-32.0301.0403.10-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-TKQ1.220327.001-32.0301.0403.10-release-keys",
+        "commit": "134ad190d3a2788bb2bf5d4b0617e3fc833a6578",
+        "committed_date": "2022-05-11T22:11:23.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-07-10T04:43:09.451Z",
+        "namespace_hint": "asus",
+        "project_hint": "qssi",
+        "project_id": 51,
+        "project_path": "asus/qssi"
+      },
+      "revision": "134ad190d3a2788bb2bf5d4b0617e3fc833a6578",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/qssi/-/tree/134ad190d3a2788bb2bf5d4b0617e3fc833a6578"
+    },
+    {
+      "item_id": "asus/qssi@qssi-user-13-TKQ1.220523.001-32.0501.0403.4-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.220523.001-32.0501.0403.4-release-keys",
+        "commit": "a314f703a4c78e59792bda39a35a1a8eda338cf7",
+        "committed_date": "2022-07-10T07:37:00.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-07-10T04:43:09.451Z",
+        "namespace_hint": "asus",
+        "project_hint": "qssi",
+        "project_id": 51,
+        "project_path": "asus/qssi"
+      },
+      "revision": "a314f703a4c78e59792bda39a35a1a8eda338cf7",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/qssi/-/tree/a314f703a4c78e59792bda39a35a1a8eda338cf7"
+    },
+    {
+      "item_id": "asus/ww_i005d@qssi-user-12-SKQ1.210821.001-31.0810.1226.114-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210821.001-31.0810.1226.114-0-release-keys",
+        "commit": "f3aeb5b14cc0352a6a6355499b71fb8a7b391c9c",
+        "committed_date": "2022-09-08T04:42:18.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-20T08:22:55.052Z",
+        "namespace_hint": "asus",
+        "project_hint": "ww_i005d",
+        "project_id": 938,
+        "project_path": "asus/ww_i005d"
+      },
+      "revision": "f3aeb5b14cc0352a6a6355499b71fb8a7b391c9c",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/ww_i005d/-/tree/f3aeb5b14cc0352a6a6355499b71fb8a7b391c9c"
+    },
+    {
+      "item_id": "asus/ww_i005d@qssi-user-12-SKQ1.210821.001-31.0810.1226.128-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210821.001-31.0810.1226.128-0-release-keys",
+        "commit": "5423bace1f85e9ac068a0362fba0346ee4fccc2b",
+        "committed_date": "2022-09-22T15:12:51.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-20T08:22:55.052Z",
+        "namespace_hint": "asus",
+        "project_hint": "ww_i005d",
+        "project_id": 938,
+        "project_path": "asus/ww_i005d"
+      },
+      "revision": "5423bace1f85e9ac068a0362fba0346ee4fccc2b",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/ww_i005d/-/tree/5423bace1f85e9ac068a0362fba0346ee4fccc2b"
+    },
+    {
+      "item_id": "asus/ww_i005d@qssi-user-12-SKQ1.210821.001-31.0810.1226.77-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210821.001-31.0810.1226.77-0-release-keys",
+        "commit": "a2a05e6217e5adb612102c040b1b17a0be13aca9",
+        "committed_date": "2022-04-26T16:02:25.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-20T08:22:55.052Z",
+        "namespace_hint": "asus",
+        "project_hint": "ww_i005d",
+        "project_id": 938,
+        "project_path": "asus/ww_i005d"
+      },
+      "revision": "a2a05e6217e5adb612102c040b1b17a0be13aca9",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/ww_i005d/-/tree/a2a05e6217e5adb612102c040b1b17a0be13aca9"
+    },
+    {
+      "item_id": "asus/ww_i005d@qssi-user-12-SKQ1.210821.001-31.0810.1226.84-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210821.001-31.0810.1226.84-0-release-keys",
+        "commit": "16f2c7bf9e35e526cbbbeaee9a05276bba3f46fb",
+        "committed_date": "2022-05-24T12:43:45.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-20T08:22:55.052Z",
+        "namespace_hint": "asus",
+        "project_hint": "ww_i005d",
+        "project_id": 938,
+        "project_path": "asus/ww_i005d"
+      },
+      "revision": "16f2c7bf9e35e526cbbbeaee9a05276bba3f46fb",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/ww_i005d/-/tree/16f2c7bf9e35e526cbbbeaee9a05276bba3f46fb"
+    },
+    {
+      "item_id": "asus/ww_i005d@qssi-user-12-SKQ1.210821.001-31.0810.1226.91-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.210821.001-31.0810.1226.91-0-release-keys",
+        "commit": "9585e4f0a943ccb85acf09986613a98ee59eee93",
+        "committed_date": "2022-06-21T22:40:16.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-20T08:22:55.052Z",
+        "namespace_hint": "asus",
+        "project_hint": "ww_i005d",
+        "project_id": 938,
+        "project_path": "asus/ww_i005d"
+      },
+      "revision": "9585e4f0a943ccb85acf09986613a98ee59eee93",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/ww_i005d/-/tree/9585e4f0a943ccb85acf09986613a98ee59eee93"
+    },
+    {
+      "item_id": "asus/ww_i005d@qssi-user-13-TKQ1.220807.001-33.0210.0210.200-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.220807.001-33.0210.0210.200-0-release-keys",
+        "commit": "633c3d89ca0d384016f6bdab6fe2ff6b3a699127",
+        "committed_date": "2023-04-20T11:12:45.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-04-20T08:22:55.052Z",
+        "namespace_hint": "asus",
+        "project_hint": "ww_i005d",
+        "project_id": 938,
+        "project_path": "asus/ww_i005d"
+      },
+      "revision": "633c3d89ca0d384016f6bdab6fe2ff6b3a699127",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/ww_i005d/-/tree/633c3d89ca0d384016f6bdab6fe2ff6b3a699127"
+    },
+    {
+      "item_id": "asus/ww_i007d@qssi-user-11-RKQ1.201112.002-18.1055.2212.240-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201112.002-18.1055.2212.240-0-release-keys",
+        "commit": "f48d5cd9d8224e28e15e6cc4284abe39cc75c3d4",
+        "committed_date": "2023-03-14T02:45:14.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-03-13T23:42:44.276Z",
+        "namespace_hint": "asus",
+        "project_hint": "ww_i007d",
+        "project_id": 4092,
+        "project_path": "asus/ww_i007d"
+      },
+      "revision": "f48d5cd9d8224e28e15e6cc4284abe39cc75c3d4",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/ww_i007d/-/tree/f48d5cd9d8224e28e15e6cc4284abe39cc75c3d4"
+    },
+    {
+      "item_id": "asus/ww_i01wd@qssi-user-10-QP1A.190711.005-17.1810.1910.63-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QP1A.190711.005-17.1810.1910.63-0-release-keys",
+        "commit": "11c319d9fbfd5ddc5ff8690163239a897d7b8c72",
+        "committed_date": "2019-11-04T15:22:52.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T13:23:06.172Z",
+        "namespace_hint": "asus",
+        "project_hint": "ww_i01wd",
+        "project_id": 1031,
+        "project_path": "asus/ww_i01wd"
+      },
+      "revision": "11c319d9fbfd5ddc5ff8690163239a897d7b8c72",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/ww_i01wd/-/tree/11c319d9fbfd5ddc5ff8690163239a897d7b8c72"
+    },
+    {
+      "item_id": "asus/ww_x00pd@E300L_WW-user-8.0.0-OPR1.170623.032-15-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "E300L_WW-user-8.0.0-OPR1.170623.032-15-release-keys",
+        "commit": "d69e46fab0a123386881d1bafa5c85debefcfc2a",
+        "committed_date": "2019-09-08T18:54:09.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T10:38:57.771Z",
+        "namespace_hint": "asus",
+        "project_hint": "ww_x00pd",
+        "project_id": 52,
+        "project_path": "asus/ww_x00pd"
+      },
+      "revision": "d69e46fab0a123386881d1bafa5c85debefcfc2a",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/ww_x00pd/-/tree/d69e46fab0a123386881d1bafa5c85debefcfc2a"
+    },
+    {
+      "item_id": "asus/ww_x00pd@E300L_WW-user-8.0.0-OPR1.170623.032-19-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "E300L_WW-user-8.0.0-OPR1.170623.032-19-release-keys",
+        "commit": "4a272d8f3321064caebd62ee015cdf569c1e8933",
+        "committed_date": "2019-10-19T17:02:13.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-14T10:38:57.771Z",
+        "namespace_hint": "asus",
+        "project_hint": "ww_x00pd",
+        "project_id": 52,
+        "project_path": "asus/ww_x00pd"
+      },
+      "revision": "4a272d8f3321064caebd62ee015cdf569c1e8933",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/ww_x00pd/-/tree/4a272d8f3321064caebd62ee015cdf569c1e8933"
+    },
+    {
+      "item_id": "asus/ww_x00pd@E300L_WW-user-8.0.0-OPR1.170623.032-23-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "E300L_WW-user-8.0.0-OPR1.170623.032-23-release-keys",
+        "commit": "6172c6a621f4b8768810ae8478b681248352341c",
+        "committed_date": "2019-11-27T09:51:04.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-14T10:38:57.771Z",
+        "namespace_hint": "asus",
+        "project_hint": "ww_x00pd",
+        "project_id": 52,
+        "project_path": "asus/ww_x00pd"
+      },
+      "revision": "6172c6a621f4b8768810ae8478b681248352341c",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/ww_x00pd/-/tree/6172c6a621f4b8768810ae8478b681248352341c"
+    },
+    {
+      "item_id": "asus/ww_x00pd@E300L_WW-user-8.0.0-OPR1.170623.032-72-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "E300L_WW-user-8.0.0-OPR1.170623.032-72-release-keys",
+        "commit": "3e59896fa516bd52d589fc8ecf13579a3ae2c046",
+        "committed_date": "2020-05-15T18:28:23.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-14T10:38:57.771Z",
+        "namespace_hint": "asus",
+        "project_hint": "ww_x00pd",
+        "project_id": 52,
+        "project_path": "asus/ww_x00pd"
+      },
+      "revision": "3e59896fa516bd52d589fc8ecf13579a3ae2c046",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/ww_x00pd/-/tree/3e59896fa516bd52d589fc8ecf13579a3ae2c046"
+    },
+    {
+      "item_id": "asus/ww_x00pd@E300L_WW-user-8.0.0-OPR1.170623.032-90-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "E300L_WW-user-8.0.0-OPR1.170623.032-90-release-keys",
+        "commit": "c94400eea6e0047f9adf5bd5c9bab243624b756e",
+        "committed_date": "2020-08-30T06:16:07.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-14T10:38:57.771Z",
+        "namespace_hint": "asus",
+        "project_hint": "ww_x00pd",
+        "project_id": 52,
+        "project_path": "asus/ww_x00pd"
+      },
+      "revision": "c94400eea6e0047f9adf5bd5c9bab243624b756e",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/ww_x00pd/-/tree/c94400eea6e0047f9adf5bd5c9bab243624b756e"
+    },
+    {
+      "item_id": "asus/ww_x00rd@A306-user-8.0.0-OPR1.170623.032-17-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "A306-user-8.0.0-OPR1.170623.032-17-release-keys",
+        "commit": "cbd4f446c7f04766a625af4ed082402bfabca622",
+        "committed_date": "2021-02-11T03:33:33.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T13:15:50.753Z",
+        "namespace_hint": "asus",
+        "project_hint": "ww_x00rd",
+        "project_id": 1025,
+        "project_path": "asus/ww_x00rd"
+      },
+      "revision": "cbd4f446c7f04766a625af4ed082402bfabca622",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/ww_x00rd/-/tree/cbd4f446c7f04766a625af4ed082402bfabca622"
+    },
+    {
+      "item_id": "asus/ww_x00rd@A306-user-8.0.0-OPR1.170623.032-9-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "A306-user-8.0.0-OPR1.170623.032-9-release-keys",
+        "commit": "a05053e4fe9c69cc8a3c4757d3af09afff708b23",
+        "committed_date": "2021-02-11T03:33:13.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T13:15:50.753Z",
+        "namespace_hint": "asus",
+        "project_hint": "ww_x00rd",
+        "project_id": 1025,
+        "project_path": "asus/ww_x00rd"
+      },
+      "revision": "a05053e4fe9c69cc8a3c4757d3af09afff708b23",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/ww_x00rd/-/tree/a05053e4fe9c69cc8a3c4757d3af09afff708b23"
+    },
+    {
+      "item_id": "asus/ww_x00rd@msm8937_64-user-9-PPR1.180610.009-16.07.1907.408-20190726-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_64-user-9-PPR1.180610.009-16.07.1907.408-20190726-release-keys",
+        "commit": "c62137bee55bc5021cd5caac448d85ead74e345b",
+        "committed_date": "2019-10-13T14:30:45.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T13:15:50.753Z",
+        "namespace_hint": "asus",
+        "project_hint": "ww_x00rd",
+        "project_id": 1025,
+        "project_path": "asus/ww_x00rd"
+      },
+      "revision": "c62137bee55bc5021cd5caac448d85ead74e345b",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/ww_x00rd/-/tree/c62137bee55bc5021cd5caac448d85ead74e345b"
+    },
+    {
+      "item_id": "asus/x00hd_4@msm8937_64-user-7.1.1-NMF26F-14.2016.1807.375-20180730-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_64-user-7.1.1-NMF26F-14.2016.1807.375-20180730-release-keys",
+        "commit": "bec9e81fd1e99517acbc1f55c0fc31f79c6246a6",
+        "committed_date": "2019-12-14T16:46:54.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T13:18:38.941Z",
+        "namespace_hint": "asus",
+        "project_hint": "x00hd_4",
+        "project_id": 1028,
+        "project_path": "asus/x00hd_4"
+      },
+      "revision": "bec9e81fd1e99517acbc1f55c0fc31f79c6246a6",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/x00hd_4/-/tree/bec9e81fd1e99517acbc1f55c0fc31f79c6246a6"
+    },
+    {
+      "item_id": "asus/x00hd_4@msm8937_64-user-8.1.0-OPM1.171019.011-15.2016.1909.526-1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_64-user-8.1.0-OPM1.171019.011-15.2016.1909.526-1-release-keys",
+        "commit": "744b7ff41b2ade2f5bb6bbe6bc8b45792f12ab48",
+        "committed_date": "2019-12-14T10:54:07.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T13:18:38.941Z",
+        "namespace_hint": "asus",
+        "project_hint": "x00hd_4",
+        "project_id": 1028,
+        "project_path": "asus/x00hd_4"
+      },
+      "revision": "744b7ff41b2ade2f5bb6bbe6bc8b45792f12ab48",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/x00hd_4/-/tree/744b7ff41b2ade2f5bb6bbe6bc8b45792f12ab48"
+    },
+    {
+      "item_id": "asus/x00hd_4@msm8937_64-user-9-PKQ1.181203.001-16.0200.1907.18-20190817-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_64-user-9-PKQ1.181203.001-16.0200.1907.18-20190817-release-keys",
+        "commit": "e0bc15e6faa0cdf1bc5d744ef311d3416424f930",
+        "committed_date": "2019-10-23T20:09:28.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T13:18:38.941Z",
+        "namespace_hint": "asus",
+        "project_hint": "x00hd_4",
+        "project_id": 1028,
+        "project_path": "asus/x00hd_4"
+      },
+      "revision": "e0bc15e6faa0cdf1bc5d744ef311d3416424f930",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/x00hd_4/-/tree/e0bc15e6faa0cdf1bc5d744ef311d3416424f930"
+    },
+    {
+      "item_id": "asus/x00qd@WW_Phone-user-9-PPR1.180610.009-16.0615.1910.112-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "WW_Phone-user-9-PPR1.180610.009-16.0615.1910.112-0-release-keys",
+        "commit": "fe6dd7c3dfad9c54bbe9afb843181d313a08b0ea",
+        "committed_date": "2019-11-06T19:07:56.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T10:03:41.337Z",
+        "namespace_hint": "asus",
+        "project_hint": "x00qd",
+        "project_id": 1689,
+        "project_path": "asus/x00qd"
+      },
+      "revision": "fe6dd7c3dfad9c54bbe9afb843181d313a08b0ea",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/x00qd/-/tree/fe6dd7c3dfad9c54bbe9afb843181d313a08b0ea"
+    },
+    {
+      "item_id": "asus/x00td@sdm660_64-user-10-QKQ1-14-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-10-QKQ1-14-release-keys",
+        "commit": "9fe9c13ce10d2eaf00d88ca9ac5f1d690a3e24f0",
+        "committed_date": "2020-01-30T14:56:02.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T16:03:24.405Z",
+        "namespace_hint": "asus",
+        "project_hint": "x00td",
+        "project_id": 1922,
+        "project_path": "asus/x00td"
+      },
+      "revision": "9fe9c13ce10d2eaf00d88ca9ac5f1d690a3e24f0",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/x00td/-/tree/9fe9c13ce10d2eaf00d88ca9ac5f1d690a3e24f0"
+    },
+    {
+      "item_id": "asus/x00td@sdm660_64-user-8.1.0-OPM1-478-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-8.1.0-OPM1-478-release-keys",
+        "commit": "45e9c31aad58dde16b930e98278fc728913a6be3",
+        "committed_date": "2020-01-11T16:13:18.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T16:03:24.405Z",
+        "namespace_hint": "asus",
+        "project_hint": "x00td",
+        "project_id": 1922,
+        "project_path": "asus/x00td"
+      },
+      "revision": "45e9c31aad58dde16b930e98278fc728913a6be3",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/x00td/-/tree/45e9c31aad58dde16b930e98278fc728913a6be3"
+    },
+    {
+      "item_id": "asus/x00td@sdm660_64-user-8.1.0-OPM1-596-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-8.1.0-OPM1-596-release-keys",
+        "commit": "8ed07db76ecea09a2df213301b953fa9834349b6",
+        "committed_date": "2018-06-05T21:46:54.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T16:03:24.405Z",
+        "namespace_hint": "asus",
+        "project_hint": "x00td",
+        "project_id": 1922,
+        "project_path": "asus/x00td"
+      },
+      "revision": "8ed07db76ecea09a2df213301b953fa9834349b6",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/x00td/-/tree/8ed07db76ecea09a2df213301b953fa9834349b6"
+    },
+    {
+      "item_id": "asus/x00td@sdm660_64-user-9-PKQ1-1285-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-9-PKQ1-1285-release-keys",
+        "commit": "f524823928759199ec729f4c680f659bc21e6bc1",
+        "committed_date": "2019-11-12T17:20:10.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T16:03:24.405Z",
+        "namespace_hint": "asus",
+        "project_hint": "x00td",
+        "project_id": 1922,
+        "project_path": "asus/x00td"
+      },
+      "revision": "f524823928759199ec729f4c680f659bc21e6bc1",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/x00td/-/tree/f524823928759199ec729f4c680f659bc21e6bc1"
+    },
+    {
+      "item_id": "asus/x00td@sdm660_64-user-9-PKQ1-1455-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-9-PKQ1-1455-release-keys",
+        "commit": "687071bcbe5acfdb60c6fb447c36cc2f33539f2f",
+        "committed_date": "2019-12-17T19:24:34.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T16:03:24.405Z",
+        "namespace_hint": "asus",
+        "project_hint": "x00td",
+        "project_id": 1922,
+        "project_path": "asus/x00td"
+      },
+      "revision": "687071bcbe5acfdb60c6fb447c36cc2f33539f2f",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/x00td/-/tree/687071bcbe5acfdb60c6fb447c36cc2f33539f2f"
+    },
+    {
+      "item_id": "asus/x00td@sdm660_64-user-9-PKQ1-1632-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-9-PKQ1-1632-release-keys",
+        "commit": "1daaf87fbb826cc1f903370b245cc35df9ce173f",
+        "committed_date": "2020-03-09T07:59:34.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T16:03:24.405Z",
+        "namespace_hint": "asus",
+        "project_hint": "x00td",
+        "project_id": 1922,
+        "project_path": "asus/x00td"
+      },
+      "revision": "1daaf87fbb826cc1f903370b245cc35df9ce173f",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/x00td/-/tree/1daaf87fbb826cc1f903370b245cc35df9ce173f"
+    },
+    {
+      "item_id": "asus/x00td@sdm660_64-user-9-PKQ1-8-release-keys-Wed-May-6-16-51-04-CST-2020",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-9-PKQ1-8-release-keys-Wed-May-6-16-51-04-CST-2020",
+        "commit": "5fd179ae2dc26670262af7078d3c7bc255d00d47",
+        "committed_date": "2020-05-25T16:31:37.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T16:03:24.405Z",
+        "namespace_hint": "asus",
+        "project_hint": "x00td",
+        "project_id": 1922,
+        "project_path": "asus/x00td"
+      },
+      "revision": "5fd179ae2dc26670262af7078d3c7bc255d00d47",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/x00td/-/tree/5fd179ae2dc26670262af7078d3c7bc255d00d47"
+    },
+    {
+      "item_id": "asus/x017d_2@WW_Phone-user-9-PPR1.180610.009-16.0610.1908.83-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "WW_Phone-user-9-PPR1.180610.009-16.0610.1908.83-0-release-keys",
+        "commit": "8b4769ff9ef041b142127415dfd8c8faf74628fd",
+        "committed_date": "2019-11-06T19:06:22.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T11:17:14.540Z",
+        "namespace_hint": "asus",
+        "project_hint": "x017d_2",
+        "project_id": 980,
+        "project_path": "asus/x017d_2"
+      },
+      "revision": "8b4769ff9ef041b142127415dfd8c8faf74628fd",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/x017d_2/-/tree/8b4769ff9ef041b142127415dfd8c8faf74628fd"
+    },
+    {
+      "item_id": "asus/x01a_1@msm8953_64-user-8.1.0-OPM1-3406-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8953_64-user-8.1.0-OPM1-3406-release-keys",
+        "commit": "4056b023b41423a169b29449719f1034713f7317",
+        "committed_date": "2020-02-15T03:54:42.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T11:19:43.047Z",
+        "namespace_hint": "asus",
+        "project_hint": "x01a_1",
+        "project_id": 981,
+        "project_path": "asus/x01a_1"
+      },
+      "revision": "4056b023b41423a169b29449719f1034713f7317",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/x01a_1/-/tree/4056b023b41423a169b29449719f1034713f7317"
+    },
+    {
+      "item_id": "asus/x01a_1@msm8953_64-user-9-WW_Phone-201909201544-51-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8953_64-user-9-WW_Phone-201909201544-51-release-keys",
+        "commit": "0e48e9d78c95c9266ef60c30fa96b66fa7fca28d",
+        "committed_date": "2019-11-18T05:20:01.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T11:19:43.047Z",
+        "namespace_hint": "asus",
+        "project_hint": "x01a_1",
+        "project_id": 981,
+        "project_path": "asus/x01a_1"
+      },
+      "revision": "0e48e9d78c95c9266ef60c30fa96b66fa7fca28d",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/x01a_1/-/tree/0e48e9d78c95c9266ef60c30fa96b66fa7fca28d"
+    },
+    {
+      "item_id": "asus/x01a_1@msm8953_64-user-9-WW_Phone-201911231308-55-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8953_64-user-9-WW_Phone-201911231308-55-release-keys",
+        "commit": "9d168f1929eff7bd8d311ad3db3bc294289e25f3",
+        "committed_date": "2020-02-10T21:32:49.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T11:19:43.047Z",
+        "namespace_hint": "asus",
+        "project_hint": "x01a_1",
+        "project_id": 981,
+        "project_path": "asus/x01a_1"
+      },
+      "revision": "9d168f1929eff7bd8d311ad3db3bc294289e25f3",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/x01a_1/-/tree/9d168f1929eff7bd8d311ad3db3bc294289e25f3"
+    },
+    {
+      "item_id": "asus/x01bd@sdm660_64-user-10-QKQ1-17-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-10-QKQ1-17-release-keys",
+        "commit": "36c843ff1bd191f42a1be7c21cca8cb5c9a27194",
+        "committed_date": "2020-01-31T02:02:36.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T10:00:47.011Z",
+        "namespace_hint": "asus",
+        "project_hint": "x01bd",
+        "project_id": 939,
+        "project_path": "asus/x01bd"
+      },
+      "revision": "36c843ff1bd191f42a1be7c21cca8cb5c9a27194",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/x01bd/-/tree/36c843ff1bd191f42a1be7c21cca8cb5c9a27194"
+    },
+    {
+      "item_id": "asus/x01bd@sdm660_64-user-9-PKQ1-1457-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-9-PKQ1-1457-release-keys",
+        "commit": "a4673f8bd79696b1c6883c58e8cee00070fcf9df",
+        "committed_date": "2019-12-17T04:53:40.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T10:00:47.011Z",
+        "namespace_hint": "asus",
+        "project_hint": "x01bd",
+        "project_id": 939,
+        "project_path": "asus/x01bd"
+      },
+      "revision": "a4673f8bd79696b1c6883c58e8cee00070fcf9df",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/x01bd/-/tree/a4673f8bd79696b1c6883c58e8cee00070fcf9df"
+    },
+    {
+      "item_id": "asus/x01bd@sdm660_64-user-9-PKQ1-1634-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-9-PKQ1-1634-release-keys",
+        "commit": "1a03a4747b657f13297ad93ce07b2b6ae27b2d8d",
+        "committed_date": "2020-03-09T13:32:04.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T10:00:47.011Z",
+        "namespace_hint": "asus",
+        "project_hint": "x01bd",
+        "project_id": 939,
+        "project_path": "asus/x01bd"
+      },
+      "revision": "1a03a4747b657f13297ad93ce07b2b6ae27b2d8d",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/x01bd/-/tree/1a03a4747b657f13297ad93ce07b2b6ae27b2d8d"
+    },
+    {
+      "item_id": "asus/z010@WW_Phone-user-6.0.1-MMB29P-13.8.26.110-20180110-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "WW_Phone-user-6.0.1-MMB29P-13.8.26.110-20180110-release-keys",
+        "commit": "445b703ef2dfa18539a185f1f65a0f131b118914",
+        "committed_date": "2020-03-07T22:05:05.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T00:26:17.207Z",
+        "namespace_hint": "asus",
+        "project_hint": "z010",
+        "project_id": 1427,
+        "project_path": "asus/z010"
+      },
+      "revision": "445b703ef2dfa18539a185f1f65a0f131b118914",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/z010/-/tree/445b703ef2dfa18539a185f1f65a0f131b118914"
+    },
+    {
+      "item_id": "asus/z01kd_1@WW_Phone-user-9-PPR1.180610.009-16.0620.1910.19-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "WW_Phone-user-9-PPR1.180610.009-16.0620.1910.19-0-release-keys",
+        "commit": "88f44404fee3082b417da588a8eea044159f121a",
+        "committed_date": "2020-01-06T14:52:41.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T07:47:23.520Z",
+        "namespace_hint": "asus",
+        "project_hint": "z01kd_1",
+        "project_id": 1564,
+        "project_path": "asus/z01kd_1"
+      },
+      "revision": "88f44404fee3082b417da588a8eea044159f121a",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/z01kd_1/-/tree/88f44404fee3082b417da588a8eea044159f121a"
+    },
+    {
+      "item_id": "asus/z01qd_1@CN_Phone-user-9-PKQ1.190101.001-16.0410.1910.95-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "CN_Phone-user-9-PKQ1.190101.001-16.0410.1910.95-0-release-keys",
+        "commit": "f28ea6cea015d921e3a7239ed85c622051e0bcd0",
+        "committed_date": "2019-12-19T21:20:16.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T00:24:58.238Z",
+        "namespace_hint": "asus",
+        "project_hint": "z01qd_1",
+        "project_id": 2263,
+        "project_path": "asus/z01qd_1"
+      },
+      "revision": "f28ea6cea015d921e3a7239ed85c622051e0bcd0",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/z01qd_1/-/tree/f28ea6cea015d921e3a7239ed85c622051e0bcd0"
+    },
+    {
+      "item_id": "asus/z01qd_1@WW_Phone-user-9-PKQ1.190101.001-16.0410.1910.95-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "WW_Phone-user-9-PKQ1.190101.001-16.0410.1910.95-0-release-keys",
+        "commit": "346b7121f72b5e7fe1e4d64c339c32b36f854ee9",
+        "committed_date": "2019-12-29T23:51:14.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-17T00:24:58.238Z",
+        "namespace_hint": "asus",
+        "project_hint": "z01qd_1",
+        "project_id": 2263,
+        "project_path": "asus/z01qd_1"
+      },
+      "revision": "346b7121f72b5e7fe1e4d64c339c32b36f854ee9",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/z01qd_1/-/tree/346b7121f72b5e7fe1e4d64c339c32b36f854ee9"
+    },
+    {
+      "item_id": "asus/z01r@Z01R-user-8.0.0-OPR1.170623.032-WW_user_80.11.37.49_20180606-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Z01R-user-8.0.0-OPR1.170623.032-WW_user_80.11.37.49_20180606-release-keys",
+        "commit": "2c0ca0f8a687ca2236956b0a0b4bb83c3c6bc5b7",
+        "committed_date": "2018-06-20T16:14:07.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T19:47:54.281Z",
+        "namespace_hint": "asus",
+        "project_hint": "z01r",
+        "project_id": 1277,
+        "project_path": "asus/z01r"
+      },
+      "revision": "2c0ca0f8a687ca2236956b0a0b4bb83c3c6bc5b7",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/z01r/-/tree/2c0ca0f8a687ca2236956b0a0b4bb83c3c6bc5b7"
+    },
+    {
+      "item_id": "asus/z01r_1@Z01R-user-9-PPR1.180610.009-WW_user_90.11.162.111_20191008-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Z01R-user-9-PPR1.180610.009-WW_user_90.11.162.111_20191008-release-keys",
+        "commit": "af8c45a5560d20f807764c4546bdb7f3946aec64",
+        "committed_date": "2019-12-03T09:42:11.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T11:11:17.157Z",
+        "namespace_hint": "asus",
+        "project_hint": "z01r_1",
+        "project_id": 973,
+        "project_path": "asus/z01r_1"
+      },
+      "revision": "af8c45a5560d20f807764c4546bdb7f3946aec64",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/z01r_1/-/tree/af8c45a5560d20f807764c4546bdb7f3946aec64"
+    },
+    {
+      "item_id": "asus/z01r_1@Z01R-user-9-PPR1.180610.009-WW_user_90.11.162.98_20190816-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Z01R-user-9-PPR1.180610.009-WW_user_90.11.162.98_20190816-release-keys",
+        "commit": "d15f839ef4b329f2b63a5070c645812016860c84",
+        "committed_date": "2019-10-22T23:58:47.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T11:11:17.157Z",
+        "namespace_hint": "asus",
+        "project_hint": "z01r_1",
+        "project_id": 973,
+        "project_path": "asus/z01r_1"
+      },
+      "revision": "d15f839ef4b329f2b63a5070c645812016860c84",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/z01r_1/-/tree/d15f839ef4b329f2b63a5070c645812016860c84"
+    },
+    {
+      "item_id": "asus/za550kl@A306-user-8.0.0-OPR1.170623.032-62-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "A306-user-8.0.0-OPR1.170623.032-62-release-keys",
+        "commit": "0c1b051efb43530ac9453ea669227b1017628f74",
+        "committed_date": "2020-01-13T06:56:23.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T09:15:24.532Z",
+        "namespace_hint": "asus",
+        "project_hint": "za550kl",
+        "project_id": 936,
+        "project_path": "asus/za550kl"
+      },
+      "revision": "0c1b051efb43530ac9453ea669227b1017628f74",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/za550kl/-/tree/0c1b051efb43530ac9453ea669227b1017628f74"
+    },
+    {
+      "item_id": "asus/za550kl@A306-user-8.0.0-OPR1.170623.032-69-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "A306-user-8.0.0-OPR1.170623.032-69-release-keys",
+        "commit": "4e08b42d47cb5a95daefab28a5aa7276e073df6e",
+        "committed_date": "2020-01-29T11:37:38.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T09:15:24.532Z",
+        "namespace_hint": "asus",
+        "project_hint": "za550kl",
+        "project_id": 936,
+        "project_path": "asus/za550kl"
+      },
+      "revision": "4e08b42d47cb5a95daefab28a5aa7276e073df6e",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/za550kl/-/tree/4e08b42d47cb5a95daefab28a5aa7276e073df6e"
+    },
+    {
+      "item_id": "asus/zb555kl@E300L_WW-user-8.0.0-OPR1.170623.032-23-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "E300L_WW-user-8.0.0-OPR1.170623.032-23-release-keys",
+        "commit": "8a9e6b60026c490da8fa191cb488f589c11a905a",
+        "committed_date": "2019-12-01T19:22:42.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T06:48:31.538Z",
+        "namespace_hint": "asus",
+        "project_hint": "zb555kl",
+        "project_id": 38,
+        "project_path": "asus/zb555kl"
+      },
+      "revision": "8a9e6b60026c490da8fa191cb488f589c11a905a",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/zb555kl/-/tree/8a9e6b60026c490da8fa191cb488f589c11a905a"
+    },
+    {
+      "item_id": "asus/zb555kl@E300L_WW-user-8.0.0-OPR1.170623.032-34-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "E300L_WW-user-8.0.0-OPR1.170623.032-34-release-keys",
+        "commit": "f11a0888112f2fd0870c3a05ff6aaddc565880f7",
+        "committed_date": "2020-02-13T17:23:34.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-14T06:48:31.538Z",
+        "namespace_hint": "asus",
+        "project_hint": "zb555kl",
+        "project_id": 38,
+        "project_path": "asus/zb555kl"
+      },
+      "revision": "f11a0888112f2fd0870c3a05ff6aaddc565880f7",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/zb555kl/-/tree/f11a0888112f2fd0870c3a05ff6aaddc565880f7"
+    },
+    {
+      "item_id": "asus/zb555kl@msm8937_64-user-9-PPR1.180610.009-16.00.1906.411-20190712-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_64-user-9-PPR1.180610.009-16.00.1906.411-20190712-release-keys",
+        "commit": "a71c66dcc1a10d89cb701c984a402a4b3cd169bd",
+        "committed_date": "2019-12-01T20:05:31.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-14T06:48:31.538Z",
+        "namespace_hint": "asus",
+        "project_hint": "zb555kl",
+        "project_id": 38,
+        "project_path": "asus/zb555kl"
+      },
+      "revision": "a71c66dcc1a10d89cb701c984a402a4b3cd169bd",
+      "url": "https://dumps.tadiphone.dev/dumps/asus/zb555kl/-/tree/a71c66dcc1a10d89cb701c984a402a4b3cd169bd"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

@@ -1,0 +1,264 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "blu/advance_4_0_l3@v2510-user-6.0-MRA58K-eng.android.1497861528-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "v2510-user-6.0-MRA58K-eng.android.1497861528-release-keys",
+        "commit": "60d3c26bfe5b87e0fcc67ceeea2b43b2f4ce3282",
+        "committed_date": "2024-09-17T13:25:06.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-09-17T10:24:19.978Z",
+        "namespace_hint": "blu",
+        "project_hint": "advance_4_0_l3",
+        "project_id": 5417,
+        "project_path": "blu/advance_4_0_l3"
+      },
+      "revision": "60d3c26bfe5b87e0fcc67ceeea2b43b2f4ce3282",
+      "url": "https://dumps.tadiphone.dev/dumps/blu/advance_4_0_l3/-/tree/60d3c26bfe5b87e0fcc67ceeea2b43b2f4ce3282"
+    },
+    {
+      "item_id": "blu/c090p@C6x-user-8.1.0-O11019-1565333506-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "C6x-user-8.1.0-O11019-1565333506-release-keys",
+        "commit": "9fb453a196120893fd63a15bf154789d7dd03a71",
+        "committed_date": "2020-03-13T16:11:55.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T13:01:07.136Z",
+        "namespace_hint": "blu",
+        "project_hint": "c090p",
+        "project_id": 1012,
+        "project_path": "blu/c090p"
+      },
+      "revision": "9fb453a196120893fd63a15bf154789d7dd03a71",
+      "url": "https://dumps.tadiphone.dev/dumps/blu/c090p/-/tree/9fb453a196120893fd63a15bf154789d7dd03a71"
+    },
+    {
+      "item_id": "blu/g0090@s9863a_fs171_project-user-9-PPR1.180610.011-34510-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "s9863a_fs171_project-user-9-PPR1.180610.011-34510-release-keys",
+        "commit": "e46a348b6e7d8029c3412fde4dbfea01b672a435",
+        "committed_date": "2020-01-28T20:18:36.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T21:21:48.750Z",
+        "namespace_hint": "blu",
+        "project_hint": "g0090",
+        "project_id": 1320,
+        "project_path": "blu/g0090"
+      },
+      "revision": "e46a348b6e7d8029c3412fde4dbfea01b672a435",
+      "url": "https://dumps.tadiphone.dev/dumps/blu/g0090/-/tree/e46a348b6e7d8029c3412fde4dbfea01b672a435"
+    },
+    {
+      "item_id": "blu/g0170@G8-user-9-PPR1.180610.011-24417-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "G8-user-9-PPR1.180610.011-24417-release-keys",
+        "commit": "c04cd8fed1e8e963ff843f3203feecae0a6619a1",
+        "committed_date": "2020-02-08T14:28:11.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T14:08:32.664Z",
+        "namespace_hint": "blu",
+        "project_hint": "g0170",
+        "project_id": 1077,
+        "project_path": "blu/g0170"
+      },
+      "revision": "c04cd8fed1e8e963ff843f3203feecae0a6619a1",
+      "url": "https://dumps.tadiphone.dev/dumps/blu/g0170/-/tree/c04cd8fed1e8e963ff843f3203feecae0a6619a1"
+    },
+    {
+      "item_id": "blu/g0190@s9863a_fs171_project-user-9-PPR1.180610.011-25420-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "s9863a_fs171_project-user-9-PPR1.180610.011-25420-release-keys",
+        "commit": "d71edd077449f69f9533bb7bc1c216e5947670ff",
+        "committed_date": "2020-03-17T18:00:30.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T14:09:19.284Z",
+        "namespace_hint": "blu",
+        "project_hint": "g0190",
+        "project_id": 1079,
+        "project_path": "blu/g0190"
+      },
+      "revision": "d71edd077449f69f9533bb7bc1c216e5947670ff",
+      "url": "https://dumps.tadiphone.dev/dumps/blu/g0190/-/tree/d71edd077449f69f9533bb7bc1c216e5947670ff"
+    },
+    {
+      "item_id": "blu/g0230ww@full_k71v1_64_bsp-user-9-PPR1.180610.011-1563446938-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k71v1_64_bsp-user-9-PPR1.180610.011-1563446938-release-keys",
+        "commit": "9a30bcbcea50dc194af12ba1065e60d6afc82b81",
+        "committed_date": "2020-01-25T11:48:19.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T21:22:34.624Z",
+        "namespace_hint": "blu",
+        "project_hint": "g0230ww",
+        "project_id": 1321,
+        "project_path": "blu/g0230ww"
+      },
+      "revision": "9a30bcbcea50dc194af12ba1065e60d6afc82b81",
+      "url": "https://dumps.tadiphone.dev/dumps/blu/g0230ww/-/tree/9a30bcbcea50dc194af12ba1065e60d6afc82b81"
+    },
+    {
+      "item_id": "blu/g0310ww@full_k62v1_64_bsp-user-10-QP1A.190711.020-1630901193-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k62v1_64_bsp-user-10-QP1A.190711.020-1630901193-release-keys",
+        "commit": "e9ede91ba4592cecdac11c8a0d0fb12dcd9be95f",
+        "committed_date": "2023-09-22T05:09:12.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-09-22T02:07:40.256Z",
+        "namespace_hint": "blu",
+        "project_hint": "g0310ww",
+        "project_id": 4443,
+        "project_path": "blu/g0310ww"
+      },
+      "revision": "e9ede91ba4592cecdac11c8a0d0fb12dcd9be95f",
+      "url": "https://dumps.tadiphone.dev/dumps/blu/g0310ww/-/tree/e9ede91ba4592cecdac11c8a0d0fb12dcd9be95f"
+    },
+    {
+      "item_id": "blu/m030p@M6-user-8.1.0-O11019-1557213970-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "M6-user-8.1.0-O11019-1557213970-release-keys",
+        "commit": "21e437893629dae734cf7d8ea4f9ca491c1e078e",
+        "committed_date": "2020-03-22T16:23:10.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T21:21:23.477Z",
+        "namespace_hint": "blu",
+        "project_hint": "m030p",
+        "project_id": 1319,
+        "project_path": "blu/m030p"
+      },
+      "revision": "21e437893629dae734cf7d8ea4f9ca491c1e078e",
+      "url": "https://dumps.tadiphone.dev/dumps/blu/m030p/-/tree/21e437893629dae734cf7d8ea4f9ca491c1e078e"
+    },
+    {
+      "item_id": "blu/n0030ww@full_k71v1_64_bsp-user-9-PPR1.180610.011-1571196448-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k71v1_64_bsp-user-9-PPR1.180610.011-1571196448-release-keys",
+        "commit": "00d98691913ec3414d618a870c136912149c5403",
+        "committed_date": "2020-01-05T15:27:18.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T09:47:32.567Z",
+        "namespace_hint": "blu",
+        "project_hint": "n0030ww",
+        "project_id": 1675,
+        "project_path": "blu/n0030ww"
+      },
+      "revision": "00d98691913ec3414d618a870c136912149c5403",
+      "url": "https://dumps.tadiphone.dev/dumps/blu/n0030ww/-/tree/00d98691913ec3414d618a870c136912149c5403"
+    },
+    {
+      "item_id": "blu/n0050uu@full_k6833v1_64-user-11-RP1A.200720.011-1663167139-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6833v1_64-user-11-RP1A.200720.011-1663167139-release-keys",
+        "commit": "c0e823d8c451c128f972c02368f0e2f3baf3cce9",
+        "committed_date": "2023-02-13T15:16:38.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-22T18:42:27.676Z",
+        "namespace_hint": "blu",
+        "project_hint": "n0050uu",
+        "project_id": 4065,
+        "project_path": "blu/n0050uu"
+      },
+      "revision": "c0e823d8c451c128f972c02368f0e2f3baf3cce9",
+      "url": "https://dumps.tadiphone.dev/dumps/blu/n0050uu/-/tree/c0e823d8c451c128f972c02368f0e2f3baf3cce9"
+    },
+    {
+      "item_id": "blu/n0050uu@full_k6833v1_64-user-11-RP1A.200720.011-1675685992-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6833v1_64-user-11-RP1A.200720.011-1675685992-release-keys",
+        "commit": "6bb9caf635e38a6cdf425f2dcc19eef17a53593d",
+        "committed_date": "2023-02-18T17:53:03.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-22T18:42:27.676Z",
+        "namespace_hint": "blu",
+        "project_hint": "n0050uu",
+        "project_id": 4065,
+        "project_path": "blu/n0050uu"
+      },
+      "revision": "6bb9caf635e38a6cdf425f2dcc19eef17a53593d",
+      "url": "https://dumps.tadiphone.dev/dumps/blu/n0050uu/-/tree/6bb9caf635e38a6cdf425f2dcc19eef17a53593d"
+    },
+    {
+      "item_id": "blu/n0050uu@full_k6833v1_64-user-11-RP1A.200720.011-1679057996-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6833v1_64-user-11-RP1A.200720.011-1679057996-release-keys",
+        "commit": "1be0cd4ac65c67883d22efe03efee5bbfe055382",
+        "committed_date": "2023-04-22T21:37:56.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-04-22T18:42:27.676Z",
+        "namespace_hint": "blu",
+        "project_hint": "n0050uu",
+        "project_id": 4065,
+        "project_path": "blu/n0050uu"
+      },
+      "revision": "1be0cd4ac65c67883d22efe03efee5bbfe055382",
+      "url": "https://dumps.tadiphone.dev/dumps/blu/n0050uu/-/tree/1be0cd4ac65c67883d22efe03efee5bbfe055382"
+    },
+    {
+      "item_id": "blu/v0310ww@Vivo_XI-user-9-PPR1.180610.011-1545306474-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Vivo_XI-user-9-PPR1.180610.011-1545306474-release-keys",
+        "commit": "a73bce1b6b1c5b3d313fdac6da460a6c5e91347c",
+        "committed_date": "2019-09-15T01:01:15.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T21:23:23.584Z",
+        "namespace_hint": "blu",
+        "project_hint": "v0310ww",
+        "project_id": 1322,
+        "project_path": "blu/v0310ww"
+      },
+      "revision": "a73bce1b6b1c5b3d313fdac6da460a6c5e91347c",
+      "url": "https://dumps.tadiphone.dev/dumps/blu/v0310ww/-/tree/a73bce1b6b1c5b3d313fdac6da460a6c5e91347c"
+    },
+    {
+      "item_id": "blu/v0310ww@Vivo_XI-user-9-PPR1.180610.011-1569469089-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Vivo_XI-user-9-PPR1.180610.011-1569469089-release-keys",
+        "commit": "276b063f8e703072a0158c23d714fa931a44e75f",
+        "committed_date": "2019-11-04T14:11:18.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T21:23:23.584Z",
+        "namespace_hint": "blu",
+        "project_hint": "v0310ww",
+        "project_id": 1322,
+        "project_path": "blu/v0310ww"
+      },
+      "revision": "276b063f8e703072a0158c23d714fa931a44e75f",
+      "url": "https://dumps.tadiphone.dev/dumps/blu/v0310ww/-/tree/276b063f8e703072a0158c23d714fa931a44e75f"
+    },
+    {
+      "item_id": "blu/v0350ww@full_k62v1_64_bsp-user-8.1.0-O11019-1542684172-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k62v1_64_bsp-user-8.1.0-O11019-1542684172-release-keys",
+        "commit": "ee7334f4f14c61fc463bbc9fc637ddecc19ed697",
+        "committed_date": "2019-07-06T22:04:00.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T21:25:54.824Z",
+        "namespace_hint": "blu",
+        "project_hint": "v0350ww",
+        "project_id": 1324,
+        "project_path": "blu/v0350ww"
+      },
+      "revision": "ee7334f4f14c61fc463bbc9fc637ddecc19ed697",
+      "url": "https://dumps.tadiphone.dev/dumps/blu/v0350ww/-/tree/ee7334f4f14c61fc463bbc9fc637ddecc19ed697"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

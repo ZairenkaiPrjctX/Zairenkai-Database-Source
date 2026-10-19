@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "shanling/shanling_m3p@qssi-user-13-TKQ1.240227.001-eng.liangy.20251009.191758-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.240227.001-eng.liangy.20251009.191758-release-keys",
+        "commit": "6a9979654022f1cf0b16daaf50f830c692932265",
+        "committed_date": "2025-12-31T18:59:14.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-12-31T15:57:31.045Z",
+        "namespace_hint": "shanling",
+        "project_hint": "shanling_m3p",
+        "project_id": 5726,
+        "project_path": "shanling/shanling_m3p"
+      },
+      "revision": "6a9979654022f1cf0b16daaf50f830c692932265",
+      "url": "https://dumps.tadiphone.dev/dumps/shanling/shanling_m3p/-/tree/6a9979654022f1cf0b16daaf50f830c692932265"
+    },
+    {
+      "item_id": "shanling/shanling_m7t@qssi-user-13-TKQ1.240227.001-eng.liangy.20250911.125750-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.240227.001-eng.liangy.20250911.125750-release-keys",
+        "commit": "e4eccd4c7262f52749b7007c30442f637d089296",
+        "committed_date": "2025-12-31T18:45:16.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-12-31T15:43:30.023Z",
+        "namespace_hint": "shanling",
+        "project_hint": "shanling_m7t",
+        "project_id": 5725,
+        "project_path": "shanling/shanling_m7t"
+      },
+      "revision": "e4eccd4c7262f52749b7007c30442f637d089296",
+      "url": "https://dumps.tadiphone.dev/dumps/shanling/shanling_m7t/-/tree/e4eccd4c7262f52749b7007c30442f637d089296"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

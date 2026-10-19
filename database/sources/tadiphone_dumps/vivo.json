@@ -1,0 +1,3497 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "_project/4519",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": null,
+        "project_id": 4519,
+        "project_path": "vivo/1901",
+        "reason": "repository_not_readable"
+      },
+      "revision": null,
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1901"
+    },
+    {
+      "item_id": "_project/4975",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": null,
+        "project_id": 4975,
+        "project_path": "vivo/msm8953_64",
+        "reason": "repository_not_readable"
+      },
+      "revision": null,
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/msm8953_64"
+    },
+    {
+      "item_id": "_project/4977",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": null,
+        "project_id": 4977,
+        "project_path": "vivo/pd2171",
+        "reason": "repository_not_readable"
+      },
+      "revision": null,
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2171"
+    },
+    {
+      "item_id": "_project/4980",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": null,
+        "project_id": 4980,
+        "project_path": "vivo/v2144",
+        "reason": "repository_not_readable"
+      },
+      "revision": null,
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/v2144"
+    },
+    {
+      "item_id": "_project/4995",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": null,
+        "project_id": 4995,
+        "project_path": "vivo/pd2272",
+        "reason": "repository_not_readable"
+      },
+      "revision": null,
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2272"
+    },
+    {
+      "item_id": "_project/4998",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": null,
+        "project_id": 4998,
+        "project_path": "vivo/erdv9630",
+        "reason": "repository_not_readable"
+      },
+      "revision": null,
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/erdv9630"
+    },
+    {
+      "item_id": "_project/5009",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": null,
+        "project_id": 5009,
+        "project_path": "vivo/pd1924",
+        "reason": "repository_not_readable"
+      },
+      "revision": null,
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd1924"
+    },
+    {
+      "item_id": "_project/5026",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": null,
+        "project_id": 5026,
+        "project_path": "vivo/msm8937_64",
+        "reason": "repository_not_readable"
+      },
+      "revision": null,
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/msm8937_64"
+    },
+    {
+      "item_id": "_project/5032",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": null,
+        "project_id": 5032,
+        "project_path": "vivo/2120",
+        "reason": "repository_not_readable"
+      },
+      "revision": null,
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2120"
+    },
+    {
+      "item_id": "_project/5035",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": null,
+        "project_id": 5035,
+        "project_path": "vivo/pd2148",
+        "reason": "repository_not_readable"
+      },
+      "revision": null,
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2148"
+    },
+    {
+      "item_id": "_project/5056",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": null,
+        "project_id": 5056,
+        "project_path": "vivo/pd2199",
+        "reason": "repository_not_readable"
+      },
+      "revision": null,
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2199"
+    },
+    {
+      "item_id": "_project/5057",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": null,
+        "project_id": 5057,
+        "project_path": "vivo/1916",
+        "reason": "repository_not_readable"
+      },
+      "revision": null,
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1916"
+    },
+    {
+      "item_id": "_project/5074",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": null,
+        "project_id": 5074,
+        "project_path": "vivo/pd2178",
+        "reason": "repository_not_readable"
+      },
+      "revision": null,
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2178"
+    },
+    {
+      "item_id": "vivo/1716@msm8953_64-user-8.1.0-OPM1.171019.026-eng.compil.20190910.112424-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8953_64-user-8.1.0-OPM1.171019.026-eng.compil.20190910.112424-release-keys",
+        "commit": "4e344e2a7d1d9ae0588224494c7cc687b25d7aeb",
+        "committed_date": "2019-11-13T14:29:26.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T18:01:09.461Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1716",
+        "project_id": 4976,
+        "project_path": "vivo/1716"
+      },
+      "revision": "4e344e2a7d1d9ae0588224494c7cc687b25d7aeb",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1716/-/tree/4e344e2a7d1d9ae0588224494c7cc687b25d7aeb"
+    },
+    {
+      "item_id": "vivo/1716@msm8953_64-user-8.1.0-OPM1.171019.026-eng.compil.20191106.102945-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8953_64-user-8.1.0-OPM1.171019.026-eng.compil.20191106.102945-release-keys",
+        "commit": "770e5a9860fe9434cfdbdb502bdd22ef361157e3",
+        "committed_date": "2019-12-23T11:20:12.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T18:01:09.461Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1716",
+        "project_id": 4976,
+        "project_path": "vivo/1716"
+      },
+      "revision": "770e5a9860fe9434cfdbdb502bdd22ef361157e3",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1716/-/tree/770e5a9860fe9434cfdbdb502bdd22ef361157e3"
+    },
+    {
+      "item_id": "vivo/1716@msm8953_64-user-8.1.0-OPM1.171019.026-eng.compil.20200103.190502-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8953_64-user-8.1.0-OPM1.171019.026-eng.compil.20200103.190502-release-keys",
+        "commit": "af12861e27dc0d620e21b7b040fc7f48b29a9c60",
+        "committed_date": "2020-03-09T09:09:28.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T18:01:09.461Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1716",
+        "project_id": 4976,
+        "project_path": "vivo/1716"
+      },
+      "revision": "af12861e27dc0d620e21b7b040fc7f48b29a9c60",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1716/-/tree/af12861e27dc0d620e21b7b040fc7f48b29a9c60"
+    },
+    {
+      "item_id": "vivo/1718@msm8953_64-user-8.1.0-OPM1.171019.026-eng.compil.20190929.183333-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8953_64-user-8.1.0-OPM1.171019.026-eng.compil.20190929.183333-release-keys",
+        "commit": "6679f3b872bdc08ab9186976c9bf3481e008f174",
+        "committed_date": "2019-11-11T20:21:38.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2023-10-10T01:24:09.114Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1718",
+        "project_id": 4522,
+        "project_path": "vivo/1718"
+      },
+      "revision": "6679f3b872bdc08ab9186976c9bf3481e008f174",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1718/-/tree/6679f3b872bdc08ab9186976c9bf3481e008f174"
+    },
+    {
+      "item_id": "vivo/1723@msm8953_64-user-9-PKQ1.190118.001-compiler09272117-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8953_64-user-9-PKQ1.190118.001-compiler09272117-release-keys",
+        "commit": "c8a3da6a67ec2d609d66d63ad84fbca1c5398fd5",
+        "committed_date": "2019-11-11T20:25:13.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T23:48:23.478Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1723",
+        "project_id": 5049,
+        "project_path": "vivo/1723"
+      },
+      "revision": "c8a3da6a67ec2d609d66d63ad84fbca1c5398fd5",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1723/-/tree/c8a3da6a67ec2d609d66d63ad84fbca1c5398fd5"
+    },
+    {
+      "item_id": "vivo/1725@sdm660_64-user-9-PKQ1.180819.001-compiler08171935-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-9-PKQ1.180819.001-compiler08171935-release-keys",
+        "commit": "8826333328b4d524db5791ee2ff6175c6f7ee2fc",
+        "committed_date": "2019-10-26T12:24:54.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T21:41:11.026Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1725",
+        "project_id": 5038,
+        "project_path": "vivo/1725"
+      },
+      "revision": "8826333328b4d524db5791ee2ff6175c6f7ee2fc",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1725/-/tree/8826333328b4d524db5791ee2ff6175c6f7ee2fc"
+    },
+    {
+      "item_id": "vivo/1726@full_k62v1_64_bsp-user-8.1.0-O11019-1569335232-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k62v1_64_bsp-user-8.1.0-O11019-1569335232-release-keys",
+        "commit": "031ac4721a9ebf713678c835f99519e74f187a9a",
+        "committed_date": "2019-11-23T08:35:15.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T23:40:03.900Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1726",
+        "project_id": 5046,
+        "project_path": "vivo/1726"
+      },
+      "revision": "031ac4721a9ebf713678c835f99519e74f187a9a",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1726/-/tree/031ac4721a9ebf713678c835f99519e74f187a9a"
+    },
+    {
+      "item_id": "vivo/1727@msm8953_64-user-9-PKQ1.190118.001-compiler11050938-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8953_64-user-9-PKQ1.190118.001-compiler11050938-release-keys",
+        "commit": "8b4f4d4858326c44db14e8f4b8709d4b1e0e5b22",
+        "committed_date": "2019-12-23T11:25:24.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T18:37:01.349Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1727",
+        "project_id": 4989,
+        "project_path": "vivo/1727"
+      },
+      "revision": "8b4f4d4858326c44db14e8f4b8709d4b1e0e5b22",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1727/-/tree/8b4f4d4858326c44db14e8f4b8709d4b1e0e5b22"
+    },
+    {
+      "item_id": "vivo/1727@msm8953_64-user-9-PKQ1.190118.001-compiler12312047-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8953_64-user-9-PKQ1.190118.001-compiler12312047-release-keys",
+        "commit": "344b9b43193069a4888cd795a138c2876ea18002",
+        "committed_date": "2020-02-22T09:02:34.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T18:37:01.349Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1727",
+        "project_id": 4989,
+        "project_path": "vivo/1727"
+      },
+      "revision": "344b9b43193069a4888cd795a138c2876ea18002",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1727/-/tree/344b9b43193069a4888cd795a138c2876ea18002"
+    },
+    {
+      "item_id": "vivo/1802@full_k62v1_64_bsp-user-8.1.0-O11019-1569335325-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k62v1_64_bsp-user-8.1.0-O11019-1569335325-release-keys",
+        "commit": "9e5fca9cd02a06c662a4a0558747e7cfd8f8b015",
+        "committed_date": "2019-11-23T08:24:50.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-09T01:27:07.881Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1802",
+        "project_id": 5065,
+        "project_path": "vivo/1802"
+      },
+      "revision": "9e5fca9cd02a06c662a4a0558747e7cfd8f8b015",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1802/-/tree/9e5fca9cd02a06c662a4a0558747e7cfd8f8b015"
+    },
+    {
+      "item_id": "vivo/1806@full_k71v1_64_bsp-user-9-PPR1.180610.011-compiler01061539-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k71v1_64_bsp-user-9-PPR1.180610.011-compiler01061539-release-keys",
+        "commit": "85cef0fa576f17e76a6ebfe598e551aba01bf494",
+        "committed_date": "2020-02-17T10:57:52.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T19:25:38.245Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1806",
+        "project_id": 5004,
+        "project_path": "vivo/1806"
+      },
+      "revision": "85cef0fa576f17e76a6ebfe598e551aba01bf494",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1806/-/tree/85cef0fa576f17e76a6ebfe598e551aba01bf494"
+    },
+    {
+      "item_id": "vivo/1808@full_k62v1_64_bsp-user-8.1.0-O11019-1568709103-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k62v1_64_bsp-user-8.1.0-O11019-1568709103-release-keys",
+        "commit": "e90ce376e16dec3c205e9e60fb3435482bc1d36b",
+        "committed_date": "2019-11-24T09:13:36.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T23:54:35.681Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1808",
+        "project_id": 5051,
+        "project_path": "vivo/1808"
+      },
+      "revision": "e90ce376e16dec3c205e9e60fb3435482bc1d36b",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1808/-/tree/e90ce376e16dec3c205e9e60fb3435482bc1d36b"
+    },
+    {
+      "item_id": "vivo/1808@full_k62v1_64_bsp-user-8.1.0-O11019-1574044599-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k62v1_64_bsp-user-8.1.0-O11019-1574044599-release-keys",
+        "commit": "9a2e9b737498c9e1be541a5914007bcfd5f97eae",
+        "committed_date": "2019-12-24T07:25:49.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T23:54:35.681Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1808",
+        "project_id": 5051,
+        "project_path": "vivo/1808"
+      },
+      "revision": "9a2e9b737498c9e1be541a5914007bcfd5f97eae",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1808/-/tree/9a2e9b737498c9e1be541a5914007bcfd5f97eae"
+    },
+    {
+      "item_id": "vivo/1812@full_k61v1_64_bsp-user-8.1.0-O11019-1570875040-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k61v1_64_bsp-user-8.1.0-O11019-1570875040-release-keys",
+        "commit": "b710275db19ce4e0bc11603e1003ce36fe62762d",
+        "committed_date": "2019-11-20T00:44:33.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T19:38:05.186Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1812",
+        "project_id": 5010,
+        "project_path": "vivo/1812"
+      },
+      "revision": "b710275db19ce4e0bc11603e1003ce36fe62762d",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1812/-/tree/b710275db19ce4e0bc11603e1003ce36fe62762d"
+    },
+    {
+      "item_id": "vivo/1812@full_k61v1_64_bsp-user-8.1.0-O11019-1582031891-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k61v1_64_bsp-user-8.1.0-O11019-1582031891-release-keys",
+        "commit": "260ec56542fbe9656db5f70e007675db1749cac8",
+        "committed_date": "2020-03-14T18:21:54.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T19:38:05.186Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1812",
+        "project_id": 5010,
+        "project_path": "vivo/1812"
+      },
+      "revision": "260ec56542fbe9656db5f70e007675db1749cac8",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1812/-/tree/260ec56542fbe9656db5f70e007675db1749cac8"
+    },
+    {
+      "item_id": "vivo/1815@full_k62v1_64_bsp-user-8.1.0-O11019-1571216537-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k62v1_64_bsp-user-8.1.0-O11019-1571216537-release-keys",
+        "commit": "8e9cefc07ef777cef051ac30d9e4161edfbe62d7",
+        "committed_date": "2019-11-19T03:40:02.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T18:41:05.061Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1815",
+        "project_id": 4991,
+        "project_path": "vivo/1815"
+      },
+      "revision": "8e9cefc07ef777cef051ac30d9e4161edfbe62d7",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1815/-/tree/8e9cefc07ef777cef051ac30d9e4161edfbe62d7"
+    },
+    {
+      "item_id": "vivo/1815@full_k62v1_64_bsp-user-8.1.0-O11019-1578284320-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k62v1_64_bsp-user-8.1.0-O11019-1578284320-release-keys",
+        "commit": "e3004ce86ee17703c6c19860009a27dac7752ea3",
+        "committed_date": "2020-03-06T05:11:40.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T18:41:05.061Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1815",
+        "project_id": 4991,
+        "project_path": "vivo/1815"
+      },
+      "revision": "e3004ce86ee17703c6c19860009a27dac7752ea3",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1815/-/tree/e3004ce86ee17703c6c19860009a27dac7752ea3"
+    },
+    {
+      "item_id": "vivo/1818@sm6150-user-9-PKQ1.181203.001-compiler05071942-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sm6150-user-9-PKQ1.181203.001-compiler05071942-release-keys",
+        "commit": "1b56189bac2a04b641aede750cae326604d822bb",
+        "committed_date": "2019-06-28T22:31:13.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T19:27:59.353Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1818",
+        "project_id": 5005,
+        "project_path": "vivo/1818"
+      },
+      "revision": "1b56189bac2a04b641aede750cae326604d822bb",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1818/-/tree/1b56189bac2a04b641aede750cae326604d822bb"
+    },
+    {
+      "item_id": "vivo/1818@sm6150-user-9-PKQ1.190302.001-compiler12161832-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sm6150-user-9-PKQ1.190302.001-compiler12161832-release-keys",
+        "commit": "0d57f99325378c8bf265c81bd36bc22d8f436f1c",
+        "committed_date": "2020-02-05T23:04:42.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T19:27:59.353Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1818",
+        "project_id": 5005,
+        "project_path": "vivo/1818"
+      },
+      "revision": "0d57f99325378c8bf265c81bd36bc22d8f436f1c",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1818/-/tree/0d57f99325378c8bf265c81bd36bc22d8f436f1c"
+    },
+    {
+      "item_id": "vivo/1819@full_k71v1_64_bsp-user-9-P00610-compiler01022009-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k71v1_64_bsp-user-9-P00610-compiler01022009-release-keys",
+        "commit": "2eced14f81d6468ce7603ff0c2f7742df7257004",
+        "committed_date": "2020-02-17T02:52:46.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T19:52:20.337Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1819",
+        "project_id": 5017,
+        "project_path": "vivo/1819"
+      },
+      "revision": "2eced14f81d6468ce7603ff0c2f7742df7257004",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1819/-/tree/2eced14f81d6468ce7603ff0c2f7742df7257004"
+    },
+    {
+      "item_id": "vivo/1820@full_k62v1_64_bsp-user-8.1.0-O11019-1569756860-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k62v1_64_bsp-user-8.1.0-O11019-1569756860-release-keys",
+        "commit": "7cf6fe6fbbcc5c1524857570764ee13120897a43",
+        "committed_date": "2019-10-20T06:07:31.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T19:34:05.215Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1820",
+        "project_id": 5008,
+        "project_path": "vivo/1820"
+      },
+      "revision": "7cf6fe6fbbcc5c1524857570764ee13120897a43",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1820/-/tree/7cf6fe6fbbcc5c1524857570764ee13120897a43"
+    },
+    {
+      "item_id": "vivo/1820@full_k62v1_64_bsp-user-8.1.0-O11019-1574696796-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k62v1_64_bsp-user-8.1.0-O11019-1574696796-release-keys",
+        "commit": "42796c316f7678bbbda11d2b404c23600dc0e0a5",
+        "committed_date": "2019-12-14T19:00:01.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T19:34:05.215Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1820",
+        "project_id": 5008,
+        "project_path": "vivo/1820"
+      },
+      "revision": "42796c316f7678bbbda11d2b404c23600dc0e0a5",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1820/-/tree/42796c316f7678bbbda11d2b404c23600dc0e0a5"
+    },
+    {
+      "item_id": "vivo/1820@full_k62v1_64_bsp-user-8.1.0-O11019-1582655164-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k62v1_64_bsp-user-8.1.0-O11019-1582655164-release-keys",
+        "commit": "e20912dd65345f435cb606ab430617b029766d21",
+        "committed_date": "2020-03-22T16:26:25.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T19:34:05.215Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1820",
+        "project_id": 5008,
+        "project_path": "vivo/1820"
+      },
+      "revision": "e20912dd65345f435cb606ab430617b029766d21",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1820/-/tree/e20912dd65345f435cb606ab430617b029766d21"
+    },
+    {
+      "item_id": "vivo/1902@full_k65v1_64_bsp-user-9-PPR1.180610.011-compiler08172343-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k65v1_64_bsp-user-9-PPR1.180610.011-compiler08172343-release-keys",
+        "commit": "8bf644757e52292fea01ff42222391e98b077d4d",
+        "committed_date": "2019-10-19T01:12:34.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-09T01:40:51.460Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1902",
+        "project_id": 5070,
+        "project_path": "vivo/1902"
+      },
+      "revision": "8bf644757e52292fea01ff42222391e98b077d4d",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1902/-/tree/8bf644757e52292fea01ff42222391e98b077d4d"
+    },
+    {
+      "item_id": "vivo/1902@full_k65v1_64_bsp-user-9-PPR1.180610.011-compiler12161933-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k65v1_64_bsp-user-9-PPR1.180610.011-compiler12161933-release-keys",
+        "commit": "555a2310d33a7836dbc65b94d2f40b1fdeda24f0",
+        "committed_date": "2020-02-09T19:05:51.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-09T01:40:51.460Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1902",
+        "project_id": 5070,
+        "project_path": "vivo/1902"
+      },
+      "revision": "555a2310d33a7836dbc65b94d2f40b1fdeda24f0",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1902/-/tree/555a2310d33a7836dbc65b94d2f40b1fdeda24f0"
+    },
+    {
+      "item_id": "vivo/1906@msm8937_64-user-9-PKQ1.190616.001-compiler02142116-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_64-user-9-PKQ1.190616.001-compiler02142116-release-keys",
+        "commit": "e003a6f00d1f7ff6852fe16add96756bbd2a53be",
+        "committed_date": "2020-03-09T09:14:34.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2023-10-10T01:22:54.140Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1906",
+        "project_id": 4521,
+        "project_path": "vivo/1906"
+      },
+      "revision": "e003a6f00d1f7ff6852fe16add96756bbd2a53be",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1906/-/tree/e003a6f00d1f7ff6852fe16add96756bbd2a53be"
+    },
+    {
+      "item_id": "vivo/1906@msm8937_64-user-9-PKQ1.190616.001-compiler02292007-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_64-user-9-PKQ1.190616.001-compiler02292007-release-keys",
+        "commit": "d2202a41f15090cfb24878fc8ddb4ecd4b05aef9",
+        "committed_date": "2020-03-22T16:29:02.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-10-10T01:22:54.140Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1906",
+        "project_id": 4521,
+        "project_path": "vivo/1906"
+      },
+      "revision": "d2202a41f15090cfb24878fc8ddb4ecd4b05aef9",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1906/-/tree/d2202a41f15090cfb24878fc8ddb4ecd4b05aef9"
+    },
+    {
+      "item_id": "vivo/1907@full_k68v1_64-user-9-PPR1.180610.011-compiler03070953-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k68v1_64-user-9-PPR1.180610.011-compiler03070953-release-keys",
+        "commit": "7366cf02062fd7b03987f8e2396dc72207b22beb",
+        "committed_date": "2020-03-14T18:29:06.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T19:43:22.088Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1907",
+        "project_id": 5013,
+        "project_path": "vivo/1907"
+      },
+      "revision": "7366cf02062fd7b03987f8e2396dc72207b22beb",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1907/-/tree/7366cf02062fd7b03987f8e2396dc72207b22beb"
+    },
+    {
+      "item_id": "vivo/1907@full_k68v1_64-user-9-PPR1.180610.011-compiler08272232-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k68v1_64-user-9-PPR1.180610.011-compiler08272232-release-keys",
+        "commit": "22e8cdeb89642b0fcbcd24707b54fd026954c88f",
+        "committed_date": "2019-10-15T23:47:45.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T19:43:22.088Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1907",
+        "project_id": 5013,
+        "project_path": "vivo/1907"
+      },
+      "revision": "22e8cdeb89642b0fcbcd24707b54fd026954c88f",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1907/-/tree/22e8cdeb89642b0fcbcd24707b54fd026954c88f"
+    },
+    {
+      "item_id": "vivo/1907@full_k68v1_64-user-9-PPR1.180610.011-compiler11281608-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k68v1_64-user-9-PPR1.180610.011-compiler11281608-release-keys",
+        "commit": "ff2160a161834c617238384ef155e6422643de2f",
+        "committed_date": "2019-12-22T02:54:08.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T19:43:22.088Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1907",
+        "project_id": 5013,
+        "project_path": "vivo/1907"
+      },
+      "revision": "ff2160a161834c617238384ef155e6422643de2f",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1907/-/tree/ff2160a161834c617238384ef155e6422643de2f"
+    },
+    {
+      "item_id": "vivo/1907@full_k68v1_64-user-9-PPR1.180610.011-compiler12191809-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k68v1_64-user-9-PPR1.180610.011-compiler12191809-release-keys",
+        "commit": "9e60b40723e09803f373608bf9e9605672fe5918",
+        "committed_date": "2020-02-03T22:26:55.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T19:43:22.088Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1907",
+        "project_id": 5013,
+        "project_path": "vivo/1907"
+      },
+      "revision": "9e60b40723e09803f373608bf9e9605672fe5918",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1907/-/tree/9e60b40723e09803f373608bf9e9605672fe5918"
+    },
+    {
+      "item_id": "vivo/1909@sm6150-user-9-PKQ1.190302.001-compiler09070559-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sm6150-user-9-PKQ1.190302.001-compiler09070559-release-keys",
+        "commit": "6b44780ee7e4b638a912de932fc081a9bdcba84b",
+        "committed_date": "2019-10-13T16:10:36.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-10-10T00:57:06.263Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1909",
+        "project_id": 4508,
+        "project_path": "vivo/1909"
+      },
+      "revision": "6b44780ee7e4b638a912de932fc081a9bdcba84b",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1909/-/tree/6b44780ee7e4b638a912de932fc081a9bdcba84b"
+    },
+    {
+      "item_id": "vivo/1909@sm6150-user-9-PKQ1.190302.001-compiler10152102-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sm6150-user-9-PKQ1.190302.001-compiler10152102-release-keys",
+        "commit": "6c2bdd1b5bbe5a50dbb233fab363fa774559088f",
+        "committed_date": "2019-11-03T08:39:06.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-10-10T00:57:06.263Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1909",
+        "project_id": 4508,
+        "project_path": "vivo/1909"
+      },
+      "revision": "6c2bdd1b5bbe5a50dbb233fab363fa774559088f",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1909/-/tree/6c2bdd1b5bbe5a50dbb233fab363fa774559088f"
+    },
+    {
+      "item_id": "vivo/1909@sm6150-user-9-PKQ1.190302.001-compiler11012244-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sm6150-user-9-PKQ1.190302.001-compiler11012244-release-keys",
+        "commit": "4e5e5c15ad8eaedc218056bf1f988a40a8865257",
+        "committed_date": "2019-11-29T07:53:55.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-10-10T00:57:06.263Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1909",
+        "project_id": 4508,
+        "project_path": "vivo/1909"
+      },
+      "revision": "4e5e5c15ad8eaedc218056bf1f988a40a8865257",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1909/-/tree/4e5e5c15ad8eaedc218056bf1f988a40a8865257"
+    },
+    {
+      "item_id": "vivo/1909@sm6150-user-9-PKQ1.190302.001-compiler11291654-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sm6150-user-9-PKQ1.190302.001-compiler11291654-release-keys",
+        "commit": "2ab6e015fae14499243c33e0f67c91bc1b2d7ddc",
+        "committed_date": "2019-12-22T03:24:35.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-10-10T00:57:06.263Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1909",
+        "project_id": 4508,
+        "project_path": "vivo/1909"
+      },
+      "revision": "2ab6e015fae14499243c33e0f67c91bc1b2d7ddc",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1909/-/tree/2ab6e015fae14499243c33e0f67c91bc1b2d7ddc"
+    },
+    {
+      "item_id": "vivo/1915@full_k68v1_64-user-9-PPR1.180610.011-compiler12172121-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k68v1_64-user-9-PPR1.180610.011-compiler12172121-release-keys",
+        "commit": "f2575fca0f63ff31ebcfc57785e1d1df483fcad5",
+        "committed_date": "2020-01-26T14:25:17.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T19:06:33.430Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1915",
+        "project_id": 4999,
+        "project_path": "vivo/1915"
+      },
+      "revision": "f2575fca0f63ff31ebcfc57785e1d1df483fcad5",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1915/-/tree/f2575fca0f63ff31ebcfc57785e1d1df483fcad5"
+    },
+    {
+      "item_id": "vivo/1917@sdm710-user-9-PKQ1.181030.001-compiler02111525-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm710-user-9-PKQ1.181030.001-compiler02111525-release-keys",
+        "commit": "da49811b72ddb22b7460637c4fdc0bcab07e895b",
+        "committed_date": "2020-03-07T05:31:19.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2023-10-10T01:00:51.750Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1917",
+        "project_id": 4511,
+        "project_path": "vivo/1917"
+      },
+      "revision": "da49811b72ddb22b7460637c4fdc0bcab07e895b",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1917/-/tree/da49811b72ddb22b7460637c4fdc0bcab07e895b"
+    },
+    {
+      "item_id": "vivo/1917@sdm710-user-9-PKQ1.181030.001-compiler09111905-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm710-user-9-PKQ1.181030.001-compiler09111905-release-keys",
+        "commit": "e8317f44044aaf3daf4d49d148c9a865aa6eb80b",
+        "committed_date": "2019-10-13T15:30:08.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-10-10T01:00:51.750Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1917",
+        "project_id": 4511,
+        "project_path": "vivo/1917"
+      },
+      "revision": "e8317f44044aaf3daf4d49d148c9a865aa6eb80b",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1917/-/tree/e8317f44044aaf3daf4d49d148c9a865aa6eb80b"
+    },
+    {
+      "item_id": "vivo/1917@sdm710-user-9-PKQ1.181030.001-compiler10122053-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm710-user-9-PKQ1.181030.001-compiler10122053-release-keys",
+        "commit": "b53aec37576cc22ae937bc5add890372b0d240e1",
+        "committed_date": "2019-10-28T15:47:22.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-10-10T01:00:51.750Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1917",
+        "project_id": 4511,
+        "project_path": "vivo/1917"
+      },
+      "revision": "b53aec37576cc22ae937bc5add890372b0d240e1",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1917/-/tree/b53aec37576cc22ae937bc5add890372b0d240e1"
+    },
+    {
+      "item_id": "vivo/1919@sm6150-user-9-PKQ1.190302.001-compiler01092239-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sm6150-user-9-PKQ1.190302.001-compiler01092239-release-keys",
+        "commit": "056bab09f51e5560b9f39198a1cde1be2d730c57",
+        "committed_date": "2020-02-12T07:16:16.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T19:48:28.495Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1919",
+        "project_id": 5015,
+        "project_path": "vivo/1919"
+      },
+      "revision": "056bab09f51e5560b9f39198a1cde1be2d730c57",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1919/-/tree/056bab09f51e5560b9f39198a1cde1be2d730c57"
+    },
+    {
+      "item_id": "vivo/1919@sm6150-user-9-PKQ1.190302.001-compiler02111801-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sm6150-user-9-PKQ1.190302.001-compiler02111801-release-keys",
+        "commit": "cf5ec82d7af26e76a3e606f86e76bc7a0664ad2e",
+        "committed_date": "2020-03-06T05:08:17.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T19:48:28.495Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1919",
+        "project_id": 5015,
+        "project_path": "vivo/1919"
+      },
+      "revision": "cf5ec82d7af26e76a3e606f86e76bc7a0664ad2e",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1919/-/tree/cf5ec82d7af26e76a3e606f86e76bc7a0664ad2e"
+    },
+    {
+      "item_id": "vivo/1919@sm6150-user-9-PKQ1.190302.001-compiler12092108-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sm6150-user-9-PKQ1.190302.001-compiler12092108-release-keys",
+        "commit": "c7b96496b10154c4087434717faf95ee5b0ba28b",
+        "committed_date": "2019-12-22T03:32:57.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T19:48:28.495Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1919",
+        "project_id": 5015,
+        "project_path": "vivo/1919"
+      },
+      "revision": "c7b96496b10154c4087434717faf95ee5b0ba28b",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1919/-/tree/c7b96496b10154c4087434717faf95ee5b0ba28b"
+    },
+    {
+      "item_id": "vivo/1920n@trinket-user-9-PKQ1.190626.001-compiler01211737-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "trinket-user-9-PKQ1.190626.001-compiler01211737-release-keys",
+        "commit": "1993fc31a87939eb19f040c39c4947bf18350b90",
+        "committed_date": "2020-03-06T05:10:45.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T18:21:48.086Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1920n",
+        "project_id": 4982,
+        "project_path": "vivo/1920n"
+      },
+      "revision": "1993fc31a87939eb19f040c39c4947bf18350b90",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1920n/-/tree/1993fc31a87939eb19f040c39c4947bf18350b90"
+    },
+    {
+      "item_id": "vivo/1920n@trinket-user-9-PKQ1.190626.001-compiler03142339-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "trinket-user-9-PKQ1.190626.001-compiler03142339-release-keys",
+        "commit": "bd4312b6b8cfa54dd93aad6425e2e5be841f2b50",
+        "committed_date": "2020-03-22T16:33:51.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T18:21:48.086Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1920n",
+        "project_id": 4982,
+        "project_path": "vivo/1920n"
+      },
+      "revision": "bd4312b6b8cfa54dd93aad6425e2e5be841f2b50",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1920n/-/tree/bd4312b6b8cfa54dd93aad6425e2e5be841f2b50"
+    },
+    {
+      "item_id": "vivo/1920n@trinket-user-9-PKQ1.190626.001-compiler12282158-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "trinket-user-9-PKQ1.190626.001-compiler12282158-release-keys",
+        "commit": "0a99993b5a465eb226e80a5f90f1204c45f4bffa",
+        "committed_date": "2020-01-26T14:26:52.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T18:21:48.086Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1920n",
+        "project_id": 4982,
+        "project_path": "vivo/1920n"
+      },
+      "revision": "0a99993b5a465eb226e80a5f90f1204c45f4bffa",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/1920n/-/tree/0a99993b5a465eb226e80a5f90f1204c45f4bffa"
+    },
+    {
+      "item_id": "vivo/2006@qssi-user-12-SP1A.210812.003-compiler04131815-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SP1A.210812.003-compiler04131815-release-keys",
+        "commit": "bbd9374a4e8a77c86c33c5e0ce581461bd85b41d",
+        "committed_date": "2024-07-13T12:35:51.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-07-13T09:32:02.456Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2006",
+        "project_id": 5334,
+        "project_path": "vivo/2006"
+      },
+      "revision": "bbd9374a4e8a77c86c33c5e0ce581461bd85b41d",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2006/-/tree/bbd9374a4e8a77c86c33c5e0ce581461bd85b41d"
+    },
+    {
+      "item_id": "vivo/2023@qssi-user-11-RP1A.200720.012-eng.compil.20210820.210314-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.200720.012-eng.compil.20210820.210314-release-keys",
+        "commit": "ee36e0874e944ca38c7d1bd789210ee6e908a93d",
+        "committed_date": "2021-10-15T06:59:39.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T18:19:32.939Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2023",
+        "project_id": 4981,
+        "project_path": "vivo/2023"
+      },
+      "revision": "ee36e0874e944ca38c7d1bd789210ee6e908a93d",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2023/-/tree/ee36e0874e944ca38c7d1bd789210ee6e908a93d"
+    },
+    {
+      "item_id": "vivo/2025@qssi-user-13-TP1A.220624.014-eng.compil.20230920.151155-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220624.014-eng.compil.20230920.151155-release-keys",
+        "commit": "0c15b48af1f831c93cebf31f5192ad0b4f74be4a",
+        "committed_date": "2024-01-22T22:55:22.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-07-01T13:38:46.912Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2025",
+        "project_id": 4716,
+        "project_path": "vivo/2025"
+      },
+      "revision": "0c15b48af1f831c93cebf31f5192ad0b4f74be4a",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2025/-/tree/0c15b48af1f831c93cebf31f5192ad0b4f74be4a"
+    },
+    {
+      "item_id": "vivo/2025@sys_mssi_64_cn_armv82-user-13-TP1A.220624.014-eng.compil.20221228.015547-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220624.014-eng.compil.20221228.015547-release-keys",
+        "commit": "423288ab40021009517e2b9faf3a3ceaeaa7d74d",
+        "committed_date": "2023-05-09T15:44:41.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-01T13:38:46.912Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2025",
+        "project_id": 4716,
+        "project_path": "vivo/2025"
+      },
+      "revision": "423288ab40021009517e2b9faf3a3ceaeaa7d74d",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2025/-/tree/423288ab40021009517e2b9faf3a3ceaeaa7d74d"
+    },
+    {
+      "item_id": "vivo/2025@sys_mssi_64_cn_armv82-user-13-TP1A.220624.014-eng.compil.20230407.172951-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220624.014-eng.compil.20230407.172951-release-keys",
+        "commit": "7eed06f96a2ab7ec220d1b29c54f8bfcd570c306",
+        "committed_date": "2023-05-10T23:30:33.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-01T13:38:46.912Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2025",
+        "project_id": 4716,
+        "project_path": "vivo/2025"
+      },
+      "revision": "7eed06f96a2ab7ec220d1b29c54f8bfcd570c306",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2025/-/tree/7eed06f96a2ab7ec220d1b29c54f8bfcd570c306"
+    },
+    {
+      "item_id": "vivo/2025@sys_mssi_64_cn_armv82-user-14-UP1A.230519.001-bsppre18-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-14-UP1A.230519.001-bsppre18-release-keys",
+        "commit": "4ad99c16e1f0c6de976ebdc5cee90a721ec4b3de",
+        "committed_date": "2023-07-30T08:00:46.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-01T13:38:46.912Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2025",
+        "project_id": 4716,
+        "project_path": "vivo/2025"
+      },
+      "revision": "4ad99c16e1f0c6de976ebdc5cee90a721ec4b3de",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2025/-/tree/4ad99c16e1f0c6de976ebdc5cee90a721ec4b3de"
+    },
+    {
+      "item_id": "vivo/2025@sys_mssi_64_cn_armv82-user-14-UP1A.230620.001-eng.compil.20230728.174517-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-14-UP1A.230620.001-eng.compil.20230728.174517-release-keys",
+        "commit": "2c66a0b9f6b9fb3404da79170ab0171beed81f50",
+        "committed_date": "2023-08-16T15:07:44.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-01T13:38:46.912Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2025",
+        "project_id": 4716,
+        "project_path": "vivo/2025"
+      },
+      "revision": "2c66a0b9f6b9fb3404da79170ab0171beed81f50",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2025/-/tree/2c66a0b9f6b9fb3404da79170ab0171beed81f50"
+    },
+    {
+      "item_id": "vivo/2025@sys_mssi_64_cn_armv82-user-UpsideDownCake-UP1A.230309.002-bsppre7-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-UpsideDownCake-UP1A.230309.002-bsppre7-release-keys",
+        "commit": "b3d56554f4c05092b2ac3815c3e4f05e880eb8d7",
+        "committed_date": "2023-05-11T00:17:49.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-01T13:38:46.912Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2025",
+        "project_id": 4716,
+        "project_path": "vivo/2025"
+      },
+      "revision": "b3d56554f4c05092b2ac3815c3e4f05e880eb8d7",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2025/-/tree/b3d56554f4c05092b2ac3815c3e4f05e880eb8d7"
+    },
+    {
+      "item_id": "vivo/2027@qssi-user-11-RP1A.200720.012-eng.compil.20210720.223852-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.200720.012-eng.compil.20210720.223852-release-keys",
+        "commit": "c108b56645e65dca943c661ca67d6c192b6a7caf",
+        "committed_date": "2021-10-15T07:13:16.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-10-10T01:05:46.896Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2027",
+        "project_id": 4513,
+        "project_path": "vivo/2027"
+      },
+      "revision": "c108b56645e65dca943c661ca67d6c192b6a7caf",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2027/-/tree/c108b56645e65dca943c661ca67d6c192b6a7caf"
+    },
+    {
+      "item_id": "vivo/2030@qssi-user-11-RP1A.200720.012-eng.compil.20201216.004556-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.200720.012-eng.compil.20201216.004556-release-keys",
+        "commit": "b7cdb0463529e3226ad2e804d86af93ed6dbf1cd",
+        "committed_date": "2021-03-04T15:06:37.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T21:51:52.883Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2030",
+        "project_id": 5043,
+        "project_path": "vivo/2030"
+      },
+      "revision": "b7cdb0463529e3226ad2e804d86af93ed6dbf1cd",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2030/-/tree/b7cdb0463529e3226ad2e804d86af93ed6dbf1cd"
+    },
+    {
+      "item_id": "vivo/2030@qssi-user-12-SP1A.210812.003-compiler05152322-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SP1A.210812.003-compiler05152322-release-keys",
+        "commit": "ec88a32cd24bf553fcc27456acc20b9fd2b6dd8f",
+        "committed_date": "2022-09-07T10:23:03.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T21:51:52.883Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2030",
+        "project_id": 5043,
+        "project_path": "vivo/2030"
+      },
+      "revision": "ec88a32cd24bf553fcc27456acc20b9fd2b6dd8f",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2030/-/tree/ec88a32cd24bf553fcc27456acc20b9fd2b6dd8f"
+    },
+    {
+      "item_id": "vivo/2034@msm8937_64-user-11-RP1A.200720.012-eng.compil.20210409.191253-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_64-user-11-RP1A.200720.012-eng.compil.20210409.191253-release-keys",
+        "commit": "5b1d2d760710c204c6afac0954ae45e9307baf02",
+        "committed_date": "2021-06-11T11:58:03.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T19:19:20.524Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2034",
+        "project_id": 5002,
+        "project_path": "vivo/2034"
+      },
+      "revision": "5b1d2d760710c204c6afac0954ae45e9307baf02",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2034/-/tree/5b1d2d760710c204c6afac0954ae45e9307baf02"
+    },
+    {
+      "item_id": "vivo/2034@msm8937_64-user-11-RP1A.200720.012-eng.compil.20211206.163736-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_64-user-11-RP1A.200720.012-eng.compil.20211206.163736-release-keys",
+        "commit": "6313f28ea5eff7208fe230e1c965350bc631330e",
+        "committed_date": "2022-01-23T22:17:57.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T19:19:20.524Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2034",
+        "project_id": 5002,
+        "project_path": "vivo/2034"
+      },
+      "revision": "6313f28ea5eff7208fe230e1c965350bc631330e",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2034/-/tree/6313f28ea5eff7208fe230e1c965350bc631330e"
+    },
+    {
+      "item_id": "vivo/2034@msm8937_64-user-11-RP1A.200720.012-eng.compil.20220331.144122-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_64-user-11-RP1A.200720.012-eng.compil.20220331.144122-release-keys",
+        "commit": "e0ead92da4349831620695991a55e0807b59d924",
+        "committed_date": "2022-06-08T15:38:43.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T19:19:20.524Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2034",
+        "project_id": 5002,
+        "project_path": "vivo/2034"
+      },
+      "revision": "e0ead92da4349831620695991a55e0807b59d924",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2034/-/tree/e0ead92da4349831620695991a55e0807b59d924"
+    },
+    {
+      "item_id": "vivo/2036@qssi-user-11-RP1A.200720.012-eng.compil.20210202.222212-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.200720.012-eng.compil.20210202.222212-release-keys",
+        "commit": "b1e2979a6d653270644cbe5651ab4354addb3ab2",
+        "committed_date": "2021-03-04T15:01:06.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T19:50:20.147Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2036",
+        "project_id": 5016,
+        "project_path": "vivo/2036"
+      },
+      "revision": "b1e2979a6d653270644cbe5651ab4354addb3ab2",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2036/-/tree/b1e2979a6d653270644cbe5651ab4354addb3ab2"
+    },
+    {
+      "item_id": "vivo/2037@full_k69v1_64-user-11-RP1A.200720.012-eng.compil.20210127.210259-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k69v1_64-user-11-RP1A.200720.012-eng.compil.20210127.210259-release-keys",
+        "commit": "ac02ab4c9bd07cfbffe79d708de48eff6d286583",
+        "committed_date": "2021-03-04T15:33:58.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T20:08:14.374Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2037",
+        "project_id": 5022,
+        "project_path": "vivo/2037"
+      },
+      "revision": "ac02ab4c9bd07cfbffe79d708de48eff6d286583",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2037/-/tree/ac02ab4c9bd07cfbffe79d708de48eff6d286583"
+    },
+    {
+      "item_id": "vivo/2040@qssi-user-11-RP1A.200720.012-eng.compil.20210120.204446-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.200720.012-eng.compil.20210120.204446-release-keys",
+        "commit": "f7b4f1507f44c4866a0a1fb02ba8e243de4451a7",
+        "committed_date": "2021-03-04T15:10:44.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T19:41:35.323Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2040",
+        "project_id": 5012,
+        "project_path": "vivo/2040"
+      },
+      "revision": "f7b4f1507f44c4866a0a1fb02ba8e243de4451a7",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2040/-/tree/f7b4f1507f44c4866a0a1fb02ba8e243de4451a7"
+    },
+    {
+      "item_id": "vivo/2041@full_k6833v1_64-user-11-RP1A.200720.012-eng.compil.20210807.024027-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6833v1_64-user-11-RP1A.200720.012-eng.compil.20210807.024027-release-keys",
+        "commit": "3dedd025eef02abb6338abc51de3d0d6421d1a87",
+        "committed_date": "2021-09-09T19:45:55.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T18:31:09.408Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2041",
+        "project_id": 4987,
+        "project_path": "vivo/2041"
+      },
+      "revision": "3dedd025eef02abb6338abc51de3d0d6421d1a87",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2041/-/tree/3dedd025eef02abb6338abc51de3d0d6421d1a87"
+    },
+    {
+      "item_id": "vivo/2041@full_k6833v1_64-user-11-RP1A.200720.012-eng.compil.20210820.213733-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6833v1_64-user-11-RP1A.200720.012-eng.compil.20210820.213733-release-keys",
+        "commit": "a44fe296c22cd4de152d6a22f0a23c29d300fbaf",
+        "committed_date": "2021-09-26T03:34:57.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T18:31:09.408Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2041",
+        "project_id": 4987,
+        "project_path": "vivo/2041"
+      },
+      "revision": "a44fe296c22cd4de152d6a22f0a23c29d300fbaf",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2041/-/tree/a44fe296c22cd4de152d6a22f0a23c29d300fbaf"
+    },
+    {
+      "item_id": "vivo/2041@full_k6833v1_64-user-11-RP1A.200720.012-eng.compil.20211203.222948-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6833v1_64-user-11-RP1A.200720.012-eng.compil.20211203.222948-release-keys",
+        "commit": "1b2a6d918ef8a3a60f1a22cbd99e8e2ed46db893",
+        "committed_date": "2022-01-29T21:47:05.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T18:31:09.408Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2041",
+        "project_id": 4987,
+        "project_path": "vivo/2041"
+      },
+      "revision": "1b2a6d918ef8a3a60f1a22cbd99e8e2ed46db893",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2041/-/tree/1b2a6d918ef8a3a60f1a22cbd99e8e2ed46db893"
+    },
+    {
+      "item_id": "vivo/2045@qssi-user-11-RP1A.200720.012-eng.compil.20210514.191053-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.200720.012-eng.compil.20210514.191053-release-keys",
+        "commit": "87e3898a94af144da62bdb921d03671a564f8ab7",
+        "committed_date": "2021-09-09T20:27:34.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T18:28:58.770Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2045",
+        "project_id": 4986,
+        "project_path": "vivo/2045"
+      },
+      "revision": "87e3898a94af144da62bdb921d03671a564f8ab7",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2045/-/tree/87e3898a94af144da62bdb921d03671a564f8ab7"
+    },
+    {
+      "item_id": "vivo/2046@qssi-user-11-RP1A.200720.012-eng.compil.20210515.024942-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.200720.012-eng.compil.20210515.024942-release-keys",
+        "commit": "b53f1bd2597c09793ec09bc8e773b5e440992254",
+        "committed_date": "2021-06-30T23:41:17.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T20:18:30.659Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2046",
+        "project_id": 5027,
+        "project_path": "vivo/2046"
+      },
+      "revision": "b53f1bd2597c09793ec09bc8e773b5e440992254",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2046/-/tree/b53f1bd2597c09793ec09bc8e773b5e440992254"
+    },
+    {
+      "item_id": "vivo/2046@qssi-user-11-RP1A.200720.012-eng.compil.20210515.091354-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.200720.012-eng.compil.20210515.091354-release-keys",
+        "commit": "7f58b2433f598494e0bb9e95b439d50e8b9814e6",
+        "committed_date": "2021-09-09T20:43:51.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T20:18:30.659Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2046",
+        "project_id": 5027,
+        "project_path": "vivo/2046"
+      },
+      "revision": "7f58b2433f598494e0bb9e95b439d50e8b9814e6",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2046/-/tree/7f58b2433f598494e0bb9e95b439d50e8b9814e6"
+    },
+    {
+      "item_id": "vivo/2046@qssi-user-11-RP1A.200720.012-eng.compil.20210706.221756-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.200720.012-eng.compil.20210706.221756-release-keys",
+        "commit": "a3626be6644982056b22d0dca5c9a4968e3a3c8b",
+        "committed_date": "2021-09-09T19:32:10.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T20:18:30.659Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2046",
+        "project_id": 5027,
+        "project_path": "vivo/2046"
+      },
+      "revision": "a3626be6644982056b22d0dca5c9a4968e3a3c8b",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2046/-/tree/a3626be6644982056b22d0dca5c9a4968e3a3c8b"
+    },
+    {
+      "item_id": "vivo/2046@qssi-user-11-RP1A.200720.012-eng.compil.20210708.214015-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.200720.012-eng.compil.20210708.214015-release-keys",
+        "commit": "355e6911bd836d00828321aa7e50e190f9d585d8",
+        "committed_date": "2021-10-18T13:39:10.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T20:18:30.659Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2046",
+        "project_id": 5027,
+        "project_path": "vivo/2046"
+      },
+      "revision": "355e6911bd836d00828321aa7e50e190f9d585d8",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2046/-/tree/355e6911bd836d00828321aa7e50e190f9d585d8"
+    },
+    {
+      "item_id": "vivo/2046@qssi-user-11-RP1A.200720.012-eng.compil.20210805.210336-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.200720.012-eng.compil.20210805.210336-release-keys",
+        "commit": "72234912ec43de3779370c70b946d5118f2266fc",
+        "committed_date": "2021-10-15T06:32:14.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T20:18:30.659Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2046",
+        "project_id": 5027,
+        "project_path": "vivo/2046"
+      },
+      "revision": "72234912ec43de3779370c70b946d5118f2266fc",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2046/-/tree/72234912ec43de3779370c70b946d5118f2266fc"
+    },
+    {
+      "item_id": "vivo/2046@qssi-user-11-RP1A.200720.012-eng.compil.20210913.184949-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.200720.012-eng.compil.20210913.184949-release-keys",
+        "commit": "7b9f966672c1d1ae14a56c36a917a391e636506d",
+        "committed_date": "2021-10-15T07:44:42.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T20:18:30.659Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2046",
+        "project_id": 5027,
+        "project_path": "vivo/2046"
+      },
+      "revision": "7b9f966672c1d1ae14a56c36a917a391e636506d",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2046/-/tree/7b9f966672c1d1ae14a56c36a917a391e636506d"
+    },
+    {
+      "item_id": "vivo/2046@qssi-user-12-SP1A.210812.003-compiler09221914-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SP1A.210812.003-compiler09221914-release-keys",
+        "commit": "cf86df27e4c1de7104ca27d89f5bb5bf88fac2cd",
+        "committed_date": "2022-11-16T11:44:26.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T20:18:30.659Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2046",
+        "project_id": 5027,
+        "project_path": "vivo/2046"
+      },
+      "revision": "cf86df27e4c1de7104ca27d89f5bb5bf88fac2cd",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2046/-/tree/cf86df27e4c1de7104ca27d89f5bb5bf88fac2cd"
+    },
+    {
+      "item_id": "vivo/2047@qssi-user-11-RP1A.200720.012-eng.compil.20210331.224752-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.200720.012-eng.compil.20210331.224752-release-keys",
+        "commit": "b5b3298d2ab0320a9640bcc7d372ce00a76df117",
+        "committed_date": "2021-04-30T00:25:06.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T21:08:07.601Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2047",
+        "project_id": 5034,
+        "project_path": "vivo/2047"
+      },
+      "revision": "b5b3298d2ab0320a9640bcc7d372ce00a76df117",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2047/-/tree/b5b3298d2ab0320a9640bcc7d372ce00a76df117"
+    },
+    {
+      "item_id": "vivo/2047@qssi-user-11-RP1A.200720.012-eng.compil.20210611.191354-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.200720.012-eng.compil.20210611.191354-release-keys",
+        "commit": "1532081f586ef10de99924bc9d549ac3478422a4",
+        "committed_date": "2021-09-09T20:10:57.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T21:08:07.601Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2047",
+        "project_id": 5034,
+        "project_path": "vivo/2047"
+      },
+      "revision": "1532081f586ef10de99924bc9d549ac3478422a4",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2047/-/tree/1532081f586ef10de99924bc9d549ac3478422a4"
+    },
+    {
+      "item_id": "vivo/2047@qssi-user-11-RP1A.200720.012-eng.compil.20210811.175100-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.200720.012-eng.compil.20210811.175100-release-keys",
+        "commit": "a32fd51e9f962352b4aa4ea44c2ec0f6d12dc11e",
+        "committed_date": "2021-09-30T18:49:13.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T21:08:07.601Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2047",
+        "project_id": 5034,
+        "project_path": "vivo/2047"
+      },
+      "revision": "a32fd51e9f962352b4aa4ea44c2ec0f6d12dc11e",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2047/-/tree/a32fd51e9f962352b4aa4ea44c2ec0f6d12dc11e"
+    },
+    {
+      "item_id": "vivo/2050@full_k6853v1_64_6360-user-11-RP1A.200720.012-eng.compil.20210813.221237-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6853v1_64_6360-user-11-RP1A.200720.012-eng.compil.20210813.221237-release-keys",
+        "commit": "9fcddba958f382473f19b4efda78196ce26500d6",
+        "committed_date": "2021-09-09T19:58:18.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T19:58:45.083Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2050",
+        "project_id": 5020,
+        "project_path": "vivo/2050"
+      },
+      "revision": "9fcddba958f382473f19b4efda78196ce26500d6",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2050/-/tree/9fcddba958f382473f19b4efda78196ce26500d6"
+    },
+    {
+      "item_id": "vivo/2050@full_k6853v1_64_6360-user-11-RP1A.200720.012-eng.compil.20210902.223815-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6853v1_64_6360-user-11-RP1A.200720.012-eng.compil.20210902.223815-release-keys",
+        "commit": "4e32e4d7e73b347ad003feefd0560686a2359cce",
+        "committed_date": "2021-10-15T06:46:27.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T19:58:45.083Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2050",
+        "project_id": 5020,
+        "project_path": "vivo/2050"
+      },
+      "revision": "4e32e4d7e73b347ad003feefd0560686a2359cce",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2050/-/tree/4e32e4d7e73b347ad003feefd0560686a2359cce"
+    },
+    {
+      "item_id": "vivo/2050@full_k6853v1_64_6360-user-11-RP1A.200720.012-eng.compil.20210908.181919-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6853v1_64_6360-user-11-RP1A.200720.012-eng.compil.20210908.181919-release-keys",
+        "commit": "07eecadc5220c8c1e650c2082a10772287ff2e1a",
+        "committed_date": "2021-10-15T08:15:10.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T19:58:45.083Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2050",
+        "project_id": 5020,
+        "project_path": "vivo/2050"
+      },
+      "revision": "07eecadc5220c8c1e650c2082a10772287ff2e1a",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2050/-/tree/07eecadc5220c8c1e650c2082a10772287ff2e1a"
+    },
+    {
+      "item_id": "vivo/2105@full_k6893v1_64-user-11-RP1A.200720.012-eng.compil.20210911.194426-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6893v1_64-user-11-RP1A.200720.012-eng.compil.20210911.194426-release-keys",
+        "commit": "a8efc794081c4b21d3e493dd80b4b525a84c504e",
+        "committed_date": "2024-12-30T21:06:21.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-12-30T18:14:01.806Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2105",
+        "project_id": 4512,
+        "project_path": "vivo/2105"
+      },
+      "revision": "a8efc794081c4b21d3e493dd80b4b525a84c504e",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2105/-/tree/a8efc794081c4b21d3e493dd80b4b525a84c504e"
+    },
+    {
+      "item_id": "vivo/2105@full_k6893v1_64-user-11-RP1A.200720.012-eng.compil.20210923.210035-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6893v1_64-user-11-RP1A.200720.012-eng.compil.20210923.210035-release-keys",
+        "commit": "e018f60f220523ecfe49c3047c17b806f6151c49",
+        "committed_date": "2021-10-15T02:01:59.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T18:14:01.806Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2105",
+        "project_id": 4512,
+        "project_path": "vivo/2105"
+      },
+      "revision": "e018f60f220523ecfe49c3047c17b806f6151c49",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2105/-/tree/e018f60f220523ecfe49c3047c17b806f6151c49"
+    },
+    {
+      "item_id": "vivo/2105@full_k6893v1_64-user-11-RP1A.200720.012-eng.compil.20211026.011846-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6893v1_64-user-11-RP1A.200720.012-eng.compil.20211026.011846-release-keys",
+        "commit": "d72cda092eb2f00197b704d0a751949b19da63c0",
+        "committed_date": "2022-01-29T21:16:04.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T18:14:01.806Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2105",
+        "project_id": 4512,
+        "project_path": "vivo/2105"
+      },
+      "revision": "d72cda092eb2f00197b704d0a751949b19da63c0",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2105/-/tree/d72cda092eb2f00197b704d0a751949b19da63c0"
+    },
+    {
+      "item_id": "vivo/2105@full_k6893v1_64-user-11-RP1A.200720.012-eng.compil.20211201.211211-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6893v1_64-user-11-RP1A.200720.012-eng.compil.20211201.211211-release-keys",
+        "commit": "ec91a47ef76690a984d957b7c62fe260e20f3f19",
+        "committed_date": "2022-01-29T20:58:58.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-30T18:14:01.806Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2105",
+        "project_id": 4512,
+        "project_path": "vivo/2105"
+      },
+      "revision": "ec91a47ef76690a984d957b7c62fe260e20f3f19",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2105/-/tree/ec91a47ef76690a984d957b7c62fe260e20f3f19"
+    },
+    {
+      "item_id": "vivo/2114@qssi-user-12-SP1A.210812.003-compiler01181536-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SP1A.210812.003-compiler01181536-release-keys",
+        "commit": "289a55c46068d0fc52dee57649e9c7cdfbb05065",
+        "committed_date": "2022-03-16T06:06:11.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T19:16:35.699Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2114",
+        "project_id": 5001,
+        "project_path": "vivo/2114"
+      },
+      "revision": "289a55c46068d0fc52dee57649e9c7cdfbb05065",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2114/-/tree/289a55c46068d0fc52dee57649e9c7cdfbb05065"
+    },
+    {
+      "item_id": "vivo/2114@qssi-user-12-SP1A.210812.003-compiler12241703-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SP1A.210812.003-compiler12241703-release-keys",
+        "commit": "0e85778a7cb10250d8d9485bc245de97f52ae634",
+        "committed_date": "2022-01-29T22:01:45.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T19:16:35.699Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2114",
+        "project_id": 5001,
+        "project_path": "vivo/2114"
+      },
+      "revision": "0e85778a7cb10250d8d9485bc245de97f52ae634",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2114/-/tree/0e85778a7cb10250d8d9485bc245de97f52ae634"
+    },
+    {
+      "item_id": "vivo/2124@full_k6833v1_64-user-11-RP1A.200720.012-eng.compil.20211203.122623-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6833v1_64-user-11-RP1A.200720.012-eng.compil.20211203.122623-release-keys",
+        "commit": "415909d089332715be163948794b9e9036470658",
+        "committed_date": "2022-01-29T21:33:09.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T23:59:22.863Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2124",
+        "project_id": 5053,
+        "project_path": "vivo/2124"
+      },
+      "revision": "415909d089332715be163948794b9e9036470658",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2124/-/tree/415909d089332715be163948794b9e9036470658"
+    },
+    {
+      "item_id": "vivo/2130@full_k6877v1_64-user-12-SP1A.210812.003-compiler03032308-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6877v1_64-user-12-SP1A.210812.003-compiler03032308-release-keys",
+        "commit": "7f078d4ab3e54c36f8bd65c8f4a90979a324e3b4",
+        "committed_date": "2022-04-25T19:08:12.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T18:43:54.193Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2130",
+        "project_id": 4993,
+        "project_path": "vivo/2130"
+      },
+      "revision": "7f078d4ab3e54c36f8bd65c8f4a90979a324e3b4",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2130/-/tree/7f078d4ab3e54c36f8bd65c8f4a90979a324e3b4"
+    },
+    {
+      "item_id": "vivo/2132@full_k6893v1_64-user-12-SP1A.210812.003-compiler03112122-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6893v1_64-user-12-SP1A.210812.003-compiler03112122-release-keys",
+        "commit": "5a334f1d0657f9da88f5260063a7b56bfae7755a",
+        "committed_date": "2022-04-25T19:28:01.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-09T01:31:11.161Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2132",
+        "project_id": 5067,
+        "project_path": "vivo/2132"
+      },
+      "revision": "5a334f1d0657f9da88f5260063a7b56bfae7755a",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2132/-/tree/5a334f1d0657f9da88f5260063a7b56bfae7755a"
+    },
+    {
+      "item_id": "vivo/2132@full_k6893v1_64-user-12-SP1A.210812.003-compiler11031742-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6893v1_64-user-12-SP1A.210812.003-compiler11031742-release-keys",
+        "commit": "491f86551ac2a5708922ca8bc5910c99beeaccbf",
+        "committed_date": "2023-04-19T20:51:51.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-09T01:31:11.161Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2132",
+        "project_id": 5067,
+        "project_path": "vivo/2132"
+      },
+      "revision": "491f86551ac2a5708922ca8bc5910c99beeaccbf",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2132/-/tree/491f86551ac2a5708922ca8bc5910c99beeaccbf"
+    },
+    {
+      "item_id": "vivo/2141@qssi-user-12-SP1A.210812.003-compiler02081846-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SP1A.210812.003-compiler02081846-release-keys",
+        "commit": "e2673a080fc40096f9279beff3c7c7f888713d2c",
+        "committed_date": "2022-03-16T06:24:49.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-09T00:17:29.863Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2141",
+        "project_id": 5060,
+        "project_path": "vivo/2141"
+      },
+      "revision": "e2673a080fc40096f9279beff3c7c7f888713d2c",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2141/-/tree/e2673a080fc40096f9279beff3c7c7f888713d2c"
+    },
+    {
+      "item_id": "vivo/2141@qssi-user-12-SP1A.210812.003-compiler03182207-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SP1A.210812.003-compiler03182207-release-keys",
+        "commit": "96c064a8c00420df2d6f2fe679941de445f5c422",
+        "committed_date": "2022-04-25T18:38:37.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-09T00:17:29.863Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2141",
+        "project_id": 5060,
+        "project_path": "vivo/2141"
+      },
+      "revision": "96c064a8c00420df2d6f2fe679941de445f5c422",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/2141/-/tree/96c064a8c00420df2d6f2fe679941de445f5c422"
+    },
+    {
+      "item_id": "vivo/atoll@atoll-user-10-QP1A.190711.020-compiler01071617-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "atoll-user-10-QP1A.190711.020-compiler01071617-release-keys",
+        "commit": "bdf0a3013f213b41770d8350793849b32b784219",
+        "committed_date": "2022-04-26T13:40:10.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T23:56:57.893Z",
+        "namespace_hint": "vivo",
+        "project_hint": "atoll",
+        "project_id": 5052,
+        "project_path": "vivo/atoll"
+      },
+      "revision": "bdf0a3013f213b41770d8350793849b32b784219",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/atoll/-/tree/bdf0a3013f213b41770d8350793849b32b784219"
+    },
+    {
+      "item_id": "vivo/dpd2221@sys_mssi_t_64_cn_armv82_wifi-user-13-TP1A.220624.014-eng.compil.20240306.211224-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_t_64_cn_armv82_wifi-user-13-TP1A.220624.014-eng.compil.20240306.211224-release-keys",
+        "commit": "039339164f3162d2ec030ef3fddc807767ce117d",
+        "committed_date": "2024-04-04T22:27:05.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-04-04T19:21:51.514Z",
+        "namespace_hint": "vivo",
+        "project_hint": "dpd2221",
+        "project_id": 5223,
+        "project_path": "vivo/dpd2221"
+      },
+      "revision": "039339164f3162d2ec030ef3fddc807767ce117d",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/dpd2221/-/tree/039339164f3162d2ec030ef3fddc807767ce117d"
+    },
+    {
+      "item_id": "vivo/k65v1_64_bsp@full_k65v1_64_bsp-user-10-QP1A.190711.020-compiler02041218-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k65v1_64_bsp-user-10-QP1A.190711.020-compiler02041218-release-keys",
+        "commit": "2398a9379a966fbdde2b81bbbdbec625fbe71ebe",
+        "committed_date": "2021-03-04T14:53:59.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T19:09:00.364Z",
+        "namespace_hint": "vivo",
+        "project_hint": "k65v1_64_bsp",
+        "project_id": 5000,
+        "project_path": "vivo/k65v1_64_bsp"
+      },
+      "revision": "2398a9379a966fbdde2b81bbbdbec625fbe71ebe",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/k65v1_64_bsp/-/tree/2398a9379a966fbdde2b81bbbdbec625fbe71ebe"
+    },
+    {
+      "item_id": "vivo/k6853v1_64_6360@full_k6853v1_64_6360-user-10-QP1A.190711.020-compiler11122250-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6853v1_64_6360-user-10-QP1A.190711.020-compiler11122250-release-keys",
+        "commit": "457d1ba618512704f37ddd8304fc187940695e87",
+        "committed_date": "2022-04-26T12:38:04.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T19:32:06.205Z",
+        "namespace_hint": "vivo",
+        "project_hint": "k6853v1_64_6360",
+        "project_id": 5007,
+        "project_path": "vivo/k6853v1_64_6360"
+      },
+      "revision": "457d1ba618512704f37ddd8304fc187940695e87",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/k6853v1_64_6360/-/tree/457d1ba618512704f37ddd8304fc187940695e87"
+    },
+    {
+      "item_id": "vivo/msmnile@msmnile-user-10-QP1A.190711.020-compiler04271003-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msmnile-user-10-QP1A.190711.020-compiler04271003-release-keys",
+        "commit": "01753c01e3ed60ef43da0d146c793d529b068b10",
+        "committed_date": "2021-10-15T08:00:37.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-09T00:11:25.539Z",
+        "namespace_hint": "vivo",
+        "project_hint": "msmnile",
+        "project_id": 5058,
+        "project_path": "vivo/msmnile"
+      },
+      "revision": "01753c01e3ed60ef43da0d146c793d529b068b10",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/msmnile/-/tree/01753c01e3ed60ef43da0d146c793d529b068b10"
+    },
+    {
+      "item_id": "vivo/msmnile@msmnile-user-10-QP1A.190711.020-compiler10292332-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msmnile-user-10-QP1A.190711.020-compiler10292332-release-keys",
+        "commit": "37212579219fb2f6c304bb3e0489232881053c30",
+        "committed_date": "2021-03-04T15:08:11.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-09T00:11:25.539Z",
+        "namespace_hint": "vivo",
+        "project_hint": "msmnile",
+        "project_id": 5058,
+        "project_path": "vivo/msmnile"
+      },
+      "revision": "37212579219fb2f6c304bb3e0489232881053c30",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/msmnile/-/tree/37212579219fb2f6c304bb3e0489232881053c30"
+    },
+    {
+      "item_id": "vivo/pd1522a@msm8952_64-user-5.1.1-LMY47V-eng.compiler.20180719.124538-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8952_64-user-5.1.1-LMY47V-eng.compiler.20180719.124538-release-keys",
+        "commit": "430075a42d01a5a88ccaf0a1dc2b2616bce5aa83",
+        "committed_date": "2019-07-31T20:12:06.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T18:42:48.455Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd1522a",
+        "project_id": 4992,
+        "project_path": "vivo/pd1522a"
+      },
+      "revision": "430075a42d01a5a88ccaf0a1dc2b2616bce5aa83",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd1522a/-/tree/430075a42d01a5a88ccaf0a1dc2b2616bce5aa83"
+    },
+    {
+      "item_id": "vivo/pd1718@full_bbk6763_66_n1-user-7.1.1-N6F26Q-1558951606-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_bbk6763_66_n1-user-7.1.1-N6F26Q-1558951606-release-keys",
+        "commit": "64b0dc69116f785bca3b3f589deed113eb82bbac",
+        "committed_date": "2019-12-01T15:35:10.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T21:56:02.839Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd1718",
+        "project_id": 5044,
+        "project_path": "vivo/pd1718"
+      },
+      "revision": "64b0dc69116f785bca3b3f589deed113eb82bbac",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd1718/-/tree/64b0dc69116f785bca3b3f589deed113eb82bbac"
+    },
+    {
+      "item_id": "vivo/pd1730bf_ex@msm8953_64-user-9-PKQ1.190118.001-compiler08072311-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8953_64-user-9-PKQ1.190118.001-compiler08072311-release-keys",
+        "commit": "3bc3134bf062dd7b04ac6981922b315407f9119d",
+        "committed_date": "2019-09-12T18:00:44.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T20:29:29.052Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd1730bf_ex",
+        "project_id": 5030,
+        "project_path": "vivo/pd1730bf_ex"
+      },
+      "revision": "3bc3134bf062dd7b04ac6981922b315407f9119d",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd1730bf_ex/-/tree/3bc3134bf062dd7b04ac6981922b315407f9119d"
+    },
+    {
+      "item_id": "vivo/pd1730c@sdm660_64-user-8.1.0-OPM1.171019.011-eng.compil.20180709.162447-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-8.1.0-OPM1.171019.011-eng.compil.20180709.162447-release-keys",
+        "commit": "50e41609fb12bb23534d9c39a13d1efe6657282a",
+        "committed_date": "2018-08-03T23:18:55.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2023-10-10T01:30:00.810Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd1730c",
+        "project_id": 4524,
+        "project_path": "vivo/pd1730c"
+      },
+      "revision": "50e41609fb12bb23534d9c39a13d1efe6657282a",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd1730c/-/tree/50e41609fb12bb23534d9c39a13d1efe6657282a"
+    },
+    {
+      "item_id": "vivo/pd1730c@sdm660_64-user-9-PKQ1.180819.001-compiler07191246-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-9-PKQ1.180819.001-compiler07191246-release-keys",
+        "commit": "c98cfa67f6d0ad5624a7799c35998e8c4c19e541",
+        "committed_date": "2019-12-01T15:48:30.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-10-10T01:30:00.810Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd1730c",
+        "project_id": 4524,
+        "project_path": "vivo/pd1730c"
+      },
+      "revision": "c98cfa67f6d0ad5624a7799c35998e8c4c19e541",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd1730c/-/tree/c98cfa67f6d0ad5624a7799c35998e8c4c19e541"
+    },
+    {
+      "item_id": "vivo/pd1732cf_ex@full_k61v1_64_bsp-user-8.1.0-O11019-1563155832-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k61v1_64_bsp-user-8.1.0-O11019-1563155832-release-keys",
+        "commit": "8b6d2d88c183a6cedb4b184cbaa3b61e05043022",
+        "committed_date": "2019-09-12T17:32:33.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T21:45:32.008Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd1732cf_ex",
+        "project_id": 5040,
+        "project_path": "vivo/pd1732cf_ex"
+      },
+      "revision": "8b6d2d88c183a6cedb4b184cbaa3b61e05043022",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd1732cf_ex/-/tree/8b6d2d88c183a6cedb4b184cbaa3b61e05043022"
+    },
+    {
+      "item_id": "vivo/pd1801@full_k71v1_64_bsp-user-9-P00610-compiler04071825-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k71v1_64_bsp-user-9-P00610-compiler04071825-release-keys",
+        "commit": "81d6ca33403456af2fc2eb0a651d2eb44eb53796",
+        "committed_date": "2021-01-13T06:35:14.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T21:13:39.499Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd1801",
+        "project_id": 5036,
+        "project_path": "vivo/pd1801"
+      },
+      "revision": "81d6ca33403456af2fc2eb0a651d2eb44eb53796",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd1801/-/tree/81d6ca33403456af2fc2eb0a651d2eb44eb53796"
+    },
+    {
+      "item_id": "vivo/pd1814f_ex@sdm660_64-user-9-PKQ1.180819.001-compiler07042010-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-9-PKQ1.180819.001-compiler07042010-release-keys",
+        "commit": "b55c6771ad015563f214de36c969e33ff76726b5",
+        "committed_date": "2019-09-12T19:22:21.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T20:10:16.284Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd1814f_ex",
+        "project_id": 5023,
+        "project_path": "vivo/pd1814f_ex"
+      },
+      "revision": "b55c6771ad015563f214de36c969e33ff76726b5",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd1814f_ex/-/tree/b55c6771ad015563f214de36c969e33ff76726b5"
+    },
+    {
+      "item_id": "vivo/pd1818c@full_k62v1_64_bsp-user-8.1.0-O11019-1561720574-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k62v1_64_bsp-user-8.1.0-O11019-1561720574-release-keys",
+        "commit": "25d9a430c9e1c6cd9111ba0b97afcdb716da92f2",
+        "committed_date": "2019-09-16T18:01:22.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-09T00:04:53.554Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd1818c",
+        "project_id": 5055,
+        "project_path": "vivo/pd1818c"
+      },
+      "revision": "25d9a430c9e1c6cd9111ba0b97afcdb716da92f2",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd1818c/-/tree/25d9a430c9e1c6cd9111ba0b97afcdb716da92f2"
+    },
+    {
+      "item_id": "vivo/pd1831f_ex@full_k71v1_64_bsp-user-9-PPR1.180610.011-compiler03041122-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k71v1_64_bsp-user-9-PPR1.180610.011-compiler03041122-release-keys",
+        "commit": "37a75a32a98954ee8e060c7b38dde894f5429c5e",
+        "committed_date": "2021-07-07T21:03:52.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T18:39:31.763Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd1831f_ex",
+        "project_id": 4990,
+        "project_path": "vivo/pd1831f_ex"
+      },
+      "revision": "37a75a32a98954ee8e060c7b38dde894f5429c5e",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd1831f_ex/-/tree/37a75a32a98954ee8e060c7b38dde894f5429c5e"
+    },
+    {
+      "item_id": "vivo/pd1832@sm6150-user-9-PKQ1.181203.001-compiler06062011-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sm6150-user-9-PKQ1.181203.001-compiler06062011-release-keys",
+        "commit": "897717736f80f7d3b2c5e846d18b749dd9f5a257",
+        "committed_date": "2019-06-28T22:59:32.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T21:47:16.188Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd1832",
+        "project_id": 5041,
+        "project_path": "vivo/pd1832"
+      },
+      "revision": "897717736f80f7d3b2c5e846d18b749dd9f5a257",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd1832/-/tree/897717736f80f7d3b2c5e846d18b749dd9f5a257"
+    },
+    {
+      "item_id": "vivo/pd1832@sm6150-user-9-PKQ1.181203.001-compiler06062013-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sm6150-user-9-PKQ1.181203.001-compiler06062013-release-keys",
+        "commit": "ed5b61b8c96a6dea1aa8b3187b5c02bfbb776df8",
+        "committed_date": "2019-06-28T23:04:00.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T21:47:16.188Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd1832",
+        "project_id": 5041,
+        "project_path": "vivo/pd1832"
+      },
+      "revision": "ed5b61b8c96a6dea1aa8b3187b5c02bfbb776df8",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd1832/-/tree/ed5b61b8c96a6dea1aa8b3187b5c02bfbb776df8"
+    },
+    {
+      "item_id": "vivo/pd1836@sdm710-user-9-PKQ1.181030.001-compiler04110119-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm710-user-9-PKQ1.181030.001-compiler04110119-release-keys",
+        "commit": "9314d29defd787ae7ba04ca0a301d81ec5b9a914",
+        "committed_date": "2020-01-24T19:08:58.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T19:57:10.585Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd1836",
+        "project_id": 5019,
+        "project_path": "vivo/pd1836"
+      },
+      "revision": "9314d29defd787ae7ba04ca0a301d81ec5b9a914",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd1836/-/tree/9314d29defd787ae7ba04ca0a301d81ec5b9a914"
+    },
+    {
+      "item_id": "vivo/pd1901bf_ex@full_k62v1_64_bsp-user-9-PPR1.180610.011-compiler07162146-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k62v1_64_bsp-user-9-PPR1.180610.011-compiler07162146-release-keys",
+        "commit": "8b91240e178007a6940473a6b0bd66d7bc5cda45",
+        "committed_date": "2019-09-12T17:47:27.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T21:39:33.061Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd1901bf_ex",
+        "project_id": 5037,
+        "project_path": "vivo/pd1901bf_ex"
+      },
+      "revision": "8b91240e178007a6940473a6b0bd66d7bc5cda45",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd1901bf_ex/-/tree/8b91240e178007a6940473a6b0bd66d7bc5cda45"
+    },
+    {
+      "item_id": "vivo/pd1901df_ex@full_k65v1_64_bsp-user-9-PPR1.180610.011-compiler07162156-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k65v1_64_bsp-user-9-PPR1.180610.011-compiler07162156-release-keys",
+        "commit": "ae4f0ea0ad5499287d18967597a8ddaf409f9ef7",
+        "committed_date": "2019-09-12T18:26:50.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T19:30:51.841Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd1901df_ex",
+        "project_id": 5006,
+        "project_path": "vivo/pd1901df_ex"
+      },
+      "revision": "ae4f0ea0ad5499287d18967597a8ddaf409f9ef7",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd1901df_ex/-/tree/ae4f0ea0ad5499287d18967597a8ddaf409f9ef7"
+    },
+    {
+      "item_id": "vivo/pd1911@sdm710-user-9-PKQ1.181030.001-compiler07310224-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm710-user-9-PKQ1.181030.001-compiler07310224-release-keys",
+        "commit": "40bd5349a13ac0fde63f1490176ab204ad0d2ff8",
+        "committed_date": "2019-10-13T18:22:26.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T20:24:42.213Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd1911",
+        "project_id": 5028,
+        "project_path": "vivo/pd1911"
+      },
+      "revision": "40bd5349a13ac0fde63f1490176ab204ad0d2ff8",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd1911/-/tree/40bd5349a13ac0fde63f1490176ab204ad0d2ff8"
+    },
+    {
+      "item_id": "vivo/pd1911f_ex@sdm710-user-9-PKQ1.181030.001-compiler07260016-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm710-user-9-PKQ1.181030.001-compiler07260016-release-keys",
+        "commit": "fd8c43a93b6a38fbae5fe3c9f5d2c2542a1266da",
+        "committed_date": "2019-09-12T18:59:18.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T18:07:29.362Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd1911f_ex",
+        "project_id": 4978,
+        "project_path": "vivo/pd1911f_ex"
+      },
+      "revision": "fd8c43a93b6a38fbae5fe3c9f5d2c2542a1266da",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd1911f_ex/-/tree/fd8c43a93b6a38fbae5fe3c9f5d2c2542a1266da"
+    },
+    {
+      "item_id": "vivo/pd1916@msmnile-user-9-PKQ1.190714.001-compiler01041614-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msmnile-user-9-PKQ1.190714.001-compiler01041614-release-keys",
+        "commit": "76b4c027a27b2b8d72472276bd0f2f8597fdc513",
+        "committed_date": "2020-01-15T13:41:14.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-09T01:16:06.419Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd1916",
+        "project_id": 5062,
+        "project_path": "vivo/pd1916"
+      },
+      "revision": "76b4c027a27b2b8d72472276bd0f2f8597fdc513",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd1916/-/tree/76b4c027a27b2b8d72472276bd0f2f8597fdc513"
+    },
+    {
+      "item_id": "vivo/pd1916@msmnile-user-9-PKQ1.190714.001-compiler03101635-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msmnile-user-9-PKQ1.190714.001-compiler03101635-release-keys",
+        "commit": "a989a3178a66d7320cb4ca704d5abb6abd830caa",
+        "committed_date": "2020-04-01T03:09:01.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-09T01:16:06.419Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd1916",
+        "project_id": 5062,
+        "project_path": "vivo/pd1916"
+      },
+      "revision": "a989a3178a66d7320cb4ca704d5abb6abd830caa",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd1916/-/tree/a989a3178a66d7320cb4ca704d5abb6abd830caa"
+    },
+    {
+      "item_id": "vivo/pd1921@sdm710-user-9-PKQ1.181030.001-compiler07242058-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm710-user-9-PKQ1.181030.001-compiler07242058-release-keys",
+        "commit": "f667f06b0213775810dedbddbc8cf69a3143b06d",
+        "committed_date": "2019-09-16T17:59:55.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T19:23:03.127Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd1921",
+        "project_id": 5003,
+        "project_path": "vivo/pd1921"
+      },
+      "revision": "f667f06b0213775810dedbddbc8cf69a3143b06d",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd1921/-/tree/f667f06b0213775810dedbddbc8cf69a3143b06d"
+    },
+    {
+      "item_id": "vivo/pd1931f_ex@sm6150-user-9-PKQ1.190302.001-compiler07110110-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sm6150-user-9-PKQ1.190302.001-compiler07110110-release-keys",
+        "commit": "b5d89fce0f4b85615b0621f25b7d8d020e1191e9",
+        "committed_date": "2021-03-04T14:55:44.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-09T01:58:00.635Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd1931f_ex",
+        "project_id": 5076,
+        "project_path": "vivo/pd1931f_ex"
+      },
+      "revision": "b5d89fce0f4b85615b0621f25b7d8d020e1191e9",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd1931f_ex/-/tree/b5d89fce0f4b85615b0621f25b7d8d020e1191e9"
+    },
+    {
+      "item_id": "vivo/pd1932@sdm710-user-9-PKQ1.181030.001-compiler03042053-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm710-user-9-PKQ1.181030.001-compiler03042053-release-keys",
+        "commit": "9d86198ded870aaaf169e50abeade5c26945873f",
+        "committed_date": "2020-04-01T03:10:37.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2023-10-10T01:21:19.460Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd1932",
+        "project_id": 4520,
+        "project_path": "vivo/pd1932"
+      },
+      "revision": "9d86198ded870aaaf169e50abeade5c26945873f",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd1932/-/tree/9d86198ded870aaaf169e50abeade5c26945873f"
+    },
+    {
+      "item_id": "vivo/pd1938@full_erd9630-user-9-PPR1.180610.011-eng.compil.20200222.000205-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_erd9630-user-9-PPR1.180610.011-eng.compil.20200222.000205-release-keys",
+        "commit": "e1e891e0c46fb669440215a20f78c17060649d12",
+        "committed_date": "2020-04-01T03:38:51.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T18:23:52.560Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd1938",
+        "project_id": 4983,
+        "project_path": "vivo/pd1938"
+      },
+      "revision": "e1e891e0c46fb669440215a20f78c17060649d12",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd1938/-/tree/e1e891e0c46fb669440215a20f78c17060649d12"
+    },
+    {
+      "item_id": "vivo/pd1950@qssi-user-11-RP1A.200709.001-eng.compil.20200910.161013-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.200709.001-eng.compil.20200910.161013-release-keys",
+        "commit": "17e7a8c41577c5a08ff538549587d9269e938228",
+        "committed_date": "2020-09-23T09:18:15.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2023-10-10T00:59:06.839Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd1950",
+        "project_id": 4509,
+        "project_path": "vivo/pd1950"
+      },
+      "revision": "17e7a8c41577c5a08ff538549587d9269e938228",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd1950/-/tree/17e7a8c41577c5a08ff538549587d9269e938228"
+    },
+    {
+      "item_id": "vivo/pd1955@aosp_arm64-user-11-RP1A.200504.003-eng.hechen.20200612.144436-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_arm64-user-11-RP1A.200504.003-eng.hechen.20200612.144436-release-keys",
+        "commit": "db088c3e81a803894f077a42bf9f818b477b0af3",
+        "committed_date": "2020-06-12T17:18:35.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T18:25:42.114Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd1955",
+        "project_id": 4984,
+        "project_path": "vivo/pd1955"
+      },
+      "revision": "db088c3e81a803894f077a42bf9f818b477b0af3",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd1955/-/tree/db088c3e81a803894f077a42bf9f818b477b0af3"
+    },
+    {
+      "item_id": "vivo/pd2024@qssi-user-12-SP1A.210812.003-compiler12201136-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SP1A.210812.003-compiler12201136-release-keys",
+        "commit": "2b5bc2bb0db607f298ab464c5535626ee142f104",
+        "committed_date": "2023-07-31T19:46:35.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T21:01:48.703Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2024",
+        "project_id": 5031,
+        "project_path": "vivo/pd2024"
+      },
+      "revision": "2b5bc2bb0db607f298ab464c5535626ee142f104",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2024/-/tree/2b5bc2bb0db607f298ab464c5535626ee142f104"
+    },
+    {
+      "item_id": "vivo/pd2046@full_erd9815_r-user-11-RP1A.200720.012-eng.compil.20210112.184044-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_erd9815_r-user-11-RP1A.200720.012-eng.compil.20210112.184044-release-keys",
+        "commit": "2ee0cac7351e37ae65a63bcfdd91b5dde72a7f02",
+        "committed_date": "2021-03-04T15:46:53.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T18:55:23.600Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2046",
+        "project_id": 4996,
+        "project_path": "vivo/pd2046"
+      },
+      "revision": "2ee0cac7351e37ae65a63bcfdd91b5dde72a7f02",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2046/-/tree/2ee0cac7351e37ae65a63bcfdd91b5dde72a7f02"
+    },
+    {
+      "item_id": "vivo/pd2047@full_erd9815_r-user-11-RP1A.200720.012-eng.compil.20210112.184014-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_erd9815_r-user-11-RP1A.200720.012-eng.compil.20210112.184014-release-keys",
+        "commit": "b2d4cfc9949e9bd9d26fb993d97261e126b51d8d",
+        "committed_date": "2021-03-04T15:45:14.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T18:58:13.470Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2047",
+        "project_id": 4997,
+        "project_path": "vivo/pd2047"
+      },
+      "revision": "b2d4cfc9949e9bd9d26fb993d97261e126b51d8d",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2047/-/tree/b2d4cfc9949e9bd9d26fb993d97261e126b51d8d"
+    },
+    {
+      "item_id": "vivo/pd2047@full_erd9815_r-user-11-RP1A.200720.012-eng.compil.20210606.183017-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_erd9815_r-user-11-RP1A.200720.012-eng.compil.20210606.183017-release-keys",
+        "commit": "a2910f9f92f4d46e8e69bbc8121dc946c6746c5a",
+        "committed_date": "2021-10-15T05:30:18.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T18:58:13.470Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2047",
+        "project_id": 4997,
+        "project_path": "vivo/pd2047"
+      },
+      "revision": "a2910f9f92f4d46e8e69bbc8121dc946c6746c5a",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2047/-/tree/a2910f9f92f4d46e8e69bbc8121dc946c6746c5a"
+    },
+    {
+      "item_id": "vivo/pd2049@qssi-user-11-RP1A.200720.012-eng.compil.20210112.235253-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.200720.012-eng.compil.20210112.235253-release-keys",
+        "commit": "d2095c70f496d0ec7be76b360f550246547a6898",
+        "committed_date": "2021-03-04T15:44:19.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T19:45:44.629Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2049",
+        "project_id": 5014,
+        "project_path": "vivo/pd2049"
+      },
+      "revision": "d2095c70f496d0ec7be76b360f550246547a6898",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2049/-/tree/d2095c70f496d0ec7be76b360f550246547a6898"
+    },
+    {
+      "item_id": "vivo/pd2068@full_k6833v1_64-user-11-RP1A.200720.012-eng.compil.20211027.003829-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6833v1_64-user-11-RP1A.200720.012-eng.compil.20211027.003829-release-keys",
+        "commit": "afe126b91be8a51bda7a0a606a1d7d25da239a4b",
+        "committed_date": "2022-04-26T13:19:39.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-09T01:14:16.329Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2068",
+        "project_id": 5061,
+        "project_path": "vivo/pd2068"
+      },
+      "revision": "afe126b91be8a51bda7a0a606a1d7d25da239a4b",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2068/-/tree/afe126b91be8a51bda7a0a606a1d7d25da239a4b"
+    },
+    {
+      "item_id": "vivo/pd2073@qssi-user-11-RP1A.200720.012-eng.compil.20210611.213101-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.200720.012-eng.compil.20210611.213101-release-keys",
+        "commit": "feb869b3a3b2b15982ba3f2358f0596a34ddcb47",
+        "committed_date": "2021-10-15T06:15:39.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-01T14:03:58.500Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2073",
+        "project_id": 4562,
+        "project_path": "vivo/pd2073"
+      },
+      "revision": "feb869b3a3b2b15982ba3f2358f0596a34ddcb47",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2073/-/tree/feb869b3a3b2b15982ba3f2358f0596a34ddcb47"
+    },
+    {
+      "item_id": "vivo/pd2073@qssi-user-12-SP1A.210812.003-compiler12221037-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SP1A.210812.003-compiler12221037-release-keys",
+        "commit": "d058a02c322ae5f0b1aaf43884f37858740a793a",
+        "committed_date": "2023-10-26T15:20:10.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-07-01T14:03:58.500Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2073",
+        "project_id": 4562,
+        "project_path": "vivo/pd2073"
+      },
+      "revision": "d058a02c322ae5f0b1aaf43884f37858740a793a",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2073/-/tree/d058a02c322ae5f0b1aaf43884f37858740a793a"
+    },
+    {
+      "item_id": "vivo/pd2092@qssi-user-11-RP1A.200720.012-eng.compil.20211229.113229-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.200720.012-eng.compil.20211229.113229-release-keys",
+        "commit": "8981fc7fe51b02797cb2a4a8ac2432a97ade8427",
+        "committed_date": "2022-04-26T14:15:46.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T20:14:37.543Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2092",
+        "project_id": 5025,
+        "project_path": "vivo/pd2092"
+      },
+      "revision": "8981fc7fe51b02797cb2a4a8ac2432a97ade8427",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2092/-/tree/8981fc7fe51b02797cb2a4a8ac2432a97ade8427"
+    },
+    {
+      "item_id": "vivo/pd2102@full_k6833v1_64-user-11-RP1A.200720.012-eng.compil.20220303.210305-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6833v1_64-user-11-RP1A.200720.012-eng.compil.20220303.210305-release-keys",
+        "commit": "f6041c7c7c544f5c3082fcf9ac4e681995561245",
+        "committed_date": "2022-04-26T13:59:01.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T21:42:43.434Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2102",
+        "project_id": 5039,
+        "project_path": "vivo/pd2102"
+      },
+      "revision": "f6041c7c7c544f5c3082fcf9ac4e681995561245",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2102/-/tree/f6041c7c7c544f5c3082fcf9ac4e681995561245"
+    },
+    {
+      "item_id": "vivo/pd2106@qssi-user-11-RP1A.200720.012-eng.compil.20210530.001654-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.200720.012-eng.compil.20210530.001654-release-keys",
+        "commit": "a6ffb043673314a775a092c76bdb871c42b2d6ff",
+        "committed_date": "2021-10-15T04:54:05.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T21:49:37.560Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2106",
+        "project_id": 5042,
+        "project_path": "vivo/pd2106"
+      },
+      "revision": "a6ffb043673314a775a092c76bdb871c42b2d6ff",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2106/-/tree/a6ffb043673314a775a092c76bdb871c42b2d6ff"
+    },
+    {
+      "item_id": "vivo/pd2111@qssi-user-11-RP1A.200720.012-eng.compil.20210817.225555-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.200720.012-eng.compil.20210817.225555-release-keys",
+        "commit": "48c956049b32273cef518ef4adfc3224d8c75ffc",
+        "committed_date": "2021-10-15T04:35:43.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T23:41:13.837Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2111",
+        "project_id": 5047,
+        "project_path": "vivo/pd2111"
+      },
+      "revision": "48c956049b32273cef518ef4adfc3224d8c75ffc",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2111/-/tree/48c956049b32273cef518ef4adfc3224d8c75ffc"
+    },
+    {
+      "item_id": "vivo/pd2115@qssi-user-11-RP1A.200720.012-eng.compil.20211228.205618-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.200720.012-eng.compil.20211228.205618-release-keys",
+        "commit": "0151b4364b31602cd7c53005933ffb1259d7b9cb",
+        "committed_date": "2022-04-26T15:20:33.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-10-10T01:17:41.170Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2115",
+        "project_id": 4518,
+        "project_path": "vivo/pd2115"
+      },
+      "revision": "0151b4364b31602cd7c53005933ffb1259d7b9cb",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2115/-/tree/0151b4364b31602cd7c53005933ffb1259d7b9cb"
+    },
+    {
+      "item_id": "vivo/pd2118@qssi-user-11-RP1A.200720.012-eng.compil.20210913.220343-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.200720.012-eng.compil.20210913.220343-release-keys",
+        "commit": "9cca1fb3081eea6413063e5c9deffb8d81e55cf5",
+        "committed_date": "2021-10-15T05:52:52.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-09T01:48:51.673Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2118",
+        "project_id": 5073,
+        "project_path": "vivo/pd2118"
+      },
+      "revision": "9cca1fb3081eea6413063e5c9deffb8d81e55cf5",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2118/-/tree/9cca1fb3081eea6413063e5c9deffb8d81e55cf5"
+    },
+    {
+      "item_id": "vivo/pd2121@full_k6891v1_64-user-11-RP1A.200720.012-eng.compil.20210907.161057-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6891v1_64-user-11-RP1A.200720.012-eng.compil.20210907.161057-release-keys",
+        "commit": "27b134d1ff2819807cc3f4cbef1301da93e03130",
+        "committed_date": "2021-10-15T04:17:01.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-09T01:18:14.972Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2121",
+        "project_id": 5063,
+        "project_path": "vivo/pd2121"
+      },
+      "revision": "27b134d1ff2819807cc3f4cbef1301da93e03130",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2121/-/tree/27b134d1ff2819807cc3f4cbef1301da93e03130"
+    },
+    {
+      "item_id": "vivo/pd2123@full_k6877v1_64-user-11-RP1A.200720.012-eng.compil.20211116.181418-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6877v1_64-user-11-RP1A.200720.012-eng.compil.20211116.181418-release-keys",
+        "commit": "79d96f27181c195874ef07b1aba90afa79cd2d69",
+        "committed_date": "2022-04-26T14:50:57.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T17:57:33.798Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2123",
+        "project_id": 4525,
+        "project_path": "vivo/pd2123"
+      },
+      "revision": "79d96f27181c195874ef07b1aba90afa79cd2d69",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2123/-/tree/79d96f27181c195874ef07b1aba90afa79cd2d69"
+    },
+    {
+      "item_id": "vivo/pd2130@full_k6877v1_64-user-11-RP1A.200720.012-eng.compil.20220303.155215-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6877v1_64-user-11-RP1A.200720.012-eng.compil.20220303.155215-release-keys",
+        "commit": "2732393363822ccfdda5b1c7b39b753249d922f7",
+        "committed_date": "2022-04-26T15:42:30.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T23:37:43.758Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2130",
+        "project_id": 5045,
+        "project_path": "vivo/pd2130"
+      },
+      "revision": "2732393363822ccfdda5b1c7b39b753249d922f7",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2130/-/tree/2732393363822ccfdda5b1c7b39b753249d922f7"
+    },
+    {
+      "item_id": "vivo/pd2131@full_k6877v1_64-user-11-RP1A.200720.012-eng.compil.20211214.200146-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6877v1_64-user-11-RP1A.200720.012-eng.compil.20211214.200146-release-keys",
+        "commit": "b6c713300bab4357e110e39c574a539f6017f556",
+        "committed_date": "2022-04-26T14:31:30.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T20:12:02.525Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2131",
+        "project_id": 5024,
+        "project_path": "vivo/pd2131"
+      },
+      "revision": "b6c713300bab4357e110e39c574a539f6017f556",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2131/-/tree/b6c713300bab4357e110e39c574a539f6017f556"
+    },
+    {
+      "item_id": "vivo/pd2133@full_k6893v1_64-user-11-RP1A.200720.012-eng.compil.20211001.160817-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6893v1_64-user-11-RP1A.200720.012-eng.compil.20211001.160817-release-keys",
+        "commit": "c94c81845646746cf01a23ee9d51aafaba97ee66",
+        "committed_date": "2021-10-15T03:27:46.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T18:33:27.442Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2133",
+        "project_id": 4988,
+        "project_path": "vivo/pd2133"
+      },
+      "revision": "c94c81845646746cf01a23ee9d51aafaba97ee66",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2133/-/tree/c94c81845646746cf01a23ee9d51aafaba97ee66"
+    },
+    {
+      "item_id": "vivo/pd2134@full_erd9815_r-user-11-RP1A.200720.012-eng.compil.20220124.173707-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_erd9815_r-user-11-RP1A.200720.012-eng.compil.20220124.173707-release-keys",
+        "commit": "c36dc3651b7ba2e802384f523d54fb8c39206abd",
+        "committed_date": "2022-04-26T12:18:57.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T21:05:38.205Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2134",
+        "project_id": 5033,
+        "project_path": "vivo/pd2134"
+      },
+      "revision": "c36dc3651b7ba2e802384f523d54fb8c39206abd",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2134/-/tree/c36dc3651b7ba2e802384f523d54fb8c39206abd"
+    },
+    {
+      "item_id": "vivo/pd2140@full_k65v1_64_bsp-user-11-RP1A.200720.012-eng.compil.20220117.162103-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k65v1_64_bsp-user-11-RP1A.200720.012-eng.compil.20220117.162103-release-keys",
+        "commit": "3151ab22b8b8a53e5e0c8e2e4a5a11ead1574536",
+        "committed_date": "2022-04-26T08:42:46.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T18:26:57.716Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2140",
+        "project_id": 4985,
+        "project_path": "vivo/pd2140"
+      },
+      "revision": "3151ab22b8b8a53e5e0c8e2e4a5a11ead1574536",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2140/-/tree/3151ab22b8b8a53e5e0c8e2e4a5a11ead1574536"
+    },
+    {
+      "item_id": "vivo/pd2141@qssi-user-11-RP1A.200720.012-eng.compil.20210918.002605-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.200720.012-eng.compil.20210918.002605-release-keys",
+        "commit": "f51506c4ce9412c487ed9831b5d058a620db6b59",
+        "committed_date": "2021-10-15T03:54:48.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-01T13:51:12.166Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2141",
+        "project_id": 4724,
+        "project_path": "vivo/pd2141"
+      },
+      "revision": "f51506c4ce9412c487ed9831b5d058a620db6b59",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2141/-/tree/f51506c4ce9412c487ed9831b5d058a620db6b59"
+    },
+    {
+      "item_id": "vivo/pd2141@qssi-user-11-RP1A.200720.012-eng.compil.20211216.175857-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.200720.012-eng.compil.20211216.175857-release-keys",
+        "commit": "0fbdd7761d57fb7c386ad7a0b79314f389259e0f",
+        "committed_date": "2024-12-25T22:52:45.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-07-01T13:51:12.166Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2141",
+        "project_id": 4724,
+        "project_path": "vivo/pd2141"
+      },
+      "revision": "0fbdd7761d57fb7c386ad7a0b79314f389259e0f",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2141/-/tree/0fbdd7761d57fb7c386ad7a0b79314f389259e0f"
+    },
+    {
+      "item_id": "vivo/pd2141@qssi-user-13-TP1A.220624.014-eng.compil.20230523.114517-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220624.014-eng.compil.20230523.114517-release-keys",
+        "commit": "c7aaf908c7cddb32dfde5d2ad4097e6ebaf9ecef",
+        "committed_date": "2024-01-30T22:23:25.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-01T13:51:12.166Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2141",
+        "project_id": 4724,
+        "project_path": "vivo/pd2141"
+      },
+      "revision": "c7aaf908c7cddb32dfde5d2ad4097e6ebaf9ecef",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2141/-/tree/c7aaf908c7cddb32dfde5d2ad4097e6ebaf9ecef"
+    },
+    {
+      "item_id": "vivo/pd2145@qssi-user-11-RP1A.200720.012-eng.compil.20210914.003517-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.200720.012-eng.compil.20210914.003517-release-keys",
+        "commit": "9f7349d3c05efc59e010f4689b87730260e47378",
+        "committed_date": "2021-10-03T18:19:36.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-09T00:01:24.002Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2145",
+        "project_id": 5054,
+        "project_path": "vivo/pd2145"
+      },
+      "revision": "9f7349d3c05efc59e010f4689b87730260e47378",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2145/-/tree/9f7349d3c05efc59e010f4689b87730260e47378"
+    },
+    {
+      "item_id": "vivo/pd2145@qssi-user-11-RP1A.200720.012-eng.compil.20210929.082621-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.200720.012-eng.compil.20210929.082621-release-keys",
+        "commit": "1a6f6a184469f54d183889914a48d45de012bfe8",
+        "committed_date": "2021-10-15T03:03:00.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-09T00:01:24.002Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2145",
+        "project_id": 5054,
+        "project_path": "vivo/pd2145"
+      },
+      "revision": "1a6f6a184469f54d183889914a48d45de012bfe8",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2145/-/tree/1a6f6a184469f54d183889914a48d45de012bfe8"
+    },
+    {
+      "item_id": "vivo/pd2154@qssi-user-11-RP1A.200720.012-eng.compil.20220218.182859-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.200720.012-eng.compil.20220218.182859-release-keys",
+        "commit": "cd68f07803dfaaca43d6ff5757943b8bc0533fb2",
+        "committed_date": "2022-04-26T11:31:17.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T23:43:38.411Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2154",
+        "project_id": 5048,
+        "project_path": "vivo/pd2154"
+      },
+      "revision": "cd68f07803dfaaca43d6ff5757943b8bc0533fb2",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2154/-/tree/cd68f07803dfaaca43d6ff5757943b8bc0533fb2"
+    },
+    {
+      "item_id": "vivo/pd2156@full_k6833v1_64-user-11-RP1A.200720.012-eng.compil.20211224.165157-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6833v1_64-user-11-RP1A.200720.012-eng.compil.20211224.165157-release-keys",
+        "commit": "ea86ba99137f83d6e9546343bb0a4d4c640cf28c",
+        "committed_date": "2022-04-26T12:57:19.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-10-10T01:15:43.289Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2156",
+        "project_id": 4517,
+        "project_path": "vivo/pd2156"
+      },
+      "revision": "ea86ba99137f83d6e9546343bb0a4d4c640cf28c",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2156/-/tree/ea86ba99137f83d6e9546343bb0a4d4c640cf28c"
+    },
+    {
+      "item_id": "vivo/pd2158@qssi-user-11-RP1A.200720.012-eng.compil.20220118.233222-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.200720.012-eng.compil.20220118.233222-release-keys",
+        "commit": "92c3abebb48e9638b73822cb69ea30f63f6ce379",
+        "committed_date": "2022-04-26T11:10:04.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T19:39:23.223Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2158",
+        "project_id": 5011,
+        "project_path": "vivo/pd2158"
+      },
+      "revision": "92c3abebb48e9638b73822cb69ea30f63f6ce379",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2158/-/tree/92c3abebb48e9638b73822cb69ea30f63f6ce379"
+    },
+    {
+      "item_id": "vivo/pd2162@full_k6891v1_64-user-11-RP1A.200720.012-eng.compil.20220127.154703-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6891v1_64-user-11-RP1A.200720.012-eng.compil.20220127.154703-release-keys",
+        "commit": "408dd2a39957194e1fd46aa0e2c971a7fe461562",
+        "committed_date": "2022-04-26T09:27:34.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-09T01:42:40.653Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2162",
+        "project_id": 5071,
+        "project_path": "vivo/pd2162"
+      },
+      "revision": "408dd2a39957194e1fd46aa0e2c971a7fe461562",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2162/-/tree/408dd2a39957194e1fd46aa0e2c971a7fe461562"
+    },
+    {
+      "item_id": "vivo/pd2163@full_k6893v1_64-user-11-RP1A.200720.012-eng.compil.20211227.210915-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6893v1_64-user-11-RP1A.200720.012-eng.compil.20211227.210915-release-keys",
+        "commit": "04a66fe2f7bf488dc8c0342dfdc5dadc6af0c545",
+        "committed_date": "2022-04-26T10:49:48.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T18:10:12.145Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2163",
+        "project_id": 4979,
+        "project_path": "vivo/pd2163"
+      },
+      "revision": "04a66fe2f7bf488dc8c0342dfdc5dadc6af0c545",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2163/-/tree/04a66fe2f7bf488dc8c0342dfdc5dadc6af0c545"
+    },
+    {
+      "item_id": "vivo/pd2164@full_k6833v1_64-user-11-RP1A.200720.012-eng.compil.20220412.170515-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6833v1_64-user-11-RP1A.200720.012-eng.compil.20220412.170515-release-keys",
+        "commit": "cefc4e939625f4f85bccb9e2adf035234b8aaddf",
+        "committed_date": "2022-04-26T11:55:17.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-09T02:00:27.772Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2164",
+        "project_id": 5077,
+        "project_path": "vivo/pd2164"
+      },
+      "revision": "cefc4e939625f4f85bccb9e2adf035234b8aaddf",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2164/-/tree/cefc4e939625f4f85bccb9e2adf035234b8aaddf"
+    },
+    {
+      "item_id": "vivo/pd2165@qssi-user-12-SP1A.210812.003-compiler03091246-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SP1A.210812.003-compiler03091246-release-keys",
+        "commit": "bfa07d769a027172838bda5d290aed25d71654cd",
+        "committed_date": "2022-04-26T09:44:55.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T20:26:38.216Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2165",
+        "project_id": 5029,
+        "project_path": "vivo/pd2165"
+      },
+      "revision": "bfa07d769a027172838bda5d290aed25d71654cd",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2165/-/tree/bfa07d769a027172838bda5d290aed25d71654cd"
+    },
+    {
+      "item_id": "vivo/pd2166@full_k6833v1_64-user-12-SP1A.210812.003-compiler03102050-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6833v1_64-user-12-SP1A.210812.003-compiler03102050-release-keys",
+        "commit": "9b61bad8e83371fe891e090a0da41e0145ef9bfd",
+        "committed_date": "2022-04-26T09:06:26.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-09T01:28:39.088Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2166",
+        "project_id": 5066,
+        "project_path": "vivo/pd2166"
+      },
+      "revision": "9b61bad8e83371fe891e090a0da41e0145ef9bfd",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2166/-/tree/9b61bad8e83371fe891e090a0da41e0145ef9bfd"
+    },
+    {
+      "item_id": "vivo/pd2168@full_k71v1_64_bsp-user-11-RP1A.200720.012-eng.compil.20220126.210037-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k71v1_64_bsp-user-11-RP1A.200720.012-eng.compil.20220126.210037-release-keys",
+        "commit": "67276a93002946da8b19c28cb528da1f5e37f11e",
+        "committed_date": "2022-04-26T08:25:55.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T23:51:17.427Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2168",
+        "project_id": 5050,
+        "project_path": "vivo/pd2168"
+      },
+      "revision": "67276a93002946da8b19c28cb528da1f5e37f11e",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2168/-/tree/67276a93002946da8b19c28cb528da1f5e37f11e"
+    },
+    {
+      "item_id": "vivo/pd2170@qssi-user-12-SP1A.210812.003-compiler04150055-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SP1A.210812.003-compiler04150055-release-keys",
+        "commit": "8cba34033ed97952000519f2481166bd68b95120",
+        "committed_date": "2022-04-26T08:04:43.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-07-01T13:46:26.176Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2170",
+        "project_id": 4572,
+        "project_path": "vivo/pd2170"
+      },
+      "revision": "8cba34033ed97952000519f2481166bd68b95120",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2170/-/tree/8cba34033ed97952000519f2481166bd68b95120"
+    },
+    {
+      "item_id": "vivo/pd2170@qssi-user-13-TP1A.220624.014-eng.compil.20230921.203104-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220624.014-eng.compil.20230921.203104-release-keys",
+        "commit": "f919f56b8f5bbb5ee2182e5051ed20618f4a0ee8",
+        "committed_date": "2023-11-01T21:27:05.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-07-01T13:46:26.176Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2170",
+        "project_id": 4572,
+        "project_path": "vivo/pd2170"
+      },
+      "revision": "f919f56b8f5bbb5ee2182e5051ed20618f4a0ee8",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2170/-/tree/f919f56b8f5bbb5ee2182e5051ed20618f4a0ee8"
+    },
+    {
+      "item_id": "vivo/pd2185@qssi-user-12-SP1A.210812.003-compiler04170222-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SP1A.210812.003-compiler04170222-release-keys",
+        "commit": "e6f1c5dc47974a5781a97a00e9bbd32d7aa62006",
+        "committed_date": "2022-05-10T10:49:37.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T18:46:15.713Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2185",
+        "project_id": 4994,
+        "project_path": "vivo/pd2185"
+      },
+      "revision": "e6f1c5dc47974a5781a97a00e9bbd32d7aa62006",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2185/-/tree/e6f1c5dc47974a5781a97a00e9bbd32d7aa62006"
+    },
+    {
+      "item_id": "vivo/pd2185@qssi-user-12-SP1A.210812.003-compiler04271943-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SP1A.210812.003-compiler04271943-release-keys",
+        "commit": "b58bb7ebce9e2fd9022674e96c7270fe502e756b",
+        "committed_date": "2022-05-27T09:35:32.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T18:46:15.713Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2185",
+        "project_id": 4994,
+        "project_path": "vivo/pd2185"
+      },
+      "revision": "b58bb7ebce9e2fd9022674e96c7270fe502e756b",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2185/-/tree/b58bb7ebce9e2fd9022674e96c7270fe502e756b"
+    },
+    {
+      "item_id": "vivo/pd2186@sys_mssi_64_cn_armv82-user-12-SP1A.210812.003-compiler05070706-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-12-SP1A.210812.003-compiler05070706-release-keys",
+        "commit": "03f5914d334dad9f1c0f41b72910dea8ae41af97",
+        "committed_date": "2022-05-27T04:17:25.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-09T01:20:50.784Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2186",
+        "project_id": 5064,
+        "project_path": "vivo/pd2186"
+      },
+      "revision": "03f5914d334dad9f1c0f41b72910dea8ae41af97",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2186/-/tree/03f5914d334dad9f1c0f41b72910dea8ae41af97"
+    },
+    {
+      "item_id": "vivo/pd2186@sys_mssi_64_cn_armv82-user-12-SP1A.210812.003-compiler09162201-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-12-SP1A.210812.003-compiler09162201-release-keys",
+        "commit": "5fad8b33db702e825c835cec75dcf8af75b9df84",
+        "committed_date": "2022-11-24T02:53:33.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-09T01:20:50.784Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2186",
+        "project_id": 5064,
+        "project_path": "vivo/pd2186"
+      },
+      "revision": "5fad8b33db702e825c835cec75dcf8af75b9df84",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2186/-/tree/5fad8b33db702e825c835cec75dcf8af75b9df84"
+    },
+    {
+      "item_id": "vivo/pd2196@qssi-user-12-SP1A.210812.003-compiler04052335-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SP1A.210812.003-compiler04052335-release-keys",
+        "commit": "73e4fba5b9105fcd7b811392b831e5c6308fc5e2",
+        "committed_date": "2022-04-26T07:05:40.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-10-10T01:10:19.947Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2196",
+        "project_id": 4515,
+        "project_path": "vivo/pd2196"
+      },
+      "revision": "73e4fba5b9105fcd7b811392b831e5c6308fc5e2",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2196/-/tree/73e4fba5b9105fcd7b811392b831e5c6308fc5e2"
+    },
+    {
+      "item_id": "vivo/pd2217@qssi-user-12-SP2A.220305.013-compiler09211652-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SP2A.220305.013-compiler09211652-release-keys",
+        "commit": "e18246d51203197ca23080d547a01874dc48ad9b",
+        "committed_date": "2022-11-24T04:58:37.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-09T01:45:09.613Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2217",
+        "project_id": 5072,
+        "project_path": "vivo/pd2217"
+      },
+      "revision": "e18246d51203197ca23080d547a01874dc48ad9b",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2217/-/tree/e18246d51203197ca23080d547a01874dc48ad9b"
+    },
+    {
+      "item_id": "vivo/pd2217@qssi-user-12-SP2A.220305.013-compiler10282250-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SP2A.220305.013-compiler10282250-release-keys",
+        "commit": "a4d289023cd2e01bae394ac372be407b2cda0f87",
+        "committed_date": "2022-11-24T04:36:53.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-09T01:45:09.613Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2217",
+        "project_id": 5072,
+        "project_path": "vivo/pd2217"
+      },
+      "revision": "a4d289023cd2e01bae394ac372be407b2cda0f87",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2217/-/tree/a4d289023cd2e01bae394ac372be407b2cda0f87"
+    },
+    {
+      "item_id": "vivo/pd2227@qssi-user-13-TP1A.220624.014-eng.compil.20221122.015427-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220624.014-eng.compil.20221122.015427-release-keys",
+        "commit": "19adf08208046026473f6295739e1819b59a3096",
+        "committed_date": "2022-12-02T22:26:01.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-11-02T16:55:32.814Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2227",
+        "project_id": 4514,
+        "project_path": "vivo/pd2227"
+      },
+      "revision": "19adf08208046026473f6295739e1819b59a3096",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2227/-/tree/19adf08208046026473f6295739e1819b59a3096"
+    },
+    {
+      "item_id": "vivo/pd2227@qssi-user-13-TP1A.220624.014-eng.compil.20230731.182932-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220624.014-eng.compil.20230731.182932-release-keys",
+        "commit": "3b37132e6ede0eecf9f987f8b1651865c928323a",
+        "committed_date": "2023-11-02T19:41:58.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-11-02T16:55:32.814Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2227",
+        "project_id": 4514,
+        "project_path": "vivo/pd2227"
+      },
+      "revision": "3b37132e6ede0eecf9f987f8b1651865c928323a",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2227/-/tree/3b37132e6ede0eecf9f987f8b1651865c928323a"
+    },
+    {
+      "item_id": "vivo/pd2229@qssi-user-12-SP2A.220305.013-compiler10182148-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SP2A.220305.013-compiler10182148-release-keys",
+        "commit": "a1c558288cce5a74836a2524c4a65527fc72ea23",
+        "committed_date": "2022-11-24T05:28:19.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T19:53:48.374Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2229",
+        "project_id": 5018,
+        "project_path": "vivo/pd2229"
+      },
+      "revision": "a1c558288cce5a74836a2524c4a65527fc72ea23",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2229/-/tree/a1c558288cce5a74836a2524c4a65527fc72ea23"
+    },
+    {
+      "item_id": "vivo/pd2230@sys_mssi_64_cn_armv82-user-13-TP1A.220624.014-eng.compil.20230110.185814-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220624.014-eng.compil.20230110.185814-release-keys",
+        "commit": "35bbcb5c3cd0197be77b020778db2d8119872a2e",
+        "committed_date": "2024-07-17T17:04:03.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-07-17T13:59:59.609Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2230",
+        "project_id": 5339,
+        "project_path": "vivo/pd2230"
+      },
+      "revision": "35bbcb5c3cd0197be77b020778db2d8119872a2e",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2230/-/tree/35bbcb5c3cd0197be77b020778db2d8119872a2e"
+    },
+    {
+      "item_id": "vivo/pd2231@sys_mssi_64_cn_armv82-user-13-TP1A.220624.014-eng.compil.20221019.025117-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220624.014-eng.compil.20221019.025117-release-keys",
+        "commit": "02e75d9751822402f90e5666bef9d8d5f448ff10",
+        "committed_date": "2022-11-24T05:52:22.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-09T01:37:11.886Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2231",
+        "project_id": 5069,
+        "project_path": "vivo/pd2231"
+      },
+      "revision": "02e75d9751822402f90e5666bef9d8d5f448ff10",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2231/-/tree/02e75d9751822402f90e5666bef9d8d5f448ff10"
+    },
+    {
+      "item_id": "vivo/pd2243@qssi-user-13-TP1A.220624.014-eng.compil.20221206.090713-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220624.014-eng.compil.20221206.090713-release-keys",
+        "commit": "fae283708af4a63ecbd6421501938a75b5d2943b",
+        "committed_date": "2023-01-04T15:53:50.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-04-02T15:46:15.693Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2243",
+        "project_id": 4523,
+        "project_path": "vivo/pd2243"
+      },
+      "revision": "fae283708af4a63ecbd6421501938a75b5d2943b",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2243/-/tree/fae283708af4a63ecbd6421501938a75b5d2943b"
+    },
+    {
+      "item_id": "vivo/pd2243@qssi-user-13-TP1A.220624.014-eng.compil.20230621.175215-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220624.014-eng.compil.20230621.175215-release-keys",
+        "commit": "9ca01ce3ad53073e36f69911b59b56c9da98bda9",
+        "committed_date": "2023-07-25T06:24:52.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-04-02T15:46:15.693Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2243",
+        "project_id": 4523,
+        "project_path": "vivo/pd2243"
+      },
+      "revision": "9ca01ce3ad53073e36f69911b59b56c9da98bda9",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2243/-/tree/9ca01ce3ad53073e36f69911b59b56c9da98bda9"
+    },
+    {
+      "item_id": "vivo/pd2243@qssi-user-14-UP1A.231005.007-eng.compil.20231229.194251-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UP1A.231005.007-eng.compil.20231229.194251-release-keys",
+        "commit": "1d5e35968b4687549c842e3292998dfd3928b831",
+        "committed_date": "2024-04-02T18:30:18.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-04-02T15:46:15.693Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2243",
+        "project_id": 4523,
+        "project_path": "vivo/pd2243"
+      },
+      "revision": "1d5e35968b4687549c842e3292998dfd3928b831",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2243/-/tree/1d5e35968b4687549c842e3292998dfd3928b831"
+    },
+    {
+      "item_id": "vivo/pd2244@qssi-user-13-TP1A.220624.014-eng.compil.20230104.233131-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220624.014-eng.compil.20230104.233131-release-keys",
+        "commit": "737cebbf7a16088f832a2d5480d41ff91990dbb9",
+        "committed_date": "2023-04-24T11:08:10.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-10-10T01:13:00.549Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2244",
+        "project_id": 4516,
+        "project_path": "vivo/pd2244"
+      },
+      "revision": "737cebbf7a16088f832a2d5480d41ff91990dbb9",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2244/-/tree/737cebbf7a16088f832a2d5480d41ff91990dbb9"
+    },
+    {
+      "item_id": "vivo/pd2254@qssi-user-13-TP1A.220624.014-eng.compil.20230113.205528-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220624.014-eng.compil.20230113.205528-release-keys",
+        "commit": "1026ba800e267fd05dfea5ac62be553fa06b7240",
+        "committed_date": "2023-07-06T12:48:47.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-09T01:33:53.518Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2254",
+        "project_id": 5068,
+        "project_path": "vivo/pd2254"
+      },
+      "revision": "1026ba800e267fd05dfea5ac62be553fa06b7240",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2254/-/tree/1026ba800e267fd05dfea5ac62be553fa06b7240"
+    },
+    {
+      "item_id": "vivo/pd2307@qssi-user-14-UP1A.231005.007-eng.compil.20241010.001153-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-14-UP1A.231005.007-eng.compil.20241010.001153-release-keys",
+        "commit": "11774993cc1e78c4bd35593682e3277442a52575",
+        "committed_date": "2025-03-09T20:41:23.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-03-09T17:34:05.520Z",
+        "namespace_hint": "vivo",
+        "project_hint": "pd2307",
+        "project_id": 5599,
+        "project_path": "vivo/pd2307"
+      },
+      "revision": "11774993cc1e78c4bd35593682e3277442a52575",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/pd2307/-/tree/11774993cc1e78c4bd35593682e3277442a52575"
+    },
+    {
+      "item_id": "vivo/sdm845@sdm845-user-10-QKQ1.190406.002-eng.compil.20190621.200238-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm845-user-10-QKQ1.190406.002-eng.compil.20190621.200238-release-keys",
+        "commit": "fde5b8d7c912f340db9d2281c837e9f5450afebb",
+        "committed_date": "2019-07-08T20:30:16.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-09T00:13:46.896Z",
+        "namespace_hint": "vivo",
+        "project_hint": "sdm845",
+        "project_id": 5059,
+        "project_path": "vivo/sdm845"
+      },
+      "revision": "fde5b8d7c912f340db9d2281c837e9f5450afebb",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/sdm845/-/tree/fde5b8d7c912f340db9d2281c837e9f5450afebb"
+    },
+    {
+      "item_id": "vivo/sdm845@sdm845-user-10-QP1A.190711.020-compiler03152143-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm845-user-10-QP1A.190711.020-compiler03152143-release-keys",
+        "commit": "f7f1944c9e3817614c93704b6d2f95d934f5074b",
+        "committed_date": "2022-03-16T06:40:05.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-09T00:13:46.896Z",
+        "namespace_hint": "vivo",
+        "project_hint": "sdm845",
+        "project_id": 5059,
+        "project_path": "vivo/sdm845"
+      },
+      "revision": "f7f1944c9e3817614c93704b6d2f95d934f5074b",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/sdm845/-/tree/f7f1944c9e3817614c93704b6d2f95d934f5074b"
+    },
+    {
+      "item_id": "vivo/trinket@trinket-user-10-QP1A.190711.020-compiler05051144-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "trinket-user-10-QP1A.190711.020-compiler05051144-release-keys",
+        "commit": "c59c8afac63fd3f74862445c3e75839d0f1d1ec4",
+        "committed_date": "2023-12-07T19:10:52.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-12-07T16:07:46.062Z",
+        "namespace_hint": "vivo",
+        "project_hint": "trinket",
+        "project_id": 4646,
+        "project_path": "vivo/trinket"
+      },
+      "revision": "c59c8afac63fd3f74862445c3e75839d0f1d1ec4",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/trinket/-/tree/c59c8afac63fd3f74862445c3e75839d0f1d1ec4"
+    },
+    {
+      "item_id": "vivo/v2145@qssi-user-12-SP1A.210812.003-compiler04281256-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SP1A.210812.003-compiler04281256-release-keys",
+        "commit": "4559c1e50bfe06376909d435c2cf6efd8324d31b",
+        "committed_date": "2022-07-23T16:33:42.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-08T20:01:16.190Z",
+        "namespace_hint": "vivo",
+        "project_hint": "v2145",
+        "project_id": 5021,
+        "project_path": "vivo/v2145"
+      },
+      "revision": "4559c1e50bfe06376909d435c2cf6efd8324d31b",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/v2145/-/tree/4559c1e50bfe06376909d435c2cf6efd8324d31b"
+    },
+    {
+      "item_id": "vivo/v2145@qssi-user-12-SP1A.210812.003-compiler10180059-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SP1A.210812.003-compiler10180059-release-keys",
+        "commit": "edb707c89e7e42edf4b6575321d29f8f65a1e4e3",
+        "committed_date": "2022-11-24T02:31:42.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T20:01:16.190Z",
+        "namespace_hint": "vivo",
+        "project_hint": "v2145",
+        "project_id": 5021,
+        "project_path": "vivo/v2145"
+      },
+      "revision": "edb707c89e7e42edf4b6575321d29f8f65a1e4e3",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/v2145/-/tree/edb707c89e7e42edf4b6575321d29f8f65a1e4e3"
+    },
+    {
+      "item_id": "vivo/v2145@qssi-user-13-TP1A.220513.002-eng.compil.20220630.132228-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220513.002-eng.compil.20220630.132228-release-keys",
+        "commit": "683aef55b634722cc220158ca770e389afdf9cf5",
+        "committed_date": "2022-07-23T16:11:29.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T20:01:16.190Z",
+        "namespace_hint": "vivo",
+        "project_hint": "v2145",
+        "project_id": 5021,
+        "project_path": "vivo/v2145"
+      },
+      "revision": "683aef55b634722cc220158ca770e389afdf9cf5",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/v2145/-/tree/683aef55b634722cc220158ca770e389afdf9cf5"
+    },
+    {
+      "item_id": "vivo/v2145@qssi-user-13-TP1A.220624.003-eng.compil.20220809.182432-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220624.003-eng.compil.20220809.182432-release-keys",
+        "commit": "48615e9bab9817848cac2dd5cbd2625121681559",
+        "committed_date": "2022-11-24T04:11:45.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T20:01:16.190Z",
+        "namespace_hint": "vivo",
+        "project_hint": "v2145",
+        "project_id": 5021,
+        "project_path": "vivo/v2145"
+      },
+      "revision": "48615e9bab9817848cac2dd5cbd2625121681559",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/v2145/-/tree/48615e9bab9817848cac2dd5cbd2625121681559"
+    },
+    {
+      "item_id": "vivo/v2145@qssi-user-13-TP1A.220624.014-eng.compil.20221214.193747-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220624.014-eng.compil.20221214.193747-release-keys",
+        "commit": "f847544bf97765a9ba84d136276c387724cf2f6e",
+        "committed_date": "2023-05-09T16:30:45.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-03-08T20:01:16.190Z",
+        "namespace_hint": "vivo",
+        "project_hint": "v2145",
+        "project_id": 5021,
+        "project_path": "vivo/v2145"
+      },
+      "revision": "f847544bf97765a9ba84d136276c387724cf2f6e",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/v2145/-/tree/f847544bf97765a9ba84d136276c387724cf2f6e"
+    },
+    {
+      "item_id": "vivo/v2158@full_k6893v1_64_k419-user-12-SP1A.210812.003-compiler11141847-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k6893v1_64_k419-user-12-SP1A.210812.003-compiler11141847-release-keys",
+        "commit": "1d42ed4f6ec6d6f818a22fc3396e0da3bcc5bfdf",
+        "committed_date": "2024-07-17T17:58:05.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-07-17T14:54:23.895Z",
+        "namespace_hint": "vivo",
+        "project_hint": "v2158",
+        "project_id": 5341,
+        "project_path": "vivo/v2158"
+      },
+      "revision": "1d42ed4f6ec6d6f818a22fc3396e0da3bcc5bfdf",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/v2158/-/tree/1d42ed4f6ec6d6f818a22fc3396e0da3bcc5bfdf"
+    },
+    {
+      "item_id": "vivo/v2204@full_k65v1_64_bsp-user-12-SP1A.210812.003-compiler02171720-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k65v1_64_bsp-user-12-SP1A.210812.003-compiler02171720-release-keys",
+        "commit": "f52e7efb38ae4380b74fd7229922849fcd76c904",
+        "committed_date": "2024-07-17T17:23:05.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-07-17T14:19:02.324Z",
+        "namespace_hint": "vivo",
+        "project_hint": "v2204",
+        "project_id": 5340,
+        "project_path": "vivo/v2204"
+      },
+      "revision": "f52e7efb38ae4380b74fd7229922849fcd76c904",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/v2204/-/tree/f52e7efb38ae4380b74fd7229922849fcd76c904"
+    },
+    {
+      "item_id": "vivo/v2218@sys_mssi_64_cn_armv82-user-13-TP1A.220624.014-eng.compil.20221221.210046-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220624.014-eng.compil.20221221.210046-release-keys",
+        "commit": "07ff7f77df04f0f4ddae9b2184fd86ddf8b899ad",
+        "committed_date": "2023-05-09T16:08:07.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-09T01:54:30.220Z",
+        "namespace_hint": "vivo",
+        "project_hint": "v2218",
+        "project_id": 5075,
+        "project_path": "vivo/v2218"
+      },
+      "revision": "07ff7f77df04f0f4ddae9b2184fd86ddf8b899ad",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/v2218/-/tree/07ff7f77df04f0f4ddae9b2184fd86ddf8b899ad"
+    },
+    {
+      "item_id": "vivo/v2219@sys_mssi_64_cn_armv82-user-13-TP1A.220624.014-eng.compil.20221228.015547-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220624.014-eng.compil.20221228.015547-release-keys",
+        "commit": "943953bf6a60c3b74c89c4f135e6e25366351816",
+        "committed_date": "2024-02-05T00:42:53.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-02-04T21:54:22.289Z",
+        "namespace_hint": "vivo",
+        "project_hint": "v2219",
+        "project_id": 4715,
+        "project_path": "vivo/v2219"
+      },
+      "revision": "943953bf6a60c3b74c89c4f135e6e25366351816",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/v2219/-/tree/943953bf6a60c3b74c89c4f135e6e25366351816"
+    },
+    {
+      "item_id": "vivo/v2219@sys_mssi_64_cn_armv82-user-14-UP1A.230905.011-eng.compil.20230921.001443-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-14-UP1A.230905.011-eng.compil.20230921.001443-release-keys",
+        "commit": "88f791b7be9c892b9c465ba4733cc13871e086c2",
+        "committed_date": "2024-01-22T19:52:52.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-02-04T21:54:22.289Z",
+        "namespace_hint": "vivo",
+        "project_hint": "v2219",
+        "project_id": 4715,
+        "project_path": "vivo/v2219"
+      },
+      "revision": "88f791b7be9c892b9c465ba4733cc13871e086c2",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/v2219/-/tree/88f791b7be9c892b9c465ba4733cc13871e086c2"
+    },
+    {
+      "item_id": "vivo/v2230@sys_mssi_64_cn_nonab_armv82-user-14-UP1A.231005.007-eng.compil.20240507.115627-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_nonab_armv82-user-14-UP1A.231005.007-eng.compil.20240507.115627-release-keys",
+        "commit": "dadd4890f4491b6eb48361c172d879be8ebe026c",
+        "committed_date": "2024-06-01T08:51:41.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-06-01T05:51:44.766Z",
+        "namespace_hint": "vivo",
+        "project_hint": "v2230",
+        "project_id": 5293,
+        "project_path": "vivo/v2230"
+      },
+      "revision": "dadd4890f4491b6eb48361c172d879be8ebe026c",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/v2230/-/tree/dadd4890f4491b6eb48361c172d879be8ebe026c"
+    },
+    {
+      "item_id": "vivo/v2250@qssi-user-13-TP1A.220624.014-eng.compil.20231214.171221-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220624.014-eng.compil.20231214.171221-release-keys",
+        "commit": "7f2c5590483cf8176cbd1635b4a3fce5f12aee3f",
+        "committed_date": "2024-04-04T19:33:23.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-04-04T16:29:12.898Z",
+        "namespace_hint": "vivo",
+        "project_hint": "v2250",
+        "project_id": 5221,
+        "project_path": "vivo/v2250"
+      },
+      "revision": "7f2c5590483cf8176cbd1635b4a3fce5f12aee3f",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/v2250/-/tree/7f2c5590483cf8176cbd1635b4a3fce5f12aee3f"
+    },
+    {
+      "item_id": "vivo/v2254@sys_mssi_64_cn-user-13-TP1A.220624.014-eng.compil.20231106.170216-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn-user-13-TP1A.220624.014-eng.compil.20231106.170216-release-keys",
+        "commit": "06f831aeb5ec6bc2be33d90503590630f6d674bc",
+        "committed_date": "2024-08-09T11:35:01.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-08-09T08:29:37.639Z",
+        "namespace_hint": "vivo",
+        "project_hint": "v2254",
+        "project_id": 5374,
+        "project_path": "vivo/v2254"
+      },
+      "revision": "06f831aeb5ec6bc2be33d90503590630f6d674bc",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/v2254/-/tree/06f831aeb5ec6bc2be33d90503590630f6d674bc"
+    },
+    {
+      "item_id": "vivo/v2308@sys_mssi_64_cn_armv82-user-14-UP1A.231005.007-eng.compil.20240123.213647-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-14-UP1A.231005.007-eng.compil.20240123.213647-release-keys",
+        "commit": "2b5ce468ab10afdc9d9fc495de1c000673fd2aca",
+        "committed_date": "2024-04-04T17:54:19.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-04-04T14:46:33.919Z",
+        "namespace_hint": "vivo",
+        "project_hint": "v2308",
+        "project_id": 5219,
+        "project_path": "vivo/v2308"
+      },
+      "revision": "2b5ce468ab10afdc9d9fc495de1c000673fd2aca",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/v2308/-/tree/2b5ce468ab10afdc9d9fc495de1c000673fd2aca"
+    },
+    {
+      "item_id": "vivo/v2309@sys_mssi_64_cn_armv82-user-14-UP1A.231005.007-eng.compil.20240123.200822-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-14-UP1A.231005.007-eng.compil.20240123.200822-release-keys",
+        "commit": "1a45746487c6e0c884d2b132cb8b25c1c8d13f6a",
+        "committed_date": "2024-04-04T17:12:53.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-23T11:43:38.996Z",
+        "namespace_hint": "vivo",
+        "project_hint": "v2309",
+        "project_id": 5218,
+        "project_path": "vivo/v2309"
+      },
+      "revision": "1a45746487c6e0c884d2b132cb8b25c1c8d13f6a",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/v2309/-/tree/1a45746487c6e0c884d2b132cb8b25c1c8d13f6a"
+    },
+    {
+      "item_id": "vivo/v2309@sys_mssi_64_cn_armv82-user-14-UP1A.231005.007-eng.compil.20240410.221153-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-14-UP1A.231005.007-eng.compil.20240410.221153-release-keys",
+        "commit": "cf5a5795e7cf05485f6e76e54aecf8e9ed918c1e",
+        "committed_date": "2024-11-23T14:30:37.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-11-23T11:43:38.996Z",
+        "namespace_hint": "vivo",
+        "project_hint": "v2309",
+        "project_id": 5218,
+        "project_path": "vivo/v2309"
+      },
+      "revision": "cf5a5795e7cf05485f6e76e54aecf8e9ed918c1e",
+      "url": "https://dumps.tadiphone.dev/dumps/vivo/v2309/-/tree/cf5a5795e7cf05485f6e76e54aecf8e9ed918c1e"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

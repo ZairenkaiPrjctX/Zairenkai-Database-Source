@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "gigi/gigi_u1@full_t961be_v1_aw_nde_m5001c_gms-user-7.0-NRD90M-1535561303-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_t961be_v1_aw_nde_m5001c_gms-user-7.0-NRD90M-1535561303-release-keys",
+        "commit": "8f7d4761f7501a8a1941b2b9db17e947e2679ad2",
+        "committed_date": "2020-03-16T09:10:02.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T21:04:42.687Z",
+        "namespace_hint": "gigi",
+        "project_hint": "gigi_u1",
+        "project_id": 1302,
+        "project_path": "gigi/gigi_u1"
+      },
+      "revision": "8f7d4761f7501a8a1941b2b9db17e947e2679ad2",
+      "url": "https://dumps.tadiphone.dev/dumps/gigi/gigi_u1/-/tree/8f7d4761f7501a8a1941b2b9db17e947e2679ad2"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

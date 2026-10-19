@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "winmax/tiger_x10@full_joyasz6737m_35_n-user-7.0-NRD90M-1521016774-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_joyasz6737m_35_n-user-7.0-NRD90M-1521016774-release-keys",
+        "commit": "e6b78440da2b33efb3d87d345cc45deff10f9631",
+        "committed_date": "2019-10-29T10:08:17.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T16:51:08.415Z",
+        "namespace_hint": "winmax",
+        "project_hint": "tiger_x10",
+        "project_id": 1203,
+        "project_path": "winmax/tiger_x10"
+      },
+      "revision": "e6b78440da2b33efb3d87d345cc45deff10f9631",
+      "url": "https://dumps.tadiphone.dev/dumps/winmax/tiger_x10/-/tree/e6b78440da2b33efb3d87d345cc45deff10f9631"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

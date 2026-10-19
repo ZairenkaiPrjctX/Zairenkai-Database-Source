@@ -1,0 +1,77 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "playstation/bengal_515@qssi-user-13-1.00.01-20230816.r1-rel-root.20230816.165249-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-1.00.01-20230816.r1-rel-root.20230816.165249-release-keys",
+        "commit": "432eb51d8fc89c848ed8edaad480b64a1cc82b5f",
+        "committed_date": "2025-04-12T03:52:26.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-04-12T00:48:15.813Z",
+        "namespace_hint": "playstation",
+        "project_hint": "bengal_515",
+        "project_id": 5620,
+        "project_path": "playstation/bengal_515"
+      },
+      "revision": "432eb51d8fc89c848ed8edaad480b64a1cc82b5f",
+      "url": "https://dumps.tadiphone.dev/dumps/playstation/bengal_515/-/tree/432eb51d8fc89c848ed8edaad480b64a1cc82b5f"
+    },
+    {
+      "item_id": "playstation/bengal_515@qssi-user-13-2.0.6-20240326.r1-rel-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-2.0.6-20240326.r1-rel-0-release-keys",
+        "commit": "f84d521307dd76594e0493b5d94e61b674b12818",
+        "committed_date": "2025-04-12T04:05:03.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-04-12T00:48:15.813Z",
+        "namespace_hint": "playstation",
+        "project_hint": "bengal_515",
+        "project_id": 5620,
+        "project_path": "playstation/bengal_515"
+      },
+      "revision": "f84d521307dd76594e0493b5d94e61b674b12818",
+      "url": "https://dumps.tadiphone.dev/dumps/playstation/bengal_515/-/tree/f84d521307dd76594e0493b5d94e61b674b12818"
+    },
+    {
+      "item_id": "playstation/bengal_515@qssi-user-13-4.0.1-20241205.r1-rel-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-4.0.1-20241205.r1-rel-0-release-keys",
+        "commit": "1f62c9f3106af4b73590f5fe07a1dbb4d196c535",
+        "committed_date": "2025-04-12T04:18:26.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-04-12T00:48:15.813Z",
+        "namespace_hint": "playstation",
+        "project_hint": "bengal_515",
+        "project_id": 5620,
+        "project_path": "playstation/bengal_515"
+      },
+      "revision": "1f62c9f3106af4b73590f5fe07a1dbb4d196c535",
+      "url": "https://dumps.tadiphone.dev/dumps/playstation/bengal_515/-/tree/1f62c9f3106af4b73590f5fe07a1dbb4d196c535"
+    },
+    {
+      "item_id": "playstation/bengal_515@qssi-user-13-5.0.0-20250324.r1-rel-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-5.0.0-20250324.r1-rel-0-release-keys",
+        "commit": "6d6d51507444e6436e78d29a9931d260680599af",
+        "committed_date": "2025-04-12T04:34:15.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-04-12T00:48:15.813Z",
+        "namespace_hint": "playstation",
+        "project_hint": "bengal_515",
+        "project_id": 5620,
+        "project_path": "playstation/bengal_515"
+      },
+      "revision": "6d6d51507444e6436e78d29a9931d260680599af",
+      "url": "https://dumps.tadiphone.dev/dumps/playstation/bengal_515/-/tree/6d6d51507444e6436e78d29a9931d260680599af"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

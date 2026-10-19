@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "aidata/adt1061@ums512_1h10_Natv-user-10-QP1A.190711.020-2216-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ums512_1h10_Natv-user-10-QP1A.190711.020-2216-release-keys",
+        "commit": "2d3abb3910edcb0284de7b31885003871d411091",
+        "committed_date": "2023-11-27T04:06:12.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-11-27T01:04:10.588Z",
+        "namespace_hint": "aidata",
+        "project_hint": "adt1061",
+        "project_id": 4608,
+        "project_path": "aidata/adt1061"
+      },
+      "revision": "2d3abb3910edcb0284de7b31885003871d411091",
+      "url": "https://dumps.tadiphone.dev/dumps/aidata/adt1061/-/tree/2d3abb3910edcb0284de7b31885003871d411091"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

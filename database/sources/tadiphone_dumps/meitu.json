@@ -1,0 +1,128 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "meitu/vela@vela-user-10-QKQ1.190828.002-9.12.5-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "vela-user-10-QKQ1.190828.002-9.12.5-release-keys",
+        "commit": "a88fae5347c343064227143d1550287c9da5f79c",
+        "committed_date": "2019-12-07T11:26:50.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T00:28:30.152Z",
+        "namespace_hint": "meitu",
+        "project_hint": "vela",
+        "project_id": 1429,
+        "project_path": "meitu/vela"
+      },
+      "revision": "a88fae5347c343064227143d1550287c9da5f79c",
+      "url": "https://dumps.tadiphone.dev/dumps/meitu/vela/-/tree/a88fae5347c343064227143d1550287c9da5f79c"
+    },
+    {
+      "item_id": "meitu/vela@vela-user-10-QKQ1.190828.002-V11.0.1.0.QFECNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "vela-user-10-QKQ1.190828.002-V11.0.1.0.QFECNXM-release-keys",
+        "commit": "e0ede3d28318e0ab3074ed53d50273f5e42898d4",
+        "committed_date": "2020-02-28T06:15:55.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T00:28:30.152Z",
+        "namespace_hint": "meitu",
+        "project_hint": "vela",
+        "project_id": 1429,
+        "project_path": "meitu/vela"
+      },
+      "revision": "e0ede3d28318e0ab3074ed53d50273f5e42898d4",
+      "url": "https://dumps.tadiphone.dev/dumps/meitu/vela/-/tree/e0ede3d28318e0ab3074ed53d50273f5e42898d4"
+    },
+    {
+      "item_id": "meitu/vela@vela-user-9-PKQ1.181121.001-9.7.25-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "vela-user-9-PKQ1.181121.001-9.7.25-release-keys",
+        "commit": "d75ec9a7c87ed5a13a8959d83402a5bc51bfb6de",
+        "committed_date": "2019-07-26T18:03:55.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T00:28:30.152Z",
+        "namespace_hint": "meitu",
+        "project_hint": "vela",
+        "project_id": 1429,
+        "project_path": "meitu/vela"
+      },
+      "revision": "d75ec9a7c87ed5a13a8959d83402a5bc51bfb6de",
+      "url": "https://dumps.tadiphone.dev/dumps/meitu/vela/-/tree/d75ec9a7c87ed5a13a8959d83402a5bc51bfb6de"
+    },
+    {
+      "item_id": "meitu/vela@vela-user-9-PKQ1.181121.001-V10.3.1.0.PFECNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "vela-user-9-PKQ1.181121.001-V10.3.1.0.PFECNXM-release-keys",
+        "commit": "2aa7fe8d02f233b25cba8234290fc70418853981",
+        "committed_date": "2019-07-03T11:12:07.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T00:28:30.152Z",
+        "namespace_hint": "meitu",
+        "project_hint": "vela",
+        "project_id": 1429,
+        "project_path": "meitu/vela"
+      },
+      "revision": "2aa7fe8d02f233b25cba8234290fc70418853981",
+      "url": "https://dumps.tadiphone.dev/dumps/meitu/vela/-/tree/2aa7fe8d02f233b25cba8234290fc70418853981"
+    },
+    {
+      "item_id": "meitu/vela@vela-user-9-PKQ1.181121.001-V10.3.2.0.PFECNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "vela-user-9-PKQ1.181121.001-V10.3.2.0.PFECNXM-release-keys",
+        "commit": "96786ded145875269a48f26291d2ef6c963f745d",
+        "committed_date": "2019-07-06T11:49:15.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T00:28:30.152Z",
+        "namespace_hint": "meitu",
+        "project_hint": "vela",
+        "project_id": 1429,
+        "project_path": "meitu/vela"
+      },
+      "revision": "96786ded145875269a48f26291d2ef6c963f745d",
+      "url": "https://dumps.tadiphone.dev/dumps/meitu/vela/-/tree/96786ded145875269a48f26291d2ef6c963f745d"
+    },
+    {
+      "item_id": "meitu/vela@vela-user-9-PKQ1.181121.001-V10.3.8.0.PFECNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "vela-user-9-PKQ1.181121.001-V10.3.8.0.PFECNXM-release-keys",
+        "commit": "f7439d789473d98838290867ec9cef2272f2cf65",
+        "committed_date": "2019-09-19T05:42:52.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T00:28:30.152Z",
+        "namespace_hint": "meitu",
+        "project_hint": "vela",
+        "project_id": 1429,
+        "project_path": "meitu/vela"
+      },
+      "revision": "f7439d789473d98838290867ec9cef2272f2cf65",
+      "url": "https://dumps.tadiphone.dev/dumps/meitu/vela/-/tree/f7439d789473d98838290867ec9cef2272f2cf65"
+    },
+    {
+      "item_id": "meitu/vela@vela-user-9-PKQ1.181121.001-V11.3.1.0.PFECNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "vela-user-9-PKQ1.181121.001-V11.3.1.0.PFECNXM-release-keys",
+        "commit": "c158b14527175b838e6d3da4ad18f4047431ca01",
+        "committed_date": "2019-10-28T10:21:00.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T00:28:30.152Z",
+        "namespace_hint": "meitu",
+        "project_hint": "vela",
+        "project_id": 1429,
+        "project_path": "meitu/vela"
+      },
+      "revision": "c158b14527175b838e6d3da4ad18f4047431ca01",
+      "url": "https://dumps.tadiphone.dev/dumps/meitu/vela/-/tree/c158b14527175b838e6d3da4ad18f4047431ca01"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

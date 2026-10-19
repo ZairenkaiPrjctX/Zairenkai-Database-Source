@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "dragon_touch/k10@full_tb8163p3_64_bsp-user-8.1.0-O11019-1585131878-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_tb8163p3_64_bsp-user-8.1.0-O11019-1585131878-release-keys",
+        "commit": "e9435735bda21b2e2d99d231bbc8d38dba09e922",
+        "committed_date": "2021-02-12T23:44:39.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T21:26:43.712Z",
+        "namespace_hint": "dragon_touch",
+        "project_hint": "k10",
+        "project_id": 1325,
+        "project_path": "dragon_touch/k10"
+      },
+      "revision": "e9435735bda21b2e2d99d231bbc8d38dba09e922",
+      "url": "https://dumps.tadiphone.dev/dumps/dragon_touch/k10/-/tree/e9435735bda21b2e2d99d231bbc8d38dba09e922"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

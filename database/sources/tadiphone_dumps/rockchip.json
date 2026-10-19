@@ -1,0 +1,191 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "_project/4669",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": null,
+        "project_id": 4669,
+        "project_path": "rockchip/px30_evb",
+        "reason": "repository_not_readable"
+      },
+      "revision": null,
+      "url": "https://dumps.tadiphone.dev/dumps/rockchip/px30_evb"
+    },
+    {
+      "item_id": "rockchip/rk312x@rk312x-user-6.0.1-MXC89K-user.zfc.20221115.153823-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "rk312x-user-6.0.1-MXC89K-user.zfc.20221115.153823-release-keys",
+        "commit": "0764fd59fa89d6673d824706fa9e8655c1d1eadf",
+        "committed_date": "2023-01-17T18:12:55.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-01-17T15:12:32.786Z",
+        "namespace_hint": "rockchip",
+        "project_hint": "rk312x",
+        "project_id": 4032,
+        "project_path": "rockchip/rk312x"
+      },
+      "revision": "0764fd59fa89d6673d824706fa9e8655c1d1eadf",
+      "url": "https://dumps.tadiphone.dev/dumps/rockchip/rk312x/-/tree/0764fd59fa89d6673d824706fa9e8655c1d1eadf"
+    },
+    {
+      "item_id": "rockchip/rk3368@rk3368-user-9-PI-000304-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "rk3368-user-9-PI-000304-release-keys",
+        "commit": "e70c43069c6861502c2cc1586bcdfe1c655f6179",
+        "committed_date": "2021-02-07T05:53:23.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T01:32:11.674Z",
+        "namespace_hint": "rockchip",
+        "project_hint": "rk3368",
+        "project_id": 1488,
+        "project_path": "rockchip/rk3368"
+      },
+      "revision": "e70c43069c6861502c2cc1586bcdfe1c655f6179",
+      "url": "https://dumps.tadiphone.dev/dumps/rockchip/rk3368/-/tree/e70c43069c6861502c2cc1586bcdfe1c655f6179"
+    },
+    {
+      "item_id": "rockchip/rk3399_android10@rk3399_Android10-userdebug-10-QQ2A.200305.004.A1-eng.ww.20210727.124424-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "rk3399_Android10-userdebug-10-QQ2A.200305.004.A1-eng.ww.20210727.124424-test-keys",
+        "commit": "b50562bca7575f14116c7bc4ed7c108df3a56271",
+        "committed_date": "2022-04-14T16:51:55.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-12-31T12:32:36.171Z",
+        "namespace_hint": "rockchip",
+        "project_hint": "rk3399_android10",
+        "project_id": 766,
+        "project_path": "rockchip/rk3399_android10"
+      },
+      "revision": "b50562bca7575f14116c7bc4ed7c108df3a56271",
+      "url": "https://dumps.tadiphone.dev/dumps/rockchip/rk3399_android10/-/tree/b50562bca7575f14116c7bc4ed7c108df3a56271"
+    },
+    {
+      "item_id": "rockchip/rk3399_android10@rk3399_Android10-userdebug-10-QQ2A.200305.004.A1-eng.ww.20220825.175428-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "rk3399_Android10-userdebug-10-QQ2A.200305.004.A1-eng.ww.20220825.175428-test-keys",
+        "commit": "431a3c5c24f46b33d9f7196b684ea9f37d374e0b",
+        "committed_date": "2022-12-31T15:29:39.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-12-31T12:32:36.171Z",
+        "namespace_hint": "rockchip",
+        "project_hint": "rk3399_android10",
+        "project_id": 766,
+        "project_path": "rockchip/rk3399_android10"
+      },
+      "revision": "431a3c5c24f46b33d9f7196b684ea9f37d374e0b",
+      "url": "https://dumps.tadiphone.dev/dumps/rockchip/rk3399_android10/-/tree/431a3c5c24f46b33d9f7196b684ea9f37d374e0b"
+    },
+    {
+      "item_id": "rockchip/rk3399_mid@rk3399_mid-userdebug-8.1.0-OPM8.181005.003-100047-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "rk3399_mid-userdebug-8.1.0-OPM8.181005.003-100047-test-keys",
+        "commit": "193b35ea0667d180d1419930072bb3369df3f4d2",
+        "committed_date": "2021-07-01T01:36:26.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-06-29T22:56:04.295Z",
+        "namespace_hint": "rockchip",
+        "project_hint": "rk3399_mid",
+        "project_id": 1015,
+        "project_path": "rockchip/rk3399_mid"
+      },
+      "revision": "193b35ea0667d180d1419930072bb3369df3f4d2",
+      "url": "https://dumps.tadiphone.dev/dumps/rockchip/rk3399_mid/-/tree/193b35ea0667d180d1419930072bb3369df3f4d2"
+    },
+    {
+      "item_id": "rockchip/rk3399_mid@rk3399_mid-userdebug-9-PI-152814-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "rk3399_mid-userdebug-9-PI-152814-test-keys",
+        "commit": "cf946c4fcf498d71876c47edde8023d3bd90a155",
+        "committed_date": "2023-06-30T01:54:17.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-06-29T22:56:04.295Z",
+        "namespace_hint": "rockchip",
+        "project_hint": "rk3399_mid",
+        "project_id": 1015,
+        "project_path": "rockchip/rk3399_mid"
+      },
+      "revision": "cf946c4fcf498d71876c47edde8023d3bd90a155",
+      "url": "https://dumps.tadiphone.dev/dumps/rockchip/rk3399_mid/-/tree/cf946c4fcf498d71876c47edde8023d3bd90a155"
+    },
+    {
+      "item_id": "rockchip/rk3399_mid@rk3399_mid-userdebug-9-PI-170802-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "rk3399_mid-userdebug-9-PI-170802-test-keys",
+        "commit": "1be0205d3ee6b55223ec5f4946b3d04608c653c9",
+        "committed_date": "2021-12-08T14:53:16.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-06-29T22:56:04.295Z",
+        "namespace_hint": "rockchip",
+        "project_hint": "rk3399_mid",
+        "project_id": 1015,
+        "project_path": "rockchip/rk3399_mid"
+      },
+      "revision": "1be0205d3ee6b55223ec5f4946b3d04608c653c9",
+      "url": "https://dumps.tadiphone.dev/dumps/rockchip/rk3399_mid/-/tree/1be0205d3ee6b55223ec5f4946b3d04608c653c9"
+    },
+    {
+      "item_id": "rockchip/rk3566_r@rk3566_r-userdebug.1.3.0.8.release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "rk3566_r-userdebug.1.3.0.8.release-keys",
+        "commit": "c22e7ed3d64c92f10c49ba0210918d62be3a38ab",
+        "committed_date": "2025-03-30T13:06:07.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-03-30T10:05:02.095Z",
+        "namespace_hint": "rockchip",
+        "project_hint": "rk3566_r",
+        "project_id": 5613,
+        "project_path": "rockchip/rk3566_r"
+      },
+      "revision": "c22e7ed3d64c92f10c49ba0210918d62be3a38ab",
+      "url": "https://dumps.tadiphone.dev/dumps/rockchip/rk3566_r/-/tree/c22e7ed3d64c92f10c49ba0210918d62be3a38ab"
+    },
+    {
+      "item_id": "rockchip/rk3568_firefly_aioj@rk3568_firefly_aioj-userdebug-11-RQ1D.210105.003-eng.luwy.20210430.120333-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "rk3568_firefly_aioj-userdebug-11-RQ1D.210105.003-eng.luwy.20210430.120333-release-keys",
+        "commit": "0d93848a8b1c86fce663bd2c1e0a3aa51d6233e0",
+        "committed_date": "2021-06-21T09:28:27.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T22:16:05.937Z",
+        "namespace_hint": "rockchip",
+        "project_hint": "rk3568_firefly_aioj",
+        "project_id": 2152,
+        "project_path": "rockchip/rk3568_firefly_aioj"
+      },
+      "revision": "0d93848a8b1c86fce663bd2c1e0a3aa51d6233e0",
+      "url": "https://dumps.tadiphone.dev/dumps/rockchip/rk3568_firefly_aioj/-/tree/0d93848a8b1c86fce663bd2c1e0a3aa51d6233e0"
+    },
+    {
+      "item_id": "rockchip/youngfeel@rk3399_mid-userdebug-11-RD2A.211001.002-eng.liu.20221125.141429-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "rk3399_mid-userdebug-11-RD2A.211001.002-eng.liu.20221125.141429-release-keys",
+        "commit": "f88a5c3d247ddd5f79b1a4a417a090368d827d06",
+        "committed_date": "2023-10-16T23:43:17.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-10-16T20:42:13.910Z",
+        "namespace_hint": "rockchip",
+        "project_hint": "youngfeel",
+        "project_id": 4537,
+        "project_path": "rockchip/youngfeel"
+      },
+      "revision": "f88a5c3d247ddd5f79b1a4a417a090368d827d06",
+      "url": "https://dumps.tadiphone.dev/dumps/rockchip/youngfeel/-/tree/f88a5c3d247ddd5f79b1a4a417a090368d827d06"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

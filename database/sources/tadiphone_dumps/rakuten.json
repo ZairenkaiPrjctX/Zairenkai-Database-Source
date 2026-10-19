@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "rakuten/c330@c330ae-user-9-PKQ1.190616.001-460-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "c330ae-user-9-PKQ1.190616.001-460-release-keys",
+        "commit": "b0aa4084cfb38fb5df853f94319f7f8e80d70d6f",
+        "committed_date": "2021-04-22T03:32:20.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T23:27:19.038Z",
+        "namespace_hint": "rakuten",
+        "project_hint": "c330",
+        "project_id": 2207,
+        "project_path": "rakuten/c330"
+      },
+      "revision": "b0aa4084cfb38fb5df853f94319f7f8e80d70d6f",
+      "url": "https://dumps.tadiphone.dev/dumps/rakuten/c330/-/tree/b0aa4084cfb38fb5df853f94319f7f8e80d70d6f"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

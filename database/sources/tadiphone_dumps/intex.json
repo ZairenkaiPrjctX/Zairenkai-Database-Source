@@ -1,0 +1,111 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "intex/aqua_freedom@Aqua_Freedom-user-5.1-LMY47I-1453219789-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Aqua_Freedom-user-5.1-LMY47I-1453219789-release-keys",
+        "commit": "9311ec7642ef24a9633eced489ea98f2fc695da8",
+        "committed_date": "2020-01-05T15:15:57.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T08:21:06.144Z",
+        "namespace_hint": "intex",
+        "project_hint": "aqua_freedom",
+        "project_id": 1601,
+        "project_path": "intex/aqua_freedom"
+      },
+      "revision": "9311ec7642ef24a9633eced489ea98f2fc695da8",
+      "url": "https://dumps.tadiphone.dev/dumps/intex/aqua_freedom/-/tree/9311ec7642ef24a9633eced489ea98f2fc695da8"
+    },
+    {
+      "item_id": "intex/cloud_4g_star@full_Z110_INT_K11-user-5.0-LRX21M-1439288600-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_Z110_INT_K11-user-5.0-LRX21M-1439288600-test-keys",
+        "commit": "856257cb4d788b99eeaeb56d21a30903f69f4592",
+        "committed_date": "2020-01-05T15:12:13.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T18:41:41.894Z",
+        "namespace_hint": "intex",
+        "project_hint": "cloud_4g_star",
+        "project_id": 2045,
+        "project_path": "intex/cloud_4g_star"
+      },
+      "revision": "856257cb4d788b99eeaeb56d21a30903f69f4592",
+      "url": "https://dumps.tadiphone.dev/dumps/intex/cloud_4g_star/-/tree/856257cb4d788b99eeaeb56d21a30903f69f4592"
+    },
+    {
+      "item_id": "intex/cloud_4g_star@full_Z110_INT_K11-user-5.0-LRX21M-1447949059-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_Z110_INT_K11-user-5.0-LRX21M-1447949059-test-keys",
+        "commit": "5bd10e50b68d9e3fde8d7979f9f726abf13bc095",
+        "committed_date": "2020-01-05T15:12:46.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T18:41:41.894Z",
+        "namespace_hint": "intex",
+        "project_hint": "cloud_4g_star",
+        "project_id": 2045,
+        "project_path": "intex/cloud_4g_star"
+      },
+      "revision": "5bd10e50b68d9e3fde8d7979f9f726abf13bc095",
+      "url": "https://dumps.tadiphone.dev/dumps/intex/cloud_4g_star/-/tree/5bd10e50b68d9e3fde8d7979f9f726abf13bc095"
+    },
+    {
+      "item_id": "intex/cloud_q11@full_vsun6580_we_m-user-6.0-MRA58K-1470300415-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_vsun6580_we_m-user-6.0-MRA58K-1470300415-test-keys",
+        "commit": "c7da1def34cb042634f0a922c6c7513b8ac4ef05",
+        "committed_date": "2021-04-30T20:27:29.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T06:28:34.655Z",
+        "namespace_hint": "intex",
+        "project_hint": "cloud_q11",
+        "project_id": 1513,
+        "project_path": "intex/cloud_q11"
+      },
+      "revision": "c7da1def34cb042634f0a922c6c7513b8ac4ef05",
+      "url": "https://dumps.tadiphone.dev/dumps/intex/cloud_q11/-/tree/c7da1def34cb042634f0a922c6c7513b8ac4ef05"
+    },
+    {
+      "item_id": "intex/device@sp7731gea_hdrplus_dt-user-5.1-LMY47D-free-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sp7731gea_hdrplus_dt-user-5.1-LMY47D-free-release-keys",
+        "commit": "9b60c3731216e53ec0567a80f5c782a0a9f9ded2",
+        "committed_date": "2020-01-05T15:16:13.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T01:03:30.759Z",
+        "namespace_hint": "intex",
+        "project_hint": "device",
+        "project_id": 2270,
+        "project_path": "intex/device"
+      },
+      "revision": "9b60c3731216e53ec0567a80f5c782a0a9f9ded2",
+      "url": "https://dumps.tadiphone.dev/dumps/intex/device/-/tree/9b60c3731216e53ec0567a80f5c782a0a9f9ded2"
+    },
+    {
+      "item_id": "intex/intex_aqua_selfie@release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "release-keys",
+        "commit": "859a81f9c611c844da9da039e5c250db07cc9248",
+        "committed_date": "2019-11-11T00:13:22.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T01:40:31.002Z",
+        "namespace_hint": "intex",
+        "project_hint": "intex_aqua_selfie",
+        "project_id": 2302,
+        "project_path": "intex/intex_aqua_selfie"
+      },
+      "revision": "859a81f9c611c844da9da039e5c250db07cc9248",
+      "url": "https://dumps.tadiphone.dev/dumps/intex/intex_aqua_selfie/-/tree/859a81f9c611c844da9da039e5c250db07cc9248"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

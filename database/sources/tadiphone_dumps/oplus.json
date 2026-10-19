@@ -1,0 +1,332 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "oplus/op516e@qssi-user-12-SKQ1.211019.001-1644490478087-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211019.001-1644490478087-release-keys",
+        "commit": "0191c063e83c95c5471102fb1540a4b337ce07f3",
+        "committed_date": "2022-02-15T16:27:38.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T14:32:58.793Z",
+        "namespace_hint": "oplus",
+        "project_hint": "op516e",
+        "project_id": 164,
+        "project_path": "oplus/op516e"
+      },
+      "revision": "0191c063e83c95c5471102fb1540a4b337ce07f3",
+      "url": "https://dumps.tadiphone.dev/dumps/oplus/op516e/-/tree/0191c063e83c95c5471102fb1540a4b337ce07f3"
+    },
+    {
+      "item_id": "oplus/op516e@qssi-user-12-SKQ1.211019.001-1646580650864-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211019.001-1646580650864-release-keys",
+        "commit": "392bc1f0b65829f70a27d1fb2ddddef590368c23",
+        "committed_date": "2022-03-09T11:26:53.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-14T14:32:58.793Z",
+        "namespace_hint": "oplus",
+        "project_hint": "op516e",
+        "project_id": 164,
+        "project_path": "oplus/op516e"
+      },
+      "revision": "392bc1f0b65829f70a27d1fb2ddddef590368c23",
+      "url": "https://dumps.tadiphone.dev/dumps/oplus/op516e/-/tree/392bc1f0b65829f70a27d1fb2ddddef590368c23"
+    },
+    {
+      "item_id": "oplus/op516e@qssi-user-12-SKQ1.211019.001-1647365115418-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211019.001-1647365115418-release-keys",
+        "commit": "477a0dcf451b8472a1af77693103fad8edf4df75",
+        "committed_date": "2022-03-19T20:11:29.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-14T14:32:58.793Z",
+        "namespace_hint": "oplus",
+        "project_hint": "op516e",
+        "project_id": 164,
+        "project_path": "oplus/op516e"
+      },
+      "revision": "477a0dcf451b8472a1af77693103fad8edf4df75",
+      "url": "https://dumps.tadiphone.dev/dumps/oplus/op516e/-/tree/477a0dcf451b8472a1af77693103fad8edf4df75"
+    },
+    {
+      "item_id": "oplus/op52d5@qssi-user-12-SKQ1.211019.001-1644511364411-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211019.001-1644511364411-release-keys",
+        "commit": "c1af647b016a78eabe46520763291d53b7180746",
+        "committed_date": "2022-05-14T20:01:00.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T00:28:47.004Z",
+        "namespace_hint": "oplus",
+        "project_hint": "op52d5",
+        "project_id": 32,
+        "project_path": "oplus/op52d5"
+      },
+      "revision": "c1af647b016a78eabe46520763291d53b7180746",
+      "url": "https://dumps.tadiphone.dev/dumps/oplus/op52d5/-/tree/c1af647b016a78eabe46520763291d53b7180746"
+    },
+    {
+      "item_id": "oplus/op595b@sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1656997560422-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1656997560422-release-keys",
+        "commit": "7d5d8fb88f46dae04aadd5e5a4ae315956dc60ec",
+        "committed_date": "2022-08-21T18:49:57.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-08-21T15:46:56.037Z",
+        "namespace_hint": "oplus",
+        "project_hint": "op595b",
+        "project_id": 2405,
+        "project_path": "oplus/op595b"
+      },
+      "revision": "7d5d8fb88f46dae04aadd5e5a4ae315956dc60ec",
+      "url": "https://dumps.tadiphone.dev/dumps/oplus/op595b/-/tree/7d5d8fb88f46dae04aadd5e5a4ae315956dc60ec"
+    },
+    {
+      "item_id": "oplus/ossi@qssi-user-13-TP1A.220624.014-1664291122169-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220624.014-1664291122169-release-keys",
+        "commit": "5e73a7e96febf7f2adba6fa46e6669591856e317",
+        "committed_date": "2022-10-22T11:05:14.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-06-29T19:58:47.288Z",
+        "namespace_hint": "oplus",
+        "project_hint": "ossi",
+        "project_id": 2483,
+        "project_path": "oplus/ossi"
+      },
+      "revision": "5e73a7e96febf7f2adba6fa46e6669591856e317",
+      "url": "https://dumps.tadiphone.dev/dumps/oplus/ossi/-/tree/5e73a7e96febf7f2adba6fa46e6669591856e317"
+    },
+    {
+      "item_id": "oplus/ossi@qssi-user-13-TP1A.220905.001-1677687796472-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1677687796472-release-keys",
+        "commit": "5f6233b8ebd99eaddf8e353c419df6906b3371ce",
+        "committed_date": "2023-10-20T14:45:54.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-06-29T19:58:47.288Z",
+        "namespace_hint": "oplus",
+        "project_hint": "ossi",
+        "project_id": 2483,
+        "project_path": "oplus/ossi"
+      },
+      "revision": "5f6233b8ebd99eaddf8e353c419df6906b3371ce",
+      "url": "https://dumps.tadiphone.dev/dumps/oplus/ossi/-/tree/5f6233b8ebd99eaddf8e353c419df6906b3371ce"
+    },
+    {
+      "item_id": "oplus/ossi@qssi-user-13-TP1A.220905.001-1680345760604-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1680345760604-release-keys",
+        "commit": "3f4482eb2e6b7d81f9d053af853700a4f54c7703",
+        "committed_date": "2023-05-18T04:29:34.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-06-29T19:58:47.288Z",
+        "namespace_hint": "oplus",
+        "project_hint": "ossi",
+        "project_id": 2483,
+        "project_path": "oplus/ossi"
+      },
+      "revision": "3f4482eb2e6b7d81f9d053af853700a4f54c7703",
+      "url": "https://dumps.tadiphone.dev/dumps/oplus/ossi/-/tree/3f4482eb2e6b7d81f9d053af853700a4f54c7703"
+    },
+    {
+      "item_id": "oplus/ossi@qssi-user-15-AP3A.240617.008-1742312816557-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-15-AP3A.240617.008-1742312816557-release-keys",
+        "commit": "438e31ca80c4dbddb0179071a8bec04908c16218",
+        "committed_date": "2025-04-19T11:48:15.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-06-29T19:58:47.288Z",
+        "namespace_hint": "oplus",
+        "project_hint": "ossi",
+        "project_id": 2483,
+        "project_path": "oplus/ossi"
+      },
+      "revision": "438e31ca80c4dbddb0179071a8bec04908c16218",
+      "url": "https://dumps.tadiphone.dev/dumps/oplus/ossi/-/tree/438e31ca80c4dbddb0179071a8bec04908c16218"
+    },
+    {
+      "item_id": "oplus/ossi@qssi_64-user-16-BP2A.250605.015-1775060160149-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-16-BP2A.250605.015-1775060160149-release-keys",
+        "commit": "81015dc1e0187951524ad18ddbb185ac320075c5",
+        "committed_date": "2026-06-29T22:43:21.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-06-29T19:58:47.288Z",
+        "namespace_hint": "oplus",
+        "project_hint": "ossi",
+        "project_id": 2483,
+        "project_path": "oplus/ossi"
+      },
+      "revision": "81015dc1e0187951524ad18ddbb185ac320075c5",
+      "url": "https://dumps.tadiphone.dev/dumps/oplus/ossi/-/tree/81015dc1e0187951524ad18ddbb185ac320075c5"
+    },
+    {
+      "item_id": "oplus/ossi@sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1655993816535-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1655993816535-release-keys",
+        "commit": "de0ae7fa4b2b0295b750d0ef0e4a184bc4aad176",
+        "committed_date": "2024-03-31T14:33:02.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-06-29T19:58:47.288Z",
+        "namespace_hint": "oplus",
+        "project_hint": "ossi",
+        "project_id": 2483,
+        "project_path": "oplus/ossi"
+      },
+      "revision": "de0ae7fa4b2b0295b750d0ef0e4a184bc4aad176",
+      "url": "https://dumps.tadiphone.dev/dumps/oplus/ossi/-/tree/de0ae7fa4b2b0295b750d0ef0e4a184bc4aad176"
+    },
+    {
+      "item_id": "oplus/ossi@sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1664139380259-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1664139380259-release-keys",
+        "commit": "99ae3120284fc983d621f4f9ffde0555fef75062",
+        "committed_date": "2022-10-22T13:50:31.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-06-29T19:58:47.288Z",
+        "namespace_hint": "oplus",
+        "project_hint": "ossi",
+        "project_id": 2483,
+        "project_path": "oplus/ossi"
+      },
+      "revision": "99ae3120284fc983d621f4f9ffde0555fef75062",
+      "url": "https://dumps.tadiphone.dev/dumps/oplus/ossi/-/tree/99ae3120284fc983d621f4f9ffde0555fef75062"
+    },
+    {
+      "item_id": "oplus/ossi@sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1670208027854-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1670208027854-release-keys",
+        "commit": "410b6ab9a01545c24851124c0379724e2a0115a3",
+        "committed_date": "2023-04-21T14:07:53.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-06-29T19:58:47.288Z",
+        "namespace_hint": "oplus",
+        "project_hint": "ossi",
+        "project_id": 2483,
+        "project_path": "oplus/ossi"
+      },
+      "revision": "410b6ab9a01545c24851124c0379724e2a0115a3",
+      "url": "https://dumps.tadiphone.dev/dumps/oplus/ossi/-/tree/410b6ab9a01545c24851124c0379724e2a0115a3"
+    },
+    {
+      "item_id": "oplus/ossi@sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1670465633148-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1670465633148-release-keys",
+        "commit": "084f26e4b17827d2c3bd3117d38ce4e429c64622",
+        "committed_date": "2023-01-07T01:01:17.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-06-29T19:58:47.288Z",
+        "namespace_hint": "oplus",
+        "project_hint": "ossi",
+        "project_id": 2483,
+        "project_path": "oplus/ossi"
+      },
+      "revision": "084f26e4b17827d2c3bd3117d38ce4e429c64622",
+      "url": "https://dumps.tadiphone.dev/dumps/oplus/ossi/-/tree/084f26e4b17827d2c3bd3117d38ce4e429c64622"
+    },
+    {
+      "item_id": "oplus/ossi@sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1680488352033-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1680488352033-release-keys",
+        "commit": "64a5d2f7c91ec9bc14666fcc3a1594f187b87f42",
+        "committed_date": "2023-07-04T13:31:45.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-06-29T19:58:47.288Z",
+        "namespace_hint": "oplus",
+        "project_hint": "ossi",
+        "project_id": 2483,
+        "project_path": "oplus/ossi"
+      },
+      "revision": "64a5d2f7c91ec9bc14666fcc3a1594f187b87f42",
+      "url": "https://dumps.tadiphone.dev/dumps/oplus/ossi/-/tree/64a5d2f7c91ec9bc14666fcc3a1594f187b87f42"
+    },
+    {
+      "item_id": "oplus/ossi@sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1695644063928-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1695644063928-release-keys",
+        "commit": "75f8565bcd4c722b5207f497718f59e6d9e9dde3",
+        "committed_date": "2023-11-01T16:23:17.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-06-29T19:58:47.288Z",
+        "namespace_hint": "oplus",
+        "project_hint": "ossi",
+        "project_id": 2483,
+        "project_path": "oplus/ossi"
+      },
+      "revision": "75f8565bcd4c722b5207f497718f59e6d9e9dde3",
+      "url": "https://dumps.tadiphone.dev/dumps/oplus/ossi/-/tree/75f8565bcd4c722b5207f497718f59e6d9e9dde3"
+    },
+    {
+      "item_id": "oplus/ossi@sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1703747349163-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1703747349163-release-keys",
+        "commit": "f62181cf3cc3ff7a9c296149ba85bec3c2a0c077",
+        "committed_date": "2024-01-22T14:57:29.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-06-29T19:58:47.288Z",
+        "namespace_hint": "oplus",
+        "project_hint": "ossi",
+        "project_id": 2483,
+        "project_path": "oplus/ossi"
+      },
+      "revision": "f62181cf3cc3ff7a9c296149ba85bec3c2a0c077",
+      "url": "https://dumps.tadiphone.dev/dumps/oplus/ossi/-/tree/f62181cf3cc3ff7a9c296149ba85bec3c2a0c077"
+    },
+    {
+      "item_id": "oplus/ossi@sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1711679158901-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1711679158901-release-keys",
+        "commit": "283232c45859ec170e924cdc76c814958b866a84",
+        "committed_date": "2024-05-11T15:06:55.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-06-29T19:58:47.288Z",
+        "namespace_hint": "oplus",
+        "project_hint": "ossi",
+        "project_id": 2483,
+        "project_path": "oplus/ossi"
+      },
+      "revision": "283232c45859ec170e924cdc76c814958b866a84",
+      "url": "https://dumps.tadiphone.dev/dumps/oplus/ossi/-/tree/283232c45859ec170e924cdc76c814958b866a84"
+    },
+    {
+      "item_id": "oplus/re54b4@sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1659555254535-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1659555254535-release-keys",
+        "commit": "fe1181718477a5fde149dcc1be01b85cd2e34d2f",
+        "committed_date": "2022-09-01T23:36:24.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-09-01T20:34:07.532Z",
+        "namespace_hint": "oplus",
+        "project_hint": "re54b4",
+        "project_id": 2411,
+        "project_path": "oplus/re54b4"
+      },
+      "revision": "fe1181718477a5fde149dcc1be01b85cd2e34d2f",
+      "url": "https://dumps.tadiphone.dev/dumps/oplus/re54b4/-/tree/fe1181718477a5fde149dcc1be01b85cd2e34d2f"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "reliance/rc501l@full_aeon6735_65u_s_l1-user-5.1-LMY47D-1452005901-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_aeon6735_65u_s_l1-user-5.1-LMY47D-1452005901-release-keys",
+        "commit": "4d180cc6567cd4bea99397d7b5b4d5897f585190",
+        "committed_date": "2019-10-23T07:56:01.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T19:01:19.239Z",
+        "namespace_hint": "reliance",
+        "project_hint": "rc501l",
+        "project_id": 2071,
+        "project_path": "reliance/rc501l"
+      },
+      "revision": "4d180cc6567cd4bea99397d7b5b4d5897f585190",
+      "url": "https://dumps.tadiphone.dev/dumps/reliance/rc501l/-/tree/4d180cc6567cd4bea99397d7b5b4d5897f585190"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

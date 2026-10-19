@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "hipstreet-lyf/ls-5013@LS-5013-user-5.1-LMY47D-1447402818-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "LS-5013-user-5.1-LMY47D-1447402818-release-keys",
+        "commit": "043e1592265f50fa901fa8922c288c1de0e73b39",
+        "committed_date": "2021-06-05T17:27:53.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T22:44:27.269Z",
+        "namespace_hint": "hipstreet-lyf",
+        "project_hint": "ls-5013",
+        "project_id": 1365,
+        "project_path": "hipstreet-lyf/ls-5013"
+      },
+      "revision": "043e1592265f50fa901fa8922c288c1de0e73b39",
+      "url": "https://dumps.tadiphone.dev/dumps/hipstreet-lyf/ls-5013/-/tree/043e1592265f50fa901fa8922c288c1de0e73b39"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

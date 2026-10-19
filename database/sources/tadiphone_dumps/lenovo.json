@@ -1,0 +1,2906 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "_project/4293",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": null,
+        "project_id": 4293,
+        "project_path": "lenovo/tb-9707f",
+        "reason": "repository_not_readable"
+      },
+      "revision": null,
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb-9707f"
+    },
+    {
+      "item_id": "_project/4413",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": null,
+        "project_id": 4413,
+        "project_path": "lenovo/tb320fc",
+        "reason": "repository_not_readable"
+      },
+      "revision": null,
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb320fc"
+    },
+    {
+      "item_id": "lenovo/701lv@hq_msm8953_64-user-7.1.1-NMF26F-551-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "hq_msm8953_64-user-7.1.1-NMF26F-551-release-keys",
+        "commit": "c1a7cc445793efa287c9b2c65dec1ba74d415024",
+        "committed_date": "2019-12-12T14:46:47.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T10:13:45.180Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "701lv",
+        "project_id": 1704,
+        "project_path": "lenovo/701lv"
+      },
+      "revision": "c1a7cc445793efa287c9b2c65dec1ba74d415024",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/701lv/-/tree/c1a7cc445793efa287c9b2c65dec1ba74d415024"
+    },
+    {
+      "item_id": "lenovo/702lv@hq_msm8953_64-user-7.1.1-NMF26F-552-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "hq_msm8953_64-user-7.1.1-NMF26F-552-release-keys",
+        "commit": "bfecc4163501a526c0ff7fed758f441608d0c4d9",
+        "committed_date": "2019-11-15T10:39:57.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T11:32:40.093Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "702lv",
+        "project_id": 1729,
+        "project_path": "lenovo/702lv"
+      },
+      "revision": "bfecc4163501a526c0ff7fed758f441608d0c4d9",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/702lv/-/tree/bfecc4163501a526c0ff7fed758f441608d0c4d9"
+    },
+    {
+      "item_id": "lenovo/7305f@full_mt8321_GO-user-9-PPR1.180610.011-eng.hoperu.20191025.095819-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_mt8321_GO-user-9-PPR1.180610.011-eng.hoperu.20191025.095819-release-keys",
+        "commit": "1790fcce49fc0a31af0c29e6e91a233c4b3f64bc",
+        "committed_date": "2019-11-11T18:34:20.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T15:53:45.735Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "7305f",
+        "project_id": 1909,
+        "project_path": "lenovo/7305f"
+      },
+      "revision": "1790fcce49fc0a31af0c29e6e91a233c4b3f64bc",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/7305f/-/tree/1790fcce49fc0a31af0c29e6e91a233c4b3f64bc"
+    },
+    {
+      "item_id": "lenovo/7305i@full_mt8321_GO-user-9-PPR1.180610.011-18-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_mt8321_GO-user-9-PPR1.180610.011-18-release-keys",
+        "commit": "2e93414bf252ce6dfb426f9c666a3e6a4b9281a1",
+        "committed_date": "2019-11-12T12:22:11.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T15:20:49.265Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "7305i",
+        "project_id": 1873,
+        "project_path": "lenovo/7305i"
+      },
+      "revision": "2e93414bf252ce6dfb426f9c666a3e6a4b9281a1",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/7305i/-/tree/2e93414bf252ce6dfb426f9c666a3e6a4b9281a1"
+    },
+    {
+      "item_id": "lenovo/7305x@full_mt8765_GO-user-9-PPR1.180610.011-10-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_mt8765_GO-user-9-PPR1.180610.011-10-release-keys",
+        "commit": "466785268faa5575eced03c061716cb258fca313",
+        "committed_date": "2019-12-12T16:32:15.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T16:31:40.397Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "7305x",
+        "project_id": 1941,
+        "project_path": "lenovo/7305x"
+      },
+      "revision": "466785268faa5575eced03c061716cb258fca313",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/7305x/-/tree/466785268faa5575eced03c061716cb258fca313"
+    },
+    {
+      "item_id": "lenovo/7305x@full_mt8765_P-user-9-PPR1.180610.011-2-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_mt8765_P-user-9-PPR1.180610.011-2-release-keys",
+        "commit": "498be73816a31b778838d80567059e13bf2beaed",
+        "committed_date": "2019-11-11T18:40:31.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T16:31:40.397Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "7305x",
+        "project_id": 1941,
+        "project_path": "lenovo/7305x"
+      },
+      "revision": "498be73816a31b778838d80567059e13bf2beaed",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/7305x/-/tree/498be73816a31b778838d80567059e13bf2beaed"
+    },
+    {
+      "item_id": "lenovo/7306f@full_m7-user-11-RP1A.200720.011-977-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_m7-user-11-RP1A.200720.011-977-release-keys",
+        "commit": "f334510e4325b2a5290fa18b2e8ee60aed534692",
+        "committed_date": "2021-04-06T07:26:06.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T21:40:30.189Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "7306f",
+        "project_id": 1330,
+        "project_path": "lenovo/7306f"
+      },
+      "revision": "f334510e4325b2a5290fa18b2e8ee60aed534692",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/7306f/-/tree/f334510e4325b2a5290fa18b2e8ee60aed534692"
+    },
+    {
+      "item_id": "lenovo/a10-70f@full_hq8752_tb_b2b_m-user-6.0-MRA58K-1496287162-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_hq8752_tb_b2b_m-user-6.0-MRA58K-1496287162-release-keys",
+        "commit": "9cd6d16c6a24b242348256f1f67eff1f8d256ad6",
+        "committed_date": "2025-05-17T23:56:36.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-05-17T20:55:33.936Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "a10-70f",
+        "project_id": 5639,
+        "project_path": "lenovo/a10-70f"
+      },
+      "revision": "9cd6d16c6a24b242348256f1f67eff1f8d256ad6",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/a10-70f/-/tree/9cd6d16c6a24b242348256f1f67eff1f8d256ad6"
+    },
+    {
+      "item_id": "lenovo/a10-70l@full_hq8752_tb_b2b_m-user-6.0-MRA58K-1496930824-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_hq8752_tb_b2b_m-user-6.0-MRA58K-1496930824-release-keys",
+        "commit": "fd8d8ccc7314901d69df0dd8e34b12341c9ef844",
+        "committed_date": "2025-05-18T00:01:48.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-05-17T21:00:48.660Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "a10-70l",
+        "project_id": 5640,
+        "project_path": "lenovo/a10-70l"
+      },
+      "revision": "fd8d8ccc7314901d69df0dd8e34b12341c9ef844",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/a10-70l/-/tree/fd8d8ccc7314901d69df0dd8e34b12341c9ef844"
+    },
+    {
+      "item_id": "lenovo/a1010a20@hq6580_we_1la_l-user-5.1-LMY47I-1490162682-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "hq6580_we_1la_l-user-5.1-LMY47I-1490162682-release-keys",
+        "commit": "45f5161ff8ed3ba95fab14c7da3484d27059e0b3",
+        "committed_date": "2019-12-12T15:39:22.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T14:48:40.055Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "a1010a20",
+        "project_id": 1838,
+        "project_path": "lenovo/a1010a20"
+      },
+      "revision": "45f5161ff8ed3ba95fab14c7da3484d27059e0b3",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/a1010a20/-/tree/45f5161ff8ed3ba95fab14c7da3484d27059e0b3"
+    },
+    {
+      "item_id": "lenovo/a1010a20@hq6580_we_1la_l-user-5.1-LMY47I-1507723391-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "hq6580_we_1la_l-user-5.1-LMY47I-1507723391-release-keys",
+        "commit": "b9eaeeb64984d601c6d0aa19e478668dbf957d5a",
+        "committed_date": "2019-12-12T15:32:06.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T14:48:40.055Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "a1010a20",
+        "project_id": 1838,
+        "project_path": "lenovo/a1010a20"
+      },
+      "revision": "b9eaeeb64984d601c6d0aa19e478668dbf957d5a",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/a1010a20/-/tree/b9eaeeb64984d601c6d0aa19e478668dbf957d5a"
+    },
+    {
+      "item_id": "lenovo/a1010a20@hq6580_we_1la_l-user-5.1-LMY47I-1507723498-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "hq6580_we_1la_l-user-5.1-LMY47I-1507723498-release-keys",
+        "commit": "86c6a26ef45cc1aad328c6d5ed0cd8a2f61902b7",
+        "committed_date": "2019-12-12T15:42:05.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T14:48:40.055Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "a1010a20",
+        "project_id": 1838,
+        "project_path": "lenovo/a1010a20"
+      },
+      "revision": "86c6a26ef45cc1aad328c6d5ed0cd8a2f61902b7",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/a1010a20/-/tree/86c6a26ef45cc1aad328c6d5ed0cd8a2f61902b7"
+    },
+    {
+      "item_id": "lenovo/a101lv@qssi-userdebug-11-RKQ1.201217.002-M10_5G_S200_20210518-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-userdebug-11-RKQ1.201217.002-M10_5G_S200_20210518-test-keys",
+        "commit": "72d27c404d6ef0ad54d265385a9f0707260b0f7e",
+        "committed_date": "2023-03-04T12:10:01.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-03-04T09:08:42.740Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "a101lv",
+        "project_id": 4082,
+        "project_path": "lenovo/a101lv"
+      },
+      "revision": "72d27c404d6ef0ad54d265385a9f0707260b0f7e",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/a101lv/-/tree/72d27c404d6ef0ad54d265385a9f0707260b0f7e"
+    },
+    {
+      "item_id": "lenovo/a369i@lcsh72_we_jb3-user-4.2.2-JDQ39-174-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "lcsh72_we_jb3-user-4.2.2-JDQ39-174-release-keys",
+        "commit": "fd44259acbaf1c4e2a5dc681b4bc86a697e5f4a5",
+        "committed_date": "2019-12-18T10:28:07.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T17:55:28.177Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "a369i",
+        "project_id": 2002,
+        "project_path": "lenovo/a369i"
+      },
+      "revision": "fd44259acbaf1c4e2a5dc681b4bc86a697e5f4a5",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/a369i/-/tree/fd44259acbaf1c4e2a5dc681b4bc86a697e5f4a5"
+    },
+    {
+      "item_id": "lenovo/a6600a40@full_lcsh6735m_35u_m-user-6.0-MRA58K-1483955365-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_lcsh6735m_35u_m-user-6.0-MRA58K-1483955365-release-keys",
+        "commit": "83f377d10ee364549852b1ce6c3e02da0020803a",
+        "committed_date": "2019-08-25T18:48:44.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T18:38:51.282Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "a6600a40",
+        "project_id": 2041,
+        "project_path": "lenovo/a6600a40"
+      },
+      "revision": "83f377d10ee364549852b1ce6c3e02da0020803a",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/a6600a40/-/tree/83f377d10ee364549852b1ce6c3e02da0020803a"
+    },
+    {
+      "item_id": "lenovo/achilles6_row_data@full_achilles6_row_data-user-10-QP1A.190711.020-TB-X606X_U-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_achilles6_row_data-user-10-QP1A.190711.020-TB-X606X_U-release-keys",
+        "commit": "d6f090f5817584f8b769ed235fc08b8bb9fc0714",
+        "committed_date": "2022-12-19T23:22:57.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-12-19T20:21:03.715Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "achilles6_row_data",
+        "project_id": 4000,
+        "project_path": "lenovo/achilles6_row_data"
+      },
+      "revision": "d6f090f5817584f8b769ed235fc08b8bb9fc0714",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/achilles6_row_data/-/tree/d6f090f5817584f8b769ed235fc08b8bb9fc0714"
+    },
+    {
+      "item_id": "lenovo/achilles6_row_wifi@full_achilles6_row_wifi-user-10-QP1A.190711.020-TB-X606F_U-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_achilles6_row_wifi-user-10-QP1A.190711.020-TB-X606F_U-release-keys",
+        "commit": "40abcb6aa0446ddf50be17ccacf2f9d05ea305a3",
+        "committed_date": "2022-12-05T17:56:10.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-12-05T14:54:16.774Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "achilles6_row_wifi",
+        "project_id": 3985,
+        "project_path": "lenovo/achilles6_row_wifi"
+      },
+      "revision": "40abcb6aa0446ddf50be17ccacf2f9d05ea305a3",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/achilles6_row_wifi/-/tree/40abcb6aa0446ddf50be17ccacf2f9d05ea305a3"
+    },
+    {
+      "item_id": "lenovo/ak57@AK57-user-10-QP1A.190711.020-11.0.022_200518-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "AK57-user-10-QP1A.190711.020-11.0.022_200518-release-keys",
+        "commit": "6f2f0ad844ce4294a3f6825982a69bd9b2dd3dd1",
+        "committed_date": "2020-05-19T12:09:38.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T12:46:28.952Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "ak57",
+        "project_id": 998,
+        "project_path": "lenovo/ak57"
+      },
+      "revision": "6f2f0ad844ce4294a3f6825982a69bd9b2dd3dd1",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/ak57/-/tree/6f2f0ad844ce4294a3f6825982a69bd9b2dd3dd1"
+    },
+    {
+      "item_id": "lenovo/ak57@AK57-user-10-QP1A.190711.020-11.5.263_200824-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "AK57-user-10-QP1A.190711.020-11.5.263_200824-release-keys",
+        "commit": "ca66bafc8a64c6c1045caa5287c4c33efb3f47bd",
+        "committed_date": "2020-11-06T05:08:10.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T12:46:28.952Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "ak57",
+        "project_id": 998,
+        "project_path": "lenovo/ak57"
+      },
+      "revision": "ca66bafc8a64c6c1045caa5287c4c33efb3f47bd",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/ak57/-/tree/ca66bafc8a64c6c1045caa5287c4c33efb3f47bd"
+    },
+    {
+      "item_id": "lenovo/akita_row_call@full_akita_row_call-user-9-PPR1.180610.011-TB-8505X_U-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_akita_row_call-user-9-PPR1.180610.011-TB-8505X_U-release-keys",
+        "commit": "ef5106c3c4c4ad7015261c8529a1b902eaf47da8",
+        "committed_date": "2020-01-07T14:34:10.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T23:32:37.126Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "akita_row_call",
+        "project_id": 2214,
+        "project_path": "lenovo/akita_row_call"
+      },
+      "revision": "ef5106c3c4c4ad7015261c8529a1b902eaf47da8",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/akita_row_call/-/tree/ef5106c3c4c4ad7015261c8529a1b902eaf47da8"
+    },
+    {
+      "item_id": "lenovo/akita_row_wifi@full_akita_row_wifi-user-10-QP1A.190711.020-TB-8505F_U-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_akita_row_wifi-user-10-QP1A.190711.020-TB-8505F_U-release-keys",
+        "commit": "aae1c602a4a86217aeac5daddd1e258f948b3cae",
+        "committed_date": "2023-12-06T18:35:32.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-12-06T15:39:41.332Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "akita_row_wifi",
+        "project_id": 1740,
+        "project_path": "lenovo/akita_row_wifi"
+      },
+      "revision": "aae1c602a4a86217aeac5daddd1e258f948b3cae",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/akita_row_wifi/-/tree/aae1c602a4a86217aeac5daddd1e258f948b3cae"
+    },
+    {
+      "item_id": "lenovo/akita_row_wifi@full_akita_row_wifi-user-9-PPR1.180610.011-TB-8505F_U-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_akita_row_wifi-user-9-PPR1.180610.011-TB-8505F_U-release-keys",
+        "commit": "097c7c6d020c30e5b13e7aa990c6dfd7a5ea2b8f",
+        "committed_date": "2019-11-12T17:44:44.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-12-06T15:39:41.332Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "akita_row_wifi",
+        "project_id": 1740,
+        "project_path": "lenovo/akita_row_wifi"
+      },
+      "revision": "097c7c6d020c30e5b13e7aa990c6dfd7a5ea2b8f",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/akita_row_wifi/-/tree/097c7c6d020c30e5b13e7aa990c6dfd7a5ea2b8f"
+    },
+    {
+      "item_id": "lenovo/amar_prc_wifi_com@full_amar_prc_wifi_com-userdebug-10-QP1A.190711.020-TB-X306F_S2028_200926-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_amar_prc_wifi_com-userdebug-10-QP1A.190711.020-TB-X306F_S2028_200926-test-keys",
+        "commit": "1b1c8a09671ee6eb3417108ed774d299de599585",
+        "committed_date": "2022-07-04T19:04:11.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-07-04T16:03:23.333Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "amar_prc_wifi_com",
+        "project_id": 2345,
+        "project_path": "lenovo/amar_prc_wifi_com"
+      },
+      "revision": "1b1c8a09671ee6eb3417108ed774d299de599585",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/amar_prc_wifi_com/-/tree/1b1c8a09671ee6eb3417108ed774d299de599585"
+    },
+    {
+      "item_id": "lenovo/amar_row_lte@full_amar_row_lte-userdebug-10-QP1A.190711.020-TB-X306X_S2032_210303-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_amar_row_lte-userdebug-10-QP1A.190711.020-TB-X306X_S2032_210303-test-keys",
+        "commit": "d8ea7b043ad0ccfba293c86d9a38b8a5bcf617c7",
+        "committed_date": "2022-07-04T19:17:00.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-07-04T16:16:02.076Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "amar_row_lte",
+        "project_id": 2347,
+        "project_path": "lenovo/amar_row_lte"
+      },
+      "revision": "d8ea7b043ad0ccfba293c86d9a38b8a5bcf617c7",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/amar_row_lte/-/tree/d8ea7b043ad0ccfba293c86d9a38b8a5bcf617c7"
+    },
+    {
+      "item_id": "lenovo/amar_row_wifi@full_amar_row_wifi-userdebug-10-QP1A.190711.020-TB-X306F_S2032_210303-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_amar_row_wifi-userdebug-10-QP1A.190711.020-TB-X306F_S2032_210303-test-keys",
+        "commit": "0474804e11219a751caa57b2432a10cd2cb3ac1e",
+        "committed_date": "2022-07-04T19:10:29.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-07-04T16:09:30.005Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "amar_row_wifi",
+        "project_id": 2346,
+        "project_path": "lenovo/amar_row_wifi"
+      },
+      "revision": "0474804e11219a751caa57b2432a10cd2cb3ac1e",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/amar_row_wifi/-/tree/0474804e11219a751caa57b2432a10cd2cb3ac1e"
+    },
+    {
+      "item_id": "lenovo/anna_row_call@full_anna_row_call-user-9-PPR1.180610.011-TB-8505XS_-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_anna_row_call-user-9-PPR1.180610.011-TB-8505XS_-release-keys",
+        "commit": "793cb8da4de7e033927c926031b2e8d50ee47c9e",
+        "committed_date": "2020-01-07T15:18:35.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T18:38:58.884Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "anna_row_call",
+        "project_id": 1251,
+        "project_path": "lenovo/anna_row_call"
+      },
+      "revision": "793cb8da4de7e033927c926031b2e8d50ee47c9e",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/anna_row_call/-/tree/793cb8da4de7e033927c926031b2e8d50ee47c9e"
+    },
+    {
+      "item_id": "lenovo/anna_row_wifi@full_anna_row_wifi-user-9-PPR1.180610.011-TB-8505FS_-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_anna_row_wifi-user-9-PPR1.180610.011-TB-8505FS_-release-keys",
+        "commit": "aa6d9fc8b21e8c3bfc22e94977e2e06d827fa333",
+        "committed_date": "2020-01-07T15:07:35.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T00:45:08.448Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "anna_row_wifi",
+        "project_id": 1448,
+        "project_path": "lenovo/anna_row_wifi"
+      },
+      "revision": "aa6d9fc8b21e8c3bfc22e94977e2e06d827fa333",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/anna_row_wifi/-/tree/aa6d9fc8b21e8c3bfc22e94977e2e06d827fa333"
+    },
+    {
+      "item_id": "lenovo/brady@user-7.1.1-NMC26.51-41-41-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-7.1.1-NMC26.51-41-41-release-keys",
+        "commit": "0d1eacfb970ae3ef1c7ab5166767bdfdb610ba26",
+        "committed_date": "2025-02-09T16:52:30.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-02-09T13:50:41.902Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "brady",
+        "project_id": 5568,
+        "project_path": "lenovo/brady"
+      },
+      "revision": "0d1eacfb970ae3ef1c7ab5166767bdfdb610ba26",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/brady/-/tree/0d1eacfb970ae3ef1c7ab5166767bdfdb610ba26"
+    },
+    {
+      "item_id": "lenovo/cd-18781y@CD-18781Y-user-8.1.0-OPM1.171019.026-LenovoCD-18781Y-ZR-202106021417-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "CD-18781Y-user-8.1.0-OPM1.171019.026-LenovoCD-18781Y-ZR-202106021417-release-keys",
+        "commit": "bd72c1b20cc2b59d054f14516961e8c51068815e",
+        "committed_date": "2022-02-03T12:39:49.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T13:44:53.541Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "cd-18781y",
+        "project_id": 69,
+        "project_path": "lenovo/cd-18781y"
+      },
+      "revision": "bd72c1b20cc2b59d054f14516961e8c51068815e",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/cd-18781y/-/tree/bd72c1b20cc2b59d054f14516961e8c51068815e"
+    },
+    {
+      "item_id": "lenovo/cd-18781y@CD-18781Y-userdebug-8.1.0-OPM1.171019.026-eng.penghu.20191011.150050-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "CD-18781Y-userdebug-8.1.0-OPM1.171019.026-eng.penghu.20191011.150050-release-keys",
+        "commit": "a9170055fd2293b63eaeb1c421e4489c76a53ebf",
+        "committed_date": "2022-03-26T07:42:59.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-14T13:44:53.541Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "cd-18781y",
+        "project_id": 69,
+        "project_path": "lenovo/cd-18781y"
+      },
+      "revision": "a9170055fd2293b63eaeb1c421e4489c76a53ebf",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/cd-18781y/-/tree/a9170055fd2293b63eaeb1c421e4489c76a53ebf"
+    },
+    {
+      "item_id": "lenovo/cofud@user-12-S3RWDS32.123-29-8-1-06a8f5-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-12-S3RWDS32.123-29-8-1-06a8f5-release-keys",
+        "commit": "c8f82fb036b07ea0f8c31c8a3f2494d0f3be344d",
+        "committed_date": "2023-05-13T00:05:01.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-05-12T21:02:10.302Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "cofud",
+        "project_id": 4295,
+        "project_path": "lenovo/cofud"
+      },
+      "revision": "c8f82fb036b07ea0f8c31c8a3f2494d0f3be344d",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/cofud/-/tree/c8f82fb036b07ea0f8c31c8a3f2494d0f3be344d"
+    },
+    {
+      "item_id": "lenovo/cream@cream-user-9-PKQ1.190908.001-11.3.245_191210-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "cream-user-9-PKQ1.190908.001-11.3.245_191210-release-keys",
+        "commit": "ef1f14fe25032afd424c4d094128fd4405be828f",
+        "committed_date": "2020-01-07T14:46:53.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T13:50:25.558Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "cream",
+        "project_id": 1807,
+        "project_path": "lenovo/cream"
+      },
+      "revision": "ef1f14fe25032afd424c4d094128fd4405be828f",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/cream/-/tree/ef1f14fe25032afd424c4d094128fd4405be828f"
+    },
+    {
+      "item_id": "lenovo/elf-8605l@qssi-userdebug-10-QKQ1.200301.002-338-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-userdebug-10-QKQ1.200301.002-338-test-keys",
+        "commit": "58988aaf43b4a9b59c163a88e8cfe105b2b004af",
+        "committed_date": "2020-07-13T13:03:17.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T09:40:44.847Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "elf-8605l",
+        "project_id": 1666,
+        "project_path": "lenovo/elf-8605l"
+      },
+      "revision": "58988aaf43b4a9b59c163a88e8cfe105b2b004af",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/elf-8605l/-/tree/58988aaf43b4a9b59c163a88e8cfe105b2b004af"
+    },
+    {
+      "item_id": "lenovo/guamp@msi-user-11-RPXS31.Q2-58-17-7-3-ad9c24-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msi-user-11-RPXS31.Q2-58-17-7-3-ad9c24-release-keys",
+        "commit": "9945d8915044604ce521d0a588fbf4af35cb7478",
+        "committed_date": "2024-07-31T04:54:43.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-07-31T01:52:24.714Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "guamp",
+        "project_id": 5361,
+        "project_path": "lenovo/guamp"
+      },
+      "revision": "9945d8915044604ce521d0a588fbf4af35cb7478",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/guamp/-/tree/9945d8915044604ce521d0a588fbf4af35cb7478"
+    },
+    {
+      "item_id": "lenovo/halo@qssi-user-12-SKQ1.220519.001-14.0.530_220815-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220519.001-14.0.530_220815-release-keys",
+        "commit": "9d3764f5d50331a2f54af50b8af17a318d97a5a8",
+        "committed_date": "2022-10-29T08:35:08.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-10-29T05:31:01.207Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "halo",
+        "project_id": 2495,
+        "project_path": "lenovo/halo"
+      },
+      "revision": "9d3764f5d50331a2f54af50b8af17a318d97a5a8",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/halo/-/tree/9d3764f5d50331a2f54af50b8af17a318d97a5a8"
+    },
+    {
+      "item_id": "lenovo/heart@heart-user-9-PKQ1.181121.001-10.5.078_190126-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "heart-user-9-PKQ1.181121.001-10.5.078_190126-release-keys",
+        "commit": "94251f54f74e8404cd92c8ffbcd6ca4d2cbe9873",
+        "committed_date": "2019-08-12T01:25:14.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T01:43:58.956Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "heart",
+        "project_id": 2308,
+        "project_path": "lenovo/heart"
+      },
+      "revision": "94251f54f74e8404cd92c8ffbcd6ca4d2cbe9873",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/heart/-/tree/94251f54f74e8404cd92c8ffbcd6ca4d2cbe9873"
+    },
+    {
+      "item_id": "lenovo/heart@heart-user-9-PKQ1.190110.001-10.5.304_190710-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "heart-user-9-PKQ1.190110.001-10.5.304_190710-release-keys",
+        "commit": "1e48beceae7c240f4a9d58721302dc9ccc5a93b6",
+        "committed_date": "2019-08-27T01:45:30.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-17T01:43:58.956Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "heart",
+        "project_id": 2308,
+        "project_path": "lenovo/heart"
+      },
+      "revision": "1e48beceae7c240f4a9d58721302dc9ccc5a93b6",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/heart/-/tree/1e48beceae7c240f4a9d58721302dc9ccc5a93b6"
+    },
+    {
+      "item_id": "lenovo/helios@Helios-user-10-1.2.2-464-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Helios-user-10-1.2.2-464-release-keys",
+        "commit": "329fa13ce66f91f72d24ee8ce699ddb40d362210",
+        "committed_date": "2021-08-13T02:57:41.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T22:28:01.080Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "helios",
+        "project_id": 1356,
+        "project_path": "lenovo/helios"
+      },
+      "revision": "329fa13ce66f91f72d24ee8ce699ddb40d362210",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/helios/-/tree/329fa13ce66f91f72d24ee8ce699ddb40d362210"
+    },
+    {
+      "item_id": "lenovo/j606l@qssi-user-11-RKQ1.210303.002-TB-J606L_USR_S320127_2112241542_Q00070_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210303.002-TB-J606L_USR_S320127_2112241542_Q00070_ROW-release-keys",
+        "commit": "2fe590e35e0fe338ff4b620947179faed8469fc6",
+        "committed_date": "2022-02-03T12:29:58.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T19:00:52.304Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "j606l",
+        "project_id": 762,
+        "project_path": "lenovo/j606l"
+      },
+      "revision": "2fe590e35e0fe338ff4b620947179faed8469fc6",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/j606l/-/tree/2fe590e35e0fe338ff4b620947179faed8469fc6"
+    },
+    {
+      "item_id": "lenovo/j607f@qssi-user-11-RKQ1.201217.002-12.5.040_210514-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201217.002-12.5.040_210514-release-keys",
+        "commit": "161dde26baa2203a400982becd12c19aacca4ac7",
+        "committed_date": "2021-12-13T13:07:26.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T19:28:41.371Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "j607f",
+        "project_id": 765,
+        "project_path": "lenovo/j607f"
+      },
+      "revision": "161dde26baa2203a400982becd12c19aacca4ac7",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/j607f/-/tree/161dde26baa2203a400982becd12c19aacca4ac7"
+    },
+    {
+      "item_id": "lenovo/j607f@qssi-user-11-RKQ1.201217.002-12.6.142_210801-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201217.002-12.6.142_210801-release-keys",
+        "commit": "fc017aa47bccc8ab6331d462a71e86d9307e4bb9",
+        "committed_date": "2021-12-13T12:48:21.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-14T19:28:41.371Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "j607f",
+        "project_id": 765,
+        "project_path": "lenovo/j607f"
+      },
+      "revision": "fc017aa47bccc8ab6331d462a71e86d9307e4bb9",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/j607f/-/tree/fc017aa47bccc8ab6331d462a71e86d9307e4bb9"
+    },
+    {
+      "item_id": "lenovo/j607z@qssi-user-11-RKQ1.201217.002-TB-J607Z_USR_S130035_2107061507_Q00290_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201217.002-TB-J607Z_USR_S130035_2107061507_Q00290_ROW-release-keys",
+        "commit": "f5173d38ed33287c4630f95dacbd584f287b1319",
+        "committed_date": "2021-12-09T22:16:01.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T17:30:04.175Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "j607z",
+        "project_id": 1231,
+        "project_path": "lenovo/j607z"
+      },
+      "revision": "f5173d38ed33287c4630f95dacbd584f287b1319",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/j607z/-/tree/f5173d38ed33287c4630f95dacbd584f287b1319"
+    },
+    {
+      "item_id": "lenovo/j607z@qssi-user-11-RKQ1.201217.002-TB-J607Z_USR_S160027_2109191220_Q00290_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201217.002-TB-J607Z_USR_S160027_2109191220_Q00290_ROW-release-keys",
+        "commit": "1e61a258a29eb9fdb7b46349637e2955099bec46",
+        "committed_date": "2021-12-09T22:34:12.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T17:30:04.175Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "j607z",
+        "project_id": 1231,
+        "project_path": "lenovo/j607z"
+      },
+      "revision": "1e61a258a29eb9fdb7b46349637e2955099bec46",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/j607z/-/tree/1e61a258a29eb9fdb7b46349637e2955099bec46"
+    },
+    {
+      "item_id": "lenovo/j607z@qssi-user-11-RKQ1.201217.002-TB-J607Z_USR_S160109_2112031141_Q00290_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201217.002-TB-J607Z_USR_S160109_2112031141_Q00290_ROW-release-keys",
+        "commit": "94e0e7d725b7d7b22ccd30c7d5fd3a813235592f",
+        "committed_date": "2021-12-29T06:59:17.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T17:30:04.175Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "j607z",
+        "project_id": 1231,
+        "project_path": "lenovo/j607z"
+      },
+      "revision": "94e0e7d725b7d7b22ccd30c7d5fd3a813235592f",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/j607z/-/tree/94e0e7d725b7d7b22ccd30c7d5fd3a813235592f"
+    },
+    {
+      "item_id": "lenovo/j706f@qssi-user-11-RKQ1.210518.002-TB-J706F_USR_S620150_2112260043_Q00067_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210518.002-TB-J706F_USR_S620150_2112260043_Q00067_ROW-release-keys",
+        "commit": "ebe4467b3ff38f3b3bef8c282496426e6dd7d64b",
+        "committed_date": "2022-03-19T23:25:55.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-05-25T16:49:01.570Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "j706f",
+        "project_id": 886,
+        "project_path": "lenovo/j706f"
+      },
+      "revision": "ebe4467b3ff38f3b3bef8c282496426e6dd7d64b",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/j706f/-/tree/ebe4467b3ff38f3b3bef8c282496426e6dd7d64b"
+    },
+    {
+      "item_id": "lenovo/j706f@qssi-user-12-SKQ1.220213.001-14.0.193_230403-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220213.001-14.0.193_230403-release-keys",
+        "commit": "00810f926ae41df9f184edaa6acc33fe0ac16b74",
+        "committed_date": "2023-05-25T19:42:09.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-05-25T16:49:01.570Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "j706f",
+        "project_id": 886,
+        "project_path": "lenovo/j706f"
+      },
+      "revision": "00810f926ae41df9f184edaa6acc33fe0ac16b74",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/j706f/-/tree/00810f926ae41df9f184edaa6acc33fe0ac16b74"
+    },
+    {
+      "item_id": "lenovo/java@p352_Natv-user-11-RTA31.42-5-5-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "p352_Natv-user-11-RTA31.42-5-5-release-keys",
+        "commit": "93003c5978c9603bc194ad580d42ceaaea8efdbc",
+        "committed_date": "2021-05-03T09:49:43.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T00:21:46.164Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "java",
+        "project_id": 1420,
+        "project_path": "lenovo/java"
+      },
+      "revision": "93003c5978c9603bc194ad580d42ceaaea8efdbc",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/java/-/tree/93003c5978c9603bc194ad580d42ceaaea8efdbc"
+    },
+    {
+      "item_id": "lenovo/jd2019@jd2019-user-9-PKQ1.180929.001-10.5.331_190314-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "jd2019-user-9-PKQ1.180929.001-10.5.331_190314-release-keys",
+        "commit": "caf454c3a5a3d0744539b968a4b86a41797323b0",
+        "committed_date": "2019-07-19T06:52:51.000+08:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T19:12:39.927Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "jd2019",
+        "project_id": 2082,
+        "project_path": "lenovo/jd2019"
+      },
+      "revision": "caf454c3a5a3d0744539b968a4b86a41797323b0",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/jd2019/-/tree/caf454c3a5a3d0744539b968a4b86a41797323b0"
+    },
+    {
+      "item_id": "lenovo/jd2019@jd2019-user-9-PKQ1.190127.001-11.1.109_190701-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "jd2019-user-9-PKQ1.190127.001-11.1.109_190701-release-keys",
+        "commit": "044ca57c02e3dec6b1f2dfb0a71ea3267bf2c1a5",
+        "committed_date": "2019-08-26T06:28:42.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T19:12:39.927Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "jd2019",
+        "project_id": 2082,
+        "project_path": "lenovo/jd2019"
+      },
+      "revision": "044ca57c02e3dec6b1f2dfb0a71ea3267bf2c1a5",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/jd2019/-/tree/044ca57c02e3dec6b1f2dfb0a71ea3267bf2c1a5"
+    },
+    {
+      "item_id": "lenovo/jd2019@jd2019-user-9-PKQ1.190127.001-11.3.169_190925-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "jd2019-user-9-PKQ1.190127.001-11.3.169_190925-release-keys",
+        "commit": "82d6e28d679362b19d7bbbe15d89d3a7e8d9d09d",
+        "committed_date": "2020-02-13T02:31:28.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T19:12:39.927Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "jd2019",
+        "project_id": 2082,
+        "project_path": "lenovo/jd2019"
+      },
+      "revision": "82d6e28d679362b19d7bbbe15d89d3a7e8d9d09d",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/jd2019/-/tree/82d6e28d679362b19d7bbbe15d89d3a7e8d9d09d"
+    },
+    {
+      "item_id": "lenovo/jd20@jd20-user-9-PKQ1.190319.001-11.1.238_190912-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "jd20-user-9-PKQ1.190319.001-11.1.238_190912-release-keys",
+        "commit": "e98d463982f3e344137a3a23a19adbf0de6313a0",
+        "committed_date": "2019-11-10T11:15:01.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T16:00:59.579Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "jd20",
+        "project_id": 1918,
+        "project_path": "lenovo/jd20"
+      },
+      "revision": "e98d463982f3e344137a3a23a19adbf0de6313a0",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/jd20/-/tree/e98d463982f3e344137a3a23a19adbf0de6313a0"
+    },
+    {
+      "item_id": "lenovo/k10a40@full_lcsh6735m_35u_m-user-6.0-MRA58K-1482385228-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_lcsh6735m_35u_m-user-6.0-MRA58K-1482385228-release-keys",
+        "commit": "c69289c9ee233b10ce6b1ec58f04e406f7c52eff",
+        "committed_date": "2019-12-15T21:49:55.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T19:47:54.286Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "k10a40",
+        "project_id": 783,
+        "project_path": "lenovo/k10a40"
+      },
+      "revision": "c69289c9ee233b10ce6b1ec58f04e406f7c52eff",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/k10a40/-/tree/c69289c9ee233b10ce6b1ec58f04e406f7c52eff"
+    },
+    {
+      "item_id": "lenovo/k10a40@full_lcsh6735m_35u_m-user-6.0-MRA58K-1493969583-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_lcsh6735m_35u_m-user-6.0-MRA58K-1493969583-release-keys",
+        "commit": "9a45c090f6c55da6bdbde4524f25f5a8d7d50513",
+        "committed_date": "2022-01-19T07:05:34.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-14T19:47:54.286Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "k10a40",
+        "project_id": 783,
+        "project_path": "lenovo/k10a40"
+      },
+      "revision": "9a45c090f6c55da6bdbde4524f25f5a8d7d50513",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/k10a40/-/tree/9a45c090f6c55da6bdbde4524f25f5a8d7d50513"
+    },
+    {
+      "item_id": "lenovo/k10a40@full_lcsh6735m_35u_m-user-6.0-MRA58K-1495015561-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_lcsh6735m_35u_m-user-6.0-MRA58K-1495015561-release-keys",
+        "commit": "8b90f90aac8d3757574365163144688c839cb7c5",
+        "committed_date": "2019-08-25T18:59:02.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-14T19:47:54.286Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "k10a40",
+        "project_id": 783,
+        "project_path": "lenovo/k10a40"
+      },
+      "revision": "8b90f90aac8d3757574365163144688c839cb7c5",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/k10a40/-/tree/8b90f90aac8d3757574365163144688c839cb7c5"
+    },
+    {
+      "item_id": "lenovo/k10e70@K10e70-user-6.0.1-MMB29M-K10e70_S201_170109-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "K10e70-user-6.0.1-MMB29M-K10e70_S201_170109-release-keys",
+        "commit": "04953c74d53561ef0047899cde7ab203272b5ed4",
+        "committed_date": "2023-03-15T19:17:58.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-03-15T16:17:13.773Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "k10e70",
+        "project_id": 4093,
+        "project_path": "lenovo/k10e70"
+      },
+      "revision": "04953c74d53561ef0047899cde7ab203272b5ed4",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/k10e70/-/tree/04953c74d53561ef0047899cde7ab203272b5ed4"
+    },
+    {
+      "item_id": "lenovo/k50a40@aio_5m-user-6.0-MRA58K-K50a40_S433_160909_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aio_5m-user-6.0-MRA58K-K50a40_S433_160909_ROW-release-keys",
+        "commit": "fec667f8ada12a9a7ba0b30a469c01f74365e374",
+        "committed_date": "2019-12-04T00:29:29.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T11:37:14.017Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "k50a40",
+        "project_id": 1733,
+        "project_path": "lenovo/k50a40"
+      },
+      "revision": "fec667f8ada12a9a7ba0b30a469c01f74365e374",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/k50a40/-/tree/fec667f8ada12a9a7ba0b30a469c01f74365e374"
+    },
+    {
+      "item_id": "lenovo/k5@k5-user-8.0.0-OPR1.170623.032-3.7.033_180413-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "k5-user-8.0.0-OPR1.170623.032-3.7.033_180413-release-keys",
+        "commit": "eefcae1bb2a31b2d94925a2c6d154d63c90a21cb",
+        "committed_date": "2019-12-18T10:40:39.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T14:55:54.994Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "k5",
+        "project_id": 1848,
+        "project_path": "lenovo/k5"
+      },
+      "revision": "eefcae1bb2a31b2d94925a2c6d154d63c90a21cb",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/k5/-/tree/eefcae1bb2a31b2d94925a2c6d154d63c90a21cb"
+    },
+    {
+      "item_id": "lenovo/k606f@qssi-user-11-RKQ1.201217.002-YT-K606F_USR_S200253_2111200005_Q00218_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201217.002-YT-K606F_USR_S200253_2111200005_Q00218_ROW-release-keys",
+        "commit": "a5b7baf86b8077510de378fb1ade04720351207c",
+        "committed_date": "2021-12-08T23:01:19.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T22:14:36.404Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "k606f",
+        "project_id": 2151,
+        "project_path": "lenovo/k606f"
+      },
+      "revision": "a5b7baf86b8077510de378fb1ade04720351207c",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/k606f/-/tree/a5b7baf86b8077510de378fb1ade04720351207c"
+    },
+    {
+      "item_id": "lenovo/k9@full_lava6762_l01-user-8.1.0-O11019-1551702904-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_lava6762_l01-user-8.1.0-O11019-1551702904-release-keys",
+        "commit": "07889e1237cf6a4cd4e8e74b8eaebf5e87306c1f",
+        "committed_date": "2019-11-11T17:57:50.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T15:55:59.139Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "k9",
+        "project_id": 1912,
+        "project_path": "lenovo/k9"
+      },
+      "revision": "07889e1237cf6a4cd4e8e74b8eaebf5e87306c1f",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/k9/-/tree/07889e1237cf6a4cd4e8e74b8eaebf5e87306c1f"
+    },
+    {
+      "item_id": "lenovo/k9@full_lava6762_l01-user-8.1.0-O11019-1569500599-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_lava6762_l01-user-8.1.0-O11019-1569500599-release-keys",
+        "commit": "54a5fd334542118a17a7dd33e2be31d244c032ad",
+        "committed_date": "2019-12-12T15:01:08.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T15:55:59.139Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "k9",
+        "project_id": 1912,
+        "project_path": "lenovo/k9"
+      },
+      "revision": "54a5fd334542118a17a7dd33e2be31d244c032ad",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/k9/-/tree/54a5fd334542118a17a7dd33e2be31d244c032ad"
+    },
+    {
+      "item_id": "lenovo/k9@full_lava6762_l01-user-8.1.0-O11019-1575368252-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_lava6762_l01-user-8.1.0-O11019-1575368252-release-keys",
+        "commit": "fcd2b8c8b599a2daef6dd149c895ca9c4f9e17cf",
+        "committed_date": "2019-12-13T11:29:31.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T15:55:59.139Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "k9",
+        "project_id": 1912,
+        "project_path": "lenovo/k9"
+      },
+      "revision": "fcd2b8c8b599a2daef6dd149c895ca9c4f9e17cf",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/k9/-/tree/fcd2b8c8b599a2daef6dd149c895ca9c4f9e17cf"
+    },
+    {
+      "item_id": "lenovo/kama2@kama2-user-9-PKQ1.190616.001-202-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "kama2-user-9-PKQ1.190616.001-202-release-keys",
+        "commit": "cb8ac11f43e606cd8e5ca6bcefdeb690b96d2a19",
+        "committed_date": "2019-12-11T08:32:50.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T07:39:03.999Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "kama2",
+        "project_id": 1552,
+        "project_path": "lenovo/kama2"
+      },
+      "revision": "cb8ac11f43e606cd8e5ca6bcefdeb690b96d2a19",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/kama2/-/tree/cb8ac11f43e606cd8e5ca6bcefdeb690b96d2a19"
+    },
+    {
+      "item_id": "lenovo/kraft-a6000@Kraft-A6000-user-5.0.2-LRX22G-A6000_S016_150815_8G_BG-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Kraft-A6000-user-5.0.2-LRX22G-A6000_S016_150815_8G_BG-release-keys",
+        "commit": "0c924856c3cf4bb013971be7c22a611cc5baba33",
+        "committed_date": "2019-12-12T15:48:30.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T11:41:48.324Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "kraft-a6000",
+        "project_id": 1737,
+        "project_path": "lenovo/kraft-a6000"
+      },
+      "revision": "0c924856c3cf4bb013971be7c22a611cc5baba33",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/kraft-a6000/-/tree/0c924856c3cf4bb013971be7c22a611cc5baba33"
+    },
+    {
+      "item_id": "lenovo/kunlun2@kunlun2_row-user-9-PKQ1.190127.001-11.0.092_190719-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "kunlun2_row-user-9-PKQ1.190127.001-11.0.092_190719-release-keys",
+        "commit": "c5efa054220dd492ddd969045f17d899a3273bf0",
+        "committed_date": "2019-08-15T10:34:59.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T16:40:48.779Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "kunlun2",
+        "project_id": 1947,
+        "project_path": "lenovo/kunlun2"
+      },
+      "revision": "c5efa054220dd492ddd969045f17d899a3273bf0",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/kunlun2/-/tree/c5efa054220dd492ddd969045f17d899a3273bf0"
+    },
+    {
+      "item_id": "lenovo/kunlun2@kunlun2_row-user-9-PKQ1.190127.001-11.0.117_190813-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "kunlun2_row-user-9-PKQ1.190127.001-11.0.117_190813-release-keys",
+        "commit": "a86d1c1ba22f4903aa63baa7e28ec844f44760f4",
+        "committed_date": "2019-11-07T08:17:08.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T16:40:48.779Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "kunlun2",
+        "project_id": 1947,
+        "project_path": "lenovo/kunlun2"
+      },
+      "revision": "a86d1c1ba22f4903aa63baa7e28ec844f44760f4",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/kunlun2/-/tree/a86d1c1ba22f4903aa63baa7e28ec844f44760f4"
+    },
+    {
+      "item_id": "lenovo/kunlun2@kunlun2_row-user-9-PKQ1.190127.001-11.0.224_191126-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "kunlun2_row-user-9-PKQ1.190127.001-11.0.224_191126-release-keys",
+        "commit": "eb59e09b2205c22f630f0e22e96f80eca306497e",
+        "committed_date": "2019-12-04T12:13:09.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T16:40:48.779Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "kunlun2",
+        "project_id": 1947,
+        "project_path": "lenovo/kunlun2"
+      },
+      "revision": "eb59e09b2205c22f630f0e22e96f80eca306497e",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/kunlun2/-/tree/eb59e09b2205c22f630f0e22e96f80eca306497e"
+    },
+    {
+      "item_id": "lenovo/kunlun@kunlun-user-8.1.0-OPM1.171019.019-5.0.117_181225-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "kunlun-user-8.1.0-OPM1.171019.019-5.0.117_181225-release-keys",
+        "commit": "174fe68d99002a0c5499b46333c1cb53a3aec3e7",
+        "committed_date": "2019-09-03T20:38:18.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T16:10:44.819Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "kunlun",
+        "project_id": 1928,
+        "project_path": "lenovo/kunlun"
+      },
+      "revision": "174fe68d99002a0c5499b46333c1cb53a3aec3e7",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/kunlun/-/tree/174fe68d99002a0c5499b46333c1cb53a3aec3e7"
+    },
+    {
+      "item_id": "lenovo/lenovo_a6_note@M6206B-user-9-PPR1.180610.011-eng.temp.20190729.232359-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "M6206B-user-9-PPR1.180610.011-eng.temp.20190729.232359-release-keys",
+        "commit": "072556b3ec123fbddd7498395683cf535b3f3ef7",
+        "committed_date": "2019-08-16T15:41:39.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T01:25:27.728Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "lenovo_a6_note",
+        "project_id": 2288,
+        "project_path": "lenovo/lenovo_a6_note"
+      },
+      "revision": "072556b3ec123fbddd7498395683cf535b3f3ef7",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/lenovo_a6_note/-/tree/072556b3ec123fbddd7498395683cf535b3f3ef7"
+    },
+    {
+      "item_id": "lenovo/lenovo_a6_note@M6206B-user-9-PPR1.180610.011-eng.temp.20190817.225742-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "M6206B-user-9-PPR1.180610.011-eng.temp.20190817.225742-release-keys",
+        "commit": "fd70785c3f86a55d9572eba666a18e48bb933239",
+        "committed_date": "2019-08-26T15:26:01.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-17T01:25:27.728Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "lenovo_a6_note",
+        "project_id": 2288,
+        "project_path": "lenovo/lenovo_a6_note"
+      },
+      "revision": "fd70785c3f86a55d9572eba666a18e48bb933239",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/lenovo_a6_note/-/tree/fd70785c3f86a55d9572eba666a18e48bb933239"
+    },
+    {
+      "item_id": "lenovo/lenovo_a6_note@M6206B-user-9-PPR1.180610.011-eng.temp.20191022.144418-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "M6206B-user-9-PPR1.180610.011-eng.temp.20191022.144418-release-keys",
+        "commit": "2f3238c7b74bd450ac14cf5d9e3895fd732ad9b6",
+        "committed_date": "2019-11-07T08:29:12.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-17T01:25:27.728Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "lenovo_a6_note",
+        "project_id": 2288,
+        "project_path": "lenovo/lenovo_a6_note"
+      },
+      "revision": "2f3238c7b74bd450ac14cf5d9e3895fd732ad9b6",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/lenovo_a6_note/-/tree/2f3238c7b74bd450ac14cf5d9e3895fd732ad9b6"
+    },
+    {
+      "item_id": "lenovo/lenovo_a6_note@M6206B-user-9-PPR1.180610.011-eng.temp.20191202.102911-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "M6206B-user-9-PPR1.180610.011-eng.temp.20191202.102911-release-keys",
+        "commit": "e69b633b1d8c03a4ad474194cb5b3dc1673db85e",
+        "committed_date": "2019-12-19T10:05:15.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-17T01:25:27.728Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "lenovo_a6_note",
+        "project_id": 2288,
+        "project_path": "lenovo/lenovo_a6_note"
+      },
+      "revision": "e69b633b1d8c03a4ad474194cb5b3dc1673db85e",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/lenovo_a6_note/-/tree/e69b633b1d8c03a4ad474194cb5b3dc1673db85e"
+    },
+    {
+      "item_id": "lenovo/moba@qssi-user-11-RKQ1.201022.002-12.5.175_210114-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201022.002-12.5.175_210114-release-keys",
+        "commit": "f82570a281244cdacfeec9ca27ed846c1e858924",
+        "committed_date": "2023-10-29T23:47:02.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-10-29T20:54:28.006Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "moba",
+        "project_id": 4390,
+        "project_path": "lenovo/moba"
+      },
+      "revision": "f82570a281244cdacfeec9ca27ed846c1e858924",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/moba/-/tree/f82570a281244cdacfeec9ca27ed846c1e858924"
+    },
+    {
+      "item_id": "lenovo/moba@qssi-user-11-RKQ1.201022.002-12.5.538_220127-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201022.002-12.5.538_220127-release-keys",
+        "commit": "1d3eaf6765e90cbd232466b9d7e3858cbff80cd1",
+        "committed_date": "2023-08-08T14:45:02.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-10-29T20:54:28.006Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "moba",
+        "project_id": 4390,
+        "project_path": "lenovo/moba"
+      },
+      "revision": "1d3eaf6765e90cbd232466b9d7e3858cbff80cd1",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/moba/-/tree/1d3eaf6765e90cbd232466b9d7e3858cbff80cd1"
+    },
+    {
+      "item_id": "lenovo/p11_pro_plus@qssi-user-12-SKQ1.220213.001-14.0.127_221020-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220213.001-14.0.127_221020-release-keys",
+        "commit": "68b4d1df27520a2c7e592df2d7f2e50fb94f85fc",
+        "committed_date": "2023-05-26T16:24:13.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-04-12T10:23:33.150Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "p11_pro_plus",
+        "project_id": 4316,
+        "project_path": "lenovo/p11_pro_plus"
+      },
+      "revision": "68b4d1df27520a2c7e592df2d7f2e50fb94f85fc",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/p11_pro_plus/-/tree/68b4d1df27520a2c7e592df2d7f2e50fb94f85fc"
+    },
+    {
+      "item_id": "lenovo/p11_pro_plus@qssi-user-12-SKQ1.220213.001-14.0.266_230630-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220213.001-14.0.266_230630-release-keys",
+        "commit": "720d99e2bb1553f3bfd67b901637bbca6f50e66a",
+        "committed_date": "2023-09-05T18:41:07.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-04-12T10:23:33.150Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "p11_pro_plus",
+        "project_id": 4316,
+        "project_path": "lenovo/p11_pro_plus"
+      },
+      "revision": "720d99e2bb1553f3bfd67b901637bbca6f50e66a",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/p11_pro_plus/-/tree/720d99e2bb1553f3bfd67b901637bbca6f50e66a"
+    },
+    {
+      "item_id": "lenovo/p11_pro_plus@qssi-user-13-TKQ1.221013.002-TB-J716F_CN_OPEN_USER_Q00126_T_ZUI_15.0.216_ST_231212-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.221013.002-TB-J716F_CN_OPEN_USER_Q00126_T_ZUI_15.0.216_ST_231212-release-keys",
+        "commit": "e095e0f59de1729eb6f6e0504a292893b39b6abf",
+        "committed_date": "2023-12-20T11:29:52.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-04-12T10:23:33.150Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "p11_pro_plus",
+        "project_id": 4316,
+        "project_path": "lenovo/p11_pro_plus"
+      },
+      "revision": "e095e0f59de1729eb6f6e0504a292893b39b6abf",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/p11_pro_plus/-/tree/e095e0f59de1729eb6f6e0504a292893b39b6abf"
+    },
+    {
+      "item_id": "lenovo/p11_pro_plus@qssi-user-13-TKQ1.221013.002-TB-J716F_CN_OPEN_USER_Q00126_T_ZUI_15.0.423_ST_231222-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.221013.002-TB-J716F_CN_OPEN_USER_Q00126_T_ZUI_15.0.423_ST_231222-release-keys",
+        "commit": "6d178bc62ea7807623820bb5c0af1331e5965c95",
+        "committed_date": "2024-01-24T01:48:48.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-04-12T10:23:33.150Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "p11_pro_plus",
+        "project_id": 4316,
+        "project_path": "lenovo/p11_pro_plus"
+      },
+      "revision": "6d178bc62ea7807623820bb5c0af1331e5965c95",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/p11_pro_plus/-/tree/6d178bc62ea7807623820bb5c0af1331e5965c95"
+    },
+    {
+      "item_id": "lenovo/p11_pro_plus@qssi-user-13-TKQ1.221013.002-TB-J716F_CN_OPEN_USER_Q00126_T_ZUI_15.0.485_ST_240205-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.221013.002-TB-J716F_CN_OPEN_USER_Q00126_T_ZUI_15.0.485_ST_240205-release-keys",
+        "commit": "75b978e539c4815a92d91fce8909dc250ac9ae9c",
+        "committed_date": "2024-04-12T13:15:11.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-04-12T10:23:33.150Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "p11_pro_plus",
+        "project_id": 4316,
+        "project_path": "lenovo/p11_pro_plus"
+      },
+      "revision": "75b978e539c4815a92d91fce8909dc250ac9ae9c",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/p11_pro_plus/-/tree/75b978e539c4815a92d91fce8909dc250ac9ae9c"
+    },
+    {
+      "item_id": "lenovo/p2a42@kuntao_row-user-7.0-NRD90N-P2a42_S251_171107_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "kuntao_row-user-7.0-NRD90N-P2a42_S251_171107_ROW-release-keys",
+        "commit": "3846c19b9f07d71bbe5603a58588341e6f63532d",
+        "committed_date": "2019-12-15T22:13:03.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T01:20:21.814Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "p2a42",
+        "project_id": 1480,
+        "project_path": "lenovo/p2a42"
+      },
+      "revision": "3846c19b9f07d71bbe5603a58588341e6f63532d",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/p2a42/-/tree/3846c19b9f07d71bbe5603a58588341e6f63532d"
+    },
+    {
+      "item_id": "lenovo/p89990ja1@qssi-user-13-TKQ1.221013.002-TB128FU_CN_OPEN_USER_Q00126_T_ZUI_15.0.348_ST_230911-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.221013.002-TB128FU_CN_OPEN_USER_Q00126_T_ZUI_15.0.348_ST_230911-release-keys",
+        "commit": "e886f8fbd06c69a2b2ea340d3324ad2029e2d3e0",
+        "committed_date": "2024-11-02T01:04:49.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-11-01T22:00:36.892Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "p89990ja1",
+        "project_id": 5485,
+        "project_path": "lenovo/p89990ja1"
+      },
+      "revision": "e886f8fbd06c69a2b2ea340d3324ad2029e2d3e0",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/p89990ja1/-/tree/e886f8fbd06c69a2b2ea340d3324ad2029e2d3e0"
+    },
+    {
+      "item_id": "lenovo/pb-6505m@P86255AA1-user-9-PKQ1-eng.cibuil.20200221.201404-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "P86255AA1-user-9-PKQ1-eng.cibuil.20200221.201404-release-keys",
+        "commit": "8c701dfd75d205dbe9141c2baa71a7c27adf7170",
+        "committed_date": "2024-01-04T11:28:16.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-01-04T08:26:30.704Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "pb-6505m",
+        "project_id": 4675,
+        "project_path": "lenovo/pb-6505m"
+      },
+      "revision": "8c701dfd75d205dbe9141c2baa71a7c27adf7170",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/pb-6505m/-/tree/8c701dfd75d205dbe9141c2baa71a7c27adf7170"
+    },
+    {
+      "item_id": "lenovo/pb1-750m@msm8916_32-user-6.0.1-MMB29M-eng.wangfan.20170915.115233-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8916_32-user-6.0.1-MMB29M-eng.wangfan.20170915.115233-release-keys",
+        "commit": "3272597f5e2c9fbc32677baff4158b539e0dea92",
+        "committed_date": "2019-08-25T19:03:04.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T14:46:35.722Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "pb1-750m",
+        "project_id": 1836,
+        "project_path": "lenovo/pb1-750m"
+      },
+      "revision": "3272597f5e2c9fbc32677baff4158b539e0dea92",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/pb1-750m/-/tree/3272597f5e2c9fbc32677baff4158b539e0dea92"
+    },
+    {
+      "item_id": "lenovo/pb2-670m1@full_lcsh8783_ttb_m-user-6.0-MRA58K-1523215574-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_lcsh8783_ttb_m-user-6.0-MRA58K-1523215574-release-keys",
+        "commit": "61be515d16003efa983f0e525625991448f0672c",
+        "committed_date": "2019-12-12T15:42:42.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T16:59:19.611Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "pb2-670m1",
+        "project_id": 1212,
+        "project_path": "lenovo/pb2-670m1"
+      },
+      "revision": "61be515d16003efa983f0e525625991448f0672c",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/pb2-670m1/-/tree/61be515d16003efa983f0e525625991448f0672c"
+    },
+    {
+      "item_id": "lenovo/pb2-670m@full_lcsh8783_ttb_m-user-6.0-MRA58K-1508142122-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_lcsh8783_ttb_m-user-6.0-MRA58K-1508142122-release-keys",
+        "commit": "b51f0353f4136b993e126344fc919613663e7574",
+        "committed_date": "2019-12-12T15:43:15.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T00:33:30.630Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "pb2-670m",
+        "project_id": 1434,
+        "project_path": "lenovo/pb2-670m"
+      },
+      "revision": "b51f0353f4136b993e126344fc919613663e7574",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/pb2-670m/-/tree/b51f0353f4136b993e126344fc919613663e7574"
+    },
+    {
+      "item_id": "lenovo/pb2@full_wt98998_lteag-user-6.0-MRA58K-1541066730-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_wt98998_lteag-user-6.0-MRA58K-1541066730-release-keys",
+        "commit": "a65ca011156d29c55cd6a4ea3c12c1a24d07143f",
+        "committed_date": "2019-12-12T15:29:33.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T01:26:52.353Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "pb2",
+        "project_id": 2289,
+        "project_path": "lenovo/pb2"
+      },
+      "revision": "a65ca011156d29c55cd6a4ea3c12c1a24d07143f",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/pb2/-/tree/a65ca011156d29c55cd6a4ea3c12c1a24d07143f"
+    },
+    {
+      "item_id": "lenovo/pb2@full_wt98998_lterow-user-6.0-MRA58K-1541066922-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_wt98998_lterow-user-6.0-MRA58K-1541066922-release-keys",
+        "commit": "c5bf1fcb4654ca7d6a624c6d402ab8b7b89649d9",
+        "committed_date": "2019-12-12T15:20:51.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-17T01:26:52.353Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "pb2",
+        "project_id": 2289,
+        "project_path": "lenovo/pb2"
+      },
+      "revision": "c5bf1fcb4654ca7d6a624c6d402ab8b7b89649d9",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/pb2/-/tree/c5bf1fcb4654ca7d6a624c6d402ab8b7b89649d9"
+    },
+    {
+      "item_id": "lenovo/q706f@qssi-user-11-RKQ1.210614.002-TB-Q706F_USR_S211043_2111300010_Q00243_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210614.002-TB-Q706F_USR_S211043_2111300010_Q00243_ROW-release-keys",
+        "commit": "1b544ddd044921e3a74d7d13e5b1533a743fa3ad",
+        "committed_date": "2021-12-21T18:41:09.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-12-09T00:01:17.755Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "q706f",
+        "project_id": 770,
+        "project_path": "lenovo/q706f"
+      },
+      "revision": "1b544ddd044921e3a74d7d13e5b1533a743fa3ad",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/q706f/-/tree/1b544ddd044921e3a74d7d13e5b1533a743fa3ad"
+    },
+    {
+      "item_id": "lenovo/q706f@qssi-user-11-RKQ1.210614.002-TB-Q706F_USR_S212017_2112310943_Q00243_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210614.002-TB-Q706F_USR_S212017_2112310943_Q00243_ROW-release-keys",
+        "commit": "f9e9b0574bac7f0270d2709ef141e1d0497ce384",
+        "committed_date": "2022-02-03T12:06:03.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-12-09T00:01:17.755Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "q706f",
+        "project_id": 770,
+        "project_path": "lenovo/q706f"
+      },
+      "revision": "f9e9b0574bac7f0270d2709ef141e1d0497ce384",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/q706f/-/tree/f9e9b0574bac7f0270d2709ef141e1d0497ce384"
+    },
+    {
+      "item_id": "lenovo/q706f@qssi-user-13-TKQ1.221013.002-TB-Q706F_USR_S530113_2311161054_Q00050_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.221013.002-TB-Q706F_USR_S530113_2311161054_Q00050_ROW-release-keys",
+        "commit": "c555faeb899d4cbcc56e5834eba83ee2f08d12a5",
+        "committed_date": "2023-12-09T02:52:13.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-12-09T00:01:17.755Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "q706f",
+        "project_id": 770,
+        "project_path": "lenovo/q706f"
+      },
+      "revision": "c555faeb899d4cbcc56e5834eba83ee2f08d12a5",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/q706f/-/tree/c555faeb899d4cbcc56e5834eba83ee2f08d12a5"
+    },
+    {
+      "item_id": "lenovo/q706z@qssi-user-13-TKQ1.221013.002-TB-Q706Z_USR_S530105_2311161556_Q00050_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.221013.002-TB-Q706Z_USR_S530105_2311161556_Q00050_ROW-release-keys",
+        "commit": "0fa5941736b3a07be25bb4f33a0452ceb2324915",
+        "committed_date": "2023-12-09T02:30:16.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-12-08T23:26:36.550Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "q706z",
+        "project_id": 4654,
+        "project_path": "lenovo/q706z"
+      },
+      "revision": "0fa5941736b3a07be25bb4f33a0452ceb2324915",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/q706z/-/tree/0fa5941736b3a07be25bb4f33a0452ceb2324915"
+    },
+    {
+      "item_id": "lenovo/s1la40@hq6753_65u_b1o_l1-user-5.1-LMY47D-1457515990-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "hq6753_65u_b1o_l1-user-5.1-LMY47D-1457515990-release-keys",
+        "commit": "d468807ba543507829baf7231f29c15f81555b01",
+        "committed_date": "2019-08-25T18:45:48.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T18:36:00.906Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "s1la40",
+        "project_id": 2039,
+        "project_path": "lenovo/s1la40"
+      },
+      "revision": "d468807ba543507829baf7231f29c15f81555b01",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/s1la40/-/tree/d468807ba543507829baf7231f29c15f81555b01"
+    },
+    {
+      "item_id": "lenovo/sprout@sprout-user-9-PKQ1.190127.001-11.1.099_191008-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sprout-user-9-PKQ1.190127.001-11.1.099_191008-release-keys",
+        "commit": "a4ecc166c42b0614b13bc2e232b204f709063e21",
+        "committed_date": "2019-11-12T17:41:45.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T15:59:12.616Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "sprout",
+        "project_id": 1916,
+        "project_path": "lenovo/sprout"
+      },
+      "revision": "a4ecc166c42b0614b13bc2e232b204f709063e21",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/sprout/-/tree/a4ecc166c42b0614b13bc2e232b204f709063e21"
+    },
+    {
+      "item_id": "lenovo/sprout_plus@sprout_plus-user-9-PKQ1.190127.001-11.1.077_191008-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sprout_plus-user-9-PKQ1.190127.001-11.1.077_191008-release-keys",
+        "commit": "dd352618efc77938429672b129344ab1db704868",
+        "committed_date": "2019-11-12T17:23:09.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T09:42:25.077Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "sprout_plus",
+        "project_id": 1669,
+        "project_path": "lenovo/sprout_plus"
+      },
+      "revision": "dd352618efc77938429672b129344ab1db704868",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/sprout_plus/-/tree/dd352618efc77938429672b129344ab1db704868"
+    },
+    {
+      "item_id": "lenovo/tb-7304f@TB-7304F_RF01_171019-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "TB-7304F_RF01_171019-release-keys",
+        "commit": "619a0df986b0b396f73da65049edfc8d596b97f5",
+        "committed_date": "2022-12-15T07:33:19.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-12-15T04:37:36.573Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb-7304f",
+        "project_id": 1809,
+        "project_path": "lenovo/tb-7304f"
+      },
+      "revision": "619a0df986b0b396f73da65049edfc8d596b97f5",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb-7304f/-/tree/619a0df986b0b396f73da65049edfc8d596b97f5"
+    },
+    {
+      "item_id": "lenovo/tb-7304f@TB-7304F_RF01_190528-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "TB-7304F_RF01_190528-release-keys",
+        "commit": "7dedb491ab82d8326c043adc19419a1305644a1b",
+        "committed_date": "2020-12-01T07:35:39.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-12-15T04:37:36.573Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb-7304f",
+        "project_id": 1809,
+        "project_path": "lenovo/tb-7304f"
+      },
+      "revision": "7dedb491ab82d8326c043adc19419a1305644a1b",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb-7304f/-/tree/7dedb491ab82d8326c043adc19419a1305644a1b"
+    },
+    {
+      "item_id": "lenovo/tb-7304f@TB-7304F_RF01_191021-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "TB-7304F_RF01_191021-release-keys",
+        "commit": "8fc065884ae1b7786d1afabfd199dcbbe2bbc895",
+        "committed_date": "2020-12-01T08:06:13.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-12-15T04:37:36.573Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb-7304f",
+        "project_id": 1809,
+        "project_path": "lenovo/tb-7304f"
+      },
+      "revision": "8fc065884ae1b7786d1afabfd199dcbbe2bbc895",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb-7304f/-/tree/8fc065884ae1b7786d1afabfd199dcbbe2bbc895"
+    },
+    {
+      "item_id": "lenovo/tb-7304f@TB-7304F_RF01_200102-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "TB-7304F_RF01_200102-release-keys",
+        "commit": "b0a272610495907f7a68ef04778e35620de07678",
+        "committed_date": "2020-12-01T08:05:51.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-12-15T04:37:36.573Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb-7304f",
+        "project_id": 1809,
+        "project_path": "lenovo/tb-7304f"
+      },
+      "revision": "b0a272610495907f7a68ef04778e35620de07678",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb-7304f/-/tree/b0a272610495907f7a68ef04778e35620de07678"
+    },
+    {
+      "item_id": "lenovo/tb-7504f@wt98997_wifirow-user-7.0-NRD90M-1534993220-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "wt98997_wifirow-user-7.0-NRD90M-1534993220-release-keys",
+        "commit": "e96871dae063989c0f0c28a31919cee46a64af0c",
+        "committed_date": "2019-12-12T15:55:42.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T10:12:30.799Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb-7504f",
+        "project_id": 1702,
+        "project_path": "lenovo/tb-7504f"
+      },
+      "revision": "e96871dae063989c0f0c28a31919cee46a64af0c",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb-7504f/-/tree/e96871dae063989c0f0c28a31919cee46a64af0c"
+    },
+    {
+      "item_id": "lenovo/tb-7504f@wt98997_wifirowCDP-userdebug-7.0-NRD90M-1530081198-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "wt98997_wifirowCDP-userdebug-7.0-NRD90M-1530081198-release-keys",
+        "commit": "97cc7fadcf9f6e4f54603f5f084e0ae5160360df",
+        "committed_date": "2019-12-12T15:56:46.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T10:12:30.799Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb-7504f",
+        "project_id": 1702,
+        "project_path": "lenovo/tb-7504f"
+      },
+      "revision": "97cc7fadcf9f6e4f54603f5f084e0ae5160360df",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb-7504f/-/tree/97cc7fadcf9f6e4f54603f5f084e0ae5160360df"
+    },
+    {
+      "item_id": "lenovo/tb-8704v@msm8953_64-user-7.1.1-NMF26F-680-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8953_64-user-7.1.1-NMF26F-680-release-keys",
+        "commit": "8b59e645c73c93becb1fe1799f40f00d2b177169",
+        "committed_date": "2019-12-16T11:22:00.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T23:03:28.673Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb-8704v",
+        "project_id": 2187,
+        "project_path": "lenovo/tb-8704v"
+      },
+      "revision": "8b59e645c73c93becb1fe1799f40f00d2b177169",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb-8704v/-/tree/8b59e645c73c93becb1fe1799f40f00d2b177169"
+    },
+    {
+      "item_id": "lenovo/tb-8704x@msm8953_64-user-7.1.1-NMF26F-513-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8953_64-user-7.1.1-NMF26F-513-release-keys",
+        "commit": "ff64d99f55702d321d8641ac7cc387bf6302b78f",
+        "committed_date": "2019-12-15T22:11:49.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T18:30:40.836Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb-8704x",
+        "project_id": 1249,
+        "project_path": "lenovo/tb-8704x"
+      },
+      "revision": "ff64d99f55702d321d8641ac7cc387bf6302b78f",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb-8704x/-/tree/ff64d99f55702d321d8641ac7cc387bf6302b78f"
+    },
+    {
+      "item_id": "lenovo/tb-8704x@msm8953_64-user-8.1.0-OPM1.171019.019-1029-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8953_64-user-8.1.0-OPM1.171019.019-1029-release-keys",
+        "commit": "f8002244acc9b9d6904395af03afb57b1cfbd43e",
+        "committed_date": "2019-12-16T11:32:41.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T18:30:40.836Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb-8704x",
+        "project_id": 1249,
+        "project_path": "lenovo/tb-8704x"
+      },
+      "revision": "f8002244acc9b9d6904395af03afb57b1cfbd43e",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb-8704x/-/tree/f8002244acc9b9d6904395af03afb57b1cfbd43e"
+    },
+    {
+      "item_id": "lenovo/tb-x505f@msm8937_64-user-9-PKQ1.181218.001-255-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_64-user-9-PKQ1.181218.001-255-release-keys",
+        "commit": "d63aa7b4f628ff0a3346d6db09485fb24c6f5c15",
+        "committed_date": "2019-12-18T08:52:22.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T12:36:35.966Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb-x505f",
+        "project_id": 994,
+        "project_path": "lenovo/tb-x505f"
+      },
+      "revision": "d63aa7b4f628ff0a3346d6db09485fb24c6f5c15",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb-x505f/-/tree/d63aa7b4f628ff0a3346d6db09485fb24c6f5c15"
+    },
+    {
+      "item_id": "lenovo/tb-x505l@msm8937_64-user-9-PKQ1.181218.001-257-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_64-user-9-PKQ1.181218.001-257-release-keys",
+        "commit": "cd906cb3bfde8845598a6b8820eee6dffa9087b2",
+        "committed_date": "2019-12-17T08:58:05.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T11:36:07.206Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb-x505l",
+        "project_id": 1732,
+        "project_path": "lenovo/tb-x505l"
+      },
+      "revision": "cd906cb3bfde8845598a6b8820eee6dffa9087b2",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb-x505l/-/tree/cd906cb3bfde8845598a6b8820eee6dffa9087b2"
+    },
+    {
+      "item_id": "lenovo/tb-x505x@msm8937_64-user-10-QKQ1.191224.003-X505X_S001148_220902_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_64-user-10-QKQ1.191224.003-X505X_S001148_220902_ROW-release-keys",
+        "commit": "710d3fab8d8f4b0eacaa867c973d70a1dcc6fca9",
+        "committed_date": "2022-11-26T06:11:45.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-11-26T03:09:26.699Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb-x505x",
+        "project_id": 3963,
+        "project_path": "lenovo/tb-x505x"
+      },
+      "revision": "710d3fab8d8f4b0eacaa867c973d70a1dcc6fca9",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb-x505x/-/tree/710d3fab8d8f4b0eacaa867c973d70a1dcc6fca9"
+    },
+    {
+      "item_id": "lenovo/tb-x605fc@hq_sdm450-user-9-PKQ1.181203.001-377-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "hq_sdm450-user-9-PKQ1.181203.001-377-release-keys",
+        "commit": "72980cfb5d7605f603fb0c4884b8d031cde5da66",
+        "committed_date": "2019-12-12T15:10:44.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T19:53:38.196Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb-x605fc",
+        "project_id": 2104,
+        "project_path": "lenovo/tb-x605fc"
+      },
+      "revision": "72980cfb5d7605f603fb0c4884b8d031cde5da66",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb-x605fc/-/tree/72980cfb5d7605f603fb0c4884b8d031cde5da66"
+    },
+    {
+      "item_id": "lenovo/tb125fu@full_P98980AA1-user-12-SP1A.210812.016-TB125FU_USR_S000070_2206081450_MP1RC_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_P98980AA1-user-12-SP1A.210812.016-TB125FU_USR_S000070_2206081450_MP1RC_ROW-release-keys",
+        "commit": "4a7bb7ab5e8ecf41e8f46a6d41bc6d107621d26c",
+        "committed_date": "2022-09-13T15:48:59.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-09-13T12:46:32.520Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb125fu",
+        "project_id": 2424,
+        "project_path": "lenovo/tb125fu"
+      },
+      "revision": "4a7bb7ab5e8ecf41e8f46a6d41bc6d107621d26c",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb125fu/-/tree/4a7bb7ab5e8ecf41e8f46a6d41bc6d107621d26c"
+    },
+    {
+      "item_id": "lenovo/tb132fu@sys_mssi_t_64_cn_armv82_wifi-user-14-UP1A.231005.007-TB132FU_S340047_241204_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_t_64_cn_armv82_wifi-user-14-UP1A.231005.007-TB132FU_S340047_241204_ROW-release-keys",
+        "commit": "60cf90b182de165b2df82edd7dff8d0dd37f1260",
+        "committed_date": "2025-04-03T21:21:17.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-04-03T18:17:08.296Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb132fu",
+        "project_id": 5617,
+        "project_path": "lenovo/tb132fu"
+      },
+      "revision": "60cf90b182de165b2df82edd7dff8d0dd37f1260",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb132fu/-/tree/60cf90b182de165b2df82edd7dff8d0dd37f1260"
+    },
+    {
+      "item_id": "lenovo/tb2-x30l@msm8909-user-6.0.1-LenovoTB2-X30L-TB2-X30L_S000103_170524_IN-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8909-user-6.0.1-LenovoTB2-X30L-TB2-X30L_S000103_170524_IN-release-keys",
+        "commit": "6a7b9b2afb93c10d307cf06975e4360366b7c709",
+        "committed_date": "2019-12-15T22:08:12.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T19:52:33.745Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb2-x30l",
+        "project_id": 2103,
+        "project_path": "lenovo/tb2-x30l"
+      },
+      "revision": "6a7b9b2afb93c10d307cf06975e4360366b7c709",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb2-x30l/-/tree/6a7b9b2afb93c10d307cf06975e4360366b7c709"
+    },
+    {
+      "item_id": "lenovo/tb3-730x@full_wt98999_lterowea2-user-6.0-MRA58K-1467636839-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_wt98999_lterowea2-user-6.0-MRA58K-1467636839-release-keys",
+        "commit": "5cc58af124d2f96943ce60edc849a09e6c476c5b",
+        "committed_date": "2019-12-12T15:10:00.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T15:20:01.075Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb3-730x",
+        "project_id": 1870,
+        "project_path": "lenovo/tb3-730x"
+      },
+      "revision": "5cc58af124d2f96943ce60edc849a09e6c476c5b",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb3-730x/-/tree/5cc58af124d2f96943ce60edc849a09e6c476c5b"
+    },
+    {
+      "item_id": "lenovo/tb3-850f@full_lcsh8735m_6_co-user-6.0-MRA58K-1507635241-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_lcsh8735m_6_co-user-6.0-MRA58K-1507635241-release-keys",
+        "commit": "9cd4eccfef8bd027edeb4f59650f61ef760a343f",
+        "committed_date": "2019-12-12T15:11:39.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T15:19:10.880Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb3-850f",
+        "project_id": 1869,
+        "project_path": "lenovo/tb3-850f"
+      },
+      "revision": "9cd4eccfef8bd027edeb4f59650f61ef760a343f",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb3-850f/-/tree/9cd4eccfef8bd027edeb4f59650f61ef760a343f"
+    },
+    {
+      "item_id": "lenovo/tb3-850m@full_lcsh8735m_6_co-user-6.0-MRA58K-1482733536-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_lcsh8735m_6_co-user-6.0-MRA58K-1482733536-release-keys",
+        "commit": "137ab9437e06fabfaec0a29e3adbd18a7df6b5c3",
+        "committed_date": "2020-01-18T02:26:42.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T11:44:42.642Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb3-850m",
+        "project_id": 1739,
+        "project_path": "lenovo/tb3-850m"
+      },
+      "revision": "137ab9437e06fabfaec0a29e3adbd18a7df6b5c3",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb3-850m/-/tree/137ab9437e06fabfaec0a29e3adbd18a7df6b5c3"
+    },
+    {
+      "item_id": "lenovo/tb3-x70f@full_hq8735_6ttb_b2b_m-user-6.0-MRA58K-1515397968-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_hq8735_6ttb_b2b_m-user-6.0-MRA58K-1515397968-release-keys",
+        "commit": "46520f5a0299f80db8060ba6daa50efe620e22da",
+        "committed_date": "2019-12-12T15:19:35.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T10:11:09.436Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb3-x70f",
+        "project_id": 1700,
+        "project_path": "lenovo/tb3-x70f"
+      },
+      "revision": "46520f5a0299f80db8060ba6daa50efe620e22da",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb3-x70f/-/tree/46520f5a0299f80db8060ba6daa50efe620e22da"
+    },
+    {
+      "item_id": "lenovo/tb3-x70f@full_hq8735_6ttb_b2b_m-user-6.0-MRA58K-1522054922-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_hq8735_6ttb_b2b_m-user-6.0-MRA58K-1522054922-release-keys",
+        "commit": "3b8ae00d2e5e6ee160a748f5b48eed6b956ec401",
+        "committed_date": "2019-12-12T15:17:42.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T10:11:09.436Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb3-x70f",
+        "project_id": 1700,
+        "project_path": "lenovo/tb3-x70f"
+      },
+      "revision": "3b8ae00d2e5e6ee160a748f5b48eed6b956ec401",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb3-x70f/-/tree/3b8ae00d2e5e6ee160a748f5b48eed6b956ec401"
+    },
+    {
+      "item_id": "lenovo/tb3-x70l@full_hq8735_6t_b2b-user-6.0-MRA58K-1516085765-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_hq8735_6t_b2b-user-6.0-MRA58K-1516085765-release-keys",
+        "commit": "d6af9815f0ed30b00e7e905d716895d566df052e",
+        "committed_date": "2019-12-12T15:29:06.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T14:51:47.324Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb3-x70l",
+        "project_id": 1843,
+        "project_path": "lenovo/tb3-x70l"
+      },
+      "revision": "d6af9815f0ed30b00e7e905d716895d566df052e",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb3-x70l/-/tree/d6af9815f0ed30b00e7e905d716895d566df052e"
+    },
+    {
+      "item_id": "lenovo/tb3-x70l@full_hq8735_6t_b2b-user-6.0-MRA58K-1522046782-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_hq8735_6t_b2b-user-6.0-MRA58K-1522046782-release-keys",
+        "commit": "a46673e052469f3bc0e5666a4ed4442f51b18c91",
+        "committed_date": "2019-12-12T15:26:16.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T14:51:47.324Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb3-x70l",
+        "project_id": 1843,
+        "project_path": "lenovo/tb3-x70l"
+      },
+      "revision": "a46673e052469f3bc0e5666a4ed4442f51b18c91",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb3-x70l/-/tree/a46673e052469f3bc0e5666a4ed4442f51b18c91"
+    },
+    {
+      "item_id": "lenovo/tb301xu@sys_mssi_tc423_64-user-13-TP1A.220624.014-08300053-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_tc423_64-user-13-TP1A.220624.014-08300053-release-keys",
+        "commit": "f4b49d038d37d3464ce1fbb04bff4281b3e3ad60",
+        "committed_date": "2024-01-09T12:59:48.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-01-09T09:57:16.994Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb301xu",
+        "project_id": 4680,
+        "project_path": "lenovo/tb301xu"
+      },
+      "revision": "f4b49d038d37d3464ce1fbb04bff4281b3e3ad60",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb301xu/-/tree/f4b49d038d37d3464ce1fbb04bff4281b3e3ad60"
+    },
+    {
+      "item_id": "lenovo/tb310fu@TB310FU-user-12-SP1A.210812.016-TB310FU_USR_S000510_2212082122_mp1V1457_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "TB310FU-user-12-SP1A.210812.016-TB310FU_USR_S000510_2212082122_mp1V1457_ROW-release-keys",
+        "commit": "c62472e75bc295ac749b143dbf8c2f156328bf78",
+        "committed_date": "2022-12-20T01:39:50.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-07-24T10:49:42.899Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb310fu",
+        "project_id": 4001,
+        "project_path": "lenovo/tb310fu"
+      },
+      "revision": "c62472e75bc295ac749b143dbf8c2f156328bf78",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb310fu/-/tree/c62472e75bc295ac749b143dbf8c2f156328bf78"
+    },
+    {
+      "item_id": "lenovo/tb310fu@TB310FU-user-13-TP1A.220624.014-TB310FU_USR_S000880_2405061557_mp1V969_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "TB310FU-user-13-TP1A.220624.014-TB310FU_USR_S000880_2405061557_mp1V969_ROW-release-keys",
+        "commit": "e411aedbdc12408ff34cae9fabbc1aa73e428618",
+        "committed_date": "2024-07-24T13:41:21.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-07-24T10:49:42.899Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb310fu",
+        "project_id": 4001,
+        "project_path": "lenovo/tb310fu"
+      },
+      "revision": "e411aedbdc12408ff34cae9fabbc1aa73e428618",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb310fu/-/tree/e411aedbdc12408ff34cae9fabbc1aa73e428618"
+    },
+    {
+      "item_id": "lenovo/tb321fu@TB321FU-user-15-AQ3A.240912.001-150-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "TB321FU-user-15-AQ3A.240912.001-150-release-keys",
+        "commit": "66844cbf0f9cf8170f476c41af499ad955b1a0f4",
+        "committed_date": "2025-04-12T09:25:34.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-12-02T20:02:56.510Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb321fu",
+        "project_id": 5610,
+        "project_path": "lenovo/tb321fu"
+      },
+      "revision": "66844cbf0f9cf8170f476c41af499ad955b1a0f4",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb321fu/-/tree/66844cbf0f9cf8170f476c41af499ad955b1a0f4"
+    },
+    {
+      "item_id": "lenovo/tb321fu@TB321FU-user-15-AQ3A.240912.001-19-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "TB321FU-user-15-AQ3A.240912.001-19-release-keys",
+        "commit": "970cba3cb751041163261b251abafe56eeb4f370",
+        "committed_date": "2025-03-26T13:08:20.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-12-02T20:02:56.510Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb321fu",
+        "project_id": 5610,
+        "project_path": "lenovo/tb321fu"
+      },
+      "revision": "970cba3cb751041163261b251abafe56eeb4f370",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb321fu/-/tree/970cba3cb751041163261b251abafe56eeb4f370"
+    },
+    {
+      "item_id": "lenovo/tb321fu@TB321FU-user-15-AQ3A.240912.001-32-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "TB321FU-user-15-AQ3A.240912.001-32-release-keys",
+        "commit": "a3f8db39dc9d2d7c26e622e28ddcea6b8833d9d9",
+        "committed_date": "2025-05-07T16:30:29.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-12-02T20:02:56.510Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb321fu",
+        "project_id": 5610,
+        "project_path": "lenovo/tb321fu"
+      },
+      "revision": "a3f8db39dc9d2d7c26e622e28ddcea6b8833d9d9",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb321fu/-/tree/a3f8db39dc9d2d7c26e622e28ddcea6b8833d9d9"
+    },
+    {
+      "item_id": "lenovo/tb321fu@TB321FU-user-16-BQ2A.250610.001-BP2A.250605.031.A3-2351-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "TB321FU-user-16-BQ2A.250610.001-BP2A.250605.031.A3-2351-release-keys",
+        "commit": "f55a3dd6b3b223a06c02c24072ff2f639e4e4f3f",
+        "committed_date": "2025-12-02T22:48:39.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-12-02T20:02:56.510Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb321fu",
+        "project_id": 5610,
+        "project_path": "lenovo/tb321fu"
+      },
+      "revision": "f55a3dd6b3b223a06c02c24072ff2f639e4e4f3f",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb321fu/-/tree/f55a3dd6b3b223a06c02c24072ff2f639e4e4f3f"
+    },
+    {
+      "item_id": "lenovo/tb322fc@TB322FC-user-16-BQ2A.250610.001-BP2A.250605.031.A3-eng.builds-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "TB322FC-user-16-BQ2A.250610.001-BP2A.250605.031.A3-eng.builds-release-keys",
+        "commit": "ff5746c28c154bedbf99221aaabe4ff2b01f98f9",
+        "committed_date": "2025-12-14T12:42:39.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-12-14T09:26:51.749Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb322fc",
+        "project_id": 5718,
+        "project_path": "lenovo/tb322fc"
+      },
+      "revision": "ff5746c28c154bedbf99221aaabe4ff2b01f98f9",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb322fc/-/tree/ff5746c28c154bedbf99221aaabe4ff2b01f98f9"
+    },
+    {
+      "item_id": "lenovo/tb323fu@TB323FU-user-17-CQ2A.260712.001-165-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "TB323FU-user-17-CQ2A.260712.001-165-release-keys",
+        "commit": "d50a687a341ecae57ae8736141e42c763e76ccf8",
+        "committed_date": "2026-09-30T15:40:17.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-09-30T12:28:32.781Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb323fu",
+        "project_id": 5842,
+        "project_path": "lenovo/tb323fu"
+      },
+      "revision": "d50a687a341ecae57ae8736141e42c763e76ccf8",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb323fu/-/tree/d50a687a341ecae57ae8736141e42c763e76ccf8"
+    },
+    {
+      "item_id": "lenovo/tb328xu@ums512_1h10_Natv_Tablet-user-12-SP1A.210812.016-TB328XU_S200175_241104_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ums512_1h10_Natv_Tablet-user-12-SP1A.210812.016-TB328XU_S200175_241104_ROW-release-keys",
+        "commit": "69467bf30cb15e415df4ecfc28dcec72fa4760b5",
+        "committed_date": "2025-02-02T01:52:16.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-06-03T12:07:52.287Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb328xu",
+        "project_id": 5559,
+        "project_path": "lenovo/tb328xu"
+      },
+      "revision": "69467bf30cb15e415df4ecfc28dcec72fa4760b5",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb328xu/-/tree/69467bf30cb15e415df4ecfc28dcec72fa4760b5"
+    },
+    {
+      "item_id": "lenovo/tb328xu@ums512_1h10_Natv_Tablet-user-12-SP1A.210812.016-TB328XU_S200183_250208_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ums512_1h10_Natv_Tablet-user-12-SP1A.210812.016-TB328XU_S200183_250208_ROW-release-keys",
+        "commit": "54a05e2682a11ee690f2b7aa2ce51b02d249f6e5",
+        "committed_date": "2025-06-03T14:59:46.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-06-03T12:07:52.287Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb328xu",
+        "project_id": 5559,
+        "project_path": "lenovo/tb328xu"
+      },
+      "revision": "54a05e2682a11ee690f2b7aa2ce51b02d249f6e5",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb328xu/-/tree/54a05e2682a11ee690f2b7aa2ce51b02d249f6e5"
+    },
+    {
+      "item_id": "lenovo/tb330fu@sys_mssi_t_64_cn_wifi-user-13-TQ1A.230105.002-50-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_t_64_cn_wifi-user-13-TQ1A.230105.002-50-release-keys",
+        "commit": "bd4d0040e3973af66dc1ba7fbd6674d86883c8bb",
+        "committed_date": "2024-12-03T11:14:15.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-12-03T08:25:37.829Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb330fu",
+        "project_id": 5330,
+        "project_path": "lenovo/tb330fu"
+      },
+      "revision": "bd4d0040e3973af66dc1ba7fbd6674d86883c8bb",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb330fu/-/tree/bd4d0040e3973af66dc1ba7fbd6674d86883c8bb"
+    },
+    {
+      "item_id": "lenovo/tb330fu@sys_mssi_t_64_cn_wifi-user-14-UP1A.231005.007-30-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_t_64_cn_wifi-user-14-UP1A.231005.007-30-release-keys",
+        "commit": "7f5976f7c164cef7fc899d6c882fd5a2d0a25df4",
+        "committed_date": "2024-07-10T20:22:50.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-12-03T08:25:37.829Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb330fu",
+        "project_id": 5330,
+        "project_path": "lenovo/tb330fu"
+      },
+      "revision": "7f5976f7c164cef7fc899d6c882fd5a2d0a25df4",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb330fu/-/tree/7f5976f7c164cef7fc899d6c882fd5a2d0a25df4"
+    },
+    {
+      "item_id": "lenovo/tb330xc@sys_mssi_t_64_cn-userdebug-13-TQ1A.230105.002-132-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_t_64_cn-userdebug-13-TQ1A.230105.002-132-test-keys",
+        "commit": "9aefd513c90f913280cf6ce84b8e1e4d363879d6",
+        "committed_date": "2024-10-18T01:02:14.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-17T21:47:50.943Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb330xc",
+        "project_id": 5460,
+        "project_path": "lenovo/tb330xc"
+      },
+      "revision": "9aefd513c90f913280cf6ce84b8e1e4d363879d6",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb330xc/-/tree/9aefd513c90f913280cf6ce84b8e1e4d363879d6"
+    },
+    {
+      "item_id": "lenovo/tb330xu@sys_mssi_t_64_cn-user-13-TQ1A.230105.002-195-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_t_64_cn-user-13-TQ1A.230105.002-195-release-keys",
+        "commit": "47f08786ea63c84c50012cd6e5c3afa01e963382",
+        "committed_date": "2024-07-10T19:53:51.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-07-10T17:05:31.334Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb330xu",
+        "project_id": 4679,
+        "project_path": "lenovo/tb330xu"
+      },
+      "revision": "47f08786ea63c84c50012cd6e5c3afa01e963382",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb330xu/-/tree/47f08786ea63c84c50012cd6e5c3afa01e963382"
+    },
+    {
+      "item_id": "lenovo/tb330xu@sys_mssi_t_64_cn-user-13-TQ1A.230105.002-44-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_t_64_cn-user-13-TQ1A.230105.002-44-release-keys",
+        "commit": "1698b85fab7a5c042671f60c2282f60663ad3c16",
+        "committed_date": "2024-01-09T12:43:20.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-07-10T17:05:31.334Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb330xu",
+        "project_id": 4679,
+        "project_path": "lenovo/tb330xu"
+      },
+      "revision": "1698b85fab7a5c042671f60c2282f60663ad3c16",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb330xu/-/tree/1698b85fab7a5c042671f60c2282f60663ad3c16"
+    },
+    {
+      "item_id": "lenovo/tb336fu@TB336FU-user-16-BP2A.250605.031.A3-85-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "TB336FU-user-16-BP2A.250605.031.A3-85-release-keys",
+        "commit": "c1d1503e6f02eb62021902fc599ba68f304b97d0",
+        "committed_date": "2026-01-17T22:33:40.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-01-17T19:24:31.471Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb336fu",
+        "project_id": 5736,
+        "project_path": "lenovo/tb336fu"
+      },
+      "revision": "c1d1503e6f02eb62021902fc599ba68f304b97d0",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb336fu/-/tree/c1d1503e6f02eb62021902fc599ba68f304b97d0"
+    },
+    {
+      "item_id": "lenovo/tb370fu@sys_mssi_t_64_cn_armv82_wifi-user-13-TP1A.220624.014-125-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_t_64_cn_armv82_wifi-user-13-TP1A.220624.014-125-release-keys",
+        "commit": "66f93d5a3eb4c000e2c9619f0bc32d7bb6666a47",
+        "committed_date": "2023-07-11T17:33:26.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-07-11T14:29:22.050Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb370fu",
+        "project_id": 4354,
+        "project_path": "lenovo/tb370fu"
+      },
+      "revision": "66f93d5a3eb4c000e2c9619f0bc32d7bb6666a47",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb370fu/-/tree/66f93d5a3eb4c000e2c9619f0bc32d7bb6666a47"
+    },
+    {
+      "item_id": "lenovo/tb371fc@TB371FC-user-13-TKQ1.221013.002-TB371FC_CN_OPEN_USER_Q00028.1_T_ZUI_15.0.154_DEV_230507-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "TB371FC-user-13-TKQ1.221013.002-TB371FC_CN_OPEN_USER_Q00028.1_T_ZUI_15.0.154_DEV_230507-release-keys",
+        "commit": "01df2283e61cba2eb2cc14c30f9835455680127b",
+        "committed_date": "2023-07-11T17:54:24.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-07-11T14:50:01.887Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb371fc",
+        "project_id": 4356,
+        "project_path": "lenovo/tb371fc"
+      },
+      "revision": "01df2283e61cba2eb2cc14c30f9835455680127b",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb371fc/-/tree/01df2283e61cba2eb2cc14c30f9835455680127b"
+    },
+    {
+      "item_id": "lenovo/tb520fu@TB520FU-user-16-BQ2A.250610.001-BP2A.250605.031.A3-51-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "TB520FU-user-16-BQ2A.250610.001-BP2A.250605.031.A3-51-release-keys",
+        "commit": "9d1ea422f0ab22bed5914a2776fa8d43f206de75",
+        "committed_date": "2026-01-15T18:02:29.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-01-15T14:44:14.400Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb520fu",
+        "project_id": 5735,
+        "project_path": "lenovo/tb520fu"
+      },
+      "revision": "9d1ea422f0ab22bed5914a2776fa8d43f206de75",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb520fu/-/tree/9d1ea422f0ab22bed5914a2776fa8d43f206de75"
+    },
+    {
+      "item_id": "lenovo/tb570fu@sys_mssi_t_64_cn_armv82_wifi-user-13-TP1A.220624.014-mp1V5-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_t_64_cn_armv82_wifi-user-13-TP1A.220624.014-mp1V5-release-keys",
+        "commit": "b26d4fc851ad17dd72ecce1718ab7557f7ed466d",
+        "committed_date": "2023-05-12T06:09:10.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-05-12T03:04:20.451Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "tb570fu",
+        "project_id": 4292,
+        "project_path": "lenovo/tb570fu"
+      },
+      "revision": "b26d4fc851ad17dd72ecce1718ab7557f7ed466d",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/tb570fu/-/tree/b26d4fc851ad17dd72ecce1718ab7557f7ed466d"
+    },
+    {
+      "item_id": "lenovo/vega@full_achilles6_row_call-userdebug-9-PPR1.180610.011-eng.wangmm-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_achilles6_row_call-userdebug-9-PPR1.180610.011-eng.wangmm-test-keys",
+        "commit": "db3fb42abb4cf7ae17b5cb715a28bcd995f02800",
+        "committed_date": "2019-11-12T14:05:25.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T15:54:27.347Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "vega",
+        "project_id": 1910,
+        "project_path": "lenovo/vega"
+      },
+      "revision": "db3fb42abb4cf7ae17b5cb715a28bcd995f02800",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/vega/-/tree/db3fb42abb4cf7ae17b5cb715a28bcd995f02800"
+    },
+    {
+      "item_id": "lenovo/walnut@full_Walnut-user-10-QP1A.190711.020-mp3V324-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_Walnut-user-10-QP1A.190711.020-mp3V324-release-keys",
+        "commit": "74c9bb685d228cf40bb49e8a646499bea26eee9b",
+        "committed_date": "2021-08-13T01:05:22.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-11-08T03:54:54.259Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "walnut",
+        "project_id": 858,
+        "project_path": "lenovo/walnut"
+      },
+      "revision": "74c9bb685d228cf40bb49e8a646499bea26eee9b",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/walnut/-/tree/74c9bb685d228cf40bb49e8a646499bea26eee9b"
+    },
+    {
+      "item_id": "lenovo/walnut@full_Walnut-userdebug-10-QP1A.190711.020-mp3V324-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_Walnut-userdebug-10-QP1A.190711.020-mp3V324-release-keys",
+        "commit": "79eacc4119d3526e215d6ef063224564337ae9cc",
+        "committed_date": "2023-11-08T06:53:02.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-11-08T03:54:54.259Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "walnut",
+        "project_id": 858,
+        "project_path": "lenovo/walnut"
+      },
+      "revision": "79eacc4119d3526e215d6ef063224564337ae9cc",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/walnut/-/tree/79eacc4119d3526e215d6ef063224564337ae9cc"
+    },
+    {
+      "item_id": "lenovo/x104f@hq_msm8909-user-8.1.0-OPM1.171019.026-1609-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "hq_msm8909-user-8.1.0-OPM1.171019.026-1609-release-keys",
+        "commit": "37775069713138f4aec6c36d163489a6a53667c9",
+        "committed_date": "2019-11-15T09:53:52.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T16:37:13.246Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "x104f",
+        "project_id": 1945,
+        "project_path": "lenovo/x104f"
+      },
+      "revision": "37775069713138f4aec6c36d163489a6a53667c9",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/x104f/-/tree/37775069713138f4aec6c36d163489a6a53667c9"
+    },
+    {
+      "item_id": "lenovo/x104l@hq_msm8909-user-8.1.0-OPM1.171019.026-1666-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "hq_msm8909-user-8.1.0-OPM1.171019.026-1666-release-keys",
+        "commit": "562a13b66d8a78c794c6b5b5ffaa9fa85a31241d",
+        "committed_date": "2019-12-12T16:53:52.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T08:40:47.879Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "x104l",
+        "project_id": 1618,
+        "project_path": "lenovo/x104l"
+      },
+      "revision": "562a13b66d8a78c794c6b5b5ffaa9fa85a31241d",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/x104l/-/tree/562a13b66d8a78c794c6b5b5ffaa9fa85a31241d"
+    },
+    {
+      "item_id": "lenovo/x104l@hq_msm8909-user-8.1.0-OPM1.171019.026-1684-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "hq_msm8909-user-8.1.0-OPM1.171019.026-1684-release-keys",
+        "commit": "259da5459e257e280169bf08377a6e607337a726",
+        "committed_date": "2019-11-15T10:52:11.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:40:47.879Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "x104l",
+        "project_id": 1618,
+        "project_path": "lenovo/x104l"
+      },
+      "revision": "259da5459e257e280169bf08377a6e607337a726",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/x104l/-/tree/259da5459e257e280169bf08377a6e607337a726"
+    },
+    {
+      "item_id": "lenovo/x104x@hq_msm8909-user-8.1.0-OPM1.171019.026-1795-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "hq_msm8909-user-8.1.0-OPM1.171019.026-1795-release-keys",
+        "commit": "efa1798d68d60563c96cda9b8222e9bbc4ea4820",
+        "committed_date": "2019-11-12T10:49:26.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T15:22:18.548Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "x104x",
+        "project_id": 1875,
+        "project_path": "lenovo/x104x"
+      },
+      "revision": "efa1798d68d60563c96cda9b8222e9bbc4ea4820",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/x104x/-/tree/efa1798d68d60563c96cda9b8222e9bbc4ea4820"
+    },
+    {
+      "item_id": "lenovo/x306f@full_amar_row_wifi-user-10-QP1A.190711.020-TB-X306F_U-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_amar_row_wifi-user-10-QP1A.190711.020-TB-X306F_U-release-keys",
+        "commit": "732d778a38fd2c241844b0c1713bb0394a93de82",
+        "committed_date": "2022-07-04T19:27:54.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-07-04T16:26:01.040Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "x306f",
+        "project_id": 2348,
+        "project_path": "lenovo/x306f"
+      },
+      "revision": "732d778a38fd2c241844b0c1713bb0394a93de82",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/x306f/-/tree/732d778a38fd2c241844b0c1713bb0394a93de82"
+    },
+    {
+      "item_id": "lenovo/x306xa@full_amar_row_lte_alexa-user-10-QP1A.190711.020-TB-X306XA_-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_amar_row_lte_alexa-user-10-QP1A.190711.020-TB-X306XA_-release-keys",
+        "commit": "bfba8a98bcb2bc9cb1e443f4cbe45c2b65f0eae6",
+        "committed_date": "2021-04-06T07:29:17.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T15:18:55.295Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "x306xa",
+        "project_id": 1868,
+        "project_path": "lenovo/x306xa"
+      },
+      "revision": "bfba8a98bcb2bc9cb1e443f4cbe45c2b65f0eae6",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/x306xa/-/tree/bfba8a98bcb2bc9cb1e443f4cbe45c2b65f0eae6"
+    },
+    {
+      "item_id": "lenovo/x6c6f@full_P98928JA1-user-11-RP1A.200720.011-tb8766p164bspP3-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_P98928JA1-user-11-RP1A.200720.011-tb8766p164bspP3-release-keys",
+        "commit": "3d9223f52126519c4188253be5168aacdd645e5c",
+        "committed_date": "2022-02-03T11:41:41.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T13:42:39.453Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "x6c6f",
+        "project_id": 68,
+        "project_path": "lenovo/x6c6f"
+      },
+      "revision": "3d9223f52126519c4188253be5168aacdd645e5c",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/x6c6f/-/tree/3d9223f52126519c4188253be5168aacdd645e5c"
+    },
+    {
+      "item_id": "lenovo/x6c6l@full_P98928FA1-user-11-RP1A.200720.011-b8766p164bspP18-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_P98928FA1-user-11-RP1A.200720.011-b8766p164bspP18-release-keys",
+        "commit": "b2ac14d964f8f9608a737f5ef29a254833a470e4",
+        "committed_date": "2022-02-03T11:22:05.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-12-09T00:15:07.238Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "x6c6l",
+        "project_id": 21,
+        "project_path": "lenovo/x6c6l"
+      },
+      "revision": "b2ac14d964f8f9608a737f5ef29a254833a470e4",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/x6c6l/-/tree/b2ac14d964f8f9608a737f5ef29a254833a470e4"
+    },
+    {
+      "item_id": "lenovo/x6c6l@full_P98928FA1S-user-12-SP1A.210812.016-1rctb8786p164P24-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_P98928FA1S-user-12-SP1A.210812.016-1rctb8786p164P24-release-keys",
+        "commit": "f67c0011d7a78289547b9481c62e4d3d2687ff33",
+        "committed_date": "2023-12-09T03:08:52.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-12-09T00:15:07.238Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "x6c6l",
+        "project_id": 21,
+        "project_path": "lenovo/x6c6l"
+      },
+      "revision": "f67c0011d7a78289547b9481c62e4d3d2687ff33",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/x6c6l/-/tree/f67c0011d7a78289547b9481c62e4d3d2687ff33"
+    },
+    {
+      "item_id": "lenovo/x6c6x@full_P98928AA1-user-11-RP1A.200720.011-b8766p164bspP24-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_P98928AA1-user-11-RP1A.200720.011-b8766p164bspP24-release-keys",
+        "commit": "88c762d99a2ca630ffcae0503bb5fc603f8f2827",
+        "committed_date": "2022-12-20T12:29:50.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-12-20T09:27:30.894Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "x6c6x",
+        "project_id": 4003,
+        "project_path": "lenovo/x6c6x"
+      },
+      "revision": "88c762d99a2ca630ffcae0503bb5fc603f8f2827",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/x6c6x/-/tree/88c762d99a2ca630ffcae0503bb5fc603f8f2827"
+    },
+    {
+      "item_id": "lenovo/x705f@msm8953_64-user-8.1.0-OPM1.171019.019-eng.zuxian.20180831.122239-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8953_64-user-8.1.0-OPM1.171019.019-eng.zuxian.20180831.122239-release-keys",
+        "commit": "257a4af2548c073299a013594309ac0cf2255371",
+        "committed_date": "2019-08-12T03:29:45.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T17:23:35.694Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "x705f",
+        "project_id": 1986,
+        "project_path": "lenovo/x705f"
+      },
+      "revision": "257a4af2548c073299a013594309ac0cf2255371",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/x705f/-/tree/257a4af2548c073299a013594309ac0cf2255371"
+    },
+    {
+      "item_id": "lenovo/x705f@tab5_p10_row_wifi-user-9-PKQ1.190319.001-TB-X705F_U-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "tab5_p10_row_wifi-user-9-PKQ1.190319.001-TB-X705F_U-release-keys",
+        "commit": "444c11579f85139ea846a07a73bff0fa8354efde",
+        "committed_date": "2019-08-12T07:24:38.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T17:23:35.694Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "x705f",
+        "project_id": 1986,
+        "project_path": "lenovo/x705f"
+      },
+      "revision": "444c11579f85139ea846a07a73bff0fa8354efde",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/x705f/-/tree/444c11579f85139ea846a07a73bff0fa8354efde"
+    },
+    {
+      "item_id": "lenovo/x705l@tab5_p10_row_lte-user-9-PKQ1.190319.001-TB-X705L_U-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "tab5_p10_row_lte-user-9-PKQ1.190319.001-TB-X705L_U-release-keys",
+        "commit": "7d9f44f1797f86fd1bdb749b3ff02ed0c5c8d652",
+        "committed_date": "2019-12-16T11:23:25.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T17:55:46.313Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "x705l",
+        "project_id": 2003,
+        "project_path": "lenovo/x705l"
+      },
+      "revision": "7d9f44f1797f86fd1bdb749b3ff02ed0c5c8d652",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/x705l/-/tree/7d9f44f1797f86fd1bdb749b3ff02ed0c5c8d652"
+    },
+    {
+      "item_id": "lenovo/yeti@yeti_10_row_lte-user-7.1.1-NMF26X-YB1-X90L_USR_S110085-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "yeti_10_row_lte-user-7.1.1-NMF26X-YB1-X90L_USR_S110085-release-keys",
+        "commit": "5ebd7214cc30a0903a571dae2f1dc9f6e8e25e31",
+        "committed_date": "2019-12-15T22:08:36.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T11:35:03.253Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "yeti",
+        "project_id": 1731,
+        "project_path": "lenovo/yeti"
+      },
+      "revision": "5ebd7214cc30a0903a571dae2f1dc9f6e8e25e31",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/yeti/-/tree/5ebd7214cc30a0903a571dae2f1dc9f6e8e25e31"
+    },
+    {
+      "item_id": "lenovo/yt-x703x@msm8952_64-user-7.1.1-NMF26F-eng.maojia.20180610.124234-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8952_64-user-7.1.1-NMF26F-eng.maojia.20180610.124234-release-keys",
+        "commit": "67309f02e7a6624d77409d78ec0bfc0d5a66a3b1",
+        "committed_date": "2019-12-15T22:07:19.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T08:39:42.971Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "yt-x703x",
+        "project_id": 1617,
+        "project_path": "lenovo/yt-x703x"
+      },
+      "revision": "67309f02e7a6624d77409d78ec0bfc0d5a66a3b1",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/yt-x703x/-/tree/67309f02e7a6624d77409d78ec0bfc0d5a66a3b1"
+    },
+    {
+      "item_id": "lenovo/yt-x705f@msm8937_64-user-9-PKQ1.181218.001-15-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_64-user-9-PKQ1.181218.001-15-release-keys",
+        "commit": "5f79f04687ebd98ea04b98a828d04afd809b484d",
+        "committed_date": "2019-12-12T15:44:45.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T19:54:57.390Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "yt-x705f",
+        "project_id": 2105,
+        "project_path": "lenovo/yt-x705f"
+      },
+      "revision": "5f79f04687ebd98ea04b98a828d04afd809b484d",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/yt-x705f/-/tree/5f79f04687ebd98ea04b98a828d04afd809b484d"
+    },
+    {
+      "item_id": "lenovo/yt-x705f@msm8937_64-user-9-PKQ1.181218.001-36-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_64-user-9-PKQ1.181218.001-36-release-keys",
+        "commit": "8de1e19968bbb52cd3f932893ecaac85b19871cb",
+        "committed_date": "2019-12-12T15:38:35.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T19:54:57.390Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "yt-x705f",
+        "project_id": 2105,
+        "project_path": "lenovo/yt-x705f"
+      },
+      "revision": "8de1e19968bbb52cd3f932893ecaac85b19871cb",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/yt-x705f/-/tree/8de1e19968bbb52cd3f932893ecaac85b19871cb"
+    },
+    {
+      "item_id": "lenovo/yt-x705l@msm8937_64-user-9-PKQ1.181218.001-246-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_64-user-9-PKQ1.181218.001-246-release-keys",
+        "commit": "2b742bdbc4691fc2cde1a6cd2241b388b57b9425",
+        "committed_date": "2019-12-19T10:23:54.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T15:49:30.917Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "yt-x705l",
+        "project_id": 1904,
+        "project_path": "lenovo/yt-x705l"
+      },
+      "revision": "2b742bdbc4691fc2cde1a6cd2241b388b57b9425",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/yt-x705l/-/tree/2b742bdbc4691fc2cde1a6cd2241b388b57b9425"
+    },
+    {
+      "item_id": "lenovo/yt-x705l@msm8937_64-user-9-PKQ1.181218.001-9-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_64-user-9-PKQ1.181218.001-9-release-keys",
+        "commit": "9eac0e63b0dd55ef875ee984ffcd9785ab0333e4",
+        "committed_date": "2019-11-14T21:36:38.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T15:49:30.917Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "yt-x705l",
+        "project_id": 1904,
+        "project_path": "lenovo/yt-x705l"
+      },
+      "revision": "9eac0e63b0dd55ef875ee984ffcd9785ab0333e4",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/yt-x705l/-/tree/9eac0e63b0dd55ef875ee984ffcd9785ab0333e4"
+    },
+    {
+      "item_id": "lenovo/yt-x705x@msm8937_64-user-9-PKQ1.181218.001-12-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_64-user-9-PKQ1.181218.001-12-release-keys",
+        "commit": "d9cad5d14bce2c775c42ca6180f3ff6a068faf98",
+        "committed_date": "2019-11-12T10:46:18.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T15:57:53.026Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "yt-x705x",
+        "project_id": 1915,
+        "project_path": "lenovo/yt-x705x"
+      },
+      "revision": "d9cad5d14bce2c775c42ca6180f3ff6a068faf98",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/yt-x705x/-/tree/d9cad5d14bce2c775c42ca6180f3ff6a068faf98"
+    },
+    {
+      "item_id": "lenovo/yt3-850m@msm8909-user-6-MMB29M-YT3-850M_S000124_170330_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8909-user-6-MMB29M-YT3-850M_S000124_170330_ROW-release-keys",
+        "commit": "13c024d9241cb1a475b4bed578821b436c482b4c",
+        "committed_date": "2019-12-15T22:06:05.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T16:17:42.717Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "yt3-850m",
+        "project_id": 1933,
+        "project_path": "lenovo/yt3-850m"
+      },
+      "revision": "13c024d9241cb1a475b4bed578821b436c482b4c",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/yt3-850m/-/tree/13c024d9241cb1a475b4bed578821b436c482b4c"
+    },
+    {
+      "item_id": "lenovo/yt3-x50l@msm8909-user-6-MMB29M-YT3-X50L_S000129_171227_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8909-user-6-MMB29M-YT3-X50L_S000129_171227_ROW-release-keys",
+        "commit": "e9b65b027bc80ee4f09be2ffcdd666ac708c1d35",
+        "committed_date": "2019-12-15T22:04:27.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T12:35:51.518Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "yt3-x50l",
+        "project_id": 993,
+        "project_path": "lenovo/yt3-x50l"
+      },
+      "revision": "e9b65b027bc80ee4f09be2ffcdd666ac708c1d35",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/yt3-x50l/-/tree/e9b65b027bc80ee4f09be2ffcdd666ac708c1d35"
+    },
+    {
+      "item_id": "lenovo/yt3@YT3_10_row_lte_oth-user-6.0.1-MMB29M-YT3-X90X_USR_S200303_1706140050_WW17_BP_-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "YT3_10_row_lte_oth-user-6.0.1-MMB29M-YT3-X90X_USR_S200303_1706140050_WW17_BP_-release-keys",
+        "commit": "4fc36994deca278ad7308437336ede05fb674b3e",
+        "committed_date": "2019-12-15T22:03:17.000+01:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T14:03:24.813Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "yt3",
+        "project_id": 1814,
+        "project_path": "lenovo/yt3"
+      },
+      "revision": "4fc36994deca278ad7308437336ede05fb674b3e",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/yt3/-/tree/4fc36994deca278ad7308437336ede05fb674b3e"
+    },
+    {
+      "item_id": "lenovo/zap@zap-user-9-PKQ1.190127.001-11.1.093_190725-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "zap-user-9-PKQ1.190127.001-11.1.093_190725-release-keys",
+        "commit": "2ea4f52ea975d4765f8cd9e3bfb7fada7683410d",
+        "committed_date": "2019-08-27T01:19:26.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T18:30:03.579Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "zap",
+        "project_id": 2036,
+        "project_path": "lenovo/zap"
+      },
+      "revision": "2ea4f52ea975d4765f8cd9e3bfb7fada7683410d",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/zap/-/tree/2ea4f52ea975d4765f8cd9e3bfb7fada7683410d"
+    },
+    {
+      "item_id": "lenovo/zelda@qssi-user-11-RKQ1.201215.002-14.0.413_210324-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201215.002-14.0.413_210324-release-keys",
+        "commit": "1bb80eda6ba4877d464578e4679b91caa221230c",
+        "committed_date": "2024-04-04T15:11:25.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-04-04T12:09:48.591Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "zelda",
+        "project_id": 5217,
+        "project_path": "lenovo/zelda"
+      },
+      "revision": "1bb80eda6ba4877d464578e4679b91caa221230c",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/zelda/-/tree/1bb80eda6ba4877d464578e4679b91caa221230c"
+    },
+    {
+      "item_id": "lenovo/zippo@zippo-user-9-PKQ1.190110.001-11.0.483_190511-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "zippo-user-9-PKQ1.190110.001-11.0.483_190511-release-keys",
+        "commit": "2289e148af74a1377b4b1b6b0aa3a2e093c1424a",
+        "committed_date": "2019-07-19T07:17:32.000+08:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T17:25:43.438Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "zippo",
+        "project_id": 1988,
+        "project_path": "lenovo/zippo"
+      },
+      "revision": "2289e148af74a1377b4b1b6b0aa3a2e093c1424a",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/zippo/-/tree/2289e148af74a1377b4b1b6b0aa3a2e093c1424a"
+    },
+    {
+      "item_id": "lenovo/zippo@zippo_row-user-9-PKQ1.190110.001-11.0.284_190810-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "zippo_row-user-9-PKQ1.190110.001-11.0.284_190810-release-keys",
+        "commit": "f3e05f4ddcd6c76ebe6e21a4f0ce91d9b088c733",
+        "committed_date": "2019-08-16T15:50:06.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T17:25:43.438Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "zippo",
+        "project_id": 1988,
+        "project_path": "lenovo/zippo"
+      },
+      "revision": "f3e05f4ddcd6c76ebe6e21a4f0ce91d9b088c733",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/zippo/-/tree/f3e05f4ddcd6c76ebe6e21a4f0ce91d9b088c733"
+    },
+    {
+      "item_id": "lenovo/zippo@zippo_row-user-9-PKQ1.190110.001-11.0.350_191018-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "zippo_row-user-9-PKQ1.190110.001-11.0.350_191018-release-keys",
+        "commit": "e775f38d126014dad2ef07d3f4d5d2bcf7b2b482",
+        "committed_date": "2019-11-07T08:24:20.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T17:25:43.438Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "zippo",
+        "project_id": 1988,
+        "project_path": "lenovo/zippo"
+      },
+      "revision": "e775f38d126014dad2ef07d3f4d5d2bcf7b2b482",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/zippo/-/tree/e775f38d126014dad2ef07d3f4d5d2bcf7b2b482"
+    },
+    {
+      "item_id": "lenovo/zippo@zippo_row-user-9-PKQ1.190110.001-11.0.405_191210-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "zippo_row-user-9-PKQ1.190110.001-11.0.405_191210-release-keys",
+        "commit": "9c7840084a56f5c2d9ce42c1ccc2293162da478c",
+        "committed_date": "2019-12-21T08:43:48.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T17:25:43.438Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "zippo",
+        "project_id": 1988,
+        "project_path": "lenovo/zippo"
+      },
+      "revision": "9c7840084a56f5c2d9ce42c1ccc2293162da478c",
+      "url": "https://dumps.tadiphone.dev/dumps/lenovo/zippo/-/tree/9c7840084a56f5c2d9ce42c1ccc2293162da478c"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

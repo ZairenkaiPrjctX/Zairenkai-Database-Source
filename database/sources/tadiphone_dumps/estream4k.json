@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "estream4k/sei400tv@SEI400TV-userdebug-9-PI-5222-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "SEI400TV-userdebug-9-PI-5222-release-keys",
+        "commit": "333030a6a63414fef3b790cf1a6cb96a01930efd",
+        "committed_date": "2021-08-03T18:31:40.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T00:22:59.662Z",
+        "namespace_hint": "estream4k",
+        "project_hint": "sei400tv",
+        "project_id": 1421,
+        "project_path": "estream4k/sei400tv"
+      },
+      "revision": "333030a6a63414fef3b790cf1a6cb96a01930efd",
+      "url": "https://dumps.tadiphone.dev/dumps/estream4k/sei400tv/-/tree/333030a6a63414fef3b790cf1a6cb96a01930efd"
+    },
+    {
+      "item_id": "estream4k/sei500abb@SEI500ABB-user-10-QTT8.201201.004-5330-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "SEI500ABB-user-10-QTT8.201201.004-5330-release-keys",
+        "commit": "977d35d1bd56f700779234e633638acf50eca906",
+        "committed_date": "2024-03-10T23:46:56.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-10T20:45:57.460Z",
+        "namespace_hint": "estream4k",
+        "project_hint": "sei500abb",
+        "project_id": 5157,
+        "project_path": "estream4k/sei500abb"
+      },
+      "revision": "977d35d1bd56f700779234e633638acf50eca906",
+      "url": "https://dumps.tadiphone.dev/dumps/estream4k/sei500abb/-/tree/977d35d1bd56f700779234e633638acf50eca906"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

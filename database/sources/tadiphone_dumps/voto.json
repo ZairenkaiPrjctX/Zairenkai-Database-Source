@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "voto/voto_v2@VOTO_V2_V1.0_20171101",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "VOTO_V2_V1.0_20171101",
+        "commit": "ae6a511c01a0e140e35cabf6d4a7b9ba2989fe93",
+        "committed_date": "2019-11-11T14:38:18.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T17:59:06.632Z",
+        "namespace_hint": "voto",
+        "project_hint": "voto_v2",
+        "project_id": 1237,
+        "project_path": "voto/voto_v2"
+      },
+      "revision": "ae6a511c01a0e140e35cabf6d4a7b9ba2989fe93",
+      "url": "https://dumps.tadiphone.dev/dumps/voto/voto_v2/-/tree/ae6a511c01a0e140e35cabf6d4a7b9ba2989fe93"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

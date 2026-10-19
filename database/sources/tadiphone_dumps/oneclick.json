@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "oneclick/x1@full_t939w_v2_f_dd_f06sf_oneclick-user-8.1.0-O11019-1534585809-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_t939w_v2_f_dd_f06sf_oneclick-user-8.1.0-O11019-1534585809-release-keys",
+        "commit": "d72e515853148a7b42e954bfb6d639be59a6d2d9",
+        "committed_date": "2019-09-13T09:23:45.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T10:08:05.969Z",
+        "namespace_hint": "oneclick",
+        "project_hint": "x1",
+        "project_id": 1694,
+        "project_path": "oneclick/x1"
+      },
+      "revision": "d72e515853148a7b42e954bfb6d639be59a6d2d9",
+      "url": "https://dumps.tadiphone.dev/dumps/oneclick/x1/-/tree/d72e515853148a7b42e954bfb6d639be59a6d2d9"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

@@ -1,0 +1,77 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "fossil/bluegill@bluegill-user-8.0.0-OWD4.180205.010-4851106-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "bluegill-user-8.0.0-OWD4.180205.010-4851106-release-keys",
+        "commit": "4cc59a7b2f62eac153b7726ca0b6a8aa2e372789",
+        "committed_date": "2021-06-25T16:35:19.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T14:21:57.847Z",
+        "namespace_hint": "fossil",
+        "project_hint": "bluegill",
+        "project_id": 1084,
+        "project_path": "fossil/bluegill"
+      },
+      "revision": "4cc59a7b2f62eac153b7726ca0b6a8aa2e372789",
+      "url": "https://dumps.tadiphone.dev/dumps/fossil/bluegill/-/tree/4cc59a7b2f62eac153b7726ca0b6a8aa2e372789"
+    },
+    {
+      "item_id": "fossil/darter@darter-user-8.1.0-OWM1.181005.036-5112940-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "darter-user-8.1.0-OWM1.181005.036-5112940-release-keys",
+        "commit": "496e6edeebc662c7c40223db0596760462bcfa08",
+        "committed_date": "2021-06-25T16:27:00.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T20:04:29.903Z",
+        "namespace_hint": "fossil",
+        "project_hint": "darter",
+        "project_id": 2113,
+        "project_path": "fossil/darter"
+      },
+      "revision": "496e6edeebc662c7c40223db0596760462bcfa08",
+      "url": "https://dumps.tadiphone.dev/dumps/fossil/darter/-/tree/496e6edeebc662c7c40223db0596760462bcfa08"
+    },
+    {
+      "item_id": "fossil/shiner@shiner-user-8.0.0-OWDH.180205.017-4803194-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "shiner-user-8.0.0-OWDH.180205.017-4803194-release-keys",
+        "commit": "13b85db18ca57b3c81e9c024a7be540f5d635e3c",
+        "committed_date": "2021-06-25T16:31:31.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T20:50:58.424Z",
+        "namespace_hint": "fossil",
+        "project_hint": "shiner",
+        "project_id": 1294,
+        "project_path": "fossil/shiner"
+      },
+      "revision": "13b85db18ca57b3c81e9c024a7be540f5d635e3c",
+      "url": "https://dumps.tadiphone.dev/dumps/fossil/shiner/-/tree/13b85db18ca57b3c81e9c024a7be540f5d635e3c"
+    },
+    {
+      "item_id": "fossil/triggerfish@triggerfish-user-9-PWDU.190829.018-5915650-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "triggerfish-user-9-PWDU.190829.018-5915650-release-keys",
+        "commit": "56872cb11ca32096824771dd9daf65510bdc5461",
+        "committed_date": "2021-06-25T16:24:37.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T19:41:43.200Z",
+        "namespace_hint": "fossil",
+        "project_hint": "triggerfish",
+        "project_id": 1274,
+        "project_path": "fossil/triggerfish"
+      },
+      "revision": "56872cb11ca32096824771dd9daf65510bdc5461",
+      "url": "https://dumps.tadiphone.dev/dumps/fossil/triggerfish/-/tree/56872cb11ca32096824771dd9daf65510bdc5461"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

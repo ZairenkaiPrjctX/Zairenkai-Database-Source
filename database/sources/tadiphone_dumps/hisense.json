@@ -1,0 +1,139 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "_project/5818",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": "2026-08-18T16:03:12.666Z",
+        "project_id": 5818,
+        "project_path": "hisense/ip965n"
+      },
+      "revision": "2026-08-18T16:03:12.666Z",
+      "url": "https://dumps.tadiphone.dev/dumps/hisense/ip965n"
+    },
+    {
+      "item_id": "hisense/hamamatsucho@fushan_2-user-9-PTO4.210210.001-7136508-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "fushan_2-user-9-PTO4.210210.001-7136508-release-keys",
+        "commit": "cc6b20606fa7820050931c3c1352ffe594a0f58a",
+        "committed_date": "2021-10-03T03:54:53.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T23:55:48.833Z",
+        "namespace_hint": "hisense",
+        "project_hint": "hamamatsucho",
+        "project_id": 2244,
+        "project_path": "hisense/hamamatsucho"
+      },
+      "revision": "cc6b20606fa7820050931c3c1352ffe594a0f58a",
+      "url": "https://dumps.tadiphone.dev/dumps/hisense/hamamatsucho/-/tree/cc6b20606fa7820050931c3c1352ffe594a0f58a"
+    },
+    {
+      "item_id": "hisense/hamamatsucho@fushan_2-user-9-PTO4.210628.001-7500024-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "fushan_2-user-9-PTO4.210628.001-7500024-release-keys",
+        "commit": "0e0c16af06a2ad234fb950c3b142487b9f6f138e",
+        "committed_date": "2021-10-03T04:29:38.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T23:55:48.833Z",
+        "namespace_hint": "hisense",
+        "project_hint": "hamamatsucho",
+        "project_id": 2244,
+        "project_path": "hisense/hamamatsucho"
+      },
+      "revision": "0e0c16af06a2ad234fb950c3b142487b9f6f138e",
+      "url": "https://dumps.tadiphone.dev/dumps/hisense/hamamatsucho/-/tree/0e0c16af06a2ad234fb950c3b142487b9f6f138e"
+    },
+    {
+      "item_id": "hisense/hamamatsucho@fushan_em-user-9-PTO4.201202.001-7006466-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "fushan_em-user-9-PTO4.201202.001-7006466-release-keys",
+        "commit": "11a8ac9492a8be16c8b7d0b3a478484b548898af",
+        "committed_date": "2021-10-03T04:51:52.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T23:55:48.833Z",
+        "namespace_hint": "hisense",
+        "project_hint": "hamamatsucho",
+        "project_id": 2244,
+        "project_path": "hisense/hamamatsucho"
+      },
+      "revision": "11a8ac9492a8be16c8b7d0b3a478484b548898af",
+      "url": "https://dumps.tadiphone.dev/dumps/hisense/hamamatsucho/-/tree/11a8ac9492a8be16c8b7d0b3a478484b548898af"
+    },
+    {
+      "item_id": "hisense/hamamatsucho@fushan_emeu-user-9-PTO4.210817.001-7651950-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "fushan_emeu-user-9-PTO4.210817.001-7651950-release-keys",
+        "commit": "7c9ce4ce2a4d109d929a0bc285528a0b7febf57d",
+        "committed_date": "2021-10-03T04:45:57.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T23:55:48.833Z",
+        "namespace_hint": "hisense",
+        "project_hint": "hamamatsucho",
+        "project_id": 2244,
+        "project_path": "hisense/hamamatsucho"
+      },
+      "revision": "7c9ce4ce2a4d109d929a0bc285528a0b7febf57d",
+      "url": "https://dumps.tadiphone.dev/dumps/hisense/hamamatsucho/-/tree/7c9ce4ce2a4d109d929a0bc285528a0b7febf57d"
+    },
+    {
+      "item_id": "hisense/hamamatsucho@fushan_sa-user-9-PTO4.201203.001-7008959-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "fushan_sa-user-9-PTO4.201203.001-7008959-release-keys",
+        "commit": "3abd7289e12f1d981be91f2fe9f9cc97266cf604",
+        "committed_date": "2021-10-03T04:40:07.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T23:55:48.833Z",
+        "namespace_hint": "hisense",
+        "project_hint": "hamamatsucho",
+        "project_id": 2244,
+        "project_path": "hisense/hamamatsucho"
+      },
+      "revision": "3abd7289e12f1d981be91f2fe9f9cc97266cf604",
+      "url": "https://dumps.tadiphone.dev/dumps/hisense/hamamatsucho/-/tree/3abd7289e12f1d981be91f2fe9f9cc97266cf604"
+    },
+    {
+      "item_id": "hisense/hlte202n@HLTE202N-user-9-PKQ1.190504.001-L1657.6.01.02-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "HLTE202N-user-9-PKQ1.190504.001-L1657.6.01.02-release-keys",
+        "commit": "ebc2c622732b86a23ff319496e1dc595541593b7",
+        "committed_date": "2020-07-16T09:56:57.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T00:36:36.925Z",
+        "namespace_hint": "hisense",
+        "project_hint": "hlte202n",
+        "project_id": 1439,
+        "project_path": "hisense/hlte202n"
+      },
+      "revision": "ebc2c622732b86a23ff319496e1dc595541593b7",
+      "url": "https://dumps.tadiphone.dev/dumps/hisense/hlte202n/-/tree/ebc2c622732b86a23ff319496e1dc595541593b7"
+    },
+    {
+      "item_id": "hisense/sc9832e@sp9832e_fs277_go_project-user-9-PPR1.180610.011-24515-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sp9832e_fs277_go_project-user-9-PPR1.180610.011-24515-release-keys",
+        "commit": "9db3eec02b8cb9fe59a3fdd16f2ad2ff6d3d50b2",
+        "committed_date": "2022-07-07T17:53:05.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-07-07T14:52:02.996Z",
+        "namespace_hint": "hisense",
+        "project_hint": "sc9832e",
+        "project_id": 2350,
+        "project_path": "hisense/sc9832e"
+      },
+      "revision": "9db3eec02b8cb9fe59a3fdd16f2ad2ff6d3d50b2",
+      "url": "https://dumps.tadiphone.dev/dumps/hisense/sc9832e/-/tree/9db3eec02b8cb9fe59a3fdd16f2ad2ff6d3d50b2"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

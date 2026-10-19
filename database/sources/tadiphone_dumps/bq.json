@@ -1,0 +1,638 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "bq/bardock-pro@bardockpro_bq-user-8.1.0-OPM1.171019.026-2169-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "bardockpro_bq-user-8.1.0-OPM1.171019.026-2169-release-keys",
+        "commit": "8e2f9c8008a36287f0c00e9858456b589f65c602",
+        "committed_date": "2019-08-26T11:05:26.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2024-05-24T19:02:42.726Z",
+        "namespace_hint": "bq",
+        "project_hint": "bardock-pro",
+        "project_id": 1613,
+        "project_path": "bq/bardock-pro"
+      },
+      "revision": "8e2f9c8008a36287f0c00e9858456b589f65c602",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/bardock-pro/-/tree/8e2f9c8008a36287f0c00e9858456b589f65c602"
+    },
+    {
+      "item_id": "bq/bardock-pro@bardockpro_bq-user-8.1.0-OPM1.171019.026-2395-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "bardockpro_bq-user-8.1.0-OPM1.171019.026-2395-release-keys",
+        "commit": "9c5ecff439bb54f87e69eebc45a1da515cb4306a",
+        "committed_date": "2024-05-24T21:59:06.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-05-24T19:02:42.726Z",
+        "namespace_hint": "bq",
+        "project_hint": "bardock-pro",
+        "project_id": 1613,
+        "project_path": "bq/bardock-pro"
+      },
+      "revision": "9c5ecff439bb54f87e69eebc45a1da515cb4306a",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/bardock-pro/-/tree/9c5ecff439bb54f87e69eebc45a1da515cb4306a"
+    },
+    {
+      "item_id": "bq/bardock@bardock_bq-user-8.1.0-OPM1.171019.026-2168-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "bardock_bq-user-8.1.0-OPM1.171019.026-2168-release-keys",
+        "commit": "c0694601a50f623a96089f18aaeca91bd8d3ae0d",
+        "committed_date": "2019-08-26T10:55:32.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T14:29:38.173Z",
+        "namespace_hint": "bq",
+        "project_hint": "bardock",
+        "project_id": 1090,
+        "project_path": "bq/bardock"
+      },
+      "revision": "c0694601a50f623a96089f18aaeca91bd8d3ae0d",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/bardock/-/tree/c0694601a50f623a96089f18aaeca91bd8d3ae0d"
+    },
+    {
+      "item_id": "bq/bardockpro@bardockpro_bq-user-8.1.0-OPM1.171019.019-448-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "bardockpro_bq-user-8.1.0-OPM1.171019.019-448-release-keys",
+        "commit": "d72e117354586deffcfb269d4a97769435a70b89",
+        "committed_date": "2018-05-23T22:00:20.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T00:23:27.324Z",
+        "namespace_hint": "bq",
+        "project_hint": "bardockpro",
+        "project_id": 1423,
+        "project_path": "bq/bardockpro"
+      },
+      "revision": "d72e117354586deffcfb269d4a97769435a70b89",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/bardockpro/-/tree/d72e117354586deffcfb269d4a97769435a70b89"
+    },
+    {
+      "item_id": "bq/bardockpro@bardockpro_bq-user-8.1.0-OPM1.171019.026-717-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "bardockpro_bq-user-8.1.0-OPM1.171019.026-717-release-keys",
+        "commit": "26b57ee08cdf9c5bcb0fedfd867c4a848b2dc7f9",
+        "committed_date": "2018-07-27T22:50:00.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T00:23:27.324Z",
+        "namespace_hint": "bq",
+        "project_hint": "bardockpro",
+        "project_id": 1423,
+        "project_path": "bq/bardockpro"
+      },
+      "revision": "26b57ee08cdf9c5bcb0fedfd867c4a848b2dc7f9",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/bardockpro/-/tree/26b57ee08cdf9c5bcb0fedfd867c4a848b2dc7f9"
+    },
+    {
+      "item_id": "bq/jeice@jeice_bq-user-8.1.0-OPM1.171019.026-1267-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "jeice_bq-user-8.1.0-OPM1.171019.026-1267-release-keys",
+        "commit": "14fb8e5c774a7b034a26aad8d52cd8564bf510a0",
+        "committed_date": "2019-10-24T09:08:18.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T22:12:19.905Z",
+        "namespace_hint": "bq",
+        "project_hint": "jeice",
+        "project_id": 1351,
+        "project_path": "bq/jeice"
+      },
+      "revision": "14fb8e5c774a7b034a26aad8d52cd8564bf510a0",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/jeice/-/tree/14fb8e5c774a7b034a26aad8d52cd8564bf510a0"
+    },
+    {
+      "item_id": "bq/jeice@jeice_bq-user-8.1.0-OPM1.171019.026-1670-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "jeice_bq-user-8.1.0-OPM1.171019.026-1670-release-keys",
+        "commit": "086a4fc361729e30af57894077d29e5e5669666e",
+        "committed_date": "2019-10-24T09:18:42.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T22:12:19.905Z",
+        "namespace_hint": "bq",
+        "project_hint": "jeice",
+        "project_id": 1351,
+        "project_path": "bq/jeice"
+      },
+      "revision": "086a4fc361729e30af57894077d29e5e5669666e",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/jeice/-/tree/086a4fc361729e30af57894077d29e5e5669666e"
+    },
+    {
+      "item_id": "bq/jeice@jeice_bq-user-8.1.0-OPM1.171019.026-2174-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "jeice_bq-user-8.1.0-OPM1.171019.026-2174-release-keys",
+        "commit": "fe06184a82a054e3a203c7b6dfdbf0ff991161d6",
+        "committed_date": "2019-06-29T02:25:59.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T22:12:19.905Z",
+        "namespace_hint": "bq",
+        "project_hint": "jeice",
+        "project_id": 1351,
+        "project_path": "bq/jeice"
+      },
+      "revision": "fe06184a82a054e3a203c7b6dfdbf0ff991161d6",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/jeice/-/tree/fe06184a82a054e3a203c7b6dfdbf0ff991161d6"
+    },
+    {
+      "item_id": "bq/jeice@jeice_bq-user-8.1.0-OPM1.171019.026-2293-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "jeice_bq-user-8.1.0-OPM1.171019.026-2293-release-keys",
+        "commit": "0cd5b227f6aec7830a4a8418035f0b880c888e10",
+        "committed_date": "2019-09-20T18:35:06.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T22:12:19.905Z",
+        "namespace_hint": "bq",
+        "project_hint": "jeice",
+        "project_id": 1351,
+        "project_path": "bq/jeice"
+      },
+      "revision": "0cd5b227f6aec7830a4a8418035f0b880c888e10",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/jeice/-/tree/0cd5b227f6aec7830a4a8418035f0b880c888e10"
+    },
+    {
+      "item_id": "bq/jeice@jeice_bq-user-8.1.0-OPM1.171019.026-2385-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "jeice_bq-user-8.1.0-OPM1.171019.026-2385-release-keys",
+        "commit": "a5b3862a3755e08a1de3c3084bdb05a3154bd35c",
+        "committed_date": "2019-11-25T17:19:53.000+01:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T22:12:19.905Z",
+        "namespace_hint": "bq",
+        "project_hint": "jeice",
+        "project_id": 1351,
+        "project_path": "bq/jeice"
+      },
+      "revision": "a5b3862a3755e08a1de3c3084bdb05a3154bd35c",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/jeice/-/tree/a5b3862a3755e08a1de3c3084bdb05a3154bd35c"
+    },
+    {
+      "item_id": "bq/jeice@jeice_bq-user-8.1.0-OPM1.171019.026-2398-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "jeice_bq-user-8.1.0-OPM1.171019.026-2398-release-keys",
+        "commit": "0eb872a03e1c5f96e6f81727b830d92cc8dd2fba",
+        "committed_date": "2020-01-21T16:09:56.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T22:12:19.905Z",
+        "namespace_hint": "bq",
+        "project_hint": "jeice",
+        "project_id": 1351,
+        "project_path": "bq/jeice"
+      },
+      "revision": "0eb872a03e1c5f96e6f81727b830d92cc8dd2fba",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/jeice/-/tree/0eb872a03e1c5f96e6f81727b830d92cc8dd2fba"
+    },
+    {
+      "item_id": "bq/jeice@jeice_bq-user-8.1.0-OPM1.171019.026-2409-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "jeice_bq-user-8.1.0-OPM1.171019.026-2409-release-keys",
+        "commit": "bc3bf0780e0c84e4719a3b1d80c57bf83d117ab8",
+        "committed_date": "2020-05-06T11:06:39.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T22:12:19.905Z",
+        "namespace_hint": "bq",
+        "project_hint": "jeice",
+        "project_id": 1351,
+        "project_path": "bq/jeice"
+      },
+      "revision": "bc3bf0780e0c84e4719a3b1d80c57bf83d117ab8",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/jeice/-/tree/bc3bf0780e0c84e4719a3b1d80c57bf83d117ab8"
+    },
+    {
+      "item_id": "bq/nappa_s@nappa_s_bq-user-8.1.0-OPM1.171019.026-1696-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "nappa_s_bq-user-8.1.0-OPM1.171019.026-1696-release-keys",
+        "commit": "6643e41e5b8acfeb6875a246518be13bd4776a42",
+        "committed_date": "2019-08-26T10:03:58.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T11:08:51.875Z",
+        "namespace_hint": "bq",
+        "project_hint": "nappa_s",
+        "project_id": 969,
+        "project_path": "bq/nappa_s"
+      },
+      "revision": "6643e41e5b8acfeb6875a246518be13bd4776a42",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/nappa_s/-/tree/6643e41e5b8acfeb6875a246518be13bd4776a42"
+    },
+    {
+      "item_id": "bq/raditz@raditz_bq-user-8.1.0-OPM1.171019.026-1695-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "raditz_bq-user-8.1.0-OPM1.171019.026-1695-release-keys",
+        "commit": "6ecb21c7170b81a4aa57d34ce7c9b262624021e5",
+        "committed_date": "2019-10-24T08:41:59.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T07:22:28.538Z",
+        "namespace_hint": "bq",
+        "project_hint": "raditz",
+        "project_id": 1538,
+        "project_path": "bq/raditz"
+      },
+      "revision": "6ecb21c7170b81a4aa57d34ce7c9b262624021e5",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/raditz/-/tree/6ecb21c7170b81a4aa57d34ce7c9b262624021e5"
+    },
+    {
+      "item_id": "bq/raditz_s@raditz_s_bq-user-8.1.0-OPM1.171019.026-1694-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "raditz_s_bq-user-8.1.0-OPM1.171019.026-1694-release-keys",
+        "commit": "88c3673651c37e3ad311200c41605a6d41f9423c",
+        "committed_date": "2019-08-26T10:15:27.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T07:48:51.056Z",
+        "namespace_hint": "bq",
+        "project_hint": "raditz_s",
+        "project_id": 1567,
+        "project_path": "bq/raditz_s"
+      },
+      "revision": "88c3673651c37e3ad311200c41605a6d41f9423c",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/raditz_s/-/tree/88c3673651c37e3ad311200c41605a6d41f9423c"
+    },
+    {
+      "item_id": "bq/yamcha@yamcha-user-7.1.2-N2G47H-1743-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "yamcha-user-7.1.2-N2G47H-1743-release-keys",
+        "commit": "18130e23b30d7c95725d92f6d9bd5042669237c2",
+        "committed_date": "2020-03-30T13:55:33.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T12:52:16.204Z",
+        "namespace_hint": "bq",
+        "project_hint": "yamcha",
+        "project_id": 1001,
+        "project_path": "bq/yamcha"
+      },
+      "revision": "18130e23b30d7c95725d92f6d9bd5042669237c2",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/yamcha/-/tree/18130e23b30d7c95725d92f6d9bd5042669237c2"
+    },
+    {
+      "item_id": "bq/yamcha@yamcha_bq-user-8.1.0-OPM1.171019.026-1692-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "yamcha_bq-user-8.1.0-OPM1.171019.026-1692-release-keys",
+        "commit": "d92a6c6811659eb6ba66de5ada175d050e3faa66",
+        "committed_date": "2019-08-26T10:26:36.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T12:52:16.204Z",
+        "namespace_hint": "bq",
+        "project_hint": "yamcha",
+        "project_id": 1001,
+        "project_path": "bq/yamcha"
+      },
+      "revision": "d92a6c6811659eb6ba66de5ada175d050e3faa66",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/yamcha/-/tree/d92a6c6811659eb6ba66de5ada175d050e3faa66"
+    },
+    {
+      "item_id": "bq/yamcha@yamcha_bq-user-8.1.0-OPM1.171019.026-2011-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "yamcha_bq-user-8.1.0-OPM1.171019.026-2011-release-keys",
+        "commit": "5b2f0121e13df1c5ea00e8b011572d572e9d5417",
+        "committed_date": "2020-03-23T19:03:48.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T12:52:16.204Z",
+        "namespace_hint": "bq",
+        "project_hint": "yamcha",
+        "project_id": 1001,
+        "project_path": "bq/yamcha"
+      },
+      "revision": "5b2f0121e13df1c5ea00e8b011572d572e9d5417",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/yamcha/-/tree/5b2f0121e13df1c5ea00e8b011572d572e9d5417"
+    },
+    {
+      "item_id": "bq/zangya_sprout@zangya_bq-user-10-QKQ1.200216.002-617-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "zangya_bq-user-10-QKQ1.200216.002-617-release-keys",
+        "commit": "ecb7601d840e54e91f79720b051bd946007272d5",
+        "committed_date": "2020-10-15T17:02:13.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T01:50:52.785Z",
+        "namespace_hint": "bq",
+        "project_hint": "zangya_sprout",
+        "project_id": 1503,
+        "project_path": "bq/zangya_sprout"
+      },
+      "revision": "ecb7601d840e54e91f79720b051bd946007272d5",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/zangya_sprout/-/tree/ecb7601d840e54e91f79720b051bd946007272d5"
+    },
+    {
+      "item_id": "bq/zangya_sprout@zangya_bq-user-9-PKQ1.190118.001-657-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "zangya_bq-user-9-PKQ1.190118.001-657-release-keys",
+        "commit": "c500178d06cfbc65f6a602287f0d7f32caa4f899",
+        "committed_date": "2019-07-07T10:17:01.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T01:50:52.785Z",
+        "namespace_hint": "bq",
+        "project_hint": "zangya_sprout",
+        "project_id": 1503,
+        "project_path": "bq/zangya_sprout"
+      },
+      "revision": "c500178d06cfbc65f6a602287f0d7f32caa4f899",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/zangya_sprout/-/tree/c500178d06cfbc65f6a602287f0d7f32caa4f899"
+    },
+    {
+      "item_id": "bq/zangya_sprout@zangya_bq-user-9-PKQ1.190118.001-759-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "zangya_bq-user-9-PKQ1.190118.001-759-release-keys",
+        "commit": "4416d21f005aa97750c5d44388137ff87b18f116",
+        "committed_date": "2019-09-13T11:33:19.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T01:50:52.785Z",
+        "namespace_hint": "bq",
+        "project_hint": "zangya_sprout",
+        "project_id": 1503,
+        "project_path": "bq/zangya_sprout"
+      },
+      "revision": "4416d21f005aa97750c5d44388137ff87b18f116",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/zangya_sprout/-/tree/4416d21f005aa97750c5d44388137ff87b18f116"
+    },
+    {
+      "item_id": "bq/zangya_sprout@zangya_bq-user-9-PKQ1.190118.001-919-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "zangya_bq-user-9-PKQ1.190118.001-919-release-keys",
+        "commit": "dddfccc93732fb9e1f8c436651206e59bf4888d9",
+        "committed_date": "2019-08-26T10:38:00.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T01:50:52.785Z",
+        "namespace_hint": "bq",
+        "project_hint": "zangya_sprout",
+        "project_id": 1503,
+        "project_path": "bq/zangya_sprout"
+      },
+      "revision": "dddfccc93732fb9e1f8c436651206e59bf4888d9",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/zangya_sprout/-/tree/dddfccc93732fb9e1f8c436651206e59bf4888d9"
+    },
+    {
+      "item_id": "bq/zangya_sprout@zangya_bq-user-9-PKQ1.190723.001-1045-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "zangya_bq-user-9-PKQ1.190723.001-1045-release-keys",
+        "commit": "5df5fc790a8aaeff2881f3ea9ae96de722ac9f9d",
+        "committed_date": "2019-10-24T06:56:16.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T01:50:52.785Z",
+        "namespace_hint": "bq",
+        "project_hint": "zangya_sprout",
+        "project_id": 1503,
+        "project_path": "bq/zangya_sprout"
+      },
+      "revision": "5df5fc790a8aaeff2881f3ea9ae96de722ac9f9d",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/zangya_sprout/-/tree/5df5fc790a8aaeff2881f3ea9ae96de722ac9f9d"
+    },
+    {
+      "item_id": "bq/zangya_sprout@zangya_bq-user-9-PKQ1.190723.001-1155-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "zangya_bq-user-9-PKQ1.190723.001-1155-release-keys",
+        "commit": "6ce6bc9abd986107cb8b0e0a05edc8079d0c9209",
+        "committed_date": "2020-01-09T15:35:45.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T01:50:52.785Z",
+        "namespace_hint": "bq",
+        "project_hint": "zangya_sprout",
+        "project_id": 1503,
+        "project_path": "bq/zangya_sprout"
+      },
+      "revision": "6ce6bc9abd986107cb8b0e0a05edc8079d0c9209",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/zangya_sprout/-/tree/6ce6bc9abd986107cb8b0e0a05edc8079d0c9209"
+    },
+    {
+      "item_id": "bq/zangya_sprout@zangya_bq-user-9-PKQ1.190723.001-1191-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "zangya_bq-user-9-PKQ1.190723.001-1191-release-keys",
+        "commit": "955fc830cd043b7a126d7d77294927e727889468",
+        "committed_date": "2020-01-15T17:57:55.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T01:50:52.785Z",
+        "namespace_hint": "bq",
+        "project_hint": "zangya_sprout",
+        "project_id": 1503,
+        "project_path": "bq/zangya_sprout"
+      },
+      "revision": "955fc830cd043b7a126d7d77294927e727889468",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/zangya_sprout/-/tree/955fc830cd043b7a126d7d77294927e727889468"
+    },
+    {
+      "item_id": "bq/zangyapro@zangyapro_bq-user-8.1.0-OPM1.171019.019-485-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "zangyapro_bq-user-8.1.0-OPM1.171019.019-485-release-keys",
+        "commit": "16aeb54a3f963dc48e190abf13f9c7da836e6bc9",
+        "committed_date": "2018-08-08T23:37:51.000+02:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T08:35:45.534Z",
+        "namespace_hint": "bq",
+        "project_hint": "zangyapro",
+        "project_id": 1614,
+        "project_path": "bq/zangyapro"
+      },
+      "revision": "16aeb54a3f963dc48e190abf13f9c7da836e6bc9",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/zangyapro/-/tree/16aeb54a3f963dc48e190abf13f9c7da836e6bc9"
+    },
+    {
+      "item_id": "bq/zangyapro_sprout@zangyapro_bq-user-10-QKQ1.200216.002-437-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "zangyapro_bq-user-10-QKQ1.200216.002-437-release-keys",
+        "commit": "73577ef03381d89786d91271a31679bc8ce88ddf",
+        "committed_date": "2020-07-22T09:23:16.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T13:57:43.004Z",
+        "namespace_hint": "bq",
+        "project_hint": "zangyapro_sprout",
+        "project_id": 1061,
+        "project_path": "bq/zangyapro_sprout"
+      },
+      "revision": "73577ef03381d89786d91271a31679bc8ce88ddf",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/zangyapro_sprout/-/tree/73577ef03381d89786d91271a31679bc8ce88ddf"
+    },
+    {
+      "item_id": "bq/zangyapro_sprout@zangyapro_bq-user-10-QKQ1.200216.002-467-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "zangyapro_bq-user-10-QKQ1.200216.002-467-release-keys",
+        "commit": "780ac436d31ba9fa4968861ee107bc2cd9732c79",
+        "committed_date": "2020-08-13T10:14:51.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T13:57:43.004Z",
+        "namespace_hint": "bq",
+        "project_hint": "zangyapro_sprout",
+        "project_id": 1061,
+        "project_path": "bq/zangyapro_sprout"
+      },
+      "revision": "780ac436d31ba9fa4968861ee107bc2cd9732c79",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/zangyapro_sprout/-/tree/780ac436d31ba9fa4968861ee107bc2cd9732c79"
+    },
+    {
+      "item_id": "bq/zangyapro_sprout@zangyapro_bq-user-10-QKQ1.200216.002-666-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "zangyapro_bq-user-10-QKQ1.200216.002-666-release-keys",
+        "commit": "756df2c60fb6668ea37ad962826d9ba6bd36ed5d",
+        "committed_date": "2020-11-05T16:17:44.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T13:57:43.004Z",
+        "namespace_hint": "bq",
+        "project_hint": "zangyapro_sprout",
+        "project_id": 1061,
+        "project_path": "bq/zangyapro_sprout"
+      },
+      "revision": "756df2c60fb6668ea37ad962826d9ba6bd36ed5d",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/zangyapro_sprout/-/tree/756df2c60fb6668ea37ad962826d9ba6bd36ed5d"
+    },
+    {
+      "item_id": "bq/zangyapro_sprout@zangyapro_bq-user-9-PKQ1.190118.001-760-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "zangyapro_bq-user-9-PKQ1.190118.001-760-release-keys",
+        "commit": "17ea5f831750183fd7762894a3d723fc72f902a4",
+        "committed_date": "2019-07-29T23:32:09.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T13:57:43.004Z",
+        "namespace_hint": "bq",
+        "project_hint": "zangyapro_sprout",
+        "project_id": 1061,
+        "project_path": "bq/zangyapro_sprout"
+      },
+      "revision": "17ea5f831750183fd7762894a3d723fc72f902a4",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/zangyapro_sprout/-/tree/17ea5f831750183fd7762894a3d723fc72f902a4"
+    },
+    {
+      "item_id": "bq/zangyapro_sprout@zangyapro_bq-user-9-PKQ1.190118.001-920-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "zangyapro_bq-user-9-PKQ1.190118.001-920-release-keys",
+        "commit": "16407a9e75cc85bfa3359b15c787a51fca0fde24",
+        "committed_date": "2019-08-19T18:18:36.000+02:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T13:57:43.004Z",
+        "namespace_hint": "bq",
+        "project_hint": "zangyapro_sprout",
+        "project_id": 1061,
+        "project_path": "bq/zangyapro_sprout"
+      },
+      "revision": "16407a9e75cc85bfa3359b15c787a51fca0fde24",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/zangyapro_sprout/-/tree/16407a9e75cc85bfa3359b15c787a51fca0fde24"
+    },
+    {
+      "item_id": "bq/zangyapro_sprout@zangyapro_bq-user-9-PKQ1.190723.001-1044-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "zangyapro_bq-user-9-PKQ1.190723.001-1044-release-keys",
+        "commit": "2af69e2565d4a760abf5aeb65d8bbc9232c4e3dd",
+        "committed_date": "2019-10-23T16:10:34.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T13:57:43.004Z",
+        "namespace_hint": "bq",
+        "project_hint": "zangyapro_sprout",
+        "project_id": 1061,
+        "project_path": "bq/zangyapro_sprout"
+      },
+      "revision": "2af69e2565d4a760abf5aeb65d8bbc9232c4e3dd",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/zangyapro_sprout/-/tree/2af69e2565d4a760abf5aeb65d8bbc9232c4e3dd"
+    },
+    {
+      "item_id": "bq/zangyapro_sprout@zangyapro_bq-user-9-PKQ1.190723.001-1064-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "zangyapro_bq-user-9-PKQ1.190723.001-1064-release-keys",
+        "commit": "36fb17944c7efe56d0fa5ed87f293b66ab59acd4",
+        "committed_date": "2019-10-29T17:56:17.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T13:57:43.004Z",
+        "namespace_hint": "bq",
+        "project_hint": "zangyapro_sprout",
+        "project_id": 1061,
+        "project_path": "bq/zangyapro_sprout"
+      },
+      "revision": "36fb17944c7efe56d0fa5ed87f293b66ab59acd4",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/zangyapro_sprout/-/tree/36fb17944c7efe56d0fa5ed87f293b66ab59acd4"
+    },
+    {
+      "item_id": "bq/zangyapro_sprout@zangyapro_bq-user-9-PKQ1.190723.001-1125-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "zangyapro_bq-user-9-PKQ1.190723.001-1125-release-keys",
+        "commit": "1144dd37f003c9c18901cebf2718269e801fdf8f",
+        "committed_date": "2019-11-12T16:10:38.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T13:57:43.004Z",
+        "namespace_hint": "bq",
+        "project_hint": "zangyapro_sprout",
+        "project_id": 1061,
+        "project_path": "bq/zangyapro_sprout"
+      },
+      "revision": "1144dd37f003c9c18901cebf2718269e801fdf8f",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/zangyapro_sprout/-/tree/1144dd37f003c9c18901cebf2718269e801fdf8f"
+    },
+    {
+      "item_id": "bq/zangyapro_sprout@zangyapro_bq-user-9-PKQ1.190723.001-1156-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "zangyapro_bq-user-9-PKQ1.190723.001-1156-release-keys",
+        "commit": "7d208eba103d4eb7012113e7215f9ace2c701180",
+        "committed_date": "2020-01-09T15:34:19.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T13:57:43.004Z",
+        "namespace_hint": "bq",
+        "project_hint": "zangyapro_sprout",
+        "project_id": 1061,
+        "project_path": "bq/zangyapro_sprout"
+      },
+      "revision": "7d208eba103d4eb7012113e7215f9ace2c701180",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/zangyapro_sprout/-/tree/7d208eba103d4eb7012113e7215f9ace2c701180"
+    },
+    {
+      "item_id": "bq/zangyapro_sprout@zangyapro_bq-user-9-PKQ1.190723.001-1192-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "zangyapro_bq-user-9-PKQ1.190723.001-1192-release-keys",
+        "commit": "dbcb247469ea4961aafc3aef8112b4a88048befc",
+        "committed_date": "2020-01-15T17:57:52.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T13:57:43.004Z",
+        "namespace_hint": "bq",
+        "project_hint": "zangyapro_sprout",
+        "project_id": 1061,
+        "project_path": "bq/zangyapro_sprout"
+      },
+      "revision": "dbcb247469ea4961aafc3aef8112b4a88048befc",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/zangyapro_sprout/-/tree/dbcb247469ea4961aafc3aef8112b4a88048befc"
+    },
+    {
+      "item_id": "bq/zangyapro_sprout@zangyapro_bq-user-9-PKQ1.190723.001-1221-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "zangyapro_bq-user-9-PKQ1.190723.001-1221-release-keys",
+        "commit": "4b00878175b28509f33c9eba0f4f1f0ea9fa0ffa",
+        "committed_date": "2020-02-14T16:15:56.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T13:57:43.004Z",
+        "namespace_hint": "bq",
+        "project_hint": "zangyapro_sprout",
+        "project_id": 1061,
+        "project_path": "bq/zangyapro_sprout"
+      },
+      "revision": "4b00878175b28509f33c9eba0f4f1f0ea9fa0ffa",
+      "url": "https://dumps.tadiphone.dev/dumps/bq/zangyapro_sprout/-/tree/4b00878175b28509f33c9eba0f4f1f0ea9fa0ffa"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

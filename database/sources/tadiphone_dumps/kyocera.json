@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "kyocera/kyv47@KYV47_jp_kdi-user-10-1.060HA.0124.a-1.060HA.0124.a-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "KYV47_jp_kdi-user-10-1.060HA.0124.a-1.060HA.0124.a-release-keys",
+        "commit": "818b14c19766e1e9a371a8a784c34b01c13b2dbc",
+        "committed_date": "2021-01-15T09:10:22.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T19:23:16.695Z",
+        "namespace_hint": "kyocera",
+        "project_hint": "kyv47",
+        "project_id": 1268,
+        "project_path": "kyocera/kyv47"
+      },
+      "revision": "818b14c19766e1e9a371a8a784c34b01c13b2dbc",
+      "url": "https://dumps.tadiphone.dev/dumps/kyocera/kyv47/-/tree/818b14c19766e1e9a371a8a784c34b01c13b2dbc"
+    },
+    {
+      "item_id": "kyocera/s2_sprout@S2-user-9-5.120VE.29.a-5.120VE.29.a-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "S2-user-9-5.120VE.29.a-5.120VE.29.a-release-keys",
+        "commit": "9a304d058cc6c7dbc250618da23a75eeecc21cbd",
+        "committed_date": "2020-04-11T16:38:26.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T07:54:03.056Z",
+        "namespace_hint": "kyocera",
+        "project_hint": "s2_sprout",
+        "project_id": 1576,
+        "project_path": "kyocera/s2_sprout"
+      },
+      "revision": "9a304d058cc6c7dbc250618da23a75eeecc21cbd",
+      "url": "https://dumps.tadiphone.dev/dumps/kyocera/s2_sprout/-/tree/9a304d058cc6c7dbc250618da23a75eeecc21cbd"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

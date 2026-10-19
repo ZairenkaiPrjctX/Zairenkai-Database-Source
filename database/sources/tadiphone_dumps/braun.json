@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "braun/yk919_lwctg61_32@full_yk919_lwctg61_32-userdebug-10-QP1A.190711.020-mp1V9221-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_yk919_lwctg61_32-userdebug-10-QP1A.190711.020-mp1V9221-test-keys",
+        "commit": "f12f0f1f9ec7f2e29d29b48fb5123a7feb882fcd",
+        "committed_date": "2023-04-13T19:38:26.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-04-13T16:37:48.712Z",
+        "namespace_hint": "braun",
+        "project_hint": "yk919_lwctg61_32",
+        "project_id": 4113,
+        "project_path": "braun/yk919_lwctg61_32"
+      },
+      "revision": "f12f0f1f9ec7f2e29d29b48fb5123a7feb882fcd",
+      "url": "https://dumps.tadiphone.dev/dumps/braun/yk919_lwctg61_32/-/tree/f12f0f1f9ec7f2e29d29b48fb5123a7feb882fcd"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

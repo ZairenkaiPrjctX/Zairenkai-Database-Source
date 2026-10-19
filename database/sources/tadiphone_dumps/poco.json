@@ -1,0 +1,3392 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "poco/angelicain@angelicain-user-10-QP1A.190711.020-V12.0.1.0.QCRINRF-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "angelicain-user-10-QP1A.190711.020-V12.0.1.0.QCRINRF-release-keys",
+        "commit": "05215870596b85868515d8a5d8efb5114bc8316a",
+        "committed_date": "2021-10-21T13:58:38.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T08:17:31.682Z",
+        "namespace_hint": "poco",
+        "project_hint": "angelicain",
+        "project_id": 1598,
+        "project_path": "poco/angelicain"
+      },
+      "revision": "05215870596b85868515d8a5d8efb5114bc8316a",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/angelicain/-/tree/05215870596b85868515d8a5d8efb5114bc8316a"
+    },
+    {
+      "item_id": "poco/annibale@missi-user-16-BP2A.250605.031.A3-OS3.0.2.0.WPKMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-16-BP2A.250605.031.A3-OS3.0.2.0.WPKMIXM-release-keys",
+        "commit": "f060b32ac4a65e1d51c1e9a5445d88f504fbf22c",
+        "committed_date": "2025-11-26T11:37:36.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-11-26T08:25:49.680Z",
+        "namespace_hint": "poco",
+        "project_hint": "annibale",
+        "project_id": 5710,
+        "project_path": "poco/annibale"
+      },
+      "revision": "f060b32ac4a65e1d51c1e9a5445d88f504fbf22c",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/annibale/-/tree/f060b32ac4a65e1d51c1e9a5445d88f504fbf22c"
+    },
+    {
+      "item_id": "poco/ares@missi-user-12-SP1A.210812.016-V13.0.0.10.SKJINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SP1A.210812.016-V13.0.0.10.SKJINXM-release-keys",
+        "commit": "22afb8edf7beb8eb435d8a6c681d5f132bbeaea8",
+        "committed_date": "2022-02-04T12:45:27.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-04-22T10:40:03.868Z",
+        "namespace_hint": "poco",
+        "project_hint": "ares",
+        "project_id": 795,
+        "project_path": "poco/ares"
+      },
+      "revision": "22afb8edf7beb8eb435d8a6c681d5f132bbeaea8",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/ares/-/tree/22afb8edf7beb8eb435d8a6c681d5f132bbeaea8"
+    },
+    {
+      "item_id": "poco/ares@missi_phoneext4_global-user-13-TP1A.220624.014-V14.0.1.0.TKJINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_global-user-13-TP1A.220624.014-V14.0.1.0.TKJINXM-release-keys",
+        "commit": "e9c377d29b6573f155a8a35592e222a8cefff1ac",
+        "committed_date": "2023-04-22T13:29:58.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-22T10:40:03.868Z",
+        "namespace_hint": "poco",
+        "project_hint": "ares",
+        "project_id": 795,
+        "project_path": "poco/ares"
+      },
+      "revision": "e9c377d29b6573f155a8a35592e222a8cefff1ac",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/ares/-/tree/e9c377d29b6573f155a8a35592e222a8cefff1ac"
+    },
+    {
+      "item_id": "poco/aresin@ares-user-11-RP1A.200720.011-V12.5.12.0.RKJCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ares-user-11-RP1A.200720.011-V12.5.12.0.RKJCNXM-release-keys",
+        "commit": "b26a3096c1018fa4fa039455043cefe46c964116",
+        "committed_date": "2023-08-12T12:14:12.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-08-12T09:22:08.963Z",
+        "namespace_hint": "poco",
+        "project_hint": "aresin",
+        "project_id": 2072,
+        "project_path": "poco/aresin"
+      },
+      "revision": "b26a3096c1018fa4fa039455043cefe46c964116",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/aresin/-/tree/b26a3096c1018fa4fa039455043cefe46c964116"
+    },
+    {
+      "item_id": "poco/aresin@ares-user-11-RP1A.200720.011-V12.5.3.0.RKJCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ares-user-11-RP1A.200720.011-V12.5.3.0.RKJCNXM-release-keys",
+        "commit": "da6e2a8fa05df3d83b773792c76a2615543e73fb",
+        "committed_date": "2021-05-02T08:16:19.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-08-12T09:22:08.963Z",
+        "namespace_hint": "poco",
+        "project_hint": "aresin",
+        "project_id": 2072,
+        "project_path": "poco/aresin"
+      },
+      "revision": "da6e2a8fa05df3d83b773792c76a2615543e73fb",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/aresin/-/tree/da6e2a8fa05df3d83b773792c76a2615543e73fb"
+    },
+    {
+      "item_id": "poco/aresin@ares-user-11-RP1A.200720.011-V12.5.4.0.RKJINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ares-user-11-RP1A.200720.011-V12.5.4.0.RKJINXM-release-keys",
+        "commit": "f6378c30f2f5820d09cf661d02341b8448056d4c",
+        "committed_date": "2021-08-22T11:55:57.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-08-12T09:22:08.963Z",
+        "namespace_hint": "poco",
+        "project_hint": "aresin",
+        "project_id": 2072,
+        "project_path": "poco/aresin"
+      },
+      "revision": "f6378c30f2f5820d09cf661d02341b8448056d4c",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/aresin/-/tree/f6378c30f2f5820d09cf661d02341b8448056d4c"
+    },
+    {
+      "item_id": "poco/aresin@ares-user-11-RP1A.200720.011-V12.5.7.0.RKJINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ares-user-11-RP1A.200720.011-V12.5.7.0.RKJINXM-release-keys",
+        "commit": "4ebf5a345020979df22491f9e81dcc1afe81db51",
+        "committed_date": "2023-07-16T22:00:01.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-08-12T09:22:08.963Z",
+        "namespace_hint": "poco",
+        "project_hint": "aresin",
+        "project_id": 2072,
+        "project_path": "poco/aresin"
+      },
+      "revision": "4ebf5a345020979df22491f9e81dcc1afe81db51",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/aresin/-/tree/4ebf5a345020979df22491f9e81dcc1afe81db51"
+    },
+    {
+      "item_id": "poco/bhima@qssi-user-11-RKQ1.200826.002-V12.0.4.0.RJUEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.0.4.0.RJUEUXM-release-keys",
+        "commit": "7a60c87ef935482547a9ca1b0d43f19315ab4356",
+        "committed_date": "2021-03-22T14:25:30.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T10:31:57.077Z",
+        "namespace_hint": "poco",
+        "project_hint": "bhima",
+        "project_id": 1721,
+        "project_path": "poco/bhima"
+      },
+      "revision": "7a60c87ef935482547a9ca1b0d43f19315ab4356",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/bhima/-/tree/7a60c87ef935482547a9ca1b0d43f19315ab4356"
+    },
+    {
+      "item_id": "poco/bhima@qssi-user-11-RKQ1.200826.002-V12.0.4.0.RJUINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.0.4.0.RJUINXM-release-keys",
+        "commit": "7745eb3c550473e66ff12f70eb9f36770a1961ed",
+        "committed_date": "2021-10-31T21:51:31.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T10:31:57.077Z",
+        "namespace_hint": "poco",
+        "project_hint": "bhima",
+        "project_id": 1721,
+        "project_path": "poco/bhima"
+      },
+      "revision": "7745eb3c550473e66ff12f70eb9f36770a1961ed",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/bhima/-/tree/7745eb3c550473e66ff12f70eb9f36770a1961ed"
+    },
+    {
+      "item_id": "poco/bhima@qssi-user-11-RKQ1.200826.002-V12.0.4.0.RJUMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.0.4.0.RJUMIXM-release-keys",
+        "commit": "6691e49cd4c8e63297ebb381558df38e6c114dee",
+        "committed_date": "2021-03-26T17:08:56.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T10:31:57.077Z",
+        "namespace_hint": "poco",
+        "project_hint": "bhima",
+        "project_id": 1721,
+        "project_path": "poco/bhima"
+      },
+      "revision": "6691e49cd4c8e63297ebb381558df38e6c114dee",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/bhima/-/tree/6691e49cd4c8e63297ebb381558df38e6c114dee"
+    },
+    {
+      "item_id": "poco/bhima@qssi-user-11-RKQ1.200826.002-V12.0.5.0.RJUINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.0.5.0.RJUINXM-release-keys",
+        "commit": "667123e79367013c5b73122a375a6238669fabec",
+        "committed_date": "2021-05-18T06:36:05.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T10:31:57.077Z",
+        "namespace_hint": "poco",
+        "project_hint": "bhima",
+        "project_id": 1721,
+        "project_path": "poco/bhima"
+      },
+      "revision": "667123e79367013c5b73122a375a6238669fabec",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/bhima/-/tree/667123e79367013c5b73122a375a6238669fabec"
+    },
+    {
+      "item_id": "poco/bhima@qssi-user-11-RKQ1.200826.002-V12.0.6.0.RJUMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.0.6.0.RJUMIXM-release-keys",
+        "commit": "a30b12c451b460a63b5b8dd69dd97ffb3bb79ba1",
+        "committed_date": "2021-05-02T19:20:15.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T10:31:57.077Z",
+        "namespace_hint": "poco",
+        "project_hint": "bhima",
+        "project_id": 1721,
+        "project_path": "poco/bhima"
+      },
+      "revision": "a30b12c451b460a63b5b8dd69dd97ffb3bb79ba1",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/bhima/-/tree/a30b12c451b460a63b5b8dd69dd97ffb3bb79ba1"
+    },
+    {
+      "item_id": "poco/bhima@qssi-user-11-RKQ1.200826.002-V12.5.1.0.RJUMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.1.0.RJUMIXM-release-keys",
+        "commit": "3910fb3eb176f6d5f78afbb5063e9ae9581711fc",
+        "committed_date": "2021-06-07T17:00:37.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T10:31:57.077Z",
+        "namespace_hint": "poco",
+        "project_hint": "bhima",
+        "project_id": 1721,
+        "project_path": "poco/bhima"
+      },
+      "revision": "3910fb3eb176f6d5f78afbb5063e9ae9581711fc",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/bhima/-/tree/3910fb3eb176f6d5f78afbb5063e9ae9581711fc"
+    },
+    {
+      "item_id": "poco/bhima@qssi-user-11-RKQ1.200826.002-V12.5.2.0.RJUMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.2.0.RJUMIXM-release-keys",
+        "commit": "1aaa9f87adea0b251d392e51a82a3ccf6251698f",
+        "committed_date": "2021-06-19T12:12:32.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T10:31:57.077Z",
+        "namespace_hint": "poco",
+        "project_hint": "bhima",
+        "project_id": 1721,
+        "project_path": "poco/bhima"
+      },
+      "revision": "1aaa9f87adea0b251d392e51a82a3ccf6251698f",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/bhima/-/tree/1aaa9f87adea0b251d392e51a82a3ccf6251698f"
+    },
+    {
+      "item_id": "poco/bhima@qssi-user-11-RKQ1.200826.002-V12.5.3.0.RJUINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.3.0.RJUINXM-release-keys",
+        "commit": "b530bd75d8f4d5c147bd4cdb1fb59865e779e8db",
+        "committed_date": "2021-07-31T14:25:43.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T10:31:57.077Z",
+        "namespace_hint": "poco",
+        "project_hint": "bhima",
+        "project_id": 1721,
+        "project_path": "poco/bhima"
+      },
+      "revision": "b530bd75d8f4d5c147bd4cdb1fb59865e779e8db",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/bhima/-/tree/b530bd75d8f4d5c147bd4cdb1fb59865e779e8db"
+    },
+    {
+      "item_id": "poco/bhima@qssi-user-11-RKQ1.200826.002-V12.5.3.0.RJUMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.3.0.RJUMIXM-release-keys",
+        "commit": "50debf343801ec5c9a8573f7c8a98b5a2ab2ccee",
+        "committed_date": "2021-08-06T22:55:48.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T10:31:57.077Z",
+        "namespace_hint": "poco",
+        "project_hint": "bhima",
+        "project_id": 1721,
+        "project_path": "poco/bhima"
+      },
+      "revision": "50debf343801ec5c9a8573f7c8a98b5a2ab2ccee",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/bhima/-/tree/50debf343801ec5c9a8573f7c8a98b5a2ab2ccee"
+    },
+    {
+      "item_id": "poco/bhima@qssi-user-11-RKQ1.200826.002-V12.5.4.0.RJUINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.4.0.RJUINXM-release-keys",
+        "commit": "f7cb84aa3b0ace0fcdb02b82734de6563b9f75e0",
+        "committed_date": "2021-11-06T14:25:01.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T10:31:57.077Z",
+        "namespace_hint": "poco",
+        "project_hint": "bhima",
+        "project_id": 1721,
+        "project_path": "poco/bhima"
+      },
+      "revision": "f7cb84aa3b0ace0fcdb02b82734de6563b9f75e0",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/bhima/-/tree/f7cb84aa3b0ace0fcdb02b82734de6563b9f75e0"
+    },
+    {
+      "item_id": "poco/bhima@qssi-user-11-RKQ1.200826.002-V12.5.4.0.RJUMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.4.0.RJUMIXM-release-keys",
+        "commit": "78701de6c5e59fd5c709b30239ab3d2193866dce",
+        "committed_date": "2021-08-26T14:05:42.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T10:31:57.077Z",
+        "namespace_hint": "poco",
+        "project_hint": "bhima",
+        "project_id": 1721,
+        "project_path": "poco/bhima"
+      },
+      "revision": "78701de6c5e59fd5c709b30239ab3d2193866dce",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/bhima/-/tree/78701de6c5e59fd5c709b30239ab3d2193866dce"
+    },
+    {
+      "item_id": "poco/bhima@qssi-user-11-RKQ1.200826.002-V12.5.7.0.RJUMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.7.0.RJUMIXM-release-keys",
+        "commit": "fae2ec760682778a60574f11305e5a82a7f533c1",
+        "committed_date": "2021-12-27T20:44:00.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T10:31:57.077Z",
+        "namespace_hint": "poco",
+        "project_hint": "bhima",
+        "project_id": 1721,
+        "project_path": "poco/bhima"
+      },
+      "revision": "fae2ec760682778a60574f11305e5a82a7f533c1",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/bhima/-/tree/fae2ec760682778a60574f11305e5a82a7f533c1"
+    },
+    {
+      "item_id": "poco/blue@missi-user-14-UP1A.231005.007-V816.0.3.0.UGRIDXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-14-UP1A.231005.007-V816.0.3.0.UGRIDXM-release-keys",
+        "commit": "1bb6dad56bf01d95d26086c2a6ec0dd75b0ac795",
+        "committed_date": "2024-03-01T19:55:06.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-10-14T13:59:54.904Z",
+        "namespace_hint": "poco",
+        "project_hint": "blue",
+        "project_id": 4748,
+        "project_path": "poco/blue"
+      },
+      "revision": "1bb6dad56bf01d95d26086c2a6ec0dd75b0ac795",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/blue/-/tree/1bb6dad56bf01d95d26086c2a6ec0dd75b0ac795"
+    },
+    {
+      "item_id": "poco/blue@missi-user-14-UP1A.231005.007-V816.0.4.0.UGRMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-14-UP1A.231005.007-V816.0.4.0.UGRMIXM-release-keys",
+        "commit": "3d3455c96ff517474d0a1fdcef7df876d41f3111",
+        "committed_date": "2024-07-22T11:37:56.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-10-14T13:59:54.904Z",
+        "namespace_hint": "poco",
+        "project_hint": "blue",
+        "project_id": 4748,
+        "project_path": "poco/blue"
+      },
+      "revision": "3d3455c96ff517474d0a1fdcef7df876d41f3111",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/blue/-/tree/3d3455c96ff517474d0a1fdcef7df876d41f3111"
+    },
+    {
+      "item_id": "poco/blue@missi-user-14-UP1A.231005.007-V816.0.5.0.UGRMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-14-UP1A.231005.007-V816.0.5.0.UGRMIXM-release-keys",
+        "commit": "8fbae91d44764ddbd366c86385c375ae7d5f177d",
+        "committed_date": "2024-10-14T16:51:22.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-14T13:59:54.904Z",
+        "namespace_hint": "poco",
+        "project_hint": "blue",
+        "project_id": 4748,
+        "project_path": "poco/blue"
+      },
+      "revision": "8fbae91d44764ddbd366c86385c375ae7d5f177d",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/blue/-/tree/8fbae91d44764ddbd366c86385c375ae7d5f177d"
+    },
+    {
+      "item_id": "poco/camellia@camellia-user-12-SP1A.210812.016-V13.0.2.0.SKSINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "camellia-user-12-SP1A.210812.016-V13.0.2.0.SKSINXM-release-keys",
+        "commit": "274a3acc4b01e9fc7f670578327373e02773f562",
+        "committed_date": "2022-08-16T15:04:55.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-08-02T06:26:02.229Z",
+        "namespace_hint": "poco",
+        "project_hint": "camellia",
+        "project_id": 2395,
+        "project_path": "poco/camellia"
+      },
+      "revision": "274a3acc4b01e9fc7f670578327373e02773f562",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/camellia/-/tree/274a3acc4b01e9fc7f670578327373e02773f562"
+    },
+    {
+      "item_id": "poco/camellia@missi_phoneext4_global-user-13-TP1A.220624.014-V14.0.6.0.TKSINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_global-user-13-TP1A.220624.014-V14.0.6.0.TKSINXM-release-keys",
+        "commit": "1ac0910c4086ba6ef5c88f8a9dd5697d24efae47",
+        "committed_date": "2024-08-02T09:16:02.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-08-02T06:26:02.229Z",
+        "namespace_hint": "poco",
+        "project_hint": "camellia",
+        "project_id": 2395,
+        "project_path": "poco/camellia"
+      },
+      "revision": "1ac0910c4086ba6ef5c88f8a9dd5697d24efae47",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/camellia/-/tree/1ac0910c4086ba6ef5c88f8a9dd5697d24efae47"
+    },
+    {
+      "item_id": "poco/camellian@camellia-user-11-RP1A.200720.011-V12.0.3.0.RKSEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "camellia-user-11-RP1A.200720.011-V12.0.3.0.RKSEUXM-release-keys",
+        "commit": "63069210ca34b5de1d6b7bcf4511a953112005f5",
+        "committed_date": "2021-04-28T22:30:22.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-01-23T21:58:45.201Z",
+        "namespace_hint": "poco",
+        "project_hint": "camellian",
+        "project_id": 1416,
+        "project_path": "poco/camellian"
+      },
+      "revision": "63069210ca34b5de1d6b7bcf4511a953112005f5",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/camellian/-/tree/63069210ca34b5de1d6b7bcf4511a953112005f5"
+    },
+    {
+      "item_id": "poco/camellian@camellia-user-11-RP1A.200720.011-V12.5.5.0.RKSMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "camellia-user-11-RP1A.200720.011-V12.5.5.0.RKSMIXM-release-keys",
+        "commit": "8bfcade89d010801642eb5b660ffc8dffa5913ae",
+        "committed_date": "2023-01-24T00:52:44.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-01-23T21:58:45.201Z",
+        "namespace_hint": "poco",
+        "project_hint": "camellian",
+        "project_id": 1416,
+        "project_path": "poco/camellian"
+      },
+      "revision": "8bfcade89d010801642eb5b660ffc8dffa5913ae",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/camellian/-/tree/8bfcade89d010801642eb5b660ffc8dffa5913ae"
+    },
+    {
+      "item_id": "poco/chopin@chopin-user-11-RP1A.200720.011-V12.5.5.0.RKPMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "chopin-user-11-RP1A.200720.011-V12.5.5.0.RKPMIXM-release-keys",
+        "commit": "dea431e6eb3ca84220990adebd3d9c641e7e756e",
+        "committed_date": "2021-11-17T19:43:25.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-08-12T09:07:01.053Z",
+        "namespace_hint": "poco",
+        "project_hint": "chopin",
+        "project_id": 1894,
+        "project_path": "poco/chopin"
+      },
+      "revision": "dea431e6eb3ca84220990adebd3d9c641e7e756e",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/chopin/-/tree/dea431e6eb3ca84220990adebd3d9c641e7e756e"
+    },
+    {
+      "item_id": "poco/chopin@chopin-user-11-RP1A.200720.011-V12.5.8.0.RKPMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "chopin-user-11-RP1A.200720.011-V12.5.8.0.RKPMIXM-release-keys",
+        "commit": "2d177b7ebdade6700141ae6ecc2201811fbe2993",
+        "committed_date": "2023-08-12T11:59:56.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-08-12T09:07:01.053Z",
+        "namespace_hint": "poco",
+        "project_hint": "chopin",
+        "project_id": 1894,
+        "project_path": "poco/chopin"
+      },
+      "revision": "2d177b7ebdade6700141ae6ecc2201811fbe2993",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/chopin/-/tree/2d177b7ebdade6700141ae6ecc2201811fbe2993"
+    },
+    {
+      "item_id": "poco/citrus@qssi-user-10-QKQ1.200830.002-V12.0.1.0.QJFMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.200830.002-V12.0.1.0.QJFMIXM-release-keys",
+        "commit": "8570559c00988e04a7ea08063ede350371952377",
+        "committed_date": "2020-11-27T14:09:52.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-08-08T12:06:55.160Z",
+        "namespace_hint": "poco",
+        "project_hint": "citrus",
+        "project_id": 34,
+        "project_path": "poco/citrus"
+      },
+      "revision": "8570559c00988e04a7ea08063ede350371952377",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/citrus/-/tree/8570559c00988e04a7ea08063ede350371952377"
+    },
+    {
+      "item_id": "poco/citrus@qssi-user-10-QKQ1.200830.002-V12.0.3.0.QJFINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.200830.002-V12.0.3.0.QJFINXM-release-keys",
+        "commit": "ef4ed132224aae7ade6b70ff1e7c313d57b17bff",
+        "committed_date": "2021-08-23T15:05:24.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-08-08T12:06:55.160Z",
+        "namespace_hint": "poco",
+        "project_hint": "citrus",
+        "project_id": 34,
+        "project_path": "poco/citrus"
+      },
+      "revision": "ef4ed132224aae7ade6b70ff1e7c313d57b17bff",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/citrus/-/tree/ef4ed132224aae7ade6b70ff1e7c313d57b17bff"
+    },
+    {
+      "item_id": "poco/citrus@qssi-user-10-QKQ1.200830.002-V12.0.5.0.QJFINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.200830.002-V12.0.5.0.QJFINXM-release-keys",
+        "commit": "3aed021676079b9e5bf01b064712af35e456994e",
+        "committed_date": "2021-06-01T08:18:03.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-08-08T12:06:55.160Z",
+        "namespace_hint": "poco",
+        "project_hint": "citrus",
+        "project_id": 34,
+        "project_path": "poco/citrus"
+      },
+      "revision": "3aed021676079b9e5bf01b064712af35e456994e",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/citrus/-/tree/3aed021676079b9e5bf01b064712af35e456994e"
+    },
+    {
+      "item_id": "poco/citrus@qssi-user-10-QKQ1.200830.002-V12.0.6.0.QJFMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.200830.002-V12.0.6.0.QJFMIXM-release-keys",
+        "commit": "1617e71f95153c5c549289df09d0fc944d7d0433",
+        "committed_date": "2021-03-24T10:39:11.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-08-08T12:06:55.160Z",
+        "namespace_hint": "poco",
+        "project_hint": "citrus",
+        "project_id": 34,
+        "project_path": "poco/citrus"
+      },
+      "revision": "1617e71f95153c5c549289df09d0fc944d7d0433",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/citrus/-/tree/1617e71f95153c5c549289df09d0fc944d7d0433"
+    },
+    {
+      "item_id": "poco/citrus@qssi-user-11-RKQ1.201004.002-V12.5.2.0.RJFEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201004.002-V12.5.2.0.RJFEUXM-release-keys",
+        "commit": "57e795d6104ffc6b14d1827613e3e4764a33702b",
+        "committed_date": "2021-09-20T04:20:09.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-08-08T12:06:55.160Z",
+        "namespace_hint": "poco",
+        "project_hint": "citrus",
+        "project_id": 34,
+        "project_path": "poco/citrus"
+      },
+      "revision": "57e795d6104ffc6b14d1827613e3e4764a33702b",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/citrus/-/tree/57e795d6104ffc6b14d1827613e3e4764a33702b"
+    },
+    {
+      "item_id": "poco/citrus@qssi-user-11-RKQ1.201004.002-V12.5.4.0.RJFIDXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201004.002-V12.5.4.0.RJFIDXM-release-keys",
+        "commit": "ebc86fcafbaab597c305cc1cc82910ffe56f67a7",
+        "committed_date": "2022-01-17T19:42:32.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-08-08T12:06:55.160Z",
+        "namespace_hint": "poco",
+        "project_hint": "citrus",
+        "project_id": 34,
+        "project_path": "poco/citrus"
+      },
+      "revision": "ebc86fcafbaab597c305cc1cc82910ffe56f67a7",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/citrus/-/tree/ebc86fcafbaab597c305cc1cc82910ffe56f67a7"
+    },
+    {
+      "item_id": "poco/citrus@qssi-user-11-RKQ1.201004.002-V12.5.6.0.RJFINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201004.002-V12.5.6.0.RJFINXM-release-keys",
+        "commit": "30c3c67c01eeaa020ddb343affb82c0ad1fc053c",
+        "committed_date": "2022-12-02T14:21:43.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-08-08T12:06:55.160Z",
+        "namespace_hint": "poco",
+        "project_hint": "citrus",
+        "project_id": 34,
+        "project_path": "poco/citrus"
+      },
+      "revision": "30c3c67c01eeaa020ddb343affb82c0ad1fc053c",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/citrus/-/tree/30c3c67c01eeaa020ddb343affb82c0ad1fc053c"
+    },
+    {
+      "item_id": "poco/citrus@qssi-user-12-SKQ1.211202.001-V13.0.1.0.SJFIDXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211202.001-V13.0.1.0.SJFIDXM-release-keys",
+        "commit": "f82a4596d5d397115c48eb6ad1bd7e8771392bb1",
+        "committed_date": "2023-01-15T19:08:23.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-08-08T12:06:55.160Z",
+        "namespace_hint": "poco",
+        "project_hint": "citrus",
+        "project_id": 34,
+        "project_path": "poco/citrus"
+      },
+      "revision": "f82a4596d5d397115c48eb6ad1bd7e8771392bb1",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/citrus/-/tree/f82a4596d5d397115c48eb6ad1bd7e8771392bb1"
+    },
+    {
+      "item_id": "poco/citrus@qssi-user-12-SKQ1.211202.001-V13.0.3.0.SJFMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211202.001-V13.0.3.0.SJFMIXM-release-keys",
+        "commit": "541c694363bfdfc1eb7669130ea3d92221b68d79",
+        "committed_date": "2023-02-19T14:05:40.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-08-08T12:06:55.160Z",
+        "namespace_hint": "poco",
+        "project_hint": "citrus",
+        "project_id": 34,
+        "project_path": "poco/citrus"
+      },
+      "revision": "541c694363bfdfc1eb7669130ea3d92221b68d79",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/citrus/-/tree/541c694363bfdfc1eb7669130ea3d92221b68d79"
+    },
+    {
+      "item_id": "poco/citrus@qssi-user-12-SKQ1.211202.001-V14.0.2.0.SJFIDXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211202.001-V14.0.2.0.SJFIDXM-release-keys",
+        "commit": "c7405c737433946eb8ca2c5fda65de3872abf96c",
+        "committed_date": "2023-08-08T14:58:17.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-08-08T12:06:55.160Z",
+        "namespace_hint": "poco",
+        "project_hint": "citrus",
+        "project_id": 34,
+        "project_path": "poco/citrus"
+      },
+      "revision": "c7405c737433946eb8ca2c5fda65de3872abf96c",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/citrus/-/tree/c7405c737433946eb8ca2c5fda65de3872abf96c"
+    },
+    {
+      "item_id": "poco/citrus@qssi-user-12-SKQ1.211202.001-V14.0.2.0.SJFMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211202.001-V14.0.2.0.SJFMIXM-release-keys",
+        "commit": "8432117288fc66371f7bb25660f1a84850d8c168",
+        "committed_date": "2023-08-07T09:35:25.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-08-08T12:06:55.160Z",
+        "namespace_hint": "poco",
+        "project_hint": "citrus",
+        "project_id": 34,
+        "project_path": "poco/citrus"
+      },
+      "revision": "8432117288fc66371f7bb25660f1a84850d8c168",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/citrus/-/tree/8432117288fc66371f7bb25660f1a84850d8c168"
+    },
+    {
+      "item_id": "poco/duchamp@missi-user-15-AP3A.240905.015.A2-OS2.0.1.0.VNLMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-15-AP3A.240905.015.A2-OS2.0.1.0.VNLMIXM-release-keys",
+        "commit": "527d0847801d416455dfcd88d5397fe882d1f778",
+        "committed_date": "2025-02-13T19:16:46.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-03-01T20:49:59.356Z",
+        "namespace_hint": "poco",
+        "project_hint": "duchamp",
+        "project_id": 4683,
+        "project_path": "poco/duchamp"
+      },
+      "revision": "527d0847801d416455dfcd88d5397fe882d1f778",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/duchamp/-/tree/527d0847801d416455dfcd88d5397fe882d1f778"
+    },
+    {
+      "item_id": "poco/duchamp@missi-user-15-AP3A.240905.015.A2-OS2.0.100.0.VNLMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-15-AP3A.240905.015.A2-OS2.0.100.0.VNLMIXM-release-keys",
+        "commit": "b1a6afcb303c0eb2585e210f0a0197ce143614cc",
+        "committed_date": "2025-03-01T23:34:36.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-03-01T20:49:59.356Z",
+        "namespace_hint": "poco",
+        "project_hint": "duchamp",
+        "project_id": 4683,
+        "project_path": "poco/duchamp"
+      },
+      "revision": "b1a6afcb303c0eb2585e210f0a0197ce143614cc",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/duchamp/-/tree/b1a6afcb303c0eb2585e210f0a0197ce143614cc"
+    },
+    {
+      "item_id": "poco/duchamp@missi-user-15-AP3A.240905.015.A2-OS2.0.2.0.VNLEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-15-AP3A.240905.015.A2-OS2.0.2.0.VNLEUXM-release-keys",
+        "commit": "1c529bd0a98705cdc20c52adbf06016bf1a56dcd",
+        "committed_date": "2025-02-08T19:03:01.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-03-01T20:49:59.356Z",
+        "namespace_hint": "poco",
+        "project_hint": "duchamp",
+        "project_id": 4683,
+        "project_path": "poco/duchamp"
+      },
+      "revision": "1c529bd0a98705cdc20c52adbf06016bf1a56dcd",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/duchamp/-/tree/1c529bd0a98705cdc20c52adbf06016bf1a56dcd"
+    },
+    {
+      "item_id": "poco/duchamp@missi_phone_global_only64-user-14-UP1A.230905.011-V816.0.10.0.UNLMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global_only64-user-14-UP1A.230905.011-V816.0.10.0.UNLMIXM-release-keys",
+        "commit": "ecb8369a08e6c8a9e2a27169bc2cc642c21b1e3f",
+        "committed_date": "2024-09-03T12:22:41.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-03-01T20:49:59.356Z",
+        "namespace_hint": "poco",
+        "project_hint": "duchamp",
+        "project_id": 4683,
+        "project_path": "poco/duchamp"
+      },
+      "revision": "ecb8369a08e6c8a9e2a27169bc2cc642c21b1e3f",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/duchamp/-/tree/ecb8369a08e6c8a9e2a27169bc2cc642c21b1e3f"
+    },
+    {
+      "item_id": "poco/duchamp@missi_phone_global_only64-user-14-UP1A.230905.011-V816.0.12.0.UNLMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global_only64-user-14-UP1A.230905.011-V816.0.12.0.UNLMIXM-release-keys",
+        "commit": "e7050cc761b6dca55a76a474dec73e8e32758caf",
+        "committed_date": "2024-09-19T07:35:17.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-03-01T20:49:59.356Z",
+        "namespace_hint": "poco",
+        "project_hint": "duchamp",
+        "project_id": 4683,
+        "project_path": "poco/duchamp"
+      },
+      "revision": "e7050cc761b6dca55a76a474dec73e8e32758caf",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/duchamp/-/tree/e7050cc761b6dca55a76a474dec73e8e32758caf"
+    },
+    {
+      "item_id": "poco/duchamp@missi_phone_global_only64-user-14-UP1A.230905.011-V816.0.13.0.UNLMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global_only64-user-14-UP1A.230905.011-V816.0.13.0.UNLMIXM-release-keys",
+        "commit": "a4eaf58f85cc80c52a7882bfe1af75642d9471ae",
+        "committed_date": "2024-10-30T08:47:38.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-03-01T20:49:59.356Z",
+        "namespace_hint": "poco",
+        "project_hint": "duchamp",
+        "project_id": 4683,
+        "project_path": "poco/duchamp"
+      },
+      "revision": "a4eaf58f85cc80c52a7882bfe1af75642d9471ae",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/duchamp/-/tree/a4eaf58f85cc80c52a7882bfe1af75642d9471ae"
+    },
+    {
+      "item_id": "poco/duchamp@missi_phone_global_only64-user-14-UP1A.230905.011-V816.0.14.0.UNLMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global_only64-user-14-UP1A.230905.011-V816.0.14.0.UNLMIXM-release-keys",
+        "commit": "639aef266cb921acfccdc4d13d60c238366127ad",
+        "committed_date": "2025-01-14T14:39:17.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-03-01T20:49:59.356Z",
+        "namespace_hint": "poco",
+        "project_hint": "duchamp",
+        "project_id": 4683,
+        "project_path": "poco/duchamp"
+      },
+      "revision": "639aef266cb921acfccdc4d13d60c238366127ad",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/duchamp/-/tree/639aef266cb921acfccdc4d13d60c238366127ad"
+    },
+    {
+      "item_id": "poco/duchamp@missi_phone_global_only64-user-14-UP1A.230905.011-V816.0.2.0.UNLMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global_only64-user-14-UP1A.230905.011-V816.0.2.0.UNLMIXM-release-keys",
+        "commit": "ef87614bb243b539c97a193bee89154d2a522be6",
+        "committed_date": "2024-01-11T17:07:27.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-03-01T20:49:59.356Z",
+        "namespace_hint": "poco",
+        "project_hint": "duchamp",
+        "project_id": 4683,
+        "project_path": "poco/duchamp"
+      },
+      "revision": "ef87614bb243b539c97a193bee89154d2a522be6",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/duchamp/-/tree/ef87614bb243b539c97a193bee89154d2a522be6"
+    },
+    {
+      "item_id": "poco/duchamp@missi_phone_global_only64-user-14-UP1A.230905.011-V816.0.5.0.UNLINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global_only64-user-14-UP1A.230905.011-V816.0.5.0.UNLINXM-release-keys",
+        "commit": "20cd1b4c6ede88f76a74f89dae889c27940b67a1",
+        "committed_date": "2024-02-22T18:00:28.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-03-01T20:49:59.356Z",
+        "namespace_hint": "poco",
+        "project_hint": "duchamp",
+        "project_id": 4683,
+        "project_path": "poco/duchamp"
+      },
+      "revision": "20cd1b4c6ede88f76a74f89dae889c27940b67a1",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/duchamp/-/tree/20cd1b4c6ede88f76a74f89dae889c27940b67a1"
+    },
+    {
+      "item_id": "poco/earth@missi-user-12-SP1A.210812.016-V13.0.2.0.SCVINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SP1A.210812.016-V13.0.2.0.SCVINXM-release-keys",
+        "commit": "b7ebcce0fb14537637db4c56edf08bb62102721c",
+        "committed_date": "2023-03-07T12:42:05.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-03-07T09:39:04.446Z",
+        "namespace_hint": "poco",
+        "project_hint": "earth",
+        "project_id": 4086,
+        "project_path": "poco/earth"
+      },
+      "revision": "b7ebcce0fb14537637db4c56edf08bb62102721c",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/earth/-/tree/b7ebcce0fb14537637db4c56edf08bb62102721c"
+    },
+    {
+      "item_id": "poco/emerald@missi-user-15-AP3A.240905.015.A2-OS2.0.2.0.VNFMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-15-AP3A.240905.015.A2-OS2.0.2.0.VNFMIXM-release-keys",
+        "commit": "20c3165148ffde0036ef6fc17721003cd05fc837",
+        "committed_date": "2025-01-20T18:06:23.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-01-20T15:19:20.678Z",
+        "namespace_hint": "poco",
+        "project_hint": "emerald",
+        "project_id": 4684,
+        "project_path": "poco/emerald"
+      },
+      "revision": "20c3165148ffde0036ef6fc17721003cd05fc837",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/emerald/-/tree/20c3165148ffde0036ef6fc17721003cd05fc837"
+    },
+    {
+      "item_id": "poco/emerald@missi_phone_global-user-13-TP1A.220624.014-V14.0.2.0.TNFRUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-13-TP1A.220624.014-V14.0.2.0.TNFRUXM-release-keys",
+        "commit": "9bc1187624d4c4fa23af6df8ca96c38731e547bc",
+        "committed_date": "2024-01-12T12:07:50.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-20T15:19:20.678Z",
+        "namespace_hint": "poco",
+        "project_hint": "emerald",
+        "project_id": 4684,
+        "project_path": "poco/emerald"
+      },
+      "revision": "9bc1187624d4c4fa23af6df8ca96c38731e547bc",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/emerald/-/tree/9bc1187624d4c4fa23af6df8ca96c38731e547bc"
+    },
+    {
+      "item_id": "poco/emerald@missi_phone_global-user-14-UP1A.231005.007-V816.0.1.0.UNFMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-14-UP1A.231005.007-V816.0.1.0.UNFMIXM-release-keys",
+        "commit": "63511db00f68a70fde13fc7487c1da8bef343933",
+        "committed_date": "2024-04-07T21:19:30.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-20T15:19:20.678Z",
+        "namespace_hint": "poco",
+        "project_hint": "emerald",
+        "project_id": 4684,
+        "project_path": "poco/emerald"
+      },
+      "revision": "63511db00f68a70fde13fc7487c1da8bef343933",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/emerald/-/tree/63511db00f68a70fde13fc7487c1da8bef343933"
+    },
+    {
+      "item_id": "poco/emerald@missi_phone_global-user-14-UP1A.231005.007-V816.0.7.0.UNFMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-14-UP1A.231005.007-V816.0.7.0.UNFMIXM-release-keys",
+        "commit": "6211f03334a518715777d8495b7ffd388c3ae368",
+        "committed_date": "2024-12-01T16:10:13.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-20T15:19:20.678Z",
+        "namespace_hint": "poco",
+        "project_hint": "emerald",
+        "project_id": 4684,
+        "project_path": "poco/emerald"
+      },
+      "revision": "6211f03334a518715777d8495b7ffd388c3ae368",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/emerald/-/tree/6211f03334a518715777d8495b7ffd388c3ae368"
+    },
+    {
+      "item_id": "poco/emerald@missi_phone_global-user-14-UP1A.231005.007-V816.0.8.0.UNFIDXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-14-UP1A.231005.007-V816.0.8.0.UNFIDXM-release-keys",
+        "commit": "0726944c162766bd03cadf1872ef6ece3e53b807",
+        "committed_date": "2025-01-14T16:16:00.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-20T15:19:20.678Z",
+        "namespace_hint": "poco",
+        "project_hint": "emerald",
+        "project_id": 4684,
+        "project_path": "poco/emerald"
+      },
+      "revision": "0726944c162766bd03cadf1872ef6ece3e53b807",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/emerald/-/tree/0726944c162766bd03cadf1872ef6ece3e53b807"
+    },
+    {
+      "item_id": "poco/eos@missi_phoneext4_global-user-13-TP1A.220624.014-V14.0.6.0.TKUMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_global-user-13-TP1A.220624.014-V14.0.6.0.TKUMIXM-release-keys",
+        "commit": "b2ac8f6311a0af684be8be3082c2fb6990665f0d",
+        "committed_date": "2023-12-21T20:08:40.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-12-21T17:18:57.714Z",
+        "namespace_hint": "poco",
+        "project_hint": "eos",
+        "project_id": 1679,
+        "project_path": "poco/eos"
+      },
+      "revision": "b2ac8f6311a0af684be8be3082c2fb6990665f0d",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/eos/-/tree/b2ac8f6311a0af684be8be3082c2fb6990665f0d"
+    },
+    {
+      "item_id": "poco/eos@selene-user-11-RP1A.200720.011-V12.5.20.0.RKUMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "selene-user-11-RP1A.200720.011-V12.5.20.0.RKUMIXM-release-keys",
+        "commit": "c554e22e6ae7f1e6cc8630bba57642186f1fd481",
+        "committed_date": "2023-11-15T16:10:50.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-12-21T17:18:57.714Z",
+        "namespace_hint": "poco",
+        "project_hint": "eos",
+        "project_id": 1679,
+        "project_path": "poco/eos"
+      },
+      "revision": "c554e22e6ae7f1e6cc8630bba57642186f1fd481",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/eos/-/tree/c554e22e6ae7f1e6cc8630bba57642186f1fd481"
+    },
+    {
+      "item_id": "poco/eos@selene-user-11-RP1A.200720.011-V12.5.4.0.RKUMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "selene-user-11-RP1A.200720.011-V12.5.4.0.RKUMIXM-release-keys",
+        "commit": "6f3a2739923ff902ae5eb5c3166e2943f70bf950",
+        "committed_date": "2021-08-19T09:53:21.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-12-21T17:18:57.714Z",
+        "namespace_hint": "poco",
+        "project_hint": "eos",
+        "project_id": 1679,
+        "project_path": "poco/eos"
+      },
+      "revision": "6f3a2739923ff902ae5eb5c3166e2943f70bf950",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/eos/-/tree/6f3a2739923ff902ae5eb5c3166e2943f70bf950"
+    },
+    {
+      "item_id": "poco/eos@selene-user-12-SP1A.210812.016-V13.0.1.0.SKUMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "selene-user-12-SP1A.210812.016-V13.0.1.0.SKUMIXM-release-keys",
+        "commit": "40524edcba0dab66be094aabe48a7e63e14f81ab",
+        "committed_date": "2022-02-07T16:29:31.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-12-21T17:18:57.714Z",
+        "namespace_hint": "poco",
+        "project_hint": "eos",
+        "project_id": 1679,
+        "project_path": "poco/eos"
+      },
+      "revision": "40524edcba0dab66be094aabe48a7e63e14f81ab",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/eos/-/tree/40524edcba0dab66be094aabe48a7e63e14f81ab"
+    },
+    {
+      "item_id": "poco/evergreen@evergreen-user-11-RP1A.200720.011-V12.5.2.0.RGBMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "evergreen-user-11-RP1A.200720.011-V12.5.2.0.RGBMIXM-release-keys",
+        "commit": "7d5b12370b91042e73a7d9308639e24abaecec8f",
+        "committed_date": "2021-11-11T14:59:44.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T19:44:17.813Z",
+        "namespace_hint": "poco",
+        "project_hint": "evergreen",
+        "project_id": 779,
+        "project_path": "poco/evergreen"
+      },
+      "revision": "7d5b12370b91042e73a7d9308639e24abaecec8f",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/evergreen/-/tree/7d5b12370b91042e73a7d9308639e24abaecec8f"
+    },
+    {
+      "item_id": "poco/fleur@fleur-user-11-RP1A.200720.011-V13.0.1.0.RKEEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "fleur-user-11-RP1A.200720.011-V13.0.1.0.RKEEUXM-release-keys",
+        "commit": "e03547e1a83292623ac265bba077750c9a5280c3",
+        "committed_date": "2022-01-26T20:01:17.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-10-10T14:09:47.696Z",
+        "namespace_hint": "poco",
+        "project_hint": "fleur",
+        "project_id": 787,
+        "project_path": "poco/fleur"
+      },
+      "revision": "e03547e1a83292623ac265bba077750c9a5280c3",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/fleur/-/tree/e03547e1a83292623ac265bba077750c9a5280c3"
+    },
+    {
+      "item_id": "poco/fleur@fleur-user-11-RP1A.200720.011-V13.0.2.0.RKERUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "fleur-user-11-RP1A.200720.011-V13.0.2.0.RKERUXM-release-keys",
+        "commit": "bb588def247635f33d769795337194621c3d54d9",
+        "committed_date": "2022-01-27T10:23:29.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-10-10T14:09:47.696Z",
+        "namespace_hint": "poco",
+        "project_hint": "fleur",
+        "project_id": 787,
+        "project_path": "poco/fleur"
+      },
+      "revision": "bb588def247635f33d769795337194621c3d54d9",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/fleur/-/tree/bb588def247635f33d769795337194621c3d54d9"
+    },
+    {
+      "item_id": "poco/fleur@missi_phoneext4_eea-user-13-TP1A.220624.014-V14.0.2.0.TKEEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_eea-user-13-TP1A.220624.014-V14.0.2.0.TKEEUXM-release-keys",
+        "commit": "2d6167f7548f9568db91c8cd8f191e5ec29ee52a",
+        "committed_date": "2023-05-18T23:07:27.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-10-10T14:09:47.696Z",
+        "namespace_hint": "poco",
+        "project_hint": "fleur",
+        "project_id": 787,
+        "project_path": "poco/fleur"
+      },
+      "revision": "2d6167f7548f9568db91c8cd8f191e5ec29ee52a",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/fleur/-/tree/2d6167f7548f9568db91c8cd8f191e5ec29ee52a"
+    },
+    {
+      "item_id": "poco/fleur@missi_phoneext4_eea-user-13-TP1A.220624.014-V816.0.1.0.TKEEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_eea-user-13-TP1A.220624.014-V816.0.1.0.TKEEUXM-release-keys",
+        "commit": "ea0b52fbf5736b1bc20b6be1fb2649e59bb95fc8",
+        "committed_date": "2024-03-25T14:01:51.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-10-10T14:09:47.696Z",
+        "namespace_hint": "poco",
+        "project_hint": "fleur",
+        "project_id": 787,
+        "project_path": "poco/fleur"
+      },
+      "revision": "ea0b52fbf5736b1bc20b6be1fb2649e59bb95fc8",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/fleur/-/tree/ea0b52fbf5736b1bc20b6be1fb2649e59bb95fc8"
+    },
+    {
+      "item_id": "poco/fleur@missi_phoneext4_global-user-13-TP1A.220624.014-V14.0.4.0.TKEINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_global-user-13-TP1A.220624.014-V14.0.4.0.TKEINXM-release-keys",
+        "commit": "5bccf340b38c599c0a51fdf1d6b2664b43bf4768",
+        "committed_date": "2024-03-09T22:13:49.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-10-10T14:09:47.696Z",
+        "namespace_hint": "poco",
+        "project_hint": "fleur",
+        "project_id": 787,
+        "project_path": "poco/fleur"
+      },
+      "revision": "5bccf340b38c599c0a51fdf1d6b2664b43bf4768",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/fleur/-/tree/5bccf340b38c599c0a51fdf1d6b2664b43bf4768"
+    },
+    {
+      "item_id": "poco/fleur@missi_phoneext4_global-user-13-TP1A.220624.014-V14.0.6.0.TKEMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_global-user-13-TP1A.220624.014-V14.0.6.0.TKEMIXM-release-keys",
+        "commit": "692bee948d13e28aee59d66abbf07771c45599b6",
+        "committed_date": "2024-08-25T18:26:14.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-10-10T14:09:47.696Z",
+        "namespace_hint": "poco",
+        "project_hint": "fleur",
+        "project_id": 787,
+        "project_path": "poco/fleur"
+      },
+      "revision": "692bee948d13e28aee59d66abbf07771c45599b6",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/fleur/-/tree/692bee948d13e28aee59d66abbf07771c45599b6"
+    },
+    {
+      "item_id": "poco/fleur@missi_phoneext4_global-user-13-TP1A.220624.014-V816.0.4.0.TKEMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_global-user-13-TP1A.220624.014-V816.0.4.0.TKEMIXM-release-keys",
+        "commit": "b8e9d3497e5280b367dbca6c9a01fd3d1b140a65",
+        "committed_date": "2024-10-10T16:53:09.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-10-10T14:09:47.696Z",
+        "namespace_hint": "poco",
+        "project_hint": "fleur",
+        "project_id": 787,
+        "project_path": "poco/fleur"
+      },
+      "revision": "b8e9d3497e5280b367dbca6c9a01fd3d1b140a65",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/fleur/-/tree/b8e9d3497e5280b367dbca6c9a01fd3d1b140a65"
+    },
+    {
+      "item_id": "poco/frost@frost-user-11-RD2A.211001.002-V13.0.7.0.RGFMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "frost-user-11-RD2A.211001.002-V13.0.7.0.RGFMIXM-release-keys",
+        "commit": "ffef137ae06a5dda256ed6ea97bf2710287ad480",
+        "committed_date": "2022-07-04T12:16:31.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-07-04T09:13:23.733Z",
+        "namespace_hint": "poco",
+        "project_hint": "frost",
+        "project_id": 2344,
+        "project_path": "poco/frost"
+      },
+      "revision": "ffef137ae06a5dda256ed6ea97bf2710287ad480",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/frost/-/tree/ffef137ae06a5dda256ed6ea97bf2710287ad480"
+    },
+    {
+      "item_id": "poco/gram@qssi-user-10-QKQ1.191215.002-V11.0.2.0.QJPINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.191215.002-V11.0.2.0.QJPINXM-release-keys",
+        "commit": "56f6497aba2352d140efad2c5bb0b3f2e402eb68",
+        "committed_date": "2020-07-15T10:06:06.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2024-01-11T15:05:56.448Z",
+        "namespace_hint": "poco",
+        "project_hint": "gram",
+        "project_id": 1829,
+        "project_path": "poco/gram"
+      },
+      "revision": "56f6497aba2352d140efad2c5bb0b3f2e402eb68",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/gram/-/tree/56f6497aba2352d140efad2c5bb0b3f2e402eb68"
+    },
+    {
+      "item_id": "poco/gram@qssi-user-10-QKQ1.191215.002-V11.0.3.0.QJPINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.191215.002-V11.0.3.0.QJPINXM-release-keys",
+        "commit": "9725445a19f7dff74634b5990cc0cf5d54190c35",
+        "committed_date": "2020-07-17T07:35:42.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2024-01-11T15:05:56.448Z",
+        "namespace_hint": "poco",
+        "project_hint": "gram",
+        "project_id": 1829,
+        "project_path": "poco/gram"
+      },
+      "revision": "9725445a19f7dff74634b5990cc0cf5d54190c35",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/gram/-/tree/9725445a19f7dff74634b5990cc0cf5d54190c35"
+    },
+    {
+      "item_id": "poco/gram@qssi-user-10-QKQ1.191215.002-V12.0.1.0.QJPINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.191215.002-V12.0.1.0.QJPINXM-release-keys",
+        "commit": "69dcdf214474d46ba0e1828db0775e2a87e36c0c",
+        "committed_date": "2020-09-29T14:13:50.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2024-01-11T15:05:56.448Z",
+        "namespace_hint": "poco",
+        "project_hint": "gram",
+        "project_id": 1829,
+        "project_path": "poco/gram"
+      },
+      "revision": "69dcdf214474d46ba0e1828db0775e2a87e36c0c",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/gram/-/tree/69dcdf214474d46ba0e1828db0775e2a87e36c0c"
+    },
+    {
+      "item_id": "poco/gram@qssi-user-10-QKQ1.191215.002-V12.0.4.0.QJPINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.191215.002-V12.0.4.0.QJPINXM-release-keys",
+        "commit": "58e916b31351e5d7e91da8455982314781d87a9f",
+        "committed_date": "2021-06-02T16:12:36.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2024-01-11T15:05:56.448Z",
+        "namespace_hint": "poco",
+        "project_hint": "gram",
+        "project_id": 1829,
+        "project_path": "poco/gram"
+      },
+      "revision": "58e916b31351e5d7e91da8455982314781d87a9f",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/gram/-/tree/58e916b31351e5d7e91da8455982314781d87a9f"
+    },
+    {
+      "item_id": "poco/gram@qssi-user-11-RKQ1.200826.002-V12.0.1.0.RJPINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.0.1.0.RJPINXM-release-keys",
+        "commit": "b2bb699eb0a149d65a57c5cbc501a4e8e993507f",
+        "committed_date": "2021-08-20T11:53:42.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-01-11T15:05:56.448Z",
+        "namespace_hint": "poco",
+        "project_hint": "gram",
+        "project_id": 1829,
+        "project_path": "poco/gram"
+      },
+      "revision": "b2bb699eb0a149d65a57c5cbc501a4e8e993507f",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/gram/-/tree/b2bb699eb0a149d65a57c5cbc501a4e8e993507f"
+    },
+    {
+      "item_id": "poco/gram@qssi-user-11-RKQ1.200826.002-V12.0.1.1.RJPINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.0.1.1.RJPINXM-release-keys",
+        "commit": "c6c9d66119d1e676ab9a4cd46a7a50f65785d09d",
+        "committed_date": "2021-09-11T12:09:27.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-01-11T15:05:56.448Z",
+        "namespace_hint": "poco",
+        "project_hint": "gram",
+        "project_id": 1829,
+        "project_path": "poco/gram"
+      },
+      "revision": "c6c9d66119d1e676ab9a4cd46a7a50f65785d09d",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/gram/-/tree/c6c9d66119d1e676ab9a4cd46a7a50f65785d09d"
+    },
+    {
+      "item_id": "poco/gram@qssi-user-11-RKQ1.200826.002-V12.5.2.0.RJPINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.2.0.RJPINXM-release-keys",
+        "commit": "2bec55a143373b2eec030ec72ab16d09d6f1e666",
+        "committed_date": "2021-11-11T12:28:08.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-01-11T15:05:56.448Z",
+        "namespace_hint": "poco",
+        "project_hint": "gram",
+        "project_id": 1829,
+        "project_path": "poco/gram"
+      },
+      "revision": "2bec55a143373b2eec030ec72ab16d09d6f1e666",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/gram/-/tree/2bec55a143373b2eec030ec72ab16d09d6f1e666"
+    },
+    {
+      "item_id": "poco/gram@qssi-user-12-SKQ1.211019.001-V13.0.1.0.SJPINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211019.001-V13.0.1.0.SJPINXM-release-keys",
+        "commit": "a451088eaa7926a2c97ceefb9478da4ac91e4aed",
+        "committed_date": "2022-10-19T10:27:24.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-01-11T15:05:56.448Z",
+        "namespace_hint": "poco",
+        "project_hint": "gram",
+        "project_id": 1829,
+        "project_path": "poco/gram"
+      },
+      "revision": "a451088eaa7926a2c97ceefb9478da4ac91e4aed",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/gram/-/tree/a451088eaa7926a2c97ceefb9478da4ac91e4aed"
+    },
+    {
+      "item_id": "poco/gram@qssi-user-12-SKQ1.211019.001-V14.0.5.0.SJPINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211019.001-V14.0.5.0.SJPINXM-release-keys",
+        "commit": "d908f6872cf18e0907a76b311a8998073a178995",
+        "committed_date": "2024-01-11T17:58:20.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-01-11T15:05:56.448Z",
+        "namespace_hint": "poco",
+        "project_hint": "gram",
+        "project_id": 1829,
+        "project_path": "poco/gram"
+      },
+      "revision": "d908f6872cf18e0907a76b311a8998073a178995",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/gram/-/tree/d908f6872cf18e0907a76b311a8998073a178995"
+    },
+    {
+      "item_id": "poco/ingres@missi_phone_eea-user-13-TKQ1.220807.001-V14.0.5.0.TLJEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_eea-user-13-TKQ1.220807.001-V14.0.5.0.TLJEUXM-release-keys",
+        "commit": "040bab6765781ad0bb770cffaa9cb2ee82f20a2c",
+        "committed_date": "2023-07-03T21:08:18.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-15T13:56:20.606Z",
+        "namespace_hint": "poco",
+        "project_hint": "ingres",
+        "project_id": 4346,
+        "project_path": "poco/ingres"
+      },
+      "revision": "040bab6765781ad0bb770cffaa9cb2ee82f20a2c",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/ingres/-/tree/040bab6765781ad0bb770cffaa9cb2ee82f20a2c"
+    },
+    {
+      "item_id": "poco/ingres@missi_phone_global-user-14-UKQ1.230917.001-V816.0.5.0.ULJMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-14-UKQ1.230917.001-V816.0.5.0.ULJMIXM-release-keys",
+        "commit": "afb841c7f2dc1f2c22a1312504679b4a0bb771f1",
+        "committed_date": "2024-10-12T18:02:36.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-15T13:56:20.606Z",
+        "namespace_hint": "poco",
+        "project_hint": "ingres",
+        "project_id": 4346,
+        "project_path": "poco/ingres"
+      },
+      "revision": "afb841c7f2dc1f2c22a1312504679b4a0bb771f1",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/ingres/-/tree/afb841c7f2dc1f2c22a1312504679b4a0bb771f1"
+    },
+    {
+      "item_id": "poco/ingres@missi_phone_global-user-14-UKQ1.240624.001-OS2.0.2.0.ULJMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-14-UKQ1.240624.001-OS2.0.2.0.ULJMIXM-release-keys",
+        "commit": "3f148a4940fe4faeceb41abf60fede404165bd1a",
+        "committed_date": "2025-05-15T16:43:39.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-05-15T13:56:20.606Z",
+        "namespace_hint": "poco",
+        "project_hint": "ingres",
+        "project_id": 4346,
+        "project_path": "poco/ingres"
+      },
+      "revision": "3f148a4940fe4faeceb41abf60fede404165bd1a",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/ingres/-/tree/3f148a4940fe4faeceb41abf60fede404165bd1a"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-10-QKQ1.200512.002-V12.0.10.0.QJGINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.200512.002-V12.0.10.0.QJGINXM-release-keys",
+        "commit": "153742a1b47f7dcdf02d9d9b25e685b7d2e7a0a8",
+        "committed_date": "2021-05-16T10:37:56.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T07:59:34.164Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 915,
+        "project_path": "poco/karna"
+      },
+      "revision": "153742a1b47f7dcdf02d9d9b25e685b7d2e7a0a8",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/karna/-/tree/153742a1b47f7dcdf02d9d9b25e685b7d2e7a0a8"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-10-QKQ1.200512.002-V12.0.8.0.QJGMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.200512.002-V12.0.8.0.QJGMIXM-release-keys",
+        "commit": "62f5b55431f14ffe91f6ee138c70c750366fc6bd",
+        "committed_date": "2021-04-05T13:25:42.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T07:59:34.164Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 915,
+        "project_path": "poco/karna"
+      },
+      "revision": "62f5b55431f14ffe91f6ee138c70c750366fc6bd",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/karna/-/tree/62f5b55431f14ffe91f6ee138c70c750366fc6bd"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-10-QKQ1.200512.002-V12.0.9.0.QJGINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.200512.002-V12.0.9.0.QJGINXM-release-keys",
+        "commit": "c9b4cb30c683fdbae8a8f715297a640775878b92",
+        "committed_date": "2021-03-21T18:58:43.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T07:59:34.164Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 915,
+        "project_path": "poco/karna"
+      },
+      "revision": "c9b4cb30c683fdbae8a8f715297a640775878b92",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/karna/-/tree/c9b4cb30c683fdbae8a8f715297a640775878b92"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-10-QKQ1.200512.002-V12.0.9.0.QJGMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-10-QKQ1.200512.002-V12.0.9.0.QJGMIXM-release-keys",
+        "commit": "8aed00b28a7be33a498d90741e0ef1d76572a1df",
+        "committed_date": "2021-05-16T10:32:23.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T07:59:34.164Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 915,
+        "project_path": "poco/karna"
+      },
+      "revision": "8aed00b28a7be33a498d90741e0ef1d76572a1df",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/karna/-/tree/8aed00b28a7be33a498d90741e0ef1d76572a1df"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-11-RKQ1.200826.002-V12.0.1.0.RJGINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.0.1.0.RJGINXM-release-keys",
+        "commit": "407eb1541e06f4d4c01fb1ee2df1395f6d45b2e5",
+        "committed_date": "2021-06-15T16:01:39.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T07:59:34.164Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 915,
+        "project_path": "poco/karna"
+      },
+      "revision": "407eb1541e06f4d4c01fb1ee2df1395f6d45b2e5",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/karna/-/tree/407eb1541e06f4d4c01fb1ee2df1395f6d45b2e5"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-11-RKQ1.200826.002-V12.0.1.0.RJGMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.0.1.0.RJGMIXM-release-keys",
+        "commit": "ada6eb67922de3b1b5a92620142a503c5bed18b7",
+        "committed_date": "2021-06-08T13:45:59.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T07:59:34.164Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 915,
+        "project_path": "poco/karna"
+      },
+      "revision": "ada6eb67922de3b1b5a92620142a503c5bed18b7",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/karna/-/tree/ada6eb67922de3b1b5a92620142a503c5bed18b7"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-11-RKQ1.200826.002-V12.0.1.1.RJGINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.0.1.1.RJGINXM-release-keys",
+        "commit": "8e6fdbae94c9549ad07d65126dfc6531591894aa",
+        "committed_date": "2021-06-26T23:44:17.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T07:59:34.164Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 915,
+        "project_path": "poco/karna"
+      },
+      "revision": "8e6fdbae94c9549ad07d65126dfc6531591894aa",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/karna/-/tree/8e6fdbae94c9549ad07d65126dfc6531591894aa"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-11-RKQ1.200826.002-V12.0.1.2.RJGINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.0.1.2.RJGINXM-release-keys",
+        "commit": "23db02c19fe4fdc2e848d0d1de20d4c2e8e74eb7",
+        "committed_date": "2021-07-12T22:10:12.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T07:59:34.164Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 915,
+        "project_path": "poco/karna"
+      },
+      "revision": "23db02c19fe4fdc2e848d0d1de20d4c2e8e74eb7",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/karna/-/tree/23db02c19fe4fdc2e848d0d1de20d4c2e8e74eb7"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-11-RKQ1.200826.002-V12.0.2.0.RJGINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.0.2.0.RJGINXM-release-keys",
+        "commit": "748f886f21a57c262f1eb86e1533e8135d497824",
+        "committed_date": "2021-07-23T17:55:56.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T07:59:34.164Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 915,
+        "project_path": "poco/karna"
+      },
+      "revision": "748f886f21a57c262f1eb86e1533e8135d497824",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/karna/-/tree/748f886f21a57c262f1eb86e1533e8135d497824"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-11-RKQ1.200826.002-V12.0.6.0.RJGEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.0.6.0.RJGEUXM-release-keys",
+        "commit": "a694951b29d1076d9197af7d6743ae0349f51b89",
+        "committed_date": "2021-03-09T11:39:57.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T07:59:34.164Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 915,
+        "project_path": "poco/karna"
+      },
+      "revision": "a694951b29d1076d9197af7d6743ae0349f51b89",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/karna/-/tree/a694951b29d1076d9197af7d6743ae0349f51b89"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-11-RKQ1.200826.002-V12.0.6.4.RJGEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.0.6.4.RJGEUXM-release-keys",
+        "commit": "a57a9e245b934e6049b218ddfa8e911826a1a4cb",
+        "committed_date": "2021-04-13T03:01:32.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T07:59:34.164Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 915,
+        "project_path": "poco/karna"
+      },
+      "revision": "a57a9e245b934e6049b218ddfa8e911826a1a4cb",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/karna/-/tree/a57a9e245b934e6049b218ddfa8e911826a1a4cb"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-11-RKQ1.200826.002-V12.0.6.7.RJGEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.0.6.7.RJGEUXM-release-keys",
+        "commit": "2962eed0111357fdd463b3d9df4d8944c6df2d79",
+        "committed_date": "2021-05-10T04:17:01.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T07:59:34.164Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 915,
+        "project_path": "poco/karna"
+      },
+      "revision": "2962eed0111357fdd463b3d9df4d8944c6df2d79",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/karna/-/tree/2962eed0111357fdd463b3d9df4d8944c6df2d79"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-11-RKQ1.200826.002-V12.0.7.0.RJGEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.0.7.0.RJGEUXM-release-keys",
+        "commit": "dc345030f25afe1ebef2127dc581eb1d81fb3ce7",
+        "committed_date": "2021-04-15T10:48:16.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T07:59:34.164Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 915,
+        "project_path": "poco/karna"
+      },
+      "revision": "dc345030f25afe1ebef2127dc581eb1d81fb3ce7",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/karna/-/tree/dc345030f25afe1ebef2127dc581eb1d81fb3ce7"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-11-RKQ1.200826.002-V12.0.8.0.RJGEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.0.8.0.RJGEUXM-release-keys",
+        "commit": "5cc03cc011467b6a3628db50dcd763e2ee3aba56",
+        "committed_date": "2021-05-23T07:03:21.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T07:59:34.164Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 915,
+        "project_path": "poco/karna"
+      },
+      "revision": "5cc03cc011467b6a3628db50dcd763e2ee3aba56",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/karna/-/tree/5cc03cc011467b6a3628db50dcd763e2ee3aba56"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-11-RKQ1.200826.002-V12.5.1.0.RJGIDXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.1.0.RJGIDXM-release-keys",
+        "commit": "2f39efa8994c0d7e17ab599b2ff473a9d2789bcf",
+        "committed_date": "2021-09-17T10:26:09.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T07:59:34.164Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 915,
+        "project_path": "poco/karna"
+      },
+      "revision": "2f39efa8994c0d7e17ab599b2ff473a9d2789bcf",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/karna/-/tree/2f39efa8994c0d7e17ab599b2ff473a9d2789bcf"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-11-RKQ1.200826.002-V12.5.1.0.RJGMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.1.0.RJGMIXM-release-keys",
+        "commit": "3112166253e286a4bb5b2412ecebb1e355c9c95f",
+        "committed_date": "2021-07-26T16:04:29.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T07:59:34.164Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 915,
+        "project_path": "poco/karna"
+      },
+      "revision": "3112166253e286a4bb5b2412ecebb1e355c9c95f",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/karna/-/tree/3112166253e286a4bb5b2412ecebb1e355c9c95f"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-11-RKQ1.200826.002-V12.5.1.0.RJGRUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.1.0.RJGRUXM-release-keys",
+        "commit": "133c116c17a5796d6630c186e0cb670fa1f2a792",
+        "committed_date": "2021-09-17T10:38:52.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T07:59:34.164Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 915,
+        "project_path": "poco/karna"
+      },
+      "revision": "133c116c17a5796d6630c186e0cb670fa1f2a792",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/karna/-/tree/133c116c17a5796d6630c186e0cb670fa1f2a792"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-11-RKQ1.200826.002-V12.5.1.0.RJGTRXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.1.0.RJGTRXM-release-keys",
+        "commit": "23a1a2b7702467dd88f5cfbae7c3b47ca6b1a045",
+        "committed_date": "2021-09-17T10:13:11.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T07:59:34.164Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 915,
+        "project_path": "poco/karna"
+      },
+      "revision": "23a1a2b7702467dd88f5cfbae7c3b47ca6b1a045",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/karna/-/tree/23a1a2b7702467dd88f5cfbae7c3b47ca6b1a045"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-11-RKQ1.200826.002-V12.5.2.0.RJGEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.2.0.RJGEUXM-release-keys",
+        "commit": "d3190e2c2e3dacd85464f05402ce8ad2c3bf13f6",
+        "committed_date": "2021-08-23T23:59:35.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T07:59:34.164Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 915,
+        "project_path": "poco/karna"
+      },
+      "revision": "d3190e2c2e3dacd85464f05402ce8ad2c3bf13f6",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/karna/-/tree/d3190e2c2e3dacd85464f05402ce8ad2c3bf13f6"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-11-RKQ1.200826.002-V12.5.2.0.RJGINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.2.0.RJGINXM-release-keys",
+        "commit": "7dd964a48e26b16df62e03f689ebfa29a16e5dd2",
+        "committed_date": "2021-08-30T16:12:33.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T07:59:34.164Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 915,
+        "project_path": "poco/karna"
+      },
+      "revision": "7dd964a48e26b16df62e03f689ebfa29a16e5dd2",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/karna/-/tree/7dd964a48e26b16df62e03f689ebfa29a16e5dd2"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-11-RKQ1.200826.002-V12.5.3.0.RJGEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.3.0.RJGEUXM-release-keys",
+        "commit": "d0a4a4884922e3f653cdce43652fad458403fb86",
+        "committed_date": "2021-10-25T19:32:46.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T07:59:34.164Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 915,
+        "project_path": "poco/karna"
+      },
+      "revision": "d0a4a4884922e3f653cdce43652fad458403fb86",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/karna/-/tree/d0a4a4884922e3f653cdce43652fad458403fb86"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-11-RKQ1.200826.002-V12.5.3.0.RJGINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.3.0.RJGINXM-release-keys",
+        "commit": "36e60ac69ef509ea4e8c7156c6e63f0b5dddffae",
+        "committed_date": "2021-10-27T10:38:36.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T07:59:34.164Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 915,
+        "project_path": "poco/karna"
+      },
+      "revision": "36e60ac69ef509ea4e8c7156c6e63f0b5dddffae",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/karna/-/tree/36e60ac69ef509ea4e8c7156c6e63f0b5dddffae"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-11-RKQ1.200826.002-V12.5.3.0.RJGMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.3.0.RJGMIXM-release-keys",
+        "commit": "54575f0b0f973da28ecb18ab46a6e732ac222fa2",
+        "committed_date": "2021-10-18T13:54:19.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T07:59:34.164Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 915,
+        "project_path": "poco/karna"
+      },
+      "revision": "54575f0b0f973da28ecb18ab46a6e732ac222fa2",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/karna/-/tree/54575f0b0f973da28ecb18ab46a6e732ac222fa2"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-11-RKQ1.200826.002-V12.5.3.1.RJGEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.3.1.RJGEUXM-release-keys",
+        "commit": "bc8f80ad43c1721c6331932c7f48a75100b94952",
+        "committed_date": "2021-10-23T17:10:05.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T07:59:34.164Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 915,
+        "project_path": "poco/karna"
+      },
+      "revision": "bc8f80ad43c1721c6331932c7f48a75100b94952",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/karna/-/tree/bc8f80ad43c1721c6331932c7f48a75100b94952"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-11-RKQ1.200826.002-V12.5.3.1.RJGINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.3.1.RJGINXM-release-keys",
+        "commit": "0c388b6a38bbeb35e3147480f84e3bb50ab971eb",
+        "committed_date": "2021-10-23T13:26:45.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T07:59:34.164Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 915,
+        "project_path": "poco/karna"
+      },
+      "revision": "0c388b6a38bbeb35e3147480f84e3bb50ab971eb",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/karna/-/tree/0c388b6a38bbeb35e3147480f84e3bb50ab971eb"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-11-RKQ1.200826.002-V12.5.4.0.RJGEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.4.0.RJGEUXM-release-keys",
+        "commit": "0ebec8aa59af55f20de5b2727408cf49c79dece1",
+        "committed_date": "2021-11-15T09:52:55.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T07:59:34.164Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 915,
+        "project_path": "poco/karna"
+      },
+      "revision": "0ebec8aa59af55f20de5b2727408cf49c79dece1",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/karna/-/tree/0ebec8aa59af55f20de5b2727408cf49c79dece1"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-11-RKQ1.200826.002-V12.5.4.0.RJGINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.4.0.RJGINXM-release-keys",
+        "commit": "2266d91bf468cdf6d18960c671edcd4c831458f0",
+        "committed_date": "2021-12-23T19:38:53.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T07:59:34.164Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 915,
+        "project_path": "poco/karna"
+      },
+      "revision": "2266d91bf468cdf6d18960c671edcd4c831458f0",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/karna/-/tree/2266d91bf468cdf6d18960c671edcd4c831458f0"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-11-RKQ1.200826.002-V12.5.4.0.RJGMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.4.0.RJGMIXM-release-keys",
+        "commit": "05a2ad941d4cfdefea4afbadaabdcf19dea16690",
+        "committed_date": "2021-11-25T20:14:24.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T07:59:34.164Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 915,
+        "project_path": "poco/karna"
+      },
+      "revision": "05a2ad941d4cfdefea4afbadaabdcf19dea16690",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/karna/-/tree/05a2ad941d4cfdefea4afbadaabdcf19dea16690"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-12-SKQ1.211019.001-V13.0.1.0.SJGINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211019.001-V13.0.1.0.SJGINXM-release-keys",
+        "commit": "020b2e335a031271ea0017155f4447d2ae025d8a",
+        "committed_date": "2025-05-03T10:51:24.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-05-03T07:59:34.164Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 915,
+        "project_path": "poco/karna"
+      },
+      "revision": "020b2e335a031271ea0017155f4447d2ae025d8a",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/karna/-/tree/020b2e335a031271ea0017155f4447d2ae025d8a"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-12-SKQ1.211019.001-V13.0.2.0.SJGINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211019.001-V13.0.2.0.SJGINXM-release-keys",
+        "commit": "df25f50ad66f39f12ac942d58a313e7cecba9a77",
+        "committed_date": "2022-11-15T19:14:38.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T07:59:34.164Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 915,
+        "project_path": "poco/karna"
+      },
+      "revision": "df25f50ad66f39f12ac942d58a313e7cecba9a77",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/karna/-/tree/df25f50ad66f39f12ac942d58a313e7cecba9a77"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-12-SKQ1.211019.001-V13.0.3.0.SJGEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211019.001-V13.0.3.0.SJGEUXM-release-keys",
+        "commit": "1861dd5ed56ffe74959a04949a9d27d51929958d",
+        "committed_date": "2022-11-08T05:45:12.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T07:59:34.164Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 915,
+        "project_path": "poco/karna"
+      },
+      "revision": "1861dd5ed56ffe74959a04949a9d27d51929958d",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/karna/-/tree/1861dd5ed56ffe74959a04949a9d27d51929958d"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-12-SKQ1.211019.001-V13.0.4.0.SJGEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211019.001-V13.0.4.0.SJGEUXM-release-keys",
+        "commit": "0e825aeeaf71d26bcdbe9a0ced3bd84dc210c059",
+        "committed_date": "2022-12-11T19:14:20.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T07:59:34.164Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 915,
+        "project_path": "poco/karna"
+      },
+      "revision": "0e825aeeaf71d26bcdbe9a0ced3bd84dc210c059",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/karna/-/tree/0e825aeeaf71d26bcdbe9a0ced3bd84dc210c059"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-12-SKQ1.211019.001-V13.0.5.0.SJGIDXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211019.001-V13.0.5.0.SJGIDXM-release-keys",
+        "commit": "ccd28f4ec65520752374699db73ab3a53e36c12a",
+        "committed_date": "2023-01-27T15:23:26.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T07:59:34.164Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 915,
+        "project_path": "poco/karna"
+      },
+      "revision": "ccd28f4ec65520752374699db73ab3a53e36c12a",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/karna/-/tree/ccd28f4ec65520752374699db73ab3a53e36c12a"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-12-SKQ1.211019.001-V14.0.1.0.SJGMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211019.001-V14.0.1.0.SJGMIXM-release-keys",
+        "commit": "ab5c341450d0c56fc5d35df011d3c95a9b1da5ae",
+        "committed_date": "2023-03-06T15:02:07.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T07:59:34.164Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 915,
+        "project_path": "poco/karna"
+      },
+      "revision": "ab5c341450d0c56fc5d35df011d3c95a9b1da5ae",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/karna/-/tree/ab5c341450d0c56fc5d35df011d3c95a9b1da5ae"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-12-SKQ1.211019.001-V14.0.2.0.SJGRUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211019.001-V14.0.2.0.SJGRUXM-release-keys",
+        "commit": "fb8907acba5d79022bd4468e8631cc0ff42a8198",
+        "committed_date": "2023-07-30T23:14:38.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T07:59:34.164Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 915,
+        "project_path": "poco/karna"
+      },
+      "revision": "fb8907acba5d79022bd4468e8631cc0ff42a8198",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/karna/-/tree/fb8907acba5d79022bd4468e8631cc0ff42a8198"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-12-SKQ1.211019.001-V14.0.5.0.SJGEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211019.001-V14.0.5.0.SJGEUXM-release-keys",
+        "commit": "18fd543e9e23b7b5d8086d3904eb60acf3888ae0",
+        "committed_date": "2024-04-19T05:48:10.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-05-03T07:59:34.164Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 915,
+        "project_path": "poco/karna"
+      },
+      "revision": "18fd543e9e23b7b5d8086d3904eb60acf3888ae0",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/karna/-/tree/18fd543e9e23b7b5d8086d3904eb60acf3888ae0"
+    },
+    {
+      "item_id": "poco/light@missi_phoneext4_global-user-13-TP1A.220624.014-V14.0.3.0.TLSINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_global-user-13-TP1A.220624.014-V14.0.3.0.TLSINXM-release-keys",
+        "commit": "3e26c22098281ea35b6d95a663822661206baded",
+        "committed_date": "2023-05-14T23:39:13.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-05-14T20:35:07.996Z",
+        "namespace_hint": "poco",
+        "project_hint": "light",
+        "project_id": 4297,
+        "project_path": "poco/light"
+      },
+      "revision": "3e26c22098281ea35b6d95a663822661206baded",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/light/-/tree/3e26c22098281ea35b6d95a663822661206baded"
+    },
+    {
+      "item_id": "poco/marble@missi-user-15-AQ3A.241006.001-OS2.0.1.0.VMRMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-15-AQ3A.241006.001-OS2.0.1.0.VMRMIXM-release-keys",
+        "commit": "d2469ea79c7f0c3226b4466f2b21ce102173f71d",
+        "committed_date": "2025-04-11T23:28:41.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-01-13T05:41:03.277Z",
+        "namespace_hint": "poco",
+        "project_hint": "marble",
+        "project_id": 4281,
+        "project_path": "poco/marble"
+      },
+      "revision": "d2469ea79c7f0c3226b4466f2b21ce102173f71d",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/marble/-/tree/d2469ea79c7f0c3226b4466f2b21ce102173f71d"
+    },
+    {
+      "item_id": "poco/marble@missi-user-15-AQ3A.241006.001-OS2.0.203.0.VMRMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-15-AQ3A.241006.001-OS2.0.203.0.VMRMIXM-release-keys",
+        "commit": "bb75e21ff5c804cc8d11df97c7dc9f1d8381f1cc",
+        "committed_date": "2025-08-01T12:32:10.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-01-13T05:41:03.277Z",
+        "namespace_hint": "poco",
+        "project_hint": "marble",
+        "project_id": 4281,
+        "project_path": "poco/marble"
+      },
+      "revision": "bb75e21ff5c804cc8d11df97c7dc9f1d8381f1cc",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/marble/-/tree/bb75e21ff5c804cc8d11df97c7dc9f1d8381f1cc"
+    },
+    {
+      "item_id": "poco/marble@missi-user-15-AQ3A.241006.001-OS2.0.216.0.VMRMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-15-AQ3A.241006.001-OS2.0.216.0.VMRMIXM-release-keys",
+        "commit": "6a6f56f5237e2e65f7f54ae321914f3da81c8476",
+        "committed_date": "2026-01-13T08:25:17.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-01-13T05:41:03.277Z",
+        "namespace_hint": "poco",
+        "project_hint": "marble",
+        "project_id": 4281,
+        "project_path": "poco/marble"
+      },
+      "revision": "6a6f56f5237e2e65f7f54ae321914f3da81c8476",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/marble/-/tree/6a6f56f5237e2e65f7f54ae321914f3da81c8476"
+    },
+    {
+      "item_id": "poco/marble@missi_phone_eea-user-14-UKQ1.230804.001-V816.0.4.0.UMREUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_eea-user-14-UKQ1.230804.001-V816.0.4.0.UMREUXM-release-keys",
+        "commit": "9a2f917ae5799c52e18f2316036c31c4c0731806",
+        "committed_date": "2023-12-19T14:17:36.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-01-13T05:41:03.277Z",
+        "namespace_hint": "poco",
+        "project_hint": "marble",
+        "project_id": 4281,
+        "project_path": "poco/marble"
+      },
+      "revision": "9a2f917ae5799c52e18f2316036c31c4c0731806",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/marble/-/tree/9a2f917ae5799c52e18f2316036c31c4c0731806"
+    },
+    {
+      "item_id": "poco/marble@missi_phone_global-user-13-TKQ1.221114.001-V14.0.1.0.TMRRUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-13-TKQ1.221114.001-V14.0.1.0.TMRRUXM-release-keys",
+        "commit": "5c4ba568e126a8b831ed114471bae1d132270a66",
+        "committed_date": "2023-05-07T13:10:36.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-01-13T05:41:03.277Z",
+        "namespace_hint": "poco",
+        "project_hint": "marble",
+        "project_id": 4281,
+        "project_path": "poco/marble"
+      },
+      "revision": "5c4ba568e126a8b831ed114471bae1d132270a66",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/marble/-/tree/5c4ba568e126a8b831ed114471bae1d132270a66"
+    },
+    {
+      "item_id": "poco/marble@missi_phone_global-user-13-TKQ1.221114.001-V14.0.4.0.TMRMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-13-TKQ1.221114.001-V14.0.4.0.TMRMIXM-release-keys",
+        "commit": "24407952c70efa3f6446d6320fc401eacf34a37e",
+        "committed_date": "2023-06-12T20:37:56.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-01-13T05:41:03.277Z",
+        "namespace_hint": "poco",
+        "project_hint": "marble",
+        "project_id": 4281,
+        "project_path": "poco/marble"
+      },
+      "revision": "24407952c70efa3f6446d6320fc401eacf34a37e",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/marble/-/tree/24407952c70efa3f6446d6320fc401eacf34a37e"
+    },
+    {
+      "item_id": "poco/marble@missi_phone_global-user-13-TKQ1.221114.001-V14.0.5.0.TMRMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-13-TKQ1.221114.001-V14.0.5.0.TMRMIXM-release-keys",
+        "commit": "279ad16a55b2122ce683fa8b05b4b80b0cfe80db",
+        "committed_date": "2023-07-05T14:27:56.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-01-13T05:41:03.277Z",
+        "namespace_hint": "poco",
+        "project_hint": "marble",
+        "project_id": 4281,
+        "project_path": "poco/marble"
+      },
+      "revision": "279ad16a55b2122ce683fa8b05b4b80b0cfe80db",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/marble/-/tree/279ad16a55b2122ce683fa8b05b4b80b0cfe80db"
+    },
+    {
+      "item_id": "poco/marble@missi_phone_global-user-13-TKQ1.221114.001-V14.0.6.0.TMRMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-13-TKQ1.221114.001-V14.0.6.0.TMRMIXM-release-keys",
+        "commit": "b5efb51138c0deb31a2057ed8360e5d4593b95a8",
+        "committed_date": "2023-08-22T20:21:55.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-01-13T05:41:03.277Z",
+        "namespace_hint": "poco",
+        "project_hint": "marble",
+        "project_id": 4281,
+        "project_path": "poco/marble"
+      },
+      "revision": "b5efb51138c0deb31a2057ed8360e5d4593b95a8",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/marble/-/tree/b5efb51138c0deb31a2057ed8360e5d4593b95a8"
+    },
+    {
+      "item_id": "poco/marble@missi_phone_global-user-13-TKQ1.221114.001-V14.0.7.0.TMRMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-13-TKQ1.221114.001-V14.0.7.0.TMRMIXM-release-keys",
+        "commit": "50c6108b65f265a8bec71acbbe5f34c98794ae7b",
+        "committed_date": "2023-09-25T03:30:03.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-01-13T05:41:03.277Z",
+        "namespace_hint": "poco",
+        "project_hint": "marble",
+        "project_id": 4281,
+        "project_path": "poco/marble"
+      },
+      "revision": "50c6108b65f265a8bec71acbbe5f34c98794ae7b",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/marble/-/tree/50c6108b65f265a8bec71acbbe5f34c98794ae7b"
+    },
+    {
+      "item_id": "poco/marble@missi_phone_global-user-13-TKQ1.221114.001-V14.0.8.0.TMRMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-13-TKQ1.221114.001-V14.0.8.0.TMRMIXM-release-keys",
+        "commit": "02b1c194e6606d419c36ffd1d9ef09597d7d1ea8",
+        "committed_date": "2023-12-19T02:00:20.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-01-13T05:41:03.277Z",
+        "namespace_hint": "poco",
+        "project_hint": "marble",
+        "project_id": 4281,
+        "project_path": "poco/marble"
+      },
+      "revision": "02b1c194e6606d419c36ffd1d9ef09597d7d1ea8",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/marble/-/tree/02b1c194e6606d419c36ffd1d9ef09597d7d1ea8"
+    },
+    {
+      "item_id": "poco/marble@missi_phone_global-user-14-UKQ1.230804.001-V816.0.14.0.UMRMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-14-UKQ1.230804.001-V816.0.14.0.UMRMIXM-release-keys",
+        "commit": "2ca26b5d7022fc8bfb66d9cc557a37c2081b8aa1",
+        "committed_date": "2025-01-14T14:02:48.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-01-13T05:41:03.277Z",
+        "namespace_hint": "poco",
+        "project_hint": "marble",
+        "project_id": 4281,
+        "project_path": "poco/marble"
+      },
+      "revision": "2ca26b5d7022fc8bfb66d9cc557a37c2081b8aa1",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/marble/-/tree/2ca26b5d7022fc8bfb66d9cc557a37c2081b8aa1"
+    },
+    {
+      "item_id": "poco/marble@missi_phone_global-user-14-UKQ1.230804.001-V816.0.15.0.UMRMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-14-UKQ1.230804.001-V816.0.15.0.UMRMIXM-release-keys",
+        "commit": "b24c0b92c8fa8f4311dda607e9a9c2f6a6c1d2ee",
+        "committed_date": "2025-02-16T04:37:18.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-01-13T05:41:03.277Z",
+        "namespace_hint": "poco",
+        "project_hint": "marble",
+        "project_id": 4281,
+        "project_path": "poco/marble"
+      },
+      "revision": "b24c0b92c8fa8f4311dda607e9a9c2f6a6c1d2ee",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/marble/-/tree/b24c0b92c8fa8f4311dda607e9a9c2f6a6c1d2ee"
+    },
+    {
+      "item_id": "poco/marble@missi_phone_global-user-14-UKQ1.230804.001-V816.0.17.0.UMRMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-14-UKQ1.230804.001-V816.0.17.0.UMRMIXM-release-keys",
+        "commit": "6af632a0ae8fad6a3e05d79aa83b3ee66c9c1581",
+        "committed_date": "2025-03-26T00:59:21.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-01-13T05:41:03.277Z",
+        "namespace_hint": "poco",
+        "project_hint": "marble",
+        "project_id": 4281,
+        "project_path": "poco/marble"
+      },
+      "revision": "6af632a0ae8fad6a3e05d79aa83b3ee66c9c1581",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/marble/-/tree/6af632a0ae8fad6a3e05d79aa83b3ee66c9c1581"
+    },
+    {
+      "item_id": "poco/marble@missi_phone_global-user-14-UKQ1.230804.001-V816.0.18.0.UMRMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-14-UKQ1.230804.001-V816.0.18.0.UMRMIXM-release-keys",
+        "commit": "bcb14c4aa975f264d69f384a4edec7fb40de09ea",
+        "committed_date": "2025-04-03T17:09:19.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-01-13T05:41:03.277Z",
+        "namespace_hint": "poco",
+        "project_hint": "marble",
+        "project_id": 4281,
+        "project_path": "poco/marble"
+      },
+      "revision": "bcb14c4aa975f264d69f384a4edec7fb40de09ea",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/marble/-/tree/bcb14c4aa975f264d69f384a4edec7fb40de09ea"
+    },
+    {
+      "item_id": "poco/marble@missi_phone_global-user-14-UKQ1.230804.001-V816.0.2.0.UMRMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-14-UKQ1.230804.001-V816.0.2.0.UMRMIXM-release-keys",
+        "commit": "244bed6242224121a6594765064b9f6e73b157b6",
+        "committed_date": "2024-01-04T17:04:33.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-01-13T05:41:03.277Z",
+        "namespace_hint": "poco",
+        "project_hint": "marble",
+        "project_id": 4281,
+        "project_path": "poco/marble"
+      },
+      "revision": "244bed6242224121a6594765064b9f6e73b157b6",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/marble/-/tree/244bed6242224121a6594765064b9f6e73b157b6"
+    },
+    {
+      "item_id": "poco/marble@missi_phone_global-user-14-UKQ1.230804.001-V816.0.3.0.UMRMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-14-UKQ1.230804.001-V816.0.3.0.UMRMIXM-release-keys",
+        "commit": "4965baf1be3576f9b6b10857b516050ce458e40c",
+        "committed_date": "2024-02-20T19:45:05.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-01-13T05:41:03.277Z",
+        "namespace_hint": "poco",
+        "project_hint": "marble",
+        "project_id": 4281,
+        "project_path": "poco/marble"
+      },
+      "revision": "4965baf1be3576f9b6b10857b516050ce458e40c",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/marble/-/tree/4965baf1be3576f9b6b10857b516050ce458e40c"
+    },
+    {
+      "item_id": "poco/marble@missi_phone_global-user-14-UKQ1.230804.001-V816.0.4.0.UMRIDXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-14-UKQ1.230804.001-V816.0.4.0.UMRIDXM-release-keys",
+        "commit": "dfa80ab967ba170ef10913dd2a5cc63fb51af7fa",
+        "committed_date": "2024-05-19T14:54:02.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-01-13T05:41:03.277Z",
+        "namespace_hint": "poco",
+        "project_hint": "marble",
+        "project_id": 4281,
+        "project_path": "poco/marble"
+      },
+      "revision": "dfa80ab967ba170ef10913dd2a5cc63fb51af7fa",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/marble/-/tree/dfa80ab967ba170ef10913dd2a5cc63fb51af7fa"
+    },
+    {
+      "item_id": "poco/marble@missi_phone_global-user-14-UKQ1.230804.001-V816.0.5.0.UMRIDXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-14-UKQ1.230804.001-V816.0.5.0.UMRIDXM-release-keys",
+        "commit": "dcdeafd9c69db627261d5774cd0f3c080ce32e3b",
+        "committed_date": "2024-08-08T13:57:39.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-01-13T05:41:03.277Z",
+        "namespace_hint": "poco",
+        "project_hint": "marble",
+        "project_id": 4281,
+        "project_path": "poco/marble"
+      },
+      "revision": "dcdeafd9c69db627261d5774cd0f3c080ce32e3b",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/marble/-/tree/dcdeafd9c69db627261d5774cd0f3c080ce32e3b"
+    },
+    {
+      "item_id": "poco/marble@missi_phone_global-user-14-UKQ1.230804.001-V816.0.5.0.UMRMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-14-UKQ1.230804.001-V816.0.5.0.UMRMIXM-release-keys",
+        "commit": "91205378d8aa6b02cf5bd456735536eb9c4db9dd",
+        "committed_date": "2024-05-08T19:43:38.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-01-13T05:41:03.277Z",
+        "namespace_hint": "poco",
+        "project_hint": "marble",
+        "project_id": 4281,
+        "project_path": "poco/marble"
+      },
+      "revision": "91205378d8aa6b02cf5bd456735536eb9c4db9dd",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/marble/-/tree/91205378d8aa6b02cf5bd456735536eb9c4db9dd"
+    },
+    {
+      "item_id": "poco/marble@missi_phone_global-user-14-UKQ1.230804.001-V816.0.9.0.UMRMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-14-UKQ1.230804.001-V816.0.9.0.UMRMIXM-release-keys",
+        "commit": "dcfa10b50694a7989091c6bf1e688fe64de3ac72",
+        "committed_date": "2024-10-12T17:17:32.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-01-13T05:41:03.277Z",
+        "namespace_hint": "poco",
+        "project_hint": "marble",
+        "project_id": 4281,
+        "project_path": "poco/marble"
+      },
+      "revision": "dcfa10b50694a7989091c6bf1e688fe64de3ac72",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/marble/-/tree/dcfa10b50694a7989091c6bf1e688fe64de3ac72"
+    },
+    {
+      "item_id": "poco/mihal@missi-user-12-SP1A.210812.016-V13.0.5.0.SLOMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SP1A.210812.016-V13.0.5.0.SLOMIXM-release-keys",
+        "commit": "17dd51a2e0cc8902f02bff7ceb571415f7302f06",
+        "committed_date": "2022-10-04T18:48:14.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-10-04T15:43:51.711Z",
+        "namespace_hint": "poco",
+        "project_hint": "mihal",
+        "project_id": 2464,
+        "project_path": "poco/mihal"
+      },
+      "revision": "17dd51a2e0cc8902f02bff7ceb571415f7302f06",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/mihal/-/tree/17dd51a2e0cc8902f02bff7ceb571415f7302f06"
+    },
+    {
+      "item_id": "poco/missi@missi-user-12-SP1A.210812.016-V13.0.1.0.SLOEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SP1A.210812.016-V13.0.1.0.SLOEUXM-release-keys",
+        "commit": "275a502e92860d232c54d693dc91e31c3071fa47",
+        "committed_date": "2022-06-08T17:17:56.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-07-20T12:47:54.278Z",
+        "namespace_hint": "poco",
+        "project_hint": "missi",
+        "project_id": 806,
+        "project_path": "poco/missi"
+      },
+      "revision": "275a502e92860d232c54d693dc91e31c3071fa47",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/missi/-/tree/275a502e92860d232c54d693dc91e31c3071fa47"
+    },
+    {
+      "item_id": "poco/missi@missi-user-12-SP1A.210812.016-V13.0.3.0.SLOEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SP1A.210812.016-V13.0.3.0.SLOEUXM-release-keys",
+        "commit": "93f01f5a1853f7fd83fbfd2383733c5ac4e5e980",
+        "committed_date": "2022-07-20T15:37:15.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-07-20T12:47:54.278Z",
+        "namespace_hint": "poco",
+        "project_hint": "missi",
+        "project_id": 806,
+        "project_path": "poco/missi"
+      },
+      "revision": "93f01f5a1853f7fd83fbfd2383733c5ac4e5e980",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/missi/-/tree/93f01f5a1853f7fd83fbfd2383733c5ac4e5e980"
+    },
+    {
+      "item_id": "poco/mondrian@missi-user-15-AQ3A.240912.001-OS2.0.3.0.VMNMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-15-AQ3A.240912.001-OS2.0.3.0.VMNMIXM-release-keys",
+        "commit": "8861f64c1ca33d0de7717209772a6e525f3e95ae",
+        "committed_date": "2025-02-26T09:17:19.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-02-26T06:30:53.456Z",
+        "namespace_hint": "poco",
+        "project_hint": "mondrian",
+        "project_id": 4278,
+        "project_path": "poco/mondrian"
+      },
+      "revision": "8861f64c1ca33d0de7717209772a6e525f3e95ae",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/mondrian/-/tree/8861f64c1ca33d0de7717209772a6e525f3e95ae"
+    },
+    {
+      "item_id": "poco/mondrian@missi_phone_eea-user-13-TKQ1.220905.001-V14.0.4.0.TMNEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_eea-user-13-TKQ1.220905.001-V14.0.4.0.TMNEUXM-release-keys",
+        "commit": "91894b32717417e604ad99d5d9ddbd2cb24cebaf",
+        "committed_date": "2023-05-06T22:44:07.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-26T06:30:53.456Z",
+        "namespace_hint": "poco",
+        "project_hint": "mondrian",
+        "project_id": 4278,
+        "project_path": "poco/mondrian"
+      },
+      "revision": "91894b32717417e604ad99d5d9ddbd2cb24cebaf",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/mondrian/-/tree/91894b32717417e604ad99d5d9ddbd2cb24cebaf"
+    },
+    {
+      "item_id": "poco/mondrian@missi_phone_global-user-14-UKQ1.230804.001-V816.0.1.0.UMNMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-14-UKQ1.230804.001-V816.0.1.0.UMNMIXM-release-keys",
+        "commit": "37b2f0681f604916a2ea02a659ab40a8c7cbecba",
+        "committed_date": "2023-12-21T11:02:12.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-26T06:30:53.456Z",
+        "namespace_hint": "poco",
+        "project_hint": "mondrian",
+        "project_id": 4278,
+        "project_path": "poco/mondrian"
+      },
+      "revision": "37b2f0681f604916a2ea02a659ab40a8c7cbecba",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/mondrian/-/tree/37b2f0681f604916a2ea02a659ab40a8c7cbecba"
+    },
+    {
+      "item_id": "poco/mondrian@missi_phone_global-user-14-UKQ1.230804.001-V816.0.2.0.UMNMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-14-UKQ1.230804.001-V816.0.2.0.UMNMIXM-release-keys",
+        "commit": "fc86aa4c59134d5de3e41148ec23688a9bb978e1",
+        "committed_date": "2024-02-08T14:06:36.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-02-26T06:30:53.456Z",
+        "namespace_hint": "poco",
+        "project_hint": "mondrian",
+        "project_id": 4278,
+        "project_path": "poco/mondrian"
+      },
+      "revision": "fc86aa4c59134d5de3e41148ec23688a9bb978e1",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/mondrian/-/tree/fc86aa4c59134d5de3e41148ec23688a9bb978e1"
+    },
+    {
+      "item_id": "poco/moonstone@missi_phone_global_ext4-user-14-UKQ1.231003.002-V816.0.12.0.UMPMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global_ext4-user-14-UKQ1.231003.002-V816.0.12.0.UMPMIXM-release-keys",
+        "commit": "b03c9042b6a71dbbc49e3c51dda3c7a5e8b7c9cd",
+        "committed_date": "2025-01-02T12:26:29.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-01-02T09:41:09.440Z",
+        "namespace_hint": "poco",
+        "project_hint": "moonstone",
+        "project_id": 4063,
+        "project_path": "poco/moonstone"
+      },
+      "revision": "b03c9042b6a71dbbc49e3c51dda3c7a5e8b7c9cd",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/moonstone/-/tree/b03c9042b6a71dbbc49e3c51dda3c7a5e8b7c9cd"
+    },
+    {
+      "item_id": "poco/moonstone@missi_phone_global_ext4-user-14-UKQ1.231003.002-V816.0.3.0.UMPMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global_ext4-user-14-UKQ1.231003.002-V816.0.3.0.UMPMIXM-release-keys",
+        "commit": "9c881e58725bf1ab9e2cdfdbe283e707637d83df",
+        "committed_date": "2024-03-30T15:49:26.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-02T09:41:09.440Z",
+        "namespace_hint": "poco",
+        "project_hint": "moonstone",
+        "project_id": 4063,
+        "project_path": "poco/moonstone"
+      },
+      "revision": "9c881e58725bf1ab9e2cdfdbe283e707637d83df",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/moonstone/-/tree/9c881e58725bf1ab9e2cdfdbe283e707637d83df"
+    },
+    {
+      "item_id": "poco/moonstone@missi_phone_global_ext4-user-14-UKQ1.231003.002-V816.0.5.0.UMPMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global_ext4-user-14-UKQ1.231003.002-V816.0.5.0.UMPMIXM-release-keys",
+        "commit": "5d1cf82e312dd2241d64b396eb3c969bd99447aa",
+        "committed_date": "2024-05-05T15:42:07.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-02T09:41:09.440Z",
+        "namespace_hint": "poco",
+        "project_hint": "moonstone",
+        "project_id": 4063,
+        "project_path": "poco/moonstone"
+      },
+      "revision": "5d1cf82e312dd2241d64b396eb3c969bd99447aa",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/moonstone/-/tree/5d1cf82e312dd2241d64b396eb3c969bd99447aa"
+    },
+    {
+      "item_id": "poco/moonstone@missi_phone_global_ext4-user-14-UKQ1.231003.002-V816.0.6.0.UMPMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global_ext4-user-14-UKQ1.231003.002-V816.0.6.0.UMPMIXM-release-keys",
+        "commit": "98ffdca06254f561cd331223d95fb0ce660296c9",
+        "committed_date": "2024-07-08T21:20:13.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-02T09:41:09.440Z",
+        "namespace_hint": "poco",
+        "project_hint": "moonstone",
+        "project_id": 4063,
+        "project_path": "poco/moonstone"
+      },
+      "revision": "98ffdca06254f561cd331223d95fb0ce660296c9",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/moonstone/-/tree/98ffdca06254f561cd331223d95fb0ce660296c9"
+    },
+    {
+      "item_id": "poco/moonstone@missi_phoneext4_global-user-13-TKQ1.221114.001-V14.0.2.0.TMPINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_global-user-13-TKQ1.221114.001-V14.0.2.0.TMPINXM-release-keys",
+        "commit": "4360eb019b77f16dcb8abacaa54695d53562d61a",
+        "committed_date": "2023-04-20T18:04:01.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-02T09:41:09.440Z",
+        "namespace_hint": "poco",
+        "project_hint": "moonstone",
+        "project_id": 4063,
+        "project_path": "poco/moonstone"
+      },
+      "revision": "4360eb019b77f16dcb8abacaa54695d53562d61a",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/moonstone/-/tree/4360eb019b77f16dcb8abacaa54695d53562d61a"
+    },
+    {
+      "item_id": "poco/moonstone@missi_phoneext4_global-user-13-TKQ1.221114.001-V14.0.3.0.TMPMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_global-user-13-TKQ1.221114.001-V14.0.3.0.TMPMIXM-release-keys",
+        "commit": "7b6d5ed63effad9e6af49b50a27ea1710414e793",
+        "committed_date": "2023-06-25T11:08:51.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-02T09:41:09.440Z",
+        "namespace_hint": "poco",
+        "project_hint": "moonstone",
+        "project_id": 4063,
+        "project_path": "poco/moonstone"
+      },
+      "revision": "7b6d5ed63effad9e6af49b50a27ea1710414e793",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/moonstone/-/tree/7b6d5ed63effad9e6af49b50a27ea1710414e793"
+    },
+    {
+      "item_id": "poco/moonstone@missi_phoneext4_global-user-13-TKQ1.221114.001-V14.0.4.0.TMPIDXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_global-user-13-TKQ1.221114.001-V14.0.4.0.TMPIDXM-release-keys",
+        "commit": "58f9e8894c1bee98a62bb52e32842bd8fe15dace",
+        "committed_date": "2023-07-10T13:51:42.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-02T09:41:09.440Z",
+        "namespace_hint": "poco",
+        "project_hint": "moonstone",
+        "project_id": 4063,
+        "project_path": "poco/moonstone"
+      },
+      "revision": "58f9e8894c1bee98a62bb52e32842bd8fe15dace",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/moonstone/-/tree/58f9e8894c1bee98a62bb52e32842bd8fe15dace"
+    },
+    {
+      "item_id": "poco/moonstone@missi_phoneext4_global-user-13-TKQ1.221114.001-V14.0.5.0.TMPMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_global-user-13-TKQ1.221114.001-V14.0.5.0.TMPMIXM-release-keys",
+        "commit": "192acf7c2dc7a988d9a87d6ccd1357ae8f618548",
+        "committed_date": "2023-10-01T11:41:20.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-02T09:41:09.440Z",
+        "namespace_hint": "poco",
+        "project_hint": "moonstone",
+        "project_id": 4063,
+        "project_path": "poco/moonstone"
+      },
+      "revision": "192acf7c2dc7a988d9a87d6ccd1357ae8f618548",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/moonstone/-/tree/192acf7c2dc7a988d9a87d6ccd1357ae8f618548"
+    },
+    {
+      "item_id": "poco/moonstone@qssi-user-12-SKQ1.220303.001-V13.0.1.0.SMPEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220303.001-V13.0.1.0.SMPEUXM-release-keys",
+        "commit": "191c05035a10ea48d12c91c5b7326fd7c15dee5b",
+        "committed_date": "2023-02-25T09:26:06.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-02T09:41:09.440Z",
+        "namespace_hint": "poco",
+        "project_hint": "moonstone",
+        "project_id": 4063,
+        "project_path": "poco/moonstone"
+      },
+      "revision": "191c05035a10ea48d12c91c5b7326fd7c15dee5b",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/moonstone/-/tree/191c05035a10ea48d12c91c5b7326fd7c15dee5b"
+    },
+    {
+      "item_id": "poco/moonstone@qssi-user-12-SKQ1.220303.001-V13.0.1.0.SMPTWXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220303.001-V13.0.1.0.SMPTWXM-release-keys",
+        "commit": "81dd9c6fb6f4f40cef958bc1c107518b4813a6ed",
+        "committed_date": "2023-02-13T09:26:18.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-01-02T09:41:09.440Z",
+        "namespace_hint": "poco",
+        "project_hint": "moonstone",
+        "project_id": 4063,
+        "project_path": "poco/moonstone"
+      },
+      "revision": "81dd9c6fb6f4f40cef958bc1c107518b4813a6ed",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/moonstone/-/tree/81dd9c6fb6f4f40cef958bc1c107518b4813a6ed"
+    },
+    {
+      "item_id": "poco/myron@missi-user-16-BP2A.250605.031.A3-OS3.0.3.0.WPMIDXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-16-BP2A.250605.031.A3-OS3.0.3.0.WPMIDXM-release-keys",
+        "commit": "13b29fe07da4373ae9af6e98e05cfa2e874b334e",
+        "committed_date": "2026-05-29T17:27:17.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-05-29T14:18:00.923Z",
+        "namespace_hint": "poco",
+        "project_hint": "myron",
+        "project_id": 5771,
+        "project_path": "poco/myron"
+      },
+      "revision": "13b29fe07da4373ae9af6e98e05cfa2e874b334e",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/myron/-/tree/13b29fe07da4373ae9af6e98e05cfa2e874b334e"
+    },
+    {
+      "item_id": "poco/onyx@missi-user-15-AQ3A.250107.001-OS2.0.102.0.VOLMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-15-AQ3A.250107.001-OS2.0.102.0.VOLMIXM-release-keys",
+        "commit": "bf67af25cd074ae8b35348af95259b14bf1db86f",
+        "committed_date": "2025-07-02T05:13:09.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-07-05T15:35:09.596Z",
+        "namespace_hint": "poco",
+        "project_hint": "onyx",
+        "project_id": 5669,
+        "project_path": "poco/onyx"
+      },
+      "revision": "bf67af25cd074ae8b35348af95259b14bf1db86f",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/onyx/-/tree/bf67af25cd074ae8b35348af95259b14bf1db86f"
+    },
+    {
+      "item_id": "poco/onyx@missi-user-16-BP2A.250605.031.A3-OS3.0.7.0.WOLMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-16-BP2A.250605.031.A3-OS3.0.7.0.WOLMIXM-release-keys",
+        "commit": "d04864fc0643acaab4ef0a69665c27176fea7006",
+        "committed_date": "2026-07-05T18:19:21.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-07-05T15:35:09.596Z",
+        "namespace_hint": "poco",
+        "project_hint": "onyx",
+        "project_id": 5669,
+        "project_path": "poco/onyx"
+      },
+      "revision": "d04864fc0643acaab4ef0a69665c27176fea7006",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/onyx/-/tree/d04864fc0643acaab4ef0a69665c27176fea7006"
+    },
+    {
+      "item_id": "poco/peridot@missi-user-15-AQ3A.240912.001-OS2.0.100.0.VNPMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-15-AQ3A.240912.001-OS2.0.100.0.VNPMIXM-release-keys",
+        "commit": "9f68bc7fa0fd0e42fa0b6eafb6e83cdc8315165b",
+        "committed_date": "2025-03-13T11:46:50.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-05-07T15:07:51.699Z",
+        "namespace_hint": "poco",
+        "project_hint": "peridot",
+        "project_id": 5281,
+        "project_path": "poco/peridot"
+      },
+      "revision": "9f68bc7fa0fd0e42fa0b6eafb6e83cdc8315165b",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/peridot/-/tree/9f68bc7fa0fd0e42fa0b6eafb6e83cdc8315165b"
+    },
+    {
+      "item_id": "poco/peridot@missi-user-15-AQ3A.240912.001-OS2.0.103.0.VNPINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-15-AQ3A.240912.001-OS2.0.103.0.VNPINXM-release-keys",
+        "commit": "fb4489dc15e897f782cac8a603223fd34c29532e",
+        "committed_date": "2025-05-14T22:25:24.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-05-07T15:07:51.699Z",
+        "namespace_hint": "poco",
+        "project_hint": "peridot",
+        "project_id": 5281,
+        "project_path": "poco/peridot"
+      },
+      "revision": "fb4489dc15e897f782cac8a603223fd34c29532e",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/peridot/-/tree/fb4489dc15e897f782cac8a603223fd34c29532e"
+    },
+    {
+      "item_id": "poco/peridot@missi-user-15-AQ3A.240912.001-OS2.0.2.0.VNPEUXM-release-keys--",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-15-AQ3A.240912.001-OS2.0.2.0.VNPEUXM-release-keys--",
+        "commit": "252c460f23cdf9407c455fcd4928318cfc6fcebd",
+        "committed_date": "2025-02-12T16:47:44.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-05-07T15:07:51.699Z",
+        "namespace_hint": "poco",
+        "project_hint": "peridot",
+        "project_id": 5281,
+        "project_path": "poco/peridot"
+      },
+      "revision": "252c460f23cdf9407c455fcd4928318cfc6fcebd",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/peridot/-/tree/252c460f23cdf9407c455fcd4928318cfc6fcebd"
+    },
+    {
+      "item_id": "poco/peridot@missi-user-15-AQ3A.240912.001-OS2.0.204.0.VNPMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-15-AQ3A.240912.001-OS2.0.204.0.VNPMIXM-release-keys",
+        "commit": "6a64cf46aaf5382e5a5128e056b0b87fd9774b9a",
+        "committed_date": "2025-09-21T10:00:23.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-05-07T15:07:51.699Z",
+        "namespace_hint": "poco",
+        "project_hint": "peridot",
+        "project_id": 5281,
+        "project_path": "poco/peridot"
+      },
+      "revision": "6a64cf46aaf5382e5a5128e056b0b87fd9774b9a",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/peridot/-/tree/6a64cf46aaf5382e5a5128e056b0b87fd9774b9a"
+    },
+    {
+      "item_id": "poco/peridot@missi-user-15-AQ3A.240912.001-OS2.0.207.0.VNPMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-15-AQ3A.240912.001-OS2.0.207.0.VNPMIXM-release-keys",
+        "commit": "2ece78ae9383f642fdce49f3aee8a5fdc693fe41",
+        "committed_date": "2025-12-26T00:48:53.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-05-07T15:07:51.699Z",
+        "namespace_hint": "poco",
+        "project_hint": "peridot",
+        "project_id": 5281,
+        "project_path": "poco/peridot"
+      },
+      "revision": "2ece78ae9383f642fdce49f3aee8a5fdc693fe41",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/peridot/-/tree/2ece78ae9383f642fdce49f3aee8a5fdc693fe41"
+    },
+    {
+      "item_id": "poco/peridot@missi-user-16-BP2A.250605.031.A3-OS3.0.3.0.WNPEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-16-BP2A.250605.031.A3-OS3.0.3.0.WNPEUXM-release-keys",
+        "commit": "32034636d59ad73a064c0f673ed7cec7e265053d",
+        "committed_date": "2026-01-05T09:38:14.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-05-07T15:07:51.699Z",
+        "namespace_hint": "poco",
+        "project_hint": "peridot",
+        "project_id": 5281,
+        "project_path": "poco/peridot"
+      },
+      "revision": "32034636d59ad73a064c0f673ed7cec7e265053d",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/peridot/-/tree/32034636d59ad73a064c0f673ed7cec7e265053d"
+    },
+    {
+      "item_id": "poco/peridot@missi-user-16-BP2A.250605.031.A3-OS3.0.6.0.WNPMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-16-BP2A.250605.031.A3-OS3.0.6.0.WNPMIXM-release-keys",
+        "commit": "8d89e824f023b379e0e8b19d7a2449f6d97142b5",
+        "committed_date": "2026-05-07T17:50:59.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-05-07T15:07:51.699Z",
+        "namespace_hint": "poco",
+        "project_hint": "peridot",
+        "project_id": 5281,
+        "project_path": "poco/peridot"
+      },
+      "revision": "8d89e824f023b379e0e8b19d7a2449f6d97142b5",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/peridot/-/tree/8d89e824f023b379e0e8b19d7a2449f6d97142b5"
+    },
+    {
+      "item_id": "poco/peridot@missi_phone_eea_only64-user-14-UKQ1.240116.001-V816.0.3.0.UNPEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_eea_only64-user-14-UKQ1.240116.001-V816.0.3.0.UNPEUXM-release-keys",
+        "commit": "a781ba69e03a89aa4e4caff2d0b0c83455078480",
+        "committed_date": "2024-10-27T01:52:40.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-05-07T15:07:51.699Z",
+        "namespace_hint": "poco",
+        "project_hint": "peridot",
+        "project_id": 5281,
+        "project_path": "poco/peridot"
+      },
+      "revision": "a781ba69e03a89aa4e4caff2d0b0c83455078480",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/peridot/-/tree/a781ba69e03a89aa4e4caff2d0b0c83455078480"
+    },
+    {
+      "item_id": "poco/peridot@missi_phone_eea_only64-user-14-UKQ1.240116.001-V816.0.5.0.UNPEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_eea_only64-user-14-UKQ1.240116.001-V816.0.5.0.UNPEUXM-release-keys",
+        "commit": "ea49ccb6c484f577104527445ba7b77a56b87691",
+        "committed_date": "2024-11-01T14:01:23.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-05-07T15:07:51.699Z",
+        "namespace_hint": "poco",
+        "project_hint": "peridot",
+        "project_id": 5281,
+        "project_path": "poco/peridot"
+      },
+      "revision": "ea49ccb6c484f577104527445ba7b77a56b87691",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/peridot/-/tree/ea49ccb6c484f577104527445ba7b77a56b87691"
+    },
+    {
+      "item_id": "poco/peridot@missi_phone_global_only64-user-14-UKQ1.240116.001-V816.0.10.0.UNPMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global_only64-user-14-UKQ1.240116.001-V816.0.10.0.UNPMIXM-release-keys",
+        "commit": "bebdce9185d0a884444002f4058e013e187674ce",
+        "committed_date": "2024-12-15T19:29:56.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-05-07T15:07:51.699Z",
+        "namespace_hint": "poco",
+        "project_hint": "peridot",
+        "project_id": 5281,
+        "project_path": "poco/peridot"
+      },
+      "revision": "bebdce9185d0a884444002f4058e013e187674ce",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/peridot/-/tree/bebdce9185d0a884444002f4058e013e187674ce"
+    },
+    {
+      "item_id": "poco/peridot@missi_phone_global_only64-user-14-UKQ1.240116.001-V816.0.12.0.UNPMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global_only64-user-14-UKQ1.240116.001-V816.0.12.0.UNPMIXM-release-keys",
+        "commit": "db513e8496c2e9ee30f8eba4ea8297dceb9cbfb2",
+        "committed_date": "2025-03-09T22:00:49.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-05-07T15:07:51.699Z",
+        "namespace_hint": "poco",
+        "project_hint": "peridot",
+        "project_id": 5281,
+        "project_path": "poco/peridot"
+      },
+      "revision": "db513e8496c2e9ee30f8eba4ea8297dceb9cbfb2",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/peridot/-/tree/db513e8496c2e9ee30f8eba4ea8297dceb9cbfb2"
+    },
+    {
+      "item_id": "poco/peridot@missi_phone_global_only64-user-14-UKQ1.240116.001-V816.0.2.0.UNPINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global_only64-user-14-UKQ1.240116.001-V816.0.2.0.UNPINXM-release-keys",
+        "commit": "3b852ca139f79d9c9cefc187a442457f7f4c6f2c",
+        "committed_date": "2024-05-23T16:12:13.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-05-07T15:07:51.699Z",
+        "namespace_hint": "poco",
+        "project_hint": "peridot",
+        "project_id": 5281,
+        "project_path": "poco/peridot"
+      },
+      "revision": "3b852ca139f79d9c9cefc187a442457f7f4c6f2c",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/peridot/-/tree/3b852ca139f79d9c9cefc187a442457f7f4c6f2c"
+    },
+    {
+      "item_id": "poco/peridot@missi_phone_global_only64-user-14-UKQ1.240116.001-V816.0.3.0.UNPMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global_only64-user-14-UKQ1.240116.001-V816.0.3.0.UNPMIXM-release-keys",
+        "commit": "90f109c62d41100c2a75093715bf1782004e1092",
+        "committed_date": "2024-05-23T14:06:42.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-05-07T15:07:51.699Z",
+        "namespace_hint": "poco",
+        "project_hint": "peridot",
+        "project_id": 5281,
+        "project_path": "poco/peridot"
+      },
+      "revision": "90f109c62d41100c2a75093715bf1782004e1092",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/peridot/-/tree/90f109c62d41100c2a75093715bf1782004e1092"
+    },
+    {
+      "item_id": "poco/peridot@missi_phone_global_only64-user-14-UKQ1.240116.001-V816.0.4.0.UNPIDXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global_only64-user-14-UKQ1.240116.001-V816.0.4.0.UNPIDXM-release-keys",
+        "commit": "f5cce9f068011350901d8832fc251df91435e778",
+        "committed_date": "2024-10-09T18:22:35.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-05-07T15:07:51.699Z",
+        "namespace_hint": "poco",
+        "project_hint": "peridot",
+        "project_id": 5281,
+        "project_path": "poco/peridot"
+      },
+      "revision": "f5cce9f068011350901d8832fc251df91435e778",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/peridot/-/tree/f5cce9f068011350901d8832fc251df91435e778"
+    },
+    {
+      "item_id": "poco/peridot@missi_phone_global_only64-user-14-UKQ1.240116.001-V816.0.4.0.UNPMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global_only64-user-14-UKQ1.240116.001-V816.0.4.0.UNPMIXM-release-keys",
+        "commit": "ef007024462de2652f649533ec9ebac9f34500d0",
+        "committed_date": "2024-06-10T19:53:04.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-05-07T15:07:51.699Z",
+        "namespace_hint": "poco",
+        "project_hint": "peridot",
+        "project_id": 5281,
+        "project_path": "poco/peridot"
+      },
+      "revision": "ef007024462de2652f649533ec9ebac9f34500d0",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/peridot/-/tree/ef007024462de2652f649533ec9ebac9f34500d0"
+    },
+    {
+      "item_id": "poco/peridot@missi_phone_global_only64-user-14-UKQ1.240116.001-V816.0.5.0.UNPMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global_only64-user-14-UKQ1.240116.001-V816.0.5.0.UNPMIXM-release-keys",
+        "commit": "1a1be1e2904e6e5ea82432e670c88f70289c96d6",
+        "committed_date": "2024-07-22T11:11:04.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-05-07T15:07:51.699Z",
+        "namespace_hint": "poco",
+        "project_hint": "peridot",
+        "project_id": 5281,
+        "project_path": "poco/peridot"
+      },
+      "revision": "1a1be1e2904e6e5ea82432e670c88f70289c96d6",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/peridot/-/tree/1a1be1e2904e6e5ea82432e670c88f70289c96d6"
+    },
+    {
+      "item_id": "poco/peridot@missi_phone_global_only64-user-14-UKQ1.240116.001-V816.0.7.0.UNPINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global_only64-user-14-UKQ1.240116.001-V816.0.7.0.UNPINXM-release-keys",
+        "commit": "071d0930a3bd633abe934c45acc0edc1ec60982c",
+        "committed_date": "2024-11-10T20:07:13.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-05-07T15:07:51.699Z",
+        "namespace_hint": "poco",
+        "project_hint": "peridot",
+        "project_id": 5281,
+        "project_path": "poco/peridot"
+      },
+      "revision": "071d0930a3bd633abe934c45acc0edc1ec60982c",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/peridot/-/tree/071d0930a3bd633abe934c45acc0edc1ec60982c"
+    },
+    {
+      "item_id": "poco/peridot@missi_phone_global_only64-user-14-UKQ1.240116.001-V816.0.9.0.UNPMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global_only64-user-14-UKQ1.240116.001-V816.0.9.0.UNPMIXM-release-keys",
+        "commit": "14bb9545e39486b9f0b6eef35ce375f48d9f2c09",
+        "committed_date": "2024-11-18T19:38:32.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2026-05-07T15:07:51.699Z",
+        "namespace_hint": "poco",
+        "project_hint": "peridot",
+        "project_id": 5281,
+        "project_path": "poco/peridot"
+      },
+      "revision": "14bb9545e39486b9f0b6eef35ce375f48d9f2c09",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/peridot/-/tree/14bb9545e39486b9f0b6eef35ce375f48d9f2c09"
+    },
+    {
+      "item_id": "poco/phoenixin@phoenixin-user-10-QKQ1.190825.002-V11.0.10.0.QGHINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "phoenixin-user-10-QKQ1.190825.002-V11.0.10.0.QGHINXM-release-keys",
+        "commit": "7a1bbe2fb653971d853b7b8ca9b17f73181c1f9a",
+        "committed_date": "2020-05-26T14:15:53.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T08:58:29.245Z",
+        "namespace_hint": "poco",
+        "project_hint": "phoenixin",
+        "project_id": 1632,
+        "project_path": "poco/phoenixin"
+      },
+      "revision": "7a1bbe2fb653971d853b7b8ca9b17f73181c1f9a",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/phoenixin/-/tree/7a1bbe2fb653971d853b7b8ca9b17f73181c1f9a"
+    },
+    {
+      "item_id": "poco/phoenixin@phoenixin-user-10-QKQ1.190825.002-V11.0.11.0.QGHINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "phoenixin-user-10-QKQ1.190825.002-V11.0.11.0.QGHINXM-release-keys",
+        "commit": "e89d90e992ff8c9bcf97cf14225468e14f0e36a3",
+        "committed_date": "2020-07-09T10:10:04.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:58:29.245Z",
+        "namespace_hint": "poco",
+        "project_hint": "phoenixin",
+        "project_id": 1632,
+        "project_path": "poco/phoenixin"
+      },
+      "revision": "e89d90e992ff8c9bcf97cf14225468e14f0e36a3",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/phoenixin/-/tree/e89d90e992ff8c9bcf97cf14225468e14f0e36a3"
+    },
+    {
+      "item_id": "poco/phoenixin@phoenixin-user-10-QKQ1.190825.002-V11.0.4.0.QGHINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "phoenixin-user-10-QKQ1.190825.002-V11.0.4.0.QGHINXM-release-keys",
+        "commit": "0eac5fe2af625d9fac2be2eb48312400aa9821ba",
+        "committed_date": "2020-02-12T05:58:17.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:58:29.245Z",
+        "namespace_hint": "poco",
+        "project_hint": "phoenixin",
+        "project_id": 1632,
+        "project_path": "poco/phoenixin"
+      },
+      "revision": "0eac5fe2af625d9fac2be2eb48312400aa9821ba",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/phoenixin/-/tree/0eac5fe2af625d9fac2be2eb48312400aa9821ba"
+    },
+    {
+      "item_id": "poco/phoenixin@phoenixin-user-10-QKQ1.190825.002-V11.0.6.0.QGHINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "phoenixin-user-10-QKQ1.190825.002-V11.0.6.0.QGHINXM-release-keys",
+        "commit": "82f989ecd93ecda4227c75e091f13a441c5675ac",
+        "committed_date": "2020-03-23T17:46:03.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:58:29.245Z",
+        "namespace_hint": "poco",
+        "project_hint": "phoenixin",
+        "project_id": 1632,
+        "project_path": "poco/phoenixin"
+      },
+      "revision": "82f989ecd93ecda4227c75e091f13a441c5675ac",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/phoenixin/-/tree/82f989ecd93ecda4227c75e091f13a441c5675ac"
+    },
+    {
+      "item_id": "poco/phoenixin@phoenixin-user-10-QKQ1.190825.002-V11.0.7.0.QGHINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "phoenixin-user-10-QKQ1.190825.002-V11.0.7.0.QGHINXM-release-keys",
+        "commit": "1358a2e7d9a347ed8606b03f782c22606a40c0fa",
+        "committed_date": "2020-04-27T14:05:33.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:58:29.245Z",
+        "namespace_hint": "poco",
+        "project_hint": "phoenixin",
+        "project_id": 1632,
+        "project_path": "poco/phoenixin"
+      },
+      "revision": "1358a2e7d9a347ed8606b03f782c22606a40c0fa",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/phoenixin/-/tree/1358a2e7d9a347ed8606b03f782c22606a40c0fa"
+    },
+    {
+      "item_id": "poco/phoenixin@phoenixin-user-10-QKQ1.190825.002-V12.0.1.0.QGHINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "phoenixin-user-10-QKQ1.190825.002-V12.0.1.0.QGHINXM-release-keys",
+        "commit": "d0eeca6c532d6189026ae5b6e0e92311c116ccbd",
+        "committed_date": "2020-08-07T10:33:03.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:58:29.245Z",
+        "namespace_hint": "poco",
+        "project_hint": "phoenixin",
+        "project_id": 1632,
+        "project_path": "poco/phoenixin"
+      },
+      "revision": "d0eeca6c532d6189026ae5b6e0e92311c116ccbd",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/phoenixin/-/tree/d0eeca6c532d6189026ae5b6e0e92311c116ccbd"
+    },
+    {
+      "item_id": "poco/phoenixin@phoenixin-user-10-QKQ1.190825.002-V12.0.2.0.QGHINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "phoenixin-user-10-QKQ1.190825.002-V12.0.2.0.QGHINXM-release-keys",
+        "commit": "b6184e7f529efad039c7b4585d216d204d374475",
+        "committed_date": "2020-10-29T11:03:13.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:58:29.245Z",
+        "namespace_hint": "poco",
+        "project_hint": "phoenixin",
+        "project_id": 1632,
+        "project_path": "poco/phoenixin"
+      },
+      "revision": "b6184e7f529efad039c7b4585d216d204d374475",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/phoenixin/-/tree/b6184e7f529efad039c7b4585d216d204d374475"
+    },
+    {
+      "item_id": "poco/phoenixin@qssi-user-11-RKQ1.200826.002-V12.1.2.0.RGHINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.1.2.0.RGHINXM-release-keys",
+        "commit": "ff95a81676c9af2805270e4cd305d6a06b7a182c",
+        "committed_date": "2021-01-22T10:06:51.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:58:29.245Z",
+        "namespace_hint": "poco",
+        "project_hint": "phoenixin",
+        "project_id": 1632,
+        "project_path": "poco/phoenixin"
+      },
+      "revision": "ff95a81676c9af2805270e4cd305d6a06b7a182c",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/phoenixin/-/tree/ff95a81676c9af2805270e4cd305d6a06b7a182c"
+    },
+    {
+      "item_id": "poco/phoenixin@qssi-user-11-RKQ1.200826.002-V12.1.3.0.RGHINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.1.3.0.RGHINXM-release-keys",
+        "commit": "0497ea6ef8797ed20b96780e60c711425992c46b",
+        "committed_date": "2021-03-04T17:09:35.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:58:29.245Z",
+        "namespace_hint": "poco",
+        "project_hint": "phoenixin",
+        "project_id": 1632,
+        "project_path": "poco/phoenixin"
+      },
+      "revision": "0497ea6ef8797ed20b96780e60c711425992c46b",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/phoenixin/-/tree/0497ea6ef8797ed20b96780e60c711425992c46b"
+    },
+    {
+      "item_id": "poco/phoenixin@qssi-user-11-RKQ1.200826.002-V12.1.5.0.RGHINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.1.5.0.RGHINXM-release-keys",
+        "commit": "88a3c58d2498d80b63a92b04c3a35bf0f4247cf7",
+        "committed_date": "2021-06-18T21:20:00.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:58:29.245Z",
+        "namespace_hint": "poco",
+        "project_hint": "phoenixin",
+        "project_id": 1632,
+        "project_path": "poco/phoenixin"
+      },
+      "revision": "88a3c58d2498d80b63a92b04c3a35bf0f4247cf7",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/phoenixin/-/tree/88a3c58d2498d80b63a92b04c3a35bf0f4247cf7"
+    },
+    {
+      "item_id": "poco/phoenixin@qssi-user-11-RKQ1.200826.002-V12.5.7.0.RGHINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.7.0.RGHINXM-release-keys",
+        "commit": "bbcaa4a3b4c3ddc727ccdbaeda89a8bd0f8c7c68",
+        "committed_date": "2022-02-10T21:26:39.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T08:58:29.245Z",
+        "namespace_hint": "poco",
+        "project_hint": "phoenixin",
+        "project_id": 1632,
+        "project_path": "poco/phoenixin"
+      },
+      "revision": "bbcaa4a3b4c3ddc727ccdbaeda89a8bd0f8c7c68",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/phoenixin/-/tree/bbcaa4a3b4c3ddc727ccdbaeda89a8bd0f8c7c68"
+    },
+    {
+      "item_id": "poco/shiva@shiva-user-10-QP1A.190711.020-V11.0.4.0.QJRINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "shiva-user-10-QP1A.190711.020-V11.0.4.0.QJRINXM-release-keys",
+        "commit": "2fffcbb9eedd1b1860c7d98d80b5fe8fbeccaa5a",
+        "committed_date": "2020-09-17T13:50:13.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T20:20:08.988Z",
+        "namespace_hint": "poco",
+        "project_hint": "shiva",
+        "project_id": 2128,
+        "project_path": "poco/shiva"
+      },
+      "revision": "2fffcbb9eedd1b1860c7d98d80b5fe8fbeccaa5a",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/shiva/-/tree/2fffcbb9eedd1b1860c7d98d80b5fe8fbeccaa5a"
+    },
+    {
+      "item_id": "poco/shiva@shiva-user-10-QP1A.190711.020-V12.0.4.0.QJRINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "shiva-user-10-QP1A.190711.020-V12.0.4.0.QJRINXM-release-keys",
+        "commit": "6196f6433a4bb72958915eb632959f9eeebdad25",
+        "committed_date": "2022-05-18T17:40:27.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T20:20:08.988Z",
+        "namespace_hint": "poco",
+        "project_hint": "shiva",
+        "project_id": 2128,
+        "project_path": "poco/shiva"
+      },
+      "revision": "6196f6433a4bb72958915eb632959f9eeebdad25",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/shiva/-/tree/6196f6433a4bb72958915eb632959f9eeebdad25"
+    },
+    {
+      "item_id": "poco/vermeer@missi-user-15-AQ3A.240912.001-OS2.0.100.0.VNKMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-15-AQ3A.240912.001-OS2.0.100.0.VNKMIXM-release-keys",
+        "commit": "d83e42d57f39e36f748bfffc68e9709b42dccb56",
+        "committed_date": "2025-03-17T22:21:15.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-04-12T07:36:22.005Z",
+        "namespace_hint": "poco",
+        "project_hint": "vermeer",
+        "project_id": 5262,
+        "project_path": "poco/vermeer"
+      },
+      "revision": "d83e42d57f39e36f748bfffc68e9709b42dccb56",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/vermeer/-/tree/d83e42d57f39e36f748bfffc68e9709b42dccb56"
+    },
+    {
+      "item_id": "poco/vermeer@missi-user-15-AQ3A.240912.001-OS2.0.2.0.VNKMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-15-AQ3A.240912.001-OS2.0.2.0.VNKMIXM-release-keys",
+        "commit": "1c735cc6854b8512bf27c396ecb97588f668a6d7",
+        "committed_date": "2024-12-30T12:22:19.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-04-12T07:36:22.005Z",
+        "namespace_hint": "poco",
+        "project_hint": "vermeer",
+        "project_id": 5262,
+        "project_path": "poco/vermeer"
+      },
+      "revision": "1c735cc6854b8512bf27c396ecb97588f668a6d7",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/vermeer/-/tree/1c735cc6854b8512bf27c396ecb97588f668a6d7"
+    },
+    {
+      "item_id": "poco/vermeer@missi-user-15-AQ3A.240912.001-OS2.0.3.0.VNKEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-15-AQ3A.240912.001-OS2.0.3.0.VNKEUXM-release-keys",
+        "commit": "e2db7b1bd6dc15ac088072e1817a7cbb0f3c4d05",
+        "committed_date": "2025-04-12T10:18:50.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-04-12T07:36:22.005Z",
+        "namespace_hint": "poco",
+        "project_hint": "vermeer",
+        "project_id": 5262,
+        "project_path": "poco/vermeer"
+      },
+      "revision": "e2db7b1bd6dc15ac088072e1817a7cbb0f3c4d05",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/vermeer/-/tree/e2db7b1bd6dc15ac088072e1817a7cbb0f3c4d05"
+    },
+    {
+      "item_id": "poco/vermeer@missi_phone_global-user-14-UKQ1.230804.001-V816.0.11.0.UNKMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-14-UKQ1.230804.001-V816.0.11.0.UNKMIXM-release-keys",
+        "commit": "7fd9aa8cad2dab1ab9ef57d950bb14a579483973",
+        "committed_date": "2024-12-11T14:37:27.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-04-12T07:36:22.005Z",
+        "namespace_hint": "poco",
+        "project_hint": "vermeer",
+        "project_id": 5262,
+        "project_path": "poco/vermeer"
+      },
+      "revision": "7fd9aa8cad2dab1ab9ef57d950bb14a579483973",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/vermeer/-/tree/7fd9aa8cad2dab1ab9ef57d950bb14a579483973"
+    },
+    {
+      "item_id": "poco/vermeer@missi_phone_global-user-14-UKQ1.230804.001-V816.0.2.0.UNKMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-14-UKQ1.230804.001-V816.0.2.0.UNKMIXM-release-keys",
+        "commit": "e0749e9cfe49db201ff24c11618413107c3676aa",
+        "committed_date": "2024-05-08T19:14:33.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-04-12T07:36:22.005Z",
+        "namespace_hint": "poco",
+        "project_hint": "vermeer",
+        "project_id": 5262,
+        "project_path": "poco/vermeer"
+      },
+      "revision": "e0749e9cfe49db201ff24c11618413107c3676aa",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/vermeer/-/tree/e0749e9cfe49db201ff24c11618413107c3676aa"
+    },
+    {
+      "item_id": "poco/vermeer@missi_phone_global-user-14-UKQ1.230804.001-V816.0.3.0.UNKMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-14-UKQ1.230804.001-V816.0.3.0.UNKMIXM-release-keys",
+        "commit": "e8c16c3df673bf51275879d90e40aca6f1dc2f2f",
+        "committed_date": "2024-06-21T20:32:09.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-04-12T07:36:22.005Z",
+        "namespace_hint": "poco",
+        "project_hint": "vermeer",
+        "project_id": 5262,
+        "project_path": "poco/vermeer"
+      },
+      "revision": "e8c16c3df673bf51275879d90e40aca6f1dc2f2f",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/vermeer/-/tree/e8c16c3df673bf51275879d90e40aca6f1dc2f2f"
+    },
+    {
+      "item_id": "poco/vermeer@missi_phone_global-user-14-UKQ1.230804.001-V816.0.4.0.UNKMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-14-UKQ1.230804.001-V816.0.4.0.UNKMIXM-release-keys",
+        "commit": "efc30fd1a50a7f3f900da7cf72e7b7d913de1603",
+        "committed_date": "2024-06-25T12:44:37.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-04-12T07:36:22.005Z",
+        "namespace_hint": "poco",
+        "project_hint": "vermeer",
+        "project_id": 5262,
+        "project_path": "poco/vermeer"
+      },
+      "revision": "efc30fd1a50a7f3f900da7cf72e7b7d913de1603",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/vermeer/-/tree/efc30fd1a50a7f3f900da7cf72e7b7d913de1603"
+    },
+    {
+      "item_id": "poco/vermeer@missi_phone_global-user-14-UKQ1.230804.001-V816.0.5.0.UNKMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-14-UKQ1.230804.001-V816.0.5.0.UNKMIXM-release-keys",
+        "commit": "4361ca322e1c699b8e72aaf94ff6962707699821",
+        "committed_date": "2024-08-21T23:28:09.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-04-12T07:36:22.005Z",
+        "namespace_hint": "poco",
+        "project_hint": "vermeer",
+        "project_id": 5262,
+        "project_path": "poco/vermeer"
+      },
+      "revision": "4361ca322e1c699b8e72aaf94ff6962707699821",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/vermeer/-/tree/4361ca322e1c699b8e72aaf94ff6962707699821"
+    },
+    {
+      "item_id": "poco/vermeer@missi_phone_global-user-14-UKQ1.230804.001-V816.0.6.0.UNKMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-14-UKQ1.230804.001-V816.0.6.0.UNKMIXM-release-keys",
+        "commit": "67fba75a996646cbb6298ce58c74ce5009894cb3",
+        "committed_date": "2024-12-06T17:30:43.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2025-04-12T07:36:22.005Z",
+        "namespace_hint": "poco",
+        "project_hint": "vermeer",
+        "project_id": 5262,
+        "project_path": "poco/vermeer"
+      },
+      "revision": "67fba75a996646cbb6298ce58c74ce5009894cb3",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/vermeer/-/tree/67fba75a996646cbb6298ce58c74ce5009894cb3"
+    },
+    {
+      "item_id": "poco/xaga@missi_phone_global-user-13-TP1A.220624.014-V14.0.5.0.TLOMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-13-TP1A.220624.014-V14.0.5.0.TLOMIXM-release-keys",
+        "commit": "60b559693c80f350a17b5b320927e661963e2559",
+        "committed_date": "2023-08-03T23:35:39.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2024-11-19T19:18:57.331Z",
+        "namespace_hint": "poco",
+        "project_hint": "xaga",
+        "project_id": 4389,
+        "project_path": "poco/xaga"
+      },
+      "revision": "60b559693c80f350a17b5b320927e661963e2559",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/xaga/-/tree/60b559693c80f350a17b5b320927e661963e2559"
+    },
+    {
+      "item_id": "poco/xaga@missi_phone_global-user-14-UP1A.231005.007-V816.0.5.0.ULOMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-14-UP1A.231005.007-V816.0.5.0.ULOMIXM-release-keys",
+        "commit": "61a88f39f9dd422d9aae702eb2e6bc5f9a3a8e3e",
+        "committed_date": "2024-11-19T22:00:08.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2024-11-19T19:18:57.331Z",
+        "namespace_hint": "poco",
+        "project_hint": "xaga",
+        "project_id": 4389,
+        "project_path": "poco/xaga"
+      },
+      "revision": "61a88f39f9dd422d9aae702eb2e6bc5f9a3a8e3e",
+      "url": "https://dumps.tadiphone.dev/dumps/poco/xaga/-/tree/61a88f39f9dd422d9aae702eb2e6bc5f9a3a8e3e"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

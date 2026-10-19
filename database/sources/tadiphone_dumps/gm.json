@@ -1,0 +1,213 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "gm/g501@full_k71v1_64_bsp-user-11-RP1A.200720.011-1636518238-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k71v1_64_bsp-user-11-RP1A.200720.011-1636518238-release-keys",
+        "commit": "affa155621c524584a6ebd1a0d0b8e790958c5c8",
+        "committed_date": "2021-12-09T19:42:15.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T06:34:50.590Z",
+        "namespace_hint": "gm",
+        "project_hint": "g501",
+        "project_id": 1519,
+        "project_path": "gm/g501"
+      },
+      "revision": "affa155621c524584a6ebd1a0d0b8e790958c5c8",
+      "url": "https://dumps.tadiphone.dev/dumps/gm/g501/-/tree/affa155621c524584a6ebd1a0d0b8e790958c5c8"
+    },
+    {
+      "item_id": "gm/gm8@GM8-user-10-QGM5.190530.015-5642755-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "GM8-user-10-QGM5.190530.015-5642755-release-keys",
+        "commit": "b92b054bb00e66dbd239cbe3130586f0f8622dd1",
+        "committed_date": "2019-07-19T15:31:11.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T21:09:30.501Z",
+        "namespace_hint": "gm",
+        "project_hint": "gm8",
+        "project_id": 1307,
+        "project_path": "gm/gm8"
+      },
+      "revision": "b92b054bb00e66dbd239cbe3130586f0f8622dd1",
+      "url": "https://dumps.tadiphone.dev/dumps/gm/gm8/-/tree/b92b054bb00e66dbd239cbe3130586f0f8622dd1"
+    },
+    {
+      "item_id": "gm/gm8_d_sprout@msm8937_64-user-8.1.0-OPM1.171019.011-691-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_64-user-8.1.0-OPM1.171019.011-691-release-keys",
+        "commit": "f8d761a1d608beebebcb5c2ab5f4ed3a2c26eefd",
+        "committed_date": "2021-07-07T17:39:25.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T21:27:24.020Z",
+        "namespace_hint": "gm",
+        "project_hint": "gm8_d_sprout",
+        "project_id": 1326,
+        "project_path": "gm/gm8_d_sprout"
+      },
+      "revision": "f8d761a1d608beebebcb5c2ab5f4ed3a2c26eefd",
+      "url": "https://dumps.tadiphone.dev/dumps/gm/gm8_d_sprout/-/tree/f8d761a1d608beebebcb5c2ab5f4ed3a2c26eefd"
+    },
+    {
+      "item_id": "gm/gm8_d_sprout@msm8937_64-user-9-OPM1.171019.011-eng.gerrit.20201027.165105-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_64-user-9-OPM1.171019.011-eng.gerrit.20201027.165105-release-keys",
+        "commit": "18a8f4073195a4b620b79e623305a6eb88c3621b",
+        "committed_date": "2020-11-30T15:35:41.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T21:27:24.020Z",
+        "namespace_hint": "gm",
+        "project_hint": "gm8_d_sprout",
+        "project_id": 1326,
+        "project_path": "gm/gm8_d_sprout"
+      },
+      "revision": "18a8f4073195a4b620b79e623305a6eb88c3621b",
+      "url": "https://dumps.tadiphone.dev/dumps/gm/gm8_d_sprout/-/tree/18a8f4073195a4b620b79e623305a6eb88c3621b"
+    },
+    {
+      "item_id": "gm/gm8_d_sprout@msm8937_64-user-9-OPM1.171019.011-eng.scm.20201204.193410-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_64-user-9-OPM1.171019.011-eng.scm.20201204.193410-release-keys",
+        "commit": "7e24da0da7274efef4984a854963146d1361f23b",
+        "committed_date": "2021-01-13T08:35:01.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T21:27:24.020Z",
+        "namespace_hint": "gm",
+        "project_hint": "gm8_d_sprout",
+        "project_id": 1326,
+        "project_path": "gm/gm8_d_sprout"
+      },
+      "revision": "7e24da0da7274efef4984a854963146d1361f23b",
+      "url": "https://dumps.tadiphone.dev/dumps/gm/gm8_d_sprout/-/tree/7e24da0da7274efef4984a854963146d1361f23b"
+    },
+    {
+      "item_id": "gm/gm8_sprout@msm8937_64-user-9-OPM1.171019.011-18-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_64-user-9-OPM1.171019.011-18-release-keys",
+        "commit": "940f8d61a12c930b3403362f2380a2c68f1f9e79",
+        "committed_date": "2019-07-19T16:40:15.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T23:46:03.476Z",
+        "namespace_hint": "gm",
+        "project_hint": "gm8_sprout",
+        "project_id": 1405,
+        "project_path": "gm/gm8_sprout"
+      },
+      "revision": "940f8d61a12c930b3403362f2380a2c68f1f9e79",
+      "url": "https://dumps.tadiphone.dev/dumps/gm/gm8_sprout/-/tree/940f8d61a12c930b3403362f2380a2c68f1f9e79"
+    },
+    {
+      "item_id": "gm/gm8_sprout@msm8937_64-user-9-OPM1.171019.011-eng.scm.20210302.164620-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_64-user-9-OPM1.171019.011-eng.scm.20210302.164620-release-keys",
+        "commit": "2c7767ba552cfac7c4cc9c39fe2c7b10255d61b8",
+        "committed_date": "2021-06-18T22:19:16.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T23:46:03.476Z",
+        "namespace_hint": "gm",
+        "project_hint": "gm8_sprout",
+        "project_id": 1405,
+        "project_path": "gm/gm8_sprout"
+      },
+      "revision": "2c7767ba552cfac7c4cc9c39fe2c7b10255d61b8",
+      "url": "https://dumps.tadiphone.dev/dumps/gm/gm8_sprout/-/tree/2c7767ba552cfac7c4cc9c39fe2c7b10255d61b8"
+    },
+    {
+      "item_id": "gm/gm9plus_s@full_v7101o-user-9-PPR1.180610.011-P.9PL.2001.A-s-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_v7101o-user-9-PPR1.180610.011-P.9PL.2001.A-s-release-keys",
+        "commit": "19a9efbcb72e1545901f37363fb5c88f6738595a",
+        "committed_date": "2020-04-16T16:06:26.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T01:08:12.070Z",
+        "namespace_hint": "gm",
+        "project_hint": "gm9plus_s",
+        "project_id": 1476,
+        "project_path": "gm/gm9plus_s"
+      },
+      "revision": "19a9efbcb72e1545901f37363fb5c88f6738595a",
+      "url": "https://dumps.tadiphone.dev/dumps/gm/gm9plus_s/-/tree/19a9efbcb72e1545901f37363fb5c88f6738595a"
+    },
+    {
+      "item_id": "gm/gm9pro@GM9PRO-user-10-QGM5.190530.015-5642755-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "GM9PRO-user-10-QGM5.190530.015-5642755-release-keys",
+        "commit": "6bbea22bdba3ca6108c65c8998560685042f1c12",
+        "committed_date": "2019-07-19T12:02:32.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T07:31:20.394Z",
+        "namespace_hint": "gm",
+        "project_hint": "gm9pro",
+        "project_id": 1543,
+        "project_path": "gm/gm9pro"
+      },
+      "revision": "6bbea22bdba3ca6108c65c8998560685042f1c12",
+      "url": "https://dumps.tadiphone.dev/dumps/gm/gm9pro/-/tree/6bbea22bdba3ca6108c65c8998560685042f1c12"
+    },
+    {
+      "item_id": "gm/gm9pro_sprout@gm9pro-user-9-PKQ1.180904.001-254-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "gm9pro-user-9-PKQ1.180904.001-254-release-keys",
+        "commit": "29ec65619da58f59322ad9b85c3c66abba619d18",
+        "committed_date": "2019-07-19T13:27:17.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T10:32:48.640Z",
+        "namespace_hint": "gm",
+        "project_hint": "gm9pro_sprout",
+        "project_id": 1723,
+        "project_path": "gm/gm9pro_sprout"
+      },
+      "revision": "29ec65619da58f59322ad9b85c3c66abba619d18",
+      "url": "https://dumps.tadiphone.dev/dumps/gm/gm9pro_sprout/-/tree/29ec65619da58f59322ad9b85c3c66abba619d18"
+    },
+    {
+      "item_id": "gm/shamrock@shamrock-user-8.0.0-OSR18H-315-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "shamrock-user-8.0.0-OSR18H-315-release-keys",
+        "commit": "ef71a3191aa836187a8ac52024834b1e16ce72d9",
+        "committed_date": "2019-07-20T17:27:04.000+08:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T07:50:09.096Z",
+        "namespace_hint": "gm",
+        "project_hint": "shamrock",
+        "project_id": 1570,
+        "project_path": "gm/shamrock"
+      },
+      "revision": "ef71a3191aa836187a8ac52024834b1e16ce72d9",
+      "url": "https://dumps.tadiphone.dev/dumps/gm/shamrock/-/tree/ef71a3191aa836187a8ac52024834b1e16ce72d9"
+    },
+    {
+      "item_id": "gm/shamrock@shamrock-user-8.0.0-OSR18O-572-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "shamrock-user-8.0.0-OSR18O-572-release-keys",
+        "commit": "520150c00c8a96c01e29f39c2233d8dd7edcf78f",
+        "committed_date": "2020-08-14T16:06:40.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-16T07:50:09.096Z",
+        "namespace_hint": "gm",
+        "project_hint": "shamrock",
+        "project_id": 1570,
+        "project_path": "gm/shamrock"
+      },
+      "revision": "520150c00c8a96c01e29f39c2233d8dd7edcf78f",
+      "url": "https://dumps.tadiphone.dev/dumps/gm/shamrock/-/tree/520150c00c8a96c01e29f39c2233d8dd7edcf78f"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

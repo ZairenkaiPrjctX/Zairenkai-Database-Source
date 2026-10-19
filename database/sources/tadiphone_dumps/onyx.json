@@ -1,0 +1,128 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "onyx/boox@qssi-user-11-RKQ1.210614.002-200-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.210614.002-200-release-keys",
+        "commit": "5adf6f31b187d7a4e13db81abcf614f33dacf962",
+        "committed_date": "2023-09-26T18:58:09.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-09-26T15:56:21.051Z",
+        "namespace_hint": "onyx",
+        "project_hint": "boox",
+        "project_id": 4450,
+        "project_path": "onyx/boox"
+      },
+      "revision": "5adf6f31b187d7a4e13db81abcf614f33dacf962",
+      "url": "https://dumps.tadiphone.dev/dumps/onyx/boox/-/tree/5adf6f31b187d7a4e13db81abcf614f33dacf962"
+    },
+    {
+      "item_id": "onyx/go7@qssi-user-13-2025-08-21_15-01_4.1-rel_0821_b863ee078-304-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-2025-08-21_15-01_4.1-rel_0821_b863ee078-304-release-keys",
+        "commit": "efee66f66e4fa0270aef41efbe72eba180d1dd70",
+        "committed_date": "2025-08-31T14:43:46.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-08-31T11:41:20.610Z",
+        "namespace_hint": "onyx",
+        "project_hint": "go7",
+        "project_id": 5682,
+        "project_path": "onyx/go7"
+      },
+      "revision": "efee66f66e4fa0270aef41efbe72eba180d1dd70",
+      "url": "https://dumps.tadiphone.dev/dumps/onyx/go7/-/tree/efee66f66e4fa0270aef41efbe72eba180d1dd70"
+    },
+    {
+      "item_id": "onyx/gocolor7_2@11-2025-11-10_16-08_4.1.1-rel_1110_d8cf44fd7-382-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "11-2025-11-10_16-08_4.1.1-rel_1110_d8cf44fd7-382-release-keys",
+        "commit": "7a895cef3bdb6d17e146db7eede4f1e710892d50",
+        "committed_date": "2026-01-09T00:51:32.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2026-01-08T21:50:22.895Z",
+        "namespace_hint": "onyx",
+        "project_hint": "gocolor7_2",
+        "project_id": 5733,
+        "project_path": "onyx/gocolor7_2"
+      },
+      "revision": "7a895cef3bdb6d17e146db7eede4f1e710892d50",
+      "url": "https://dumps.tadiphone.dev/dumps/onyx/gocolor7_2/-/tree/7a895cef3bdb6d17e146db7eede4f1e710892d50"
+    },
+    {
+      "item_id": "onyx/leaf2_p@qssi-user-11-2022-10-31_17-59_3.3.1_dbf0071d9-1589-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-2022-10-31_17-59_3.3.1_dbf0071d9-1589-dev-keys",
+        "commit": "0207fa59dbfc0f14545ae60b04211b6b31c23301",
+        "committed_date": "2022-11-04T16:00:59.000+03:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-13T15:37:43.673Z",
+        "namespace_hint": "onyx",
+        "project_hint": "leaf2_p",
+        "project_id": 2511,
+        "project_path": "onyx/leaf2_p"
+      },
+      "revision": "0207fa59dbfc0f14545ae60b04211b6b31c23301",
+      "url": "https://dumps.tadiphone.dev/dumps/onyx/leaf2_p/-/tree/0207fa59dbfc0f14545ae60b04211b6b31c23301"
+    },
+    {
+      "item_id": "onyx/leaf2_p@qssi-user-11-2023-04-10_06-40_3.3.2_9916cdce0-4155-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-2023-04-10_06-40_3.3.2_9916cdce0-4155-dev-keys",
+        "commit": "c8c05c7facf49d1fa50b5d356d2c0deb8459444c",
+        "committed_date": "2023-04-13T18:30:49.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2023-04-13T15:37:43.673Z",
+        "namespace_hint": "onyx",
+        "project_hint": "leaf2_p",
+        "project_id": 2511,
+        "project_path": "onyx/leaf2_p"
+      },
+      "revision": "c8c05c7facf49d1fa50b5d356d2c0deb8459444c",
+      "url": "https://dumps.tadiphone.dev/dumps/onyx/leaf2_p/-/tree/c8c05c7facf49d1fa50b5d356d2c0deb8459444c"
+    },
+    {
+      "item_id": "onyx/palma2_pro_c@qssi-user-15-2025-10-10_15-47_4.1.1-rel_1010_1405f51d1-51-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-15-2025-10-10_15-47_4.1.1-rel_1010_1405f51d1-51-test-keys",
+        "commit": "f2fe0032d9d9e3bd41267f9c3b7694109c75aaf4",
+        "committed_date": "2025-12-08T15:20:59.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-12-08T12:18:29.002Z",
+        "namespace_hint": "onyx",
+        "project_hint": "palma2_pro_c",
+        "project_id": 5714,
+        "project_path": "onyx/palma2_pro_c"
+      },
+      "revision": "f2fe0032d9d9e3bd41267f9c3b7694109c75aaf4",
+      "url": "https://dumps.tadiphone.dev/dumps/onyx/palma2_pro_c/-/tree/f2fe0032d9d9e3bd41267f9c3b7694109c75aaf4"
+    },
+    {
+      "item_id": "onyx/poke3@Poke3-user-10-2020-11-09_18-48_3.0_0cb528d-1218-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Poke3-user-10-2020-11-09_18-48_3.0_0cb528d-1218-dev-keys",
+        "commit": "6196fe02fca87e3d8bc00149ee5b80503a56c404",
+        "committed_date": "2020-12-25T03:43:36.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T22:38:32.153Z",
+        "namespace_hint": "onyx",
+        "project_hint": "poke3",
+        "project_id": 2166,
+        "project_path": "onyx/poke3"
+      },
+      "revision": "6196fe02fca87e3d8bc00149ee5b80503a56c404",
+      "url": "https://dumps.tadiphone.dev/dumps/onyx/poke3/-/tree/6196fe02fca87e3d8bc00149ee5b80503a56c404"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

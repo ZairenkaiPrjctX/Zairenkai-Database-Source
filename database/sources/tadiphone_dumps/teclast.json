@@ -1,0 +1,89 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "_project/4270",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": null,
+        "project_id": 4270,
+        "project_path": "teclast/p20s_eea",
+        "reason": "repository_not_readable"
+      },
+      "revision": null,
+      "url": "https://dumps.tadiphone.dev/dumps/teclast/p20s_eea"
+    },
+    {
+      "item_id": "teclast/m40_eea@M40_EEA-user-10-QP1A.190711.020-35666-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "M40_EEA-user-10-QP1A.190711.020-35666-release-keys",
+        "commit": "a85edb3d12dbade91f16dc44ad05c1408a23712e",
+        "committed_date": "2021-03-29T00:58:28.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T15:46:12.176Z",
+        "namespace_hint": "teclast",
+        "project_hint": "m40_eea",
+        "project_id": 1143,
+        "project_path": "teclast/m40_eea"
+      },
+      "revision": "a85edb3d12dbade91f16dc44ad05c1408a23712e",
+      "url": "https://dumps.tadiphone.dev/dumps/teclast/m40_eea/-/tree/a85edb3d12dbade91f16dc44ad05c1408a23712e"
+    },
+    {
+      "item_id": "teclast/p80x_g5k1@s9863a1h10__s8638a_2g-user-9-PPR1.180610.011-21416-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "s9863a1h10__s8638a_2g-user-9-PPR1.180610.011-21416-release-keys",
+        "commit": "84342abb46c6cd52ff8ccbefa2392653f3c51500",
+        "committed_date": "2019-11-10T23:34:54.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T19:22:36.845Z",
+        "namespace_hint": "teclast",
+        "project_hint": "p80x_g5k1",
+        "project_id": 2085,
+        "project_path": "teclast/p80x_g5k1"
+      },
+      "revision": "84342abb46c6cd52ff8ccbefa2392653f3c51500",
+      "url": "https://dumps.tadiphone.dev/dumps/teclast/p80x_g5k1/-/tree/84342abb46c6cd52ff8ccbefa2392653f3c51500"
+    },
+    {
+      "item_id": "teclast/t30@full_tb8788p1_64_bsp-user-9-PPR1.180610.011-panyh09061416-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_tb8788p1_64_bsp-user-9-PPR1.180610.011-panyh09061416-release-keys",
+        "commit": "002000eb0675fd070153827699cebd4aaef74768",
+        "committed_date": "2019-11-18T09:03:18.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T20:33:38.329Z",
+        "namespace_hint": "teclast",
+        "project_hint": "t30",
+        "project_id": 2136,
+        "project_path": "teclast/t30"
+      },
+      "revision": "002000eb0675fd070153827699cebd4aaef74768",
+      "url": "https://dumps.tadiphone.dev/dumps/teclast/t30/-/tree/002000eb0675fd070153827699cebd4aaef74768"
+    },
+    {
+      "item_id": "teclast/t60ai@ag86312vc-user-15-AP3A.241105.008-b3d250304-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ag86312vc-user-15-AP3A.241105.008-b3d250304-release-keys",
+        "commit": "18891353c95bd59585f91741171c5821756f2e5d",
+        "committed_date": "2025-05-02T16:44:37.000+03:00",
+        "default_branch": true,
+        "last_activity_at": "2025-05-02T13:41:36.557Z",
+        "namespace_hint": "teclast",
+        "project_hint": "t60ai",
+        "project_id": 5630,
+        "project_path": "teclast/t60ai"
+      },
+      "revision": "18891353c95bd59585f91741171c5821756f2e5d",
+      "url": "https://dumps.tadiphone.dev/dumps/teclast/t60ai/-/tree/18891353c95bd59585f91741171c5821756f2e5d"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}

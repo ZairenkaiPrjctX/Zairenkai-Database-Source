@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T01:56:46Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "gomobile/go505@sp7731e_fs286_project-user-8.1.0-OPM2.171019.012-32114-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sp7731e_fs286_project-user-8.1.0-OPM2.171019.012-32114-release-keys",
+        "commit": "1f903df0ca4e259a29d2c3b19e905eac50a6ee6c",
+        "committed_date": "2019-11-12T21:39:57.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T01:03:05.987Z",
+        "namespace_hint": "gomobile",
+        "project_hint": "go505",
+        "project_id": 1468,
+        "project_path": "gomobile/go505"
+      },
+      "revision": "1f903df0ca4e259a29d2c3b19e905eac50a6ee6c",
+      "url": "https://dumps.tadiphone.dev/dumps/gomobile/go505/-/tree/1f903df0ca4e259a29d2c3b19e905eac50a6ee6c"
+    }
+  ],
+  "provider_id": "tadiphone_dumps",
+  "schema_version": "1.0",
+  "status": "ok"
+}
