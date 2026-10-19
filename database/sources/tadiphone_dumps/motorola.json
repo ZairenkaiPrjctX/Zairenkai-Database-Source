@@ -1,65 +1,65 @@
 {
-  "checked_at": "2026-10-19T01:56:46Z",
+  "checked_at": "2026-10-19T10:15:24Z",
   "errors": [],
   "items": [
     {
       "item_id": "_project/4298",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-03-06T11:51:20.201Z",
         "project_id": 4298,
         "project_path": "motorola/lyriq",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-03-06T11:51:20.201Z",
       "url": "https://dumps.tadiphone.dev/dumps/motorola/lyriq"
     },
     {
       "item_id": "_project/4341",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2023-06-27T01:03:17.203Z",
         "project_id": 4341,
         "project_path": "motorola/maui",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2023-06-27T01:03:17.203Z",
       "url": "https://dumps.tadiphone.dev/dumps/motorola/maui"
     },
     {
       "item_id": "_project/4359",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2023-07-14T03:26:52.442Z",
         "project_id": 4359,
         "project_path": "motorola/cypfr",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2023-07-14T03:26:52.442Z",
       "url": "https://dumps.tadiphone.dev/dumps/motorola/cypfr"
     },
     {
       "item_id": "_project/4409",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2025-09-22T18:59:35.665Z",
         "project_id": 4409,
         "project_path": "motorola/manaus",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2025-09-22T18:59:35.665Z",
       "url": "https://dumps.tadiphone.dev/dumps/motorola/manaus"
     },
     {
       "item_id": "_project/5271",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-07-16T23:19:05.624Z",
         "project_id": 5271,
         "project_path": "motorola/boston",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-07-16T23:19:05.624Z",
       "url": "https://dumps.tadiphone.dev/dumps/motorola/boston"
     },
     {

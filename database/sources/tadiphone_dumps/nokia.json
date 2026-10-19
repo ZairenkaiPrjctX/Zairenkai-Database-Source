@@ -1,29 +1,29 @@
 {
-  "checked_at": "2026-10-19T01:56:46Z",
+  "checked_at": "2026-10-19T10:15:24Z",
   "errors": [],
   "items": [
     {
       "item_id": "_project/4321",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2023-10-15T14:34:24.062Z",
         "project_id": 4321,
         "project_path": "nokia/dm5",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2023-10-15T14:34:24.062Z",
       "url": "https://dumps.tadiphone.dev/dumps/nokia/dm5"
     },
     {
       "item_id": "_project/4639",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2023-12-06T18:31:36.048Z",
         "project_id": 4639,
         "project_path": "nokia/sentry",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2023-12-06T18:31:36.048Z",
       "url": "https://dumps.tadiphone.dev/dumps/nokia/sentry"
     },
     {

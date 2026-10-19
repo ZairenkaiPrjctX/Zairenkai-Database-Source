@@ -1,125 +1,125 @@
 {
-  "checked_at": "2026-10-19T01:56:46Z",
+  "checked_at": "2026-10-19T10:15:24Z",
   "errors": [],
   "items": [
     {
       "item_id": "_project/4827",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-03-07T20:54:05.148Z",
         "project_id": 4827,
         "project_path": "xiaomi/oxygen",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-03-07T20:54:05.148Z",
       "url": "https://dumps.tadiphone.dev/dumps/xiaomi/oxygen"
     },
     {
       "item_id": "_project/4828",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-04-30T20:02:31.849Z",
         "project_id": 4828,
         "project_path": "xiaomi/tucana",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-04-30T20:02:31.849Z",
       "url": "https://dumps.tadiphone.dev/dumps/xiaomi/tucana"
     },
     {
       "item_id": "_project/4853",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-03-07T22:43:38.326Z",
         "project_id": 4853,
         "project_path": "xiaomi/lotus",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-03-07T22:43:38.326Z",
       "url": "https://dumps.tadiphone.dev/dumps/xiaomi/lotus"
     },
     {
       "item_id": "_project/4856",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2025-03-10T10:49:39.532Z",
         "project_id": 4856,
         "project_path": "xiaomi/lisa",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2025-03-10T10:49:39.532Z",
       "url": "https://dumps.tadiphone.dev/dumps/xiaomi/lisa"
     },
     {
       "item_id": "_project/4857",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-03-07T23:18:27.886Z",
         "project_id": 4857,
         "project_path": "xiaomi/dipper_old",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-03-07T23:18:27.886Z",
       "url": "https://dumps.tadiphone.dev/dumps/xiaomi/dipper_old"
     },
     {
       "item_id": "_project/4925",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-03-08T11:31:10.227Z",
         "project_id": 4925,
         "project_path": "xiaomi/generic",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-03-08T11:31:10.227Z",
       "url": "https://dumps.tadiphone.dev/dumps/xiaomi/generic"
     },
     {
       "item_id": "_project/4934",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-03-08T12:34:51.828Z",
         "project_id": 4934,
         "project_path": "xiaomi/aquaman",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-03-08T12:34:51.828Z",
       "url": "https://dumps.tadiphone.dev/dumps/xiaomi/aquaman"
     },
     {
       "item_id": "_project/4953",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2025-02-12T23:07:05.717Z",
         "project_id": 4953,
         "project_path": "xiaomi/oneday",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2025-02-12T23:07:05.717Z",
       "url": "https://dumps.tadiphone.dev/dumps/xiaomi/oneday"
     },
     {
       "item_id": "_project/4958",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-05-28T10:06:53.615Z",
         "project_id": 4958,
         "project_path": "xiaomi/babylon",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-05-28T10:06:53.615Z",
       "url": "https://dumps.tadiphone.dev/dumps/xiaomi/babylon"
     },
     {
       "item_id": "_project/5385",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-08-17T08:18:01.957Z",
         "project_id": 5385,
         "project_path": "xiaomi/aries",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-08-17T08:18:01.957Z",
       "url": "https://dumps.tadiphone.dev/dumps/xiaomi/aries"
     },
     {

@@ -1,65 +1,65 @@
 {
-  "checked_at": "2026-10-19T01:56:46Z",
+  "checked_at": "2026-10-19T10:15:24Z",
   "errors": [],
   "items": [
     {
       "item_id": "_project/4107",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2023-04-12T12:56:48.854Z",
         "project_id": 4107,
         "project_path": "samsung/kyleopen",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2023-04-12T12:56:48.854Z",
       "url": "https://dumps.tadiphone.dev/dumps/samsung/kyleopen"
     },
     {
       "item_id": "_project/4373",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-05-04T23:08:42.871Z",
         "project_id": 4373,
         "project_path": "samsung/m34x",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-05-04T23:08:42.871Z",
       "url": "https://dumps.tadiphone.dev/dumps/samsung/m34x"
     },
     {
       "item_id": "_project/5244",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-09-09T16:34:28.257Z",
         "project_id": 5244,
         "project_path": "samsung/a35x",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-09-09T16:34:28.257Z",
       "url": "https://dumps.tadiphone.dev/dumps/samsung/a35x"
     },
     {
       "item_id": "_project/5282",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-07-22T15:22:43.062Z",
         "project_id": 5282,
         "project_path": "samsung/o1q",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-07-22T15:22:43.062Z",
       "url": "https://dumps.tadiphone.dev/dumps/samsung/o1q"
     },
     {
       "item_id": "_project/5369",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-08-06T15:34:47.061Z",
         "project_id": 5369,
         "project_path": "samsung/a8xelteskt",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-08-06T15:34:47.061Z",
       "url": "https://dumps.tadiphone.dev/dumps/samsung/a8xelteskt"
     },
     {

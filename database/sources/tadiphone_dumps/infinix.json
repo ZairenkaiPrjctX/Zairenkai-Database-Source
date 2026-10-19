@@ -1,41 +1,41 @@
 {
-  "checked_at": "2026-10-19T01:56:46Z",
+  "checked_at": "2026-10-19T10:15:24Z",
   "errors": [],
   "items": [
     {
       "item_id": "_project/4245",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2023-08-04T10:09:41.323Z",
         "project_id": 4245,
         "project_path": "infinix/infinix-x670",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2023-08-04T10:09:41.323Z",
       "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x670"
     },
     {
       "item_id": "_project/4573",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2023-11-01T23:20:25.798Z",
         "project_id": 4573,
         "project_path": "infinix/infinix-x666b",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2023-11-01T23:20:25.798Z",
       "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x666b"
     },
     {
       "item_id": "_project/5419",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-09-21T05:35:38.561Z",
         "project_id": 5419,
         "project_path": "infinix/infinix-x6531",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-09-21T05:35:38.561Z",
       "url": "https://dumps.tadiphone.dev/dumps/infinix/infinix-x6531"
     },
     {

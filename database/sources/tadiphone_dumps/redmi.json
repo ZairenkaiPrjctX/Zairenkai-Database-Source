@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-19T01:56:46Z",
+  "checked_at": "2026-10-19T10:15:24Z",
   "errors": [],
   "items": [
     {
@@ -17,24 +17,24 @@
       "item_id": "_project/4275",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-06-15T09:21:19.744Z",
         "project_id": 4275,
         "project_path": "redmi/water",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-06-15T09:21:19.744Z",
       "url": "https://dumps.tadiphone.dev/dumps/redmi/water"
     },
     {
       "item_id": "_project/4647",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2025-01-21T08:46:44.193Z",
         "project_id": 4647,
         "project_path": "redmi/air",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2025-01-21T08:46:44.193Z",
       "url": "https://dumps.tadiphone.dev/dumps/redmi/air"
     },
     {

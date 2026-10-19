@@ -1,41 +1,41 @@
 {
-  "checked_at": "2026-10-19T01:56:46Z",
+  "checked_at": "2026-10-19T10:15:24Z",
   "errors": [],
   "items": [
     {
       "item_id": "_project/5177",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-03-17T17:18:22.842Z",
         "project_id": 5177,
         "project_path": "qti/oww211",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-03-17T17:18:22.842Z",
       "url": "https://dumps.tadiphone.dev/dumps/qti/oww211"
     },
     {
       "item_id": "_project/5296",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-06-04T18:58:04.338Z",
         "project_id": 5296,
         "project_path": "qti/oww231",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-06-04T18:58:04.338Z",
       "url": "https://dumps.tadiphone.dev/dumps/qti/oww231"
     },
     {
       "item_id": "_project/5312",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-10-31T16:43:15.958Z",
         "project_id": 5312,
         "project_path": "qti/trinket",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-10-31T16:43:15.958Z",
       "url": "https://dumps.tadiphone.dev/dumps/qti/trinket"
     },
     {
