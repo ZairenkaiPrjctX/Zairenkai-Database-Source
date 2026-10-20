@@ -5,6 +5,30 @@ versioning: SemVer.
 
 ## [Unreleased]
 
+### Changed (data pull requests)
+- Workflows reuse one fixed data branch each (`afid/updates`, `afid/dumps`, `afid/discovery`,
+  `afid/dump-analysis`, `afid/dumprx`, `afid/catalog`) instead of a timestamped branch per run.
+  `scripts/open_data_pr.py` fast-forwards a merged branch, keeps an open pull request's commits
+  (merging the base in when needed), recreates a branch whose pull request was closed, commits
+  only the `database/` files that differ, and updates the open pull request instead of opening
+  another. Still no force-push.
+
+### Added (AWS CodeBuild metadata pipeline)
+- `registry/sources.json`: versioned source registry for Android-Dumps, dumps.tadiphone.dev
+  and DumprX (a tool, never a source). All disabled pending review; enabling needs an
+  approved review, and entries must agree with `config/provider_registry.yml`.
+- Schemas `source-registry`, `firmware-record` (deterministic `record_id`, per-field
+  provenance, `unverified` / `checksum_verified`) and `run-manifest`.
+- `src/afid/pipeline/` and `tools/ingest.py`, `tools/validate.py`, `tools/publish_manifest.py`:
+  offline synthetic dry-run, bounded `discover` mode for enabled sources, a URL policy (HTTPS,
+  allowlist, no credentials, ports, IP literals or private addresses; checked on every redirect),
+  request and time budgets, deduplication, safe output paths, no firmware downloads.
+- `buildspec.yml` (version 0.2) and `infra/cloudformation/codebuild.yml`: manual-start
+  CodeBuild project, least-privilege role (`s3:PutObject` on `<prefix>runs/*` only), 7-day
+  log group, existing bucket only, no webhook. S3 publishing off unless `ENABLE_S3_PUBLISH=true`.
+- `tests/pipeline/` (58 offline tests) and docs `AWS_PIPELINE.md`, `AWS_SETUP.md`,
+  `COST_CONTROL.md`, plus a pipeline section in `docs/SECURITY.md`.
+
 ### Fixed (after the dump-ingestion merge)
 - Dump discovery snapshots are sharded into `database/sources/<provider>/<namespace>.json`
   plus `_status.json`. The single 6.7 MB tadiphone snapshot exceeded the 5 MB file limit of

@@ -21,6 +21,9 @@ __pycache__/
 .pytest_cache/
 reports/
 
+# Metadata pipeline outputs (tools/ingest.py manifests); never committed
+/build/
+
 # AFID local work areas: downloads, extraction trees, provider caches (never committed)
 .afid-cache/
 

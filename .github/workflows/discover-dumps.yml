@@ -114,4 +114,4 @@ jobs:
               python -c "import json,sys;d=json.load(open(sys.argv[1]));[print('-', s['provider_id'], s['status'], s['detail']) for s in d.get('provider_status', [])]" "$r"
             done
           } > "$RUNNER_TEMP/pr-body.md"
-          python scripts/open_data_pr.py --branch-prefix afid/dumps-discovery --title "AFID: dump discovery snapshot" --body-file "$RUNNER_TEMP/pr-body.md"
+          python scripts/open_data_pr.py --branch afid/dumps --title "AFID: dump discovery snapshot" --body-file "$RUNNER_TEMP/pr-body.md"

@@ -1,0 +1,188 @@
+{
+  "schema_version": "1.0",
+  "registry_version": 1,
+  "updated": "2026-10-20",
+  "providers": [
+    {
+      "id": "android_dumps_gitlab",
+      "display_name": "Android-Dumps (GitLab.com group)",
+      "provider_type": "community_firmware_dump",
+      "afid_provider": "android_dumps_gitlab",
+      "enabled": false,
+      "base_url": "https://gitlab.com/Android-Dumps",
+      "allowed_hosts": ["gitlab.com"],
+      "discovery": {
+        "strategy": "gitlab_group_branches",
+        "api_base": "https://gitlab.com/api/v4",
+        "group": 13303221,
+        "group_path": "Android-Dumps"
+      },
+      "supported_fields": {
+        "manufacturer": "inferred",
+        "device_codename": "inferred",
+        "android_version": "inferred",
+        "build_id": "inferred",
+        "firmware_version": "inferred"
+      },
+      "limits": {
+        "request_timeout_seconds": 30,
+        "min_interval_seconds": 2.0,
+        "max_retries": 2,
+        "backoff_seconds": 2.0,
+        "max_pages": 1,
+        "max_records": 50,
+        "max_requests": 40,
+        "max_response_bytes": 2097152,
+        "max_run_seconds": 300
+      },
+      "rate_limit_policy": {
+        "published": "GitLab.com documents, per IP: unauthenticated traffic 500 requests/minute; GET /api/v4/groups/:id/projects 600 requests/minute. A proposed per-plan limit of 60 unauthenticated requests/hour is listed as not yet in effect.",
+        "evidence_url": "https://docs.gitlab.com/user/gitlab_com/rate_limits/",
+        "checked_on": "2026-10-20",
+        "notes": "The Groups and Projects APIs do not send RateLimit-* headers, so pacing relies on min_interval_seconds and max_requests (40 per run, below the proposed 60/hour). HTTP 429 Retry-After is honoured (afid.download.HttpClient)."
+      },
+      "robots": {
+        "url": "https://gitlab.com/robots.txt",
+        "checked_on": "2026-10-20",
+        "finding": "'User-Agent: *' with 'Disallow: /api/v*' (GitLab's stock template). The API is GitLab's documented programmatic interface, but whether this directive applies to bounded API clients needs a human decision before enabling."
+      },
+      "review": {
+        "status": "pending",
+        "access_mechanism": "Unauthenticated GitLab REST v4 GET requests: group project listing and per-project branch listing. Verified working 2026-10-18 (docs/SOURCE_INTEGRATION.md).",
+        "legal_terms": "Not reviewed: GitLab.com terms of use and the group's own terms (none found in the group description) must be reviewed for automated metadata listing.",
+        "endpoint_stability": "Community-maintained group; GitLab REST v4 is versioned, but project layout and branch naming are conventions of the dump tooling, not a contract.",
+        "resource_consumption": "At most max_requests (40) small JSON GETs per run, 2 s apart; no file contents, no clones, no archives.",
+        "reviewed_by": null,
+        "reviewed_on": null
+      },
+      "attribution": "Firmware dumps published by the Android-Dumps community on GitLab.com (https://gitlab.com/Android-Dumps).",
+      "license_notes": "Dumps contain vendor firmware files under proprietary OEM terms. AFID records listing metadata only; no redistribution right is implied.",
+      "capabilities": {
+        "confirmed": [
+          "Public group listing via GET /api/v4/groups/13303221/projects without authentication (2026-10-18).",
+          "One project per device and one branch per firmware build; branch names follow the Android build description '<product>-<type>-<release>-<build id>-<incremental>-<tags>' (snapshot 2026-10-19).",
+          "Pagination via X-Next-Page."
+        ],
+        "assumed": [
+          "Namespace equals manufacturer and project name equals device codename: hints only, recorded as inferred.",
+          "Branch names stay build descriptions; a branch that does not parse yields null version fields."
+        ]
+      },
+      "last_successful_discovery": null,
+      "limitations": "Lists git branches of extracted dumps, not downloadable firmware packages: file_name, file_size_bytes, sha256 and download_url stay null. soc, region and release_date are not available from the listing."
+    },
+    {
+      "id": "tadiphone_dumps",
+      "display_name": "dumps.tadiphone.dev (self-hosted GitLab, group 'dumps')",
+      "provider_type": "community_firmware_dump",
+      "afid_provider": "tadiphone_dumps",
+      "enabled": false,
+      "base_url": "https://dumps.tadiphone.dev/dumps",
+      "allowed_hosts": ["dumps.tadiphone.dev"],
+      "discovery": {
+        "strategy": "gitlab_group_branches",
+        "api_base": "https://dumps.tadiphone.dev/api/v4",
+        "group": 64,
+        "group_path": "dumps"
+      },
+      "supported_fields": {
+        "manufacturer": "inferred",
+        "device_codename": "inferred",
+        "android_version": "inferred",
+        "build_id": "inferred",
+        "firmware_version": "inferred"
+      },
+      "limits": {
+        "request_timeout_seconds": 30,
+        "min_interval_seconds": 3.0,
+        "max_retries": 2,
+        "backoff_seconds": 3.0,
+        "max_pages": 1,
+        "max_records": 50,
+        "max_requests": 40,
+        "max_response_bytes": 2097152,
+        "max_run_seconds": 300
+      },
+      "rate_limit_policy": {
+        "published": null,
+        "evidence_url": null,
+        "checked_on": "2026-10-20",
+        "notes": "No published rate limit was found and the server sends no RateLimit-* headers (docs/SOURCE_INTEGRATION.md). Self-hosted on unknown capacity: paced at 3 s and 40 requests per run."
+      },
+      "robots": {
+        "url": "https://dumps.tadiphone.dev/robots.txt",
+        "checked_on": "2026-10-20",
+        "finding": "'User-Agent: *' with 'Disallow: /api/v*' (GitLab's stock template, unchanged by the operator of the host). Needs a human decision before enabling; contacting the host's operator is the safest route."
+      },
+      "review": {
+        "status": "pending",
+        "access_mechanism": "Unauthenticated GitLab REST v4 GET requests: group project listing and per-project branch listing. Verified working 2026-10-18.",
+        "legal_terms": "Not reviewed: no terms of service were found on the host.",
+        "endpoint_stability": "Self-hosted by a third party with no stated availability; some projects return HTTP 404 for their repository (70 of them on 2026-10-19).",
+        "resource_consumption": "At most max_requests (40) small JSON GETs per run, 3 s apart; no file contents, no clones, no archives.",
+        "reviewed_by": null,
+        "reviewed_on": null
+      },
+      "attribution": "Firmware dumps hosted at https://dumps.tadiphone.dev/dumps.",
+      "license_notes": "Dumps contain vendor firmware files under proprietary OEM terms. AFID records listing metadata only; no redistribution right is implied.",
+      "capabilities": {
+        "confirmed": [
+          "Public group listing via GET /api/v4/groups/64/projects without authentication (2026-10-18).",
+          "Same project and branch layout as Android-Dumps (snapshot 2026-10-19).",
+          "Some projects list a default branch but answer HTTP 404 for their branches; these are skipped."
+        ],
+        "assumed": [
+          "Namespace equals manufacturer and project name equals device codename: hints only, recorded as inferred."
+        ]
+      },
+      "last_successful_discovery": null,
+      "limitations": "Same as android_dumps_gitlab: git branches of extracted dumps, no downloadable packages or checksums. Independent of Android-Dumps, not a mirror."
+    },
+    {
+      "id": "dumprx",
+      "display_name": "DumprX (firmware extraction tool)",
+      "provider_type": "tool",
+      "afid_provider": "dumprx",
+      "enabled": false,
+      "base_url": "https://github.com/DumprX/DumprX",
+      "allowed_hosts": ["github.com"],
+      "discovery": {"strategy": "none"},
+      "supported_fields": {},
+      "limits": {
+        "request_timeout_seconds": 30,
+        "min_interval_seconds": 1.0,
+        "max_retries": 0,
+        "backoff_seconds": 1.0,
+        "max_pages": 1,
+        "max_records": 1,
+        "max_requests": 1,
+        "max_response_bytes": 1024,
+        "max_run_seconds": 10
+      },
+      "rate_limit_policy": {
+        "published": null,
+        "evidence_url": null,
+        "checked_on": null,
+        "notes": "Not a metadata source: the pipeline never contacts it."
+      },
+      "robots": {"url": null, "checked_on": null, "finding": "Not applicable: never contacted."},
+      "review": {
+        "status": "pending",
+        "access_mechanism": "A shell tool that extracts firmware a user already has. AFID runs it only offline in the afid-firmware-worker image at pinned commit 303f5bba (config/settings.yml, docs/DUMPRX_INTEGRATION.md).",
+        "legal_terms": "GPL-3.0-only; its bundled helper binaries have unresolved licences (docs/DUMPRX_INTEGRATION.md).",
+        "endpoint_stability": "Not applicable.",
+        "resource_consumption": "Extraction needs several GiB of disk and minutes to hours per firmware; it is a separate workload with its own CPU, memory, timeout, storage and cost evaluation, not part of this pipeline.",
+        "reviewed_by": null,
+        "reviewed_on": null
+      },
+      "attribution": "DumprX (https://github.com/DumprX/DumprX), GPL-3.0-only.",
+      "license_notes": "Tool, not data. Its output inherits the firmware's proprietary terms.",
+      "capabilities": {
+        "confirmed": ["Offline extraction of a synthetic firmware ZIP in afid-firmware-worker (docs/DUMPRX_INTEGRATION.md)."],
+        "assumed": ["Real vendor firmware extraction: not verified."]
+      },
+      "last_successful_discovery": null,
+      "limitations": "Cannot be enabled for discovery (strategy 'none'). The metadata pipeline never runs DumprX."
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0",
+  "description": "SYNTHETIC data for the offline dry-run (tools/ingest.py --mode dry-run). These are not real devices or firmware. Hosts use the reserved .invalid TLD (RFC 2606) and can never be contacted. The package checksum is the SHA-256 of the 37-byte text 'AFID synthetic fixture: not firmware' followed by a newline.",
+  "provider": {
+    "id": "synthetic_fixture",
+    "display_name": "Synthetic dry-run fixture (offline)",
+    "provider_type": "synthetic_fixture",
+    "afid_provider": null,
+    "enabled": false,
+    "base_url": "https://fixtures.afid.invalid/synthetic",
+    "allowed_hosts": ["fixtures.afid.invalid"],
+    "discovery": {"strategy": "synthetic_fixture"},
+    "supported_fields": {
+      "manufacturer": "inferred",
+      "device_codename": "inferred",
+      "android_version": "inferred",
+      "build_id": "inferred",
+      "firmware_version": "inferred",
+      "device_name": "source",
+      "region": "source",
+      "release_date": "source",
+      "file_name": "source",
+      "file_size_bytes": "source",
+      "sha256": "source",
+      "download_url": "source"
+    },
+    "limits": {
+      "request_timeout_seconds": 1,
+      "min_interval_seconds": 0.2,
+      "max_retries": 0,
+      "backoff_seconds": 0.5,
+      "max_pages": 1,
+      "max_records": 10,
+      "max_requests": 1,
+      "max_response_bytes": 1024,
+      "max_run_seconds": 10
+    },
+    "rate_limit_policy": {"published": null, "evidence_url": null, "checked_on": null, "notes": "Offline fixture: never contacted."},
+    "robots": {"url": null, "checked_on": null, "finding": "Offline fixture: never contacted."},
+    "review": {
+      "status": "approved",
+      "access_mechanism": "Local file read; no network.",
+      "legal_terms": "Synthetic data written for this repository (Apache-2.0).",
+      "endpoint_stability": "Not applicable.",
+      "resource_consumption": "None beyond reading this file.",
+      "reviewed_by": "repository maintainers (synthetic test data)",
+      "reviewed_on": "2026-10-20"
+    },
+    "attribution": "Synthetic test data, Zairenkai-Database-Source.",
+    "license_notes": "Synthetic test data; not firmware and not derived from any firmware.",
+    "capabilities": {"confirmed": ["Offline, deterministic records for the dry-run."], "assumed": []},
+    "last_successful_discovery": null,
+    "limitations": "Exercises the same mapping code as GitLab dump branches; proves nothing about any real source."
+  },
+  "items": [
+    {
+      "kind": "dump_branch",
+      "project_path": "examplevendor/synthalpha",
+      "branch": "synthalpha-user-14-UP1A.000001.001-1.0.0.SYNTHETIC-release-keys",
+      "commit": "0000000000000000000000000000000000000001",
+      "web_url": "https://fixtures.afid.invalid/synthetic/examplevendor/synthalpha"
+    },
+    {
+      "kind": "dump_branch",
+      "project_path": "examplevendor/synthbeta",
+      "branch": "not-a-build-description",
+      "commit": "0000000000000000000000000000000000000002",
+      "web_url": "https://fixtures.afid.invalid/synthetic/examplevendor/synthbeta"
+    },
+    {
+      "kind": "dump_branch",
+      "project_path": "examplevendor/synthalpha",
+      "branch": "synthalpha-user-14-UP1A.000001.001-1.0.0.SYNTHETIC-release-keys",
+      "commit": "0000000000000000000000000000000000000001",
+      "web_url": "https://fixtures.afid.invalid/synthetic/examplevendor/synthalpha"
+    },
+    {
+      "kind": "package",
+      "item_id": "packages/synthgamma-1.2.3.zip",
+      "revision": null,
+      "url": "https://fixtures.afid.invalid/synthetic/packages/synthgamma",
+      "fields": {
+        "manufacturer": {"value": "Example Vendor (synthetic)", "origin": "source", "method": "fixture field 'vendor'", "source_field": "vendor"},
+        "device_name": {"value": "Synthetic Gamma", "origin": "source", "method": "fixture field 'model'", "source_field": "model"},
+        "device_codename": {"value": "synthgamma", "origin": "source", "method": "fixture field 'codename'", "source_field": "codename"},
+        "android_version": {"value": "15", "origin": "source", "method": "fixture field 'android'", "source_field": "android"},
+        "firmware_version": {"value": "1.2.3", "origin": "source", "method": "fixture field 'version'", "source_field": "version"},
+        "region": {"value": "global", "origin": "source", "method": "fixture field 'region'", "source_field": "region"},
+        "release_date": {"value": "2026-01-15", "origin": "source", "method": "fixture field 'released'", "source_field": "released"},
+        "file_name": {"value": "synthgamma-1.2.3.zip", "origin": "source", "method": "fixture field 'file'", "source_field": "file"},
+        "file_size_bytes": {"value": 37, "origin": "source", "method": "fixture field 'size'", "source_field": "size"},
+        "sha256": {"value": "3912d16634a3099363baffcdf0f053b0440e1abfd155d01d48462ee5d464565b", "origin": "source", "method": "fixture field 'sha256'", "source_field": "sha256"},
+        "download_url": {"value": "https://fixtures.afid.invalid/synthetic/packages/synthgamma-1.2.3.zip", "origin": "source", "method": "fixture field 'url'", "source_field": "url"}
+      }
+    }
+  ]
+}

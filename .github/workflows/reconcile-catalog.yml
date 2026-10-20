@@ -97,4 +97,4 @@ jobs:
               print(f"  - `{c['firmware_id']}`: {c['reason']}")
           print("\nDistribution status of all dump-derived records is 'unknown'.")
           PY
-          python scripts/open_data_pr.py --branch-prefix afid/dump-analysis --title "AFID: dump analysis results" --body-file "$RUNNER_TEMP/pr-body.md"
+          python scripts/open_data_pr.py --branch afid/dump-analysis --title "AFID: dump analysis results" --body-file "$RUNNER_TEMP/pr-body.md"

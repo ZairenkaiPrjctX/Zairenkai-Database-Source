@@ -99,3 +99,15 @@ result goes to `database/staging/unresolved/` and no permanent device directory 
   hash-checked checkout.
 - **CI** runs untrusted pull-request code with a read-only token. Jobs with write access run
   only on schedule/dispatch, on the default branch's code, and only open pull requests.
+
+## AWS CodeBuild metadata pipeline
+
+`src/afid/pipeline/` is a separate, bounded front end for metadata discovery in AWS
+CodeBuild (`tools/ingest.py`, `buildspec.yml`, `infra/cloudformation/codebuild.yml`). It
+reuses AFID's HTTP client, GitLab client, dump-branch conventions, JSON and hashing helpers,
+and it writes only run manifests under `build/`, never `database/`.
+- Sources are declared in `registry/sources.json` and must agree with
+  `config/provider_registry.yml`.
+- Records follow `schemas/firmware-record.schema.json`.
+
+Design: [AWS_PIPELINE.md](AWS_PIPELINE.md).

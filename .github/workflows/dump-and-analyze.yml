@@ -107,4 +107,4 @@ jobs:
         run: |
           git apply --index "$RUNNER_TEMP/artifact/catalog-changes.patch"
           printf 'Firmware metadata from a pinned DumprX run (offline container).\n\nFirmware bytes were not stored anywhere.\n' > "$RUNNER_TEMP/pr-body.md"
-          python scripts/open_data_pr.py --branch-prefix afid/dumprx --title "AFID: DumprX firmware metadata" --body-file "$RUNNER_TEMP/pr-body.md"
+          python scripts/open_data_pr.py --branch afid/dumprx --title "AFID: DumprX firmware metadata" --body-file "$RUNNER_TEMP/pr-body.md"

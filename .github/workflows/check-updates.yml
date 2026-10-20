@@ -104,4 +104,4 @@ jobs:
               print(f"- {c['change']} {c['record_type']} `{c['record_id']}` {c.get('detail') or ''}")
           print("\nIdentity items marked 'unverified' need human review before linking devices.")
           PY
-          python scripts/open_data_pr.py --branch-prefix afid/updates --title "AFID: metadata updates" --body-file "$RUNNER_TEMP/pr-body.md"
+          python scripts/open_data_pr.py --branch afid/updates --title "AFID: metadata updates" --body-file "$RUNNER_TEMP/pr-body.md"

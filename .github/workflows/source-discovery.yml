@@ -92,4 +92,4 @@ jobs:
           AFID_COMMIT_TRAILER: ${{ vars.AFID_COMMIT_TRAILER }}
         run: |
           git apply --index "$RUNNER_TEMP/artifact/database-changes.patch"
-          python scripts/open_data_pr.py --branch-prefix afid/discovery --title "AFID: source discovery metadata"
+          python scripts/open_data_pr.py --branch afid/discovery --title "AFID: source discovery metadata"

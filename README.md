@@ -30,8 +30,8 @@ classifications, dependencies, provenance). Proprietary firmware is processed lo
 12. [Scanning and validation](#scanning-and-validation) · 13. [Updates](#update-workflow) ·
 14. [Extending AFID](#extending-afid) · 15. [Licensing policy](#licensing-and-redistribution) ·
 16. [Security](#security-and-firmware-use) · 17. [Troubleshooting](#troubleshooting) ·
-18. [Testing](#testing-and-quality-checks) · 19. [Roadmap](#roadmap) ·
-20. [Contributing](#contributing) · 21. [License](#license-and-attribution)
+18. [Testing](#testing-and-quality-checks) · 19. [AWS metadata pipeline](#aws-codebuild-metadata-pipeline) ·
+20. [Roadmap](#roadmap) · 21. [Contributing](#contributing) · 22. [License](#license-and-attribution)
 
 ## Scope
 
@@ -116,8 +116,12 @@ Details: [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
 config/                 settings, brands, provider registry, classification rules,
                         source policy, redistributable allowlist
 schemas/                JSON Schemas for every record type
+registry/               metadata pipeline source registry (all sources disabled) + fixture
+tools/                  metadata pipeline: ingest.py, validate.py, publish_manifest.py
+infra/cloudformation/   CodeBuild project + least-privilege role (codebuild.yml)
+buildspec.yml           CodeBuild build: offline dry-run, optional S3 manifest upload
 database/               the catalog (JSON metadata only)
-src/afid/               the AFID package (CLI, engine, providers)
+src/afid/               the AFID package (CLI, engine, providers, pipeline/)
 scripts/                setup, validation, refresh, report, PR helper
 tests/                  unit, integration, providers, extraction, schemas, security, fixtures
 docs/                   architecture, schema, providers, ingestion, classification,
@@ -306,7 +310,7 @@ Exit codes and common problems: [docs/TROUBLESHOOTING.md](docs/TROUBLESHOOTING.m
 
 ```bash
 python -m pytest -q
-ruff check src tests scripts && ruff format --check src tests scripts
+ruff check src tests scripts tools && ruff format --check src tests scripts tools
 mypy
 afid database validate --check-index && afid providers test && afid policy check && afid security scan
 actionlint
@@ -317,6 +321,26 @@ shellcheck .docker/scripts/*.sh scripts/*.sh
 Tests run offline. ELF fixtures are real AArch64/ARM binaries built from
 `tests/fixtures/elf/src/` (`tests/fixtures/elf/build.sh`); firmware trees and archives are
 generated per test.
+
+## AWS CodeBuild metadata pipeline
+
+A manually started, metadata-only pipeline for AWS CodeBuild. It discovers firmware metadata
+within strict limits, validates every record, and writes one JSON run manifest. It never
+downloads firmware. Every source in `registry/sources.json` is disabled until reviewed, so
+the first phase runs only an offline synthetic dry-run.
+
+```bash
+python3 tools/ingest.py --mode dry-run                  # local dry-run, no network, no AWS
+python3 tools/validate.py manifest build/pipeline/manifest.json
+```
+
+Details:
+- [docs/AWS_PIPELINE.md](docs/AWS_PIPELINE.md): design, registry, record model, exit codes;
+- [docs/AWS_SETUP.md](docs/AWS_SETUP.md): step-by-step deployment and the first manual
+  build;
+- [docs/COST_CONTROL.md](docs/COST_CONTROL.md): cost drivers, and alerts versus credits
+  versus hard limits;
+- [docs/SECURITY.md](docs/SECURITY.md#aws-codebuild-metadata-pipeline): security.
 
 ## Roadmap
 

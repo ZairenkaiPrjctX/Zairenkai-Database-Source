@@ -1,0 +1,109 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/ZairenkaiPrjctX/Zairenkai-Database-Source/schemas/firmware-record.schema.json",
+  "title": "AFID metadata pipeline firmware record",
+  "description": "One firmware build as listed by a metadata source. Every data field is either null or explained by `provenance`; nothing here was downloaded, and `validation_status` says only what was checked.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version", "record_id", "source_id", "source_item_id", "source_revision", "source_url",
+    "manufacturer", "device_name", "device_codename", "soc", "android_version", "build_id",
+    "firmware_version", "region", "release_date", "discovered_at", "file_name",
+    "file_size_bytes", "sha256", "download_url", "license", "provenance", "validation_status"
+  ],
+  "properties": {
+    "schema_version": {"const": "1.0"},
+    "record_id": {
+      "description": "afid.hashing.stable_id('fwr', 'firmware-record/1', source_id, source_item_id): never a timestamp.",
+      "type": "string",
+      "pattern": "^fwr_[0-9a-f]{32}$"
+    },
+    "source_id": {"type": "string", "pattern": "^[a-z][a-z0-9_]{1,63}$"},
+    "source_item_id": {
+      "description": "The source's own stable identifier for this item (e.g. '<project path>@<branch>').",
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 512
+    },
+    "source_revision": {
+      "description": "Source-side revision (e.g. the branch commit SHA); a change means new content.",
+      "type": ["string", "null"],
+      "maxLength": 128
+    },
+    "source_url": {"$ref": "#/$defs/https_url"},
+    "manufacturer": {"$ref": "#/$defs/text"},
+    "device_name": {"$ref": "#/$defs/text"},
+    "device_codename": {"type": ["string", "null"], "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]{0,63}$"},
+    "soc": {"$ref": "#/$defs/text"},
+    "android_version": {"type": ["string", "null"], "pattern": "^[0-9]{1,2}(\\.[0-9]{1,2}){0,2}$"},
+    "build_id": {"type": ["string", "null"], "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]{0,63}$"},
+    "firmware_version": {"$ref": "#/$defs/text"},
+    "region": {"$ref": "#/$defs/text"},
+    "release_date": {"type": ["string", "null"], "format": "date"},
+    "discovered_at": {"$ref": "#/$defs/timestamp"},
+    "file_name": {"type": ["string", "null"], "pattern": "^[^/\\\\\\x00-\\x1f]{1,255}$"},
+    "file_size_bytes": {"type": ["integer", "null"], "minimum": 0},
+    "sha256": {"type": ["string", "null"], "pattern": "^[0-9a-f]{64}$"},
+    "download_url": {
+      "description": "Where the source says the file can be obtained. Recorded only; the pipeline never downloads it.",
+      "oneOf": [{"type": "null"}, {"$ref": "#/$defs/https_url"}]
+    },
+    "license": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["status", "spdx", "notes"],
+      "properties": {
+        "status": {"enum": ["unknown", "proprietary", "open"]},
+        "spdx": {"type": ["string", "null"]},
+        "notes": {"type": "string", "maxLength": 2000}
+      }
+    },
+    "provenance": {
+      "description": "One entry per data field: where its value came from, or why it is null.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "manufacturer", "device_name", "device_codename", "soc", "android_version", "build_id",
+        "firmware_version", "region", "release_date", "file_name", "file_size_bytes", "sha256",
+        "download_url"
+      ],
+      "properties": {
+        "manufacturer": {"$ref": "#/$defs/provenance_entry"},
+        "device_name": {"$ref": "#/$defs/provenance_entry"},
+        "device_codename": {"$ref": "#/$defs/provenance_entry"},
+        "soc": {"$ref": "#/$defs/provenance_entry"},
+        "android_version": {"$ref": "#/$defs/provenance_entry"},
+        "build_id": {"$ref": "#/$defs/provenance_entry"},
+        "firmware_version": {"$ref": "#/$defs/provenance_entry"},
+        "region": {"$ref": "#/$defs/provenance_entry"},
+        "release_date": {"$ref": "#/$defs/provenance_entry"},
+        "file_name": {"$ref": "#/$defs/provenance_entry"},
+        "file_size_bytes": {"$ref": "#/$defs/provenance_entry"},
+        "sha256": {"$ref": "#/$defs/provenance_entry"},
+        "download_url": {"$ref": "#/$defs/provenance_entry"}
+      }
+    },
+    "validation_status": {
+      "description": "unverified: schema, URL policy and provenance checks passed, but nothing was compared with the firmware itself. checksum_verified: a local file's SHA-256 matched (provenance.sha256.origin = computed).",
+      "enum": ["unverified", "checksum_verified"]
+    }
+  },
+  "$defs": {
+    "text": {"type": ["string", "null"], "minLength": 1, "maxLength": 256},
+    "https_url": {"type": "string", "pattern": "^https://[^\\s/?#@]+(/[^\\s]*)?$", "maxLength": 2048},
+    "timestamp": {"type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}T[0-9]{2}:[0-9]{2}:[0-9]{2}Z$"},
+    "provenance_entry": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["origin", "method", "source_field"],
+      "properties": {
+        "origin": {
+          "description": "source: stated by the source. inferred: derived by a documented rule (a hint, not a fact). computed: measured by AFID. unknown: not available.",
+          "enum": ["source", "inferred", "computed", "unknown"]
+        },
+        "method": {"type": "string", "minLength": 1, "maxLength": 200},
+        "source_field": {"type": ["string", "null"], "maxLength": 200}
+      }
+    }
+  }
+}

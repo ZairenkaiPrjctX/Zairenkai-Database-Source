@@ -1,0 +1,207 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Description: >-
+  AFID metadata pipeline: one manually started AWS CodeBuild project (no webhook, no
+  schedule), its dedicated least-privilege service role and a short-retention log group.
+  Uses the EXISTING S3 staging bucket; creates no bucket and changes no bucket settings.
+  See docs/AWS_SETUP.md before deploying.
+
+Metadata:
+  AWS::CloudFormation::Interface:
+    ParameterGroups:
+      - Label: {default: Source (confirm against the repository remote)}
+        Parameters: [GitHubRepositoryUrl, SourceBranch, CodeConnectionArn]
+      - Label: {default: Existing S3 staging location (not created by this stack)}
+        Parameters: [StagingBucketName, StagingPrefix, EnableS3Publish]
+      - Label: {default: Build environment and limits}
+        Parameters: [ProjectName, BuildImage, ComputeType, BuildTimeoutMinutes, LogRetentionDays]
+
+Parameters:
+  ProjectName:
+    Type: String
+    Default: zairenkai-database-source-dryrun
+    AllowedPattern: "^[A-Za-z0-9][A-Za-z0-9_-]{1,99}$"
+    Description: CodeBuild project name (also names the role and the log group).
+  GitHubRepositoryUrl:
+    Type: String
+    AllowedPattern: "^https://github\\.com/[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+\\.git$"
+    ConstraintDescription: must be an HTTPS GitHub clone URL ending in .git
+    Description: >-
+      HTTPS clone URL of this repository. The remote found on 2026-10-20 was
+      https://github.com/ZairenkaiPrjctX/Zairenkai-Database-Source.git; confirm it before use.
+  SourceBranch:
+    Type: String
+    Default: dev
+    AllowedPattern: "^[A-Za-z0-9][A-Za-z0-9._/-]{0,199}$"
+    Description: Branch to build when no source version is given at start-build (default branch is dev).
+  CodeConnectionArn:
+    Type: String
+    MinLength: 1
+    AllowedPattern: "^arn:aws:(codeconnections|codestar-connections):[a-z0-9-]+:[0-9]{12}:connection/[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$"
+    ConstraintDescription: must be the ARN of an AVAILABLE AWS CodeConnections GitHub connection
+    Description: >-
+      ARN of an existing, AVAILABLE GitHub connection. CodeConnections has no endpoint in
+      ap-southeast-3 (verified 2026-10-20); create the connection in a supported Region such as
+      ap-southeast-1 and use it cross-Region (docs/AWS_SETUP.md, step 3).
+  StagingBucketName:
+    Type: String
+    Default: zairenkai-firmware-staging-20261020-x7k9
+    AllowedPattern: "^[a-z0-9][a-z0-9.-]{1,61}[a-z0-9]$"
+    Description: Name of the EXISTING staging bucket in this account and Region.
+  StagingPrefix:
+    Type: String
+    Default: staging/
+    AllowedPattern: "^[a-z0-9][a-z0-9-]{0,62}/$"
+    ConstraintDescription: one lowercase path segment ending in a slash, for example staging/
+    Description: Prefix covered by the bucket's 7-day lifecycle rule. Manifests go to <prefix>runs/<build id>/.
+  EnableS3Publish:
+    Type: String
+    Default: "false"
+    AllowedValues: ["false", "true"]
+    Description: >-
+      Project default for ENABLE_S3_PUBLISH. Keep "false" and enable one build at a time
+      with a start-build environment override.
+  BuildImage:
+    Type: String
+    Default: aws/codebuild/amazonlinux-x86_64-standard:5.0
+    AllowedValues:
+      - aws/codebuild/amazonlinux-x86_64-standard:5.0
+      - aws/codebuild/amazonlinux-x86_64-standard:6.0
+      - aws/codebuild/amazonlinux-aarch64-standard:3.0
+    Description: AWS-managed Amazon Linux 2023 image; all three provide the python 3.13 runtime.
+  ComputeType:
+    Type: String
+    Default: BUILD_GENERAL1_SMALL
+    AllowedValues: [BUILD_GENERAL1_SMALL, BUILD_GENERAL1_MEDIUM]
+    Description: On-demand EC2 compute. SMALL (2 vCPU, 4 GiB) is enough and is the free-tier type.
+  BuildTimeoutMinutes:
+    Type: Number
+    Default: 15
+    MinValue: 5
+    MaxValue: 60
+    Description: Hard stop for a build.
+  LogRetentionDays:
+    Type: Number
+    Default: 7
+    AllowedValues: [1, 3, 5, 7, 14, 30]
+    Description: CloudWatch Logs retention for build logs.
+
+Conditions:
+  IsArm: !Equals [!Select [0, !Split [":", !Select [2, !Split ["/", !Ref BuildImage]]]], amazonlinux-aarch64-standard]
+
+Resources:
+  BuildLogGroup:
+    Type: AWS::Logs::LogGroup
+    DeletionPolicy: Delete
+    UpdateReplacePolicy: Delete
+    Properties:
+      LogGroupName: !Sub /aws/codebuild/${ProjectName}
+      RetentionInDays: !Ref LogRetentionDays
+
+  BuildRole:
+    Type: AWS::IAM::Role
+    Properties:
+      RoleName: !Sub ${ProjectName}-codebuild
+      Description: Service role for the AFID metadata pipeline CodeBuild project only.
+      MaxSessionDuration: 3600
+      AssumeRolePolicyDocument:
+        Version: "2012-10-17"
+        Statement:
+          - Sid: CodeBuildThisProjectOnly
+            Effect: Allow
+            Principal: {Service: codebuild.amazonaws.com}
+            Action: sts:AssumeRole
+            Condition:
+              StringEquals:
+                aws:SourceAccount: !Ref AWS::AccountId
+              ArnLike:
+                aws:SourceArn: !Sub arn:${AWS::Partition}:codebuild:${AWS::Region}:${AWS::AccountId}:project/${ProjectName}
+      Policies:
+        - PolicyName: afid-metadata-pipeline
+          PolicyDocument:
+            Version: "2012-10-17"
+            Statement:
+              - Sid: WriteOwnBuildLogs
+                Effect: Allow
+                Action: [logs:CreateLogStream, logs:PutLogEvents]
+                Resource: !Sub arn:${AWS::Partition}:logs:${AWS::Region}:${AWS::AccountId}:log-group:/aws/codebuild/${ProjectName}:*
+              - Sid: PutRunManifestsOnly
+                Effect: Allow
+                Action: s3:PutObject
+                Resource: !Sub arn:${AWS::Partition}:s3:::${StagingBucketName}/${StagingPrefix}runs/*
+                Condition:
+                  StringEquals:
+                    s3:ResourceAccount: !Ref AWS::AccountId
+              - Sid: UseTheGitHubConnectionReadOnly
+                Effect: Allow
+                Action:
+                  - codeconnections:GetConnection
+                  - codeconnections:GetConnectionToken
+                  - codestar-connections:GetConnection
+                  - codestar-connections:GetConnectionToken
+                Resource: !Ref CodeConnectionArn
+
+  BuildProject:
+    Type: AWS::CodeBuild::Project
+    Properties:
+      Name: !Ref ProjectName
+      Description: AFID metadata pipeline dry-run (manual start only; metadata, never firmware).
+      ServiceRole: !GetAtt BuildRole.Arn
+      Visibility: PRIVATE
+      ConcurrentBuildLimit: 1
+      TimeoutInMinutes: !Ref BuildTimeoutMinutes
+      QueuedTimeoutInMinutes: 30
+      AutoRetryLimit: 0
+      BadgeEnabled: false
+      Source:
+        Type: GITHUB
+        Location: !Ref GitHubRepositoryUrl
+        BuildSpec: buildspec.yml
+        GitCloneDepth: 1
+        ReportBuildStatus: false
+        InsecureSsl: false
+        Auth:
+          Type: CODECONNECTIONS
+          Resource: !Ref CodeConnectionArn
+      SourceVersion: !Ref SourceBranch
+      Artifacts:
+        Type: NO_ARTIFACTS
+      Cache:
+        Type: NO_CACHE
+      Environment:
+        Type: !If [IsArm, ARM_CONTAINER, LINUX_CONTAINER]
+        ComputeType: !Ref ComputeType
+        Image: !Ref BuildImage
+        ImagePullCredentialsType: CODEBUILD
+        PrivilegedMode: false
+        EnvironmentVariables:
+          - {Name: ENABLE_S3_PUBLISH, Type: PLAINTEXT, Value: !Ref EnableS3Publish}
+          - {Name: STAGING_BUCKET, Type: PLAINTEXT, Value: !Ref StagingBucketName}
+          - {Name: STAGING_PREFIX, Type: PLAINTEXT, Value: !Ref StagingPrefix}
+          - {Name: EXPECTED_BUCKET_OWNER, Type: PLAINTEXT, Value: !Ref AWS::AccountId}
+      LogsConfig:
+        CloudWatchLogs:
+          Status: ENABLED
+          GroupName: !Ref BuildLogGroup
+        S3Logs:
+          Status: DISABLED
+      # No Triggers: no webhook, so nothing builds automatically. Start builds manually.
+      Tags:
+        - {Key: project, Value: zairenkai-database-source}
+        - {Key: purpose, Value: afid-metadata-pipeline-dry-run}
+
+Outputs:
+  ProjectName:
+    Description: CodeBuild project to start manually.
+    Value: !Ref BuildProject
+  ProjectArn:
+    Value: !GetAtt BuildProject.Arn
+  ServiceRoleArn:
+    Value: !GetAtt BuildRole.Arn
+  LogGroupName:
+    Value: !Ref BuildLogGroup
+  ManifestLocationPattern:
+    Description: Where a build with ENABLE_S3_PUBLISH=true writes its manifest.
+    Value: !Sub s3://${StagingBucketName}/${StagingPrefix}runs/<build id>/manifest.json
+  StartDryRunCommand:
+    Description: One manual dry-run without publishing.
+    Value: !Sub aws codebuild start-build --region ${AWS::Region} --project-name ${BuildProject}
