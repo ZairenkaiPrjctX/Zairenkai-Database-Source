@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-10-19T03:41:19Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "ulefone/Power_Armor_13@Power_Armor_13-user-12-SP1A.210812.016-1670989664-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Power_Armor_13-user-12-SP1A.210812.016-1670989664-release-keys",
+        "commit": "ac1d1e8ef4442b36dcb9bc8c7b808c5afd8b7bce",
+        "committed_date": "2026-09-15T12:14:33.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-09-15T12:05:56.872Z",
+        "namespace_hint": "ulefone",
+        "project_hint": "Power_Armor_13",
+        "project_id": 86465081,
+        "project_path": "ulefone/Power_Armor_13"
+      },
+      "revision": "ac1d1e8ef4442b36dcb9bc8c7b808c5afd8b7bce",
+      "url": "https://gitlab.com/Android-Dumps/ulefone/Power_Armor_13/-/tree/ac1d1e8ef4442b36dcb9bc8c7b808c5afd8b7bce"
+    },
+    {
+      "item_id": "ulefone/Power_Armor_13@full_k85v1_64-user-11-RP1A.200720.011-1622776928-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k85v1_64-user-11-RP1A.200720.011-1622776928-release-keys",
+        "commit": "46d176c2b3bc768a3b532aab0e501c99812989cd",
+        "committed_date": "2026-09-14T19:40:12.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2026-09-15T12:05:56.872Z",
+        "namespace_hint": "ulefone",
+        "project_hint": "Power_Armor_13",
+        "project_id": 86465081,
+        "project_path": "ulefone/Power_Armor_13"
+      },
+      "revision": "46d176c2b3bc768a3b532aab0e501c99812989cd",
+      "url": "https://gitlab.com/Android-Dumps/ulefone/Power_Armor_13/-/tree/46d176c2b3bc768a3b532aab0e501c99812989cd"
+    }
+  ],
+  "provider_id": "android_dumps_gitlab",
+  "schema_version": "1.0",
+  "status": "ok"
+}

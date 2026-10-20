@@ -1,0 +1,213 @@
+{
+  "checked_at": "2026-10-19T03:41:19Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "oneplus/Nord@Nord-user-10-QKQ1.200412.002-2102040553-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Nord-user-10-QKQ1.200412.002-2102040553-release-keys",
+        "commit": "5eb002c2c45cd9247d8794f5e9e6d4df2291c4f3",
+        "committed_date": "2022-07-08T13:12:59.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-07-08T11:30:26.780Z",
+        "namespace_hint": "oneplus",
+        "project_hint": "Nord",
+        "project_id": 32172691,
+        "project_path": "oneplus/Nord"
+      },
+      "revision": "5eb002c2c45cd9247d8794f5e9e6d4df2291c4f3",
+      "url": "https://gitlab.com/Android-Dumps/oneplus/Nord/-/tree/5eb002c2c45cd9247d8794f5e9e6d4df2291c4f3"
+    },
+    {
+      "item_id": "oneplus/Nord@qssi-user-11-RP1A.201005.001-2110142330-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.201005.001-2110142330-release-keys",
+        "commit": "70c5e9a049eaf2e727d15e049381fd4d37eedd52",
+        "committed_date": "2021-12-16T11:09:48.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-07-08T11:30:26.780Z",
+        "namespace_hint": "oneplus",
+        "project_hint": "Nord",
+        "project_id": 32172691,
+        "project_path": "oneplus/Nord"
+      },
+      "revision": "70c5e9a049eaf2e727d15e049381fd4d37eedd52",
+      "url": "https://gitlab.com/Android-Dumps/oneplus/Nord/-/tree/70c5e9a049eaf2e727d15e049381fd4d37eedd52"
+    },
+    {
+      "item_id": "oneplus/Nord@qssi-user-11-RP1A.201005.001-2203101721-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.201005.001-2203101721-release-keys",
+        "commit": "29e23ea0ac99d390550e2d71581398ac82914314",
+        "committed_date": "2022-07-08T16:51:37.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-07-08T11:30:26.780Z",
+        "namespace_hint": "oneplus",
+        "project_hint": "Nord",
+        "project_id": 32172691,
+        "project_path": "oneplus/Nord"
+      },
+      "revision": "29e23ea0ac99d390550e2d71581398ac82914314",
+      "url": "https://gitlab.com/Android-Dumps/oneplus/Nord/-/tree/29e23ea0ac99d390550e2d71581398ac82914314"
+    },
+    {
+      "item_id": "oneplus/OP5961L1@qssi-user-15-AP3A.240617.008-1762396683680-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-15-AP3A.240617.008-1762396683680-release-keys",
+        "commit": "c3c1b3d5fb23b94b8f3271a97ec614e9813a5d4d",
+        "committed_date": "2026-06-07T15:01:10.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2026-06-07T15:01:18.403Z",
+        "namespace_hint": "oneplus",
+        "project_hint": "OP5961L1",
+        "project_id": 82912130,
+        "project_path": "oneplus/OP5961L1"
+      },
+      "revision": "c3c1b3d5fb23b94b8f3271a97ec614e9813a5d4d",
+      "url": "https://gitlab.com/Android-Dumps/oneplus/OP5961L1/-/tree/c3c1b3d5fb23b94b8f3271a97ec614e9813a5d4d"
+    },
+    {
+      "item_id": "oneplus/OP5961L1@qssi-user-16-BP2A.250605.015-1778661612206-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-16-BP2A.250605.015-1778661612206-release-keys",
+        "commit": "04295501e69d70005e733a739b1c3939559e8f75",
+        "committed_date": "2026-06-05T13:21:56.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-06-07T15:01:18.403Z",
+        "namespace_hint": "oneplus",
+        "project_hint": "OP5961L1",
+        "project_id": 82912130,
+        "project_path": "oneplus/OP5961L1"
+      },
+      "revision": "04295501e69d70005e733a739b1c3939559e8f75",
+      "url": "https://gitlab.com/Android-Dumps/oneplus/OP5961L1/-/tree/04295501e69d70005e733a739b1c3939559e8f75"
+    },
+    {
+      "item_id": "oneplus/OP613BL1@sys_mssi_64_64only_cn_armv82-user-16-BP2A.250605.015-1769440806649-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_64only_cn_armv82-user-16-BP2A.250605.015-1769440806649-release-keys",
+        "commit": "f9a6d5aa08fac7e49f1c4c51bf1f2e57f10a1eee",
+        "committed_date": "2026-03-18T20:58:14.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-03-18T20:40:42.747Z",
+        "namespace_hint": "oneplus",
+        "project_hint": "OP613BL1",
+        "project_id": 80394900,
+        "project_path": "oneplus/OP613BL1"
+      },
+      "revision": "f9a6d5aa08fac7e49f1c4c51bf1f2e57f10a1eee",
+      "url": "https://gitlab.com/Android-Dumps/oneplus/OP613BL1/-/tree/f9a6d5aa08fac7e49f1c4c51bf1f2e57f10a1eee"
+    },
+    {
+      "item_id": "oneplus/OnePlus6@OnePlus6-user-8.1.0-OPM1.171019.011-273-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "OnePlus6-user-8.1.0-OPM1.171019.011-273-release-keys",
+        "commit": "947b2fe9e287ecc215dc315b9c430f34f0935f6e",
+        "committed_date": "2022-06-20T23:44:12.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-06-20T18:14:11.349Z",
+        "namespace_hint": "oneplus",
+        "project_hint": "OnePlus6",
+        "project_id": 37184017,
+        "project_path": "oneplus/OnePlus6"
+      },
+      "revision": "947b2fe9e287ecc215dc315b9c430f34f0935f6e",
+      "url": "https://gitlab.com/Android-Dumps/oneplus/OnePlus6/-/tree/947b2fe9e287ecc215dc315b9c430f34f0935f6e"
+    },
+    {
+      "item_id": "oneplus/OnePlus6T@OnePlus6T-user-9-PKQ1.180716.001-1812260627-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "OnePlus6T-user-9-PKQ1.180716.001-1812260627-release-keys",
+        "commit": "6dd076fa0fc39d7915aaa921aaae805efc84cb9f",
+        "committed_date": "2022-06-21T00:06:18.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-06-20T18:36:17.121Z",
+        "namespace_hint": "oneplus",
+        "project_hint": "OnePlus6T",
+        "project_id": 37184526,
+        "project_path": "oneplus/OnePlus6T"
+      },
+      "revision": "6dd076fa0fc39d7915aaa921aaae805efc84cb9f",
+      "url": "https://gitlab.com/Android-Dumps/oneplus/OnePlus6T/-/tree/6dd076fa0fc39d7915aaa921aaae805efc84cb9f"
+    },
+    {
+      "item_id": "oneplus/OnePlus7Pro@aospa_oneplus7pro-userdebug-12-SKQ1.220603.001-eng.master.20220624.105907-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aospa_oneplus7pro-userdebug-12-SKQ1.220603.001-eng.master.20220624.105907-test-keys",
+        "commit": "2a9640fc0937d224c188c506cda6b0755f35c88b",
+        "committed_date": "2022-06-25T12:49:26.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-06-25T07:19:24.854Z",
+        "namespace_hint": "oneplus",
+        "project_hint": "OnePlus7Pro",
+        "project_id": 37330400,
+        "project_path": "oneplus/OnePlus7Pro"
+      },
+      "revision": "2a9640fc0937d224c188c506cda6b0755f35c88b",
+      "url": "https://gitlab.com/Android-Dumps/oneplus/OnePlus7Pro/-/tree/2a9640fc0937d224c188c506cda6b0755f35c88b"
+    },
+    {
+      "item_id": "oneplus/OnePlus7TProNR@qssi-user-11-RKQ1.201022.002-2110121803-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201022.002-2110121803-release-keys",
+        "commit": "f43e81fbfd47238fc0af6e05c8fdf129ea461d63",
+        "committed_date": "2023-07-25T19:21:53.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2023-07-25T19:23:22.959Z",
+        "namespace_hint": "oneplus",
+        "project_hint": "OnePlus7TProNR",
+        "project_id": 48012941,
+        "project_path": "oneplus/OnePlus7TProNR"
+      },
+      "revision": "f43e81fbfd47238fc0af6e05c8fdf129ea461d63",
+      "url": "https://gitlab.com/Android-Dumps/oneplus/OnePlus7TProNR/-/tree/f43e81fbfd47238fc0af6e05c8fdf129ea461d63"
+    },
+    {
+      "item_id": "oneplus/OnePlus8@qssi-user-11-RP1A.201005.001-2202142212-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.201005.001-2202142212-release-keys",
+        "commit": "be2ac9317c1e6cc0c0d403d41f60b324b7b08b28",
+        "committed_date": "2022-05-18T14:19:08.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-05-18T08:49:07.317Z",
+        "namespace_hint": "oneplus",
+        "project_hint": "OnePlus8",
+        "project_id": 36268474,
+        "project_path": "oneplus/OnePlus8"
+      },
+      "revision": "be2ac9317c1e6cc0c0d403d41f60b324b7b08b28",
+      "url": "https://gitlab.com/Android-Dumps/oneplus/OnePlus8/-/tree/be2ac9317c1e6cc0c0d403d41f60b324b7b08b28"
+    },
+    {
+      "item_id": "oneplus/OnePlusNordCE@qssi-user-11-RKQ1.201217.002-2202251543-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201217.002-2202251543-release-keys",
+        "commit": "7026938e29a263b01671d3460fedc5296021c325",
+        "committed_date": "2022-06-26T00:47:06.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-06-25T19:17:04.961Z",
+        "namespace_hint": "oneplus",
+        "project_hint": "OnePlusNordCE",
+        "project_id": 37337841,
+        "project_path": "oneplus/OnePlusNordCE"
+      },
+      "revision": "7026938e29a263b01671d3460fedc5296021c325",
+      "url": "https://gitlab.com/Android-Dumps/oneplus/OnePlusNordCE/-/tree/7026938e29a263b01671d3460fedc5296021c325"
+    }
+  ],
+  "provider_id": "android_dumps_gitlab",
+  "schema_version": "1.0",
+  "status": "ok"
+}

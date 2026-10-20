@@ -1,0 +1,230 @@
+{
+  "checked_at": "2026-10-19T03:41:19Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "oppo/18501@CPH1919EX_11.C.34_1340_202102232150",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "CPH1919EX_11.C.34_1340_202102232150",
+        "commit": "82330e85546016e68aa724c6a34f23e9a5e1b80d",
+        "committed_date": "2023-04-15T15:03:03.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-15T09:33:02.089Z",
+        "namespace_hint": "oppo",
+        "project_hint": "18501",
+        "project_id": 45198072,
+        "project_path": "oppo/18501"
+      },
+      "revision": "82330e85546016e68aa724c6a34f23e9a5e1b80d",
+      "url": "https://gitlab.com/Android-Dumps/oppo/18501/-/tree/82330e85546016e68aa724c6a34f23e9a5e1b80d"
+    },
+    {
+      "item_id": "oppo/A11w@OPPO82_15063-user-4.4.2-KOT49H-eng.root.1433169212-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "OPPO82_15063-user-4.4.2-KOT49H-eng.root.1433169212-dev-keys",
+        "commit": "f913639d9dc631f4d580d0ed3dc129fc07c47bc1",
+        "committed_date": "2022-06-29T21:43:10.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-06-29T16:13:07.779Z",
+        "namespace_hint": "oppo",
+        "project_hint": "A11w",
+        "project_id": 37438562,
+        "project_path": "oppo/A11w"
+      },
+      "revision": "f913639d9dc631f4d580d0ed3dc129fc07c47bc1",
+      "url": "https://gitlab.com/Android-Dumps/oppo/A11w/-/tree/f913639d9dc631f4d580d0ed3dc129fc07c47bc1"
+    },
+    {
+      "item_id": "oppo/A37f@msm8916_64-user-5.1.1-LMY47V-eng.root.20190711.032745-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8916_64-user-5.1.1-LMY47V-eng.root.20190711.032745-release-keys",
+        "commit": "62312d2f28db0b2179ab6fbdf368f1b26670885a",
+        "committed_date": "2022-02-25T15:37:59.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-02-25T15:33:25.624Z",
+        "namespace_hint": "oppo",
+        "project_hint": "A37f",
+        "project_id": 34045826,
+        "project_path": "oppo/A37f"
+      },
+      "revision": "62312d2f28db0b2179ab6fbdf368f1b26670885a",
+      "url": "https://gitlab.com/Android-Dumps/oppo/A37f/-/tree/62312d2f28db0b2179ab6fbdf368f1b26670885a"
+    },
+    {
+      "item_id": "oppo/CPH1859@full_oppo6771_17065-user-9-PPR1.180610.011-eng.root.20200509.060522-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6771_17065-user-9-PPR1.180610.011-eng.root.20200509.060522-release-keys",
+        "commit": "a9e1675af2e8db74afc383b715070a4fad5b4628",
+        "committed_date": "2022-07-02T15:57:41.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-07-02T10:27:40.459Z",
+        "namespace_hint": "oppo",
+        "project_hint": "CPH1859",
+        "project_id": 37506251,
+        "project_path": "oppo/CPH1859"
+      },
+      "revision": "a9e1675af2e8db74afc383b715070a4fad5b4628",
+      "url": "https://gitlab.com/Android-Dumps/oppo/CPH1859/-/tree/a9e1675af2e8db74afc383b715070a4fad5b4628"
+    },
+    {
+      "item_id": "oppo/OP4863@CPH1969EX_11.C.37_1370_202105202011",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "CPH1969EX_11.C.37_1370_202105202011",
+        "commit": "f5835fb3b25821e49b3c5f6018066622407cb060",
+        "committed_date": "2023-03-15T03:19:24.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-03-14T21:49:23.468Z",
+        "namespace_hint": "oppo",
+        "project_hint": "OP4863",
+        "project_id": 44321254,
+        "project_path": "oppo/OP4863"
+      },
+      "revision": "f5835fb3b25821e49b3c5f6018066622407cb060",
+      "url": "https://gitlab.com/Android-Dumps/oppo/OP4863/-/tree/f5835fb3b25821e49b3c5f6018066622407cb060"
+    },
+    {
+      "item_id": "oppo/OP4B83L1@CPH1907PUEX_11.C.49_1490_202104131023",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "CPH1907PUEX_11.C.49_1490_202104131023",
+        "commit": "e5a39bf5cdade3913afc4186c20b0145976c7522",
+        "committed_date": "2023-04-15T15:02:55.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-15T09:32:54.237Z",
+        "namespace_hint": "oppo",
+        "project_hint": "OP4B83L1",
+        "project_id": 45198070,
+        "project_path": "oppo/OP4B83L1"
+      },
+      "revision": "e5a39bf5cdade3913afc4186c20b0145976c7522",
+      "url": "https://gitlab.com/Android-Dumps/oppo/OP4B83L1/-/tree/e5a39bf5cdade3913afc4186c20b0145976c7522"
+    },
+    {
+      "item_id": "oppo/OP4BFB@full_oppo6765_19451-user-9-PPR1.180610.011-eng.root.20200401.230446-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6765_19451-user-9-PPR1.180610.011-eng.root.20200401.230446-release-keys",
+        "commit": "725a573125361e0cc548a6e158db08065fb8dbfb",
+        "committed_date": "2022-03-15T12:00:13.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-06-12T07:33:17.676Z",
+        "namespace_hint": "oppo",
+        "project_hint": "OP4BFB",
+        "project_id": 34495095,
+        "project_path": "oppo/OP4BFB"
+      },
+      "revision": "725a573125361e0cc548a6e158db08065fb8dbfb",
+      "url": "https://gitlab.com/Android-Dumps/oppo/OP4BFB/-/tree/725a573125361e0cc548a6e158db08065fb8dbfb"
+    },
+    {
+      "item_id": "oppo/OP4BFB@full_oppo6765_19451-user-9-PPR1.180610.011-eng.root.20201126.014332-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6765_19451-user-9-PPR1.180610.011-eng.root.20201126.014332-release-keys",
+        "commit": "b9c07b6baf5fde98475d311d38b60002221e4bf9",
+        "committed_date": "2022-06-12T07:26:57.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-12T07:33:17.676Z",
+        "namespace_hint": "oppo",
+        "project_hint": "OP4BFB",
+        "project_id": 34495095,
+        "project_path": "oppo/OP4BFB"
+      },
+      "revision": "b9c07b6baf5fde98475d311d38b60002221e4bf9",
+      "url": "https://gitlab.com/Android-Dumps/oppo/OP4BFB/-/tree/b9c07b6baf5fde98475d311d38b60002221e4bf9"
+    },
+    {
+      "item_id": "oppo/OP4C4BL1@CPH1989EX_11.C.21_1210_202105202211",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "CPH1989EX_11.C.21_1210_202105202211",
+        "commit": "bb6ca0f15e810212cfe4492840dc87301238420a",
+        "committed_date": "2023-04-15T15:03:30.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-15T09:33:29.300Z",
+        "namespace_hint": "oppo",
+        "project_hint": "OP4C4BL1",
+        "project_id": 45198078,
+        "project_path": "oppo/OP4C4BL1"
+      },
+      "revision": "bb6ca0f15e810212cfe4492840dc87301238420a",
+      "url": "https://gitlab.com/Android-Dumps/oppo/OP4C4BL1/-/tree/bb6ca0f15e810212cfe4492840dc87301238420a"
+    },
+    {
+      "item_id": "oppo/OP4C7D@full_oppo6765_19581-user-9-PPR1.180610.011-eng.root.20201217.223505-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6765_19581-user-9-PPR1.180610.011-eng.root.20201217.223505-release-keys",
+        "commit": "378e4248a0d9c8a2e9403285f6b313e6d41fad56",
+        "committed_date": "2022-04-06T22:08:12.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-04-06T16:38:11.687Z",
+        "namespace_hint": "oppo",
+        "project_hint": "OP4C7D",
+        "project_id": 35143672,
+        "project_path": "oppo/OP4C7D"
+      },
+      "revision": "378e4248a0d9c8a2e9403285f6b313e6d41fad56",
+      "url": "https://gitlab.com/Android-Dumps/oppo/OP4C7D/-/tree/378e4248a0d9c8a2e9403285f6b313e6d41fad56"
+    },
+    {
+      "item_id": "oppo/OP4F2F@CPH2239PU_11.A.07_0070_202104171923",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "CPH2239PU_11.A.07_0070_202104171923",
+        "commit": "9af08d0ff693bd6e622c153a5b845a0a288dea13",
+        "committed_date": "2022-06-28T21:26:13.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-06-28T15:56:11.991Z",
+        "namespace_hint": "oppo",
+        "project_hint": "OP4F2F",
+        "project_id": 37405610,
+        "project_path": "oppo/OP4F2F"
+      },
+      "revision": "9af08d0ff693bd6e622c153a5b845a0a288dea13",
+      "url": "https://gitlab.com/Android-Dumps/oppo/OP4F2F/-/tree/9af08d0ff693bd6e622c153a5b845a0a288dea13"
+    },
+    {
+      "item_id": "oppo/OP5759L1@sys_mssi_64_cn_armv82-user-14-UKQ1.230924.001-1733130776113-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-14-UKQ1.230924.001-1733130776113-release-keys",
+        "commit": "337ede2838343080061def7c2e61309b1a6adebc",
+        "committed_date": "2026-09-07T16:21:34.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-09-07T17:04:18.363Z",
+        "namespace_hint": "oppo",
+        "project_hint": "OP5759L1",
+        "project_id": 86188317,
+        "project_path": "oppo/OP5759L1"
+      },
+      "revision": "337ede2838343080061def7c2e61309b1a6adebc",
+      "url": "https://gitlab.com/Android-Dumps/oppo/OP5759L1/-/tree/337ede2838343080061def7c2e61309b1a6adebc"
+    },
+    {
+      "item_id": "oppo/OP5759L1@sys_mssi_64_cn_armv82-user-15-AP3A.240617.008-1772802164812-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-15-AP3A.240617.008-1772802164812-release-keys",
+        "commit": "e8d7a0247d2081bb738c22ccfc4a3565ac498dd7",
+        "committed_date": "2026-09-07T17:02:40.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2026-09-07T17:04:18.363Z",
+        "namespace_hint": "oppo",
+        "project_hint": "OP5759L1",
+        "project_id": 86188317,
+        "project_path": "oppo/OP5759L1"
+      },
+      "revision": "e8d7a0247d2081bb738c22ccfc4a3565ac498dd7",
+      "url": "https://gitlab.com/Android-Dumps/oppo/OP5759L1/-/tree/e8d7a0247d2081bb738c22ccfc4a3565ac498dd7"
+    }
+  ],
+  "provider_id": "android_dumps_gitlab",
+  "schema_version": "1.0",
+  "status": "ok"
+}

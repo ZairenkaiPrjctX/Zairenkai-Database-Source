@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T03:41:19Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "teracube/Teracube_2e@full_yk673v6_lwg62_64-user-11-RP1A.200720.011-p1k61v164bspP13-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_yk673v6_lwg62_64-user-11-RP1A.200720.011-p1k61v164bspP13-release-keys",
+        "commit": "63e50dfbe3d5f7dc3b026bde29a53cb168f8926c",
+        "committed_date": "2023-02-21T15:19:36.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2023-02-21T15:25:57.314Z",
+        "namespace_hint": "teracube",
+        "project_hint": "Teracube_2e",
+        "project_id": 39596495,
+        "project_path": "teracube/Teracube_2e"
+      },
+      "revision": "63e50dfbe3d5f7dc3b026bde29a53cb168f8926c",
+      "url": "https://gitlab.com/Android-Dumps/teracube/Teracube_2e/-/tree/63e50dfbe3d5f7dc3b026bde29a53cb168f8926c"
+    }
+  ],
+  "provider_id": "android_dumps_gitlab",
+  "schema_version": "1.0",
+  "status": "ok"
+}

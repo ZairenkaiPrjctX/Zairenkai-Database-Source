@@ -1,0 +1,1623 @@
+{
+  "checked_at": "2026-10-19T03:41:19Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "_project/45078114",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": "2023-04-11T15:46:44.455Z",
+        "project_id": 45078114,
+        "project_path": "samsung/dm3q"
+      },
+      "revision": "2023-04-11T15:46:44.455Z",
+      "url": "https://gitlab.com/Android-Dumps/samsung/dm3q"
+    },
+    {
+      "item_id": "_project/45099337",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": "2023-04-12T09:38:39.422Z",
+        "project_id": 45099337,
+        "project_path": "samsung/dm2q"
+      },
+      "revision": "2023-04-12T09:38:39.422Z",
+      "url": "https://gitlab.com/Android-Dumps/samsung/dm2q"
+    },
+    {
+      "item_id": "_project/45099691",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": "2023-04-12T09:47:02.834Z",
+        "project_id": 45099691,
+        "project_path": "samsung/dm1q"
+      },
+      "revision": "2023-04-12T09:47:02.834Z",
+      "url": "https://gitlab.com/Android-Dumps/samsung/dm1q"
+    },
+    {
+      "item_id": "samsung/a01core@a01coredd-user-10-QP1A.190711.020-M013FDDU6AVC5-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "a01coredd-user-10-QP1A.190711.020-M013FDDU6AVC5-release-keys",
+        "commit": "61c1f4fa6e0af2a2bc2f0a99a90aef46537ba630",
+        "committed_date": "2022-04-01T17:11:41.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-04-01T11:41:40.039Z",
+        "namespace_hint": "samsung",
+        "project_hint": "a01core",
+        "project_id": 35001306,
+        "project_path": "samsung/a01core"
+      },
+      "revision": "61c1f4fa6e0af2a2bc2f0a99a90aef46537ba630",
+      "url": "https://gitlab.com/Android-Dumps/samsung/a01core/-/tree/61c1f4fa6e0af2a2bc2f0a99a90aef46537ba630"
+    },
+    {
+      "item_id": "samsung/a02@a02xx-user-11-RP1A.200720.012-A022FXXS3BVB1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "a02xx-user-11-RP1A.200720.012-A022FXXS3BVB1-release-keys",
+        "commit": "abbe3ac1c2b91db35b95791120e2a3625733dc68",
+        "committed_date": "2022-03-04T12:12:12.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-03-04T12:07:52.879Z",
+        "namespace_hint": "samsung",
+        "project_hint": "a02",
+        "project_id": 31543847,
+        "project_path": "samsung/a02"
+      },
+      "revision": "abbe3ac1c2b91db35b95791120e2a3625733dc68",
+      "url": "https://gitlab.com/Android-Dumps/samsung/a02/-/tree/abbe3ac1c2b91db35b95791120e2a3625733dc68"
+    },
+    {
+      "item_id": "samsung/a02@a02xx-user-11-RP1A.200720.012-A022FXXU2BUK2-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "a02xx-user-11-RP1A.200720.012-A022FXXU2BUK2-release-keys",
+        "commit": "ba37eec3352a88011c6b77fbb860939bace83e56",
+        "committed_date": "2021-11-23T13:55:11.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-03-04T12:07:52.879Z",
+        "namespace_hint": "samsung",
+        "project_hint": "a02",
+        "project_id": 31543847,
+        "project_path": "samsung/a02"
+      },
+      "revision": "ba37eec3352a88011c6b77fbb860939bace83e56",
+      "url": "https://gitlab.com/Android-Dumps/samsung/a02/-/tree/ba37eec3352a88011c6b77fbb860939bace83e56"
+    },
+    {
+      "item_id": "samsung/a04e@a04exx-user-14-UP1A.231005.007-A042FXXSFEZB8-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "a04exx-user-14-UP1A.231005.007-A042FXXSFEZB8-release-keys",
+        "commit": "e015e6d865bbb1370f387b517ee6c4ac84b940ee",
+        "committed_date": "2026-04-29T12:37:21.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2026-07-01T07:47:57.499Z",
+        "namespace_hint": "samsung",
+        "project_hint": "a04e",
+        "project_id": 81754756,
+        "project_path": "samsung/a04e"
+      },
+      "revision": "e015e6d865bbb1370f387b517ee6c4ac84b940ee",
+      "url": "https://gitlab.com/Android-Dumps/samsung/a04e/-/tree/e015e6d865bbb1370f387b517ee6c4ac84b940ee"
+    },
+    {
+      "item_id": "samsung/a04e@a04exx-user-14-UP1A.231005.007-A042FXXSGEZF1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "a04exx-user-14-UP1A.231005.007-A042FXXSGEZF1-release-keys",
+        "commit": "4e04eb3ae98c9288be8ef8967c07a91e0c5e9aa5",
+        "committed_date": "2026-07-01T07:56:04.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-07-01T07:47:57.499Z",
+        "namespace_hint": "samsung",
+        "project_hint": "a04e",
+        "project_id": 81754756,
+        "project_path": "samsung/a04e"
+      },
+      "revision": "4e04eb3ae98c9288be8ef8967c07a91e0c5e9aa5",
+      "url": "https://gitlab.com/Android-Dumps/samsung/a04e/-/tree/4e04eb3ae98c9288be8ef8967c07a91e0c5e9aa5"
+    },
+    {
+      "item_id": "samsung/a05m@a05mdxx-user-16-BP2A.250605.031.A3-E055FXXS8CZE1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "a05mdxx-user-16-BP2A.250605.031.A3-E055FXXS8CZE1-release-keys",
+        "commit": "213414b3957f0d73b34a1df13b64d3b461fff1a1",
+        "committed_date": "2026-07-01T08:07:48.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-07-01T07:55:20.433Z",
+        "namespace_hint": "samsung",
+        "project_hint": "a05m",
+        "project_id": 83961347,
+        "project_path": "samsung/a05m"
+      },
+      "revision": "213414b3957f0d73b34a1df13b64d3b461fff1a1",
+      "url": "https://gitlab.com/Android-Dumps/samsung/a05m/-/tree/213414b3957f0d73b34a1df13b64d3b461fff1a1"
+    },
+    {
+      "item_id": "samsung/a06@a06xx-user-14-UP1A.231005.007-A065FXXS4AYE2-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "a06xx-user-14-UP1A.231005.007-A065FXXS4AYE2-release-keys",
+        "commit": "87d064508ea08940d9f940a0a7f2335b44032a6e",
+        "committed_date": "2026-09-14T15:30:01.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2026-09-14T15:10:03.791Z",
+        "namespace_hint": "samsung",
+        "project_hint": "a06",
+        "project_id": 86455676,
+        "project_path": "samsung/a06"
+      },
+      "revision": "87d064508ea08940d9f940a0a7f2335b44032a6e",
+      "url": "https://gitlab.com/Android-Dumps/samsung/a06/-/tree/87d064508ea08940d9f940a0a7f2335b44032a6e"
+    },
+    {
+      "item_id": "samsung/a06@a06xx-user-16-BP2A.250605.031.A3-A065FXXSDCZG2-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "a06xx-user-16-BP2A.250605.031.A3-A065FXXSDCZG2-release-keys",
+        "commit": "29878bfd7e735f778770cc5bf4e379e2f9237b9a",
+        "committed_date": "2026-09-14T15:37:38.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-09-14T15:10:03.791Z",
+        "namespace_hint": "samsung",
+        "project_hint": "a06",
+        "project_id": 86455676,
+        "project_path": "samsung/a06"
+      },
+      "revision": "29878bfd7e735f778770cc5bf4e379e2f9237b9a",
+      "url": "https://gitlab.com/Android-Dumps/samsung/a06/-/tree/29878bfd7e735f778770cc5bf4e379e2f9237b9a"
+    },
+    {
+      "item_id": "samsung/a13x@a13xins-user-13-TP1A.220624.014-M136BXXU4CWE3-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "a13xins-user-13-TP1A.220624.014-M136BXXU4CWE3-release-keys",
+        "commit": "a87e1532e87bd1b4143f7ed3ae35e526ca2ef0a1",
+        "committed_date": "2023-08-13T22:19:37.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2025-08-09T19:30:51.373Z",
+        "namespace_hint": "samsung",
+        "project_hint": "a13x",
+        "project_id": 48463233,
+        "project_path": "samsung/a13x"
+      },
+      "revision": "a87e1532e87bd1b4143f7ed3ae35e526ca2ef0a1",
+      "url": "https://gitlab.com/Android-Dumps/samsung/a13x/-/tree/a87e1532e87bd1b4143f7ed3ae35e526ca2ef0a1"
+    },
+    {
+      "item_id": "samsung/a13x@a13xins-user-14-UP1A.231005.007-M136BXXSBDYD3-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "a13xins-user-14-UP1A.231005.007-M136BXXSBDYD3-release-keys",
+        "commit": "8256705f995c3d4bb6edb59d4323fd47a6a85358",
+        "committed_date": "2025-08-10T01:31:37.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2025-08-09T19:30:51.373Z",
+        "namespace_hint": "samsung",
+        "project_hint": "a13x",
+        "project_id": 48463233,
+        "project_path": "samsung/a13x"
+      },
+      "revision": "8256705f995c3d4bb6edb59d4323fd47a6a85358",
+      "url": "https://gitlab.com/Android-Dumps/samsung/a13x/-/tree/8256705f995c3d4bb6edb59d4323fd47a6a85358"
+    },
+    {
+      "item_id": "samsung/a13x@a13xskt-user-14-UP1A.231005.007-A136SKSSAEYF1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "a13xskt-user-14-UP1A.231005.007-A136SKSSAEYF1-release-keys",
+        "commit": "714eb518705a8c6190a00e71bbea43d7ed20a34c",
+        "committed_date": "2025-08-10T01:08:57.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2025-08-09T19:30:51.373Z",
+        "namespace_hint": "samsung",
+        "project_hint": "a13x",
+        "project_id": 48463233,
+        "project_path": "samsung/a13x"
+      },
+      "revision": "714eb518705a8c6190a00e71bbea43d7ed20a34c",
+      "url": "https://gitlab.com/Android-Dumps/samsung/a13x/-/tree/714eb518705a8c6190a00e71bbea43d7ed20a34c"
+    },
+    {
+      "item_id": "samsung/a14@a14nsxx-user-13-TP1A.220624.014-A145FXXS2AWF3-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "a14nsxx-user-13-TP1A.220624.014-A145FXXS2AWF3-release-keys",
+        "commit": "cd9bce4583db60c68f21eb27a8d5630a0289a10f",
+        "committed_date": "2023-06-11T13:33:52.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-06-11T08:11:21.192Z",
+        "namespace_hint": "samsung",
+        "project_hint": "a14",
+        "project_id": 44989213,
+        "project_path": "samsung/a14"
+      },
+      "revision": "cd9bce4583db60c68f21eb27a8d5630a0289a10f",
+      "url": "https://gitlab.com/Android-Dumps/samsung/a14/-/tree/cd9bce4583db60c68f21eb27a8d5630a0289a10f"
+    },
+    {
+      "item_id": "samsung/a14@a14nsxx-user-13-TP1A.220624.014-A145FXXU1AWB5-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "a14nsxx-user-13-TP1A.220624.014-A145FXXU1AWB5-release-keys",
+        "commit": "b8df251e6b31a4a08a179239c009baf5eda87d0f",
+        "committed_date": "2023-04-07T18:40:51.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-06-11T08:11:21.192Z",
+        "namespace_hint": "samsung",
+        "project_hint": "a14",
+        "project_id": 44989213,
+        "project_path": "samsung/a14"
+      },
+      "revision": "b8df251e6b31a4a08a179239c009baf5eda87d0f",
+      "url": "https://gitlab.com/Android-Dumps/samsung/a14/-/tree/b8df251e6b31a4a08a179239c009baf5eda87d0f"
+    },
+    {
+      "item_id": "samsung/a14xm@a14xmxx-user-13-TP1A.220624.014-A146PXXU2BWD1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "a14xmxx-user-13-TP1A.220624.014-A146PXXU2BWD1-release-keys",
+        "commit": "94af9e503f47509246193826e302f06e7cef1e01",
+        "committed_date": "2023-04-19T15:26:04.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2024-03-05T16:38:34.125Z",
+        "namespace_hint": "samsung",
+        "project_hint": "a14xm",
+        "project_id": 45302867,
+        "project_path": "samsung/a14xm"
+      },
+      "revision": "94af9e503f47509246193826e302f06e7cef1e01",
+      "url": "https://gitlab.com/Android-Dumps/samsung/a14xm/-/tree/94af9e503f47509246193826e302f06e7cef1e01"
+    },
+    {
+      "item_id": "samsung/a14xm@a14xmxx-user-14-UP1A.231005.007-A146PXXU5CWL7-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "a14xmxx-user-14-UP1A.231005.007-A146PXXU5CWL7-release-keys",
+        "commit": "f190ccba1c702730d1f2d08539ff7a39e4537fb2",
+        "committed_date": "2024-03-05T16:55:15.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-03-05T16:38:34.125Z",
+        "namespace_hint": "samsung",
+        "project_hint": "a14xm",
+        "project_id": 45302867,
+        "project_path": "samsung/a14xm"
+      },
+      "revision": "f190ccba1c702730d1f2d08539ff7a39e4537fb2",
+      "url": "https://gitlab.com/Android-Dumps/samsung/a14xm/-/tree/f190ccba1c702730d1f2d08539ff7a39e4537fb2"
+    },
+    {
+      "item_id": "samsung/a22x@a22xnsxx-user-13-TP1A.220624.014-A226BXXS9DWL1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "a22xnsxx-user-13-TP1A.220624.014-A226BXXS9DWL1-release-keys",
+        "commit": "3d0f43fad9f6ca63ff0aa5bb45cdece3b10f7892",
+        "committed_date": "2024-03-04T17:54:34.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2026-08-21T14:46:38.523Z",
+        "namespace_hint": "samsung",
+        "project_hint": "a22x",
+        "project_id": 55536135,
+        "project_path": "samsung/a22x"
+      },
+      "revision": "3d0f43fad9f6ca63ff0aa5bb45cdece3b10f7892",
+      "url": "https://gitlab.com/Android-Dumps/samsung/a22x/-/tree/3d0f43fad9f6ca63ff0aa5bb45cdece3b10f7892"
+    },
+    {
+      "item_id": "samsung/a22x@a22xnsxx-user-13-TP1A.220624.014-A226BXXSBDZC3-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "a22xnsxx-user-13-TP1A.220624.014-A226BXXSBDZC3-release-keys",
+        "commit": "9c9208024cd3602726e716027ab608c85c032d58",
+        "committed_date": "2026-08-21T14:59:39.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-08-21T14:46:38.523Z",
+        "namespace_hint": "samsung",
+        "project_hint": "a22x",
+        "project_id": 55536135,
+        "project_path": "samsung/a22x"
+      },
+      "revision": "9c9208024cd3602726e716027ab608c85c032d58",
+      "url": "https://gitlab.com/Android-Dumps/samsung/a22x/-/tree/9c9208024cd3602726e716027ab608c85c032d58"
+    },
+    {
+      "item_id": "samsung/a24@a24nsxx-user-13-TP1A.220624.014-A245FXXU1AWB2-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "a24nsxx-user-13-TP1A.220624.014-A245FXXU1AWB2-release-keys",
+        "commit": "6fb7786ea63faafcec65d0a454265b93aaaa8581",
+        "committed_date": "2023-04-02T11:51:17.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T14:42:05.139Z",
+        "namespace_hint": "samsung",
+        "project_hint": "a24",
+        "project_id": 44828503,
+        "project_path": "samsung/a24"
+      },
+      "revision": "6fb7786ea63faafcec65d0a454265b93aaaa8581",
+      "url": "https://gitlab.com/Android-Dumps/samsung/a24/-/tree/6fb7786ea63faafcec65d0a454265b93aaaa8581"
+    },
+    {
+      "item_id": "samsung/a24@a24nsxx-user-13-TP1A.220624.014-A245FXXU1AWC3-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "a24nsxx-user-13-TP1A.220624.014-A245FXXU1AWC3-release-keys",
+        "commit": "e48d21a972d73e8ce597372fdf1cfbf018ae4ce3",
+        "committed_date": "2023-04-14T20:01:24.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-14T14:42:05.139Z",
+        "namespace_hint": "samsung",
+        "project_hint": "a24",
+        "project_id": 44828503,
+        "project_path": "samsung/a24"
+      },
+      "revision": "e48d21a972d73e8ce597372fdf1cfbf018ae4ce3",
+      "url": "https://gitlab.com/Android-Dumps/samsung/a24/-/tree/e48d21a972d73e8ce597372fdf1cfbf018ae4ce3"
+    },
+    {
+      "item_id": "samsung/a2corelte@a2coreltedd-user-8.1.0-OPR6-A260GDDSCAUJ2-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "a2coreltedd-user-8.1.0-OPR6-A260GDDSCAUJ2-release-keys",
+        "commit": "83be0e5d26b68bcdf373ffc744a4fce97a63aad1",
+        "committed_date": "2022-04-19T13:02:49.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-04-19T07:32:46.932Z",
+        "namespace_hint": "samsung",
+        "project_hint": "a2corelte",
+        "project_id": 35466094,
+        "project_path": "samsung/a2corelte"
+      },
+      "revision": "83be0e5d26b68bcdf373ffc744a4fce97a63aad1",
+      "url": "https://gitlab.com/Android-Dumps/samsung/a2corelte/-/tree/83be0e5d26b68bcdf373ffc744a4fce97a63aad1"
+    },
+    {
+      "item_id": "samsung/a30@a30dd-user-11-RP1A.200720.012-A305FDDU6CUI3-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "a30dd-user-11-RP1A.200720.012-A305FDDU6CUI3-release-keys",
+        "commit": "e387a0c683dc94026a9ea69de9150ff0041d4424",
+        "committed_date": "2022-03-21T03:56:34.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-03-20T22:26:33.044Z",
+        "namespace_hint": "samsung",
+        "project_hint": "a30",
+        "project_id": 34647964,
+        "project_path": "samsung/a30"
+      },
+      "revision": "e387a0c683dc94026a9ea69de9150ff0041d4424",
+      "url": "https://gitlab.com/Android-Dumps/samsung/a30/-/tree/e387a0c683dc94026a9ea69de9150ff0041d4424"
+    },
+    {
+      "item_id": "samsung/a32@a32xx-user-13-TP1A.220624.014-A325FXXU3DWB8-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "a32xx-user-13-TP1A.220624.014-A325FXXU3DWB8-release-keys",
+        "commit": "622cc7f71ce66c90ff8206f37f59191acf09e752",
+        "committed_date": "2023-04-03T19:04:57.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-03T13:34:54.740Z",
+        "namespace_hint": "samsung",
+        "project_hint": "a32",
+        "project_id": 44860202,
+        "project_path": "samsung/a32"
+      },
+      "revision": "622cc7f71ce66c90ff8206f37f59191acf09e752",
+      "url": "https://gitlab.com/Android-Dumps/samsung/a32/-/tree/622cc7f71ce66c90ff8206f37f59191acf09e752"
+    },
+    {
+      "item_id": "samsung/a32x@a32xxx-user-13-TP1A.220624.014-A326BXXU5CWB7-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "a32xxx-user-13-TP1A.220624.014-A326BXXU5CWB7-release-keys",
+        "commit": "d5f2949e0e36c26d6ae77e87797c1a47821745bb",
+        "committed_date": "2023-04-03T19:06:49.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-03T13:36:48.100Z",
+        "namespace_hint": "samsung",
+        "project_hint": "a32x",
+        "project_id": 44860250,
+        "project_path": "samsung/a32x"
+      },
+      "revision": "d5f2949e0e36c26d6ae77e87797c1a47821745bb",
+      "url": "https://gitlab.com/Android-Dumps/samsung/a32x/-/tree/d5f2949e0e36c26d6ae77e87797c1a47821745bb"
+    },
+    {
+      "item_id": "samsung/a50@a50dd-user-11-RP1A.200720.012-A505FDDS9CWA2-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "a50dd-user-11-RP1A.200720.012-A505FDDS9CWA2-release-keys",
+        "commit": "cd10956cf6137212a25af59ea976657a0eb850c4",
+        "committed_date": "2023-04-09T09:21:09.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-09T03:51:07.557Z",
+        "namespace_hint": "samsung",
+        "project_hint": "a50",
+        "project_id": 45018679,
+        "project_path": "samsung/a50"
+      },
+      "revision": "cd10956cf6137212a25af59ea976657a0eb850c4",
+      "url": "https://gitlab.com/Android-Dumps/samsung/a50/-/tree/cd10956cf6137212a25af59ea976657a0eb850c4"
+    },
+    {
+      "item_id": "samsung/a54x@a54xnsxx-user-13-TP1A.220624.014-A546EXXS2AWC6-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "a54xnsxx-user-13-TP1A.220624.014-A546EXXS2AWC6-release-keys",
+        "commit": "be02c4ed9eb45a4bf85f708bdf4a1e3d40ea4993",
+        "committed_date": "2023-04-14T19:32:55.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-14T14:14:44.342Z",
+        "namespace_hint": "samsung",
+        "project_hint": "a54x",
+        "project_id": 45042777,
+        "project_path": "samsung/a54x"
+      },
+      "revision": "be02c4ed9eb45a4bf85f708bdf4a1e3d40ea4993",
+      "url": "https://gitlab.com/Android-Dumps/samsung/a54x/-/tree/be02c4ed9eb45a4bf85f708bdf4a1e3d40ea4993"
+    },
+    {
+      "item_id": "samsung/a54x@a54xnsxx-user-13-TP1A.220624.014-A546EXXU1AWC4-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "a54xnsxx-user-13-TP1A.220624.014-A546EXXU1AWC4-release-keys",
+        "commit": "2c2207eba7be7dbeedf3ff0d8d3db60affee446d",
+        "committed_date": "2023-04-10T18:04:16.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-04-14T14:14:44.342Z",
+        "namespace_hint": "samsung",
+        "project_hint": "a54x",
+        "project_id": 45042777,
+        "project_path": "samsung/a54x"
+      },
+      "revision": "2c2207eba7be7dbeedf3ff0d8d3db60affee446d",
+      "url": "https://gitlab.com/Android-Dumps/samsung/a54x/-/tree/2c2207eba7be7dbeedf3ff0d8d3db60affee446d"
+    },
+    {
+      "item_id": "samsung/a57x@a57xnaxx-user-16-BP4A.251205.006-A576BXXS4AZG5-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "a57xnaxx-user-16-BP4A.251205.006-A576BXXS4AZG5-release-keys",
+        "commit": "0e8dd398a89111509700c2972413882947c8d3b6",
+        "committed_date": "2026-08-21T16:04:55.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-08-21T15:45:47.609Z",
+        "namespace_hint": "samsung",
+        "project_hint": "a57x",
+        "project_id": 85633253,
+        "project_path": "samsung/a57x"
+      },
+      "revision": "0e8dd398a89111509700c2972413882947c8d3b6",
+      "url": "https://gitlab.com/Android-Dumps/samsung/a57x/-/tree/0e8dd398a89111509700c2972413882947c8d3b6"
+    },
+    {
+      "item_id": "samsung/a6lte@a6ltexx-user-10-QP1A.190711.020-A600FNXXU9CVB1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "a6ltexx-user-10-QP1A.190711.020-A600FNXXU9CVB1-release-keys",
+        "commit": "0f0aeaf877881cb214d84cb6dfc2d4ba401aa55c",
+        "committed_date": "2023-04-03T16:04:56.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-03T10:34:54.596Z",
+        "namespace_hint": "samsung",
+        "project_hint": "a6lte",
+        "project_id": 44853557,
+        "project_path": "samsung/a6lte"
+      },
+      "revision": "0f0aeaf877881cb214d84cb6dfc2d4ba401aa55c",
+      "url": "https://gitlab.com/Android-Dumps/samsung/a6lte/-/tree/0f0aeaf877881cb214d84cb6dfc2d4ba401aa55c"
+    },
+    {
+      "item_id": "samsung/a71@a71naxx-user-11-RP1A.200720.012-A715FXXU8BVA2-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "a71naxx-user-11-RP1A.200720.012-A715FXXU8BVA2-release-keys",
+        "commit": "535fc69e5f9fe2f674b2ab67d9f803b845b66ba9",
+        "committed_date": "2022-05-02T08:59:06.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-05-02T03:29:03.778Z",
+        "namespace_hint": "samsung",
+        "project_hint": "a71",
+        "project_id": 35811524,
+        "project_path": "samsung/a71"
+      },
+      "revision": "535fc69e5f9fe2f674b2ab67d9f803b845b66ba9",
+      "url": "https://gitlab.com/Android-Dumps/samsung/a71/-/tree/535fc69e5f9fe2f674b2ab67d9f803b845b66ba9"
+    },
+    {
+      "item_id": "samsung/a71@a71naxx-user-12-SP1A.210812.016-A715FXXU8CVD1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "a71naxx-user-12-SP1A.210812.016-A715FXXU8CVD1-release-keys",
+        "commit": "9c610ad09633d4d295d3c5f8488d2a8b9d4e2bcc",
+        "committed_date": "2022-05-02T09:06:04.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-05-02T03:29:03.778Z",
+        "namespace_hint": "samsung",
+        "project_hint": "a71",
+        "project_id": 35811524,
+        "project_path": "samsung/a71"
+      },
+      "revision": "9c610ad09633d4d295d3c5f8488d2a8b9d4e2bcc",
+      "url": "https://gitlab.com/Android-Dumps/samsung/a71/-/tree/9c610ad09633d4d295d3c5f8488d2a8b9d4e2bcc"
+    },
+    {
+      "item_id": "samsung/a72q@A725FXXU4BVB4",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "A725FXXU4BVB4",
+        "commit": "a9a5bad12a681f1984cbed83993e50b1e274c979",
+        "committed_date": "2022-03-22T01:35:38.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-04-17T23:12:10.423Z",
+        "namespace_hint": "samsung",
+        "project_hint": "a72q",
+        "project_id": 34676491,
+        "project_path": "samsung/a72q"
+      },
+      "revision": "a9a5bad12a681f1984cbed83993e50b1e274c979",
+      "url": "https://gitlab.com/Android-Dumps/samsung/a72q/-/tree/a9a5bad12a681f1984cbed83993e50b1e274c979"
+    },
+    {
+      "item_id": "samsung/a72q@a72qnsxx-user-12-SP1A.210812.016-A725FXXU4BVC1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "a72qnsxx-user-12-SP1A.210812.016-A725FXXU4BVC1-release-keys",
+        "commit": "3339a5726532233a68cc77ef96caf78326f0d488",
+        "committed_date": "2022-04-18T04:27:30.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-04-17T23:12:10.423Z",
+        "namespace_hint": "samsung",
+        "project_hint": "a72q",
+        "project_id": 34676491,
+        "project_path": "samsung/a72q"
+      },
+      "revision": "3339a5726532233a68cc77ef96caf78326f0d488",
+      "url": "https://gitlab.com/Android-Dumps/samsung/a72q/-/tree/3339a5726532233a68cc77ef96caf78326f0d488"
+    },
+    {
+      "item_id": "samsung/bloomxq@bloomxquex-user-13-TP1A.220624.014-F707U1UES3HWC1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "bloomxquex-user-13-TP1A.220624.014-F707U1UES3HWC1-release-keys",
+        "commit": "e16cfcaaa563accc0ca5e77f9ec341a22a2afa28",
+        "committed_date": "2023-04-03T17:07:48.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-03T11:37:46.861Z",
+        "namespace_hint": "samsung",
+        "project_hint": "bloomxq",
+        "project_id": 44855726,
+        "project_path": "samsung/bloomxq"
+      },
+      "revision": "e16cfcaaa563accc0ca5e77f9ec341a22a2afa28",
+      "url": "https://gitlab.com/Android-Dumps/samsung/bloomxq/-/tree/e16cfcaaa563accc0ca5e77f9ec341a22a2afa28"
+    },
+    {
+      "item_id": "samsung/c1s@c1sxxx-user-12-SP1A.210812.016-N981BXXU3FVC5-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "c1sxxx-user-12-SP1A.210812.016-N981BXXU3FVC5-release-keys",
+        "commit": "916ca0150eda5c2f2f14fec4ef02ffdebddc4ab8",
+        "committed_date": "2022-03-22T01:02:20.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-03-21T19:32:19.381Z",
+        "namespace_hint": "samsung",
+        "project_hint": "c1s",
+        "project_id": 34676488,
+        "project_path": "samsung/c1s"
+      },
+      "revision": "916ca0150eda5c2f2f14fec4ef02ffdebddc4ab8",
+      "url": "https://gitlab.com/Android-Dumps/samsung/c1s/-/tree/916ca0150eda5c2f2f14fec4ef02ffdebddc4ab8"
+    },
+    {
+      "item_id": "samsung/c2s@c2sxxx-user-12-SP1A.210812.016-N986BXXU3FVC5-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "c2sxxx-user-12-SP1A.210812.016-N986BXXU3FVC5-release-keys",
+        "commit": "8b79bf492da3638897452dc9da8a5ef4945de8bb",
+        "committed_date": "2022-03-22T01:02:18.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-03-21T19:32:17.650Z",
+        "namespace_hint": "samsung",
+        "project_hint": "c2s",
+        "project_id": 34676487,
+        "project_path": "samsung/c2s"
+      },
+      "revision": "8b79bf492da3638897452dc9da8a5ef4945de8bb",
+      "url": "https://gitlab.com/Android-Dumps/samsung/c2s/-/tree/8b79bf492da3638897452dc9da8a5ef4945de8bb"
+    },
+    {
+      "item_id": "samsung/core33g@core33gdd-user-4.4.4-KTU84P-G360HDDU0AQA2-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "core33gdd-user-4.4.4-KTU84P-G360HDDU0AQA2-release-keys",
+        "commit": "2a0957475803784ca1c979c79e7edd9fbcb55cde",
+        "committed_date": "2023-04-15T15:17:33.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-15T09:47:31.664Z",
+        "namespace_hint": "samsung",
+        "project_hint": "core33g",
+        "project_id": 45198320,
+        "project_path": "samsung/core33g"
+      },
+      "revision": "2a0957475803784ca1c979c79e7edd9fbcb55cde",
+      "url": "https://gitlab.com/Android-Dumps/samsung/core33g/-/tree/2a0957475803784ca1c979c79e7edd9fbcb55cde"
+    },
+    {
+      "item_id": "samsung/coreprimeve3g@coreprimeve3gxx-user-5.1.1-LMY48B-G361HXXS0AQD1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "coreprimeve3gxx-user-5.1.1-LMY48B-G361HXXS0AQD1-release-keys",
+        "commit": "292aff2d926160dafe8e1f8444556cf0f1a29e2f",
+        "committed_date": "2023-04-15T15:18:23.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-15T09:48:22.171Z",
+        "namespace_hint": "samsung",
+        "project_hint": "coreprimeve3g",
+        "project_id": 45198325,
+        "project_path": "samsung/coreprimeve3g"
+      },
+      "revision": "292aff2d926160dafe8e1f8444556cf0f1a29e2f",
+      "url": "https://gitlab.com/Android-Dumps/samsung/coreprimeve3g/-/tree/292aff2d926160dafe8e1f8444556cf0f1a29e2f"
+    },
+    {
+      "item_id": "samsung/d1@d1xx-user-12-SP1A.210812.016-N970FXXS7HVD5-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "d1xx-user-12-SP1A.210812.016-N970FXXS7HVD5-release-keys",
+        "commit": "0f34c835fcb2c75d6c52a010b94c7630d9e7cef0",
+        "committed_date": "2022-05-05T21:01:41.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-05-05T15:31:38.382Z",
+        "namespace_hint": "samsung",
+        "project_hint": "d1",
+        "project_id": 35915851,
+        "project_path": "samsung/d1"
+      },
+      "revision": "0f34c835fcb2c75d6c52a010b94c7630d9e7cef0",
+      "url": "https://gitlab.com/Android-Dumps/samsung/d1/-/tree/0f34c835fcb2c75d6c52a010b94c7630d9e7cef0"
+    },
+    {
+      "item_id": "samsung/f22@f22ins-user-11-RP1A.200720.012-E225FXXU4AVB1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "f22ins-user-11-RP1A.200720.012-E225FXXU4AVB1-release-keys",
+        "commit": "f70353e5c9cc559930de3dda61d367f3b3266d09",
+        "committed_date": "2022-05-09T16:48:27.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-05-27T08:54:57.735Z",
+        "namespace_hint": "samsung",
+        "project_hint": "f22",
+        "project_id": 35998652,
+        "project_path": "samsung/f22"
+      },
+      "revision": "f70353e5c9cc559930de3dda61d367f3b3266d09",
+      "url": "https://gitlab.com/Android-Dumps/samsung/f22/-/tree/f70353e5c9cc559930de3dda61d367f3b3266d09"
+    },
+    {
+      "item_id": "samsung/f22@f22ins-user-12-SP1A.210812.016-E225FXXU4BVE1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "f22ins-user-12-SP1A.210812.016-E225FXXU4BVE1-release-keys",
+        "commit": "d906c2a5b7b2b359fb9cda51b6f40882a01dff60",
+        "committed_date": "2022-05-27T14:12:04.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-05-27T08:54:57.735Z",
+        "namespace_hint": "samsung",
+        "project_hint": "f22",
+        "project_id": 35998652,
+        "project_path": "samsung/f22"
+      },
+      "revision": "d906c2a5b7b2b359fb9cda51b6f40882a01dff60",
+      "url": "https://gitlab.com/Android-Dumps/samsung/f22/-/tree/d906c2a5b7b2b359fb9cda51b6f40882a01dff60"
+    },
+    {
+      "item_id": "samsung/f2q@f2qsqw-user-13-TP1A.220624.014-F916USQS2JWC1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "f2qsqw-user-13-TP1A.220624.014-F916USQS2JWC1-release-keys",
+        "commit": "787f4d92d1455f7c7629ee07eb40187d01475faf",
+        "committed_date": "2023-04-02T15:27:16.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-02T09:57:15.329Z",
+        "namespace_hint": "samsung",
+        "project_hint": "f2q",
+        "project_id": 44830789,
+        "project_path": "samsung/f2q"
+      },
+      "revision": "787f4d92d1455f7c7629ee07eb40187d01475faf",
+      "url": "https://gitlab.com/Android-Dumps/samsung/f2q/-/tree/787f4d92d1455f7c7629ee07eb40187d01475faf"
+    },
+    {
+      "item_id": "samsung/f62@f62ins-user-11-RP1A.200720.012-E625FDDU2AUI2-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "f62ins-user-11-RP1A.200720.012-E625FDDU2AUI2-release-keys",
+        "commit": "27c052d8325344c97ed72237b9049dfa7d39439d",
+        "committed_date": "2022-01-18T18:20:44.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-03-30T15:07:41.590Z",
+        "namespace_hint": "samsung",
+        "project_hint": "f62",
+        "project_id": 32933381,
+        "project_path": "samsung/f62"
+      },
+      "revision": "27c052d8325344c97ed72237b9049dfa7d39439d",
+      "url": "https://gitlab.com/Android-Dumps/samsung/f62/-/tree/27c052d8325344c97ed72237b9049dfa7d39439d"
+    },
+    {
+      "item_id": "samsung/f62@f62ins-user-12-SP1A.210812.016-E625FDDU2BVC3-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "f62ins-user-12-SP1A.210812.016-E625FDDU2BVC3-release-keys",
+        "commit": "aa1a3cbda5cfe655b0294f980d5a15621b5a7510",
+        "committed_date": "2022-03-30T20:25:14.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-03-30T15:07:41.590Z",
+        "namespace_hint": "samsung",
+        "project_hint": "f62",
+        "project_id": 32933381,
+        "project_path": "samsung/f62"
+      },
+      "revision": "aa1a3cbda5cfe655b0294f980d5a15621b5a7510",
+      "url": "https://gitlab.com/Android-Dumps/samsung/f62/-/tree/aa1a3cbda5cfe655b0294f980d5a15621b5a7510"
+    },
+    {
+      "item_id": "samsung/fortuna3g@aosp_fortuna3g-userdebug-9-PQ3A.190801.002-eng.zeesha.20200405.045940-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_fortuna3g-userdebug-9-PQ3A.190801.002-eng.zeesha.20200405.045940-test-keys",
+        "commit": "c8962a3f8827c60605e00c6124d5e480839f7e3f",
+        "committed_date": "2022-06-23T17:54:16.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-06-23T12:25:40.009Z",
+        "namespace_hint": "samsung",
+        "project_hint": "fortuna3g",
+        "project_id": 37280831,
+        "project_path": "samsung/fortuna3g"
+      },
+      "revision": "c8962a3f8827c60605e00c6124d5e480839f7e3f",
+      "url": "https://gitlab.com/Android-Dumps/samsung/fortuna3g/-/tree/c8962a3f8827c60605e00c6124d5e480839f7e3f"
+    },
+    {
+      "item_id": "samsung/fortuna3g@lineage_fortuna3g-userdebug-11-RQ3A.211001.001-eng.gabbox.20220120.153328-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "lineage_fortuna3g-userdebug-11-RQ3A.211001.001-eng.gabbox.20220120.153328-test-keys",
+        "commit": "d9d1210d385300b73e831781cbe6a752651ed7d8",
+        "committed_date": "2022-06-23T16:41:30.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-06-23T12:25:40.009Z",
+        "namespace_hint": "samsung",
+        "project_hint": "fortuna3g",
+        "project_id": 37280831,
+        "project_path": "samsung/fortuna3g"
+      },
+      "revision": "d9d1210d385300b73e831781cbe6a752651ed7d8",
+      "url": "https://gitlab.com/Android-Dumps/samsung/fortuna3g/-/tree/d9d1210d385300b73e831781cbe6a752651ed7d8"
+    },
+    {
+      "item_id": "samsung/goyave3gsea@goyave3gdx-user-4.4.4-KTU84P-T116NUXXS0AQB2-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "goyave3gdx-user-4.4.4-KTU84P-T116NUXXS0AQB2-release-keys",
+        "commit": "c7d52902652ec66964ea89277156d7c37b32055a",
+        "committed_date": "2023-04-15T14:49:18.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-15T09:19:17.379Z",
+        "namespace_hint": "samsung",
+        "project_hint": "goyave3gsea",
+        "project_id": 45197872,
+        "project_path": "samsung/goyave3gsea"
+      },
+      "revision": "c7d52902652ec66964ea89277156d7c37b32055a",
+      "url": "https://gitlab.com/Android-Dumps/samsung/goyave3gsea/-/tree/c7d52902652ec66964ea89277156d7c37b32055a"
+    },
+    {
+      "item_id": "samsung/gta4l@gta4lxx-user-12-SP1A.210812.016-T505XXU4CWA1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "gta4lxx-user-12-SP1A.210812.016-T505XXU4CWA1-release-keys",
+        "commit": "b600e8d270e1fd60b0d788b1456b0d5800e3a00b",
+        "committed_date": "2023-04-12T16:14:31.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-12T10:44:30.247Z",
+        "namespace_hint": "samsung",
+        "project_hint": "gta4l",
+        "project_id": 45101450,
+        "project_path": "samsung/gta4l"
+      },
+      "revision": "b600e8d270e1fd60b0d788b1456b0d5800e3a00b",
+      "url": "https://gitlab.com/Android-Dumps/samsung/gta4l/-/tree/b600e8d270e1fd60b0d788b1456b0d5800e3a00b"
+    },
+    {
+      "item_id": "samsung/gta4lwifi@gta4lwifixx-user-11-RP1A.200720.012-T500XXU3BVD3-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "gta4lwifixx-user-11-RP1A.200720.012-T500XXU3BVD3-release-keys",
+        "commit": "fa9af03ea52af703487e36608ac3a7166a3176d9",
+        "committed_date": "2022-06-29T00:44:28.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-06-28T19:14:26.727Z",
+        "namespace_hint": "samsung",
+        "project_hint": "gta4lwifi",
+        "project_id": 37410935,
+        "project_path": "samsung/gta4lwifi"
+      },
+      "revision": "fa9af03ea52af703487e36608ac3a7166a3176d9",
+      "url": "https://gitlab.com/Android-Dumps/samsung/gta4lwifi/-/tree/fa9af03ea52af703487e36608ac3a7166a3176d9"
+    },
+    {
+      "item_id": "samsung/gta4xl@gta4xlxx-user-13-TP1A.220624.014-P615XXU4FWC5-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "gta4xlxx-user-13-TP1A.220624.014-P615XXU4FWC5-release-keys",
+        "commit": "eae61361f2a7cdcf74fcd3c985b1a1f36f2f2c9a",
+        "committed_date": "2023-04-12T15:46:14.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-12T10:16:12.745Z",
+        "namespace_hint": "samsung",
+        "project_hint": "gta4xl",
+        "project_id": 45100582,
+        "project_path": "samsung/gta4xl"
+      },
+      "revision": "eae61361f2a7cdcf74fcd3c985b1a1f36f2f2c9a",
+      "url": "https://gitlab.com/Android-Dumps/samsung/gta4xl/-/tree/eae61361f2a7cdcf74fcd3c985b1a1f36f2f2c9a"
+    },
+    {
+      "item_id": "samsung/gta7lite@gta7litecs-user-11-RP1A.200720.012-T227UVLS2AVC1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "gta7litecs-user-11-RP1A.200720.012-T227UVLS2AVC1-release-keys",
+        "commit": "dd2a11f1108aca91ff6228445938bf617b2295d1",
+        "committed_date": "2022-04-18T04:36:51.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-04-17T23:06:48.932Z",
+        "namespace_hint": "samsung",
+        "project_hint": "gta7lite",
+        "project_id": 35426699,
+        "project_path": "samsung/gta7lite"
+      },
+      "revision": "dd2a11f1108aca91ff6228445938bf617b2295d1",
+      "url": "https://gitlab.com/Android-Dumps/samsung/gta7lite/-/tree/dd2a11f1108aca91ff6228445938bf617b2295d1"
+    },
+    {
+      "item_id": "samsung/gtactive3@gtactive3ue-user-13-TP1A.220624.014-T577UUEU4EWC2-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "gtactive3ue-user-13-TP1A.220624.014-T577UUEU4EWC2-release-keys",
+        "commit": "ecdbdb3eb5b55f2659f8166262d8533753702402",
+        "committed_date": "2023-04-04T17:12:09.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-04T11:42:08.018Z",
+        "namespace_hint": "samsung",
+        "project_hint": "gtactive3",
+        "project_id": 44892485,
+        "project_path": "samsung/gtactive3"
+      },
+      "revision": "ecdbdb3eb5b55f2659f8166262d8533753702402",
+      "url": "https://gitlab.com/Android-Dumps/samsung/gtactive3/-/tree/ecdbdb3eb5b55f2659f8166262d8533753702402"
+    },
+    {
+      "item_id": "samsung/gts7l@gts7lxx-user-13-TP1A.220624.014-T875XXU2DWB2-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "gts7lxx-user-13-TP1A.220624.014-T875XXU2DWB2-release-keys",
+        "commit": "ace9044ae5f83248c033296365a9b1a8d49093dd",
+        "committed_date": "2023-04-29T07:24:21.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-29T01:54:19.336Z",
+        "namespace_hint": "samsung",
+        "project_hint": "gts7l",
+        "project_id": 45583551,
+        "project_path": "samsung/gts7l"
+      },
+      "revision": "ace9044ae5f83248c033296365a9b1a8d49093dd",
+      "url": "https://gitlab.com/Android-Dumps/samsung/gts7l/-/tree/ace9044ae5f83248c033296365a9b1a8d49093dd"
+    },
+    {
+      "item_id": "samsung/gts7xl@gts7xlxx-user-13-TP1A.220624.014-T975XXU2DWB2-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "gts7xlxx-user-13-TP1A.220624.014-T975XXU2DWB2-release-keys",
+        "commit": "2b566db581e11114d39c7ee126179655d31c3296",
+        "committed_date": "2023-04-29T07:25:46.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-29T01:55:44.339Z",
+        "namespace_hint": "samsung",
+        "project_hint": "gts7xl",
+        "project_id": 45583559,
+        "project_path": "samsung/gts7xl"
+      },
+      "revision": "2b566db581e11114d39c7ee126179655d31c3296",
+      "url": "https://gitlab.com/Android-Dumps/samsung/gts7xl/-/tree/2b566db581e11114d39c7ee126179655d31c3296"
+    },
+    {
+      "item_id": "samsung/ha3g@ha3gxx-user-5.0-LRX21V-N900XXSEBQC2-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ha3gxx-user-5.0-LRX21V-N900XXSEBQC2-release-keys",
+        "commit": "4bd570c56cf6ecee0694ee5daf6147bd7754e18e",
+        "committed_date": "2023-04-20T18:16:54.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-20T12:46:52.665Z",
+        "namespace_hint": "samsung",
+        "project_hint": "ha3g",
+        "project_id": 45345989,
+        "project_path": "samsung/ha3g"
+      },
+      "revision": "4bd570c56cf6ecee0694ee5daf6147bd7754e18e",
+      "url": "https://gitlab.com/Android-Dumps/samsung/ha3g/-/tree/4bd570c56cf6ecee0694ee5daf6147bd7754e18e"
+    },
+    {
+      "item_id": "samsung/hero2lte@hero2ltexx-user-8.0.0-R16NW-G935FXXU2ERD5-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "hero2ltexx-user-8.0.0-R16NW-G935FXXU2ERD5-release-keys",
+        "commit": "89024ce4e54d586407f21103bf002f43838e2210",
+        "committed_date": "2022-08-26T11:40:58.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-08-26T11:40:55.575Z",
+        "namespace_hint": "samsung",
+        "project_hint": "hero2lte",
+        "project_id": 38909057,
+        "project_path": "samsung/hero2lte"
+      },
+      "revision": "89024ce4e54d586407f21103bf002f43838e2210",
+      "url": "https://gitlab.com/Android-Dumps/samsung/hero2lte/-/tree/89024ce4e54d586407f21103bf002f43838e2210"
+    },
+    {
+      "item_id": "samsung/j4lte@j4ltejx-user-10-QP1A.190711.020-J400FXXU8CUF4-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "j4ltejx-user-10-QP1A.190711.020-J400FXXU8CUF4-release-keys",
+        "commit": "74c7680442d9183305c5621827c04d0ddd6a8241",
+        "committed_date": "2022-03-11T00:01:32.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-03-10T18:26:27.919Z",
+        "namespace_hint": "samsung",
+        "project_hint": "j4lte",
+        "project_id": 34389092,
+        "project_path": "samsung/j4lte"
+      },
+      "revision": "74c7680442d9183305c5621827c04d0ddd6a8241",
+      "url": "https://gitlab.com/Android-Dumps/samsung/j4lte/-/tree/74c7680442d9183305c5621827c04d0ddd6a8241"
+    },
+    {
+      "item_id": "samsung/j7duolte@j7duoltedd-user-10-QP1A.190711.020-J720FDDS7CUL1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "j7duoltedd-user-10-QP1A.190711.020-J720FDDS7CUL1-release-keys",
+        "commit": "33ed73658b555f97839d830ab11081ac70ab3308",
+        "committed_date": "2022-04-18T04:07:55.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-04-17T22:37:54.486Z",
+        "namespace_hint": "samsung",
+        "project_hint": "j7duolte",
+        "project_id": 35426515,
+        "project_path": "samsung/j7duolte"
+      },
+      "revision": "33ed73658b555f97839d830ab11081ac70ab3308",
+      "url": "https://gitlab.com/Android-Dumps/samsung/j7duolte/-/tree/33ed73658b555f97839d830ab11081ac70ab3308"
+    },
+    {
+      "item_id": "samsung/j7y17lte@j7y17ltexx-user-9-PPR1.180610.011-J730FXWU8CUG1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "j7y17ltexx-user-9-PPR1.180610.011-J730FXWU8CUG1-release-keys",
+        "commit": "6eabfd2231dfc0ebcb458d89aad6db177e914984",
+        "committed_date": "2023-10-21T16:13:20.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-10-21T10:37:31.796Z",
+        "namespace_hint": "samsung",
+        "project_hint": "j7y17lte",
+        "project_id": 45586845,
+        "project_path": "samsung/j7y17lte"
+      },
+      "revision": "6eabfd2231dfc0ebcb458d89aad6db177e914984",
+      "url": "https://gitlab.com/Android-Dumps/samsung/j7y17lte/-/tree/6eabfd2231dfc0ebcb458d89aad6db177e914984"
+    },
+    {
+      "item_id": "samsung/j7y17lte@lineage_j7y17lte-eng-12-SQ3A.220705.004-eng.root.20221129.163020-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "lineage_j7y17lte-eng-12-SQ3A.220705.004-eng.root.20221129.163020-test-keys",
+        "commit": "c1f9d19d9cce1b782ec4834f7602b17e400b8f3d",
+        "committed_date": "2023-04-29T13:42:00.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-10-21T10:37:31.796Z",
+        "namespace_hint": "samsung",
+        "project_hint": "j7y17lte",
+        "project_id": 45586845,
+        "project_path": "samsung/j7y17lte"
+      },
+      "revision": "c1f9d19d9cce1b782ec4834f7602b17e400b8f3d",
+      "url": "https://gitlab.com/Android-Dumps/samsung/j7y17lte/-/tree/c1f9d19d9cce1b782ec4834f7602b17e400b8f3d"
+    },
+    {
+      "item_id": "samsung/kanas@kanas3gxx-user-4.4.2-KOT49H-G355HXXS0AQA1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "kanas3gxx-user-4.4.2-KOT49H-G355HXXS0AQA1-release-keys",
+        "commit": "38c1e19dcb250378825e272d0fe5f18966301152",
+        "committed_date": "2021-12-06T15:48:07.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2021-12-06T16:01:04.811Z",
+        "namespace_hint": "samsung",
+        "project_hint": "kanas",
+        "project_id": 31898363,
+        "project_path": "samsung/kanas"
+      },
+      "revision": "38c1e19dcb250378825e272d0fe5f18966301152",
+      "url": "https://gitlab.com/Android-Dumps/samsung/kanas/-/tree/38c1e19dcb250378825e272d0fe5f18966301152"
+    },
+    {
+      "item_id": "samsung/kanas@lineage_kanas-userdebug-8.1.0-OPM7.181205.001-244a85fddc-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "lineage_kanas-userdebug-8.1.0-OPM7.181205.001-244a85fddc-test-keys",
+        "commit": "6b05d2882ee4425d8ab425a94f1348ca1e419659",
+        "committed_date": "2021-12-06T14:14:17.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2021-12-06T16:01:04.811Z",
+        "namespace_hint": "samsung",
+        "project_hint": "kanas",
+        "project_id": 31898363,
+        "project_path": "samsung/kanas"
+      },
+      "revision": "6b05d2882ee4425d8ab425a94f1348ca1e419659",
+      "url": "https://gitlab.com/Android-Dumps/samsung/kanas/-/tree/6b05d2882ee4425d8ab425a94f1348ca1e419659"
+    },
+    {
+      "item_id": "samsung/kona3g@kona3gxx-user-4.4.2-KOT49H-N5100XXDNJ2-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "kona3gxx-user-4.4.2-KOT49H-N5100XXDNJ2-release-keys",
+        "commit": "b5f96e79c1ff21885e0a6a96007013695851ff50",
+        "committed_date": "2023-04-15T12:44:02.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-15T07:13:59.839Z",
+        "namespace_hint": "samsung",
+        "project_hint": "kona3g",
+        "project_id": 45196326,
+        "project_path": "samsung/kona3g"
+      },
+      "revision": "b5f96e79c1ff21885e0a6a96007013695851ff50",
+      "url": "https://gitlab.com/Android-Dumps/samsung/kona3g/-/tree/b5f96e79c1ff21885e0a6a96007013695851ff50"
+    },
+    {
+      "item_id": "samsung/m01q@m01qins-user-11-RP1A.200720.012-M015GXXS4BVA2-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "m01qins-user-11-RP1A.200720.012-M015GXXS4BVA2-release-keys",
+        "commit": "1d6022764f8cb94d5c5603fad3e14185d3b6c72d",
+        "committed_date": "2022-04-02T16:53:32.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-04-02T11:27:47.845Z",
+        "namespace_hint": "samsung",
+        "project_hint": "m01q",
+        "project_id": 31543590,
+        "project_path": "samsung/m01q"
+      },
+      "revision": "1d6022764f8cb94d5c5603fad3e14185d3b6c72d",
+      "url": "https://gitlab.com/Android-Dumps/samsung/m01q/-/tree/1d6022764f8cb94d5c5603fad3e14185d3b6c72d"
+    },
+    {
+      "item_id": "samsung/m01q@m01qins-user-11-RP1A.200720.012-M015GXXU4BUJ2-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "m01qins-user-11-RP1A.200720.012-M015GXXU4BUJ2-release-keys",
+        "commit": "16673ca5e607a2b348e15b02cd8b40984504d3fc",
+        "committed_date": "2021-11-18T12:32:13.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-04-02T11:27:47.845Z",
+        "namespace_hint": "samsung",
+        "project_hint": "m01q",
+        "project_id": 31543590,
+        "project_path": "samsung/m01q"
+      },
+      "revision": "16673ca5e607a2b348e15b02cd8b40984504d3fc",
+      "url": "https://gitlab.com/Android-Dumps/samsung/m01q/-/tree/16673ca5e607a2b348e15b02cd8b40984504d3fc"
+    },
+    {
+      "item_id": "samsung/m04@m04ins-user-13-TP1A.220624.014-E045FXXS3CWG6-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "m04ins-user-13-TP1A.220624.014-E045FXXS3CWG6-release-keys",
+        "commit": "4b820628e3cc0b2dbf063d3d56f9043bbbdfb65f",
+        "committed_date": "2023-08-18T07:00:17.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2023-08-18T06:21:42.765Z",
+        "namespace_hint": "samsung",
+        "project_hint": "m04",
+        "project_id": 48594692,
+        "project_path": "samsung/m04"
+      },
+      "revision": "4b820628e3cc0b2dbf063d3d56f9043bbbdfb65f",
+      "url": "https://gitlab.com/Android-Dumps/samsung/m04/-/tree/4b820628e3cc0b2dbf063d3d56f9043bbbdfb65f"
+    },
+    {
+      "item_id": "samsung/m10lte@m10ltedx-user-10-QP1A.190711.020-M105GDXS8CVA1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "m10ltedx-user-10-QP1A.190711.020-M105GDXS8CVA1-release-keys",
+        "commit": "e192b3f6f864856b87b69b7e69902bfc1cfba044",
+        "committed_date": "2022-05-23T00:25:06.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-05-22T18:55:04.002Z",
+        "namespace_hint": "samsung",
+        "project_hint": "m10lte",
+        "project_id": 36389470,
+        "project_path": "samsung/m10lte"
+      },
+      "revision": "e192b3f6f864856b87b69b7e69902bfc1cfba044",
+      "url": "https://gitlab.com/Android-Dumps/samsung/m10lte/-/tree/e192b3f6f864856b87b69b7e69902bfc1cfba044"
+    },
+    {
+      "item_id": "samsung/m11q@m11qnsxx-user-11-RP1A.200720.012-M115FXXU3BVA3-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "m11qnsxx-user-11-RP1A.200720.012-M115FXXU3BVA3-release-keys",
+        "commit": "2b537bd86fa62337c32607b7d77f1f3c219b8b85",
+        "committed_date": "2022-03-11T20:42:53.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-03-11T15:08:55.364Z",
+        "namespace_hint": "samsung",
+        "project_hint": "m11q",
+        "project_id": 34414566,
+        "project_path": "samsung/m11q"
+      },
+      "revision": "2b537bd86fa62337c32607b7d77f1f3c219b8b85",
+      "url": "https://gitlab.com/Android-Dumps/samsung/m11q/-/tree/2b537bd86fa62337c32607b7d77f1f3c219b8b85"
+    },
+    {
+      "item_id": "samsung/m14x@m14xins-user-13-TP1A.220624.014-E146BXXU1AWB5-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "m14xins-user-13-TP1A.220624.014-E146BXXU1AWB5-release-keys",
+        "commit": "dfcc51b90436eea97c6760847b2a83fc89d70bc8",
+        "committed_date": "2023-04-02T12:24:08.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-04-07T13:37:37.275Z",
+        "namespace_hint": "samsung",
+        "project_hint": "m14x",
+        "project_id": 44828728,
+        "project_path": "samsung/m14x"
+      },
+      "revision": "dfcc51b90436eea97c6760847b2a83fc89d70bc8",
+      "url": "https://gitlab.com/Android-Dumps/samsung/m14x/-/tree/dfcc51b90436eea97c6760847b2a83fc89d70bc8"
+    },
+    {
+      "item_id": "samsung/m14x@m14xnsxx-user-13-TP1A.220624.014-M146BXXU1AWB5-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "m14xnsxx-user-13-TP1A.220624.014-M146BXXU1AWB5-release-keys",
+        "commit": "0131a0cb4f9112c16b342b49a0d616fbc05d5e05",
+        "committed_date": "2023-04-04T15:30:10.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-04-07T13:37:37.275Z",
+        "namespace_hint": "samsung",
+        "project_hint": "m14x",
+        "project_id": 44828728,
+        "project_path": "samsung/m14x"
+      },
+      "revision": "0131a0cb4f9112c16b342b49a0d616fbc05d5e05",
+      "url": "https://gitlab.com/Android-Dumps/samsung/m14x/-/tree/0131a0cb4f9112c16b342b49a0d616fbc05d5e05"
+    },
+    {
+      "item_id": "samsung/m14x@m14xnsxx-user-13-TP1A.220624.014-M146BXXU1AWC5-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "m14xnsxx-user-13-TP1A.220624.014-M146BXXU1AWC5-release-keys",
+        "commit": "35be6d65e86b4e165e221f94d10791c822e88453",
+        "committed_date": "2023-04-07T18:59:37.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-07T13:37:37.275Z",
+        "namespace_hint": "samsung",
+        "project_hint": "m14x",
+        "project_id": 44828728,
+        "project_path": "samsung/m14x"
+      },
+      "revision": "35be6d65e86b4e165e221f94d10791c822e88453",
+      "url": "https://gitlab.com/Android-Dumps/samsung/m14x/-/tree/35be6d65e86b4e165e221f94d10791c822e88453"
+    },
+    {
+      "item_id": "samsung/m20lte@lineage_m20lte-userdebug-12-SP2A.220505.002-108-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "lineage_m20lte-userdebug-12-SP2A.220505.002-108-dev-keys",
+        "commit": "db7967dc89e137edecf307a365fb6eb238a8a9ef",
+        "committed_date": "2022-05-10T15:27:39.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-04-10T12:00:54.882Z",
+        "namespace_hint": "samsung",
+        "project_hint": "m20lte",
+        "project_id": 31543715,
+        "project_path": "samsung/m20lte"
+      },
+      "revision": "db7967dc89e137edecf307a365fb6eb238a8a9ef",
+      "url": "https://gitlab.com/Android-Dumps/samsung/m20lte/-/tree/db7967dc89e137edecf307a365fb6eb238a8a9ef"
+    },
+    {
+      "item_id": "samsung/m20lte@lineage_m20lte-userdebug-13-TQ2A.230305.008.C1-eng.idk.20230330.163622-dev-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "lineage_m20lte-userdebug-13-TQ2A.230305.008.C1-eng.idk.20230330.163622-dev-keys",
+        "commit": "db768b11ce1103612fa86a52422e17e82952d9c6",
+        "committed_date": "2023-04-10T17:28:28.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-10T12:00:54.882Z",
+        "namespace_hint": "samsung",
+        "project_hint": "m20lte",
+        "project_id": 31543715,
+        "project_path": "samsung/m20lte"
+      },
+      "revision": "db768b11ce1103612fa86a52422e17e82952d9c6",
+      "url": "https://gitlab.com/Android-Dumps/samsung/m20lte/-/tree/db768b11ce1103612fa86a52422e17e82952d9c6"
+    },
+    {
+      "item_id": "samsung/m20lte@m20ltedd-user-10-QP1A.190711.020-M205FDDU8CUI1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "m20ltedd-user-10-QP1A.190711.020-M205FDDU8CUI1-release-keys",
+        "commit": "76bce1a93f4d20259a64a8d5f3aa92482202f68a",
+        "committed_date": "2021-11-18T12:10:58.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-10T12:00:54.882Z",
+        "namespace_hint": "samsung",
+        "project_hint": "m20lte",
+        "project_id": 31543715,
+        "project_path": "samsung/m20lte"
+      },
+      "revision": "76bce1a93f4d20259a64a8d5f3aa92482202f68a",
+      "url": "https://gitlab.com/Android-Dumps/samsung/m20lte/-/tree/76bce1a93f4d20259a64a8d5f3aa92482202f68a"
+    },
+    {
+      "item_id": "samsung/m23xq@m23xqdd-user-12-SP1A.210812.016-E236BXXU1AVJ1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "m23xqdd-user-12-SP1A.210812.016-E236BXXU1AVJ1-release-keys",
+        "commit": "38d092c2fa380980bf57b5111e6c0ad4f905aa16",
+        "committed_date": "2023-01-10T18:56:39.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-01-10T13:19:45.469Z",
+        "namespace_hint": "samsung",
+        "project_hint": "m23xq",
+        "project_id": 42459736,
+        "project_path": "samsung/m23xq"
+      },
+      "revision": "38d092c2fa380980bf57b5111e6c0ad4f905aa16",
+      "url": "https://gitlab.com/Android-Dumps/samsung/m23xq/-/tree/38d092c2fa380980bf57b5111e6c0ad4f905aa16"
+    },
+    {
+      "item_id": "samsung/m32@m32dd-user-11-RP1A.200720.012-M325FXXU4AVB1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "m32dd-user-11-RP1A.200720.012-M325FXXU4AVB1-release-keys",
+        "commit": "29024cb244149ba13092ef0dc1344c09648ac49d",
+        "committed_date": "2022-02-24T08:35:00.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-02-24T08:19:20.840Z",
+        "namespace_hint": "samsung",
+        "project_hint": "m32",
+        "project_id": 34005416,
+        "project_path": "samsung/m32"
+      },
+      "revision": "29024cb244149ba13092ef0dc1344c09648ac49d",
+      "url": "https://gitlab.com/Android-Dumps/samsung/m32/-/tree/29024cb244149ba13092ef0dc1344c09648ac49d"
+    },
+    {
+      "item_id": "samsung/m52xq@m52xqins-user-12-SP1A.210812.016-M526BXXU1BVD5-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "m52xqins-user-12-SP1A.210812.016-M526BXXU1BVD5-release-keys",
+        "commit": "96d770bda5d5a9d0e1cf7f2dd4e2d56b6ba774c8",
+        "committed_date": "2022-06-28T22:42:23.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-06-28T17:12:20.072Z",
+        "namespace_hint": "samsung",
+        "project_hint": "m52xq",
+        "project_id": 37407852,
+        "project_path": "samsung/m52xq"
+      },
+      "revision": "96d770bda5d5a9d0e1cf7f2dd4e2d56b6ba774c8",
+      "url": "https://gitlab.com/Android-Dumps/samsung/m52xq/-/tree/96d770bda5d5a9d0e1cf7f2dd4e2d56b6ba774c8"
+    },
+    {
+      "item_id": "samsung/m54x@m54xins-user-13-TP1A.220624.014-E546BXXU1AWC5-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "m54xins-user-13-TP1A.220624.014-E546BXXU1AWC5-release-keys",
+        "commit": "1041da2ca6aee6536b7482cd855933b6a283f3cf",
+        "committed_date": "2023-06-04T14:07:41.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-06-04T09:38:29.191Z",
+        "namespace_hint": "samsung",
+        "project_hint": "m54x",
+        "project_id": 46567807,
+        "project_path": "samsung/m54x"
+      },
+      "revision": "1041da2ca6aee6536b7482cd855933b6a283f3cf",
+      "url": "https://gitlab.com/Android-Dumps/samsung/m54x/-/tree/1041da2ca6aee6536b7482cd855933b6a283f3cf"
+    },
+    {
+      "item_id": "samsung/m54x@m54xxx-user-13-TP1A.220624.014-M546BXXS2AWE1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "m54xxx-user-13-TP1A.220624.014-M546BXXS2AWE1-release-keys",
+        "commit": "4d91bb33683f5a53c8fdeea4008e3c67a6022d8f",
+        "committed_date": "2023-06-04T14:56:23.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-06-04T09:38:29.191Z",
+        "namespace_hint": "samsung",
+        "project_hint": "m54x",
+        "project_id": 46567807,
+        "project_path": "samsung/m54x"
+      },
+      "revision": "4d91bb33683f5a53c8fdeea4008e3c67a6022d8f",
+      "url": "https://gitlab.com/Android-Dumps/samsung/m54x/-/tree/4d91bb33683f5a53c8fdeea4008e3c67a6022d8f"
+    },
+    {
+      "item_id": "samsung/o1s@o1sxxx-user-12-SP1A.210812.016-G991BXXU4CVC4-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "o1sxxx-user-12-SP1A.210812.016-G991BXXU4CVC4-release-keys",
+        "commit": "56004832ed431689d8d021f78f7f90956f23f07a",
+        "committed_date": "2022-03-21T23:43:08.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-03-21T18:13:08.053Z",
+        "namespace_hint": "samsung",
+        "project_hint": "o1s",
+        "project_id": 34674865,
+        "project_path": "samsung/o1s"
+      },
+      "revision": "56004832ed431689d8d021f78f7f90956f23f07a",
+      "url": "https://gitlab.com/Android-Dumps/samsung/o1s/-/tree/56004832ed431689d8d021f78f7f90956f23f07a"
+    },
+    {
+      "item_id": "samsung/on7xelte@on7xeltedd-user-8.1.0-M1AJQ-G610FDXS1CTE2-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "on7xeltedd-user-8.1.0-M1AJQ-G610FDXS1CTE2-release-keys",
+        "commit": "cba32cde01410f9a04637a40da9511681f6b5fb2",
+        "committed_date": "2022-04-16T05:17:16.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-04-15T23:47:11.525Z",
+        "namespace_hint": "samsung",
+        "project_hint": "on7xelte",
+        "project_id": 35398435,
+        "project_path": "samsung/on7xelte"
+      },
+      "revision": "cba32cde01410f9a04637a40da9511681f6b5fb2",
+      "url": "https://gitlab.com/Android-Dumps/samsung/on7xelte/-/tree/cba32cde01410f9a04637a40da9511681f6b5fb2"
+    },
+    {
+      "item_id": "samsung/p3s@p3sxxx-user-12-SP1A.210812.016-G998BXXS4CVCG-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "p3sxxx-user-12-SP1A.210812.016-G998BXXS4CVCG-release-keys",
+        "commit": "7b1ba66701c6176ca0e206b78fb5581123d205d0",
+        "committed_date": "2022-04-18T06:26:51.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-05-12T04:43:27.556Z",
+        "namespace_hint": "samsung",
+        "project_hint": "p3s",
+        "project_id": 35427777,
+        "project_path": "samsung/p3s"
+      },
+      "revision": "7b1ba66701c6176ca0e206b78fb5581123d205d0",
+      "url": "https://gitlab.com/Android-Dumps/samsung/p3s/-/tree/7b1ba66701c6176ca0e206b78fb5581123d205d0"
+    },
+    {
+      "item_id": "samsung/p3s@p3sxxx-user-12-SP1A.210812.016-G998BXXU5CVDD-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "p3sxxx-user-12-SP1A.210812.016-G998BXXU5CVDD-release-keys",
+        "commit": "13782ac1d7c577f1b75330c3a2d5bedc7f44c5ef",
+        "committed_date": "2022-05-12T09:55:13.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-05-12T04:43:27.556Z",
+        "namespace_hint": "samsung",
+        "project_hint": "p3s",
+        "project_id": 35427777,
+        "project_path": "samsung/p3s"
+      },
+      "revision": "13782ac1d7c577f1b75330c3a2d5bedc7f44c5ef",
+      "url": "https://gitlab.com/Android-Dumps/samsung/p3s/-/tree/13782ac1d7c577f1b75330c3a2d5bedc7f44c5ef"
+    },
+    {
+      "item_id": "samsung/pa3q@pa3qxxx-user-16-BP2A.250605.031.A3-S938BXXS8BZC1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "pa3qxxx-user-16-BP2A.250605.031.A3-S938BXXS8BZC1-release-keys",
+        "commit": "5b4c5470927367486246be7515003f0487882f7e",
+        "committed_date": "2026-04-05T18:12:58.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-04-05T17:49:02.118Z",
+        "namespace_hint": "samsung",
+        "project_hint": "pa3q",
+        "project_id": 81037819,
+        "project_path": "samsung/pa3q"
+      },
+      "revision": "5b4c5470927367486246be7515003f0487882f7e",
+      "url": "https://gitlab.com/Android-Dumps/samsung/pa3q/-/tree/5b4c5470927367486246be7515003f0487882f7e"
+    },
+    {
+      "item_id": "samsung/r5q@r5qnaxx-user-13-TP1A.220624.014-G770FXXS7HWD3-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "r5qnaxx-user-13-TP1A.220624.014-G770FXXS7HWD3-release-keys",
+        "commit": "5cd37d05d9bc7cd1a73153cfd5689587034bec54",
+        "committed_date": "2023-06-11T20:30:10.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-06-11T15:00:07.600Z",
+        "namespace_hint": "samsung",
+        "project_hint": "r5q",
+        "project_id": 46767638,
+        "project_path": "samsung/r5q"
+      },
+      "revision": "5cd37d05d9bc7cd1a73153cfd5689587034bec54",
+      "url": "https://gitlab.com/Android-Dumps/samsung/r5q/-/tree/5cd37d05d9bc7cd1a73153cfd5689587034bec54"
+    },
+    {
+      "item_id": "samsung/r8s@r8sxx-user-13-TP1A.220624.014-G780FXXUBFWD2-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "r8sxx-user-13-TP1A.220624.014-G780FXXUBFWD2-release-keys",
+        "commit": "b989160698b058b8e60e80feb90f497b5f3c5b6b",
+        "committed_date": "2023-06-11T21:03:56.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-06-11T15:33:54.851Z",
+        "namespace_hint": "samsung",
+        "project_hint": "r8s",
+        "project_id": 46768087,
+        "project_path": "samsung/r8s"
+      },
+      "revision": "b989160698b058b8e60e80feb90f497b5f3c5b6b",
+      "url": "https://gitlab.com/Android-Dumps/samsung/r8s/-/tree/b989160698b058b8e60e80feb90f497b5f3c5b6b"
+    },
+    {
+      "item_id": "samsung/r9q@r9qxxx-user-12-SP1A.210812.016-G990BXXS1BVB3-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "r9qxxx-user-12-SP1A.210812.016-G990BXXS1BVB3-release-keys",
+        "commit": "14b8eb44221baa8218e2cb37337d9fd01cae1996",
+        "committed_date": "2022-03-22T01:04:39.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-03-21T19:34:38.852Z",
+        "namespace_hint": "samsung",
+        "project_hint": "r9q",
+        "project_id": 34676517,
+        "project_path": "samsung/r9q"
+      },
+      "revision": "14b8eb44221baa8218e2cb37337d9fd01cae1996",
+      "url": "https://gitlab.com/Android-Dumps/samsung/r9q/-/tree/14b8eb44221baa8218e2cb37337d9fd01cae1996"
+    },
+    {
+      "item_id": "samsung/t2s@t2sxxx-user-12-SP1A.210812.016-G996BXXU4CVC4-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "t2sxxx-user-12-SP1A.210812.016-G996BXXU4CVC4-release-keys",
+        "commit": "6c021cada052507e628f42717d1330a86192598c",
+        "committed_date": "2022-03-21T23:14:23.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-03-21T17:44:22.685Z",
+        "namespace_hint": "samsung",
+        "project_hint": "t2s",
+        "project_id": 34673909,
+        "project_path": "samsung/t2s"
+      },
+      "revision": "6c021cada052507e628f42717d1330a86192598c",
+      "url": "https://gitlab.com/Android-Dumps/samsung/t2s/-/tree/6c021cada052507e628f42717d1330a86192598c"
+    },
+    {
+      "item_id": "samsung/v1a3g@v1a3gxx-user-4.4.2-KOT49H-P901XXUANC4-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "v1a3gxx-user-4.4.2-KOT49H-P901XXUANC4-release-keys",
+        "commit": "051720daec336fcbea572eeb2d2a0705cb398e3d",
+        "committed_date": "2023-04-15T14:23:11.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-15T08:53:10.049Z",
+        "namespace_hint": "samsung",
+        "project_hint": "v1a3g",
+        "project_id": 45197564,
+        "project_path": "samsung/v1a3g"
+      },
+      "revision": "051720daec336fcbea572eeb2d2a0705cb398e3d",
+      "url": "https://gitlab.com/Android-Dumps/samsung/v1a3g/-/tree/051720daec336fcbea572eeb2d2a0705cb398e3d"
+    },
+    {
+      "item_id": "samsung/x1q@x1qksx-user-12-SP1A.210812.016-G981NKSU1GVE4-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "x1qksx-user-12-SP1A.210812.016-G981NKSU1GVE4-release-keys",
+        "commit": "b0cfe6ece6657a0ace1736e00c28a9cb81839285",
+        "committed_date": "2022-06-04T18:11:11.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-04T18:11:09.614Z",
+        "namespace_hint": "samsung",
+        "project_hint": "x1q",
+        "project_id": 36755079,
+        "project_path": "samsung/x1q"
+      },
+      "revision": "b0cfe6ece6657a0ace1736e00c28a9cb81839285",
+      "url": "https://gitlab.com/Android-Dumps/samsung/x1q/-/tree/b0cfe6ece6657a0ace1736e00c28a9cb81839285"
+    },
+    {
+      "item_id": "samsung/x1s@x1sxx-user-12-SP1A.210812.016-G980FXXSDEVB1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "x1sxx-user-12-SP1A.210812.016-G980FXXSDEVB1-release-keys",
+        "commit": "bb560a17d969a47501f1ad8d781b9f4627233e0a",
+        "committed_date": "2022-03-21T22:38:39.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-03-21T19:01:57.744Z",
+        "namespace_hint": "samsung",
+        "project_hint": "x1s",
+        "project_id": 34673085,
+        "project_path": "samsung/x1s"
+      },
+      "revision": "bb560a17d969a47501f1ad8d781b9f4627233e0a",
+      "url": "https://gitlab.com/Android-Dumps/samsung/x1s/-/tree/bb560a17d969a47501f1ad8d781b9f4627233e0a"
+    },
+    {
+      "item_id": "samsung/x1s@x1sxxx-user-12-SP1A.210812.016-G981BXXSDEVB1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "x1sxxx-user-12-SP1A.210812.016-G981BXXSDEVB1-release-keys",
+        "commit": "ee3bd6c2d9762046878bc9c7bdb550a6c78db5b7",
+        "committed_date": "2022-03-22T00:15:17.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-03-21T19:01:57.744Z",
+        "namespace_hint": "samsung",
+        "project_hint": "x1s",
+        "project_id": 34673085,
+        "project_path": "samsung/x1s"
+      },
+      "revision": "ee3bd6c2d9762046878bc9c7bdb550a6c78db5b7",
+      "url": "https://gitlab.com/Android-Dumps/samsung/x1s/-/tree/ee3bd6c2d9762046878bc9c7bdb550a6c78db5b7"
+    },
+    {
+      "item_id": "samsung/y2s@y2sxxx-user-12-SP1A.210812.016-G986BXXSDEVB1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "y2sxxx-user-12-SP1A.210812.016-G986BXXSDEVB1-release-keys",
+        "commit": "55a675da8f9c2b2bd1082383df188cba5f85d4fa",
+        "committed_date": "2022-03-22T00:17:28.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-03-21T18:47:27.648Z",
+        "namespace_hint": "samsung",
+        "project_hint": "y2s",
+        "project_id": 34675689,
+        "project_path": "samsung/y2s"
+      },
+      "revision": "55a675da8f9c2b2bd1082383df188cba5f85d4fa",
+      "url": "https://gitlab.com/Android-Dumps/samsung/y2s/-/tree/55a675da8f9c2b2bd1082383df188cba5f85d4fa"
+    },
+    {
+      "item_id": "samsung/z3s@G988BXXSDEVB1",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "G988BXXSDEVB1",
+        "commit": "fbfff670fca29f17a20f0df1509968d54b292925",
+        "committed_date": "2022-03-21T23:44:59.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-03-21T18:14:58.842Z",
+        "namespace_hint": "samsung",
+        "project_hint": "z3s",
+        "project_id": 34674943,
+        "project_path": "samsung/z3s"
+      },
+      "revision": "fbfff670fca29f17a20f0df1509968d54b292925",
+      "url": "https://gitlab.com/Android-Dumps/samsung/z3s/-/tree/fbfff670fca29f17a20f0df1509968d54b292925"
+    }
+  ],
+  "provider_id": "android_dumps_gitlab",
+  "schema_version": "1.0",
+  "status": "ok"
+}

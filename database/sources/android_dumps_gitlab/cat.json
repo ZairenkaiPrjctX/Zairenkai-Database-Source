@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T03:41:19Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "cat/S62Pro@sdm660_64-user-11-RKQ1.210406.002-1.015.00-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-11-RKQ1.210406.002-1.015.00-release-keys",
+        "commit": "fc52c98fcfa31fe67b653c8c85244a79131aadce",
+        "committed_date": "2026-03-29T14:26:12.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-03-29T14:20:03.342Z",
+        "namespace_hint": "cat",
+        "project_hint": "S62Pro",
+        "project_id": 80752206,
+        "project_path": "cat/S62Pro"
+      },
+      "revision": "fc52c98fcfa31fe67b653c8c85244a79131aadce",
+      "url": "https://gitlab.com/Android-Dumps/cat/S62Pro/-/tree/fc52c98fcfa31fe67b653c8c85244a79131aadce"
+    }
+  ],
+  "provider_id": "android_dumps_gitlab",
+  "schema_version": "1.0",
+  "status": "ok"
+}

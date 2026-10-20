@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T03:41:19Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "lava/LXX523@user-15-AP3A.240905.015.A2-1752131893-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-15-AP3A.240905.015.A2-1752131893-release-keys",
+        "commit": "05d375397d31d123d5249384cbddda1d080fa869",
+        "committed_date": "2026-05-18T07:40:46.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-05-18T07:31:54.602Z",
+        "namespace_hint": "lava",
+        "project_hint": "LXX523",
+        "project_id": 82293871,
+        "project_path": "lava/LXX523"
+      },
+      "revision": "05d375397d31d123d5249384cbddda1d080fa869",
+      "url": "https://gitlab.com/Android-Dumps/lava/LXX523/-/tree/05d375397d31d123d5249384cbddda1d080fa869"
+    }
+  ],
+  "provider_id": "android_dumps_gitlab",
+  "schema_version": "1.0",
+  "status": "ok"
+}

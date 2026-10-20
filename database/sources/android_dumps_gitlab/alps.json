@@ -1,0 +1,360 @@
+{
+  "checked_at": "2026-10-19T03:41:19Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "_project/46747201",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": "2023-06-10T09:47:14.294Z",
+        "project_id": 46747201,
+        "project_path": "alps/mgvi_64_nfc_armv82"
+      },
+      "revision": "2023-06-10T09:47:14.294Z",
+      "url": "https://gitlab.com/Android-Dumps/alps/mgvi_64_nfc_armv82"
+    },
+    {
+      "item_id": "alps/LD_C15_TFT_LFLT@full_LD_C15_TFT_LFLT-user-10-QP1A.190711.020-mp1V948-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_LD_C15_TFT_LFLT-user-10-QP1A.190711.020-mp1V948-test-keys",
+        "commit": "7256368186eb3ef0168fbfea3f5d50ba751d62f8",
+        "committed_date": "2022-05-21T23:31:22.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-05-21T18:01:20.605Z",
+        "namespace_hint": "alps",
+        "project_hint": "LD_C15_TFT_LFLT",
+        "project_id": 36373577,
+        "project_path": "alps/LD_C15_TFT_LFLT"
+      },
+      "revision": "7256368186eb3ef0168fbfea3f5d50ba751d62f8",
+      "url": "https://gitlab.com/Android-Dumps/alps/LD_C15_TFT_LFLT/-/tree/7256368186eb3ef0168fbfea3f5d50ba751d62f8"
+    },
+    {
+      "item_id": "alps/dandelion-tmp@full_k62v1_64_bsp-eng-10-QP1A.190711.020-mp1V91221-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k62v1_64_bsp-eng-10-QP1A.190711.020-mp1V91221-test-keys",
+        "commit": "85242bfae11a00f9203cbef9d232736fde3dab99",
+        "committed_date": "2022-06-02T17:19:45.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-06-02T11:49:44.346Z",
+        "namespace_hint": "alps",
+        "project_hint": "dandelion-tmp",
+        "project_id": 36694851,
+        "project_path": "alps/dandelion-tmp"
+      },
+      "revision": "85242bfae11a00f9203cbef9d232736fde3dab99",
+      "url": "https://gitlab.com/Android-Dumps/alps/dandelion-tmp/-/tree/85242bfae11a00f9203cbef9d232736fde3dab99"
+    },
+    {
+      "item_id": "alps/dandelion@full_k62v1_64_bsp-eng-10-QP1A.190711.020-mp1V91221-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k62v1_64_bsp-eng-10-QP1A.190711.020-mp1V91221-test-keys",
+        "commit": "34a16f807b145e832573fdbc2fc2f890a5ed94ab",
+        "committed_date": "2023-02-18T22:07:19.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2023-02-18T21:55:47.741Z",
+        "namespace_hint": "alps",
+        "project_hint": "dandelion",
+        "project_id": 43647818,
+        "project_path": "alps/dandelion"
+      },
+      "revision": "34a16f807b145e832573fdbc2fc2f890a5ed94ab",
+      "url": "https://gitlab.com/Android-Dumps/alps/dandelion/-/tree/34a16f807b145e832573fdbc2fc2f890a5ed94ab"
+    },
+    {
+      "item_id": "alps/leedsa@missi-user-16-BP2A.250605.031.A3-OS3.0.308.0.WDTMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-16-BP2A.250605.031.A3-OS3.0.308.0.WDTMIXM-release-keys",
+        "commit": "25744bdc256008f3b9091dc9e2efa77659830f2d",
+        "committed_date": "2026-09-21T16:03:38.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-09-21T15:45:02.002Z",
+        "namespace_hint": "alps",
+        "project_hint": "leedsa",
+        "project_id": 86718326,
+        "project_path": "alps/leedsa"
+      },
+      "revision": "25744bdc256008f3b9091dc9e2efa77659830f2d",
+      "url": "https://gitlab.com/Android-Dumps/alps/leedsa/-/tree/25744bdc256008f3b9091dc9e2efa77659830f2d"
+    },
+    {
+      "item_id": "alps/mgvi_64_armv82@sys_tssi_64_armv82_tecno_dolby-user-14-UP1A.231005.007-949335-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_tecno_dolby-user-14-UP1A.231005.007-949335-release-keys",
+        "commit": "572cc360ea0240991bdb879e3888cb3a80e339b9",
+        "committed_date": "2025-10-29T05:59:26.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2025-10-29T05:28:25.713Z",
+        "namespace_hint": "alps",
+        "project_hint": "mgvi_64_armv82",
+        "project_id": 75672547,
+        "project_path": "alps/mgvi_64_armv82"
+      },
+      "revision": "572cc360ea0240991bdb879e3888cb3a80e339b9",
+      "url": "https://gitlab.com/Android-Dumps/alps/mgvi_64_armv82/-/tree/572cc360ea0240991bdb879e3888cb3a80e339b9"
+    },
+    {
+      "item_id": "alps/mihal@missi_phoneext4_global-user-13-TP1A.220624.014-V14.0.7.0.TLUMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_global-user-13-TP1A.220624.014-V14.0.7.0.TLUMIXM-release-keys",
+        "commit": "c3f829e6cf87f1b40d155cd913680266fd02d79a",
+        "committed_date": "2023-07-26T02:39:24.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-07-25T20:45:24.466Z",
+        "namespace_hint": "alps",
+        "project_hint": "mihal",
+        "project_id": 48014157,
+        "project_path": "alps/mihal"
+      },
+      "revision": "c3f829e6cf87f1b40d155cd913680266fd02d79a",
+      "url": "https://gitlab.com/Android-Dumps/alps/mihal/-/tree/c3f829e6cf87f1b40d155cd913680266fd02d79a"
+    },
+    {
+      "item_id": "alps/oplus6781@sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-mp8tc16sppr10V1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-mp8tc16sppr10V1-release-keys",
+        "commit": "a23780011a56d2375cc9776a623990821178db36",
+        "committed_date": "2022-05-02T02:32:50.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-05-01T21:02:47.502Z",
+        "namespace_hint": "alps",
+        "project_hint": "oplus6781",
+        "project_id": 35808411,
+        "project_path": "alps/oplus6781"
+      },
+      "revision": "a23780011a56d2375cc9776a623990821178db36",
+      "url": "https://gitlab.com/Android-Dumps/alps/oplus6781/-/tree/a23780011a56d2375cc9776a623990821178db36"
+    },
+    {
+      "item_id": "alps/oplus6877@sys_oplus_mssi_64_cn_armv82-user-11-RP1A.200720.011-1626498518162-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_oplus_mssi_64_cn_armv82-user-11-RP1A.200720.011-1626498518162-release-keys",
+        "commit": "3e2981d59ee891a464626b4f320718b474be6130",
+        "committed_date": "2022-06-28T18:49:52.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-09-13T18:46:40.218Z",
+        "namespace_hint": "alps",
+        "project_hint": "oplus6877",
+        "project_id": 37400943,
+        "project_path": "alps/oplus6877"
+      },
+      "revision": "3e2981d59ee891a464626b4f320718b474be6130",
+      "url": "https://gitlab.com/Android-Dumps/alps/oplus6877/-/tree/3e2981d59ee891a464626b4f320718b474be6130"
+    },
+    {
+      "item_id": "alps/oplus6877@sys_oplus_mssi_64_cn_armv82-user-11-RP1A.200720.011-1655212189936-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_oplus_mssi_64_cn_armv82-user-11-RP1A.200720.011-1655212189936-release-keys",
+        "commit": "3fae2833bab32c761dc55e69fde113d6e7a8f027",
+        "committed_date": "2023-09-14T00:21:43.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-09-13T18:46:40.218Z",
+        "namespace_hint": "alps",
+        "project_hint": "oplus6877",
+        "project_id": 37400943,
+        "project_path": "alps/oplus6877"
+      },
+      "revision": "3fae2833bab32c761dc55e69fde113d6e7a8f027",
+      "url": "https://gitlab.com/Android-Dumps/alps/oplus6877/-/tree/3fae2833bab32c761dc55e69fde113d6e7a8f027"
+    },
+    {
+      "item_id": "alps/oplus6893@sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-1646224476894-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-1646224476894-release-keys",
+        "commit": "e9761d30d79a6e0b1346cbe9cc6aded3a5495424",
+        "committed_date": "2022-03-31T20:29:56.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-03-31T14:59:55.105Z",
+        "namespace_hint": "alps",
+        "project_hint": "oplus6893",
+        "project_id": 34972025,
+        "project_path": "alps/oplus6893"
+      },
+      "revision": "e9761d30d79a6e0b1346cbe9cc6aded3a5495424",
+      "url": "https://gitlab.com/Android-Dumps/alps/oplus6893/-/tree/e9761d30d79a6e0b1346cbe9cc6aded3a5495424"
+    },
+    {
+      "item_id": "alps/oppo6765@sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-1646184473499-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-1646184473499-release-keys",
+        "commit": "93f6611bc582466cf303fd6bddd77721efb64ac0",
+        "committed_date": "2022-06-16T11:15:24.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-28T15:50:29.255Z",
+        "namespace_hint": "alps",
+        "project_hint": "oppo6765",
+        "project_id": 37079091,
+        "project_path": "alps/oppo6765"
+      },
+      "revision": "93f6611bc582466cf303fd6bddd77721efb64ac0",
+      "url": "https://gitlab.com/Android-Dumps/alps/oppo6765/-/tree/93f6611bc582466cf303fd6bddd77721efb64ac0"
+    },
+    {
+      "item_id": "alps/oppo6765@sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-1649814708792-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-1649814708792-release-keys",
+        "commit": "8fa46cee4b97a7bd79a61a0eb5d9f202741d7647",
+        "committed_date": "2022-06-28T00:22:21.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-06-28T15:50:29.255Z",
+        "namespace_hint": "alps",
+        "project_hint": "oppo6765",
+        "project_id": 37079091,
+        "project_path": "alps/oppo6765"
+      },
+      "revision": "8fa46cee4b97a7bd79a61a0eb5d9f202741d7647",
+      "url": "https://gitlab.com/Android-Dumps/alps/oppo6765/-/tree/8fa46cee4b97a7bd79a61a0eb5d9f202741d7647"
+    },
+    {
+      "item_id": "alps/oppo6765@sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-1653726238191-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-1653726238191-release-keys",
+        "commit": "2349bf15588f08dc8f945a10d8f6635193a5c977",
+        "committed_date": "2022-06-28T21:17:13.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-06-28T15:50:29.255Z",
+        "namespace_hint": "alps",
+        "project_hint": "oppo6765",
+        "project_id": 37079091,
+        "project_path": "alps/oppo6765"
+      },
+      "revision": "2349bf15588f08dc8f945a10d8f6635193a5c977",
+      "url": "https://gitlab.com/Android-Dumps/alps/oppo6765/-/tree/2349bf15588f08dc8f945a10d8f6635193a5c977"
+    },
+    {
+      "item_id": "alps/oppo6769@sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-0mp3k6833v164P6-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-0mp3k6833v164P6-release-keys",
+        "commit": "7d23969003ff46c2821298313fe7e3657a3ca2ec",
+        "committed_date": "2022-03-30T14:36:58.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-04-26T10:14:14.789Z",
+        "namespace_hint": "alps",
+        "project_hint": "oppo6769",
+        "project_id": 34926470,
+        "project_path": "alps/oppo6769"
+      },
+      "revision": "7d23969003ff46c2821298313fe7e3657a3ca2ec",
+      "url": "https://gitlab.com/Android-Dumps/alps/oppo6769/-/tree/7d23969003ff46c2821298313fe7e3657a3ca2ec"
+    },
+    {
+      "item_id": "alps/oppo6769@sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-1623809323039-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-1623809323039-release-keys",
+        "commit": "86a0f5a71e01ced3bb7a658a46addcb061957887",
+        "committed_date": "2022-04-26T15:38:50.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-04-26T10:14:14.789Z",
+        "namespace_hint": "alps",
+        "project_hint": "oppo6769",
+        "project_id": 34926470,
+        "project_path": "alps/oppo6769"
+      },
+      "revision": "86a0f5a71e01ced3bb7a658a46addcb061957887",
+      "url": "https://gitlab.com/Android-Dumps/alps/oppo6769/-/tree/86a0f5a71e01ced3bb7a658a46addcb061957887"
+    },
+    {
+      "item_id": "alps/oppo6785@sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-1623809323039-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-1623809323039-release-keys",
+        "commit": "c425abc3ec4fb188392525cc195c0d1a8fbbf9b4",
+        "committed_date": "2026-02-24T07:22:43.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-02-24T07:12:24.573Z",
+        "namespace_hint": "alps",
+        "project_hint": "oppo6785",
+        "project_id": 79743945,
+        "project_path": "alps/oppo6785"
+      },
+      "revision": "c425abc3ec4fb188392525cc195c0d1a8fbbf9b4",
+      "url": "https://gitlab.com/Android-Dumps/alps/oppo6785/-/tree/c425abc3ec4fb188392525cc195c0d1a8fbbf9b4"
+    },
+    {
+      "item_id": "alps/oppo6833@sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-1620919806552-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-1620919806552-release-keys",
+        "commit": "9b1c27a81d3195528b99a94d357d4bee86e671d5",
+        "committed_date": "2022-03-05T14:08:42.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-03-05T16:00:11.138Z",
+        "namespace_hint": "alps",
+        "project_hint": "oppo6833",
+        "project_id": 34240550,
+        "project_path": "alps/oppo6833"
+      },
+      "revision": "9b1c27a81d3195528b99a94d357d4bee86e671d5",
+      "url": "https://gitlab.com/Android-Dumps/alps/oppo6833/-/tree/9b1c27a81d3195528b99a94d357d4bee86e671d5"
+    },
+    {
+      "item_id": "alps/oppo6833@sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-1622908711911-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-1622908711911-release-keys",
+        "commit": "081a760b0bd6c9c1673f48cff53899b834c21384",
+        "committed_date": "2022-06-26T00:03:52.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-03-05T16:00:11.138Z",
+        "namespace_hint": "alps",
+        "project_hint": "oppo6833",
+        "project_id": 34240550,
+        "project_path": "alps/oppo6833"
+      },
+      "revision": "081a760b0bd6c9c1673f48cff53899b834c21384",
+      "url": "https://gitlab.com/Android-Dumps/alps/oppo6833/-/tree/081a760b0bd6c9c1673f48cff53899b834c21384"
+    },
+    {
+      "item_id": "alps/oppo6833@sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-1629009929020-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-1629009929020-release-keys",
+        "commit": "99e41ab4abd8ac3a896fdae3152024d18a68ffd5",
+        "committed_date": "2023-03-05T21:22:14.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-03-05T16:00:11.138Z",
+        "namespace_hint": "alps",
+        "project_hint": "oppo6833",
+        "project_id": 34240550,
+        "project_path": "alps/oppo6833"
+      },
+      "revision": "99e41ab4abd8ac3a896fdae3152024d18a68ffd5",
+      "url": "https://gitlab.com/Android-Dumps/alps/oppo6833/-/tree/99e41ab4abd8ac3a896fdae3152024d18a68ffd5"
+    },
+    {
+      "item_id": "alps/oppo6853@sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-1615837624098-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-1615837624098-release-keys",
+        "commit": "3511e4f3dd965b9544f30379fae21ee28e3ac05f",
+        "committed_date": "2023-04-12T22:03:10.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-12T16:33:13.290Z",
+        "namespace_hint": "alps",
+        "project_hint": "oppo6853",
+        "project_id": 45112841,
+        "project_path": "alps/oppo6853"
+      },
+      "revision": "3511e4f3dd965b9544f30379fae21ee28e3ac05f",
+      "url": "https://gitlab.com/Android-Dumps/alps/oppo6853/-/tree/3511e4f3dd965b9544f30379fae21ee28e3ac05f"
+    }
+  ],
+  "provider_id": "android_dumps_gitlab",
+  "schema_version": "1.0",
+  "status": "ok"
+}

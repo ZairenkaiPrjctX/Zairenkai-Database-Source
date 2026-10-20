@@ -1,0 +1,445 @@
+{
+  "checked_at": "2026-10-19T03:41:19Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "_project/46641487",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": "2023-06-06T19:27:03.804Z",
+        "project_id": 46641487,
+        "project_path": "lenovo/TB570FU"
+      },
+      "revision": "2023-06-06T19:27:03.804Z",
+      "url": "https://gitlab.com/Android-Dumps/lenovo/TB570FU"
+    },
+    {
+      "item_id": "lenovo/7305X@full_mt8765_P-user-9-PPR1.180610.011-2-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_mt8765_P-user-9-PPR1.180610.011-2-release-keys",
+        "commit": "c452dd1c290436a57e484bbc628a6ffbb4094a44",
+        "committed_date": "2023-03-03T12:28:46.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-03-03T06:58:45.354Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "7305X",
+        "project_id": 44008678,
+        "project_path": "lenovo/7305X"
+      },
+      "revision": "c452dd1c290436a57e484bbc628a6ffbb4094a44",
+      "url": "https://gitlab.com/Android-Dumps/lenovo/7305X/-/tree/c452dd1c290436a57e484bbc628a6ffbb4094a44"
+    },
+    {
+      "item_id": "lenovo/A6020@lineage_A6020-eng-12-SP2A.220305.012-eng.ibrata.20220316.153818-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "lineage_A6020-eng-12-SP2A.220305.012-eng.ibrata.20220316.153818-test-keys",
+        "commit": "45624f4973f1bacf339bfd345ebddb435d149b55",
+        "committed_date": "2022-03-17T09:55:02.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-03-18T11:03:46.918Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "A6020",
+        "project_id": 34560168,
+        "project_path": "lenovo/A6020"
+      },
+      "revision": "45624f4973f1bacf339bfd345ebddb435d149b55",
+      "url": "https://gitlab.com/Android-Dumps/lenovo/A6020/-/tree/45624f4973f1bacf339bfd345ebddb435d149b55"
+    },
+    {
+      "item_id": "lenovo/A6020@lineage_A6020-eng-12-SQ1D.220205.003-eng.ibrata.20220318.091230-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "lineage_A6020-eng-12-SQ1D.220205.003-eng.ibrata.20220318.091230-test-keys",
+        "commit": "016a211e413e28430010e01ff282b96af9c963f2",
+        "committed_date": "2022-03-18T16:31:38.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-03-18T11:03:46.918Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "A6020",
+        "project_id": 34560168,
+        "project_path": "lenovo/A6020"
+      },
+      "revision": "016a211e413e28430010e01ff282b96af9c963f2",
+      "url": "https://gitlab.com/Android-Dumps/lenovo/A6020/-/tree/016a211e413e28430010e01ff282b96af9c963f2"
+    },
+    {
+      "item_id": "lenovo/TB-J616F@full_tb8185p3_64-user-12-SP1A.210812.016-TB-J616F_S240155_230210_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_tb8185p3_64-user-12-SP1A.210812.016-TB-J616F_S240155_230210_ROW-release-keys",
+        "commit": "a935bbe80a4338decd037f22865377bbc648b4eb",
+        "committed_date": "2023-04-22T07:57:54.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-22T02:27:53.646Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "TB-J616F",
+        "project_id": 45394775,
+        "project_path": "lenovo/TB-J616F"
+      },
+      "revision": "a935bbe80a4338decd037f22865377bbc648b4eb",
+      "url": "https://gitlab.com/Android-Dumps/lenovo/TB-J616F/-/tree/a935bbe80a4338decd037f22865377bbc648b4eb"
+    },
+    {
+      "item_id": "lenovo/TB-J616X@full_tb8789p1_64-user-12-SP1A.210812.016-TB-J616X_S240155_230210_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_tb8789p1_64-user-12-SP1A.210812.016-TB-J616X_S240155_230210_ROW-release-keys",
+        "commit": "a09744f17bf6ff0b1d3f1db62de25739c8bdb451",
+        "committed_date": "2023-04-22T07:57:49.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-22T02:27:48.151Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "TB-J616X",
+        "project_id": 45394772,
+        "project_path": "lenovo/TB-J616X"
+      },
+      "revision": "a09744f17bf6ff0b1d3f1db62de25739c8bdb451",
+      "url": "https://gitlab.com/Android-Dumps/lenovo/TB-J616X/-/tree/a09744f17bf6ff0b1d3f1db62de25739c8bdb451"
+    },
+    {
+      "item_id": "lenovo/TB-X505X@msm8937_64-user-10-QKQ1.191224.003-X505X_S001144_220106_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_64-user-10-QKQ1.191224.003-X505X_S001144_220106_ROW-release-keys",
+        "commit": "995a9ebd4e4e2c1a18f50d126f19847a4c9f92f5",
+        "committed_date": "2022-03-29T16:00:00.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-03-29T10:29:59.684Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "TB-X505X",
+        "project_id": 34895901,
+        "project_path": "lenovo/TB-X505X"
+      },
+      "revision": "995a9ebd4e4e2c1a18f50d126f19847a4c9f92f5",
+      "url": "https://gitlab.com/Android-Dumps/lenovo/TB-X505X/-/tree/995a9ebd4e4e2c1a18f50d126f19847a4c9f92f5"
+    },
+    {
+      "item_id": "lenovo/TB125FU@full_P98980AA1-user-12-SP1A.210812.016-TB125FU_USR_S000160_2302271447_MP1RC_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_P98980AA1-user-12-SP1A.210812.016-TB125FU_USR_S000160_2302271447_MP1RC_ROW-release-keys",
+        "commit": "44bade2f388eb7cb8e050cf74a80f6da1f0528cf",
+        "committed_date": "2023-04-25T05:36:36.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-25T00:06:34.490Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "TB125FU",
+        "project_id": 45448945,
+        "project_path": "lenovo/TB125FU"
+      },
+      "revision": "44bade2f388eb7cb8e050cf74a80f6da1f0528cf",
+      "url": "https://gitlab.com/Android-Dumps/lenovo/TB125FU/-/tree/44bade2f388eb7cb8e050cf74a80f6da1f0528cf"
+    },
+    {
+      "item_id": "lenovo/TB132FU@TB132FU-user-12-SP1A.210812.016-TB132FU_S000089_221020_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "TB132FU-user-12-SP1A.210812.016-TB132FU_S000089_221020_ROW-release-keys",
+        "commit": "8f2f6cd835f969c1b0df583b247f54ec98d4ad06",
+        "committed_date": "2023-04-18T21:28:17.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-04-24T18:50:42.303Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "TB132FU",
+        "project_id": 45281210,
+        "project_path": "lenovo/TB132FU"
+      },
+      "revision": "8f2f6cd835f969c1b0df583b247f54ec98d4ad06",
+      "url": "https://gitlab.com/Android-Dumps/lenovo/TB132FU/-/tree/8f2f6cd835f969c1b0df583b247f54ec98d4ad06"
+    },
+    {
+      "item_id": "lenovo/TB132FU@TB132FU-user-12-SP1A.210812.016-TB132FU_S000104_230329_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "TB132FU-user-12-SP1A.210812.016-TB132FU_S000104_230329_ROW-release-keys",
+        "commit": "f8873ec32ec19ddf12d5c14498dfdb1c5226c342",
+        "committed_date": "2023-04-25T00:13:53.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-24T18:50:42.303Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "TB132FU",
+        "project_id": 45281210,
+        "project_path": "lenovo/TB132FU"
+      },
+      "revision": "f8873ec32ec19ddf12d5c14498dfdb1c5226c342",
+      "url": "https://gitlab.com/Android-Dumps/lenovo/TB132FU/-/tree/f8873ec32ec19ddf12d5c14498dfdb1c5226c342"
+    },
+    {
+      "item_id": "lenovo/TB300FU@sys_mssi_tc422_64_wifi-user-12-SP1A.210812.016-03072054-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_tc422_64_wifi-user-12-SP1A.210812.016-03072054-release-keys",
+        "commit": "1f2b6a9d240ddac53a34e05f6b0832f42838baca",
+        "committed_date": "2023-04-24T23:15:51.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-24T17:51:24.465Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "TB300FU",
+        "project_id": 45305041,
+        "project_path": "lenovo/TB300FU"
+      },
+      "revision": "1f2b6a9d240ddac53a34e05f6b0832f42838baca",
+      "url": "https://gitlab.com/Android-Dumps/lenovo/TB300FU/-/tree/1f2b6a9d240ddac53a34e05f6b0832f42838baca"
+    },
+    {
+      "item_id": "lenovo/TB300FU@sys_tc422_wifi_only-user-12-SP1A.210812.016-S001064_221105_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tc422_wifi_only-user-12-SP1A.210812.016-S001064_221105_ROW-release-keys",
+        "commit": "63ad597c9dc6e6b63c4f59dcb0ff74eb2b70cab5",
+        "committed_date": "2023-04-19T16:38:25.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-04-24T17:51:24.465Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "TB300FU",
+        "project_id": 45305041,
+        "project_path": "lenovo/TB300FU"
+      },
+      "revision": "63ad597c9dc6e6b63c4f59dcb0ff74eb2b70cab5",
+      "url": "https://gitlab.com/Android-Dumps/lenovo/TB300FU/-/tree/63ad597c9dc6e6b63c4f59dcb0ff74eb2b70cab5"
+    },
+    {
+      "item_id": "lenovo/TB300XU@sys_mssi_t_32_ago_ww-user-12-SP1A.210812.016-S001088_230331_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_t_32_ago_ww-user-12-SP1A.210812.016-S001088_230331_ROW-release-keys",
+        "commit": "3a49ed988ae4d4f2b550ca86fb5cf7627205ba04",
+        "committed_date": "2023-04-24T23:20:32.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-24T17:50:30.553Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "TB300XU",
+        "project_id": 45442763,
+        "project_path": "lenovo/TB300XU"
+      },
+      "revision": "3a49ed988ae4d4f2b550ca86fb5cf7627205ba04",
+      "url": "https://gitlab.com/Android-Dumps/lenovo/TB300XU/-/tree/3a49ed988ae4d4f2b550ca86fb5cf7627205ba04"
+    },
+    {
+      "item_id": "lenovo/TB310FU@TB310FU-user-12-SP1A.210812.016-TB310FU_USR_S000529_2302281753_mp1V1457_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "TB310FU-user-12-SP1A.210812.016-TB310FU_USR_S000529_2302281753_mp1V1457_ROW-release-keys",
+        "commit": "73dbd9b54526456423e7d0389f277ad66536c781",
+        "committed_date": "2023-04-19T16:03:22.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-04-24T17:55:35.545Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "TB310FU",
+        "project_id": 45304113,
+        "project_path": "lenovo/TB310FU"
+      },
+      "revision": "73dbd9b54526456423e7d0389f277ad66536c781",
+      "url": "https://gitlab.com/Android-Dumps/lenovo/TB310FU/-/tree/73dbd9b54526456423e7d0389f277ad66536c781"
+    },
+    {
+      "item_id": "lenovo/TB310FU@TB310FU-user-12-SP1A.210812.016-TB310FU_USR_S000534_2303101222_mp1V1457_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "TB310FU-user-12-SP1A.210812.016-TB310FU_USR_S000534_2303101222_mp1V1457_ROW-release-keys",
+        "commit": "7fd2ef5d93f783ae139a07ba1ef161461b295a79",
+        "committed_date": "2023-04-24T23:18:57.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-24T17:55:35.545Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "TB310FU",
+        "project_id": 45304113,
+        "project_path": "lenovo/TB310FU"
+      },
+      "revision": "7fd2ef5d93f783ae139a07ba1ef161461b295a79",
+      "url": "https://gitlab.com/Android-Dumps/lenovo/TB310FU/-/tree/7fd2ef5d93f783ae139a07ba1ef161461b295a79"
+    },
+    {
+      "item_id": "lenovo/TB310XU@TB310XU-user-12-SP1A.210812.016-TB310XU_USR_S000525_2303101228_mp1V1457_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "TB310XU-user-12-SP1A.210812.016-TB310XU_USR_S000525_2303101228_mp1V1457_ROW-release-keys",
+        "commit": "0bf94c560ec4919900b69de4a041ac494eafd2c5",
+        "committed_date": "2023-04-24T23:20:41.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-24T17:50:39.565Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "TB310XU",
+        "project_id": 45442765,
+        "project_path": "lenovo/TB310XU"
+      },
+      "revision": "0bf94c560ec4919900b69de4a041ac494eafd2c5",
+      "url": "https://gitlab.com/Android-Dumps/lenovo/TB310XU/-/tree/0bf94c560ec4919900b69de4a041ac494eafd2c5"
+    },
+    {
+      "item_id": "lenovo/TB328FU@ums512_1h10_Natv_Tablet-user-12-SP1A.210812.016-TB328FU_S200135_230329_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ums512_1h10_Natv_Tablet-user-12-SP1A.210812.016-TB328FU_S200135_230329_ROW-release-keys",
+        "commit": "2b2cae6589bb0ce5c95bf5a0020ed6dc63244827",
+        "committed_date": "2023-04-25T05:42:11.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-25T00:12:09.483Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "TB328FU",
+        "project_id": 45449002,
+        "project_path": "lenovo/TB328FU"
+      },
+      "revision": "2b2cae6589bb0ce5c95bf5a0020ed6dc63244827",
+      "url": "https://gitlab.com/Android-Dumps/lenovo/TB328FU/-/tree/2b2cae6589bb0ce5c95bf5a0020ed6dc63244827"
+    },
+    {
+      "item_id": "lenovo/TB328XU@ums512_1h10_Natv_Tablet-user-12-SP1A.210812.016-TB328XU_S200144_230308_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ums512_1h10_Natv_Tablet-user-12-SP1A.210812.016-TB328XU_S200144_230308_ROW-release-keys",
+        "commit": "c34aa6557d39798778af3e14399f296593994fb5",
+        "committed_date": "2023-04-25T06:13:07.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-25T00:43:05.461Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "TB328XU",
+        "project_id": 45449354,
+        "project_path": "lenovo/TB328XU"
+      },
+      "revision": "c34aa6557d39798778af3e14399f296593994fb5",
+      "url": "https://gitlab.com/Android-Dumps/lenovo/TB328XU/-/tree/c34aa6557d39798778af3e14399f296593994fb5"
+    },
+    {
+      "item_id": "lenovo/TB350FU@sys_mssi_t_64_cn_armv82_wifi-user-12-SP2A.220505.003-131-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_t_64_cn_armv82_wifi-user-12-SP2A.220505.003-131-release-keys",
+        "commit": "d1549b1e89198e74120eb92294855381cfdf61b7",
+        "committed_date": "2023-04-25T00:37:44.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-24T19:14:48.553Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "TB350FU",
+        "project_id": 45282203,
+        "project_path": "lenovo/TB350FU"
+      },
+      "revision": "d1549b1e89198e74120eb92294855381cfdf61b7",
+      "url": "https://gitlab.com/Android-Dumps/lenovo/TB350FU/-/tree/d1549b1e89198e74120eb92294855381cfdf61b7"
+    },
+    {
+      "item_id": "lenovo/TB350FU@sys_mssi_t_64_cn_armv82_wifi-user-12-SP2A.220505.003-698-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_t_64_cn_armv82_wifi-user-12-SP2A.220505.003-698-release-keys",
+        "commit": "a182253712496b4d134009c336417b3b3984b1ab",
+        "committed_date": "2023-04-18T21:57:01.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-04-24T19:14:48.553Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "TB350FU",
+        "project_id": 45282203,
+        "project_path": "lenovo/TB350FU"
+      },
+      "revision": "a182253712496b4d134009c336417b3b3984b1ab",
+      "url": "https://gitlab.com/Android-Dumps/lenovo/TB350FU/-/tree/a182253712496b4d134009c336417b3b3984b1ab"
+    },
+    {
+      "item_id": "lenovo/TB350XU@sys_mssi_t_64_cn_armv82-user-12-SP2A.220505.003-75-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_t_64_cn_armv82-user-12-SP2A.220505.003-75-release-keys",
+        "commit": "1d73a77ed6d6b44278038d363d517a46fceec426",
+        "committed_date": "2023-04-25T00:37:42.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-24T19:14:50.851Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "TB350XU",
+        "project_id": 45282220,
+        "project_path": "lenovo/TB350XU"
+      },
+      "revision": "1d73a77ed6d6b44278038d363d517a46fceec426",
+      "url": "https://gitlab.com/Android-Dumps/lenovo/TB350XU/-/tree/1d73a77ed6d6b44278038d363d517a46fceec426"
+    },
+    {
+      "item_id": "lenovo/TB350XU@sys_mssi_t_64_cn_armv82-user-12-SP2A.220505.003-913-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_t_64_cn_armv82-user-12-SP2A.220505.003-913-release-keys",
+        "commit": "3ffa2e61b4dd49551c40c6d1bd2156512bca19eb",
+        "committed_date": "2023-04-18T21:58:10.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-04-24T19:14:50.851Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "TB350XU",
+        "project_id": 45282220,
+        "project_path": "lenovo/TB350XU"
+      },
+      "revision": "3ffa2e61b4dd49551c40c6d1bd2156512bca19eb",
+      "url": "https://gitlab.com/Android-Dumps/lenovo/TB350XU/-/tree/3ffa2e61b4dd49551c40c6d1bd2156512bca19eb"
+    },
+    {
+      "item_id": "lenovo/YT-J706F@full_yoga11-user-12-SP1A.210812.016-YT-J706F_S240133_230206_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_yoga11-user-12-SP1A.210812.016-YT-J706F_S240133_230206_ROW-release-keys",
+        "commit": "5bb1b7b6c6e5b2c57eda0f5496b7024c58ae9278",
+        "committed_date": "2023-04-25T15:39:26.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-25T10:09:24.471Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "YT-J706F",
+        "project_id": 45459446,
+        "project_path": "lenovo/YT-J706F"
+      },
+      "revision": "5bb1b7b6c6e5b2c57eda0f5496b7024c58ae9278",
+      "url": "https://gitlab.com/Android-Dumps/lenovo/YT-J706F/-/tree/5bb1b7b6c6e5b2c57eda0f5496b7024c58ae9278"
+    },
+    {
+      "item_id": "lenovo/YT-J706X@full_yoga11_lte-user-12-SP1A.210812.016-YT-J706X_S240133_230206_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_yoga11_lte-user-12-SP1A.210812.016-YT-J706X_S240133_230206_ROW-release-keys",
+        "commit": "762a41074458705f2d604da94001d4d03aefe6c6",
+        "committed_date": "2023-04-25T15:39:39.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-25T10:09:37.765Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "YT-J706X",
+        "project_id": 45459452,
+        "project_path": "lenovo/YT-J706X"
+      },
+      "revision": "762a41074458705f2d604da94001d4d03aefe6c6",
+      "url": "https://gitlab.com/Android-Dumps/lenovo/YT-J706X/-/tree/762a41074458705f2d604da94001d4d03aefe6c6"
+    },
+    {
+      "item_id": "lenovo/YT-X705F@msm8937_64-user-10-QKQ1.191224.003-X705F_S001135_210909_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_64-user-10-QKQ1.191224.003-X705F_S001135_210909_ROW-release-keys",
+        "commit": "67334ac0feb5eacea5c2b7144ef640b4bfd00a47",
+        "committed_date": "2022-04-16T18:15:35.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-04-16T12:45:34.261Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "YT-X705F",
+        "project_id": 35406084,
+        "project_path": "lenovo/YT-X705F"
+      },
+      "revision": "67334ac0feb5eacea5c2b7144ef640b4bfd00a47",
+      "url": "https://gitlab.com/Android-Dumps/lenovo/YT-X705F/-/tree/67334ac0feb5eacea5c2b7144ef640b4bfd00a47"
+    },
+    {
+      "item_id": "lenovo/a7-30hc@huaqin82_tb_b2d_kk-user-LenovoLenovoTAB2A7-30HC-A7-30HC_S0017_141229_ROW_MY-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "huaqin82_tb_b2d_kk-user-LenovoLenovoTAB2A7-30HC-A7-30HC_S0017_141229_ROW_MY-release-keys",
+        "commit": "f37f933c79d22c8bcf38f61ee76fea33e31be6f0",
+        "committed_date": "2022-02-14T12:15:50.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-02-14T06:51:16.048Z",
+        "namespace_hint": "lenovo",
+        "project_hint": "a7-30hc",
+        "project_id": 33697609,
+        "project_path": "lenovo/a7-30hc"
+      },
+      "revision": "f37f933c79d22c8bcf38f61ee76fea33e31be6f0",
+      "url": "https://gitlab.com/Android-Dumps/lenovo/a7-30hc/-/tree/f37f933c79d22c8bcf38f61ee76fea33e31be6f0"
+    }
+  ],
+  "provider_id": "android_dumps_gitlab",
+  "schema_version": "1.0",
+  "status": "ok"
+}

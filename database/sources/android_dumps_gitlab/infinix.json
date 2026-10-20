@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-10-19T03:41:19Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "infinix/Infinix-X6853@sys_mssi_64_64only_cn_armv82-user-16-BP2A.250605.031.A3-161334-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_64only_cn_armv82-user-16-BP2A.250605.031.A3-161334-release-keys",
+        "commit": "a6c94153e9a7a4dd7c874d89d48aee9d2f2371ba",
+        "committed_date": "2026-08-21T13:44:30.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-08-21T13:32:37.868Z",
+        "namespace_hint": "infinix",
+        "project_hint": "Infinix-X6853",
+        "project_id": 85629383,
+        "project_path": "infinix/Infinix-X6853"
+      },
+      "revision": "a6c94153e9a7a4dd7c874d89d48aee9d2f2371ba",
+      "url": "https://gitlab.com/Android-Dumps/infinix/Infinix-X6853/-/tree/a6c94153e9a7a4dd7c874d89d48aee9d2f2371ba"
+    },
+    {
+      "item_id": "infinix/Infinix-X6887@sys_mssi_64_64only_cn_armv82-user-16-BP2A.250605.031.A3-124613-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_64only_cn_armv82-user-16-BP2A.250605.031.A3-124613-release-keys",
+        "commit": "a3e789d97c11beb9fe87a8f82aa9d1acbfad5b6f",
+        "committed_date": "2026-09-28T15:00:38.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-09-28T14:46:11.536Z",
+        "namespace_hint": "infinix",
+        "project_hint": "Infinix-X6887",
+        "project_id": 86991743,
+        "project_path": "infinix/Infinix-X6887"
+      },
+      "revision": "a3e789d97c11beb9fe87a8f82aa9d1acbfad5b6f",
+      "url": "https://gitlab.com/Android-Dumps/infinix/Infinix-X6887/-/tree/a3e789d97c11beb9fe87a8f82aa9d1acbfad5b6f"
+    }
+  ],
+  "provider_id": "android_dumps_gitlab",
+  "schema_version": "1.0",
+  "status": "ok"
+}

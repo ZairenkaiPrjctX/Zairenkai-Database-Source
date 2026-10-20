@@ -1,0 +1,383 @@
+{
+  "checked_at": "2026-10-19T03:41:19Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "google/barbet@barbet-user-12-SP2A.220405.003-8210211-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "barbet-user-12-SP2A.220405.003-8210211-release-keys",
+        "commit": "2f09f9f49066a2398de4475ec4919ed42cb3aaa2",
+        "committed_date": "2022-04-24T10:52:02.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-05-13T21:01:02.817Z",
+        "namespace_hint": "google",
+        "project_hint": "barbet",
+        "project_id": 35601788,
+        "project_path": "google/barbet"
+      },
+      "revision": "2f09f9f49066a2398de4475ec4919ed42cb3aaa2",
+      "url": "https://gitlab.com/Android-Dumps/google/barbet/-/tree/2f09f9f49066a2398de4475ec4919ed42cb3aaa2"
+    },
+    {
+      "item_id": "google/barbet@barbet-user-Tiramisu-TPB1.220310.029.A1-8480170-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "barbet-user-Tiramisu-TPB1.220310.029.A1-8480170-release-keys",
+        "commit": "257551769079a62e572b5107463a79dadab3591c",
+        "committed_date": "2022-04-30T03:01:38.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-05-13T21:01:02.817Z",
+        "namespace_hint": "google",
+        "project_hint": "barbet",
+        "project_id": 35601788,
+        "project_path": "google/barbet"
+      },
+      "revision": "257551769079a62e572b5107463a79dadab3591c",
+      "url": "https://gitlab.com/Android-Dumps/google/barbet/-/tree/257551769079a62e572b5107463a79dadab3591c"
+    },
+    {
+      "item_id": "google/barbet@barbet-user-Tiramisu-TPBB.220414.015-8548023-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "barbet-user-Tiramisu-TPBB.220414.015-8548023-release-keys",
+        "commit": "d03b23a8725d3534faa19667d356b3d0897eecba",
+        "committed_date": "2022-05-14T02:23:13.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-05-13T21:01:02.817Z",
+        "namespace_hint": "google",
+        "project_hint": "barbet",
+        "project_id": 35601788,
+        "project_path": "google/barbet"
+      },
+      "revision": "d03b23a8725d3534faa19667d356b3d0897eecba",
+      "url": "https://gitlab.com/Android-Dumps/google/barbet/-/tree/d03b23a8725d3534faa19667d356b3d0897eecba"
+    },
+    {
+      "item_id": "google/bonito@bonito-user-12-SP2A.220505.006-8561491-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "bonito-user-12-SP2A.220505.006-8561491-release-keys",
+        "commit": "af378178a63a66ee1a7e535fddff740f2d52bf31",
+        "committed_date": "2022-06-09T10:18:41.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-09T10:18:43.600Z",
+        "namespace_hint": "google",
+        "project_hint": "bonito",
+        "project_id": 36881393,
+        "project_path": "google/bonito"
+      },
+      "revision": "af378178a63a66ee1a7e535fddff740f2d52bf31",
+      "url": "https://gitlab.com/Android-Dumps/google/bonito/-/tree/af378178a63a66ee1a7e535fddff740f2d52bf31"
+    },
+    {
+      "item_id": "google/coral@coral-user-12-SQ3A.220705.003.A1-8672226-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "coral-user-12-SQ3A.220705.003.A1-8672226-release-keys",
+        "commit": "1228599f98b375349130a424658b560803167cf5",
+        "committed_date": "2022-07-07T09:22:32.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-07-07T03:58:18.461Z",
+        "namespace_hint": "google",
+        "project_hint": "coral",
+        "project_id": 35708350,
+        "project_path": "google/coral"
+      },
+      "revision": "1228599f98b375349130a424658b560803167cf5",
+      "url": "https://gitlab.com/Android-Dumps/google/coral/-/tree/1228599f98b375349130a424658b560803167cf5"
+    },
+    {
+      "item_id": "google/lynx@lynx-user-13-TQ2B.230505.005.A1-9808202-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "lynx-user-13-TQ2B.230505.005.A1-9808202-release-keys",
+        "commit": "2665fe2b933e444f490e0529730b6cb8b6f36a4c",
+        "committed_date": "2023-06-08T14:18:33.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-06-08T08:48:35.748Z",
+        "namespace_hint": "google",
+        "project_hint": "lynx",
+        "project_id": 46690800,
+        "project_path": "google/lynx"
+      },
+      "revision": "2665fe2b933e444f490e0529730b6cb8b6f36a4c",
+      "url": "https://gitlab.com/Android-Dumps/google/lynx/-/tree/2665fe2b933e444f490e0529730b6cb8b6f36a4c"
+    },
+    {
+      "item_id": "google/mustang@generic_system_google-user-17-CP2A.260805.005-15828068-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "generic_system_google-user-17-CP2A.260805.005-15828068-release-keys",
+        "commit": "b175a4bda669f43eb11db2ad2aaf69f5e7f0edee",
+        "committed_date": "2026-08-29T20:07:24.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-08-29T19:55:27.395Z",
+        "namespace_hint": "google",
+        "project_hint": "mustang",
+        "project_id": 85887747,
+        "project_path": "google/mustang"
+      },
+      "revision": "b175a4bda669f43eb11db2ad2aaf69f5e7f0edee",
+      "url": "https://gitlab.com/Android-Dumps/google/mustang/-/tree/b175a4bda669f43eb11db2ad2aaf69f5e7f0edee"
+    },
+    {
+      "item_id": "google/oriole@oriole-user-13-TPB3.220513.017.B1-8698098-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "oriole-user-13-TPB3.220513.017.B1-8698098-release-keys",
+        "commit": "77226b897c202a892f8e1d449f1215509720e910",
+        "committed_date": "2022-06-11T15:32:34.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-18T23:17:27.971Z",
+        "namespace_hint": "google",
+        "project_hint": "oriole",
+        "project_id": 36144581,
+        "project_path": "google/oriole"
+      },
+      "revision": "77226b897c202a892f8e1d449f1215509720e910",
+      "url": "https://gitlab.com/Android-Dumps/google/oriole/-/tree/77226b897c202a892f8e1d449f1215509720e910"
+    },
+    {
+      "item_id": "google/oriole@oriole-user-13-TPB3.220610.004-8722590-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "oriole-user-13-TPB3.220610.004-8722590-release-keys",
+        "commit": "2176d9a1fa47a23096752aad6d5801bd90aa85d0",
+        "committed_date": "2022-06-19T04:42:09.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-06-18T23:17:27.971Z",
+        "namespace_hint": "google",
+        "project_hint": "oriole",
+        "project_id": 36144581,
+        "project_path": "google/oriole"
+      },
+      "revision": "2176d9a1fa47a23096752aad6d5801bd90aa85d0",
+      "url": "https://gitlab.com/Android-Dumps/google/oriole/-/tree/2176d9a1fa47a23096752aad6d5801bd90aa85d0"
+    },
+    {
+      "item_id": "google/oriole@oriole-user-Tiramisu-TPBB.220414.015-8548023-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "oriole-user-Tiramisu-TPBB.220414.015-8548023-release-keys",
+        "commit": "83fa77b2e121ccd2069f7c70b6c44f7417714271",
+        "committed_date": "2022-05-13T19:35:31.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-06-18T23:17:27.971Z",
+        "namespace_hint": "google",
+        "project_hint": "oriole",
+        "project_id": 36144581,
+        "project_path": "google/oriole"
+      },
+      "revision": "83fa77b2e121ccd2069f7c70b6c44f7417714271",
+      "url": "https://gitlab.com/Android-Dumps/google/oriole/-/tree/83fa77b2e121ccd2069f7c70b6c44f7417714271"
+    },
+    {
+      "item_id": "google/oriole@oriole-user-Tiramisu-TPBB.220414.018-8617798-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "oriole-user-Tiramisu-TPBB.220414.018-8617798-release-keys",
+        "commit": "d4fc7964fb87220b6c4c4a6c7b571e59cd8d2893",
+        "committed_date": "2022-05-28T18:57:57.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-06-18T23:17:27.971Z",
+        "namespace_hint": "google",
+        "project_hint": "oriole",
+        "project_id": 36144581,
+        "project_path": "google/oriole"
+      },
+      "revision": "d4fc7964fb87220b6c4c4a6c7b571e59cd8d2893",
+      "url": "https://gitlab.com/Android-Dumps/google/oriole/-/tree/d4fc7964fb87220b6c4c4a6c7b571e59cd8d2893"
+    },
+    {
+      "item_id": "google/panther@generic_system_google-user-17-CP3A.260905.009-16091614-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "generic_system_google-user-17-CP3A.260905.009-16091614-release-keys",
+        "commit": "b5469669ee8d73e734a724c35a52b8a37441e380",
+        "committed_date": "2026-09-16T05:40:42.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-09-16T05:27:45.439Z",
+        "namespace_hint": "google",
+        "project_hint": "panther",
+        "project_id": 45582996,
+        "project_path": "google/panther"
+      },
+      "revision": "b5469669ee8d73e734a724c35a52b8a37441e380",
+      "url": "https://gitlab.com/Android-Dumps/google/panther/-/tree/b5469669ee8d73e734a724c35a52b8a37441e380"
+    },
+    {
+      "item_id": "google/panther@panther-user-13-T3B3.230413.003-9957835-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "panther-user-13-T3B3.230413.003-9957835-release-keys",
+        "commit": "38085cbaf10574ac3c205a057a7fe080b8ae2cc8",
+        "committed_date": "2023-04-29T05:54:30.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2026-09-16T05:27:45.439Z",
+        "namespace_hint": "google",
+        "project_hint": "panther",
+        "project_id": 45582996,
+        "project_path": "google/panther"
+      },
+      "revision": "38085cbaf10574ac3c205a057a7fe080b8ae2cc8",
+      "url": "https://gitlab.com/Android-Dumps/google/panther/-/tree/38085cbaf10574ac3c205a057a7fe080b8ae2cc8"
+    },
+    {
+      "item_id": "google/panther@panther-user-13-TQ2A.230505.002-9891397-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "panther-user-13-TQ2A.230505.002-9891397-release-keys",
+        "commit": "e0aef2e8416ee6c9d0f5d14e690fcae8b49d67d4",
+        "committed_date": "2023-06-08T15:10:39.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2026-09-16T05:27:45.439Z",
+        "namespace_hint": "google",
+        "project_hint": "panther",
+        "project_id": 45582996,
+        "project_path": "google/panther"
+      },
+      "revision": "e0aef2e8416ee6c9d0f5d14e690fcae8b49d67d4",
+      "url": "https://gitlab.com/Android-Dumps/google/panther/-/tree/e0aef2e8416ee6c9d0f5d14e690fcae8b49d67d4"
+    },
+    {
+      "item_id": "google/raven@raven-user-12-SP2A.220505.002-8353555-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "raven-user-12-SP2A.220505.002-8353555-release-keys",
+        "commit": "d77c997b6b3d0331515223242dcb0afcc8be58ef",
+        "committed_date": "2022-05-06T17:40:44.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-07-07T04:31:58.489Z",
+        "namespace_hint": "google",
+        "project_hint": "raven",
+        "project_id": 35600789,
+        "project_path": "google/raven"
+      },
+      "revision": "d77c997b6b3d0331515223242dcb0afcc8be58ef",
+      "url": "https://gitlab.com/Android-Dumps/google/raven/-/tree/d77c997b6b3d0331515223242dcb0afcc8be58ef"
+    },
+    {
+      "item_id": "google/raven@raven-user-12-SQ3A.220705.003-8671607-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "raven-user-12-SQ3A.220705.003-8671607-release-keys",
+        "commit": "7fd963d3b0d4d09b0e7234d7161a020dd40937c1",
+        "committed_date": "2022-07-07T09:56:24.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-07-07T04:31:58.489Z",
+        "namespace_hint": "google",
+        "project_hint": "raven",
+        "project_id": 35600789,
+        "project_path": "google/raven"
+      },
+      "revision": "7fd963d3b0d4d09b0e7234d7161a020dd40937c1",
+      "url": "https://gitlab.com/Android-Dumps/google/raven/-/tree/7fd963d3b0d4d09b0e7234d7161a020dd40937c1"
+    },
+    {
+      "item_id": "google/raven@raven-user-Tiramisu-TPBB.220414.015-8548023-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "raven-user-Tiramisu-TPBB.220414.015-8548023-release-keys",
+        "commit": "f3a99b80b06547df75601a55bd20194ea8e233b2",
+        "committed_date": "2022-05-18T21:54:46.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-07-07T04:31:58.489Z",
+        "namespace_hint": "google",
+        "project_hint": "raven",
+        "project_id": 35600789,
+        "project_path": "google/raven"
+      },
+      "revision": "f3a99b80b06547df75601a55bd20194ea8e233b2",
+      "url": "https://gitlab.com/Android-Dumps/google/raven/-/tree/f3a99b80b06547df75601a55bd20194ea8e233b2"
+    },
+    {
+      "item_id": "google/raven@raven-user-Tiramisu-TPP2.220218.010-8278900-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "raven-user-Tiramisu-TPP2.220218.010-8278900-release-keys",
+        "commit": "6911ce3b586f99178b6cc7fe84e135cf0fe78b61",
+        "committed_date": "2022-04-24T08:20:46.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-07-07T04:31:58.489Z",
+        "namespace_hint": "google",
+        "project_hint": "raven",
+        "project_id": 35600789,
+        "project_path": "google/raven"
+      },
+      "revision": "6911ce3b586f99178b6cc7fe84e135cf0fe78b61",
+      "url": "https://gitlab.com/Android-Dumps/google/raven/-/tree/6911ce3b586f99178b6cc7fe84e135cf0fe78b61"
+    },
+    {
+      "item_id": "google/redfin@redfin-user-12-SP2A.220505.002-8353555-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "redfin-user-12-SP2A.220505.002-8353555-release-keys",
+        "commit": "a6c2de707ad8b8c175f49ea3f4f44c31e303b76e",
+        "committed_date": "2022-05-06T18:39:21.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-05-06T13:09:19.983Z",
+        "namespace_hint": "google",
+        "project_hint": "redfin",
+        "project_id": 35941317,
+        "project_path": "google/redfin"
+      },
+      "revision": "a6c2de707ad8b8c175f49ea3f4f44c31e303b76e",
+      "url": "https://gitlab.com/Android-Dumps/google/redfin/-/tree/a6c2de707ad8b8c175f49ea3f4f44c31e303b76e"
+    },
+    {
+      "item_id": "google/sargo@sargo-user-12-SP2A.220505.006-8561491-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sargo-user-12-SP2A.220505.006-8561491-release-keys",
+        "commit": "252c35161f17cee2ae12b17b2f81952a6ec9ab23",
+        "committed_date": "2022-06-08T11:23:20.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-08T11:23:23.210Z",
+        "namespace_hint": "google",
+        "project_hint": "sargo",
+        "project_id": 36850561,
+        "project_path": "google/sargo"
+      },
+      "revision": "252c35161f17cee2ae12b17b2f81952a6ec9ab23",
+      "url": "https://gitlab.com/Android-Dumps/google/sargo/-/tree/252c35161f17cee2ae12b17b2f81952a6ec9ab23"
+    },
+    {
+      "item_id": "google/sunfish@sunfish-user-12-SP2A.220505.002-8353555-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sunfish-user-12-SP2A.220505.002-8353555-release-keys",
+        "commit": "db5ef689bed531c9ed6a2a6432b01873b9a071f4",
+        "committed_date": "2022-05-02T23:22:57.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-07-06T19:23:28.979Z",
+        "namespace_hint": "google",
+        "project_hint": "sunfish",
+        "project_id": 35829982,
+        "project_path": "google/sunfish"
+      },
+      "revision": "db5ef689bed531c9ed6a2a6432b01873b9a071f4",
+      "url": "https://gitlab.com/Android-Dumps/google/sunfish/-/tree/db5ef689bed531c9ed6a2a6432b01873b9a071f4"
+    },
+    {
+      "item_id": "google/sunfish@sunfish-user-12-SQ3A.220705.003.A1-8672226-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sunfish-user-12-SQ3A.220705.003.A1-8672226-release-keys",
+        "commit": "a98afbc8d2a6b9a30c7c0d815e35597c12e31ca9",
+        "committed_date": "2022-07-07T00:47:39.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-07-06T19:23:28.979Z",
+        "namespace_hint": "google",
+        "project_hint": "sunfish",
+        "project_id": 35829982,
+        "project_path": "google/sunfish"
+      },
+      "revision": "a98afbc8d2a6b9a30c7c0d815e35597c12e31ca9",
+      "url": "https://gitlab.com/Android-Dumps/google/sunfish/-/tree/a98afbc8d2a6b9a30c7c0d815e35597c12e31ca9"
+    }
+  ],
+  "provider_id": "android_dumps_gitlab",
+  "schema_version": "1.0",
+  "status": "ok"
+}

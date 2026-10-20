@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T03:41:19Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "umidigi/C1_Max@UMIDIGI_C1_Max_V1.0_20230207",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "UMIDIGI_C1_Max_V1.0_20230207",
+        "commit": "836e23f694e425335637244d0dc2ceba2d2675c4",
+        "committed_date": "2023-02-20T14:17:46.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-02-20T08:47:45.115Z",
+        "namespace_hint": "umidigi",
+        "project_hint": "C1_Max",
+        "project_id": 43673016,
+        "project_path": "umidigi/C1_Max"
+      },
+      "revision": "836e23f694e425335637244d0dc2ceba2d2675c4",
+      "url": "https://gitlab.com/Android-Dumps/umidigi/C1_Max/-/tree/836e23f694e425335637244d0dc2ceba2d2675c4"
+    }
+  ],
+  "provider_id": "android_dumps_gitlab",
+  "schema_version": "1.0",
+  "status": "ok"
+}
