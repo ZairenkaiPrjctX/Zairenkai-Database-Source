@@ -5,16 +5,16 @@
   "codename": "natrium",
   "codename_key": "natrium",
   "codename_status": "community_reported",
-  "discovered_at": "2026-10-18T20:04:35Z",
+  "discovered_at": "2026-10-20T08:41:51Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "natrium.yml (blob 412c01e87686): codename 'natrium', name 'Mi 5s Plus'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-10-18T20:04:37Z",
+      "retrieved_at": "2026-10-20T08:41:52Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/natrium.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/56a157866af6232edf646ae0f3e1b300e509c8e5/_data/devices/natrium.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -44,9 +44,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "412c01e876863477c5bec8b0d6f46278558ade03",
-    "snapshot": "2c365be2b66336e4da1f3ca3bdd71c17eb819005",
+    "snapshot": "56a157866af6232edf646ae0f3e1b300e509c8e5",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/natrium.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/56a157866af6232edf646ae0f3e1b300e509c8e5/_data/devices/natrium.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
