@@ -23,10 +23,13 @@ and power components, builds a dependency graph, and writes validated JSON metad
 | `.docker/` | five container images (validation, discovery, catalog, firmware-worker, security) |
 | `src/afid/updates/` | snapshot diff, staging, history |
 | `src/afid/licensing/`, `audit.py` | distribution policy, repository audit |
+| `src/afid/pipeline/`, `tools/`, `registry/` | CodeBuild metadata pipeline: source registry, URL policy, bounded discovery, records, run manifest, optional S3 upload (`docs/AWS_PIPELINE.md`) |
+| `buildspec.yml`, `infra/cloudformation/codebuild.yml` | CodeBuild build and project/role/log group template (never deployed by this repository) |
 
 ## 3. Entry points
 `afid` console script (`pyproject.toml`); workflows in `.github/workflows/`;
-`scripts/open_data_pr.py` for workflow-created pull requests.
+`scripts/open_data_pr.py` for workflow-created pull requests; `tools/ingest.py`,
+`tools/validate.py`, `tools/publish_manifest.py` (run by `buildspec.yml` in CodeBuild).
 
 ## 4. Data flow
 Archive/image/directory → `.afid-cache/work/<sha>/` → `tree/<partition>/` → components and
@@ -37,7 +40,10 @@ HTTPS to provider `allowed_hosts` only (`github.com`, `raw.githubusercontent.com
 for `lineageos_wiki`; `gitlab.com` and `dumps.tadiphone.dev` GitLab REST v4, read-only, for
 the dump providers; `config/provider_registry.yml`); DumprX `303f5bba` runs offline in the
 worker image (`src/afid/dumprx.py`); external tools `debugfs`, `fsck.erofs`, `lpunpack`,
-`payload-dumper-go`, `lz4`, `git` (`src/afid/extraction/tools.py`).
+`payload-dumper-go`, `lz4`, `git` (`src/afid/extraction/tools.py`). The metadata pipeline
+contacts only `registry/sources.json` `allowed_hosts` in `discover` mode (none are enabled),
+and, only with `ENABLE_S3_PUBLISH=true`, S3 via one `aws s3api put-object`
+(`src/afid/pipeline/publish.py`).
 
 ## 6. Trust boundaries
 Firmware content is untrusted and never executed; workflows run untrusted PR code with a
@@ -46,5 +52,6 @@ read-only token; write tokens exist only in PR-proposing jobs. Evidence: `docs/S
 ## 7. Generated artifacts
 `database/index.json`, `database/statistics.json`, `database/dependencies/library_map.json`
 (by `afid database index` / `afid dependencies build`); `requirements.lock` (by `uv pip
-compile`); `tests/fixtures/elf/{arm,arm64}/*` (by `tests/fixtures/elf/build.sh`). Do not edit
-these by hand.
+compile`); `tests/fixtures/elf/{arm,arm64}/*` (by `tests/fixtures/elf/build.sh`);
+`build/pipeline/*.json` run manifests (by `tools/ingest.py`; gitignored, never committed). Do
+not edit these by hand.

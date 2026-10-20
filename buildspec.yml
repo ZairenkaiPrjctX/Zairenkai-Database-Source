@@ -1,0 +1,45 @@
+# AWS CodeBuild: metadata-only dry-run of the AFID metadata pipeline (docs/AWS_PIPELINE.md).
+#
+# What a build does: install the hash-locked runtime dependencies, check syntax, validate
+# the registry and schemas, run the offline pipeline tests, run a synthetic dry-run, validate
+# its manifest and, only when ENABLE_S3_PUBLISH is "true", upload that one small JSON file to
+# s3://$STAGING_BUCKET/${STAGING_PREFIX}runs/<build id>/manifest.json.
+#
+# What it never does: download firmware, contact a firmware source (dry-run is offline),
+# configure or print credentials (the AWS CLI uses the service role's temporary credentials),
+# push to GitHub, use Docker or privileged mode, or upload build artifacts.
+version: 0.2
+
+env:
+  shell: bash
+  variables:
+    # Off unless the project or a start-build override sets it to exactly "true".
+    ENABLE_S3_PUBLISH: "false"
+    AFID_LOG_FORMAT: "json"
+    PIPELINE_OUTPUT: "build/pipeline/manifest.json"
+    PYTHONPATH: "src"
+    PIP_DISABLE_PIP_VERSION_CHECK: "1"
+    PIP_NO_INPUT: "1"
+
+phases:
+  install:
+    runtime-versions:
+      python: 3.13
+    commands:
+      # Exact versions and SHA-256 hashes for every package (requirements-runtime.lock).
+      - python -m pip install --quiet --require-hashes --no-deps -r requirements-runtime.lock
+  pre_build:
+    commands:
+      - python --version
+      - python -m compileall -q src/afid tools tests/pipeline
+      - python tools/validate.py all
+      - python -m unittest discover -s tests/pipeline -t .
+  build:
+    commands:
+      - python tools/ingest.py --mode dry-run --output "$PIPELINE_OUTPUT"
+      - python tools/validate.py manifest "$PIPELINE_OUTPUT"
+      # Last command of the build phase: runs only if everything above succeeded.
+      - python tools/publish_manifest.py "$PIPELINE_OUTPUT"
+  post_build:
+    commands:
+      - if [ -f "$PIPELINE_OUTPUT" ]; then python tools/validate.py summary "$PIPELINE_OUTPUT"; fi

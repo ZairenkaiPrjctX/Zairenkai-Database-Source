@@ -1,0 +1,83 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/ZairenkaiPrjctX/Zairenkai-Database-Source/schemas/run-manifest.schema.json",
+  "title": "AFID metadata pipeline run manifest",
+  "description": "Output of tools/ingest.py: what one run discovered, what passed validation, and why anything was rejected. Metadata only; the pipeline never downloads firmware.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version", "manifest_type", "generated_at", "mode", "status", "tool", "registry",
+    "sources", "summary", "records", "rejected", "binary_downloads"
+  ],
+  "properties": {
+    "schema_version": {"const": "1.0"},
+    "manifest_type": {"const": "afid-metadata-pipeline-run"},
+    "generated_at": {"type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}T[0-9]{2}:[0-9]{2}:[0-9]{2}Z$"},
+    "mode": {"enum": ["dry-run", "discover"]},
+    "status": {"enum": ["ok", "partial", "failed"]},
+    "tool": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "version"],
+      "properties": {"name": {"const": "afid-metadata-pipeline"}, "version": {"type": "string"}}
+    },
+    "registry": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["path", "registry_version", "sha256"],
+      "properties": {
+        "path": {"const": "registry/sources.json"},
+        "registry_version": {"type": "integer", "minimum": 1},
+        "sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"}
+      }
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["source_id", "status", "enabled", "requests", "truncated", "limits", "errors"],
+        "properties": {
+          "source_id": {"type": "string"},
+          "status": {
+            "description": "planned: dry-run only, nothing was requested.",
+            "enum": ["ok", "partial", "failed", "planned"]
+          },
+          "enabled": {"type": "boolean"},
+          "requests": {"type": "integer", "minimum": 0},
+          "truncated": {"type": "boolean"},
+          "limits": {"type": "object"},
+          "errors": {"type": "array", "maxItems": 50, "items": {"type": "string", "maxLength": 500}}
+        }
+      }
+    },
+    "summary": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["discovered", "validated", "skipped", "duplicate", "failed"],
+      "properties": {
+        "discovered": {"type": "integer", "minimum": 0},
+        "validated": {"type": "integer", "minimum": 0},
+        "skipped": {"type": "integer", "minimum": 0},
+        "duplicate": {"type": "integer", "minimum": 0},
+        "failed": {"type": "integer", "minimum": 0}
+      }
+    },
+    "records": {"type": "array", "items": {"$ref": "firmware-record.schema.json"}},
+    "rejected": {
+      "type": "array",
+      "maxItems": 500,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["source_id", "source_item_id", "problems"],
+        "properties": {
+          "source_id": {"type": "string"},
+          "source_item_id": {"type": ["string", "null"]},
+          "problems": {"type": "array", "minItems": 1, "maxItems": 20, "items": {"type": "string", "maxLength": 500}}
+        }
+      }
+    },
+    "binary_downloads": {"description": "Always 0: metadata discovery never fetches firmware.", "const": 0}
+  }
+}

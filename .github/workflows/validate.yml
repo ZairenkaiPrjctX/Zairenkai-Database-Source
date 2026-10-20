@@ -31,8 +31,8 @@ jobs:
           python-version: ${{ matrix.python }}
       - name: Lint and format
         run: |
-          ruff check src tests scripts
-          ruff format --check src tests scripts
+          ruff check src tests scripts tools
+          ruff format --check src tests scripts tools
       - name: Type check
         run: mypy
       - name: Validate JSON schemas and workflow files
