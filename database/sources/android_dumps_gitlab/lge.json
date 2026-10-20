@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T03:41:19Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "lge/p1@p1_vzw-user-6.0-MRA58K-1714511498b1b-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "p1_vzw-user-6.0-MRA58K-1714511498b1b-release-keys",
+        "commit": "ef867caee90bc9db4f6ce75661ab087044b1a3ab",
+        "committed_date": "2023-04-12T18:31:52.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-12T13:01:54.882Z",
+        "namespace_hint": "lge",
+        "project_hint": "p1",
+        "project_id": 45106076,
+        "project_path": "lge/p1"
+      },
+      "revision": "ef867caee90bc9db4f6ce75661ab087044b1a3ab",
+      "url": "https://gitlab.com/Android-Dumps/lge/p1/-/tree/ef867caee90bc9db4f6ce75661ab087044b1a3ab"
+    }
+  ],
+  "provider_id": "android_dumps_gitlab",
+  "schema_version": "1.0",
+  "status": "ok"
+}

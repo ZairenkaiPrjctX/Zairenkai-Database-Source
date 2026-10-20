@@ -1,0 +1,1176 @@
+{
+  "checked_at": "2026-10-19T03:41:19Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "_project/46705962",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": "2023-06-08T16:38:40.426Z",
+        "project_id": 46705962,
+        "project_path": "motorola/lynkco"
+      },
+      "revision": "2023-06-08T16:38:40.426Z",
+      "url": "https://gitlab.com/Android-Dumps/motorola/lynkco"
+    },
+    {
+      "item_id": "motorola/XT2675-1@XT2675-1-user-16-BP2A.250605.031.A3-06011238-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "XT2675-1-user-16-BP2A.250605.031.A3-06011238-release-keys",
+        "commit": "b57948fd6423aa890c7afd5a580e47cf7d1c0004",
+        "committed_date": "2026-08-25T09:56:53.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-08-25T09:40:41.355Z",
+        "namespace_hint": "motorola",
+        "project_hint": "XT2675-1",
+        "project_id": 85733140,
+        "project_path": "motorola/XT2675-1"
+      },
+      "revision": "b57948fd6423aa890c7afd5a580e47cf7d1c0004",
+      "url": "https://gitlab.com/Android-Dumps/motorola/XT2675-1/-/tree/b57948fd6423aa890c7afd5a580e47cf7d1c0004"
+    },
+    {
+      "item_id": "motorola/avr@user-16-WWW36V.65-25-3-ST9.3-fc488-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-16-WWW36V.65-25-3-ST9.3-fc488-release-keys",
+        "commit": "e72952fb2da2b0238f7a9576a831295d592932e9",
+        "committed_date": "2026-08-28T19:59:42.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2026-09-04T11:17:09.792Z",
+        "namespace_hint": "motorola",
+        "project_hint": "avr",
+        "project_id": 85732677,
+        "project_path": "motorola/avr"
+      },
+      "revision": "e72952fb2da2b0238f7a9576a831295d592932e9",
+      "url": "https://gitlab.com/Android-Dumps/motorola/avr/-/tree/e72952fb2da2b0238f7a9576a831295d592932e9"
+    },
+    {
+      "item_id": "motorola/avr@user-16-WWW36V.65-48-ST9.4-660f5-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-16-WWW36V.65-48-ST9.4-660f5-release-keys",
+        "commit": "18a72cf7b09b79894b97ecb4abab530ab4b51a12",
+        "committed_date": "2026-08-25T09:42:05.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-09-04T11:17:09.792Z",
+        "namespace_hint": "motorola",
+        "project_hint": "avr",
+        "project_id": 85732677,
+        "project_path": "motorola/avr"
+      },
+      "revision": "18a72cf7b09b79894b97ecb4abab530ab4b51a12",
+      "url": "https://gitlab.com/Android-Dumps/motorola/avr/-/tree/18a72cf7b09b79894b97ecb4abab530ab4b51a12"
+    },
+    {
+      "item_id": "motorola/avr@user-16-WWW36V.65-64-ST9.5-74ded8-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-16-WWW36V.65-64-ST9.5-74ded8-release-keys",
+        "commit": "8b4c5e956042e4984feea601492be5f8c25348b8",
+        "committed_date": "2026-09-04T11:17:06.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2026-09-04T11:17:09.792Z",
+        "namespace_hint": "motorola",
+        "project_hint": "avr",
+        "project_id": 85732677,
+        "project_path": "motorola/avr"
+      },
+      "revision": "8b4c5e956042e4984feea601492be5f8c25348b8",
+      "url": "https://gitlab.com/Android-Dumps/motorola/avr/-/tree/8b4c5e956042e4984feea601492be5f8c25348b8"
+    },
+    {
+      "item_id": "motorola/berlin@user-12-S1RGS32.53-18-22-15-1b7c4-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-12-S1RGS32.53-18-22-15-1b7c4-release-keys",
+        "commit": "841124a9abfd25048e2773e9ae7dcc925c1bd65a",
+        "committed_date": "2023-03-15T10:11:08.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-03-15T04:41:11.004Z",
+        "namespace_hint": "motorola",
+        "project_hint": "berlin",
+        "project_id": 44326746,
+        "project_path": "motorola/berlin"
+      },
+      "revision": "841124a9abfd25048e2773e9ae7dcc925c1bd65a",
+      "url": "https://gitlab.com/Android-Dumps/motorola/berlin/-/tree/841124a9abfd25048e2773e9ae7dcc925c1bd65a"
+    },
+    {
+      "item_id": "motorola/berlna@user-12-S1RMS32.48-18-11-2-29-57d75-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-12-S1RMS32.48-18-11-2-29-57d75-release-keys",
+        "commit": "5cf015b0be4b63eb93bebdb5ebc77857074933d5",
+        "committed_date": "2023-06-07T19:36:14.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-06-07T14:06:19.263Z",
+        "namespace_hint": "motorola",
+        "project_hint": "berlna",
+        "project_id": 46667078,
+        "project_path": "motorola/berlna"
+      },
+      "revision": "5cf015b0be4b63eb93bebdb5ebc77857074933d5",
+      "url": "https://gitlab.com/Android-Dumps/motorola/berlna/-/tree/5cf015b0be4b63eb93bebdb5ebc77857074933d5"
+    },
+    {
+      "item_id": "motorola/borag@borag-user-12-SOVS32.121-21-3-f5f52-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "borag-user-12-SOVS32.121-21-3-f5f52-release-keys",
+        "commit": "657fbe9af233708d563191214d6d6998f58af55a",
+        "committed_date": "2023-02-22T11:52:24.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-02-22T06:22:27.421Z",
+        "namespace_hint": "motorola",
+        "project_hint": "borag",
+        "project_id": 43734372,
+        "project_path": "motorola/borag"
+      },
+      "revision": "657fbe9af233708d563191214d6d6998f58af55a",
+      "url": "https://gitlab.com/Android-Dumps/motorola/borag/-/tree/657fbe9af233708d563191214d6d6998f58af55a"
+    },
+    {
+      "item_id": "motorola/bronco@user-13-T1TB33.32-66-88e30-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-13-T1TB33.32-66-88e30-release-keys",
+        "commit": "c598511b244bdf4ae22de0a887cf7ac42c9bcf30",
+        "committed_date": "2023-06-06T20:20:37.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-06-06T15:01:27.171Z",
+        "namespace_hint": "motorola",
+        "project_hint": "bronco",
+        "project_id": 43734498,
+        "project_path": "motorola/bronco"
+      },
+      "revision": "c598511b244bdf4ae22de0a887cf7ac42c9bcf30",
+      "url": "https://gitlab.com/Android-Dumps/motorola/bronco/-/tree/c598511b244bdf4ae22de0a887cf7ac42c9bcf30"
+    },
+    {
+      "item_id": "motorola/bronco@user-13-T1TBS33.32-8-9-2-69169-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-13-T1TBS33.32-8-9-2-69169-release-keys",
+        "commit": "dc9f2c744fb282c2470b4c8a5cc7c457e8161c61",
+        "committed_date": "2023-02-22T11:58:57.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-06-06T15:01:27.171Z",
+        "namespace_hint": "motorola",
+        "project_hint": "bronco",
+        "project_id": 43734498,
+        "project_path": "motorola/bronco"
+      },
+      "revision": "dc9f2c744fb282c2470b4c8a5cc7c457e8161c61",
+      "url": "https://gitlab.com/Android-Dumps/motorola/bronco/-/tree/dc9f2c744fb282c2470b4c8a5cc7c457e8161c61"
+    },
+    {
+      "item_id": "motorola/cancunf@user-15-V1TDS35H.83-20-5-14-24971a-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-15-V1TDS35H.83-20-5-14-24971a-release-keys",
+        "commit": "beae01a218a37a96b11393acd117b1e143bd8fa8",
+        "committed_date": "2026-10-02T08:09:03.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-10-02T07:53:34.279Z",
+        "namespace_hint": "motorola",
+        "project_hint": "cancunf",
+        "project_id": 87155168,
+        "project_path": "motorola/cancunf"
+      },
+      "revision": "beae01a218a37a96b11393acd117b1e143bd8fa8",
+      "url": "https://gitlab.com/Android-Dumps/motorola/cancunf/-/tree/beae01a218a37a96b11393acd117b1e143bd8fa8"
+    },
+    {
+      "item_id": "motorola/chef_sprout@da2f0",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "da2f0",
+        "commit": "7d9d39c2ec0de2d7a3c75ee2f0e6fd1b46881f96",
+        "committed_date": "2022-04-14T00:04:24.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-04-13T18:34:23.056Z",
+        "namespace_hint": "motorola",
+        "project_hint": "chef_sprout",
+        "project_id": 35336393,
+        "project_path": "motorola/chef_sprout"
+      },
+      "revision": "7d9d39c2ec0de2d7a3c75ee2f0e6fd1b46881f96",
+      "url": "https://gitlab.com/Android-Dumps/motorola/chef_sprout/-/tree/7d9d39c2ec0de2d7a3c75ee2f0e6fd1b46881f96"
+    },
+    {
+      "item_id": "motorola/coful@user-12-S3RWBS32.125-29-2-3-49fd05-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-12-S3RWBS32.125-29-2-3-49fd05-release-keys",
+        "commit": "251a9f21dee4f58b005e002ad78496ec9fb1c0f4",
+        "committed_date": "2023-03-07T11:11:16.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-03-07T05:41:18.294Z",
+        "namespace_hint": "motorola",
+        "project_hint": "coful",
+        "project_id": 44102792,
+        "project_path": "motorola/coful"
+      },
+      "revision": "251a9f21dee4f58b005e002ad78496ec9fb1c0f4",
+      "url": "https://gitlab.com/Android-Dumps/motorola/coful/-/tree/251a9f21dee4f58b005e002ad78496ec9fb1c0f4"
+    },
+    {
+      "item_id": "motorola/cybert@user-17-A171VVH.36-23-952b00-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-17-A171VVH.36-23-952b00-release-keys",
+        "commit": "1eea4608a020eb2ec47d11162f94f1603e43e270",
+        "committed_date": "2026-10-02T09:45:37.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-10-02T09:37:58.546Z",
+        "namespace_hint": "motorola",
+        "project_hint": "cybert",
+        "project_id": 87158901,
+        "project_path": "motorola/cybert"
+      },
+      "revision": "1eea4608a020eb2ec47d11162f94f1603e43e270",
+      "url": "https://gitlab.com/Android-Dumps/motorola/cybert/-/tree/1eea4608a020eb2ec47d11162f94f1603e43e270"
+    },
+    {
+      "item_id": "motorola/devon@user-12-S2SN32.34-72-12-6a9200-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-12-S2SN32.34-72-12-6a9200-release-keys",
+        "commit": "518417c40df94dce272ef7f539fee96d5ecf9de6",
+        "committed_date": "2023-03-28T12:49:01.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-06-02T17:01:11.688Z",
+        "namespace_hint": "motorola",
+        "project_hint": "devon",
+        "project_id": 44686867,
+        "project_path": "motorola/devon"
+      },
+      "revision": "518417c40df94dce272ef7f539fee96d5ecf9de6",
+      "url": "https://gitlab.com/Android-Dumps/motorola/devon/-/tree/518417c40df94dce272ef7f539fee96d5ecf9de6"
+    },
+    {
+      "item_id": "motorola/devon@user-12-S2SNS32.34-60-6-3726f-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-12-S2SNS32.34-60-6-3726f-release-keys",
+        "commit": "325fe8b9a39bf524a9ffaff1bfbc38f0d5bf9064",
+        "committed_date": "2023-06-02T22:23:55.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-06-02T17:01:11.688Z",
+        "namespace_hint": "motorola",
+        "project_hint": "devon",
+        "project_id": 44686867,
+        "project_path": "motorola/devon"
+      },
+      "revision": "325fe8b9a39bf524a9ffaff1bfbc38f0d5bf9064",
+      "url": "https://gitlab.com/Android-Dumps/motorola/devon/-/tree/325fe8b9a39bf524a9ffaff1bfbc38f0d5bf9064"
+    },
+    {
+      "item_id": "motorola/dubai@user-12-S1RD32.55-67-25c3ec-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-12-S1RD32.55-67-25c3ec-release-keys",
+        "commit": "e75f144104b7944ff5ae0d164eab7941cf3022ec",
+        "committed_date": "2022-07-04T17:45:24.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-07-04T12:15:26.457Z",
+        "namespace_hint": "motorola",
+        "project_hint": "dubai",
+        "project_id": 37545348,
+        "project_path": "motorola/dubai"
+      },
+      "revision": "e75f144104b7944ff5ae0d164eab7941cf3022ec",
+      "url": "https://gitlab.com/Android-Dumps/motorola/dubai/-/tree/e75f144104b7944ff5ae0d164eab7941cf3022ec"
+    },
+    {
+      "item_id": "motorola/eqs@user-12-S3SQ32.16-72-24-f2150-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-12-S3SQ32.16-72-24-f2150-release-keys",
+        "commit": "3ffaec2a85dae9b4110dda17acae68d9cf53f8a3",
+        "committed_date": "2023-02-22T11:55:25.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-03-15T12:54:03.249Z",
+        "namespace_hint": "motorola",
+        "project_hint": "eqs",
+        "project_id": 43734428,
+        "project_path": "motorola/eqs"
+      },
+      "revision": "3ffaec2a85dae9b4110dda17acae68d9cf53f8a3",
+      "url": "https://gitlab.com/Android-Dumps/motorola/eqs/-/tree/3ffaec2a85dae9b4110dda17acae68d9cf53f8a3"
+    },
+    {
+      "item_id": "motorola/eqs@user-12-S3SQ32.16-72-31-a6724-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-12-S3SQ32.16-72-31-a6724-release-keys",
+        "commit": "dba2290ad8e26eca4edcde0565d584ebf1183fb2",
+        "committed_date": "2023-03-15T18:15:15.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-03-15T12:54:03.249Z",
+        "namespace_hint": "motorola",
+        "project_hint": "eqs",
+        "project_id": 43734428,
+        "project_path": "motorola/eqs"
+      },
+      "revision": "dba2290ad8e26eca4edcde0565d584ebf1183fb2",
+      "url": "https://gitlab.com/Android-Dumps/motorola/eqs/-/tree/dba2290ad8e26eca4edcde0565d584ebf1183fb2"
+    },
+    {
+      "item_id": "motorola/genevn@user-13-T1TGN33.60-55-ba972-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-13-T1TGN33.60-55-ba972-release-keys",
+        "commit": "37e6a162a3ee06727fa6674507b71d205313d7a5",
+        "committed_date": "2023-06-03T08:27:27.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-06-03T02:57:29.817Z",
+        "namespace_hint": "motorola",
+        "project_hint": "genevn",
+        "project_id": 46551538,
+        "project_path": "motorola/genevn"
+      },
+      "revision": "37e6a162a3ee06727fa6674507b71d205313d7a5",
+      "url": "https://gitlab.com/Android-Dumps/motorola/genevn/-/tree/37e6a162a3ee06727fa6674507b71d205313d7a5"
+    },
+    {
+      "item_id": "motorola/gnevan@user-13-T1TH33.75-12-6-1c6f9-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-13-T1TH33.75-12-6-1c6f9-release-keys",
+        "commit": "de32132eb9fb62f86933a8cdfa197d48beee42ed",
+        "committed_date": "2023-06-03T08:18:26.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-06-03T02:48:28.898Z",
+        "namespace_hint": "motorola",
+        "project_hint": "gnevan",
+        "project_id": 46551447,
+        "project_path": "motorola/gnevan"
+      },
+      "revision": "de32132eb9fb62f86933a8cdfa197d48beee42ed",
+      "url": "https://gitlab.com/Android-Dumps/motorola/gnevan/-/tree/de32132eb9fb62f86933a8cdfa197d48beee42ed"
+    },
+    {
+      "item_id": "motorola/hanoip@hanoip_retail-user-11-RRI31.Q1-42-51-12-c157c-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "hanoip_retail-user-11-RRI31.Q1-42-51-12-c157c-release-keys",
+        "commit": "e732283aa22613d6c7b5635453c4cb8fb24ba3c3",
+        "committed_date": "2022-04-15T22:47:33.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-07-06T15:48:38.974Z",
+        "namespace_hint": "motorola",
+        "project_hint": "hanoip",
+        "project_id": 35392603,
+        "project_path": "motorola/hanoip"
+      },
+      "revision": "e732283aa22613d6c7b5635453c4cb8fb24ba3c3",
+      "url": "https://gitlab.com/Android-Dumps/motorola/hanoip/-/tree/e732283aa22613d6c7b5635453c4cb8fb24ba3c3"
+    },
+    {
+      "item_id": "motorola/hanoip@hanoip_retail-user-11-RRIS31.Q1-42-51-12-1-01c61-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "hanoip_retail-user-11-RRIS31.Q1-42-51-12-1-01c61-release-keys",
+        "commit": "fa2c1e68b83e192e0bf11d5ba0344d2e561bfa65",
+        "committed_date": "2022-07-05T08:24:03.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-07-06T15:48:38.974Z",
+        "namespace_hint": "motorola",
+        "project_hint": "hanoip",
+        "project_id": 35392603,
+        "project_path": "motorola/hanoip"
+      },
+      "revision": "fa2c1e68b83e192e0bf11d5ba0344d2e561bfa65",
+      "url": "https://gitlab.com/Android-Dumps/motorola/hanoip/-/tree/fa2c1e68b83e192e0bf11d5ba0344d2e561bfa65"
+    },
+    {
+      "item_id": "motorola/hanoip@hanoip_retail-user-11-RRIS31.Q1-42-51-12-4-24f96-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "hanoip_retail-user-11-RRIS31.Q1-42-51-12-4-24f96-release-keys",
+        "commit": "fad4bd9d0cc5a8c5b89123daf33835b414260f10",
+        "committed_date": "2022-07-06T09:53:47.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-07-06T15:48:38.974Z",
+        "namespace_hint": "motorola",
+        "project_hint": "hanoip",
+        "project_id": 35392603,
+        "project_path": "motorola/hanoip"
+      },
+      "revision": "fad4bd9d0cc5a8c5b89123daf33835b414260f10",
+      "url": "https://gitlab.com/Android-Dumps/motorola/hanoip/-/tree/fad4bd9d0cc5a8c5b89123daf33835b414260f10"
+    },
+    {
+      "item_id": "motorola/hanoip@user-12-S2RI32.32-20-7-7dcd6-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-12-S2RI32.32-20-7-7dcd6-release-keys",
+        "commit": "ea63571e71ca64f002a41324064b471c97f69f4e",
+        "committed_date": "2022-07-06T21:11:54.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-07-06T15:48:38.974Z",
+        "namespace_hint": "motorola",
+        "project_hint": "hanoip",
+        "project_id": 35392603,
+        "project_path": "motorola/hanoip"
+      },
+      "revision": "ea63571e71ca64f002a41324064b471c97f69f4e",
+      "url": "https://gitlab.com/Android-Dumps/motorola/hanoip/-/tree/ea63571e71ca64f002a41324064b471c97f69f4e"
+    },
+    {
+      "item_id": "motorola/hawaii@ums9230_4h10_Natv_nv-user-11-RORS31.193-14-6-b7ea7-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ums9230_4h10_Natv_nv-user-11-RORS31.193-14-6-b7ea7-release-keys",
+        "commit": "d247b85b6b0d7c8d54c68379d620a726e38a6501",
+        "committed_date": "2023-06-02T18:45:13.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-06-02T18:53:18.952Z",
+        "namespace_hint": "motorola",
+        "project_hint": "hawaii",
+        "project_id": 46249618,
+        "project_path": "motorola/hawaii"
+      },
+      "revision": "d247b85b6b0d7c8d54c68379d620a726e38a6501",
+      "url": "https://gitlab.com/Android-Dumps/motorola/hawaii/-/tree/d247b85b6b0d7c8d54c68379d620a726e38a6501"
+    },
+    {
+      "item_id": "motorola/hawaii@ums9230_4h10_Natv_nv-user-11-RORS31.335-20-2-9fe5d-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ums9230_4h10_Natv_nv-user-11-RORS31.335-20-2-9fe5d-release-keys",
+        "commit": "fc53c3546a949b89c2d04fde546f7ec38eda8a8f",
+        "committed_date": "2023-05-23T15:55:02.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-06-02T18:53:18.952Z",
+        "namespace_hint": "motorola",
+        "project_hint": "hawaii",
+        "project_id": 46249618,
+        "project_path": "motorola/hawaii"
+      },
+      "revision": "fc53c3546a949b89c2d04fde546f7ec38eda8a8f",
+      "url": "https://gitlab.com/Android-Dumps/motorola/hawaii/-/tree/fc53c3546a949b89c2d04fde546f7ec38eda8a8f"
+    },
+    {
+      "item_id": "motorola/hawaiip@sys_mssi_64_cn-user-12-STA32.79-35-35-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn-user-12-STA32.79-35-35-release-keys",
+        "commit": "6ac019d82786ff58ea251eb4b1cb1011efeaef36",
+        "committed_date": "2024-01-05T09:53:53.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-01-05T09:35:22.631Z",
+        "namespace_hint": "motorola",
+        "project_hint": "hawaiip",
+        "project_id": 53581476,
+        "project_path": "motorola/hawaiip"
+      },
+      "revision": "6ac019d82786ff58ea251eb4b1cb1011efeaef36",
+      "url": "https://gitlab.com/Android-Dumps/motorola/hawaiip/-/tree/6ac019d82786ff58ea251eb4b1cb1011efeaef36"
+    },
+    {
+      "item_id": "motorola/hawaiipl@sys_mssi_64_cn-user-12-STB32.36-101-101-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn-user-12-STB32.36-101-101-release-keys",
+        "commit": "a5d0c380f2b1d15c225b6edf94d90ff841266a6e",
+        "committed_date": "2023-05-22T20:19:54.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-05-22T20:28:10.150Z",
+        "namespace_hint": "motorola",
+        "project_hint": "hawaiipl",
+        "project_id": 44871774,
+        "project_path": "motorola/hawaiipl"
+      },
+      "revision": "a5d0c380f2b1d15c225b6edf94d90ff841266a6e",
+      "url": "https://gitlab.com/Android-Dumps/motorola/hawaiipl/-/tree/a5d0c380f2b1d15c225b6edf94d90ff841266a6e"
+    },
+    {
+      "item_id": "motorola/hawaiipl@sys_mssi_64_cn-user-12-STB32.36-99-1-99-1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn-user-12-STB32.36-99-1-99-1-release-keys",
+        "commit": "a1af8b97d8bd4472a322ee356304a19010ddc387",
+        "committed_date": "2023-04-04T01:46:12.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-05-22T20:28:10.150Z",
+        "namespace_hint": "motorola",
+        "project_hint": "hawaiipl",
+        "project_id": 44871774,
+        "project_path": "motorola/hawaiipl"
+      },
+      "revision": "a1af8b97d8bd4472a322ee356304a19010ddc387",
+      "url": "https://gitlab.com/Android-Dumps/motorola/hawaiipl/-/tree/a1af8b97d8bd4472a322ee356304a19010ddc387"
+    },
+    {
+      "item_id": "motorola/hiphi@user-13-T1SH33.35-23-20-00de5-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-13-T1SH33.35-23-20-00de5-release-keys",
+        "commit": "ccdc50b3d55fd69be4b3919105fd4297c1e6ddbc",
+        "committed_date": "2023-04-02T10:37:59.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-06-08T13:57:07.413Z",
+        "namespace_hint": "motorola",
+        "project_hint": "hiphi",
+        "project_id": 44828009,
+        "project_path": "motorola/hiphi"
+      },
+      "revision": "ccdc50b3d55fd69be4b3919105fd4297c1e6ddbc",
+      "url": "https://gitlab.com/Android-Dumps/motorola/hiphi/-/tree/ccdc50b3d55fd69be4b3919105fd4297c1e6ddbc"
+    },
+    {
+      "item_id": "motorola/hiphi@user-13-T1SHS33.35-23-20-2-d71e3-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-13-T1SHS33.35-23-20-2-d71e3-release-keys",
+        "commit": "a6308f18beab4fa25c7a0182ca4e1a51f6bf019d",
+        "committed_date": "2023-06-08T19:13:53.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-06-08T13:57:07.413Z",
+        "namespace_hint": "motorola",
+        "project_hint": "hiphi",
+        "project_id": 44828009,
+        "project_path": "motorola/hiphi"
+      },
+      "revision": "a6308f18beab4fa25c7a0182ca4e1a51f6bf019d",
+      "url": "https://gitlab.com/Android-Dumps/motorola/hiphi/-/tree/a6308f18beab4fa25c7a0182ca4e1a51f6bf019d"
+    },
+    {
+      "item_id": "motorola/hiphic@user-12-S3SC32.7-42-20-02af5-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-12-S3SC32.7-42-20-02af5-release-keys",
+        "commit": "3c588d02ee175d15eff30b9ee6391d724cb1efaa",
+        "committed_date": "2023-02-22T11:52:41.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-02-22T06:22:43.509Z",
+        "namespace_hint": "motorola",
+        "project_hint": "hiphic",
+        "project_id": 43734377,
+        "project_path": "motorola/hiphic"
+      },
+      "revision": "3c588d02ee175d15eff30b9ee6391d724cb1efaa",
+      "url": "https://gitlab.com/Android-Dumps/motorola/hiphic/-/tree/3c588d02ee175d15eff30b9ee6391d724cb1efaa"
+    },
+    {
+      "item_id": "motorola/hiphid@user-12-S3SF32.35-5-9-37351-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-12-S3SF32.35-5-9-37351-release-keys",
+        "commit": "ef42340be17fd9ea97e6e85e5b1db93616545d70",
+        "committed_date": "2023-03-15T15:47:21.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-03-15T10:17:24.119Z",
+        "namespace_hint": "motorola",
+        "project_hint": "hiphid",
+        "project_id": 44337538,
+        "project_path": "motorola/hiphid"
+      },
+      "revision": "ef42340be17fd9ea97e6e85e5b1db93616545d70",
+      "url": "https://gitlab.com/Android-Dumps/motorola/hiphid/-/tree/ef42340be17fd9ea97e6e85e5b1db93616545d70"
+    },
+    {
+      "item_id": "motorola/kievv@user-12-S3RV32.128-36-2-ccfb97-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-12-S3RV32.128-36-2-ccfb97-release-keys",
+        "commit": "74e3164813a6d80d7253bd9c4c754f86d6a5f252",
+        "committed_date": "2023-03-31T20:30:06.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-03-31T15:00:08.826Z",
+        "namespace_hint": "motorola",
+        "project_hint": "kievv",
+        "project_id": 44800147,
+        "project_path": "motorola/kievv"
+      },
+      "revision": "74e3164813a6d80d7253bd9c4c754f86d6a5f252",
+      "url": "https://gitlab.com/Android-Dumps/motorola/kievv/-/tree/74e3164813a6d80d7253bd9c4c754f86d6a5f252"
+    },
+    {
+      "item_id": "motorola/lamu@lamu_g-user-15-VVTA35.51-124-777ecb-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "lamu_g-user-15-VVTA35.51-124-777ecb-release-keys",
+        "commit": "bebc706c312bfbe90e87b542d21d8f49a66788df",
+        "committed_date": "2026-09-20T07:18:29.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-09-20T07:05:36.145Z",
+        "namespace_hint": "motorola",
+        "project_hint": "lamu",
+        "project_id": 75478273,
+        "project_path": "motorola/lamu"
+      },
+      "revision": "bebc706c312bfbe90e87b542d21d8f49a66788df",
+      "url": "https://gitlab.com/Android-Dumps/motorola/lamu/-/tree/bebc706c312bfbe90e87b542d21d8f49a66788df"
+    },
+    {
+      "item_id": "motorola/lamu@lamu_g-user-15-VVTA35.51-137-7eabca-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "lamu_g-user-15-VVTA35.51-137-7eabca-release-keys",
+        "commit": "845e1617856f502c3f804c52a594a38b42aab76a",
+        "committed_date": "2025-10-21T09:30:29.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2026-09-20T07:05:36.145Z",
+        "namespace_hint": "motorola",
+        "project_hint": "lamu",
+        "project_id": 75478273,
+        "project_path": "motorola/lamu"
+      },
+      "revision": "845e1617856f502c3f804c52a594a38b42aab76a",
+      "url": "https://gitlab.com/Android-Dumps/motorola/lamu/-/tree/845e1617856f502c3f804c52a594a38b42aab76a"
+    },
+    {
+      "item_id": "motorola/lamu@lamu_g-user-15-VVTA35.51-28-24-f23912-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "lamu_g-user-15-VVTA35.51-28-24-f23912-release-keys",
+        "commit": "3ab4b0f6a03fbc35af5d64494a2eba64f196cebd",
+        "committed_date": "2026-08-25T15:52:20.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2026-09-20T07:05:36.145Z",
+        "namespace_hint": "motorola",
+        "project_hint": "lamu",
+        "project_id": 75478273,
+        "project_path": "motorola/lamu"
+      },
+      "revision": "3ab4b0f6a03fbc35af5d64494a2eba64f196cebd",
+      "url": "https://gitlab.com/Android-Dumps/motorola/lamu/-/tree/3ab4b0f6a03fbc35af5d64494a2eba64f196cebd"
+    },
+    {
+      "item_id": "motorola/lyriq@user-14-U1TLS34.115-16-1-7-3-16ead-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-14-U1TLS34.115-16-1-7-3-16ead-release-keys",
+        "commit": "12989918d43fc304ff34bc04e780ff325517b9c1",
+        "committed_date": "2026-04-23T18:43:08.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-04-23T18:31:40.523Z",
+        "namespace_hint": "motorola",
+        "project_hint": "lyriq",
+        "project_id": 81288865,
+        "project_path": "motorola/lyriq"
+      },
+      "revision": "12989918d43fc304ff34bc04e780ff325517b9c1",
+      "url": "https://gitlab.com/Android-Dumps/motorola/lyriq/-/tree/12989918d43fc304ff34bc04e780ff325517b9c1"
+    },
+    {
+      "item_id": "motorola/lyriq@user-15-V1TLS35.73-60-3-8-eebfb-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-15-V1TLS35.73-60-3-8-eebfb-release-keys",
+        "commit": "d35fb32e6fa04c3a79e3b1911c180ec772d49e70",
+        "committed_date": "2026-04-14T08:23:20.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2026-04-23T18:31:40.523Z",
+        "namespace_hint": "motorola",
+        "project_hint": "lyriq",
+        "project_id": 81288865,
+        "project_path": "motorola/lyriq"
+      },
+      "revision": "d35fb32e6fa04c3a79e3b1911c180ec772d49e70",
+      "url": "https://gitlab.com/Android-Dumps/motorola/lyriq/-/tree/d35fb32e6fa04c3a79e3b1911c180ec772d49e70"
+    },
+    {
+      "item_id": "motorola/m170@m170-user-13-TLA33.105-26-2-3-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "m170-user-13-TLA33.105-26-2-3-release-keys",
+        "commit": "53a5f0e12f5e044d15c8b190dd10d2ba0b39ddda",
+        "committed_date": "2023-02-19T00:22:05.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-02-18T18:52:07.806Z",
+        "namespace_hint": "motorola",
+        "project_hint": "m170",
+        "project_id": 43645936,
+        "project_path": "motorola/m170"
+      },
+      "revision": "53a5f0e12f5e044d15c8b190dd10d2ba0b39ddda",
+      "url": "https://gitlab.com/Android-Dumps/motorola/m170/-/tree/53a5f0e12f5e044d15c8b190dd10d2ba0b39ddda"
+    },
+    {
+      "item_id": "motorola/malmo@user-15-UUOC34HV-V1-ST16.1-c4ccf8-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-15-UUOC34HV-V1-ST16.1-c4ccf8-release-keys",
+        "commit": "5d867a8f0ed94a70ea4ee20496f0116d242fc303",
+        "committed_date": "2026-08-21T15:39:26.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-08-21T15:17:40.002Z",
+        "namespace_hint": "motorola",
+        "project_hint": "malmo",
+        "project_id": 85632489,
+        "project_path": "motorola/malmo"
+      },
+      "revision": "5d867a8f0ed94a70ea4ee20496f0116d242fc303",
+      "url": "https://gitlab.com/Android-Dumps/motorola/malmo/-/tree/5d867a8f0ed94a70ea4ee20496f0116d242fc303"
+    },
+    {
+      "item_id": "motorola/malta@malta-user-10-QOLS30.288-39-2-53fda-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "malta-user-10-QOLS30.288-39-2-53fda-release-keys",
+        "commit": "c2bff49f7f38e0c030419d128dc47951712b1aad",
+        "committed_date": "2023-07-03T08:06:11.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2023-07-03T08:06:13.816Z",
+        "namespace_hint": "motorola",
+        "project_hint": "malta",
+        "project_id": 47351215,
+        "project_path": "motorola/malta"
+      },
+      "revision": "c2bff49f7f38e0c030419d128dc47951712b1aad",
+      "url": "https://gitlab.com/Android-Dumps/motorola/malta/-/tree/c2bff49f7f38e0c030419d128dc47951712b1aad"
+    },
+    {
+      "item_id": "motorola/malta_64@malta_64-user-10-QOGS30.569-12-7-83775-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "malta_64-user-10-QOGS30.569-12-7-83775-release-keys",
+        "commit": "85a4402e085f9a794978624bed8970631986a09e",
+        "committed_date": "2024-01-13T10:52:50.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-01-13T10:42:16.289Z",
+        "namespace_hint": "motorola",
+        "project_hint": "malta_64",
+        "project_id": 53822771,
+        "project_path": "motorola/malta_64"
+      },
+      "revision": "85a4402e085f9a794978624bed8970631986a09e",
+      "url": "https://gitlab.com/Android-Dumps/motorola/malta_64/-/tree/85a4402e085f9a794978624bed8970631986a09e"
+    },
+    {
+      "item_id": "motorola/manaus@user-15-V1TMS35H.3-45-3-2-3-4b40ea-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-15-V1TMS35H.3-45-3-2-3-4b40ea-release-keys",
+        "commit": "1514027bf1ecf58126d4db2a98be2a9e9b1aaac1",
+        "committed_date": "2026-08-22T20:14:50.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-08-22T20:00:46.843Z",
+        "namespace_hint": "motorola",
+        "project_hint": "manaus",
+        "project_id": 85660756,
+        "project_path": "motorola/manaus"
+      },
+      "revision": "1514027bf1ecf58126d4db2a98be2a9e9b1aaac1",
+      "url": "https://gitlab.com/Android-Dumps/motorola/manaus/-/tree/1514027bf1ecf58126d4db2a98be2a9e9b1aaac1"
+    },
+    {
+      "item_id": "motorola/marvel@user-16-WWE36V.56-98-ST3.5-421c6f-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-16-WWE36V.56-98-ST3.5-421c6f-release-keys",
+        "commit": "382316d28cf91e3d121343fd1f1d1ebf1c84c5e3",
+        "committed_date": "2026-09-04T10:36:57.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-09-04T10:13:49.786Z",
+        "namespace_hint": "motorola",
+        "project_hint": "marvel",
+        "project_id": 86092959,
+        "project_path": "motorola/marvel"
+      },
+      "revision": "382316d28cf91e3d121343fd1f1d1ebf1c84c5e3",
+      "url": "https://gitlab.com/Android-Dumps/motorola/marvel/-/tree/382316d28cf91e3d121343fd1f1d1ebf1c84c5e3"
+    },
+    {
+      "item_id": "motorola/maui@user-12-S3SG32.39-181-3d497e-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-12-S3SG32.39-181-3d497e-release-keys",
+        "commit": "a0ebbdfd91208826b592a2ee23f499db32497fd7",
+        "committed_date": "2023-06-09T12:53:28.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-06-09T07:23:31.507Z",
+        "namespace_hint": "motorola",
+        "project_hint": "maui",
+        "project_id": 46720695,
+        "project_path": "motorola/maui"
+      },
+      "revision": "a0ebbdfd91208826b592a2ee23f499db32497fd7",
+      "url": "https://gitlab.com/Android-Dumps/motorola/maui/-/tree/a0ebbdfd91208826b592a2ee23f499db32497fd7"
+    },
+    {
+      "item_id": "motorola/merc@user-16-W3WM36.40-75-5-3330b3-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-16-W3WM36.40-75-5-3330b3-release-keys",
+        "commit": "2b8cf3a420af7979c66813e572eab0d37a3660df",
+        "committed_date": "2026-09-13T14:36:58.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-09-13T14:15:37.826Z",
+        "namespace_hint": "motorola",
+        "project_hint": "merc",
+        "project_id": 86415379,
+        "project_path": "motorola/merc"
+      },
+      "revision": "2b8cf3a420af7979c66813e572eab0d37a3660df",
+      "url": "https://gitlab.com/Android-Dumps/motorola/merc/-/tree/2b8cf3a420af7979c66813e572eab0d37a3660df"
+    },
+    {
+      "item_id": "motorola/mototabg70@full_tb8185p3_64-user-12-SP1A.210812.016-g70_S200126_230213_ROW-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_tb8185p3_64-user-12-SP1A.210812.016-g70_S200126_230213_ROW-release-keys",
+        "commit": "d18a8076d7445630f478d728587cc4f6d65532cf",
+        "committed_date": "2023-04-22T08:24:50.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-22T02:54:52.687Z",
+        "namespace_hint": "motorola",
+        "project_hint": "mototabg70",
+        "project_id": 45394953,
+        "project_path": "motorola/mototabg70"
+      },
+      "revision": "d18a8076d7445630f478d728587cc4f6d65532cf",
+      "url": "https://gitlab.com/Android-Dumps/motorola/mototabg70/-/tree/d18a8076d7445630f478d728587cc4f6d65532cf"
+    },
+    {
+      "item_id": "motorola/nice@user-16-W1VNS36H.60-82-6-7ca213-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-16-W1VNS36H.60-82-6-7ca213-release-keys",
+        "commit": "a72e3e93d7b6417a86d9c37866059d1aea48e8e6",
+        "committed_date": "2026-09-16T16:00:13.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-09-16T15:41:31.574Z",
+        "namespace_hint": "motorola",
+        "project_hint": "nice",
+        "project_id": 86545679,
+        "project_path": "motorola/nice"
+      },
+      "revision": "a72e3e93d7b6417a86d9c37866059d1aea48e8e6",
+      "url": "https://gitlab.com/Android-Dumps/motorola/nice/-/tree/a72e3e93d7b6417a86d9c37866059d1aea48e8e6"
+    },
+    {
+      "item_id": "motorola/nio@user-12-S1RTS32.41-20-16-1-7-0aa7b-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-12-S1RTS32.41-20-16-1-7-0aa7b-release-keys",
+        "commit": "f6c9c2f5558e7fd73d7e2c6c4a0c15e0f787fda1",
+        "committed_date": "2023-03-26T01:16:34.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-05-31T06:29:42.025Z",
+        "namespace_hint": "motorola",
+        "project_hint": "nio",
+        "project_id": 44628347,
+        "project_path": "motorola/nio"
+      },
+      "revision": "f6c9c2f5558e7fd73d7e2c6c4a0c15e0f787fda1",
+      "url": "https://gitlab.com/Android-Dumps/motorola/nio/-/tree/f6c9c2f5558e7fd73d7e2c6c4a0c15e0f787fda1"
+    },
+    {
+      "item_id": "motorola/nio@user-12-S1RTS32.41-20-16-1-9-a8931-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-12-S1RTS32.41-20-16-1-9-a8931-release-keys",
+        "commit": "026ad266ba2f3b35d85e35dd9b77d84e3c870382",
+        "committed_date": "2023-05-31T11:51:48.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-05-31T06:29:42.025Z",
+        "namespace_hint": "motorola",
+        "project_hint": "nio",
+        "project_id": 44628347,
+        "project_path": "motorola/nio"
+      },
+      "revision": "026ad266ba2f3b35d85e35dd9b77d84e3c870382",
+      "url": "https://gitlab.com/Android-Dumps/motorola/nio/-/tree/026ad266ba2f3b35d85e35dd9b77d84e3c870382"
+    },
+    {
+      "item_id": "motorola/oneli@user-12-S3SL32.16-16-1-35e863-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-12-S3SL32.16-16-1-35e863-release-keys",
+        "commit": "c05f7f3b3abb9773e8ad1d18cda96e7b22a084ac",
+        "committed_date": "2023-02-22T11:56:15.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-02-22T06:26:17.289Z",
+        "namespace_hint": "motorola",
+        "project_hint": "oneli",
+        "project_id": 43734447,
+        "project_path": "motorola/oneli"
+      },
+      "revision": "c05f7f3b3abb9773e8ad1d18cda96e7b22a084ac",
+      "url": "https://gitlab.com/Android-Dumps/motorola/oneli/-/tree/c05f7f3b3abb9773e8ad1d18cda96e7b22a084ac"
+    },
+    {
+      "item_id": "motorola/penang@user-13-T1TPC33.1-37-3-d77ff8-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-13-T1TPC33.1-37-3-d77ff8-release-keys",
+        "commit": "970a537f8159073e7f4cc2af4014a0a72dbd0ee0",
+        "committed_date": "2023-02-19T00:24:07.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-03-15T06:26:45.514Z",
+        "namespace_hint": "motorola",
+        "project_hint": "penang",
+        "project_id": 43645959,
+        "project_path": "motorola/penang"
+      },
+      "revision": "970a537f8159073e7f4cc2af4014a0a72dbd0ee0",
+      "url": "https://gitlab.com/Android-Dumps/motorola/penang/-/tree/970a537f8159073e7f4cc2af4014a0a72dbd0ee0"
+    },
+    {
+      "item_id": "motorola/penang@user-13-T1TPC33.1-37-8-eb283-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-13-T1TPC33.1-37-8-eb283-release-keys",
+        "commit": "b03ae4e35161332248cabf44be362069ec595129",
+        "committed_date": "2023-03-15T11:45:37.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-03-15T06:26:45.514Z",
+        "namespace_hint": "motorola",
+        "project_hint": "penang",
+        "project_id": 43645959,
+        "project_path": "motorola/penang"
+      },
+      "revision": "b03ae4e35161332248cabf44be362069ec595129",
+      "url": "https://gitlab.com/Android-Dumps/motorola/penang/-/tree/b03ae4e35161332248cabf44be362069ec595129"
+    },
+    {
+      "item_id": "motorola/penangf@penangf_g-user-13-THA33.31-20-124-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "penangf_g-user-13-THA33.31-20-124-release-keys",
+        "commit": "44a35120866de9178c3dd197104292c4e98e4ef2",
+        "committed_date": "2023-03-15T12:06:47.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2026-09-20T07:07:38.207Z",
+        "namespace_hint": "motorola",
+        "project_hint": "penangf",
+        "project_id": 44328755,
+        "project_path": "motorola/penangf"
+      },
+      "revision": "44a35120866de9178c3dd197104292c4e98e4ef2",
+      "url": "https://gitlab.com/Android-Dumps/motorola/penangf/-/tree/44a35120866de9178c3dd197104292c4e98e4ef2"
+    },
+    {
+      "item_id": "motorola/penangf@penangf_g-user-14-UHAS34.29-29-253-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "penangf_g-user-14-UHAS34.29-29-253-release-keys",
+        "commit": "2f8ce41d68cc08821b433cc73a81f5f672cb37ff",
+        "committed_date": "2026-09-20T07:20:27.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-09-20T07:07:38.207Z",
+        "namespace_hint": "motorola",
+        "project_hint": "penangf",
+        "project_id": 44328755,
+        "project_path": "motorola/penangf"
+      },
+      "revision": "2f8ce41d68cc08821b433cc73a81f5f672cb37ff",
+      "url": "https://gitlab.com/Android-Dumps/motorola/penangf/-/tree/2f8ce41d68cc08821b433cc73a81f5f672cb37ff"
+    },
+    {
+      "item_id": "motorola/pstar@msi-user-11-RRAS31.Q3-19-86-7-e00dbc-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msi-user-11-RRAS31.Q3-19-86-7-e00dbc-release-keys",
+        "commit": "429c949b0284aa549a2e92e02ba7ca0771137dfd",
+        "committed_date": "2022-05-09T06:21:46.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-04-19T14:11:03.555Z",
+        "namespace_hint": "motorola",
+        "project_hint": "pstar",
+        "project_id": 35984926,
+        "project_path": "motorola/pstar"
+      },
+      "revision": "429c949b0284aa549a2e92e02ba7ca0771137dfd",
+      "url": "https://gitlab.com/Android-Dumps/motorola/pstar/-/tree/429c949b0284aa549a2e92e02ba7ca0771137dfd"
+    },
+    {
+      "item_id": "motorola/pstar@user-12-S1RA32.41-20-16-ad550-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-12-S1RA32.41-20-16-ad550-release-keys",
+        "commit": "987a813ebcadea0b690ff46a9ab4304fc653a63f",
+        "committed_date": "2022-05-09T06:12:45.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-19T14:11:03.555Z",
+        "namespace_hint": "motorola",
+        "project_hint": "pstar",
+        "project_id": 35984926,
+        "project_path": "motorola/pstar"
+      },
+      "revision": "987a813ebcadea0b690ff46a9ab4304fc653a63f",
+      "url": "https://gitlab.com/Android-Dumps/motorola/pstar/-/tree/987a813ebcadea0b690ff46a9ab4304fc653a63f"
+    },
+    {
+      "item_id": "motorola/pstar@user-13-T1RA33.55-15-10-72f29-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-13-T1RA33.55-15-10-72f29-release-keys",
+        "commit": "2c0d25676f912ad9ad811caf0f3ededbe6bc6983",
+        "committed_date": "2023-04-19T19:32:11.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-04-19T14:11:03.555Z",
+        "namespace_hint": "motorola",
+        "project_hint": "pstar",
+        "project_id": 35984926,
+        "project_path": "motorola/pstar"
+      },
+      "revision": "2c0d25676f912ad9ad811caf0f3ededbe6bc6983",
+      "url": "https://gitlab.com/Android-Dumps/motorola/pstar/-/tree/2c0d25676f912ad9ad811caf0f3ededbe6bc6983"
+    },
+    {
+      "item_id": "motorola/roadstr@user-17-VWR35HV-A171-ST3-5cdb7-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-17-VWR35HV-A171-ST3-5cdb7-release-keys",
+        "commit": "0afb1f516f3c000fef11aa199d377cc78f74d23d",
+        "committed_date": "2026-09-16T20:10:46.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-09-16T19:45:19.964Z",
+        "namespace_hint": "motorola",
+        "project_hint": "roadstr",
+        "project_id": 86553710,
+        "project_path": "motorola/roadstr"
+      },
+      "revision": "0afb1f516f3c000fef11aa199d377cc78f74d23d",
+      "url": "https://gitlab.com/Android-Dumps/motorola/roadstr/-/tree/0afb1f516f3c000fef11aa199d377cc78f74d23d"
+    },
+    {
+      "item_id": "motorola/scout@user-15-V2VCS35.33-132-6-1-3e2b3-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-15-V2VCS35.33-132-6-1-3e2b3-release-keys",
+        "commit": "e89560ed6d8c4306dc4cc56f9adbf78cebbc2292",
+        "committed_date": "2026-04-19T20:48:28.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-04-19T20:36:09.910Z",
+        "namespace_hint": "motorola",
+        "project_hint": "scout",
+        "project_id": 81452343,
+        "project_path": "motorola/scout"
+      },
+      "revision": "e89560ed6d8c4306dc4cc56f9adbf78cebbc2292",
+      "url": "https://gitlab.com/Android-Dumps/motorola/scout/-/tree/e89560ed6d8c4306dc4cc56f9adbf78cebbc2292"
+    },
+    {
+      "item_id": "motorola/tesla@user-12-S2ST32.71-118-4-da101-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-12-S2ST32.71-118-4-da101-release-keys",
+        "commit": "db2b8c2880986bd3f4431641013fff65fe33c4dd",
+        "committed_date": "2023-05-02T09:05:55.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-05-02T03:35:57.931Z",
+        "namespace_hint": "motorola",
+        "project_hint": "tesla",
+        "project_id": 45639882,
+        "project_path": "motorola/tesla"
+      },
+      "revision": "db2b8c2880986bd3f4431641013fff65fe33c4dd",
+      "url": "https://gitlab.com/Android-Dumps/motorola/tesla/-/tree/db2b8c2880986bd3f4431641013fff65fe33c4dd"
+    },
+    {
+      "item_id": "motorola/tonga@tonga_g-user-11-RRQS31.Q3-68-99-2-25a9a-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "tonga_g-user-11-RRQS31.Q3-68-99-2-25a9a-release-keys",
+        "commit": "8c75d08e16dd7d5af35ac6a3245779edf31ebdc9",
+        "committed_date": "2024-01-16T21:03:37.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-01-16T20:45:24.510Z",
+        "namespace_hint": "motorola",
+        "project_hint": "tonga",
+        "project_id": 53927520,
+        "project_path": "motorola/tonga"
+      },
+      "revision": "8c75d08e16dd7d5af35ac6a3245779edf31ebdc9",
+      "url": "https://gitlab.com/Android-Dumps/motorola/tonga/-/tree/8c75d08e16dd7d5af35ac6a3245779edf31ebdc9"
+    },
+    {
+      "item_id": "motorola/tundra@user-12-S3SJ32.1-79-10-9b0c6-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-12-S3SJ32.1-79-10-9b0c6-release-keys",
+        "commit": "56277f6ef621f674f1bfee963c9ae9cd51f02977",
+        "committed_date": "2023-02-22T11:57:19.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-02-22T06:27:21.765Z",
+        "namespace_hint": "motorola",
+        "project_hint": "tundra",
+        "project_id": 43734462,
+        "project_path": "motorola/tundra"
+      },
+      "revision": "56277f6ef621f674f1bfee963c9ae9cd51f02977",
+      "url": "https://gitlab.com/Android-Dumps/motorola/tundra/-/tree/56277f6ef621f674f1bfee963c9ae9cd51f02977"
+    },
+    {
+      "item_id": "motorola/vantage@user-17-WWV36HV-16-ST1.1-4548c-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-17-WWV36HV-16-ST1.1-4548c-release-keys",
+        "commit": "cf542b985c1e96bca27160b2626f927a618cdb0d",
+        "committed_date": "2026-09-15T16:52:14.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-09-15T16:39:04.233Z",
+        "namespace_hint": "motorola",
+        "project_hint": "vantage",
+        "project_id": 86501518,
+        "project_path": "motorola/vantage"
+      },
+      "revision": "cf542b985c1e96bca27160b2626f927a618cdb0d",
+      "url": "https://gitlab.com/Android-Dumps/motorola/vantage/-/tree/cf542b985c1e96bca27160b2626f927a618cdb0d"
+    },
+    {
+      "item_id": "motorola/vicky@user-13-T2SVS33.68-21-10-21-a2eb65-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-13-T2SVS33.68-21-10-21-a2eb65-release-keys",
+        "commit": "805506d01ab15ee879fc07330fe44af8e3ea72c5",
+        "committed_date": "2026-05-09T16:47:54.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-05-09T16:36:27.264Z",
+        "namespace_hint": "motorola",
+        "project_hint": "vicky",
+        "project_id": 82051423,
+        "project_path": "motorola/vicky"
+      },
+      "revision": "805506d01ab15ee879fc07330fe44af8e3ea72c5",
+      "url": "https://gitlab.com/Android-Dumps/motorola/vicky/-/tree/805506d01ab15ee879fc07330fe44af8e3ea72c5"
+    },
+    {
+      "item_id": "motorola/zeekr@user-13-T1TZ33.3-21-eb16b-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-13-T1TZ33.3-21-eb16b-release-keys",
+        "commit": "7c13e6acf320c55a241182ecda5aa6429843f4cb",
+        "committed_date": "2023-05-31T13:07:42.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-05-31T07:49:56.020Z",
+        "namespace_hint": "motorola",
+        "project_hint": "zeekr",
+        "project_id": 45225718,
+        "project_path": "motorola/zeekr"
+      },
+      "revision": "7c13e6acf320c55a241182ecda5aa6429843f4cb",
+      "url": "https://gitlab.com/Android-Dumps/motorola/zeekr/-/tree/7c13e6acf320c55a241182ecda5aa6429843f4cb"
+    },
+    {
+      "item_id": "motorola/zeekr@user-13-T1TZ33.3-30-2f9f6-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-13-T1TZ33.3-30-2f9f6-release-keys",
+        "commit": "22df08d649ae23e27702b5bd93318cecf85718a9",
+        "committed_date": "2023-04-17T10:23:41.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-05-31T07:49:56.020Z",
+        "namespace_hint": "motorola",
+        "project_hint": "zeekr",
+        "project_id": 45225718,
+        "project_path": "motorola/zeekr"
+      },
+      "revision": "22df08d649ae23e27702b5bd93318cecf85718a9",
+      "url": "https://gitlab.com/Android-Dumps/motorola/zeekr/-/tree/22df08d649ae23e27702b5bd93318cecf85718a9"
+    }
+  ],
+  "provider_id": "android_dumps_gitlab",
+  "schema_version": "1.0",
+  "status": "ok"
+}

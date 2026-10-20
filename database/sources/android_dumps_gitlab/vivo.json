@@ -1,0 +1,292 @@
+{
+  "checked_at": "2026-10-19T03:41:19Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "_project/36738568",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": "2022-06-03T19:41:22.666Z",
+        "project_id": 36738568,
+        "project_path": "vivo/PD2178"
+      },
+      "revision": "2022-06-03T19:41:22.666Z",
+      "url": "https://gitlab.com/Android-Dumps/vivo/PD2178"
+    },
+    {
+      "item_id": "vivo/1819@full_k71v1_64_bsp-user-11-RP1A.200720.012-eng.compil.20210623.215007-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k71v1_64_bsp-user-11-RP1A.200720.012-eng.compil.20210623.215007-release-keys",
+        "commit": "55cf69329084893f13547997bf6334a5fb1f07e7",
+        "committed_date": "2022-05-05T11:55:39.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-05-05T06:25:42.259Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1819",
+        "project_id": 35900016,
+        "project_path": "vivo/1819"
+      },
+      "revision": "55cf69329084893f13547997bf6334a5fb1f07e7",
+      "url": "https://gitlab.com/Android-Dumps/vivo/1819/-/tree/55cf69329084893f13547997bf6334a5fb1f07e7"
+    },
+    {
+      "item_id": "vivo/1901@full_k62v1_64_bsp-user-11-RP1A.200720.012-eng.compil.20211009.184437-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k62v1_64_bsp-user-11-RP1A.200720.012-eng.compil.20211009.184437-release-keys",
+        "commit": "77ff7efe5b0741c9f35cf0691cb9823a920d1636",
+        "committed_date": "2022-04-17T12:28:48.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-03T10:42:41.160Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1901",
+        "project_id": 35415848,
+        "project_path": "vivo/1901"
+      },
+      "revision": "77ff7efe5b0741c9f35cf0691cb9823a920d1636",
+      "url": "https://gitlab.com/Android-Dumps/vivo/1901/-/tree/77ff7efe5b0741c9f35cf0691cb9823a920d1636"
+    },
+    {
+      "item_id": "vivo/1901@full_k62v1_64_bsp-user-11-RP1A.200720.012-eng.compil.20220218.164640-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k62v1_64_bsp-user-11-RP1A.200720.012-eng.compil.20220218.164640-release-keys",
+        "commit": "8ad39e684147095fb9845e012a52063cfdf51084",
+        "committed_date": "2023-04-03T16:07:18.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-04-03T10:42:41.160Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1901",
+        "project_id": 35415848,
+        "project_path": "vivo/1901"
+      },
+      "revision": "8ad39e684147095fb9845e012a52063cfdf51084",
+      "url": "https://gitlab.com/Android-Dumps/vivo/1901/-/tree/8ad39e684147095fb9845e012a52063cfdf51084"
+    },
+    {
+      "item_id": "vivo/1907N@full_k68v1_64-user-11-RP1A.200720.012-eng.compil.20211013.100506-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k68v1_64-user-11-RP1A.200720.012-eng.compil.20211013.100506-release-keys",
+        "commit": "975580b968abec988e6d09e9d17de1a24fae3005",
+        "committed_date": "2023-04-16T17:07:11.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-16T11:43:29.340Z",
+        "namespace_hint": "vivo",
+        "project_hint": "1907N",
+        "project_id": 45215211,
+        "project_path": "vivo/1907N"
+      },
+      "revision": "975580b968abec988e6d09e9d17de1a24fae3005",
+      "url": "https://gitlab.com/Android-Dumps/vivo/1907N/-/tree/975580b968abec988e6d09e9d17de1a24fae3005"
+    },
+    {
+      "item_id": "vivo/2026@full_k65v1_64_bsp-user-11-RP1A.200720.012-eng.compil.20211012.154701-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k65v1_64_bsp-user-11-RP1A.200720.012-eng.compil.20211012.154701-release-keys",
+        "commit": "12b813619dbc75a73ed574fc8c82a04b6abfd697",
+        "committed_date": "2022-06-01T12:20:58.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-03-02T10:24:28.960Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2026",
+        "project_id": 36653217,
+        "project_path": "vivo/2026"
+      },
+      "revision": "12b813619dbc75a73ed574fc8c82a04b6abfd697",
+      "url": "https://gitlab.com/Android-Dumps/vivo/2026/-/tree/12b813619dbc75a73ed574fc8c82a04b6abfd697"
+    },
+    {
+      "item_id": "vivo/2026@full_k65v1_64_bsp-user-12-SP1A.210812.003-compiler02061008-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k65v1_64_bsp-user-12-SP1A.210812.003-compiler02061008-release-keys",
+        "commit": "64460d8913d2cf889917572e52b5e2f02f6bff0d",
+        "committed_date": "2023-03-02T15:46:48.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-03-02T10:24:28.960Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2026",
+        "project_id": 36653217,
+        "project_path": "vivo/2026"
+      },
+      "revision": "64460d8913d2cf889917572e52b5e2f02f6bff0d",
+      "url": "https://gitlab.com/Android-Dumps/vivo/2026/-/tree/64460d8913d2cf889917572e52b5e2f02f6bff0d"
+    },
+    {
+      "item_id": "vivo/2036@qssi-user-11-RP1A.200720.012-eng.compil.20210806.135523-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.200720.012-eng.compil.20210806.135523-release-keys",
+        "commit": "eca38203fa02c9d2a7e5a4e203d9e689197ae154",
+        "committed_date": "2022-06-05T15:26:46.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-05T15:26:49.323Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2036",
+        "project_id": 36766812,
+        "project_path": "vivo/2036"
+      },
+      "revision": "eca38203fa02c9d2a7e5a4e203d9e689197ae154",
+      "url": "https://gitlab.com/Android-Dumps/vivo/2036/-/tree/eca38203fa02c9d2a7e5a4e203d9e689197ae154"
+    },
+    {
+      "item_id": "vivo/2110@full_k69v1_64-user-11-RP1A.200720.012-eng.compil.20211022.003504-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k69v1_64-user-11-RP1A.200720.012-eng.compil.20211022.003504-release-keys",
+        "commit": "247ad71d991a1a5c2ddf973aff88bdf982cc6121",
+        "committed_date": "2023-03-02T15:45:52.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-03-02T10:15:55.018Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2110",
+        "project_id": 43975337,
+        "project_path": "vivo/2110"
+      },
+      "revision": "247ad71d991a1a5c2ddf973aff88bdf982cc6121",
+      "url": "https://gitlab.com/Android-Dumps/vivo/2110/-/tree/247ad71d991a1a5c2ddf973aff88bdf982cc6121"
+    },
+    {
+      "item_id": "vivo/2120@full_k65v1_64_bsp-user-12-SP1A.210812.003-compiler07071529-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k65v1_64_bsp-user-12-SP1A.210812.003-compiler07071529-release-keys",
+        "commit": "47a30d6276ef1685c4354cd6b838251469c6c3d9",
+        "committed_date": "2023-04-26T07:31:07.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2023-04-26T07:31:11.129Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2120",
+        "project_id": 45492258,
+        "project_path": "vivo/2120"
+      },
+      "revision": "47a30d6276ef1685c4354cd6b838251469c6c3d9",
+      "url": "https://gitlab.com/Android-Dumps/vivo/2120/-/tree/47a30d6276ef1685c4354cd6b838251469c6c3d9"
+    },
+    {
+      "item_id": "vivo/2135@qssi-user-11-RP1A.200720.012-eng.compil.20220308.215210-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RP1A.200720.012-eng.compil.20220308.215210-release-keys",
+        "commit": "ac574a25888e7064e8b4e0d3c71c00eab9350d56",
+        "committed_date": "2022-06-30T14:13:31.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-06-30T08:43:34.742Z",
+        "namespace_hint": "vivo",
+        "project_hint": "2135",
+        "project_id": 37455116,
+        "project_path": "vivo/2135"
+      },
+      "revision": "ac574a25888e7064e8b4e0d3c71c00eab9350d56",
+      "url": "https://gitlab.com/Android-Dumps/vivo/2135/-/tree/ac574a25888e7064e8b4e0d3c71c00eab9350d56"
+    },
+    {
+      "item_id": "vivo/PD1732F_EX@full_k62v1_64_bsp-user-8.1.0-O11019-1661159686-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k62v1_64_bsp-user-8.1.0-O11019-1661159686-release-keys",
+        "commit": "bd16da701765882d004f7d6b1976eb230b067d0b",
+        "committed_date": "2023-03-02T21:08:00.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-03-02T15:38:03.380Z",
+        "namespace_hint": "vivo",
+        "project_hint": "PD1732F_EX",
+        "project_id": 43987740,
+        "project_path": "vivo/PD1732F_EX"
+      },
+      "revision": "bd16da701765882d004f7d6b1976eb230b067d0b",
+      "url": "https://gitlab.com/Android-Dumps/vivo/PD1732F_EX/-/tree/bd16da701765882d004f7d6b1976eb230b067d0b"
+    },
+    {
+      "item_id": "vivo/PD1818HF_EX@full_k62v1_64_bsp-user-8.1.0-O11019-1562672226-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k62v1_64_bsp-user-8.1.0-O11019-1562672226-release-keys",
+        "commit": "50b2e5c38e7edc339aa80392ec0fbda3e46cd132",
+        "committed_date": "2022-05-23T11:52:40.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-05-23T06:22:42.883Z",
+        "namespace_hint": "vivo",
+        "project_hint": "PD1818HF_EX",
+        "project_id": 36398016,
+        "project_path": "vivo/PD1818HF_EX"
+      },
+      "revision": "50b2e5c38e7edc339aa80392ec0fbda3e46cd132",
+      "url": "https://gitlab.com/Android-Dumps/vivo/PD1818HF_EX/-/tree/50b2e5c38e7edc339aa80392ec0fbda3e46cd132"
+    },
+    {
+      "item_id": "vivo/PD1901BF_EX@full_k62v1_64_bsp-user-9-PPR1.180610.011-compiler05202353-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k62v1_64_bsp-user-9-PPR1.180610.011-compiler05202353-release-keys",
+        "commit": "1dd4002c22d93533f7f4c2c3ec44097f245bcc35",
+        "committed_date": "2022-03-15T09:06:03.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-03-15T03:28:21.926Z",
+        "namespace_hint": "vivo",
+        "project_hint": "PD1901BF_EX",
+        "project_id": 34492502,
+        "project_path": "vivo/PD1901BF_EX"
+      },
+      "revision": "1dd4002c22d93533f7f4c2c3ec44097f245bcc35",
+      "url": "https://gitlab.com/Android-Dumps/vivo/PD1901BF_EX/-/tree/1dd4002c22d93533f7f4c2c3ec44097f245bcc35"
+    },
+    {
+      "item_id": "vivo/V2144@sys_mssi_64_cn_armv82-user-12-SP1A.210812.003-compiler05111007-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-12-SP1A.210812.003-compiler05111007-release-keys",
+        "commit": "c0636ee4645ad05dd6bab419956a66efa210b987",
+        "committed_date": "2022-06-01T12:26:30.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-07-07T16:48:14.231Z",
+        "namespace_hint": "vivo",
+        "project_hint": "V2144",
+        "project_id": 36653468,
+        "project_path": "vivo/V2144"
+      },
+      "revision": "c0636ee4645ad05dd6bab419956a66efa210b987",
+      "url": "https://gitlab.com/Android-Dumps/vivo/V2144/-/tree/c0636ee4645ad05dd6bab419956a66efa210b987"
+    },
+    {
+      "item_id": "vivo/V2144@sys_mssi_64_cn_armv82-user-13-TP1A.220414.003-eng.compil.20220613.224522-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220414.003-eng.compil.20220613.224522-release-keys",
+        "commit": "dfd3b53a6e80726b00e4336613945d80faf2d5ba",
+        "committed_date": "2022-07-07T22:06:20.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-07-07T16:48:14.231Z",
+        "namespace_hint": "vivo",
+        "project_hint": "V2144",
+        "project_id": 36653468,
+        "project_path": "vivo/V2144"
+      },
+      "revision": "dfd3b53a6e80726b00e4336613945d80faf2d5ba",
+      "url": "https://gitlab.com/Android-Dumps/vivo/V2144/-/tree/dfd3b53a6e80726b00e4336613945d80faf2d5ba"
+    },
+    {
+      "item_id": "vivo/k65v1_64_bsp@full_k65v1_64_bsp-user-10-QP1A.190711.020-compiler01122029-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_k65v1_64_bsp-user-10-QP1A.190711.020-compiler01122029-release-keys",
+        "commit": "9fa5bdc67e1dd78c83a9d13c7d33332e6455598a",
+        "committed_date": "2022-03-04T14:23:32.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-03-04T14:15:13.676Z",
+        "namespace_hint": "vivo",
+        "project_hint": "k65v1_64_bsp",
+        "project_id": 34221719,
+        "project_path": "vivo/k65v1_64_bsp"
+      },
+      "revision": "9fa5bdc67e1dd78c83a9d13c7d33332e6455598a",
+      "url": "https://gitlab.com/Android-Dumps/vivo/k65v1_64_bsp/-/tree/9fa5bdc67e1dd78c83a9d13c7d33332e6455598a"
+    }
+  ],
+  "provider_id": "android_dumps_gitlab",
+  "schema_version": "1.0",
+  "status": "ok"
+}

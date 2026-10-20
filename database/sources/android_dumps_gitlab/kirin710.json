@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T03:41:19Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "kirin710/kirin710@eng.root.20210310.004301",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "eng.root.20210310.004301",
+        "commit": "59dbf4af00da25939187449778c8d69bb5af3e1e",
+        "committed_date": "2023-06-10T15:13:57.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-06-10T09:44:00.184Z",
+        "namespace_hint": "kirin710",
+        "project_hint": "kirin710",
+        "project_id": 46747167,
+        "project_path": "kirin710/kirin710"
+      },
+      "revision": "59dbf4af00da25939187449778c8d69bb5af3e1e",
+      "url": "https://gitlab.com/Android-Dumps/kirin710/kirin710/-/tree/59dbf4af00da25939187449778c8d69bb5af3e1e"
+    }
+  ],
+  "provider_id": "android_dumps_gitlab",
+  "schema_version": "1.0",
+  "status": "ok"
+}

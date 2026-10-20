@@ -1,0 +1,145 @@
+{
+  "checked_at": "2026-10-19T03:41:19Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "asus/ASUS_AI2201@qssi-user-12-SKQ1.220406.001-32.2810.2205.63-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220406.001-32.2810.2205.63-0-release-keys",
+        "commit": "d3a8b6c20e229410149ee89472d31dcc80b4b422",
+        "committed_date": "2022-07-07T09:30:35.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-07-07T04:00:33.389Z",
+        "namespace_hint": "asus",
+        "project_hint": "ASUS_AI2201",
+        "project_id": 37634002,
+        "project_path": "asus/ASUS_AI2201"
+      },
+      "revision": "d3a8b6c20e229410149ee89472d31dcc80b4b422",
+      "url": "https://gitlab.com/Android-Dumps/asus/ASUS_AI2201/-/tree/d3a8b6c20e229410149ee89472d31dcc80b4b422"
+    },
+    {
+      "item_id": "asus/ASUS_I006D@qssi-user-12-TKQ1.220327.001-32.0301.0403.10-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-TKQ1.220327.001-32.0301.0403.10-release-keys",
+        "commit": "bb4b4dbbdbbf791d4cd31bfc3aa909bf9d605f6c",
+        "committed_date": "2022-05-13T22:36:28.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-05-13T17:06:25.437Z",
+        "namespace_hint": "asus",
+        "project_hint": "ASUS_I006D",
+        "project_id": 36149176,
+        "project_path": "asus/ASUS_I006D"
+      },
+      "revision": "bb4b4dbbdbbf791d4cd31bfc3aa909bf9d605f6c",
+      "url": "https://gitlab.com/Android-Dumps/asus/ASUS_I006D/-/tree/bb4b4dbbdbbf791d4cd31bfc3aa909bf9d605f6c"
+    },
+    {
+      "item_id": "asus/ASUS_X00ID@msm8937_64-user-8.1.0-OPM1.171019.011-15.2016.1907.519-0-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "msm8937_64-user-8.1.0-OPM1.171019.011-15.2016.1907.519-0-release-keys",
+        "commit": "d39da5a700440a17b8cc70b361d7d9659114d5e0",
+        "committed_date": "2022-04-16T06:12:18.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-04-16T00:42:17.364Z",
+        "namespace_hint": "asus",
+        "project_hint": "ASUS_X00ID",
+        "project_id": 35398884,
+        "project_path": "asus/ASUS_X00ID"
+      },
+      "revision": "d39da5a700440a17b8cc70b361d7d9659114d5e0",
+      "url": "https://gitlab.com/Android-Dumps/asus/ASUS_X00ID/-/tree/d39da5a700440a17b8cc70b361d7d9659114d5e0"
+    },
+    {
+      "item_id": "asus/ASUS_X00TD@sdm660_64-user-10-QKQ1-72-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-10-QKQ1-72-release-keys",
+        "commit": "bf94d1a3f426ea72b0c36f412ef9851f93794285",
+        "committed_date": "2022-04-06T11:17:41.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-04-06T05:47:38.251Z",
+        "namespace_hint": "asus",
+        "project_hint": "ASUS_X00TD",
+        "project_id": 35123405,
+        "project_path": "asus/ASUS_X00TD"
+      },
+      "revision": "bf94d1a3f426ea72b0c36f412ef9851f93794285",
+      "url": "https://gitlab.com/Android-Dumps/asus/ASUS_X00TD/-/tree/bf94d1a3f426ea72b0c36f412ef9851f93794285"
+    },
+    {
+      "item_id": "asus/ASUS_X01BD@sdm660_64-user-9-PKQ1-134-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sdm660_64-user-9-PKQ1-134-release-keys",
+        "commit": "a0e99718a358350c229b98bf96809d2c041ccf60",
+        "committed_date": "2022-05-23T01:31:58.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-05-22T20:01:56.923Z",
+        "namespace_hint": "asus",
+        "project_hint": "ASUS_X01BD",
+        "project_id": 36390134,
+        "project_path": "asus/ASUS_X01BD"
+      },
+      "revision": "a0e99718a358350c229b98bf96809d2c041ccf60",
+      "url": "https://gitlab.com/Android-Dumps/asus/ASUS_X01BD/-/tree/a0e99718a358350c229b98bf96809d2c041ccf60"
+    },
+    {
+      "item_id": "asus/ASUS_Z00E_2@JP_Phone-user-6.0.1-MMB29P-13.1011.1711.16-20180103-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "JP_Phone-user-6.0.1-MMB29P-13.1011.1711.16-20180103-release-keys",
+        "commit": "76d1604179941aa774c11f4cc8ad0d9e88ef586f",
+        "committed_date": "2022-04-19T13:41:57.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-04-19T07:50:21.536Z",
+        "namespace_hint": "asus",
+        "project_hint": "ASUS_Z00E_2",
+        "project_id": 35466654,
+        "project_path": "asus/ASUS_Z00E_2"
+      },
+      "revision": "76d1604179941aa774c11f4cc8ad0d9e88ef586f",
+      "url": "https://gitlab.com/Android-Dumps/asus/ASUS_Z00E_2/-/tree/76d1604179941aa774c11f4cc8ad0d9e88ef586f"
+    },
+    {
+      "item_id": "asus/ASUS_Z00E_2@WW_Phone-user-6.0.1-MMB29P-13.1010.1612.53-20170202-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "WW_Phone-user-6.0.1-MMB29P-13.1010.1612.53-20170202-release-keys",
+        "commit": "cb06da0e7a4900cea43f2eb5a5901079fe4d5660",
+        "committed_date": "2022-04-19T13:20:22.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-04-19T07:50:21.536Z",
+        "namespace_hint": "asus",
+        "project_hint": "ASUS_Z00E_2",
+        "project_id": 35466654,
+        "project_path": "asus/ASUS_Z00E_2"
+      },
+      "revision": "cb06da0e7a4900cea43f2eb5a5901079fe4d5660",
+      "url": "https://gitlab.com/Android-Dumps/asus/ASUS_Z00E_2/-/tree/cb06da0e7a4900cea43f2eb5a5901079fe4d5660"
+    },
+    {
+      "item_id": "asus/X01BD@atomx_X01BD-user-12-SKQ1.220420.001-eng.kunmun.20220522.111643-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "atomx_X01BD-user-12-SKQ1.220420.001-eng.kunmun.20220522.111643-release-keys",
+        "commit": "9c7b30a34249849565a3f19f3d6c88b5dfd77ee6",
+        "committed_date": "2022-05-23T12:34:33.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-05-23T07:04:30.503Z",
+        "namespace_hint": "asus",
+        "project_hint": "X01BD",
+        "project_id": 36399328,
+        "project_path": "asus/X01BD"
+      },
+      "revision": "9c7b30a34249849565a3f19f3d6c88b5dfd77ee6",
+      "url": "https://gitlab.com/Android-Dumps/asus/X01BD/-/tree/9c7b30a34249849565a3f19f3d6c88b5dfd77ee6"
+    }
+  ],
+  "provider_id": "android_dumps_gitlab",
+  "schema_version": "1.0",
+  "status": "ok"
+}

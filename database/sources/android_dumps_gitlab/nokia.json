@@ -1,0 +1,700 @@
+{
+  "checked_at": "2026-10-19T03:41:19Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "_project/35415901",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": "2022-04-17T07:04:20.227Z",
+        "project_id": 35415901,
+        "project_path": "nokia/D1C"
+      },
+      "revision": "2022-04-17T07:04:20.227Z",
+      "url": "https://gitlab.com/Android-Dumps/nokia/D1C"
+    },
+    {
+      "item_id": "nokia/APO_sprout@qssi-user-12-SKQ1.220201.001-00WW_1_280-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220201.001-00WW_1_280-release-keys",
+        "commit": "d347532b1836775dbdb392f1504338452053c2c6",
+        "committed_date": "2023-04-14T15:47:55.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-05-14T06:20:29.321Z",
+        "namespace_hint": "nokia",
+        "project_hint": "APO_sprout",
+        "project_id": 45170257,
+        "project_path": "nokia/APO_sprout"
+      },
+      "revision": "d347532b1836775dbdb392f1504338452053c2c6",
+      "url": "https://gitlab.com/Android-Dumps/nokia/APO_sprout/-/tree/d347532b1836775dbdb392f1504338452053c2c6"
+    },
+    {
+      "item_id": "nokia/APO_sprout@qssi-user-13-TKQ1.220807.001-00WW_2_260-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.220807.001-00WW_2_260-release-keys",
+        "commit": "c1376ac4bed10f25440cdd6f23ee48978ab8a73f",
+        "committed_date": "2023-04-20T18:34:28.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-05-14T06:20:29.321Z",
+        "namespace_hint": "nokia",
+        "project_hint": "APO_sprout",
+        "project_id": 45170257,
+        "project_path": "nokia/APO_sprout"
+      },
+      "revision": "c1376ac4bed10f25440cdd6f23ee48978ab8a73f",
+      "url": "https://gitlab.com/Android-Dumps/nokia/APO_sprout/-/tree/c1376ac4bed10f25440cdd6f23ee48978ab8a73f"
+    },
+    {
+      "item_id": "nokia/APO_sprout@qssi-user-13-TKQ1.220807.001-00WW_2_290-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.220807.001-00WW_2_290-release-keys",
+        "commit": "140fdbbd98c4aec6a9253475842044b9362fca45",
+        "committed_date": "2023-05-14T11:42:55.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-05-14T06:20:29.321Z",
+        "namespace_hint": "nokia",
+        "project_hint": "APO_sprout",
+        "project_id": 45170257,
+        "project_path": "nokia/APO_sprout"
+      },
+      "revision": "140fdbbd98c4aec6a9253475842044b9362fca45",
+      "url": "https://gitlab.com/Android-Dumps/nokia/APO_sprout/-/tree/140fdbbd98c4aec6a9253475842044b9362fca45"
+    },
+    {
+      "item_id": "nokia/BGT_sprout@groot-user-12-SKQ1.210821.001-00WW_3_490-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "groot-user-12-SKQ1.210821.001-00WW_3_490-release-keys",
+        "commit": "332dc363dcf77459271808e2b572fd2479ad2014",
+        "committed_date": "2023-04-18T19:46:45.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-18T14:16:43.119Z",
+        "namespace_hint": "nokia",
+        "project_hint": "BGT_sprout",
+        "project_id": 45277637,
+        "project_path": "nokia/BGT_sprout"
+      },
+      "revision": "332dc363dcf77459271808e2b572fd2479ad2014",
+      "url": "https://gitlab.com/Android-Dumps/nokia/BGT_sprout/-/tree/332dc363dcf77459271808e2b572fd2479ad2014"
+    },
+    {
+      "item_id": "nokia/CAP_sprout@trinket-user-12-SKQ1.211230.001-00WW_3_490-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "trinket-user-12-SKQ1.211230.001-00WW_3_490-release-keys",
+        "commit": "d828ade172e62e8eec41c7af8f290cd9d87737f7",
+        "committed_date": "2023-06-01T08:45:27.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-06-01T03:15:25.996Z",
+        "namespace_hint": "nokia",
+        "project_hint": "CAP_sprout",
+        "project_id": 46487626,
+        "project_path": "nokia/CAP_sprout"
+      },
+      "revision": "d828ade172e62e8eec41c7af8f290cd9d87737f7",
+      "url": "https://gitlab.com/Android-Dumps/nokia/CAP_sprout/-/tree/d828ade172e62e8eec41c7af8f290cd9d87737f7"
+    },
+    {
+      "item_id": "nokia/DDV_sprout@m690-user-11-RKQ1.210607.001-00WW_3_490-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "m690-user-11-RKQ1.210607.001-00WW_3_490-release-keys",
+        "commit": "3eaf6a5b54657b12ef1f84483f65a87639faddd3",
+        "committed_date": "2022-03-14T22:35:09.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-06-03T06:21:24.227Z",
+        "namespace_hint": "nokia",
+        "project_hint": "DDV_sprout",
+        "project_id": 34480889,
+        "project_path": "nokia/DDV_sprout"
+      },
+      "revision": "3eaf6a5b54657b12ef1f84483f65a87639faddd3",
+      "url": "https://gitlab.com/Android-Dumps/nokia/DDV_sprout/-/tree/3eaf6a5b54657b12ef1f84483f65a87639faddd3"
+    },
+    {
+      "item_id": "nokia/DDV_sprout@m690-user-11-RKQ1.210607.001-00WW_3_690-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "m690-user-11-RKQ1.210607.001-00WW_3_690-release-keys",
+        "commit": "f7c1bb2a4a7d2078462dd355c305392b70e0da50",
+        "committed_date": "2022-04-23T22:59:32.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-06-03T06:21:24.227Z",
+        "namespace_hint": "nokia",
+        "project_hint": "DDV_sprout",
+        "project_id": 34480889,
+        "project_path": "nokia/DDV_sprout"
+      },
+      "revision": "f7c1bb2a4a7d2078462dd355c305392b70e0da50",
+      "url": "https://gitlab.com/Android-Dumps/nokia/DDV_sprout/-/tree/f7c1bb2a4a7d2078462dd355c305392b70e0da50"
+    },
+    {
+      "item_id": "nokia/DDV_sprout@m690-user-11-RKQ1.210607.001-00WW_3_690_SP07-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "m690-user-11-RKQ1.210607.001-00WW_3_690_SP07-release-keys",
+        "commit": "9bda2f255b18eebd0c614a10570988c3f60958b2",
+        "committed_date": "2023-06-03T11:46:34.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-06-03T06:21:24.227Z",
+        "namespace_hint": "nokia",
+        "project_hint": "DDV_sprout",
+        "project_id": 34480889,
+        "project_path": "nokia/DDV_sprout"
+      },
+      "revision": "9bda2f255b18eebd0c614a10570988c3f60958b2",
+      "url": "https://gitlab.com/Android-Dumps/nokia/DDV_sprout/-/tree/9bda2f255b18eebd0c614a10570988c3f60958b2"
+    },
+    {
+      "item_id": "nokia/DRD_sprout@qssi-user-12-SKQ1.220119.001-00WW_3_460-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220119.001-00WW_3_460-release-keys",
+        "commit": "d0157b88093b96e0f480dadc173fcbeea3ccaf69",
+        "committed_date": "2023-06-02T19:28:45.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-06-02T13:58:44.036Z",
+        "namespace_hint": "nokia",
+        "project_hint": "DRD_sprout",
+        "project_id": 46538770,
+        "project_path": "nokia/DRD_sprout"
+      },
+      "revision": "d0157b88093b96e0f480dadc173fcbeea3ccaf69",
+      "url": "https://gitlab.com/Android-Dumps/nokia/DRD_sprout/-/tree/d0157b88093b96e0f480dadc173fcbeea3ccaf69"
+    },
+    {
+      "item_id": "nokia/DRS_sprout@qssi-user-12-SKQ1.220119.001-00WW_3_500-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220119.001-00WW_3_500-release-keys",
+        "commit": "1f3adbff1e95b70879b0a538484a39d028e1d0bc",
+        "committed_date": "2023-06-02T19:28:48.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-06-02T13:58:46.867Z",
+        "namespace_hint": "nokia",
+        "project_hint": "DRS_sprout",
+        "project_id": 46538772,
+        "project_path": "nokia/DRS_sprout"
+      },
+      "revision": "1f3adbff1e95b70879b0a538484a39d028e1d0bc",
+      "url": "https://gitlab.com/Android-Dumps/nokia/DRS_sprout/-/tree/1f3adbff1e95b70879b0a538484a39d028e1d0bc"
+    },
+    {
+      "item_id": "nokia/DRX@T89572AA2-user-11-RKQ1.200928.002-00WW_2_370-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "T89572AA2-user-11-RKQ1.200928.002-00WW_2_370-release-keys",
+        "commit": "e2d2de98f5bc4541296a6c334be9aee8c0c981ee",
+        "committed_date": "2023-06-01T08:42:41.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-06-01T03:12:38.687Z",
+        "namespace_hint": "nokia",
+        "project_hint": "DRX",
+        "project_id": 46487592,
+        "project_path": "nokia/DRX"
+      },
+      "revision": "e2d2de98f5bc4541296a6c334be9aee8c0c981ee",
+      "url": "https://gitlab.com/Android-Dumps/nokia/DRX/-/tree/e2d2de98f5bc4541296a6c334be9aee8c0c981ee"
+    },
+    {
+      "item_id": "nokia/FCN_sprout@qssi-user-12-SKQ1.220201.001-00WW_1_310-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220201.001-00WW_1_310-release-keys",
+        "commit": "430c534f6d8626f44acddc9c35b33d302cbe88bb",
+        "committed_date": "2023-04-14T15:48:08.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-04-20T13:16:16.016Z",
+        "namespace_hint": "nokia",
+        "project_hint": "FCN_sprout",
+        "project_id": 45170266,
+        "project_path": "nokia/FCN_sprout"
+      },
+      "revision": "430c534f6d8626f44acddc9c35b33d302cbe88bb",
+      "url": "https://gitlab.com/Android-Dumps/nokia/FCN_sprout/-/tree/430c534f6d8626f44acddc9c35b33d302cbe88bb"
+    },
+    {
+      "item_id": "nokia/FCN_sprout@qssi-user-13-TKQ1.220807.001-00WW_2_220-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.220807.001-00WW_2_220-release-keys",
+        "commit": "41e19808d8ae32fdaee380eb040a39d6f9814c91",
+        "committed_date": "2023-04-20T18:38:26.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-20T13:16:16.016Z",
+        "namespace_hint": "nokia",
+        "project_hint": "FCN_sprout",
+        "project_id": 45170266,
+        "project_path": "nokia/FCN_sprout"
+      },
+      "revision": "41e19808d8ae32fdaee380eb040a39d6f9814c91",
+      "url": "https://gitlab.com/Android-Dumps/nokia/FCN_sprout/-/tree/41e19808d8ae32fdaee380eb040a39d6f9814c91"
+    },
+    {
+      "item_id": "nokia/HPE@T19661AA1_Natv-user-11-RP1A.201005.001-16038-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "T19661AA1_Natv-user-11-RP1A.201005.001-16038-release-keys",
+        "commit": "a85298126ca8e813d298b9f188ef52d5807d7f9b",
+        "committed_date": "2023-05-31T10:26:05.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-05-31T04:56:02.611Z",
+        "namespace_hint": "nokia",
+        "project_hint": "HPE",
+        "project_id": 46457222,
+        "project_path": "nokia/HPE"
+      },
+      "revision": "a85298126ca8e813d298b9f188ef52d5807d7f9b",
+      "url": "https://gitlab.com/Android-Dumps/nokia/HPE/-/tree/a85298126ca8e813d298b9f188ef52d5807d7f9b"
+    },
+    {
+      "item_id": "nokia/IRM_sprout@full_T99621AA3-user-11-RP1A.200720.011-mp1V44-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_T99621AA3-user-11-RP1A.200720.011-mp1V44-release-keys",
+        "commit": "a6a14205f050b983d4d40de7bc76cb37f5c065ed",
+        "committed_date": "2023-06-03T11:44:40.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-06-03T06:14:38.444Z",
+        "namespace_hint": "nokia",
+        "project_hint": "IRM_sprout",
+        "project_id": 46552955,
+        "project_path": "nokia/IRM_sprout"
+      },
+      "revision": "a6a14205f050b983d4d40de7bc76cb37f5c065ed",
+      "url": "https://gitlab.com/Android-Dumps/nokia/IRM_sprout/-/tree/a6a14205f050b983d4d40de7bc76cb37f5c065ed"
+    },
+    {
+      "item_id": "nokia/MGKA_sprout@Magik_Natv-user-13-TP1A.220624.014-V2.420_B01-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Magik_Natv-user-13-TP1A.220624.014-V2.420_B01-release-keys",
+        "commit": "280d80d158538bfee19cb4f824b74777393b79cc",
+        "committed_date": "2023-05-03T07:53:39.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-05-03T02:23:37.876Z",
+        "namespace_hint": "nokia",
+        "project_hint": "MGKA_sprout",
+        "project_id": 45672135,
+        "project_path": "nokia/MGKA_sprout"
+      },
+      "revision": "280d80d158538bfee19cb4f824b74777393b79cc",
+      "url": "https://gitlab.com/Android-Dumps/nokia/MGKA_sprout/-/tree/280d80d158538bfee19cb4f824b74777393b79cc"
+    },
+    {
+      "item_id": "nokia/PGN@ums9230_4h10_Natv-user-13-TP1A.220624.014-18606-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ums9230_4h10_Natv-user-13-TP1A.220624.014-18606-release-keys",
+        "commit": "3486e1df2fa198cd28763788e8cd8a871cb67a2e",
+        "committed_date": "2023-06-02T18:48:26.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-06-02T13:18:24.593Z",
+        "namespace_hint": "nokia",
+        "project_hint": "PGN",
+        "project_id": 46537572,
+        "project_path": "nokia/PGN"
+      },
+      "revision": "3486e1df2fa198cd28763788e8cd8a871cb67a2e",
+      "url": "https://gitlab.com/Android-Dumps/nokia/PGN/-/tree/3486e1df2fa198cd28763788e8cd8a871cb67a2e"
+    },
+    {
+      "item_id": "nokia/PHR_sprout@qssi-user-13-TKQ1.220807.001-00WW_3_200-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.220807.001-00WW_3_200-release-keys",
+        "commit": "5d350b0f8c5ed2e9ff4348e3183a6b476504f9ac",
+        "committed_date": "2023-04-18T18:41:13.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-05-31T05:30:00.825Z",
+        "namespace_hint": "nokia",
+        "project_hint": "PHR_sprout",
+        "project_id": 45274806,
+        "project_path": "nokia/PHR_sprout"
+      },
+      "revision": "5d350b0f8c5ed2e9ff4348e3183a6b476504f9ac",
+      "url": "https://gitlab.com/Android-Dumps/nokia/PHR_sprout/-/tree/5d350b0f8c5ed2e9ff4348e3183a6b476504f9ac"
+    },
+    {
+      "item_id": "nokia/PHR_sprout@qssi-user-13-TKQ1.220807.001-00WW_3_310-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.220807.001-00WW_3_310-release-keys",
+        "commit": "3537cf6d50c38a62a2859470445b7a61b3a28a1b",
+        "committed_date": "2023-05-31T10:53:02.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-05-31T05:30:00.825Z",
+        "namespace_hint": "nokia",
+        "project_hint": "PHR_sprout",
+        "project_id": 45274806,
+        "project_path": "nokia/PHR_sprout"
+      },
+      "revision": "3537cf6d50c38a62a2859470445b7a61b3a28a1b",
+      "url": "https://gitlab.com/Android-Dumps/nokia/PHR_sprout/-/tree/3537cf6d50c38a62a2859470445b7a61b3a28a1b"
+    },
+    {
+      "item_id": "nokia/QKS_sprout@qssi-user-13-TKQ1.220807.001-00WW_3_470-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.220807.001-00WW_3_470-release-keys",
+        "commit": "9b245309475a0b1ee0f911ee4a4b7528331f5212",
+        "committed_date": "2023-04-18T18:47:00.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-04-28T17:30:50.372Z",
+        "namespace_hint": "nokia",
+        "project_hint": "QKS_sprout",
+        "project_id": 45274973,
+        "project_path": "nokia/QKS_sprout"
+      },
+      "revision": "9b245309475a0b1ee0f911ee4a4b7528331f5212",
+      "url": "https://gitlab.com/Android-Dumps/nokia/QKS_sprout/-/tree/9b245309475a0b1ee0f911ee4a4b7528331f5212"
+    },
+    {
+      "item_id": "nokia/QKS_sprout@qssi-user-13-TKQ1.220807.001-00WW_3_490-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.220807.001-00WW_3_490-release-keys",
+        "commit": "ae9f242d2409256a9cfa4d6f320756e977d6c9cc",
+        "committed_date": "2023-04-28T22:52:48.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-28T17:30:50.372Z",
+        "namespace_hint": "nokia",
+        "project_hint": "QKS_sprout",
+        "project_id": 45274973,
+        "project_path": "nokia/QKS_sprout"
+      },
+      "revision": "ae9f242d2409256a9cfa4d6f320756e977d6c9cc",
+      "url": "https://gitlab.com/Android-Dumps/nokia/QKS_sprout/-/tree/ae9f242d2409256a9cfa4d6f320756e977d6c9cc"
+    },
+    {
+      "item_id": "nokia/RDD@Riddler_user_12_SP1A.210812.016_00WW_2_360_release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Riddler_user_12_SP1A.210812.016_00WW_2_360_release-keys",
+        "commit": "75328094f7e5c471687065d22316d0bd58b30bfd",
+        "committed_date": "2023-05-31T11:21:38.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-06-04T12:32:42.838Z",
+        "namespace_hint": "nokia",
+        "project_hint": "RDD",
+        "project_id": 46458337,
+        "project_path": "nokia/RDD"
+      },
+      "revision": "75328094f7e5c471687065d22316d0bd58b30bfd",
+      "url": "https://gitlab.com/Android-Dumps/nokia/RDD/-/tree/75328094f7e5c471687065d22316d0bd58b30bfd"
+    },
+    {
+      "item_id": "nokia/RDD@Riddler_user_12_SP1A.210812.016_00WW_2_380_release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Riddler_user_12_SP1A.210812.016_00WW_2_380_release-keys",
+        "commit": "ff5be6519adf4133e640e1413cc3e52bd91b26c6",
+        "committed_date": "2023-06-04T17:56:38.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-06-04T12:32:42.838Z",
+        "namespace_hint": "nokia",
+        "project_hint": "RDD",
+        "project_id": 46458337,
+        "project_path": "nokia/RDD"
+      },
+      "revision": "ff5be6519adf4133e640e1413cc3e52bd91b26c6",
+      "url": "https://gitlab.com/Android-Dumps/nokia/RDD/-/tree/ff5be6519adf4133e640e1413cc3e52bd91b26c6"
+    },
+    {
+      "item_id": "nokia/RNN_sprout@full_T99653AA1-user-11-RP1A.200720.011-mp1V44-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_T99653AA1-user-11-RP1A.200720.011-mp1V44-release-keys",
+        "commit": "2861d3f0fb373c26dbf70d3697f3f9efc2b2623a",
+        "committed_date": "2024-01-19T16:17:56.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-01-19T16:10:39.716Z",
+        "namespace_hint": "nokia",
+        "project_hint": "RNN_sprout",
+        "project_id": 45243287,
+        "project_path": "nokia/RNN_sprout"
+      },
+      "revision": "2861d3f0fb373c26dbf70d3697f3f9efc2b2623a",
+      "url": "https://gitlab.com/Android-Dumps/nokia/RNN_sprout/-/tree/2861d3f0fb373c26dbf70d3697f3f9efc2b2623a"
+    },
+    {
+      "item_id": "nokia/RNN_sprout@sys_mssi_rnn-user-13-TP1A.220624.014-eng.jenkin.20230322.145925-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_rnn-user-13-TP1A.220624.014-eng.jenkin.20230322.145925-release-keys",
+        "commit": "d9f3f68c09d4bc5ddcde091cca3a34608fb93c31",
+        "committed_date": "2023-04-17T20:59:06.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2024-01-19T16:10:39.716Z",
+        "namespace_hint": "nokia",
+        "project_hint": "RNN_sprout",
+        "project_id": 45243287,
+        "project_path": "nokia/RNN_sprout"
+      },
+      "revision": "d9f3f68c09d4bc5ddcde091cca3a34608fb93c31",
+      "url": "https://gitlab.com/Android-Dumps/nokia/RNN_sprout/-/tree/d9f3f68c09d4bc5ddcde091cca3a34608fb93c31"
+    },
+    {
+      "item_id": "nokia/RNN_sprout@sys_mssi_rnn-user-13-TP1A.220624.014-eng.jenkin.20230508.111156-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_rnn-user-13-TP1A.220624.014-eng.jenkin.20230508.111156-release-keys",
+        "commit": "74e49925433bb83d563ed768ef42160eeebf0d69",
+        "committed_date": "2023-06-05T20:10:07.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2024-01-19T16:10:39.716Z",
+        "namespace_hint": "nokia",
+        "project_hint": "RNN_sprout",
+        "project_id": 45243287,
+        "project_path": "nokia/RNN_sprout"
+      },
+      "revision": "74e49925433bb83d563ed768ef42160eeebf0d69",
+      "url": "https://gitlab.com/Android-Dumps/nokia/RNN_sprout/-/tree/74e49925433bb83d563ed768ef42160eeebf0d69"
+    },
+    {
+      "item_id": "nokia/ROGA_sprout@sys_mssi_rog-user-13-TP1A.220624.014-eng.jenkin.20230322.160532-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_rog-user-13-TP1A.220624.014-eng.jenkin.20230322.160532-release-keys",
+        "commit": "fe0ffbca3a0180b0ac001e68eec2d9a8827d3108",
+        "committed_date": "2023-04-17T21:09:33.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-17T15:39:32.287Z",
+        "namespace_hint": "nokia",
+        "project_hint": "ROGA_sprout",
+        "project_id": 45243505,
+        "project_path": "nokia/ROGA_sprout"
+      },
+      "revision": "fe0ffbca3a0180b0ac001e68eec2d9a8827d3108",
+      "url": "https://gitlab.com/Android-Dumps/nokia/ROGA_sprout/-/tree/fe0ffbca3a0180b0ac001e68eec2d9a8827d3108"
+    },
+    {
+      "item_id": "nokia/SCP_sprout@ShadowcatPlus_Natv-user-13-TP1A.220624.014-V3.430_B01-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ShadowcatPlus_Natv-user-13-TP1A.220624.014-V3.430_B01-release-keys",
+        "commit": "c01b99d5d4db007fd9289acce5b88900fd46cfd0",
+        "committed_date": "2023-04-28T22:53:39.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-28T17:23:37.481Z",
+        "namespace_hint": "nokia",
+        "project_hint": "SCP_sprout",
+        "project_id": 45576378,
+        "project_path": "nokia/SCP_sprout"
+      },
+      "revision": "c01b99d5d4db007fd9289acce5b88900fd46cfd0",
+      "url": "https://gitlab.com/Android-Dumps/nokia/SCP_sprout/-/tree/c01b99d5d4db007fd9289acce5b88900fd46cfd0"
+    },
+    {
+      "item_id": "nokia/SCT_sprout@Shadowcat_Natv-user-13-TP1A.220624.014-V3.430_B01-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "Shadowcat_Natv-user-13-TP1A.220624.014-V3.430_B01-release-keys",
+        "commit": "52b6949c64732bb698e73d794c05fe121bc90001",
+        "committed_date": "2023-04-28T22:54:21.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-28T17:24:19.886Z",
+        "namespace_hint": "nokia",
+        "project_hint": "SCT_sprout",
+        "project_id": 45576391,
+        "project_path": "nokia/SCT_sprout"
+      },
+      "revision": "52b6949c64732bb698e73d794c05fe121bc90001",
+      "url": "https://gitlab.com/Android-Dumps/nokia/SCT_sprout/-/tree/52b6949c64732bb698e73d794c05fe121bc90001"
+    },
+    {
+      "item_id": "nokia/SCW_sprout@qssi-user-13-TKQ1.220807.001-00WW_3_370-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.220807.001-00WW_3_370-release-keys",
+        "commit": "7374c162dde458fdce907a989ca35ea14fe9d746",
+        "committed_date": "2023-04-18T18:51:43.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-04-28T17:51:30.617Z",
+        "namespace_hint": "nokia",
+        "project_hint": "SCW_sprout",
+        "project_id": 45275119,
+        "project_path": "nokia/SCW_sprout"
+      },
+      "revision": "7374c162dde458fdce907a989ca35ea14fe9d746",
+      "url": "https://gitlab.com/Android-Dumps/nokia/SCW_sprout/-/tree/7374c162dde458fdce907a989ca35ea14fe9d746"
+    },
+    {
+      "item_id": "nokia/SCW_sprout@qssi-user-13-TKQ1.220807.001-00WW_3_380-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.220807.001-00WW_3_380-release-keys",
+        "commit": "1241508285a3f86ebf51b8f7ccbf39258cf1147f",
+        "committed_date": "2023-04-28T23:13:29.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-28T17:51:30.617Z",
+        "namespace_hint": "nokia",
+        "project_hint": "SCW_sprout",
+        "project_id": 45275119,
+        "project_path": "nokia/SCW_sprout"
+      },
+      "revision": "1241508285a3f86ebf51b8f7ccbf39258cf1147f",
+      "url": "https://gitlab.com/Android-Dumps/nokia/SCW_sprout/-/tree/1241508285a3f86ebf51b8f7ccbf39258cf1147f"
+    },
+    {
+      "item_id": "nokia/SFI@sunfire_Natv-user-12-SP1A.210812.016-17132-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sunfire_Natv-user-12-SP1A.210812.016-17132-release-keys",
+        "commit": "80bf3c2db70175e5f74d59089bbe0ca2239173a1",
+        "committed_date": "2023-05-22T19:32:48.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-05-22T14:02:46.508Z",
+        "namespace_hint": "nokia",
+        "project_hint": "SFI",
+        "project_id": 46223699,
+        "project_path": "nokia/SFI"
+      },
+      "revision": "80bf3c2db70175e5f74d59089bbe0ca2239173a1",
+      "url": "https://gitlab.com/Android-Dumps/nokia/SFI/-/tree/80bf3c2db70175e5f74d59089bbe0ca2239173a1"
+    },
+    {
+      "item_id": "nokia/SLD_sprout@m690-user-11-RKQ1.210607.001-00WW_3_490-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "m690-user-11-RKQ1.210607.001-00WW_3_490-release-keys",
+        "commit": "afc57204b5e536d4acdd0a9037352987bce2ebc1",
+        "committed_date": "2022-03-19T12:23:41.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-06-03T06:21:17.973Z",
+        "namespace_hint": "nokia",
+        "project_hint": "SLD_sprout",
+        "project_id": 34622338,
+        "project_path": "nokia/SLD_sprout"
+      },
+      "revision": "afc57204b5e536d4acdd0a9037352987bce2ebc1",
+      "url": "https://gitlab.com/Android-Dumps/nokia/SLD_sprout/-/tree/afc57204b5e536d4acdd0a9037352987bce2ebc1"
+    },
+    {
+      "item_id": "nokia/SLD_sprout@m690-user-11-RKQ1.210607.001-00WW_3_710_SP05-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "m690-user-11-RKQ1.210607.001-00WW_3_710_SP05-release-keys",
+        "commit": "10553e3e679cfc06dc0e72681a7891a2dcd2ae90",
+        "committed_date": "2023-06-03T11:46:34.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-06-03T06:21:17.973Z",
+        "namespace_hint": "nokia",
+        "project_hint": "SLD_sprout",
+        "project_id": 34622338,
+        "project_path": "nokia/SLD_sprout"
+      },
+      "revision": "10553e3e679cfc06dc0e72681a7891a2dcd2ae90",
+      "url": "https://gitlab.com/Android-Dumps/nokia/SLD_sprout/-/tree/10553e3e679cfc06dc0e72681a7891a2dcd2ae90"
+    },
+    {
+      "item_id": "nokia/STM@qssi-user-12-SKQ1.220201.001-04US_1_22D-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220201.001-04US_1_22D-release-keys",
+        "commit": "fef79a7e4fad85128d8371c395d2b72f95663287",
+        "committed_date": "2023-04-13T16:22:04.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-13T10:52:02.698Z",
+        "namespace_hint": "nokia",
+        "project_hint": "STM",
+        "project_id": 45137444,
+        "project_path": "nokia/STM"
+      },
+      "revision": "fef79a7e4fad85128d8371c395d2b72f95663287",
+      "url": "https://gitlab.com/Android-Dumps/nokia/STM/-/tree/fef79a7e4fad85128d8371c395d2b72f95663287"
+    },
+    {
+      "item_id": "nokia/TTG_sprout@qssi-user-13-TKQ1.220807.001-00WW_3_280-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.220807.001-00WW_3_280-release-keys",
+        "commit": "87ab878b0e2abbf209f572cefc7873c3bbdfb2d8",
+        "committed_date": "2023-04-18T19:00:33.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-05-31T05:27:28.316Z",
+        "namespace_hint": "nokia",
+        "project_hint": "TTG_sprout",
+        "project_id": 45275307,
+        "project_path": "nokia/TTG_sprout"
+      },
+      "revision": "87ab878b0e2abbf209f572cefc7873c3bbdfb2d8",
+      "url": "https://gitlab.com/Android-Dumps/nokia/TTG_sprout/-/tree/87ab878b0e2abbf209f572cefc7873c3bbdfb2d8"
+    },
+    {
+      "item_id": "nokia/TTG_sprout@qssi-user-13-TKQ1.220807.001-00WW_3_340-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TKQ1.220807.001-00WW_3_340-release-keys",
+        "commit": "70c89181ff921b9b58b3cb68204b064253905710",
+        "committed_date": "2023-05-31T10:50:21.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-05-31T05:27:28.316Z",
+        "namespace_hint": "nokia",
+        "project_hint": "TTG_sprout",
+        "project_id": 45275307,
+        "project_path": "nokia/TTG_sprout"
+      },
+      "revision": "70c89181ff921b9b58b3cb68204b064253905710",
+      "url": "https://gitlab.com/Android-Dumps/nokia/TTG_sprout/-/tree/70c89181ff921b9b58b3cb68204b064253905710"
+    },
+    {
+      "item_id": "nokia/VSI@T19681AA1_Natv-user-12-SP1A.210812.016-00WW_1_180-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "T19681AA1_Natv-user-12-SP1A.210812.016-00WW_1_180-release-keys",
+        "commit": "81690e1cd1171819a5e7c9e727cec15ca0d133c1",
+        "committed_date": "2023-04-13T21:34:55.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-13T16:04:53.762Z",
+        "namespace_hint": "nokia",
+        "project_hint": "VSI",
+        "project_id": 45148572,
+        "project_path": "nokia/VSI"
+      },
+      "revision": "81690e1cd1171819a5e7c9e727cec15ca0d133c1",
+      "url": "https://gitlab.com/Android-Dumps/nokia/VSI/-/tree/81690e1cd1171819a5e7c9e727cec15ca0d133c1"
+    },
+    {
+      "item_id": "nokia/WVR_sprout@full_T99651-user-12-SP1A.210812.016-00WW_3_210-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_T99651-user-12-SP1A.210812.016-00WW_3_210-release-keys",
+        "commit": "d968c15e389a83a1489d247e1c56c2642ec3a9f5",
+        "committed_date": "2022-05-14T21:42:38.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-06-02T14:00:38.512Z",
+        "namespace_hint": "nokia",
+        "project_hint": "WVR_sprout",
+        "project_id": 36167454,
+        "project_path": "nokia/WVR_sprout"
+      },
+      "revision": "d968c15e389a83a1489d247e1c56c2642ec3a9f5",
+      "url": "https://gitlab.com/Android-Dumps/nokia/WVR_sprout/-/tree/d968c15e389a83a1489d247e1c56c2642ec3a9f5"
+    },
+    {
+      "item_id": "nokia/WVR_sprout@full_T99651-user-12-SP1A.210812.016-00WW_3_470-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_T99651-user-12-SP1A.210812.016-00WW_3_470-release-keys",
+        "commit": "5c27934bf530d748a9630511dd996cd6e257f84e",
+        "committed_date": "2023-06-02T19:26:39.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-06-02T14:00:38.512Z",
+        "namespace_hint": "nokia",
+        "project_hint": "WVR_sprout",
+        "project_id": 36167454,
+        "project_path": "nokia/WVR_sprout"
+      },
+      "revision": "5c27934bf530d748a9630511dd996cd6e257f84e",
+      "url": "https://gitlab.com/Android-Dumps/nokia/WVR_sprout/-/tree/5c27934bf530d748a9630511dd996cd6e257f84e"
+    }
+  ],
+  "provider_id": "android_dumps_gitlab",
+  "schema_version": "1.0",
+  "status": "ok"
+}

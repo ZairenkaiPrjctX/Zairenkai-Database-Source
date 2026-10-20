@@ -1,0 +1,20 @@
+{
+  "checked_at": "2026-10-19T03:41:19Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "_project/80278706",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": "2026-03-15T09:16:05.270Z",
+        "project_id": 80278706,
+        "project_path": "oplus/ossi"
+      },
+      "revision": "2026-03-15T09:16:05.270Z",
+      "url": "https://gitlab.com/Android-Dumps/oplus/ossi"
+    }
+  ],
+  "provider_id": "android_dumps_gitlab",
+  "schema_version": "1.0",
+  "status": "ok"
+}
