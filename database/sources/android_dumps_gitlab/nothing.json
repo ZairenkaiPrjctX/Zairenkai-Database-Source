@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-10-19T03:41:19Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "nothing/Frogger@qssi_64-user-16-BQ2A.250913.001-BP2A.250605.031.A3-2603091830-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-16-BQ2A.250913.001-BP2A.250605.031.A3-2603091830-release-keys",
+        "commit": "05c2691e9f148f6fa2aff212fb5309fe388dba07",
+        "committed_date": "2026-09-14T06:30:27.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-09-14T06:17:06.717Z",
+        "namespace_hint": "nothing",
+        "project_hint": "Frogger",
+        "project_id": 86437901,
+        "project_path": "nothing/Frogger"
+      },
+      "revision": "05c2691e9f148f6fa2aff212fb5309fe388dba07",
+      "url": "https://gitlab.com/Android-Dumps/nothing/Frogger/-/tree/05c2691e9f148f6fa2aff212fb5309fe388dba07"
+    },
+    {
+      "item_id": "nothing/Galaga@sys_mssi_64_64only_ww_armv82-user-16-BP2A.250605.031.A3-2512182326-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_64only_ww_armv82-user-16-BP2A.250605.031.A3-2512182326-release-keys",
+        "commit": "6d042637185e6bfc2a24e834541a72fa9c99904d",
+        "committed_date": "2026-03-20T07:21:05.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-03-20T07:07:13.683Z",
+        "namespace_hint": "nothing",
+        "project_hint": "Galaga",
+        "project_id": 80434661,
+        "project_path": "nothing/Galaga"
+      },
+      "revision": "6d042637185e6bfc2a24e834541a72fa9c99904d",
+      "url": "https://gitlab.com/Android-Dumps/nothing/Galaga/-/tree/6d042637185e6bfc2a24e834541a72fa9c99904d"
+    }
+  ],
+  "provider_id": "android_dumps_gitlab",
+  "schema_version": "1.0",
+  "status": "ok"
+}

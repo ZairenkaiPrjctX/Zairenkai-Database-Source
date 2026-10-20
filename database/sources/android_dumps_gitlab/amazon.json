@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T03:41:19Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "amazon/karat@karat-user-11-RS8182.3811N-0032548774656-amz-p,release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "karat-user-11-RS8182.3811N-0032548774656-amz-p,release-keys",
+        "commit": "c89f2f271fe1e2f0ee7d67f5c79cf137db1ae580",
+        "committed_date": "2026-09-14T03:24:36.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-09-14T03:21:01.382Z",
+        "namespace_hint": "amazon",
+        "project_hint": "karat",
+        "project_id": 86433410,
+        "project_path": "amazon/karat"
+      },
+      "revision": "c89f2f271fe1e2f0ee7d67f5c79cf137db1ae580",
+      "url": "https://gitlab.com/Android-Dumps/amazon/karat/-/tree/c89f2f271fe1e2f0ee7d67f5c79cf137db1ae580"
+    }
+  ],
+  "provider_id": "android_dumps_gitlab",
+  "schema_version": "1.0",
+  "status": "ok"
+}

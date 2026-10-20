@@ -1,0 +1,502 @@
+{
+  "checked_at": "2026-10-19T03:41:19Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "poco/alioth@22.6.22",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "22.6.22",
+        "commit": "391bbc47c3ea9785ca3586dcaa47bbc3d21a1d2b",
+        "committed_date": "2022-06-28T21:14:25.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-06-28T15:52:18.022Z",
+        "namespace_hint": "poco",
+        "project_hint": "alioth",
+        "project_id": 35837422,
+        "project_path": "poco/alioth"
+      },
+      "revision": "391bbc47c3ea9785ca3586dcaa47bbc3d21a1d2b",
+      "url": "https://gitlab.com/Android-Dumps/poco/alioth/-/tree/391bbc47c3ea9785ca3586dcaa47bbc3d21a1d2b"
+    },
+    {
+      "item_id": "poco/alioth@corvus_alioth-userdebug-12-SP2A.220405.004-1649338370-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "corvus_alioth-userdebug-12-SP2A.220405.004-1649338370-release-keys",
+        "commit": "0f53ba63328788fb495c6ffc922ebb9aaf717ab0",
+        "committed_date": "2022-05-03T08:39:43.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-06-28T15:52:18.022Z",
+        "namespace_hint": "poco",
+        "project_hint": "alioth",
+        "project_id": 35837422,
+        "project_path": "poco/alioth"
+      },
+      "revision": "0f53ba63328788fb495c6ffc922ebb9aaf717ab0",
+      "url": "https://gitlab.com/Android-Dumps/poco/alioth/-/tree/0f53ba63328788fb495c6ffc922ebb9aaf717ab0"
+    },
+    {
+      "item_id": "poco/angelicain@angelicain-user-11-RP1A.200720.011-V12.5.3.0.RCRINRF-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "angelicain-user-11-RP1A.200720.011-V12.5.3.0.RCRINRF-release-keys",
+        "commit": "03bebabb174759f42a5ac7f88852583aeaf1e680",
+        "committed_date": "2023-05-31T07:13:48.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2024-02-15T13:03:21.484Z",
+        "namespace_hint": "poco",
+        "project_hint": "angelicain",
+        "project_id": 46459953,
+        "project_path": "poco/angelicain"
+      },
+      "revision": "03bebabb174759f42a5ac7f88852583aeaf1e680",
+      "url": "https://gitlab.com/Android-Dumps/poco/angelicain/-/tree/03bebabb174759f42a5ac7f88852583aeaf1e680"
+    },
+    {
+      "item_id": "poco/angelicain@angelicain-user-11-RP1A.200720.011-V12.5.5.0.RCRINRF-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "angelicain-user-11-RP1A.200720.011-V12.5.5.0.RCRINRF-release-keys",
+        "commit": "f0ec23da555bf7775474db7deadeb15ced601b89",
+        "committed_date": "2024-02-15T13:14:46.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-02-15T13:03:21.484Z",
+        "namespace_hint": "poco",
+        "project_hint": "angelicain",
+        "project_id": 46459953,
+        "project_path": "poco/angelicain"
+      },
+      "revision": "f0ec23da555bf7775474db7deadeb15ced601b89",
+      "url": "https://gitlab.com/Android-Dumps/poco/angelicain/-/tree/f0ec23da555bf7775474db7deadeb15ced601b89"
+    },
+    {
+      "item_id": "poco/ares@missi-user-12-SP1A.210812.016-V13.0.1.0.SKJINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SP1A.210812.016-V13.0.1.0.SKJINXM-release-keys",
+        "commit": "8c18931751fea9bf8ea770e4ea72c30da0a9ab08",
+        "committed_date": "2022-04-08T17:16:35.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-04-08T11:46:33.947Z",
+        "namespace_hint": "poco",
+        "project_hint": "ares",
+        "project_id": 35203027,
+        "project_path": "poco/ares"
+      },
+      "revision": "8c18931751fea9bf8ea770e4ea72c30da0a9ab08",
+      "url": "https://gitlab.com/Android-Dumps/poco/ares/-/tree/8c18931751fea9bf8ea770e4ea72c30da0a9ab08"
+    },
+    {
+      "item_id": "poco/camellian@camellia-user-11-RP1A.200720.011-V12.5.5.0.RKSMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "camellia-user-11-RP1A.200720.011-V12.5.5.0.RKSMIXM-release-keys",
+        "commit": "32b16b4a80a1027d8ad0f7076d2f5383162e5ea2",
+        "committed_date": "2022-05-22T23:00:38.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-05-23T06:34:57.232Z",
+        "namespace_hint": "poco",
+        "project_hint": "camellian",
+        "project_id": 36388446,
+        "project_path": "poco/camellian"
+      },
+      "revision": "32b16b4a80a1027d8ad0f7076d2f5383162e5ea2",
+      "url": "https://gitlab.com/Android-Dumps/poco/camellian/-/tree/32b16b4a80a1027d8ad0f7076d2f5383162e5ea2"
+    },
+    {
+      "item_id": "poco/camellian@camellia-user-12-SP1A.210812.016-V13.0.2.0.SKSMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "camellia-user-12-SP1A.210812.016-V13.0.2.0.SKSMIXM-release-keys",
+        "commit": "4e7e34e50a316865bbd9f371b68bf89b8d59c247",
+        "committed_date": "2022-05-23T11:55:40.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-05-23T06:34:57.232Z",
+        "namespace_hint": "poco",
+        "project_hint": "camellian",
+        "project_id": 36388446,
+        "project_path": "poco/camellian"
+      },
+      "revision": "4e7e34e50a316865bbd9f371b68bf89b8d59c247",
+      "url": "https://gitlab.com/Android-Dumps/poco/camellian/-/tree/4e7e34e50a316865bbd9f371b68bf89b8d59c247"
+    },
+    {
+      "item_id": "poco/citrus@qssi-user-11-RKQ1.201004.002-V12.5.7.0.RJFMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201004.002-V12.5.7.0.RJFMIXM-release-keys",
+        "commit": "c7ea4c6ba4b2b576278a7ceb5ae01821cf8389ea",
+        "committed_date": "2022-05-20T20:10:09.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-04-07T20:32:42.633Z",
+        "namespace_hint": "poco",
+        "project_hint": "citrus",
+        "project_id": 36349230,
+        "project_path": "poco/citrus"
+      },
+      "revision": "c7ea4c6ba4b2b576278a7ceb5ae01821cf8389ea",
+      "url": "https://gitlab.com/Android-Dumps/poco/citrus/-/tree/c7ea4c6ba4b2b576278a7ceb5ae01821cf8389ea"
+    },
+    {
+      "item_id": "poco/citrus@qssi-user-11-RKQ1.201004.002-V12.5.7.0.RJFTRXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201004.002-V12.5.7.0.RJFTRXM-release-keys",
+        "commit": "6caa2ccbd26fdaafbcc686ca3c0829b345d37956",
+        "committed_date": "2022-06-02T19:00:23.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-04-07T20:32:42.633Z",
+        "namespace_hint": "poco",
+        "project_hint": "citrus",
+        "project_id": 36349230,
+        "project_path": "poco/citrus"
+      },
+      "revision": "6caa2ccbd26fdaafbcc686ca3c0829b345d37956",
+      "url": "https://gitlab.com/Android-Dumps/poco/citrus/-/tree/6caa2ccbd26fdaafbcc686ca3c0829b345d37956"
+    },
+    {
+      "item_id": "poco/citrus@qssi-user-12-SKQ1.211202.001-V14.0.2.0.SJFMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211202.001-V14.0.2.0.SJFMIXM-release-keys",
+        "commit": "9c02dc2a4bf2ef7fd954ecff64d03b9912560381",
+        "committed_date": "2023-04-08T01:52:13.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-07T20:32:42.633Z",
+        "namespace_hint": "poco",
+        "project_hint": "citrus",
+        "project_id": 36349230,
+        "project_path": "poco/citrus"
+      },
+      "revision": "9c02dc2a4bf2ef7fd954ecff64d03b9912560381",
+      "url": "https://gitlab.com/Android-Dumps/poco/citrus/-/tree/9c02dc2a4bf2ef7fd954ecff64d03b9912560381"
+    },
+    {
+      "item_id": "poco/duchamp@missi-user-16-BP2A.250605.031.A3-OS3.0.3.0.WNLEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-16-BP2A.250605.031.A3-OS3.0.3.0.WNLEUXM-release-keys",
+        "commit": "0b15ad3d1ffa830a499c38a298b61046b066b96f",
+        "committed_date": "2026-03-02T10:55:34.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-03-02T10:42:13.960Z",
+        "namespace_hint": "poco",
+        "project_hint": "duchamp",
+        "project_id": 79906423,
+        "project_path": "poco/duchamp"
+      },
+      "revision": "0b15ad3d1ffa830a499c38a298b61046b066b96f",
+      "url": "https://gitlab.com/Android-Dumps/poco/duchamp/-/tree/0b15ad3d1ffa830a499c38a298b61046b066b96f"
+    },
+    {
+      "item_id": "poco/eos@eos-user-11-RP1A.200720.011--release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "eos-user-11-RP1A.200720.011--release-keys",
+        "commit": "b30e845aa6b841be8a8a97b67c9ddc6af1fa3db1",
+        "committed_date": "2022-04-01T15:41:43.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-04-01T09:46:38.864Z",
+        "namespace_hint": "poco",
+        "project_hint": "eos",
+        "project_id": 34996187,
+        "project_path": "poco/eos"
+      },
+      "revision": "b30e845aa6b841be8a8a97b67c9ddc6af1fa3db1",
+      "url": "https://gitlab.com/Android-Dumps/poco/eos/-/tree/b30e845aa6b841be8a8a97b67c9ddc6af1fa3db1"
+    },
+    {
+      "item_id": "poco/evergreen@missi_phoneext4_eea-user-13-TP1A.220624.014-V816.0.2.0.TGBEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_eea-user-13-TP1A.220624.014-V816.0.2.0.TGBEUXM-release-keys",
+        "commit": "b40898d5e31a460ec24ecf5b7534889bbfbd70ed",
+        "committed_date": "2025-01-30T13:26:15.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2025-01-30T13:06:58.028Z",
+        "namespace_hint": "poco",
+        "project_hint": "evergreen",
+        "project_id": 51489289,
+        "project_path": "poco/evergreen"
+      },
+      "revision": "b40898d5e31a460ec24ecf5b7534889bbfbd70ed",
+      "url": "https://gitlab.com/Android-Dumps/poco/evergreen/-/tree/b40898d5e31a460ec24ecf5b7534889bbfbd70ed"
+    },
+    {
+      "item_id": "poco/fleur@fleur-user-11-RP1A.200720.011-V13.0.7.0.RKEMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "fleur-user-11-RP1A.200720.011-V13.0.7.0.RKEMIXM-release-keys",
+        "commit": "09a8a219e3c354bf5df2f9580716b68f9b513b10",
+        "committed_date": "2022-06-23T19:54:05.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-06-23T14:24:02.206Z",
+        "namespace_hint": "poco",
+        "project_hint": "fleur",
+        "project_id": 37288390,
+        "project_path": "poco/fleur"
+      },
+      "revision": "09a8a219e3c354bf5df2f9580716b68f9b513b10",
+      "url": "https://gitlab.com/Android-Dumps/poco/fleur/-/tree/09a8a219e3c354bf5df2f9580716b68f9b513b10"
+    },
+    {
+      "item_id": "poco/gram@V13.0.2.0.SJPINXM",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "V13.0.2.0.SJPINXM",
+        "commit": "06c180ab7492f7f29f65ba458734f01c5c25e31a",
+        "committed_date": "2023-02-22T22:12:48.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-02-22T17:29:27.408Z",
+        "namespace_hint": "poco",
+        "project_hint": "gram",
+        "project_id": 34400734,
+        "project_path": "poco/gram"
+      },
+      "revision": "06c180ab7492f7f29f65ba458734f01c5c25e31a",
+      "url": "https://gitlab.com/Android-Dumps/poco/gram/-/tree/06c180ab7492f7f29f65ba458734f01c5c25e31a"
+    },
+    {
+      "item_id": "poco/gram@qssi-user-11-RKQ1.200826.002-V12.5.3.0.RJPINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.3.0.RJPINXM-release-keys",
+        "commit": "aaae2e9c5dd6e37bfa8da7a6f1ee1a79a9629e19",
+        "committed_date": "2022-03-11T12:40:33.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-02-22T17:29:27.408Z",
+        "namespace_hint": "poco",
+        "project_hint": "gram",
+        "project_id": 34400734,
+        "project_path": "poco/gram"
+      },
+      "revision": "aaae2e9c5dd6e37bfa8da7a6f1ee1a79a9629e19",
+      "url": "https://gitlab.com/Android-Dumps/poco/gram/-/tree/aaae2e9c5dd6e37bfa8da7a6f1ee1a79a9629e19"
+    },
+    {
+      "item_id": "poco/gram@qssi-user-11-RKQ1.200826.002-V12.5.6.0.RJPINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.6.0.RJPINXM-release-keys",
+        "commit": "4c0c230fedb589deac98a460880827b8884cf688",
+        "committed_date": "2022-06-01T14:24:26.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-02-22T17:29:27.408Z",
+        "namespace_hint": "poco",
+        "project_hint": "gram",
+        "project_id": 34400734,
+        "project_path": "poco/gram"
+      },
+      "revision": "4c0c230fedb589deac98a460880827b8884cf688",
+      "url": "https://gitlab.com/Android-Dumps/poco/gram/-/tree/4c0c230fedb589deac98a460880827b8884cf688"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-11-RKQ1.200826.002-V12.5.7.0.RJGMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.7.0.RJGMIXM-release-keys",
+        "commit": "17fbc20eba2371311e5e1d2974a0dd0c11f246c1",
+        "committed_date": "2022-05-05T00:19:22.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-06-21T19:08:51.532Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 35888671,
+        "project_path": "poco/karna"
+      },
+      "revision": "17fbc20eba2371311e5e1d2974a0dd0c11f246c1",
+      "url": "https://gitlab.com/Android-Dumps/poco/karna/-/tree/17fbc20eba2371311e5e1d2974a0dd0c11f246c1"
+    },
+    {
+      "item_id": "poco/karna@qssi-user-11-RKQ1.200826.002-V12.5.8.0.RJGMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.8.0.RJGMIXM-release-keys",
+        "commit": "00e6378e7aeb5ab09dbbdd73cf6a8030006367b2",
+        "committed_date": "2022-06-22T00:30:41.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-06-21T19:08:51.532Z",
+        "namespace_hint": "poco",
+        "project_hint": "karna",
+        "project_id": 35888671,
+        "project_path": "poco/karna"
+      },
+      "revision": "00e6378e7aeb5ab09dbbdd73cf6a8030006367b2",
+      "url": "https://gitlab.com/Android-Dumps/poco/karna/-/tree/00e6378e7aeb5ab09dbbdd73cf6a8030006367b2"
+    },
+    {
+      "item_id": "poco/klee@missi-user-16-BP2A.250605.031.A3-OS3.0.5.0.WPJMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-16-BP2A.250605.031.A3-OS3.0.5.0.WPJMIXM-release-keys",
+        "commit": "f93d127e640338635886cc3c4b1dc0777cd198ac",
+        "committed_date": "2026-05-01T10:24:01.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-05-01T10:08:53.244Z",
+        "namespace_hint": "poco",
+        "project_hint": "klee",
+        "project_id": 81820144,
+        "project_path": "poco/klee"
+      },
+      "revision": "f93d127e640338635886cc3c4b1dc0777cd198ac",
+      "url": "https://gitlab.com/Android-Dumps/poco/klee/-/tree/f93d127e640338635886cc3c4b1dc0777cd198ac"
+    },
+    {
+      "item_id": "poco/marble@missi-user-15-AQ3A.250226.002-OS3.0.3.0.VMRIDXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-15-AQ3A.250226.002-OS3.0.3.0.VMRIDXM-release-keys",
+        "commit": "51f40c8381ed6cb0ebcd3344bcc014287c204ccd",
+        "committed_date": "2026-09-13T13:58:39.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-09-13T13:41:04.347Z",
+        "namespace_hint": "poco",
+        "project_hint": "marble",
+        "project_id": 86414518,
+        "project_path": "poco/marble"
+      },
+      "revision": "51f40c8381ed6cb0ebcd3344bcc014287c204ccd",
+      "url": "https://gitlab.com/Android-Dumps/poco/marble/-/tree/51f40c8381ed6cb0ebcd3344bcc014287c204ccd"
+    },
+    {
+      "item_id": "poco/moonstone@qssi-user-12-SKQ1.220303.001-V13.0.7.0.SMPMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.220303.001-V13.0.7.0.SMPMIXM-release-keys",
+        "commit": "01003d75caa992d5db9d1d5188ed282c1a0ff6f9",
+        "committed_date": "2023-04-21T08:23:37.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-21T02:35:50.173Z",
+        "namespace_hint": "poco",
+        "project_hint": "moonstone",
+        "project_id": 45363409,
+        "project_path": "poco/moonstone"
+      },
+      "revision": "01003d75caa992d5db9d1d5188ed282c1a0ff6f9",
+      "url": "https://gitlab.com/Android-Dumps/poco/moonstone/-/tree/01003d75caa992d5db9d1d5188ed282c1a0ff6f9"
+    },
+    {
+      "item_id": "poco/peridot@missi-user-16-BP2A.250605.031.A3-OS3.0.4.0.WNPMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-16-BP2A.250605.031.A3-OS3.0.4.0.WNPMIXM-release-keys",
+        "commit": "f643c83fdb689a2db5cd483961c750422ad287f6",
+        "committed_date": "2026-03-03T16:52:12.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-03-03T16:32:00.663Z",
+        "namespace_hint": "poco",
+        "project_hint": "peridot",
+        "project_id": 79947731,
+        "project_path": "poco/peridot"
+      },
+      "revision": "f643c83fdb689a2db5cd483961c750422ad287f6",
+      "url": "https://gitlab.com/Android-Dumps/poco/peridot/-/tree/f643c83fdb689a2db5cd483961c750422ad287f6"
+    },
+    {
+      "item_id": "poco/phoenixin@qssi-user-11-RKQ1.200826.002-V12.5.6.0.RGHINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.6.0.RGHINXM-release-keys",
+        "commit": "4b0d977d2e8225ec17024d4828630efcea337f7f",
+        "committed_date": "2022-07-05T02:44:55.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-07-04T21:14:53.582Z",
+        "namespace_hint": "poco",
+        "project_hint": "phoenixin",
+        "project_id": 37558626,
+        "project_path": "poco/phoenixin"
+      },
+      "revision": "4b0d977d2e8225ec17024d4828630efcea337f7f",
+      "url": "https://gitlab.com/Android-Dumps/poco/phoenixin/-/tree/4b0d977d2e8225ec17024d4828630efcea337f7f"
+    },
+    {
+      "item_id": "poco/rodin@missi-user-16-BP2A.250605.031.A3-16OS3.1.260701.221429865.MTPEGL.S-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-16-BP2A.250605.031.A3-16OS3.1.260701.221429865.MTPEGL.S-release-keys",
+        "commit": "290e19b8955ee3e8076eda69c728d761ac772ce6",
+        "committed_date": "2026-07-30T11:16:43.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-07-30T10:53:11.442Z",
+        "namespace_hint": "poco",
+        "project_hint": "rodin",
+        "project_id": 84961007,
+        "project_path": "poco/rodin"
+      },
+      "revision": "290e19b8955ee3e8076eda69c728d761ac772ce6",
+      "url": "https://gitlab.com/Android-Dumps/poco/rodin/-/tree/290e19b8955ee3e8076eda69c728d761ac772ce6"
+    },
+    {
+      "item_id": "poco/shiva@shiva-user-11-RP1A.200720.011-V12.5.6.0.RJRINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "shiva-user-11-RP1A.200720.011-V12.5.6.0.RJRINXM-release-keys",
+        "commit": "9ed2358a7189e875662e38f60e59c0e7c6f0725f",
+        "committed_date": "2022-05-22T18:17:37.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-05-22T12:47:34.658Z",
+        "namespace_hint": "poco",
+        "project_hint": "shiva",
+        "project_id": 36384126,
+        "project_path": "poco/shiva"
+      },
+      "revision": "9ed2358a7189e875662e38f60e59c0e7c6f0725f",
+      "url": "https://gitlab.com/Android-Dumps/poco/shiva/-/tree/9ed2358a7189e875662e38f60e59c0e7c6f0725f"
+    },
+    {
+      "item_id": "poco/songyuan@missi-user-16-BP2A.250605.031.A3-16OS3.1.260827.204144720.QCPEGL.S-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-16-BP2A.250605.031.A3-16OS3.1.260827.204144720.QCPEGL.S-release-keys",
+        "commit": "fa90de2386ebaed33811534822add37746806ae0",
+        "committed_date": "2026-09-13T14:13:03.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-09-13T13:48:32.865Z",
+        "namespace_hint": "poco",
+        "project_hint": "songyuan",
+        "project_id": 86414654,
+        "project_path": "poco/songyuan"
+      },
+      "revision": "fa90de2386ebaed33811534822add37746806ae0",
+      "url": "https://gitlab.com/Android-Dumps/poco/songyuan/-/tree/fa90de2386ebaed33811534822add37746806ae0"
+    },
+    {
+      "item_id": "poco/surya@V14.0.1.0.SJGMIXM",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "V14.0.1.0.SJGMIXM",
+        "commit": "47617823f73a3288ee5d42c611e0e22a339512ab",
+        "committed_date": "2023-04-08T23:45:23.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-08T18:22:32.922Z",
+        "namespace_hint": "poco",
+        "project_hint": "surya",
+        "project_id": 37138000,
+        "project_path": "poco/surya"
+      },
+      "revision": "47617823f73a3288ee5d42c611e0e22a339512ab",
+      "url": "https://gitlab.com/Android-Dumps/poco/surya/-/tree/47617823f73a3288ee5d42c611e0e22a339512ab"
+    },
+    {
+      "item_id": "poco/surya@qssi-user-11-RKQ1.200826.002-V12.5.8.0.RJGEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.8.0.RJGEUXM-release-keys",
+        "commit": "1185c5d65ae48365d0751dc00a51226db719977f",
+        "committed_date": "2022-06-18T18:04:15.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2023-04-08T18:22:32.922Z",
+        "namespace_hint": "poco",
+        "project_hint": "surya",
+        "project_id": 37138000,
+        "project_path": "poco/surya"
+      },
+      "revision": "1185c5d65ae48365d0751dc00a51226db719977f",
+      "url": "https://gitlab.com/Android-Dumps/poco/surya/-/tree/1185c5d65ae48365d0751dc00a51226db719977f"
+    }
+  ],
+  "provider_id": "android_dumps_gitlab",
+  "schema_version": "1.0",
+  "status": "ok"
+}

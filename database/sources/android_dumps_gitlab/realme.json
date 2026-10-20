@@ -1,0 +1,417 @@
+{
+  "checked_at": "2026-10-19T03:41:19Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "realme/RE513CL1@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1717061211928-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1717061211928-release-keys",
+        "commit": "b3db29b09e800f5bc84ffd3374bb9a78566e3213",
+        "committed_date": "2026-10-07T17:49:54.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-10-07T17:38:48.062Z",
+        "namespace_hint": "realme",
+        "project_hint": "RE513CL1",
+        "project_id": 87354336,
+        "project_path": "realme/RE513CL1"
+      },
+      "revision": "b3db29b09e800f5bc84ffd3374bb9a78566e3213",
+      "url": "https://gitlab.com/Android-Dumps/realme/RE513CL1/-/tree/b3db29b09e800f5bc84ffd3374bb9a78566e3213"
+    },
+    {
+      "item_id": "realme/RE588DL1@sys_mssi_64_cn_armv82-user-14-UKQ1.230924.001-1760428957432-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-14-UKQ1.230924.001-1760428957432-release-keys",
+        "commit": "7ca405c4c071991004852f55cf2b45f3058f9a37",
+        "committed_date": "2026-09-17T15:21:07.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-09-17T14:53:41.730Z",
+        "namespace_hint": "realme",
+        "project_hint": "RE588DL1",
+        "project_id": 86586206,
+        "project_path": "realme/RE588DL1"
+      },
+      "revision": "7ca405c4c071991004852f55cf2b45f3058f9a37",
+      "url": "https://gitlab.com/Android-Dumps/realme/RE588DL1/-/tree/7ca405c4c071991004852f55cf2b45f3058f9a37"
+    },
+    {
+      "item_id": "realme/RE5C6CL1@sys_mssi_64_cn_armv82-user-15-AP3A.240617.008-1781160371217-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-15-AP3A.240617.008-1781160371217-release-keys",
+        "commit": "2f5e6120a5135ee9fd0f3315cba7961953c2c512",
+        "committed_date": "2026-07-29T22:00:46.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-07-29T21:42:30.864Z",
+        "namespace_hint": "realme",
+        "project_hint": "RE5C6CL1",
+        "project_id": 84943892,
+        "project_path": "realme/RE5C6CL1"
+      },
+      "revision": "2f5e6120a5135ee9fd0f3315cba7961953c2c512",
+      "url": "https://gitlab.com/Android-Dumps/realme/RE5C6CL1/-/tree/2f5e6120a5135ee9fd0f3315cba7961953c2c512"
+    },
+    {
+      "item_id": "realme/RE646FL1@sys_mssi_64_64only_cn_armv82-user-16-BP2A.250605.015-1768367327963-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_64only_cn_armv82-user-16-BP2A.250605.015-1768367327963-release-keys",
+        "commit": "cf08710f8dfc8bf551e80e0185e5f36a3ffbbe0f",
+        "committed_date": "2026-07-29T18:12:49.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-07-29T17:37:09.048Z",
+        "namespace_hint": "realme",
+        "project_hint": "RE646FL1",
+        "project_id": 84937534,
+        "project_path": "realme/RE646FL1"
+      },
+      "revision": "cf08710f8dfc8bf551e80e0185e5f36a3ffbbe0f",
+      "url": "https://gitlab.com/Android-Dumps/realme/RE646FL1/-/tree/cf08710f8dfc8bf551e80e0185e5f36a3ffbbe0f"
+    },
+    {
+      "item_id": "realme/RMP2102@full_oppo8786-user-11-RP1A.200720.011-504-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo8786-user-11-RP1A.200720.011-504-release-keys",
+        "commit": "3413055b299dfb21279848a9d9d0bc5ced5b5e7a",
+        "committed_date": "2022-05-21T16:33:35.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-05-21T10:59:20.938Z",
+        "namespace_hint": "realme",
+        "project_hint": "RMP2102",
+        "project_id": 36367714,
+        "project_path": "realme/RMP2102"
+      },
+      "revision": "3413055b299dfb21279848a9d9d0bc5ced5b5e7a",
+      "url": "https://gitlab.com/Android-Dumps/realme/RMP2102/-/tree/3413055b299dfb21279848a9d9d0bc5ced5b5e7a"
+    },
+    {
+      "item_id": "realme/RMX1821@RMX1821EX_11.C.22_1220_202107271101",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "RMX1821EX_11.C.22_1220_202107271101",
+        "commit": "2f987f9d11971ababd1bf38846617526ceac390d",
+        "committed_date": "2022-05-02T11:55:35.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-05-02T06:25:37.827Z",
+        "namespace_hint": "realme",
+        "project_hint": "RMX1821",
+        "project_id": 35813746,
+        "project_path": "realme/RMX1821"
+      },
+      "revision": "2f987f9d11971ababd1bf38846617526ceac390d",
+      "url": "https://gitlab.com/Android-Dumps/realme/RMX1821/-/tree/2f987f9d11971ababd1bf38846617526ceac390d"
+    },
+    {
+      "item_id": "realme/RMX1911@RMX1911EX_11.C.79_1790_202201210905",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "RMX1911EX_11.C.79_1790_202201210905",
+        "commit": "f1ed8705f55fc91b7d3cac5bfa56dfcde5397080",
+        "committed_date": "2022-05-21T22:28:40.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-09T06:55:50.970Z",
+        "namespace_hint": "realme",
+        "project_hint": "RMX1911",
+        "project_id": 36372809,
+        "project_path": "realme/RMX1911"
+      },
+      "revision": "f1ed8705f55fc91b7d3cac5bfa56dfcde5397080",
+      "url": "https://gitlab.com/Android-Dumps/realme/RMX1911/-/tree/f1ed8705f55fc91b7d3cac5bfa56dfcde5397080"
+    },
+    {
+      "item_id": "realme/RMX1911@RMX1911EX_11.C.83_1830_202211301527",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "RMX1911EX_11.C.83_1830_202211301527",
+        "commit": "6720ac8c79a25eb9040fcec36cfa5963e1f1fc16",
+        "committed_date": "2023-04-09T12:18:20.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-04-09T06:55:50.970Z",
+        "namespace_hint": "realme",
+        "project_hint": "RMX1911",
+        "project_id": 36372809,
+        "project_path": "realme/RMX1911"
+      },
+      "revision": "6720ac8c79a25eb9040fcec36cfa5963e1f1fc16",
+      "url": "https://gitlab.com/Android-Dumps/realme/RMX1911/-/tree/6720ac8c79a25eb9040fcec36cfa5963e1f1fc16"
+    },
+    {
+      "item_id": "realme/RMX1921@qssi-user-11-RKQ1.201217.002-1619368911282-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.201217.002-1619368911282-release-keys",
+        "commit": "0fced377ac5a795bee98c0beaf6d719ade7239a6",
+        "committed_date": "2022-03-10T21:08:37.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-03-10T15:29:37.608Z",
+        "namespace_hint": "realme",
+        "project_hint": "RMX1921",
+        "project_id": 34384529,
+        "project_path": "realme/RMX1921"
+      },
+      "revision": "0fced377ac5a795bee98c0beaf6d719ade7239a6",
+      "url": "https://gitlab.com/Android-Dumps/realme/RMX1921/-/tree/0fced377ac5a795bee98c0beaf6d719ade7239a6"
+    },
+    {
+      "item_id": "realme/RMX1941@full_oppo6762-user-10-QP1A.190711.020-bedd37e98646d3a1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6762-user-10-QP1A.190711.020-bedd37e98646d3a1-release-keys",
+        "commit": "5c2b1184c03fe9d911e9be857059989aee481fef",
+        "committed_date": "2023-02-24T20:26:54.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-02-24T14:59:34.964Z",
+        "namespace_hint": "realme",
+        "project_hint": "RMX1941",
+        "project_id": 37407531,
+        "project_path": "realme/RMX1941"
+      },
+      "revision": "5c2b1184c03fe9d911e9be857059989aee481fef",
+      "url": "https://gitlab.com/Android-Dumps/realme/RMX1941/-/tree/5c2b1184c03fe9d911e9be857059989aee481fef"
+    },
+    {
+      "item_id": "realme/RMX1941@full_oppo6762_18540-user-9-PPR1.180610.011-eng.root.20201028.124359-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_oppo6762_18540-user-9-PPR1.180610.011-eng.root.20201028.124359-release-keys",
+        "commit": "f2467cbcc6cd5819fb40cfb21b6c8b56c7a9fc8b",
+        "committed_date": "2022-06-28T22:26:12.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-02-24T14:59:34.964Z",
+        "namespace_hint": "realme",
+        "project_hint": "RMX1941",
+        "project_id": 37407531,
+        "project_path": "realme/RMX1941"
+      },
+      "revision": "f2467cbcc6cd5819fb40cfb21b6c8b56c7a9fc8b",
+      "url": "https://gitlab.com/Android-Dumps/realme/RMX1941/-/tree/f2467cbcc6cd5819fb40cfb21b6c8b56c7a9fc8b"
+    },
+    {
+      "item_id": "realme/RMX2001L1@sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-1623809323039-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-1623809323039-release-keys",
+        "commit": "f3ea64529307157b06f34d2b579d4375ff8f9244",
+        "committed_date": "2026-03-04T09:07:24.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-03-04T08:59:22.430Z",
+        "namespace_hint": "realme",
+        "project_hint": "RMX2001L1",
+        "project_id": 79966692,
+        "project_path": "realme/RMX2001L1"
+      },
+      "revision": "f3ea64529307157b06f34d2b579d4375ff8f9244",
+      "url": "https://gitlab.com/Android-Dumps/realme/RMX2001L1/-/tree/f3ea64529307157b06f34d2b579d4375ff8f9244"
+    },
+    {
+      "item_id": "realme/RMX2002L1@sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-1623809323039-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-1623809323039-release-keys",
+        "commit": "5037786eda20c7863e1c904653e27f92cd06c5b0",
+        "committed_date": "2026-03-01T11:17:00.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-03-01T11:07:51.679Z",
+        "namespace_hint": "realme",
+        "project_hint": "RMX2002L1",
+        "project_id": 79884614,
+        "project_path": "realme/RMX2002L1"
+      },
+      "revision": "5037786eda20c7863e1c904653e27f92cd06c5b0",
+      "url": "https://gitlab.com/Android-Dumps/realme/RMX2002L1/-/tree/5037786eda20c7863e1c904653e27f92cd06c5b0"
+    },
+    {
+      "item_id": "realme/RMX2020@RMX2020-user-10-QP1A.190711.020-1580942954-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "RMX2020-user-10-QP1A.190711.020-1580942954-release-keys",
+        "commit": "080408e4b39aa1c03934b54c5409af01d113cc43",
+        "committed_date": "2022-07-07T12:21:16.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2026-07-29T20:00:50.507Z",
+        "namespace_hint": "realme",
+        "project_hint": "RMX2020",
+        "project_id": 34572177,
+        "project_path": "realme/RMX2020"
+      },
+      "revision": "080408e4b39aa1c03934b54c5409af01d113cc43",
+      "url": "https://gitlab.com/Android-Dumps/realme/RMX2020/-/tree/080408e4b39aa1c03934b54c5409af01d113cc43"
+    },
+    {
+      "item_id": "realme/RMX2020@RMX2020_11.A.55_0550_202012151806",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "RMX2020_11.A.55_0550_202012151806",
+        "commit": "e3d5c0e6957c1a833213ce5536f5c7e88c4d75a7",
+        "committed_date": "2022-03-17T18:05:58.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2026-07-29T20:00:50.507Z",
+        "namespace_hint": "realme",
+        "project_hint": "RMX2020",
+        "project_id": 34572177,
+        "project_path": "realme/RMX2020"
+      },
+      "revision": "e3d5c0e6957c1a833213ce5536f5c7e88c4d75a7",
+      "url": "https://gitlab.com/Android-Dumps/realme/RMX2020/-/tree/e3d5c0e6957c1a833213ce5536f5c7e88c4d75a7"
+    },
+    {
+      "item_id": "realme/RMX2020@cipher_RMX2020-userdebug-UpsideDownCake-AOSP.MASTER-eng.root.20220705.063221-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "cipher_RMX2020-userdebug-UpsideDownCake-AOSP.MASTER-eng.root.20220705.063221-test-keys",
+        "commit": "a66201e61251aa3f7a91ff7c64ab86d798f10c67",
+        "committed_date": "2022-07-05T20:22:27.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2026-07-29T20:00:50.507Z",
+        "namespace_hint": "realme",
+        "project_hint": "RMX2020",
+        "project_id": 34572177,
+        "project_path": "realme/RMX2020"
+      },
+      "revision": "a66201e61251aa3f7a91ff7c64ab86d798f10c67",
+      "url": "https://gitlab.com/Android-Dumps/realme/RMX2020/-/tree/a66201e61251aa3f7a91ff7c64ab86d798f10c67"
+    },
+    {
+      "item_id": "realme/RMX2020@sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-1607914664672-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-1607914664672-release-keys",
+        "commit": "2a98d845317a5fe4bf1353e87bda980c8fdade03",
+        "committed_date": "2026-07-29T20:11:23.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-07-29T20:00:50.507Z",
+        "namespace_hint": "realme",
+        "project_hint": "RMX2020",
+        "project_id": 34572177,
+        "project_path": "realme/RMX2020"
+      },
+      "revision": "2a98d845317a5fe4bf1353e87bda980c8fdade03",
+      "url": "https://gitlab.com/Android-Dumps/realme/RMX2020/-/tree/2a98d845317a5fe4bf1353e87bda980c8fdade03"
+    },
+    {
+      "item_id": "realme/RMX2111L1@RMX2111PU_11.A.35_0350_202104201727",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "RMX2111PU_11.A.35_0350_202104201727",
+        "commit": "541a318b6e0956660173f068f9ea91779ada3546",
+        "committed_date": "2023-04-07T00:50:00.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-06T19:20:03.835Z",
+        "namespace_hint": "realme",
+        "project_hint": "RMX2111L1",
+        "project_id": 44973016,
+        "project_path": "realme/RMX2111L1"
+      },
+      "revision": "541a318b6e0956660173f068f9ea91779ada3546",
+      "url": "https://gitlab.com/Android-Dumps/realme/RMX2111L1/-/tree/541a318b6e0956660173f068f9ea91779ada3546"
+    },
+    {
+      "item_id": "realme/RMX2156L1@sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1711679158901-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1711679158901-release-keys",
+        "commit": "2f39afae9f2b6c870e0e1bbc317ad4f27c6e3703",
+        "committed_date": "2026-03-02T16:37:23.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-03-02T16:23:05.954Z",
+        "namespace_hint": "realme",
+        "project_hint": "RMX2156L1",
+        "project_id": 79915589,
+        "project_path": "realme/RMX2156L1"
+      },
+      "revision": "2f39afae9f2b6c870e0e1bbc317ad4f27c6e3703",
+      "url": "https://gitlab.com/Android-Dumps/realme/RMX2156L1/-/tree/2f39afae9f2b6c870e0e1bbc317ad4f27c6e3703"
+    },
+    {
+      "item_id": "realme/RMX2185@RMX2185_11.A.105_1050_202204011005",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "RMX2185_11.A.105_1050_202204011005",
+        "commit": "ac04298b5a78792ee0f787f95e01d16f062147a2",
+        "committed_date": "2022-07-07T23:19:06.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-07-07T17:56:42.122Z",
+        "namespace_hint": "realme",
+        "project_hint": "RMX2185",
+        "project_id": 34286942,
+        "project_path": "realme/RMX2185"
+      },
+      "revision": "ac04298b5a78792ee0f787f95e01d16f062147a2",
+      "url": "https://gitlab.com/Android-Dumps/realme/RMX2185/-/tree/ac04298b5a78792ee0f787f95e01d16f062147a2"
+    },
+    {
+      "item_id": "realme/RMX2185@RMX2185_11.A.87_0870_202103051433",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "RMX2185_11.A.87_0870_202103051433",
+        "commit": "f33da71cc1a96245d063478b5296a0697a6a183f",
+        "committed_date": "2022-03-07T19:25:15.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-07-07T17:56:42.122Z",
+        "namespace_hint": "realme",
+        "project_hint": "RMX2185",
+        "project_id": 34286942,
+        "project_path": "realme/RMX2185"
+      },
+      "revision": "f33da71cc1a96245d063478b5296a0697a6a183f",
+      "url": "https://gitlab.com/Android-Dumps/realme/RMX2185/-/tree/f33da71cc1a96245d063478b5296a0697a6a183f"
+    },
+    {
+      "item_id": "realme/ossi@sys_mssi_64_64only_cn_armv82-user-16-BP2A.250605.015-1768367327963-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_64only_cn_armv82-user-16-BP2A.250605.015-1768367327963-release-keys",
+        "commit": "f9ef6f6d394dbb9883d36c4dd44004981e2f2b2b",
+        "committed_date": "2026-07-29T16:10:46.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-07-29T15:51:23.309Z",
+        "namespace_hint": "realme",
+        "project_hint": "ossi",
+        "project_id": 84934383,
+        "project_path": "realme/ossi"
+      },
+      "revision": "f9ef6f6d394dbb9883d36c4dd44004981e2f2b2b",
+      "url": "https://gitlab.com/Android-Dumps/realme/ossi/-/tree/f9ef6f6d394dbb9883d36c4dd44004981e2f2b2b"
+    },
+    {
+      "item_id": "realme/r5x@trinket-user-10-QKQ1.200209.002-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "trinket-user-10-QKQ1.200209.002-release-keys",
+        "commit": "d74738775384938619dbb9d2dd98c52c2a407c0c",
+        "committed_date": "2023-04-09T16:11:44.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-09T10:41:46.260Z",
+        "namespace_hint": "realme",
+        "project_hint": "r5x",
+        "project_id": 45022029,
+        "project_path": "realme/r5x"
+      },
+      "revision": "d74738775384938619dbb9d2dd98c52c2a407c0c",
+      "url": "https://gitlab.com/Android-Dumps/realme/r5x/-/tree/d74738775384938619dbb9d2dd98c52c2a407c0c"
+    },
+    {
+      "item_id": "realme/realme_trinket@trinket-user-10-QKQ1.200209.002-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "trinket-user-10-QKQ1.200209.002-release-keys",
+        "commit": "d0919e1e63491a8c170827ff915bae143294dcf3",
+        "committed_date": "2022-06-18T08:29:08.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-18T08:29:10.665Z",
+        "namespace_hint": "realme",
+        "project_hint": "realme_trinket",
+        "project_id": 37130583,
+        "project_path": "realme/realme_trinket"
+      },
+      "revision": "d0919e1e63491a8c170827ff915bae143294dcf3",
+      "url": "https://gitlab.com/Android-Dumps/realme/realme_trinket/-/tree/d0919e1e63491a8c170827ff915bae143294dcf3"
+    }
+  ],
+  "provider_id": "android_dumps_gitlab",
+  "schema_version": "1.0",
+  "status": "ok"
+}

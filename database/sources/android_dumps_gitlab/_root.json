@@ -1,0 +1,37 @@
+{
+  "checked_at": "2026-10-19T03:41:19Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "DumprX@main",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "main",
+        "commit": "101d154c30c8cf7446094328afd49aa3ba558323",
+        "committed_date": "2022-06-02T17:16:47.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-06-02T19:19:08.801Z",
+        "namespace_hint": null,
+        "project_hint": "DumprX",
+        "project_id": 36708771,
+        "project_path": "DumprX"
+      },
+      "revision": "101d154c30c8cf7446094328afd49aa3ba558323",
+      "url": "https://gitlab.com/Android-Dumps/DumprX/-/tree/101d154c30c8cf7446094328afd49aa3ba558323"
+    },
+    {
+      "item_id": "_project/43188580",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": "2023-02-03T17:49:08.024Z",
+        "project_id": 43188580,
+        "project_path": "redmi_everpal_dump"
+      },
+      "revision": "2023-02-03T17:49:08.024Z",
+      "url": "https://gitlab.com/Android-Dumps/redmi_everpal_dump"
+    }
+  ],
+  "provider_id": "android_dumps_gitlab",
+  "schema_version": "1.0",
+  "status": "ok"
+}

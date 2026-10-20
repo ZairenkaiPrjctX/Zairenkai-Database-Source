@@ -1,0 +1,230 @@
+{
+  "checked_at": "2026-10-19T03:41:19Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "tecno/TECNO-CG6@full_cg6_h696-user-S-SPB1.210331.013-108308-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_cg6_h696-user-S-SPB1.210331.013-108308-release-keys",
+        "commit": "3a89c0fc62157e2946886518a9417b0697777ec9",
+        "committed_date": "2022-07-07T23:05:18.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-07-07T17:35:17.214Z",
+        "namespace_hint": "tecno",
+        "project_hint": "TECNO-CG6",
+        "project_id": 37656708,
+        "project_path": "tecno/TECNO-CG6"
+      },
+      "revision": "3a89c0fc62157e2946886518a9417b0697777ec9",
+      "url": "https://gitlab.com/Android-Dumps/tecno/TECNO-CG6/-/tree/3a89c0fc62157e2946886518a9417b0697777ec9"
+    },
+    {
+      "item_id": "tecno/TECNO-CG8@sys_tssi_64_tecno-user-11-RP1A.200720.011-108853-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_tecno-user-11-RP1A.200720.011-108853-release-keys",
+        "commit": "4934eaec1e82097d6cddd135d43d8986db41501a",
+        "committed_date": "2022-06-13T02:34:19.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-13T02:34:18.122Z",
+        "namespace_hint": "tecno",
+        "project_hint": "TECNO-CG8",
+        "project_id": 36967184,
+        "project_path": "tecno/TECNO-CG8"
+      },
+      "revision": "4934eaec1e82097d6cddd135d43d8986db41501a",
+      "url": "https://gitlab.com/Android-Dumps/tecno/TECNO-CG8/-/tree/4934eaec1e82097d6cddd135d43d8986db41501a"
+    },
+    {
+      "item_id": "tecno/TECNO-CH6@sys_tssi_64_tecno-user-11-RP1A.200720.011-185991-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_tecno-user-11-RP1A.200720.011-185991-release-keys",
+        "commit": "239f6bbc54e8934656184e4e1fc92b4e9cb477a2",
+        "committed_date": "2022-05-03T18:26:09.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-05-03T12:56:07.712Z",
+        "namespace_hint": "tecno",
+        "project_hint": "TECNO-CH6",
+        "project_id": 35848870,
+        "project_path": "tecno/TECNO-CH6"
+      },
+      "revision": "239f6bbc54e8934656184e4e1fc92b4e9cb477a2",
+      "url": "https://gitlab.com/Android-Dumps/tecno/TECNO-CH6/-/tree/239f6bbc54e8934656184e4e1fc92b4e9cb477a2"
+    },
+    {
+      "item_id": "tecno/TECNO-CI7n@sys_tssi_64_armv82_tecno-user-12-SP1A.210812.016-294843-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_tecno-user-12-SP1A.210812.016-294843-release-keys",
+        "commit": "ae2f4cdf8207b86c3eba181b14e30825729140e8",
+        "committed_date": "2022-07-07T21:38:32.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-07-07T16:05:59.112Z",
+        "namespace_hint": "tecno",
+        "project_hint": "TECNO-CI7n",
+        "project_id": 37654622,
+        "project_path": "tecno/TECNO-CI7n"
+      },
+      "revision": "ae2f4cdf8207b86c3eba181b14e30825729140e8",
+      "url": "https://gitlab.com/Android-Dumps/tecno/TECNO-CI7n/-/tree/ae2f4cdf8207b86c3eba181b14e30825729140e8"
+    },
+    {
+      "item_id": "tecno/TECNO-CI7n@sys_tssi_64_armv82_tecno-user-Tiramisu-TP1A.220310.002-292244-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_tecno-user-Tiramisu-TP1A.220310.002-292244-release-keys",
+        "commit": "0b34cafb180e4ebf81c0e246e14396b821a80a27",
+        "committed_date": "2022-07-07T21:36:00.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-07-07T16:05:59.112Z",
+        "namespace_hint": "tecno",
+        "project_hint": "TECNO-CI7n",
+        "project_id": 37654622,
+        "project_path": "tecno/TECNO-CI7n"
+      },
+      "revision": "0b34cafb180e4ebf81c0e246e14396b821a80a27",
+      "url": "https://gitlab.com/Android-Dumps/tecno/TECNO-CI7n/-/tree/0b34cafb180e4ebf81c0e246e14396b821a80a27"
+    },
+    {
+      "item_id": "tecno/TECNO-CK9n@sys_tssi_64_armv82_tecno-user-14-UP1A.230620.001-433915-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_tecno-user-14-UP1A.230620.001-433915-release-keys",
+        "commit": "9ea5c35143078ea620b9ab855f650962b797b76d",
+        "committed_date": "2023-12-02T18:21:49.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2023-12-02T17:46:43.219Z",
+        "namespace_hint": "tecno",
+        "project_hint": "TECNO-CK9n",
+        "project_id": 52713235,
+        "project_path": "tecno/TECNO-CK9n"
+      },
+      "revision": "9ea5c35143078ea620b9ab855f650962b797b76d",
+      "url": "https://gitlab.com/Android-Dumps/tecno/TECNO-CK9n/-/tree/9ea5c35143078ea620b9ab855f650962b797b76d"
+    },
+    {
+      "item_id": "tecno/TECNO-CM6@sys_mssi_64_64only_cn_armv82-user-16-BP2A.250605.031.A3-82815-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_64only_cn_armv82-user-16-BP2A.250605.031.A3-82815-release-keys",
+        "commit": "38b580abcb3be8dda9f01de5cf7b249554594dc8",
+        "committed_date": "2026-08-21T11:53:31.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-08-21T11:41:02.796Z",
+        "namespace_hint": "tecno",
+        "project_hint": "TECNO-CM6",
+        "project_id": 85625976,
+        "project_path": "tecno/TECNO-CM6"
+      },
+      "revision": "38b580abcb3be8dda9f01de5cf7b249554594dc8",
+      "url": "https://gitlab.com/Android-Dumps/tecno/TECNO-CM6/-/tree/38b580abcb3be8dda9f01de5cf7b249554594dc8"
+    },
+    {
+      "item_id": "tecno/TECNO-KE5k@full_ke5k_h6122-user-10-QP1A.190711.020-58917-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_ke5k_h6122-user-10-QP1A.190711.020-58917-release-keys",
+        "commit": "a52d3a0313d85b658364ddd88fc34a1960a348c0",
+        "committed_date": "2022-05-05T08:22:07.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-05-05T02:52:05.113Z",
+        "namespace_hint": "tecno",
+        "project_hint": "TECNO-KE5k",
+        "project_id": 35897273,
+        "project_path": "tecno/TECNO-KE5k"
+      },
+      "revision": "a52d3a0313d85b658364ddd88fc34a1960a348c0",
+      "url": "https://gitlab.com/Android-Dumps/tecno/TECNO-KE5k/-/tree/a52d3a0313d85b658364ddd88fc34a1960a348c0"
+    },
+    {
+      "item_id": "tecno/TECNO-KE7@sys_tssi_64_tecno-user-10-QP1A.190711.020-21500-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_tecno-user-10-QP1A.190711.020-21500-release-keys",
+        "commit": "8cb6ef1059ef2ca4d654b3e08a38e88cc2057359",
+        "committed_date": "2022-06-05T15:24:48.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-05T15:24:47.164Z",
+        "namespace_hint": "tecno",
+        "project_hint": "TECNO-KE7",
+        "project_id": 36766791,
+        "project_path": "tecno/TECNO-KE7"
+      },
+      "revision": "8cb6ef1059ef2ca4d654b3e08a38e88cc2057359",
+      "url": "https://gitlab.com/Android-Dumps/tecno/TECNO-KE7/-/tree/8cb6ef1059ef2ca4d654b3e08a38e88cc2057359"
+    },
+    {
+      "item_id": "tecno/TECNO-KF6i@sys_tssi_64_tecno-user-11-RP1A.200720.011-112652-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_tecno-user-11-RP1A.200720.011-112652-release-keys",
+        "commit": "b2c1908d16cc901b652ba1fe84eed8b73d7aebce",
+        "committed_date": "2022-04-13T01:47:54.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-04-12T19:33:18.973Z",
+        "namespace_hint": "tecno",
+        "project_hint": "TECNO-KF6i",
+        "project_id": 35306836,
+        "project_path": "tecno/TECNO-KF6i"
+      },
+      "revision": "b2c1908d16cc901b652ba1fe84eed8b73d7aebce",
+      "url": "https://gitlab.com/Android-Dumps/tecno/TECNO-KF6i/-/tree/b2c1908d16cc901b652ba1fe84eed8b73d7aebce"
+    },
+    {
+      "item_id": "tecno/TECNO-KI8@sys_tssi_64_armv82_tecno-user-13-TP1A.220624.014-215205-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_armv82_tecno-user-13-TP1A.220624.014-215205-release-keys",
+        "commit": "77e813a1c6eb6e120dab10af6dbf46b9ddfcdbc1",
+        "committed_date": "2023-04-14T20:39:31.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-14T15:09:29.622Z",
+        "namespace_hint": "tecno",
+        "project_hint": "TECNO-KI8",
+        "project_id": 45181678,
+        "project_path": "tecno/TECNO-KI8"
+      },
+      "revision": "77e813a1c6eb6e120dab10af6dbf46b9ddfcdbc1",
+      "url": "https://gitlab.com/Android-Dumps/tecno/TECNO-KI8/-/tree/77e813a1c6eb6e120dab10af6dbf46b9ddfcdbc1"
+    },
+    {
+      "item_id": "tecno/TECNO-LB8a@full_lb8a_h6113-user-9-PPR1.180610.011-45279-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "full_lb8a_h6113-user-9-PPR1.180610.011-45279-release-keys",
+        "commit": "b009c5162923649c2bd767ba20096d6284fe01be",
+        "committed_date": "2022-04-14T00:31:01.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-04-13T19:01:00.057Z",
+        "namespace_hint": "tecno",
+        "project_hint": "TECNO-LB8a",
+        "project_id": 35336886,
+        "project_path": "tecno/TECNO-LB8a"
+      },
+      "revision": "b009c5162923649c2bd767ba20096d6284fe01be",
+      "url": "https://gitlab.com/Android-Dumps/tecno/TECNO-LB8a/-/tree/b009c5162923649c2bd767ba20096d6284fe01be"
+    },
+    {
+      "item_id": "tecno/TECNO-LD7@sys_tssi_64_tecno-user-10-QP1A.190711.020-244546-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_tssi_64_tecno-user-10-QP1A.190711.020-244546-release-keys",
+        "commit": "1ac45a22e160a8a7ca073945109ec3e68a7d70cf",
+        "committed_date": "2022-05-13T15:52:54.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-05-13T10:22:53.011Z",
+        "namespace_hint": "tecno",
+        "project_hint": "TECNO-LD7",
+        "project_id": 36137886,
+        "project_path": "tecno/TECNO-LD7"
+      },
+      "revision": "1ac45a22e160a8a7ca073945109ec3e68a7d70cf",
+      "url": "https://gitlab.com/Android-Dumps/tecno/TECNO-LD7/-/tree/1ac45a22e160a8a7ca073945109ec3e68a7d70cf"
+    }
+  ],
+  "provider_id": "android_dumps_gitlab",
+  "schema_version": "1.0",
+  "status": "ok"
+}

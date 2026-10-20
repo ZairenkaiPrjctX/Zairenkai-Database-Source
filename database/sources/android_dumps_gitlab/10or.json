@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-19T03:41:19Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "10or/G@G-user-8.1.0-OPM1.171019.019-10or_G_V1_0_82-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "G-user-8.1.0-OPM1.171019.019-10or_G_V1_0_82-release-keys",
+        "commit": "72f5fc9b34d29a28ed7cf51f5dfc8b0f525a2d8b",
+        "committed_date": "2022-06-14T10:59:05.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-14T10:59:04.634Z",
+        "namespace_hint": "10or",
+        "project_hint": "G",
+        "project_id": 37015029,
+        "project_path": "10or/G"
+      },
+      "revision": "72f5fc9b34d29a28ed7cf51f5dfc8b0f525a2d8b",
+      "url": "https://gitlab.com/Android-Dumps/10or/G/-/tree/72f5fc9b34d29a28ed7cf51f5dfc8b0f525a2d8b"
+    }
+  ],
+  "provider_id": "android_dumps_gitlab",
+  "schema_version": "1.0",
+  "status": "ok"
+}

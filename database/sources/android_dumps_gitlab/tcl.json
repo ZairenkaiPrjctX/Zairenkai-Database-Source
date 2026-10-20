@@ -1,0 +1,60 @@
+{
+  "checked_at": "2026-10-19T03:41:19Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "tcl/BeyondTV4@BeyondTV4-user-11-RP1A.200622.001-AR05-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "BeyondTV4-user-11-RP1A.200622.001-AR05-release-keys",
+        "commit": "5ffe1397166902f8c5c68904e96f4c0a3c336c25",
+        "committed_date": "2023-06-05T20:48:18.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-06-05T15:18:17.382Z",
+        "namespace_hint": "tcl",
+        "project_hint": "BeyondTV4",
+        "project_id": 46600943,
+        "project_path": "tcl/BeyondTV4"
+      },
+      "revision": "5ffe1397166902f8c5c68904e96f4c0a3c336c25",
+      "url": "https://gitlab.com/Android-Dumps/tcl/BeyondTV4/-/tree/5ffe1397166902f8c5c68904e96f4c0a3c336c25"
+    },
+    {
+      "item_id": "tcl/BeyondTV4@BeyondTV4-user-11-RP1A.200622.001-AR06-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "BeyondTV4-user-11-RP1A.200622.001-AR06-release-keys",
+        "commit": "5eae8bd8d3b96703f5cdd15ee73cca23c7f212e6",
+        "committed_date": "2023-06-05T21:07:19.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-06-05T15:18:17.382Z",
+        "namespace_hint": "tcl",
+        "project_hint": "BeyondTV4",
+        "project_id": 46600943,
+        "project_path": "tcl/BeyondTV4"
+      },
+      "revision": "5eae8bd8d3b96703f5cdd15ee73cca23c7f212e6",
+      "url": "https://gitlab.com/Android-Dumps/tcl/BeyondTV4/-/tree/5eae8bd8d3b96703f5cdd15ee73cca23c7f212e6"
+    },
+    {
+      "item_id": "tcl/mssi_64_ww@sys_mssi_64_ww-user-13-TP1A.220624.014-eng.jenkin.20230308.021844-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_ww-user-13-TP1A.220624.014-eng.jenkin.20230308.021844-release-keys",
+        "commit": "a240e9184253759e2bd57960085e47c5ff309cbc",
+        "committed_date": "2025-10-25T18:51:05.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2025-10-25T18:29:16.205Z",
+        "namespace_hint": "tcl",
+        "project_hint": "mssi_64_ww",
+        "project_id": 75594197,
+        "project_path": "tcl/mssi_64_ww"
+      },
+      "revision": "a240e9184253759e2bd57960085e47c5ff309cbc",
+      "url": "https://gitlab.com/Android-Dumps/tcl/mssi_64_ww/-/tree/a240e9184253759e2bd57960085e47c5ff309cbc"
+    }
+  ],
+  "provider_id": "android_dumps_gitlab",
+  "schema_version": "1.0",
+  "status": "ok"
+}

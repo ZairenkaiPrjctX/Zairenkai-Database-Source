@@ -1,0 +1,1492 @@
+{
+  "checked_at": "2026-10-19T03:41:19Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "_project/35181937",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": "2022-04-07T18:28:58.036Z",
+        "project_id": 35181937,
+        "project_path": "xiaomi/venus"
+      },
+      "revision": "2022-04-07T18:28:58.036Z",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/venus"
+    },
+    {
+      "item_id": "_project/35203319",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": "2022-04-08T11:54:21.009Z",
+        "project_id": 35203319,
+        "project_path": "xiaomi/renoir"
+      },
+      "revision": "2022-04-08T11:54:21.009Z",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/renoir"
+    },
+    {
+      "item_id": "_project/36403267",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": "2022-05-23T09:20:35.678Z",
+        "project_id": 36403267,
+        "project_path": "xiaomi/odin"
+      },
+      "revision": "2022-05-23T09:20:35.678Z",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/odin"
+    },
+    {
+      "item_id": "_project/37676592",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": "2022-07-08T11:55:30.314Z",
+        "project_id": 37676592,
+        "project_path": "xiaomi/thor"
+      },
+      "revision": "2022-07-08T11:55:30.314Z",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/thor"
+    },
+    {
+      "item_id": "_project/45631717",
+      "kind": "index",
+      "metadata": {
+        "last_activity_at": "2023-05-01T18:53:15.620Z",
+        "project_id": 45631717,
+        "project_path": "xiaomi/mivendor"
+      },
+      "revision": "2023-05-01T18:53:15.620Z",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/mivendor"
+    },
+    {
+      "item_id": "xiaomi/HM2014811@2014811-user-4.4.4-KTU84P-HM2014811-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "2014811-user-4.4.4-KTU84P-HM2014811-release-keys",
+        "commit": "503069e12029082df0e1b5584294e520020858cb",
+        "committed_date": "2022-04-20T22:30:25.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-04-20T17:00:24.649Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "HM2014811",
+        "project_id": 35517188,
+        "project_path": "xiaomi/HM2014811"
+      },
+      "revision": "503069e12029082df0e1b5584294e520020858cb",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/HM2014811/-/tree/503069e12029082df0e1b5584294e520020858cb"
+    },
+    {
+      "item_id": "xiaomi/agate@missi_phone_global-user-14-UP1A.231005.007-V816.0.2.0.UKWMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-14-UP1A.231005.007-V816.0.2.0.UKWMIXM-release-keys",
+        "commit": "2675ca4b0041d87a46f99fcb6450bf049761f387",
+        "committed_date": "2024-01-07T07:49:13.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-01-07T07:22:39.726Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "agate",
+        "project_id": 53621766,
+        "project_path": "xiaomi/agate"
+      },
+      "revision": "2675ca4b0041d87a46f99fcb6450bf049761f387",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/agate/-/tree/2675ca4b0041d87a46f99fcb6450bf049761f387"
+    },
+    {
+      "item_id": "xiaomi/beryllium@beryllium-user-10-QKQ1.190828.002-V12.0.2.0.QEJMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "beryllium-user-10-QKQ1.190828.002-V12.0.2.0.QEJMIXM-release-keys",
+        "commit": "a6969c6275c59baf7712b22a7d7e2ee388784a93",
+        "committed_date": "2022-04-20T16:45:57.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-04-20T11:21:42.438Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "beryllium",
+        "project_id": 34421538,
+        "project_path": "xiaomi/beryllium"
+      },
+      "revision": "a6969c6275c59baf7712b22a7d7e2ee388784a93",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/beryllium/-/tree/a6969c6275c59baf7712b22a7d7e2ee388784a93"
+    },
+    {
+      "item_id": "xiaomi/beryllium@beryllium-user-10-QKQ1.190828.002-V12.0.3.0.QEJMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "beryllium-user-10-QKQ1.190828.002-V12.0.3.0.QEJMIXM-release-keys",
+        "commit": "938e8afa2db2f10d65c61aa6108fd24ea62b03b3",
+        "committed_date": "2022-03-12T02:33:23.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-04-20T11:21:42.438Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "beryllium",
+        "project_id": 34421538,
+        "project_path": "xiaomi/beryllium"
+      },
+      "revision": "938e8afa2db2f10d65c61aa6108fd24ea62b03b3",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/beryllium/-/tree/938e8afa2db2f10d65c61aa6108fd24ea62b03b3"
+    },
+    {
+      "item_id": "xiaomi/cactus@cactus-user-9-PPR1.180610.011-V12.0.2.0.PCBCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "cactus-user-9-PPR1.180610.011-V12.0.2.0.PCBCNXM-release-keys",
+        "commit": "1f65bfd1de792029756c18cc74af1cf14b295937",
+        "committed_date": "2022-03-20T22:40:29.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-03-20T17:10:28.955Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "cactus",
+        "project_id": 34644195,
+        "project_path": "xiaomi/cactus"
+      },
+      "revision": "1f65bfd1de792029756c18cc74af1cf14b295937",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/cactus/-/tree/1f65bfd1de792029756c18cc74af1cf14b295937"
+    },
+    {
+      "item_id": "xiaomi/chime@arrow_chime-userdebug-12-SQ3A.220605.009.B1-1656338943-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "arrow_chime-userdebug-12-SQ3A.220605.009.B1-1656338943-release-keys",
+        "commit": "a7d835439d84d1c1be0d4ab7b1503c640d92cf7c",
+        "committed_date": "2022-07-01T13:32:52.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-07-01T08:02:49.595Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "chime",
+        "project_id": 37483239,
+        "project_path": "xiaomi/chime"
+      },
+      "revision": "a7d835439d84d1c1be0d4ab7b1503c640d92cf7c",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/chime/-/tree/a7d835439d84d1c1be0d4ab7b1503c640d92cf7c"
+    },
+    {
+      "item_id": "xiaomi/dangal@dangal-user-8.1.0-OPM1.171019.011-1840-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "dangal-user-8.1.0-OPM1.171019.011-1840-release-keys",
+        "commit": "49e46df683e016f6638309845c2c24cae167b4e3",
+        "committed_date": "2022-04-02T14:28:55.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-04-02T08:58:53.906Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "dangal",
+        "project_id": 35023648,
+        "project_path": "xiaomi/dangal"
+      },
+      "revision": "49e46df683e016f6638309845c2c24cae167b4e3",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/dangal/-/tree/49e46df683e016f6638309845c2c24cae167b4e3"
+    },
+    {
+      "item_id": "xiaomi/davinciin@davinciin-user-11-RKQ1.200826.002-V12.1.4.0.RFJINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "davinciin-user-11-RKQ1.200826.002-V12.1.4.0.RFJINXM-release-keys",
+        "commit": "f5fd34311200a1f9b4e5dc69a37ba920bf5f34e5",
+        "committed_date": "2022-04-08T20:25:23.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-04-08T14:55:21.793Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "davinciin",
+        "project_id": 35208754,
+        "project_path": "xiaomi/davinciin"
+      },
+      "revision": "f5fd34311200a1f9b4e5dc69a37ba920bf5f34e5",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/davinciin/-/tree/f5fd34311200a1f9b4e5dc69a37ba920bf5f34e5"
+    },
+    {
+      "item_id": "xiaomi/duchamp_mgvi_64_armv82@missi-user-15-AP3A.240905.015.A2-OS2.0.205.0.VNLMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-15-AP3A.240905.015.A2-OS2.0.205.0.VNLMIXM-release-keys",
+        "commit": "be5900c2e262186e0c96236fa38777662480acb0",
+        "committed_date": "2025-10-17T11:34:51.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2025-12-19T20:07:07.700Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "duchamp_mgvi_64_armv82",
+        "project_id": 75399237,
+        "project_path": "xiaomi/duchamp_mgvi_64_armv82"
+      },
+      "revision": "be5900c2e262186e0c96236fa38777662480acb0",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/duchamp_mgvi_64_armv82/-/tree/be5900c2e262186e0c96236fa38777662480acb0"
+    },
+    {
+      "item_id": "xiaomi/ginkgo@aospa_ginkgo-user-13-TKQ1.221220.001-eng.karan.20230130.144301-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aospa_ginkgo-user-13-TKQ1.221220.001-eng.karan.20230130.144301-release-keys",
+        "commit": "f5cc5837b1bf4113d85b853a38430716df38ac5d",
+        "committed_date": "2023-04-09T12:15:59.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-04-09T06:50:37.223Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "ginkgo",
+        "project_id": 37331478,
+        "project_path": "xiaomi/ginkgo"
+      },
+      "revision": "f5cc5837b1bf4113d85b853a38430716df38ac5d",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/ginkgo/-/tree/f5cc5837b1bf4113d85b853a38430716df38ac5d"
+    },
+    {
+      "item_id": "xiaomi/ginkgo@ginkgo-user-11-RKQ1.201004.002-V12.5.4.0.RCOCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "ginkgo-user-11-RKQ1.201004.002-V12.5.4.0.RCOCNXM-release-keys",
+        "commit": "bdf9a03e68895807049e663009b7fb4004f5242d",
+        "committed_date": "2022-06-25T14:30:11.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-09T06:50:37.223Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "ginkgo",
+        "project_id": 37331478,
+        "project_path": "xiaomi/ginkgo"
+      },
+      "revision": "bdf9a03e68895807049e663009b7fb4004f5242d",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/ginkgo/-/tree/bdf9a03e68895807049e663009b7fb4004f5242d"
+    },
+    {
+      "item_id": "xiaomi/goya@missi-user-16-BP2A.250605.031.A3-OS3.0.9.0.WOEMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-16-BP2A.250605.031.A3-OS3.0.9.0.WOEMIXM-release-keys",
+        "commit": "7e1e9d688c5f3121bae21236aa36fcfc928ae981",
+        "committed_date": "2026-04-30T20:44:28.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-04-30T20:24:39.846Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "goya",
+        "project_id": 81807512,
+        "project_path": "xiaomi/goya"
+      },
+      "revision": "7e1e9d688c5f3121bae21236aa36fcfc928ae981",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/goya/-/tree/7e1e9d688c5f3121bae21236aa36fcfc928ae981"
+    },
+    {
+      "item_id": "xiaomi/grus@grus-user-10-QKQ1.190828.002-20.5.13-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "grus-user-10-QKQ1.190828.002-20.5.13-release-keys",
+        "commit": "a490af07fe142c59b1e916db2df7bb8480d68683",
+        "committed_date": "2022-05-26T20:18:20.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-05-26T14:48:14.293Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "grus",
+        "project_id": 36514182,
+        "project_path": "xiaomi/grus"
+      },
+      "revision": "a490af07fe142c59b1e916db2df7bb8480d68683",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/grus/-/tree/a490af07fe142c59b1e916db2df7bb8480d68683"
+    },
+    {
+      "item_id": "xiaomi/haydn@V13.0.1.0.SKKMIXM",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "V13.0.1.0.SKKMIXM",
+        "commit": "a240f129ca80217adb1301fb0b5cb2f252772f18",
+        "committed_date": "2022-04-04T09:09:28.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-04-04T03:57:52.662Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "haydn",
+        "project_id": 34517144,
+        "project_path": "xiaomi/haydn"
+      },
+      "revision": "a240f129ca80217adb1301fb0b5cb2f252772f18",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/haydn/-/tree/a240f129ca80217adb1301fb0b5cb2f252772f18"
+    },
+    {
+      "item_id": "xiaomi/haydn@V13.0.6.0.SKKCNXM",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "V13.0.6.0.SKKCNXM",
+        "commit": "4e9d787d7c202f494e946ad3593a1dc872e86740",
+        "committed_date": "2022-03-16T00:45:54.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-04-04T03:57:52.662Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "haydn",
+        "project_id": 34517144,
+        "project_path": "xiaomi/haydn"
+      },
+      "revision": "4e9d787d7c202f494e946ad3593a1dc872e86740",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/haydn/-/tree/4e9d787d7c202f494e946ad3593a1dc872e86740"
+    },
+    {
+      "item_id": "xiaomi/haydnin@missi-user-11-RKQ1.201112.002-V12.5.5.0.RKKINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-11-RKQ1.201112.002-V12.5.5.0.RKKINXM-release-keys",
+        "commit": "ec7d9d7f6b671aec744f1f4f19498659315b01d3",
+        "committed_date": "2022-04-04T12:08:49.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-04-04T06:38:47.514Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "haydnin",
+        "project_id": 35054686,
+        "project_path": "xiaomi/haydnin"
+      },
+      "revision": "ec7d9d7f6b671aec744f1f4f19498659315b01d3",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/haydnin/-/tree/ec7d9d7f6b671aec744f1f4f19498659315b01d3"
+    },
+    {
+      "item_id": "xiaomi/jasmine_sprout@jasmine-user-10-QKQ1.190910.002-V11.0.28.0.QDIMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "jasmine-user-10-QKQ1.190910.002-V11.0.28.0.QDIMIXM-release-keys",
+        "commit": "14d2f67c722b0d1410635b135ce5d22ff6ebd163",
+        "committed_date": "2022-01-05T19:04:01.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-03-11T15:55:46.415Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "jasmine_sprout",
+        "project_id": 32379450,
+        "project_path": "xiaomi/jasmine_sprout"
+      },
+      "revision": "14d2f67c722b0d1410635b135ce5d22ff6ebd163",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/jasmine_sprout/-/tree/14d2f67c722b0d1410635b135ce5d22ff6ebd163"
+    },
+    {
+      "item_id": "xiaomi/jasmine_sprout@jasmine-user-9-PKQ1.180904.001-V10.0.2.0.PDIMIFJ-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "jasmine-user-9-PKQ1.180904.001-V10.0.2.0.PDIMIFJ-release-keys",
+        "commit": "5ba52edad8580662e007736e7b56f4c37a85df83",
+        "committed_date": "2022-03-11T21:30:16.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-03-11T15:55:46.415Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "jasmine_sprout",
+        "project_id": 32379450,
+        "project_path": "xiaomi/jasmine_sprout"
+      },
+      "revision": "5ba52edad8580662e007736e7b56f4c37a85df83",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/jasmine_sprout/-/tree/5ba52edad8580662e007736e7b56f4c37a85df83"
+    },
+    {
+      "item_id": "xiaomi/jasmine_sprout@jasmine-user-9-PKQ1.180904.001-V10.0.9.0.PDIMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "jasmine-user-9-PKQ1.180904.001-V10.0.9.0.PDIMIXM-release-keys",
+        "commit": "bb7847bd02f0938e76da0c088a35966216c21e2f",
+        "committed_date": "2021-12-25T19:15:12.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-03-11T15:55:46.415Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "jasmine_sprout",
+        "project_id": 32379450,
+        "project_path": "xiaomi/jasmine_sprout"
+      },
+      "revision": "bb7847bd02f0938e76da0c088a35966216c21e2f",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/jasmine_sprout/-/tree/bb7847bd02f0938e76da0c088a35966216c21e2f"
+    },
+    {
+      "item_id": "xiaomi/land@V10.2.2.0.MALMIXM",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "V10.2.2.0.MALMIXM",
+        "commit": "9a1fa4dcf4b33dc8187e42e3c9117e0260c597cb",
+        "committed_date": "2022-03-17T22:57:37.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-05-22T17:24:57.125Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "land",
+        "project_id": 34581838,
+        "project_path": "xiaomi/land"
+      },
+      "revision": "9a1fa4dcf4b33dc8187e42e3c9117e0260c597cb",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/land/-/tree/9a1fa4dcf4b33dc8187e42e3c9117e0260c597cb"
+    },
+    {
+      "item_id": "xiaomi/land@land-user-6.0.1-MMB29M-V10.2.2.0.MALCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "land-user-6.0.1-MMB29M-V10.2.2.0.MALCNXM-release-keys",
+        "commit": "bd6f8b33f389b237f0802f453f216104a9a184da",
+        "committed_date": "2022-05-16T19:55:17.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-05-22T17:24:57.125Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "land",
+        "project_id": 34581838,
+        "project_path": "xiaomi/land"
+      },
+      "revision": "bd6f8b33f389b237f0802f453f216104a9a184da",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/land/-/tree/bd6f8b33f389b237f0802f453f216104a9a184da"
+    },
+    {
+      "item_id": "xiaomi/land@land-user-6.0.1-MMB29M-V10.2.2.0.MALMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "land-user-6.0.1-MMB29M-V10.2.2.0.MALMIXM-release-keys",
+        "commit": "8fe8f9422b65de1468a9bcd063c4d45bbd45ea22",
+        "committed_date": "2022-05-22T22:51:35.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-05-22T17:24:57.125Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "land",
+        "project_id": 34581838,
+        "project_path": "xiaomi/land"
+      },
+      "revision": "8fe8f9422b65de1468a9bcd063c4d45bbd45ea22",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/land/-/tree/8fe8f9422b65de1468a9bcd063c4d45bbd45ea22"
+    },
+    {
+      "item_id": "xiaomi/land@land-userdebug-6.0.1-MMB29M-FACTORY20-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "land-userdebug-6.0.1-MMB29M-FACTORY20-test-keys",
+        "commit": "957977aa870dd7f52c2c7136807efaea68774c77",
+        "committed_date": "2022-04-10T23:11:39.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-05-22T17:24:57.125Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "land",
+        "project_id": 34581838,
+        "project_path": "xiaomi/land"
+      },
+      "revision": "957977aa870dd7f52c2c7136807efaea68774c77",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/land/-/tree/957977aa870dd7f52c2c7136807efaea68774c77"
+    },
+    {
+      "item_id": "xiaomi/laurel_sprout@laurel_sprout-user-11-RKQ1.200903.002-V12.0.15.0.RFQMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "laurel_sprout-user-11-RKQ1.200903.002-V12.0.15.0.RFQMIXM-release-keys",
+        "commit": "9ac7883a16fbeb5a7c1ac2821a47898c7af10c24",
+        "committed_date": "2022-06-27T18:07:42.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-06-27T12:42:34.003Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "laurel_sprout",
+        "project_id": 34388727,
+        "project_path": "xiaomi/laurel_sprout"
+      },
+      "revision": "9ac7883a16fbeb5a7c1ac2821a47898c7af10c24",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/laurel_sprout/-/tree/9ac7883a16fbeb5a7c1ac2821a47898c7af10c24"
+    },
+    {
+      "item_id": "xiaomi/laurel_sprout@qssi-user-11-RKQ1.200903.002-V12.0.20.0.RFQMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200903.002-V12.0.20.0.RFQMIXM-release-keys",
+        "commit": "722f02cebfdfc409f6a5098e740ad0b1e9ac277d",
+        "committed_date": "2022-03-10T23:49:41.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-06-27T12:42:34.003Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "laurel_sprout",
+        "project_id": 34388727,
+        "project_path": "xiaomi/laurel_sprout"
+      },
+      "revision": "722f02cebfdfc409f6a5098e740ad0b1e9ac277d",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/laurel_sprout/-/tree/722f02cebfdfc409f6a5098e740ad0b1e9ac277d"
+    },
+    {
+      "item_id": "xiaomi/laurel_sprout@qssi-user-11-RKQ1.200903.002-V12.0.22.0.RFQMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200903.002-V12.0.22.0.RFQMIXM-release-keys",
+        "commit": "fa8a806381f0de3a2786786a61dde2c957af0685",
+        "committed_date": "2022-05-19T22:43:27.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-06-27T12:42:34.003Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "laurel_sprout",
+        "project_id": 34388727,
+        "project_path": "xiaomi/laurel_sprout"
+      },
+      "revision": "fa8a806381f0de3a2786786a61dde2c957af0685",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/laurel_sprout/-/tree/fa8a806381f0de3a2786786a61dde2c957af0685"
+    },
+    {
+      "item_id": "xiaomi/lisa@22.6.29",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "22.6.29",
+        "commit": "1cf799d029aa84f419a6adcdfbe98c900ba3b257",
+        "committed_date": "2022-07-01T16:26:24.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-07-05T05:11:59.664Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "lisa",
+        "project_id": 37487488,
+        "project_path": "xiaomi/lisa"
+      },
+      "revision": "1cf799d029aa84f419a6adcdfbe98c900ba3b257",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/lisa/-/tree/1cf799d029aa84f419a6adcdfbe98c900ba3b257"
+    },
+    {
+      "item_id": "xiaomi/lisa@aospa_lisa-userdebug-12-SKQ1.220420.001-eng.adithy.20220605.132321-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aospa_lisa-userdebug-12-SKQ1.220420.001-eng.adithy.20220605.132321-release-keys",
+        "commit": "a12dcc2787f7fdd326ec9c688ddb5aaf1fb10758",
+        "committed_date": "2022-07-05T10:35:58.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-07-05T05:11:59.664Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "lisa",
+        "project_id": 37487488,
+        "project_path": "xiaomi/lisa"
+      },
+      "revision": "a12dcc2787f7fdd326ec9c688ddb5aaf1fb10758",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/lisa/-/tree/a12dcc2787f7fdd326ec9c688ddb5aaf1fb10758"
+    },
+    {
+      "item_id": "xiaomi/liuqin@missi_pad_cn-user-13-TKQ1.221114.001-V14.0.3.0.TMYCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_pad_cn-user-13-TKQ1.221114.001-V14.0.3.0.TMYCNXM-release-keys",
+        "commit": "20489ae52ad79f5e2468ea4812e282fae73b035d",
+        "committed_date": "2023-04-28T21:50:57.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-28T16:21:00.520Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "liuqin",
+        "project_id": 45575412,
+        "project_path": "xiaomi/liuqin"
+      },
+      "revision": "20489ae52ad79f5e2468ea4812e282fae73b035d",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/liuqin/-/tree/20489ae52ad79f5e2468ea4812e282fae73b035d"
+    },
+    {
+      "item_id": "xiaomi/lotus@lotus-user-8.1.0-O11019-V11.0.10.0.OFIMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "lotus-user-8.1.0-O11019-V11.0.10.0.OFIMIXM-release-keys",
+        "commit": "642b79f9a196c0293da9728d5114fe867de44153",
+        "committed_date": "2022-05-23T11:49:52.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-05-23T06:19:51.220Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "lotus",
+        "project_id": 36397961,
+        "project_path": "xiaomi/lotus"
+      },
+      "revision": "642b79f9a196c0293da9728d5114fe867de44153",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/lotus/-/tree/642b79f9a196c0293da9728d5114fe867de44153"
+    },
+    {
+      "item_id": "xiaomi/mgvi_64_armv82@missi-user-16-BP2A.250605.031.A3-OS3.0.3.0.WNLEUXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-16-BP2A.250605.031.A3-OS3.0.3.0.WNLEUXM-release-keys",
+        "commit": "1c82fedbe04e9daf941ad6209cdf6120d582cace",
+        "committed_date": "2026-03-02T00:02:23.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-03-01T23:44:32.262Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "mgvi_64_armv82",
+        "project_id": 79895326,
+        "project_path": "xiaomi/mgvi_64_armv82"
+      },
+      "revision": "1c82fedbe04e9daf941ad6209cdf6120d582cace",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/mgvi_64_armv82/-/tree/1c82fedbe04e9daf941ad6209cdf6120d582cace"
+    },
+    {
+      "item_id": "xiaomi/miatoll@aospa_miatoll-userdebug-12-SKQ1.220502.001-eng.007.20220525.004551-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aospa_miatoll-userdebug-12-SKQ1.220502.001-eng.007.20220525.004551-release-keys",
+        "commit": "6baec61c55a872797e73dcb71635cf1028b8d8ac",
+        "committed_date": "2022-06-25T09:38:30.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-02T19:46:28.426Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "miatoll",
+        "project_id": 37328660,
+        "project_path": "xiaomi/miatoll"
+      },
+      "revision": "6baec61c55a872797e73dcb71635cf1028b8d8ac",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/miatoll/-/tree/6baec61c55a872797e73dcb71635cf1028b8d8ac"
+    },
+    {
+      "item_id": "xiaomi/miatoll@miatoll_global-user-12-RKQ1.211019.001-V13.0.2.0.SJWMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "miatoll_global-user-12-RKQ1.211019.001-V13.0.2.0.SJWMIXM-release-keys",
+        "commit": "c629597e279a9ce9bd32007cd54dd7f9d3dc0c08",
+        "committed_date": "2023-04-03T01:10:42.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-04-02T19:46:28.426Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "miatoll",
+        "project_id": 37328660,
+        "project_path": "xiaomi/miatoll"
+      },
+      "revision": "c629597e279a9ce9bd32007cd54dd7f9d3dc0c08",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/miatoll/-/tree/c629597e279a9ce9bd32007cd54dd7f9d3dc0c08"
+    },
+    {
+      "item_id": "xiaomi/mido@mido-user-7.0-NRD90M-V11.0.2.0.NCFCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "mido-user-7.0-NRD90M-V11.0.2.0.NCFCNXM-release-keys",
+        "commit": "9f8cc4bfe95b1c65e04e91a11d14a41172006344",
+        "committed_date": "2023-03-08T13:34:18.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-03-08T08:07:37.807Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "mido",
+        "project_id": 35180796,
+        "project_path": "xiaomi/mido"
+      },
+      "revision": "9f8cc4bfe95b1c65e04e91a11d14a41172006344",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/mido/-/tree/9f8cc4bfe95b1c65e04e91a11d14a41172006344"
+    },
+    {
+      "item_id": "xiaomi/mido@mido-user-7.0-NRD90M-V11.0.2.0.NCFMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "mido-user-7.0-NRD90M-V11.0.2.0.NCFMIXM-release-keys",
+        "commit": "dca39f5ea03312a0dcea6ac613be6b5dd55413dd",
+        "committed_date": "2022-04-07T23:29:03.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-03-08T08:07:37.807Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "mido",
+        "project_id": 35180796,
+        "project_path": "xiaomi/mido"
+      },
+      "revision": "dca39f5ea03312a0dcea6ac613be6b5dd55413dd",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/mido/-/tree/dca39f5ea03312a0dcea6ac613be6b5dd55413dd"
+    },
+    {
+      "item_id": "xiaomi/mihal@missi-user-12-SP1A.210812.016-V13.0.9.0.SLNCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SP1A.210812.016-V13.0.9.0.SLNCNXM-release-keys",
+        "commit": "f55e68498daa21ec88d03e618f7ee42ee1ec82ee",
+        "committed_date": "2022-04-26T00:22:44.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2024-01-24T07:45:18.651Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "mihal",
+        "project_id": 35610677,
+        "project_path": "xiaomi/mihal"
+      },
+      "revision": "f55e68498daa21ec88d03e618f7ee42ee1ec82ee",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/mihal/-/tree/f55e68498daa21ec88d03e618f7ee42ee1ec82ee"
+    },
+    {
+      "item_id": "xiaomi/mihal@missi-user-12-SP1A.210812.016-V13.1.4.0.SLYMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SP1A.210812.016-V13.1.4.0.SLYMIXM-release-keys",
+        "commit": "073d3d89eef6c3a3c482fa59274ead29476fddd0",
+        "committed_date": "2022-10-06T13:01:31.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2024-01-24T07:45:18.651Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "mihal",
+        "project_id": 35610677,
+        "project_path": "xiaomi/mihal"
+      },
+      "revision": "073d3d89eef6c3a3c482fa59274ead29476fddd0",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/mihal/-/tree/073d3d89eef6c3a3c482fa59274ead29476fddd0"
+    },
+    {
+      "item_id": "xiaomi/mihal@missi_phone_global-user-14-UP1A.230905.011-V816.0.5.0.ULQMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-14-UP1A.230905.011-V816.0.5.0.ULQMIXM-release-keys",
+        "commit": "3ff4cc5396dfd49be2aad8dea30e89fb777a28f5",
+        "committed_date": "2024-01-24T07:49:37.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2024-01-24T07:45:18.651Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "mihal",
+        "project_id": 35610677,
+        "project_path": "xiaomi/mihal"
+      },
+      "revision": "3ff4cc5396dfd49be2aad8dea30e89fb777a28f5",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/mihal/-/tree/3ff4cc5396dfd49be2aad8dea30e89fb777a28f5"
+    },
+    {
+      "item_id": "xiaomi/mona@V13.0.5.0.SKVCNXM",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "V13.0.5.0.SKVCNXM",
+        "commit": "cfaed472b1aee99d09a0292488f5e0207ca8076b",
+        "committed_date": "2022-07-06T12:14:39.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-07-06T06:44:36.413Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "mona",
+        "project_id": 37601762,
+        "project_path": "xiaomi/mona"
+      },
+      "revision": "cfaed472b1aee99d09a0292488f5e0207ca8076b",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/mona/-/tree/cfaed472b1aee99d09a0292488f5e0207ca8076b"
+    },
+    {
+      "item_id": "xiaomi/monet@qssi-user-11-RKQ1.200826.002-V12.5.6.0.RJIMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V12.5.6.0.RJIMIXM-release-keys",
+        "commit": "0cd8d17f50e55e11790fb681f7083b81ad8e2180",
+        "committed_date": "2022-03-08T12:31:05.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-03-08T12:10:55.747Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "monet",
+        "project_id": 34306174,
+        "project_path": "xiaomi/monet"
+      },
+      "revision": "0cd8d17f50e55e11790fb681f7083b81ad8e2180",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/monet/-/tree/0cd8d17f50e55e11790fb681f7083b81ad8e2180"
+    },
+    {
+      "item_id": "xiaomi/nezha@missi-user-16-BP2A.250605.031.A3-16OS3.1.260709.215104355.QCPEGL.S-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-16-BP2A.250605.031.A3-16OS3.1.260709.215104355.QCPEGL.S-release-keys",
+        "commit": "8c844d72ffd08763f2d92ad5d8a9fd4955bde6e8",
+        "committed_date": "2026-09-29T14:09:29.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-09-29T13:35:20.799Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "nezha",
+        "project_id": 87033634,
+        "project_path": "xiaomi/nezha"
+      },
+      "revision": "8c844d72ffd08763f2d92ad5d8a9fd4955bde6e8",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/nezha/-/tree/8c844d72ffd08763f2d92ad5d8a9fd4955bde6e8"
+    },
+    {
+      "item_id": "xiaomi/onc@onc-user-10-QKQ1.191008.001-V12.5.1.0.QFLCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "onc-user-10-QKQ1.191008.001-V12.5.1.0.QFLCNXM-release-keys",
+        "commit": "1e452d86da6304a3c73e4fedc1dd238935c99bc6",
+        "committed_date": "2022-05-04T23:59:25.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-05-04T18:29:23.012Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "onc",
+        "project_id": 35888173,
+        "project_path": "xiaomi/onc"
+      },
+      "revision": "1e452d86da6304a3c73e4fedc1dd238935c99bc6",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/onc/-/tree/1e452d86da6304a3c73e4fedc1dd238935c99bc6"
+    },
+    {
+      "item_id": "xiaomi/pine@pine-user-10-QKQ1.191014.001-V11.0.2.0.QCMCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "pine-user-10-QKQ1.191014.001-V11.0.2.0.QCMCNXM-release-keys",
+        "commit": "bf5afef3e0e70b03d8d5323bdcaa556e404776d4",
+        "committed_date": "2022-11-05T08:33:33.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-11-05T08:37:34.443Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "pine",
+        "project_id": 34415027,
+        "project_path": "xiaomi/pine"
+      },
+      "revision": "bf5afef3e0e70b03d8d5323bdcaa556e404776d4",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/pine/-/tree/bf5afef3e0e70b03d8d5323bdcaa556e404776d4"
+    },
+    {
+      "item_id": "xiaomi/pine@pine-user-10-QKQ1.191014.001-V12.5.1.0.QCMINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "pine-user-10-QKQ1.191014.001-V12.5.1.0.QCMINXM-release-keys",
+        "commit": "47aa04c782c27a7b854d5c4772ac98e6d4451a1d",
+        "committed_date": "2022-05-23T11:53:17.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-11-05T08:37:34.443Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "pine",
+        "project_id": 34415027,
+        "project_path": "xiaomi/pine"
+      },
+      "revision": "47aa04c782c27a7b854d5c4772ac98e6d4451a1d",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/pine/-/tree/47aa04c782c27a7b854d5c4772ac98e6d4451a1d"
+    },
+    {
+      "item_id": "xiaomi/pine@pine-user-10-QKQ1.191014.001-V12.5.2.0.QCMMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "pine-user-10-QKQ1.191014.001-V12.5.2.0.QCMMIXM-release-keys",
+        "commit": "80a3e8d02883c505ec653aee73e8cdeda8fd0589",
+        "committed_date": "2022-03-11T21:10:53.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-11-05T08:37:34.443Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "pine",
+        "project_id": 34415027,
+        "project_path": "xiaomi/pine"
+      },
+      "revision": "80a3e8d02883c505ec653aee73e8cdeda8fd0589",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/pine/-/tree/80a3e8d02883c505ec653aee73e8cdeda8fd0589"
+    },
+    {
+      "item_id": "xiaomi/pipa@missi_pad_cn-user-13-TKQ1.221114.001-V14.0.4.0.TMZCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_pad_cn-user-13-TKQ1.221114.001-V14.0.4.0.TMZCNXM-release-keys",
+        "commit": "102b97743ba08919e3a3726fc0da11e029301310",
+        "committed_date": "2023-04-28T22:20:54.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-28T17:03:20.074Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "pipa",
+        "project_id": 45574336,
+        "project_path": "xiaomi/pipa"
+      },
+      "revision": "102b97743ba08919e3a3726fc0da11e029301310",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/pipa/-/tree/102b97743ba08919e3a3726fc0da11e029301310"
+    },
+    {
+      "item_id": "xiaomi/pissarro@missi_phoneext4_global-user-13-TP1A.220624.014-V14.0.4.0.TKTINFK-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phoneext4_global-user-13-TP1A.220624.014-V14.0.4.0.TKTINFK-release-keys",
+        "commit": "def83b821588599b99cde9627fa23dbf93683a28",
+        "committed_date": "2023-04-22T08:05:54.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-22T02:35:57.046Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "pissarro",
+        "project_id": 45394839,
+        "project_path": "xiaomi/pissarro"
+      },
+      "revision": "def83b821588599b99cde9627fa23dbf93683a28",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/pissarro/-/tree/def83b821588599b99cde9627fa23dbf93683a28"
+    },
+    {
+      "item_id": "xiaomi/pissarroin@pissarro-user-11-RP1A.200720.011-V12.5.6.0.RKTINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "pissarro-user-11-RP1A.200720.011-V12.5.6.0.RKTINXM-release-keys",
+        "commit": "7a2ceb899936ce35a75fd24dab4a3389f2105ca0",
+        "committed_date": "2022-05-30T16:05:52.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-05-30T10:35:50.750Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "pissarroin",
+        "project_id": 36593799,
+        "project_path": "xiaomi/pissarroin"
+      },
+      "revision": "7a2ceb899936ce35a75fd24dab4a3389f2105ca0",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/pissarroin/-/tree/7a2ceb899936ce35a75fd24dab4a3389f2105ca0"
+    },
+    {
+      "item_id": "xiaomi/psyche@V13.0.1.0.SLDMIXM",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "V13.0.1.0.SLDMIXM",
+        "commit": "9a5e50db2478ee3cfc6e0b2e2083f78e6bfc7a73",
+        "committed_date": "2022-05-28T20:25:45.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-05-28T15:10:16.209Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "psyche",
+        "project_id": 35565669,
+        "project_path": "xiaomi/psyche"
+      },
+      "revision": "9a5e50db2478ee3cfc6e0b2e2083f78e6bfc7a73",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/psyche/-/tree/9a5e50db2478ee3cfc6e0b2e2083f78e6bfc7a73"
+    },
+    {
+      "item_id": "xiaomi/psyche@qssi-user-11-RKQ1.200826.002-V13.0.5.0.RLDMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200826.002-V13.0.5.0.RLDMIXM-release-keys",
+        "commit": "ac157181ee1282fc7a8d04a6a408ebcecd7ee211",
+        "committed_date": "2022-04-22T14:35:24.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-05-28T15:10:16.209Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "psyche",
+        "project_id": 35565669,
+        "project_path": "xiaomi/psyche"
+      },
+      "revision": "ac157181ee1282fc7a8d04a6a408ebcecd7ee211",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/psyche/-/tree/ac157181ee1282fc7a8d04a6a408ebcecd7ee211"
+    },
+    {
+      "item_id": "xiaomi/raphael@evolution_raphael-userdebug-12-SQ3A.220605.009.B1-1654622533-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "evolution_raphael-userdebug-12-SQ3A.220605.009.B1-1654622533-release-keys",
+        "commit": "596e36ca6f1fd86eaca709dbc4e6a46e9d9fe448",
+        "committed_date": "2022-06-10T08:06:39.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-17T14:52:28.916Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "raphael",
+        "project_id": 34607291,
+        "project_path": "xiaomi/raphael"
+      },
+      "revision": "596e36ca6f1fd86eaca709dbc4e6a46e9d9fe448",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/raphael/-/tree/596e36ca6f1fd86eaca709dbc4e6a46e9d9fe448"
+    },
+    {
+      "item_id": "xiaomi/raphael@hentai_raphael-user-11-RQ3A.210705.001-eng.rohanh.20210710.070437-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "hentai_raphael-user-11-RQ3A.210705.001-eng.rohanh.20210710.070437-release-keys",
+        "commit": "c0a341ce8cf932bb8d2d19f55da3bb29bdeff493",
+        "committed_date": "2022-06-17T14:46:11.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-17T14:52:28.916Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "raphael",
+        "project_id": 34607291,
+        "project_path": "xiaomi/raphael"
+      },
+      "revision": "c0a341ce8cf932bb8d2d19f55da3bb29bdeff493",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/raphael/-/tree/c0a341ce8cf932bb8d2d19f55da3bb29bdeff493"
+    },
+    {
+      "item_id": "xiaomi/raphael@raphael-user-11-RKQ1.200826.002-21.11.24-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "raphael-user-11-RKQ1.200826.002-21.11.24-release-keys",
+        "commit": "b850b8eaab4c3f1701433552e5c7442f3716b83e",
+        "committed_date": "2022-04-17T23:08:54.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-06-17T14:52:28.916Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "raphael",
+        "project_id": 34607291,
+        "project_path": "xiaomi/raphael"
+      },
+      "revision": "b850b8eaab4c3f1701433552e5c7442f3716b83e",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/raphael/-/tree/b850b8eaab4c3f1701433552e5c7442f3716b83e"
+    },
+    {
+      "item_id": "xiaomi/raphael@raphael-user-11-RKQ1.200826.002-V12.5.2.0.RFKMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "raphael-user-11-RKQ1.200826.002-V12.5.2.0.RFKMIXM-release-keys",
+        "commit": "942e05c8478ce51fda36f0a95a3ca67b0808e050",
+        "committed_date": "2022-06-13T18:33:56.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-17T14:52:28.916Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "raphael",
+        "project_id": 34607291,
+        "project_path": "xiaomi/raphael"
+      },
+      "revision": "942e05c8478ce51fda36f0a95a3ca67b0808e050",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/raphael/-/tree/942e05c8478ce51fda36f0a95a3ca67b0808e050"
+    },
+    {
+      "item_id": "xiaomi/raphael@raphael-user-11-RKQ1.200826.002-V12.5.6.0.RFKCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "raphael-user-11-RKQ1.200826.002-V12.5.6.0.RFKCNXM-release-keys",
+        "commit": "ee9ff3c53315362e9f22c5b78113743ae406268f",
+        "committed_date": "2022-03-18T18:56:18.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-06-17T14:52:28.916Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "raphael",
+        "project_id": 34607291,
+        "project_path": "xiaomi/raphael"
+      },
+      "revision": "ee9ff3c53315362e9f22c5b78113743ae406268f",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/raphael/-/tree/ee9ff3c53315362e9f22c5b78113743ae406268f"
+    },
+    {
+      "item_id": "xiaomi/raphaelin@raphaelin-user-10-QKQ1.190825.002-V12.0.6.0.QFKINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "raphaelin-user-10-QKQ1.190825.002-V12.0.6.0.QFKINXM-release-keys",
+        "commit": "3294315c8503441b0d24e51902aa8e78ff902676",
+        "committed_date": "2023-03-12T13:55:27.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-03-12T08:25:29.705Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "raphaelin",
+        "project_id": 44241619,
+        "project_path": "xiaomi/raphaelin"
+      },
+      "revision": "3294315c8503441b0d24e51902aa8e78ff902676",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/raphaelin/-/tree/3294315c8503441b0d24e51902aa8e78ff902676"
+    },
+    {
+      "item_id": "xiaomi/riva@riva-user-8.1.0-OPM1.171019.026-V11.0.2.0.OCKMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "riva-user-8.1.0-OPM1.171019.026-V11.0.2.0.OCKMIXM-release-keys",
+        "commit": "55eb99afbfc524ea16df0c08e967e05470b0ba4c",
+        "committed_date": "2022-04-09T13:21:30.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-05-31T17:05:40.238Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "riva",
+        "project_id": 35222530,
+        "project_path": "xiaomi/riva"
+      },
+      "revision": "55eb99afbfc524ea16df0c08e967e05470b0ba4c",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/riva/-/tree/55eb99afbfc524ea16df0c08e967e05470b0ba4c"
+    },
+    {
+      "item_id": "xiaomi/riva@riva-user-8.1.0-OPM1.171019.026-V11.0.6.0.OCKCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "riva-user-8.1.0-OPM1.171019.026-V11.0.6.0.OCKCNXM-release-keys",
+        "commit": "00906e539793394b3a831f95b42482ed3f4c1c75",
+        "committed_date": "2022-05-31T22:30:02.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-05-31T17:05:40.238Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "riva",
+        "project_id": 35222530,
+        "project_path": "xiaomi/riva"
+      },
+      "revision": "00906e539793394b3a831f95b42482ed3f4c1c75",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/riva/-/tree/00906e539793394b3a831f95b42482ed3f4c1c75"
+    },
+    {
+      "item_id": "xiaomi/rolex@rolex-user-7.1.2-N2G47H-V10.2.3.0.NCCMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "rolex-user-7.1.2-N2G47H-V10.2.3.0.NCCMIXM-release-keys",
+        "commit": "236bd7ae9a3599328e538cb1e368cdde556e5d41",
+        "committed_date": "2022-06-16T07:23:19.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-16T07:23:16.055Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "rolex",
+        "project_id": 37070817,
+        "project_path": "xiaomi/rolex"
+      },
+      "revision": "236bd7ae9a3599328e538cb1e368cdde556e5d41",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/rolex/-/tree/236bd7ae9a3599328e538cb1e368cdde556e5d41"
+    },
+    {
+      "item_id": "xiaomi/sagit@sagit-user-7.1.1-NMF26X-V8.2.2.0.NCAMIEC-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sagit-user-7.1.1-NMF26X-V8.2.2.0.NCAMIEC-release-keys",
+        "commit": "2d7bff8bfce65d99dd84b2b531cb8127a42348d5",
+        "committed_date": "2022-04-16T18:13:22.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-04-16T12:27:38.051Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "sagit",
+        "project_id": 35405736,
+        "project_path": "xiaomi/sagit"
+      },
+      "revision": "2d7bff8bfce65d99dd84b2b531cb8127a42348d5",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/sagit/-/tree/2d7bff8bfce65d99dd84b2b531cb8127a42348d5"
+    },
+    {
+      "item_id": "xiaomi/santoni@santoni-user-7.1.2-N2G47H-V11.0.2.0.NAMMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "santoni-user-7.1.2-N2G47H-V11.0.2.0.NAMMIXM-release-keys",
+        "commit": "699af3d060db332a8affc529de6fef1428310dc6",
+        "committed_date": "2022-03-30T17:58:23.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-03-30T12:28:21.956Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "santoni",
+        "project_id": 34933109,
+        "project_path": "xiaomi/santoni"
+      },
+      "revision": "699af3d060db332a8affc529de6fef1428310dc6",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/santoni/-/tree/699af3d060db332a8affc529de6fef1428310dc6"
+    },
+    {
+      "item_id": "xiaomi/star@V13.0.2.0.SKAMIXM",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "V13.0.2.0.SKAMIXM",
+        "commit": "748eb853b68d9a98a09b62ec1bedb8873400c15a",
+        "committed_date": "2022-04-30T11:57:20.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-04-30T06:45:15.155Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "star",
+        "project_id": 35181383,
+        "project_path": "xiaomi/star"
+      },
+      "revision": "748eb853b68d9a98a09b62ec1bedb8873400c15a",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/star/-/tree/748eb853b68d9a98a09b62ec1bedb8873400c15a"
+    },
+    {
+      "item_id": "xiaomi/star@V13.0.5.0.SKAEUXM",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "V13.0.5.0.SKAEUXM",
+        "commit": "13b5dd9f0adc684850126b169dd0ca87361f6436",
+        "committed_date": "2022-04-07T23:42:50.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-04-30T06:45:15.155Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "star",
+        "project_id": 35181383,
+        "project_path": "xiaomi/star"
+      },
+      "revision": "13b5dd9f0adc684850126b169dd0ca87361f6436",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/star/-/tree/13b5dd9f0adc684850126b169dd0ca87361f6436"
+    },
+    {
+      "item_id": "xiaomi/taoyao@missi_phone_global-user-13-TKQ1.220807.001-V14.0.3.0.TLIMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-13-TKQ1.220807.001-V14.0.3.0.TLIMIXM-release-keys",
+        "commit": "f6f2d6911bfc34fc3828995da8fa7e3f8adf3b4c",
+        "committed_date": "2023-04-25T19:55:18.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-04-25T14:39:57.914Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "taoyao",
+        "project_id": 44137837,
+        "project_path": "xiaomi/taoyao"
+      },
+      "revision": "f6f2d6911bfc34fc3828995da8fa7e3f8adf3b4c",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/taoyao/-/tree/f6f2d6911bfc34fc3828995da8fa7e3f8adf3b4c"
+    },
+    {
+      "item_id": "xiaomi/tucana@tucana-user-11-RKQ1.200826.002-22.3.31-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "tucana-user-11-RKQ1.200826.002-22.3.31-release-keys",
+        "commit": "90b0231b746391f9e34b6eff1dd243a318caff8a",
+        "committed_date": "2022-04-07T07:22:05.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-06-06T19:50:44.683Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "tucana",
+        "project_id": 35153458,
+        "project_path": "xiaomi/tucana"
+      },
+      "revision": "90b0231b746391f9e34b6eff1dd243a318caff8a",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/tucana/-/tree/90b0231b746391f9e34b6eff1dd243a318caff8a"
+    },
+    {
+      "item_id": "xiaomi/tucana@tucana-user-11-RKQ1.200826.002-V13.0.1.0.RFDMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "tucana-user-11-RKQ1.200826.002-V13.0.1.0.RFDMIXM-release-keys",
+        "commit": "9fff2a5a2105124a48f1841acbebb446627f4009",
+        "committed_date": "2022-06-06T19:41:15.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-06T19:50:44.683Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "tucana",
+        "project_id": 35153458,
+        "project_path": "xiaomi/tucana"
+      },
+      "revision": "9fff2a5a2105124a48f1841acbebb446627f4009",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/tucana/-/tree/9fff2a5a2105124a48f1841acbebb446627f4009"
+    },
+    {
+      "item_id": "xiaomi/tulip@evolution_tulip-user-12-SQ3A.220605.009.B1-1656488505-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "evolution_tulip-user-12-SQ3A.220605.009.B1-1656488505-release-keys",
+        "commit": "383d98333cafb405313aab9c20870162f85efe50",
+        "committed_date": "2022-06-30T13:33:42.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-06-30T08:07:27.453Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "tulip",
+        "project_id": 32447000,
+        "project_path": "xiaomi/tulip"
+      },
+      "revision": "383d98333cafb405313aab9c20870162f85efe50",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/tulip/-/tree/383d98333cafb405313aab9c20870162f85efe50"
+    },
+    {
+      "item_id": "xiaomi/tulip@tulip-user-9-PKQ1.180904.001-V12.0.1.0.PEKMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "tulip-user-9-PKQ1.180904.001-V12.0.1.0.PEKMIXM-release-keys",
+        "commit": "1d1a6a034aa53bdc37e786b128dab34f7ea59e2e",
+        "committed_date": "2021-12-29T13:12:00.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2022-06-30T08:07:27.453Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "tulip",
+        "project_id": 32447000,
+        "project_path": "xiaomi/tulip"
+      },
+      "revision": "1d1a6a034aa53bdc37e786b128dab34f7ea59e2e",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/tulip/-/tree/1d1a6a034aa53bdc37e786b128dab34f7ea59e2e"
+    },
+    {
+      "item_id": "xiaomi/umi@V13.0.4.0.SJBCNXM",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "V13.0.4.0.SJBCNXM",
+        "commit": "1d2bfe9e28b7c63cbf2733ca5f9543b6fbaf1d0c",
+        "committed_date": "2022-05-11T13:03:04.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-05-11T07:33:00.208Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "umi",
+        "project_id": 36065083,
+        "project_path": "xiaomi/umi"
+      },
+      "revision": "1d2bfe9e28b7c63cbf2733ca5f9543b6fbaf1d0c",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/umi/-/tree/1d2bfe9e28b7c63cbf2733ca5f9543b6fbaf1d0c"
+    },
+    {
+      "item_id": "xiaomi/vayu@V13.0.1.0.SJUINXM",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "V13.0.1.0.SJUINXM",
+        "commit": "d8d8b094c123215dc86c9b9f1ec5f01786e51178",
+        "committed_date": "2022-04-08T17:19:31.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-04-08T12:02:35.816Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "vayu",
+        "project_id": 34391684,
+        "project_path": "xiaomi/vayu"
+      },
+      "revision": "d8d8b094c123215dc86c9b9f1ec5f01786e51178",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/vayu/-/tree/d8d8b094c123215dc86c9b9f1ec5f01786e51178"
+    },
+    {
+      "item_id": "xiaomi/vayu@V13.0.3.0.SJUMIXM",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "V13.0.3.0.SJUMIXM",
+        "commit": "c210642384fc88ec02676379d9e8bf7a9a63b3d5",
+        "committed_date": "2022-03-11T02:38:08.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-04-08T12:02:35.816Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "vayu",
+        "project_id": 34391684,
+        "project_path": "xiaomi/vayu"
+      },
+      "revision": "c210642384fc88ec02676379d9e8bf7a9a63b3d5",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/vayu/-/tree/c210642384fc88ec02676379d9e8bf7a9a63b3d5"
+    },
+    {
+      "item_id": "xiaomi/vili@missi_phone_global-user-13-TKQ1.220829.002-V14.0.3.0.TKDINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi_phone_global-user-13-TKQ1.220829.002-V14.0.3.0.TKDINXM-release-keys",
+        "commit": "740d238560908c9f75243c3c652a3e4064cf3bc3",
+        "committed_date": "2023-06-04T13:43:40.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-08-14T18:41:03.398Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "vili",
+        "project_id": 37618802,
+        "project_path": "xiaomi/vili"
+      },
+      "revision": "740d238560908c9f75243c3c652a3e4064cf3bc3",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/vili/-/tree/740d238560908c9f75243c3c652a3e4064cf3bc3"
+    },
+    {
+      "item_id": "xiaomi/vince@vince-user-8.1.0-OPM1.171019.019-V11.0.2.0.OEGMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "vince-user-8.1.0-OPM1.171019.019-V11.0.2.0.OEGMIXM-release-keys",
+        "commit": "1cb17242e97f73474839a6dec31d794df62676e4",
+        "committed_date": "2022-05-22T22:16:31.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-05-22T16:51:10.444Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "vince",
+        "project_id": 35597405,
+        "project_path": "xiaomi/vince"
+      },
+      "revision": "1cb17242e97f73474839a6dec31d794df62676e4",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/vince/-/tree/1cb17242e97f73474839a6dec31d794df62676e4"
+    },
+    {
+      "item_id": "xiaomi/vince@vince-user-8.1.0-OPM1.171019.019-V11.0.3.0.OEGCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "vince-user-8.1.0-OPM1.171019.019-V11.0.3.0.OEGCNXM-release-keys",
+        "commit": "2253f596cd0db3dcdefb0f8dca41252f6c989d0b",
+        "committed_date": "2022-04-24T01:12:17.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-05-22T16:51:10.444Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "vince",
+        "project_id": 35597405,
+        "project_path": "xiaomi/vince"
+      },
+      "revision": "2253f596cd0db3dcdefb0f8dca41252f6c989d0b",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/vince/-/tree/2253f596cd0db3dcdefb0f8dca41252f6c989d0b"
+    },
+    {
+      "item_id": "xiaomi/violet@aosp_violet-userdebug-12-SQ3A.220605.009.A1-1655488373-test-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "aosp_violet-userdebug-12-SQ3A.220605.009.A1-1655488373-test-keys",
+        "commit": "c1bfa255c5bec024929efaa37934919604503251",
+        "committed_date": "2022-06-22T18:31:22.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-06-28T08:10:08.716Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "violet",
+        "project_id": 37142807,
+        "project_path": "xiaomi/violet"
+      },
+      "revision": "c1bfa255c5bec024929efaa37934919604503251",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/violet/-/tree/c1bfa255c5bec024929efaa37934919604503251"
+    },
+    {
+      "item_id": "xiaomi/violet@evolution_violet-userdebug-12-SQ3A.220605.009.B1-1654929718-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "evolution_violet-userdebug-12-SQ3A.220605.009.B1-1654929718-release-keys",
+        "commit": "a427fedec7f3433c4020f19981b9464453883c94",
+        "committed_date": "2022-06-21T14:18:20.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-06-28T08:10:08.716Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "violet",
+        "project_id": 37142807,
+        "project_path": "xiaomi/violet"
+      },
+      "revision": "a427fedec7f3433c4020f19981b9464453883c94",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/violet/-/tree/a427fedec7f3433c4020f19981b9464453883c94"
+    },
+    {
+      "item_id": "xiaomi/violet@violet-user-10-QKQ1.190915.002-V12.5.1.0.QFHINXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "violet-user-10-QKQ1.190915.002-V12.5.1.0.QFHINXM-release-keys",
+        "commit": "68a2c632b352815c601202ee9ee51705ad84915d",
+        "committed_date": "2022-06-28T13:33:29.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-06-28T08:10:08.716Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "violet",
+        "project_id": 37142807,
+        "project_path": "xiaomi/violet"
+      },
+      "revision": "68a2c632b352815c601202ee9ee51705ad84915d",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/violet/-/tree/68a2c632b352815c601202ee9ee51705ad84915d"
+    },
+    {
+      "item_id": "xiaomi/violet@violet-user-10-QKQ1.190915.002-V12.5.4.0.QFHCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "violet-user-10-QKQ1.190915.002-V12.5.4.0.QFHCNXM-release-keys",
+        "commit": "9f81e26bf96ccb1487ccb5613a1e5e08b1435c76",
+        "committed_date": "2022-06-19T12:40:06.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-06-28T08:10:08.716Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "violet",
+        "project_id": 37142807,
+        "project_path": "xiaomi/violet"
+      },
+      "revision": "9f81e26bf96ccb1487ccb5613a1e5e08b1435c76",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/violet/-/tree/9f81e26bf96ccb1487ccb5613a1e5e08b1435c76"
+    },
+    {
+      "item_id": "xiaomi/virgo@virgo-user-6.0.1-MMB29M-7.11.16-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "virgo-user-6.0.1-MMB29M-7.11.16-release-keys",
+        "commit": "f276fccd9b858ddc19df4264309b8906c2e4c23a",
+        "committed_date": "2023-02-20T21:48:35.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-02-20T16:18:34.495Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "virgo",
+        "project_id": 43686828,
+        "project_path": "xiaomi/virgo"
+      },
+      "revision": "f276fccd9b858ddc19df4264309b8906c2e4c23a",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/virgo/-/tree/f276fccd9b858ddc19df4264309b8906c2e4c23a"
+    },
+    {
+      "item_id": "xiaomi/whyred@whyred-user-9-PKQ1.180904.001-V12.0.2.0.PEIMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "whyred-user-9-PKQ1.180904.001-V12.0.2.0.PEIMIXM-release-keys",
+        "commit": "99f472a71b56dc90f57a5ce7bb58444f5112eca8",
+        "committed_date": "2022-04-13T01:53:51.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-06-15T10:52:02.389Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "whyred",
+        "project_id": 35307687,
+        "project_path": "xiaomi/whyred"
+      },
+      "revision": "99f472a71b56dc90f57a5ce7bb58444f5112eca8",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/whyred/-/tree/99f472a71b56dc90f57a5ce7bb58444f5112eca8"
+    },
+    {
+      "item_id": "xiaomi/whyred@whyred-user-9-PKQ1.180904.001-V12.0.3.0.PEICNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "whyred-user-9-PKQ1.180904.001-V12.0.3.0.PEICNXM-release-keys",
+        "commit": "b18852edbc206cd91826f26b66b6f3ad31a41250",
+        "committed_date": "2022-06-15T10:47:27.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2022-06-15T10:52:02.389Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "whyred",
+        "project_id": 35307687,
+        "project_path": "xiaomi/whyred"
+      },
+      "revision": "b18852edbc206cd91826f26b66b6f3ad31a41250",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/whyred/-/tree/b18852edbc206cd91826f26b66b6f3ad31a41250"
+    },
+    {
+      "item_id": "xiaomi/xuanyuan@missi-user-16-BP2A.250605.031.A3-OS3.0.9.0.WOAMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-16-BP2A.250605.031.A3-OS3.0.9.0.WOAMIXM-release-keys",
+        "commit": "82f4a647bda36057511b9a1358484a7c9f259fce",
+        "committed_date": "2026-04-14T11:27:30.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-04-14T10:58:40.942Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "xuanyuan",
+        "project_id": 81294262,
+        "project_path": "xiaomi/xuanyuan"
+      },
+      "revision": "82f4a647bda36057511b9a1358484a7c9f259fce",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/xuanyuan/-/tree/82f4a647bda36057511b9a1358484a7c9f259fce"
+    },
+    {
+      "item_id": "xiaomi/zeus@missi-user-12-SKQ1.211006.001-V13.0.25.1.16.DEV-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.211006.001-V13.0.25.1.16.DEV-release-keys",
+        "commit": "f94acd123a848a8a28cc3a669052fb0cdd7bb08f",
+        "committed_date": "2022-03-20T23:01:21.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-04-21T10:33:01.257Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "zeus",
+        "project_id": 34644492,
+        "project_path": "xiaomi/zeus"
+      },
+      "revision": "f94acd123a848a8a28cc3a669052fb0cdd7bb08f",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/zeus/-/tree/f94acd123a848a8a28cc3a669052fb0cdd7bb08f"
+    },
+    {
+      "item_id": "xiaomi/zeus@missi-user-12-SKQ1.211006.001-V13.0.5.0.SLBMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-12-SKQ1.211006.001-V13.0.5.0.SLBMIXM-release-keys",
+        "commit": "ee8d67350994c4065e4c6fcff816f18fbf8de9ed",
+        "committed_date": "2022-04-21T15:34:38.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2022-04-21T10:33:01.257Z",
+        "namespace_hint": "xiaomi",
+        "project_hint": "zeus",
+        "project_id": 34644492,
+        "project_path": "xiaomi/zeus"
+      },
+      "revision": "ee8d67350994c4065e4c6fcff816f18fbf8de9ed",
+      "url": "https://gitlab.com/Android-Dumps/xiaomi/zeus/-/tree/ee8d67350994c4065e4c6fcff816f18fbf8de9ed"
+    }
+  ],
+  "provider_id": "android_dumps_gitlab",
+  "schema_version": "1.0",
+  "status": "ok"
+}

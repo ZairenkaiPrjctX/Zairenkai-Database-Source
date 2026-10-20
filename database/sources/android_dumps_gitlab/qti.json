@@ -1,0 +1,128 @@
+{
+  "checked_at": "2026-10-19T03:41:19Z",
+  "errors": [],
+  "items": [
+    {
+      "item_id": "qti/atoll@qssi-user-12-SKQ1.211113.001-1676448426623-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211113.001-1676448426623-release-keys",
+        "commit": "44439cf659bd960b2e5651c47c1899d3a14140b5",
+        "committed_date": "2023-03-14T15:11:10.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-03-14T09:41:12.502Z",
+        "namespace_hint": "qti",
+        "project_hint": "atoll",
+        "project_id": 44297055,
+        "project_path": "qti/atoll"
+      },
+      "revision": "44439cf659bd960b2e5651c47c1899d3a14140b5",
+      "url": "https://gitlab.com/Android-Dumps/qti/atoll/-/tree/44439cf659bd960b2e5651c47c1899d3a14140b5"
+    },
+    {
+      "item_id": "qti/holi@qssi-user-12-SKQ1.211113.001-1652873484997-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211113.001-1652873484997-release-keys",
+        "commit": "5e13c6591ed048b63404347d31a6d9f2a7fbfad6",
+        "committed_date": "2022-06-23T14:39:47.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-02-27T06:07:39.067Z",
+        "namespace_hint": "qti",
+        "project_hint": "holi",
+        "project_id": 37276387,
+        "project_path": "qti/holi"
+      },
+      "revision": "5e13c6591ed048b63404347d31a6d9f2a7fbfad6",
+      "url": "https://gitlab.com/Android-Dumps/qti/holi/-/tree/5e13c6591ed048b63404347d31a6d9f2a7fbfad6"
+    },
+    {
+      "item_id": "qti/holi@qssi-user-13-TP1A.220905.001-1671645209415-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1671645209415-release-keys",
+        "commit": "11f7ff1552c715261ba98f0c0c017711fa4ceacb",
+        "committed_date": "2023-02-27T11:24:36.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-02-27T06:07:39.067Z",
+        "namespace_hint": "qti",
+        "project_hint": "holi",
+        "project_id": 37276387,
+        "project_path": "qti/holi"
+      },
+      "revision": "11f7ff1552c715261ba98f0c0c017711fa4ceacb",
+      "url": "https://gitlab.com/Android-Dumps/qti/holi/-/tree/11f7ff1552c715261ba98f0c0c017711fa4ceacb"
+    },
+    {
+      "item_id": "qti/kona@qssi-user-12-SKQ1.211113.001-1650566304902-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211113.001-1650566304902-release-keys",
+        "commit": "a64ba6eca667993c18049add0f1f2a8ba66e2364",
+        "committed_date": "2022-05-26T20:00:01.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-02-25T05:49:47.853Z",
+        "namespace_hint": "qti",
+        "project_hint": "kona",
+        "project_id": 36513787,
+        "project_path": "qti/kona"
+      },
+      "revision": "a64ba6eca667993c18049add0f1f2a8ba66e2364",
+      "url": "https://gitlab.com/Android-Dumps/qti/kona/-/tree/a64ba6eca667993c18049add0f1f2a8ba66e2364"
+    },
+    {
+      "item_id": "qti/kona@qssi-user-13-TP1A.220905.001-1665197152519-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-13-TP1A.220905.001-1665197152519-release-keys",
+        "commit": "6c57f7ae229133894086ad9e2a4df86d753026c4",
+        "committed_date": "2023-02-25T11:05:57.000+05:30",
+        "default_branch": false,
+        "last_activity_at": "2023-02-25T05:49:47.853Z",
+        "namespace_hint": "qti",
+        "project_hint": "kona",
+        "project_id": 36513787,
+        "project_path": "qti/kona"
+      },
+      "revision": "6c57f7ae229133894086ad9e2a4df86d753026c4",
+      "url": "https://gitlab.com/Android-Dumps/qti/kona/-/tree/6c57f7ae229133894086ad9e2a4df86d753026c4"
+    },
+    {
+      "item_id": "qti/trinket@qssi-user-11-RKQ1.200903.002-1651143221904-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-11-RKQ1.200903.002-1651143221904-release-keys",
+        "commit": "e5211c703a24493b589fb1acd905783a4caaad05",
+        "committed_date": "2022-06-23T14:39:28.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2022-06-23T09:09:31.102Z",
+        "namespace_hint": "qti",
+        "project_hint": "trinket",
+        "project_id": 37276374,
+        "project_path": "qti/trinket"
+      },
+      "revision": "e5211c703a24493b589fb1acd905783a4caaad05",
+      "url": "https://gitlab.com/Android-Dumps/qti/trinket/-/tree/e5211c703a24493b589fb1acd905783a4caaad05"
+    },
+    {
+      "item_id": "qti/veux@qssi-user-12-SKQ1.211006.001-V13.0.4.0.SKCCNXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211006.001-V13.0.4.0.SKCCNXM-release-keys",
+        "commit": "bf0ff849325950a69307eed6990b0e1e435c2029",
+        "committed_date": "2023-02-24T05:21:36.000+05:30",
+        "default_branch": true,
+        "last_activity_at": "2023-02-24T00:02:30.913Z",
+        "namespace_hint": "qti",
+        "project_hint": "veux",
+        "project_id": 43678390,
+        "project_path": "qti/veux"
+      },
+      "revision": "bf0ff849325950a69307eed6990b0e1e435c2029",
+      "url": "https://gitlab.com/Android-Dumps/qti/veux/-/tree/bf0ff849325950a69307eed6990b0e1e435c2029"
+    }
+  ],
+  "provider_id": "android_dumps_gitlab",
+  "schema_version": "1.0",
+  "status": "ok"
+}
