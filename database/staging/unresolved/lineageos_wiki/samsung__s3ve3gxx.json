@@ -5,16 +5,16 @@
   "codename": "s3ve3gxx",
   "codename_key": "s3ve3gxx",
   "codename_status": "community_reported",
-  "discovered_at": "2026-10-18T20:04:35Z",
+  "discovered_at": "2026-10-20T08:41:51Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "s3ve3gxx.yml (blob 3cafebe0f6b3): codename 's3ve3gxx', name 'Galaxy S III Neo (Sony Camera)'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-10-18T20:04:37Z",
+      "retrieved_at": "2026-10-20T08:41:52Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/s3ve3gxx.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/56a157866af6232edf646ae0f3e1b300e509c8e5/_data/devices/s3ve3gxx.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -47,9 +47,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "3cafebe0f6b310cf9f56b649e2d06369c90c0389",
-    "snapshot": "2c365be2b66336e4da1f3ca3bdd71c17eb819005",
+    "snapshot": "56a157866af6232edf646ae0f3e1b300e509c8e5",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/2c365be2b66336e4da1f3ca3bdd71c17eb819005/_data/devices/s3ve3gxx.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/56a157866af6232edf646ae0f3e1b300e509c8e5/_data/devices/s3ve3gxx.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
