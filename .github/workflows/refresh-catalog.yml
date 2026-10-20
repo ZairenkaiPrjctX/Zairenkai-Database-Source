@@ -69,4 +69,4 @@ jobs:
           AFID_COMMIT_TRAILER: ${{ vars.AFID_COMMIT_TRAILER }}
         run: |
           git apply --index "$RUNNER_TEMP/artifact/database-changes.patch"
-          python scripts/open_data_pr.py --branch-prefix afid/catalog --title "AFID: refresh generated catalog files" --body-file "$RUNNER_TEMP/artifact/catalog-report.md"
+          python scripts/open_data_pr.py --branch afid/catalog --title "AFID: refresh generated catalog files" --body-file "$RUNNER_TEMP/artifact/catalog-report.md"

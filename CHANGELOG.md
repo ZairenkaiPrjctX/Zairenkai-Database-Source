@@ -5,6 +5,14 @@ versioning: SemVer.
 
 ## [Unreleased]
 
+### Changed (data pull requests)
+- Workflows reuse one fixed data branch each (`afid/updates`, `afid/dumps`, `afid/discovery`,
+  `afid/dump-analysis`, `afid/dumprx`, `afid/catalog`) instead of a timestamped branch per run.
+  `scripts/open_data_pr.py` fast-forwards a merged branch, keeps an open pull request's commits
+  (merging the base in when needed), recreates a branch whose pull request was closed, commits
+  only the `database/` files that differ, and updates the open pull request instead of opening
+  another. Still no force-push.
+
 ### Added (AWS CodeBuild metadata pipeline)
 - `registry/sources.json`: versioned source registry for Android-Dumps, dumps.tadiphone.dev
   and DumprX (a tool, never a source). All disabled pending review; enabling needs an

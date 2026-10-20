@@ -49,14 +49,42 @@ pull-requests and actions write) applies the checked patch and runs
 `scripts/open_data_pr.py`, which:
 - refuses any change outside `database/`;
 - re-runs `afid database validate --check-index` and `afid policy check`;
-- creates a new branch and a commit through the GraphQL `createCommitOnBranch` API, so the
-  commit is created and signed by GitHub instead of being an unsigned bot commit (confirm the
-  "Verified" badge on the first run);
-- opens a pull request against the default branch (never pushes to it, never force-pushes);
-- dispatches `validate.yml` on the new branch, because pull requests opened with
-  `GITHUB_TOKEN` do not trigger workflows by themselves.
+- reuses **one fixed branch per workflow** instead of creating a timestamped branch per run
+  (table below), and keeps at most one open pull request per branch;
+- commits only the `database/` files whose content differs from that branch, through the
+  GraphQL `createCommitOnBranch` API, so the commit is created and signed by GitHub instead of
+  being an unsigned bot commit (confirm the "Verified" badge on the first run);
+- opens the branch's pull request against the default branch, or updates the title and body
+  of the one already open (never pushes to the default branch, never force-pushes);
+- dispatches `validate.yml` on the branch, because pull requests opened with `GITHUB_TOKEN`
+  do not trigger workflows by themselves.
 
-No pull request is created when there is no diff.
+No commit is made when the branch already has the same content, and no pull request is
+created when there is no diff.
+
+| Workflow | Data branch |
+|---|---|
+| `check-updates.yml` | `afid/updates` |
+| `discover-dumps.yml` | `afid/dumps` |
+| `source-discovery.yml` | `afid/discovery` |
+| `reconcile-catalog.yml` | `afid/dump-analysis` |
+| `dump-and-analyze.yml` | `afid/dumprx` |
+| `refresh-catalog.yml` | `afid/catalog` |
+
+How a run treats its branch (`test_open_data_pr.py`):
+- **Missing:** created at the commit the run checked out.
+- **Previous pull request merged** (the branch is an ancestor of the base): fast-forwarded
+  (`test_merged_branch_is_fast_forwarded_not_recreated`).
+- **Pull request still open:** its commits are kept, and the new commit goes on top. If the
+  base moved, it is merged into the branch first; a conflict stops the run and names the pull
+  request to merge or close (`test_open_pull_request_keeps_its_commits`,
+  `test_conflict_with_an_open_pull_request_stops_the_run`).
+- **Commits but no open pull request** (closed unmerged, or squash-merged): recreated at the
+  base, so rejected changes never return (`test_rejected_changes_do_not_come_back`).
+
+A pull request must share the base branch's history, so GitHub's file browser shows each data
+branch as a full repository tree. Its commits and its pull request contain only the data
+files the workflows changed (`test_only_files_that_differ_from_the_branch_are_committed`).
 
 ## Enabling scheduled updates
 

@@ -33,7 +33,7 @@ Non-negotiables in this repo:
 | Purpose | Command | Status |
 |---|---|---|
 | Set up | `scripts/setup_environment.sh` | Verified. Evidence: fresh-venv install with `--require-hashes`, 2026-10-18 |
-| Test | `python -m pytest -q` | Verified. Evidence: 313 passed on host, 2026-10-20 |
+| Test | `python -m pytest -q` | Verified. Evidence: 325 passed on host, 2026-10-20 |
 | Test (pipeline only, no test dependencies) | `PYTHONPATH=src python -m unittest discover -s tests/pipeline -t .` | Verified. Evidence: 58 passed, 2026-10-20 |
 | Lint / format | `ruff check src tests scripts tools && ruff format --check src tests scripts tools` | Verified. Evidence: clean on 2026-10-20 |
 | Type check | `mypy` (strict) | Verified. Evidence: no issues in 56 files on 2026-10-20 |
