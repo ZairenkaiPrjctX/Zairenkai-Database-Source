@@ -1,29 +1,29 @@
 {
-  "checked_at": "2026-10-19T01:56:46Z",
+  "checked_at": "2026-10-19T10:15:24Z",
   "errors": [],
   "items": [
     {
       "item_id": "_project/4769",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2025-02-20T21:51:07.466Z",
         "project_id": 4769,
         "project_path": "oneplus/op5566l1",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2025-02-20T21:51:07.466Z",
       "url": "https://dumps.tadiphone.dev/dumps/oneplus/op5566l1"
     },
     {
       "item_id": "_project/4786",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-03-05T14:03:50.164Z",
         "project_id": 4786,
         "project_path": "oneplus/op5565",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-03-05T14:03:50.164Z",
       "url": "https://dumps.tadiphone.dev/dumps/oneplus/op5565"
     },
     {

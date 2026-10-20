@@ -1,17 +1,17 @@
 {
-  "checked_at": "2026-10-19T01:56:46Z",
+  "checked_at": "2026-10-19T10:15:24Z",
   "errors": [],
   "items": [
     {
       "item_id": "_project/4270",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2023-05-03T12:14:13.100Z",
         "project_id": 4270,
         "project_path": "teclast/p20s_eea",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2023-05-03T12:14:13.100Z",
       "url": "https://dumps.tadiphone.dev/dumps/teclast/p20s_eea"
     },
     {

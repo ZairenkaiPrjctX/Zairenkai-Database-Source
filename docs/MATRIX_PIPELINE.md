@@ -23,7 +23,7 @@ download-dumps.yml      orchestrates one batch:
 | `metadata_verified`, `download_pending`, `downloaded`, `extracted`, `validated`, `license_review_required`, `restricted` | reserved for the DumprX/firmware path and later stages; accepted by the state schema | per status |
 
 Statuses come from three committed sources, so the plan is reproducible: the discovery
-snapshot (`database/sources/`), the catalog's `source_refs`, and the ingestion state
+snapshot (`database/sources/<provider>/*.json`), the catalog's `source_refs`, and the ingestion state
 (`database/state/<provider>.json`, schema `schemas/state.schema.json`).
 
 ## Planning

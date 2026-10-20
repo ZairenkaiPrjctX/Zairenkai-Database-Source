@@ -63,7 +63,11 @@ overwritten (`test_conflicting_dump_is_quarantined`).
 ## How AFID uses a dump source
 
 1. `afid discover --provider <id> --write` lists projects and branches into
-   `database/sources/<id>.json` (one `firmware` item per branch, revision = commit SHA).
+   `database/sources/<id>/<namespace>.json` (one `firmware` item per branch, revision =
+   commit SHA; one file per namespace keeps every file far below the 5 MB repository limit:
+   the 8772-item tadiphone snapshot is 306 files, the largest 958 KB).
+   Projects whose repository API answers 404 (70 on tadiphone) are recorded as
+   `repository_not_readable` markers, not errors.
    Projects whose `last_activity_at` did not change are not re-listed; projects with no
    branches are remembered as `index` markers. A listing with fewer than `min_projects`
    projects is a failed check, so a broken response never marks items removed.

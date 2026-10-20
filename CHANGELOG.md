@@ -5,6 +5,13 @@ versioning: SemVer.
 
 ## [Unreleased]
 
+### Fixed (after the dump-ingestion merge)
+- Dump discovery snapshots are sharded into `database/sources/<provider>/<namespace>.json`
+  plus `_status.json`. The single 6.7 MB tadiphone snapshot exceeded the 5 MB file limit of
+  `afid security scan` and failed `validate`/`security-audit` on PR #4.
+- Projects whose repository API returns HTTP 404 are recorded as `repository_not_readable`
+  markers instead of errors, so a complete listing is `ok`, not `partial`.
+
 ### Added
 - Community firmware dump providers `android_dumps_gitlab` (gitlab.com group
   `Android-Dumps`) and `tadiphone_dumps` (dumps.tadiphone.dev): read-only GitLab client with

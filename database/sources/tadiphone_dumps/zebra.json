@@ -1,17 +1,17 @@
 {
-  "checked_at": "2026-10-19T01:56:46Z",
+  "checked_at": "2026-10-19T10:15:24Z",
   "errors": [],
   "items": [
     {
       "item_id": "_project/5228",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2025-03-01T18:18:28.549Z",
         "project_id": 5228,
         "project_path": "zebra/helios",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2025-03-01T18:18:28.549Z",
       "url": "https://dumps.tadiphone.dev/dumps/zebra/helios"
     },
     {

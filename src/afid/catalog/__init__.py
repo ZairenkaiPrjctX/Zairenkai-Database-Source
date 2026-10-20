@@ -66,7 +66,26 @@ class Store:
         )
 
     def source_path(self, provider: str) -> Path:
+        """Single-file snapshot (device-candidate providers such as lineageos_wiki)."""
         return self.root / "sources" / f"{safe_dirname(provider)}.json"
+
+    def source_dir(self, provider: str) -> Path:
+        """Sharded snapshot of a firmware-item provider: one file per source namespace plus
+        `_status.json`, so no file grows past the repository's file-size limit."""
+        return self.root / "sources" / safe_dirname(provider)
+
+    def source_snapshots(self, provider: str) -> list[Path]:
+        single = self.source_path(provider)
+        shards = sorted(self.source_dir(provider).glob("*.json"))
+        return ([single] if single.exists() else []) + shards
+
+    def source_items(self, provider: str) -> list[dict[str, Any]]:
+        """Every item of a provider's snapshot, whether single-file or sharded."""
+        items: dict[str, dict[str, Any]] = {}
+        for p in self.source_snapshots(provider):
+            for it in jsonio.load(p)["items"]:
+                items[it["item_id"]] = it
+        return [items[k] for k in sorted(items)]
 
     # ---- iteration ---------------------------------------------------------------------------
     def device_files(self) -> Iterator[Path]:
@@ -86,6 +105,7 @@ class Store:
 
     def source_files(self) -> Iterator[Path]:
         yield from sorted((self.root / "sources").glob("*.json"))
+        yield from sorted((self.root / "sources").glob("*/*.json"))
 
     def devices(self) -> list[dict[str, Any]]:
         return [jsonio.load(p) for p in self.device_files()]

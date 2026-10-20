@@ -1,29 +1,29 @@
 {
-  "checked_at": "2026-10-19T01:56:46Z",
+  "checked_at": "2026-10-19T10:15:24Z",
   "errors": [],
   "items": [
     {
       "item_id": "_project/4648",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-05-23T18:39:14.995Z",
         "project_id": 4648,
         "project_path": "realme/re5c37",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-05-23T18:39:14.995Z",
       "url": "https://dumps.tadiphone.dev/dumps/realme/re5c37"
     },
     {
       "item_id": "_project/5342",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-09-07T09:41:09.363Z",
         "project_id": 5342,
         "project_path": "realme/re5c4fl1",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-09-07T09:41:09.363Z",
       "url": "https://dumps.tadiphone.dev/dumps/realme/re5c4fl1"
     },
     {

@@ -1,41 +1,41 @@
 {
-  "checked_at": "2026-10-19T01:56:46Z",
+  "checked_at": "2026-10-19T10:15:24Z",
   "errors": [],
   "items": [
     {
       "item_id": "_project/4301",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2023-12-04T01:24:58.452Z",
         "project_id": 4301,
         "project_path": "oppo/op5989",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2023-12-04T01:24:58.452Z",
       "url": "https://dumps.tadiphone.dev/dumps/oppo/op5989"
     },
     {
       "item_id": "_project/4428",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2023-09-13T07:22:47.156Z",
         "project_id": 4428,
         "project_path": "oppo/op5705l1",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2023-09-13T07:22:47.156Z",
       "url": "https://dumps.tadiphone.dev/dumps/oppo/op5705l1"
     },
     {
       "item_id": "_project/4685",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2024-01-12T12:20:12.811Z",
         "project_id": 4685,
         "project_path": "oppo/op5226l1",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2024-01-12T12:20:12.811Z",
       "url": "https://dumps.tadiphone.dev/dumps/oppo/op5226l1"
     },
     {

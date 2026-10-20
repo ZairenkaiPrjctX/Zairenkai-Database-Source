@@ -1,17 +1,17 @@
 {
-  "checked_at": "2026-10-19T01:56:46Z",
+  "checked_at": "2026-10-19T10:15:24Z",
   "errors": [],
   "items": [
     {
       "item_id": "_project/4371",
       "kind": "index",
       "metadata": {
-        "last_activity_at": null,
+        "last_activity_at": "2023-07-26T17:53:57.743Z",
         "project_id": 4371,
         "project_path": "koobee/sl004t",
         "reason": "repository_not_readable"
       },
-      "revision": null,
+      "revision": "2023-07-26T17:53:57.743Z",
       "url": "https://dumps.tadiphone.dev/dumps/koobee/sl004t"
     }
   ],
