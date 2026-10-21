@@ -5,16 +5,16 @@
   "codename": "bluejay",
   "codename_key": "bluejay",
   "codename_status": "community_reported",
-  "discovered_at": "2026-10-20T08:41:51Z",
+  "discovered_at": "2026-10-21T08:42:43Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "bluejay.yml (blob 94feb65e202b): codename 'bluejay', name 'Pixel 6a'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-10-20T08:41:52Z",
+      "retrieved_at": "2026-10-21T08:42:44Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/56a157866af6232edf646ae0f3e1b300e509c8e5/_data/devices/bluejay.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/504b1dbb59d2b8496002dfb7bbb5f1445aec5d82/_data/devices/bluejay.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -44,9 +44,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "94feb65e202b100abdb3b288f3399f1efa4f5d5b",
-    "snapshot": "56a157866af6232edf646ae0f3e1b300e509c8e5",
+    "snapshot": "504b1dbb59d2b8496002dfb7bbb5f1445aec5d82",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/56a157866af6232edf646ae0f3e1b300e509c8e5/_data/devices/bluejay.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/504b1dbb59d2b8496002dfb7bbb5f1445aec5d82/_data/devices/bluejay.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
