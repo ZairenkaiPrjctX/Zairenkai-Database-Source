@@ -16,7 +16,7 @@ classifications, dependencies, provenance). Proprietary firmware is processed lo
 > gitlab.com, dumps.tadiphone.dev) can now be discovered and analyzed without downloading
 > firmware, and pinned DumprX can unpack local firmware offline; both were exercised against
 > real sources into scratch databases ([docs/SOURCE_INTEGRATION.md](docs/SOURCE_INTEGRATION.md#live-results)).
-> The committed catalog still has **no verified devices** (353 unverified LineageOS Wiki
+> The committed catalog still has **no verified devices** (354 unverified LineageOS Wiki
 > candidates wait in staging) until the dump workflows run and their PRs are reviewed. No CI
 > badges are shown until the workflows have run on GitHub.
 
@@ -161,7 +161,7 @@ Full description, ID rules, validation and migration strategy:
 
 | Provider | Status | What works today |
 |---|---|---|
-| `lineageos_wiki` | metadata_only | device candidates from the LineageOS Wiki; 353 unverified candidates staged from upstream commit `2c365be2` (2026-10-18), 0 parse errors |
+| `lineageos_wiki` | metadata_only | device candidates from the LineageOS Wiki; 353 unverified candidates staged from upstream commit `2c365be2` (2026-10-18), 0 parse errors; 354 after the 2026-10-20 metadata update (`database/statistics.json`) |
 | `local_firmware` | active | local import of archives, images, extracted trees (fixture-tested) |
 | `android_dumps_gitlab` | metadata_only | discovery of 592 dump branches (429 projects) and per-item analysis verified live on 2026-10-19 |
 | `tadiphone_dumps` | metadata_only | per-item analysis and incremental discovery verified live on a subgroup (12 projects, 110 items); a full 2877-project listing has not completed yet |
