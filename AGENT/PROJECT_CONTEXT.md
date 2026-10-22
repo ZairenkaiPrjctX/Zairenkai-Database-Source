@@ -9,7 +9,7 @@
 |---|---|---|
 | Repository | `ZairenkaiPrjctX/Zairenkai-Database-Source` | Verified. Evidence: GitHub API |
 | Project | AFID - Android Firmware Intelligence Database | Verified. Evidence: `README.md`, `pyproject.toml` |
-| Visibility | private | Verified. Evidence: GitHub API |
+| Visibility | public | Verified. Evidence: `list_repos`, 2026-10-22 (earlier entries said private) |
 | Default branch | `dev` | Verified. Evidence: GitHub API 2026-10-18 (set by the owner) |
 | Purpose | Metadata catalog of Android firmware thermal/power components (Thermal HAL, thermal config, Power HAL, PowerHint JSON, vendor libraries, init services, VINTF) for nine core and 22 extended brands | Verified. Evidence: `docs/ARCHITECTURE.md`, `config/brands.yml` |
 
@@ -21,7 +21,7 @@
 | Configuration | `config/*.yml` (settings incl. resources + dumprx pin, brands, provider registry with 14 providers, rules, policy, allowlist, container image lock) | Verified. Evidence: files present, `afid providers test` |
 | JSON Schemas | `schemas/*.schema.json` (11, incl. `state` and the pipeline's `source-registry`, `firmware-record`, `run-manifest`) | Verified. Evidence: meta-validated by `tests/schemas/test_schemas.py` |
 | Container images | `.docker/` (5 Dockerfiles); none published | Verified. Evidence: local build, smoke test, Trivy, Syft 2026-10-19 (`docs/CONTAINER_IMAGES.md`) |
-| Catalog | `database/` (JSON only): 0 verified devices; 353 unverified LineageOS candidates in staging | Verified. Evidence: `database/statistics.json` |
+| Catalog | `database/` (JSON only): 0 verified devices; 354 unverified LineageOS candidates in staging | Verified. Evidence: `database/statistics.json` (`staging_candidates: 354`), 2026-10-22 |
 | Workflows | `.github/workflows/` (13) + `.github/actions/setup-afid` | Verified. Evidence: actionlint (with shellcheck) and check-jsonschema clean, 2026-10-19; **Unverified** on GitHub |
 | CodeBuild metadata pipeline | `src/afid/pipeline/`, `tools/`, `registry/`, `buildspec.yml`, `infra/cloudformation/codebuild.yml` | Verified locally. Evidence: 58 offline tests, dry-run exit 0, cfn-lint clean, 2026-10-20. **Unverified** in AWS: never deployed or built |
 | Tests | `tests/` (325 tests) | Verified. Evidence: `python -m pytest -q` -> 325 passed, 2026-10-20 |
@@ -49,7 +49,8 @@
   `config/provider_registry.yml` (checked 2026-10-18).
 - LineageOS wiki discovery against real upstream data: 353 in-scope candidates, 0 parse errors,
   staged as `unverified` under CC BY-SA 3.0. Verified. Evidence: `database/sources/lineageos_wiki.json`
-  snapshot `2c365be2`, 2026-10-18.
+  snapshot `2c365be2`, 2026-10-18. The metadata update of 2026-10-20 (commit `887e032`) left 354
+  staged candidates (`database/statistics.json`).
 - EROFS, super.img, payload.bin and LZ4 extraction depend on external tools not present in the
   build environment; only the missing-tool paths are tested. Verified. Evidence: `afid doctor`,
   `tests/extraction/test_extraction.py::test_missing_tool_reported_not_faked`.
@@ -70,7 +71,11 @@
 ## Related repositories
 
 - `Zairenkai-ThermalTools`, `Zairenkai-Graphics-Platform`, `Zairenkai-FAS`: intended consumers
-  of AFID thermal/power data. **Unverified**: those repositories contain no code yet.
+  of AFID thermal/power data. ThermalTools and FAS have code but consume no AFID data;
+  Graphics-Platform has no code. **Unverified**: no integration exists (2026-10-22).
+- `Zairenkai-App` and `Zairenkai-Core` read the LineageOS candidates as an offline asset
+  (App lock pins `d9c4290`). Verified. Evidence: App `integration/repository-lock.json`, Core
+  `crates/zcore-platform/src/afid.rs`, 2026-10-22.
 
 - AWS CodeConnections has no endpoint in ap-southeast-3; the CodeBuild project in Jakarta
   must use a connection created in another Region (e.g. ap-southeast-1). Verified. Evidence:
