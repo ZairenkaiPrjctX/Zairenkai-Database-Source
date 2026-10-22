@@ -5,16 +5,16 @@
   "codename": "g0s",
   "codename_key": "g0s",
   "codename_status": "community_reported",
-  "discovered_at": "2026-10-21T08:42:43Z",
+  "discovered_at": "2026-10-22T08:44:46Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "g0s.yml (blob 2b4b8b228465): codename 'g0s', name 'Galaxy S22+'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-10-21T08:42:44Z",
+      "retrieved_at": "2026-10-22T08:44:48Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/504b1dbb59d2b8496002dfb7bbb5f1445aec5d82/_data/devices/g0s.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/7a34d162b9210e523d504598ed026aee9f42f600/_data/devices/g0s.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -47,9 +47,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "2b4b8b2284655dc0dfccb0712f30e69d457b9532",
-    "snapshot": "504b1dbb59d2b8496002dfb7bbb5f1445aec5d82",
+    "snapshot": "7a34d162b9210e523d504598ed026aee9f42f600",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/504b1dbb59d2b8496002dfb7bbb5f1445aec5d82/_data/devices/g0s.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/7a34d162b9210e523d504598ed026aee9f42f600/_data/devices/g0s.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {

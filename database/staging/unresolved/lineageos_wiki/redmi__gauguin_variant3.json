@@ -5,16 +5,16 @@
   "codename": "gauguin",
   "codename_key": "gauguin",
   "codename_status": "community_reported",
-  "discovered_at": "2026-10-21T08:42:43Z",
+  "discovered_at": "2026-10-22T08:44:46Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "gauguin_variant3.yml (blob 86486dd59d7a): codename 'gauguin', name 'Redmi Note 9 Pro 5G'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-10-21T08:42:44Z",
+      "retrieved_at": "2026-10-22T08:44:48Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/504b1dbb59d2b8496002dfb7bbb5f1445aec5d82/_data/devices/gauguin_variant3.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/7a34d162b9210e523d504598ed026aee9f42f600/_data/devices/gauguin_variant3.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -46,9 +46,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "86486dd59d7af5c320a0ce2e35eef515c058e5d0",
-    "snapshot": "504b1dbb59d2b8496002dfb7bbb5f1445aec5d82",
+    "snapshot": "7a34d162b9210e523d504598ed026aee9f42f600",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/504b1dbb59d2b8496002dfb7bbb5f1445aec5d82/_data/devices/gauguin_variant3.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/7a34d162b9210e523d504598ed026aee9f42f600/_data/devices/gauguin_variant3.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
