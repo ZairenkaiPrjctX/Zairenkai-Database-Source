@@ -5,16 +5,16 @@
   "codename": "starlte",
   "codename_key": "starlte",
   "codename_status": "community_reported",
-  "discovered_at": "2026-10-20T08:41:51Z",
+  "discovered_at": "2026-10-23T08:40:37Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "starlte.yml (blob 1c36450f5c02): codename 'starlte', name 'Galaxy S9'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-10-20T08:41:52Z",
+      "retrieved_at": "2026-10-23T08:40:37Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/56a157866af6232edf646ae0f3e1b300e509c8e5/_data/devices/starlte.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/7a34d162b9210e523d504598ed026aee9f42f600/_data/devices/starlte.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -48,9 +48,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "1c36450f5c028fd152c40a8308cfd85d047cfa1b",
-    "snapshot": "56a157866af6232edf646ae0f3e1b300e509c8e5",
+    "snapshot": "7a34d162b9210e523d504598ed026aee9f42f600",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/56a157866af6232edf646ae0f3e1b300e509c8e5/_data/devices/starlte.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/7a34d162b9210e523d504598ed026aee9f42f600/_data/devices/starlte.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {

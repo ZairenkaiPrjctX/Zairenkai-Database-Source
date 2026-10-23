@@ -5,16 +5,16 @@
   "codename": "surya",
   "codename_key": "surya",
   "codename_status": "community_reported",
-  "discovered_at": "2026-10-20T08:41:51Z",
+  "discovered_at": "2026-10-23T08:40:37Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "surya.yml (blob 77f4767f3660): codename 'surya', name 'POCO X3 NFC'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-10-20T08:41:52Z",
+      "retrieved_at": "2026-10-23T08:40:37Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/56a157866af6232edf646ae0f3e1b300e509c8e5/_data/devices/surya.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/7a34d162b9210e523d504598ed026aee9f42f600/_data/devices/surya.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -47,9 +47,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "77f4767f3660a38f1fdc7d388fcb16c9cc330b59",
-    "snapshot": "56a157866af6232edf646ae0f3e1b300e509c8e5",
+    "snapshot": "7a34d162b9210e523d504598ed026aee9f42f600",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/56a157866af6232edf646ae0f3e1b300e509c8e5/_data/devices/surya.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/7a34d162b9210e523d504598ed026aee9f42f600/_data/devices/surya.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
