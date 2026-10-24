@@ -5,16 +5,16 @@
   "codename": "ks01lte",
   "codename_key": "ks01lte",
   "codename_status": "community_reported",
-  "discovered_at": "2026-10-23T08:40:37Z",
+  "discovered_at": "2026-10-24T08:15:26Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "ks01lte.yml (blob b0ab3f1932ff): codename 'ks01lte', name 'Galaxy S4 LTE-A (GT-I9506)'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-10-23T08:40:37Z",
+      "retrieved_at": "2026-10-24T08:15:27Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/7a34d162b9210e523d504598ed026aee9f42f600/_data/devices/ks01lte.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/4ef56a3569213665aae9cfcb5afa88a486440d6c/_data/devices/ks01lte.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -46,9 +46,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "b0ab3f1932ffbf8aa89aa72262f8cd547c7cf426",
-    "snapshot": "7a34d162b9210e523d504598ed026aee9f42f600",
+    "snapshot": "4ef56a3569213665aae9cfcb5afa88a486440d6c",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/7a34d162b9210e523d504598ed026aee9f42f600/_data/devices/ks01lte.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/4ef56a3569213665aae9cfcb5afa88a486440d6c/_data/devices/ks01lte.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
