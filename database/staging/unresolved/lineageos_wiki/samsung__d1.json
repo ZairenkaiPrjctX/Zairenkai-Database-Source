@@ -5,16 +5,16 @@
   "codename": "d1",
   "codename_key": "d1",
   "codename_status": "community_reported",
-  "discovered_at": "2026-10-23T08:40:37Z",
+  "discovered_at": "2026-10-24T08:15:26Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "d1.yml (blob 470ddc5c0b35): codename 'd1', name 'Galaxy Note10'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-10-23T08:40:37Z",
+      "retrieved_at": "2026-10-24T08:15:27Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/7a34d162b9210e523d504598ed026aee9f42f600/_data/devices/d1.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/4ef56a3569213665aae9cfcb5afa88a486440d6c/_data/devices/d1.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -47,9 +47,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "470ddc5c0b35afcc9e4c4d47411dc58400348fba",
-    "snapshot": "7a34d162b9210e523d504598ed026aee9f42f600",
+    "snapshot": "4ef56a3569213665aae9cfcb5afa88a486440d6c",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/7a34d162b9210e523d504598ed026aee9f42f600/_data/devices/d1.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/4ef56a3569213665aae9cfcb5afa88a486440d6c/_data/devices/d1.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {

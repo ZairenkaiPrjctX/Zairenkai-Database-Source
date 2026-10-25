@@ -5,16 +5,16 @@
   "codename": "astonc",
   "codename_key": "astonc",
   "codename_status": "community_reported",
-  "discovered_at": "2026-10-23T08:40:37Z",
+  "discovered_at": "2026-10-24T08:15:26Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "astonc.yml (blob 873fed19cbf4): codename 'astonc', name 'Ace 3'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-10-23T08:40:37Z",
+      "retrieved_at": "2026-10-24T08:15:27Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/7a34d162b9210e523d504598ed026aee9f42f600/_data/devices/astonc.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/4ef56a3569213665aae9cfcb5afa88a486440d6c/_data/devices/astonc.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -46,9 +46,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "873fed19cbf4db5268248941b9062540f831fc41",
-    "snapshot": "7a34d162b9210e523d504598ed026aee9f42f600",
+    "snapshot": "4ef56a3569213665aae9cfcb5afa88a486440d6c",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/7a34d162b9210e523d504598ed026aee9f42f600/_data/devices/astonc.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/4ef56a3569213665aae9cfcb5afa88a486440d6c/_data/devices/astonc.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
