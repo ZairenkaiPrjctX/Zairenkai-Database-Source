@@ -1,5 +1,7 @@
 import shutil
 
+import pytest
+
 from afid import audit
 from tests.conftest import ELF64, REPO, write
 
@@ -43,3 +45,22 @@ jobs:
     ):
         assert needle in found, needle
     assert "tests/fixtures/ok.so" not in found
+
+
+def test_generated_python_cache_is_ignored_without_git(tmp_path, monkeypatch):
+    monkeypatch.setattr(audit.shutil, "which", lambda _name: None)
+    source = tmp_path / "src" / "module.py"
+    source.parent.mkdir(parents=True)
+    source.write_text("VALUE = 'safe'\n")
+    bytecode = tmp_path / "tests" / "security" / "__pycache__" / "test_audit.cpython-313.pyc"
+    bytecode.parent.mkdir(parents=True)
+    bytecode.write_bytes(b"fixture ghp_" + b"a" * 36)
+    pytest_cache = tmp_path / ".pytest_cache" / "v" / "cache" / "nodeids"
+    pytest_cache.parent.mkdir(parents=True)
+    pytest_cache.write_text("generated test cache")
+
+    files = audit.tracked_files(tmp_path)
+    assert source in files
+    assert bytecode not in files
+    assert pytest_cache not in files
+    assert audit.scan(tmp_path) == []
