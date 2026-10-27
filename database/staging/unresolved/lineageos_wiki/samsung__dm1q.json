@@ -5,14 +5,14 @@
   "codename": "dm1q",
   "codename_key": "dm1q",
   "codename_status": "community_reported",
-  "discovered_at": "2026-10-27T01:18:00Z",
+  "discovered_at": "2026-10-27T09:09:14Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "dm1q.yml (blob f66892611bc0): codename 'dm1q', name 'Galaxy S23'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-10-27T01:18:01Z",
+      "retrieved_at": "2026-10-27T09:09:16Z",
       "source": "lineageos_wiki",
       "url": "https://github.com/LineageOS/lineage_wiki/blob/7ddd0afd7c4d0a599cda6a4ddb693aa394c78145/_data/devices/dm1q.yml"
     }

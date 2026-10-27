@@ -5,14 +5,14 @@
   "codename": "lmi",
   "codename_key": "lmi",
   "codename_status": "community_reported",
-  "discovered_at": "2026-10-27T01:18:00Z",
+  "discovered_at": "2026-10-27T09:09:14Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "lmi_variant3.yml (blob 9a967e496225): codename 'lmi', name 'Redmi K30 Pro Zoom Edition'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-10-27T01:18:01Z",
+      "retrieved_at": "2026-10-27T09:09:16Z",
       "source": "lineageos_wiki",
       "url": "https://github.com/LineageOS/lineage_wiki/blob/7ddd0afd7c4d0a599cda6a4ddb693aa394c78145/_data/devices/lmi_variant3.yml"
     }

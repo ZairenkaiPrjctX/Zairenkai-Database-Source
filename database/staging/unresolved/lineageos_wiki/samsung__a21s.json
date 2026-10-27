@@ -5,14 +5,14 @@
   "codename": "a21s",
   "codename_key": "a21s",
   "codename_status": "community_reported",
-  "discovered_at": "2026-10-27T01:18:00Z",
+  "discovered_at": "2026-10-27T09:09:14Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "a21s.yml (blob 2c0d434e30e8): codename 'a21s', name 'Galaxy A21s'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-10-27T01:18:01Z",
+      "retrieved_at": "2026-10-27T09:09:16Z",
       "source": "lineageos_wiki",
       "url": "https://github.com/LineageOS/lineage_wiki/blob/7ddd0afd7c4d0a599cda6a4ddb693aa394c78145/_data/devices/a21s.yml"
     }
