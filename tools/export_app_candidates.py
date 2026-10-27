@@ -31,7 +31,16 @@ def fail(msg: str) -> None:
 
 def candidate(path: Path) -> dict:
     rec = json.loads(path.read_text(encoding="utf-8"))
-    for key in ("codename_key", "brand_id", "product_names", "soc", "source", "license", "verification"):
+    required_keys = (
+        "codename_key",
+        "brand_id",
+        "product_names",
+        "soc",
+        "source",
+        "license",
+        "verification",
+    )
+    for key in required_keys:
         if key not in rec:
             fail(f"{path.name}: missing {key}")
     if rec["license"].get("spdx") != "CC-BY-SA-3.0":
@@ -53,7 +62,9 @@ def candidate(path: Path) -> dict:
 
 
 def main() -> int:
-    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap = argparse.ArgumentParser(
+        description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter
+    )
     ap.add_argument("--source", type=Path, required=True, help="Zairenkai-Database-Source checkout")
     ap.add_argument("--commit", required=True, help="locked commit of that checkout")
     ap.add_argument("--out", type=Path, required=True)
@@ -68,10 +79,12 @@ def main() -> int:
     for d in devices:
         seen[d["codename"]] = seen.get(d["codename"], 0) + 1
     readme = (src / "README.md").read_text(encoding="utf-8")
-    attribution = ("Device metadata from the LineageOS Wiki (https://wiki.lineageos.org), "
-                   "(c) The LineageOS Project, licensed under CC BY-SA 3.0 "
-                   "(https://creativecommons.org/licenses/by-sa/3.0/). Adapted by AFID "
-                   "(selected factual fields, reshaped) and by Zairenkai App (fields reduced further).")
+    attribution = (
+        "Device metadata from the LineageOS Wiki (https://wiki.lineageos.org), "
+        "(c) The LineageOS Project, licensed under CC BY-SA 3.0 "
+        "(https://creativecommons.org/licenses/by-sa/3.0/). Adapted by AFID "
+        "(selected factual fields, reshaped) and by Zairenkai App (fields reduced further)."
+    )
     if "CC BY-SA 3.0" not in readme:
         fail("source README no longer states CC BY-SA 3.0; re-check the licence before packaging")
     asset = {
@@ -83,14 +96,19 @@ def main() -> int:
         },
         "license": {"spdx": "CC-BY-SA-3.0", "attribution": attribution, "share_alike": True},
         "verification": "unverified",
-        "note": "Community-reported codenames. AFID has not verified them with firmware or an official source.",
+        "note": (
+            "Community-reported codenames. AFID has not verified them with firmware "
+            "or an official source."
+        ),
         "duplicate_codenames": sorted(c for c, n in seen.items() if n > 1),
         "count": len(devices),
         "devices": devices,
     }
     args.out.parent.mkdir(parents=True, exist_ok=True)
-    args.out.write_text(json.dumps(asset, indent=None, separators=(",", ":"), sort_keys=True) + "\n",
-                        encoding="utf-8")
+    args.out.write_text(
+        json.dumps(asset, indent=None, separators=(",", ":"), sort_keys=True) + "\n",
+        encoding="utf-8",
+    )
     print(f"afid_asset: {len(devices)} candidates -> {args.out}")
     return 0
 
