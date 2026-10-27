@@ -5,6 +5,7 @@
 | Layer | Location | May contain |
 |---|---|---|
 | Catalog metadata | `database/` (Git) | JSON only: identities, versions, paths, checksums, classifications, dependencies, provenance |
+| Licensed source snapshots | `source-files/lineageos_wiki/` (Git) | Original LineageOS device YAML files only, with CC BY-SA attribution and commit/hash provenance |
 | Redistributable data | `redistributable/` (Git) | files whose SHA-256 is in `config/redistributable_allowlist.yml` with license evidence |
 | Restricted payload | never in Git | proprietary firmware and vendor files; indexed by metadata only |
 | Local extraction/cache | `.afid-cache/` (gitignored) | downloads, unpacked archives, extracted trees |
@@ -46,6 +47,7 @@ storing payloads: checksums plus provenance let any user verify their own copy.
 |---|---|---|
 | AFID code, config, schemas, docs, `tests/fixtures/` | Apache-2.0 (`LICENSE`, `NOTICE`) | original project work; contributors certify rights via `Signed-off-by` (DCO) |
 | `database/staging/unresolved/lineageos_wiki/` | CC BY-SA 3.0 | adapted third-party data; attribution + share-alike; see the README there |
+| `source-files/lineageos_wiki/` | CC BY-SA 3.0 | original `_data/devices/*.yml` source snapshots; attribution + immutable source manifest; see the directory README |
 | Other catalog metadata in `database/` | facts derived by AFID from user-supplied firmware | carries `distribution_status`; firmware itself is never included |
 | Firmware, vendor binaries and vendor configuration | owners' proprietary terms | **not** covered by Apache-2.0 or any license here; never published by default |
 

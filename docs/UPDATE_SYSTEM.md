@@ -32,6 +32,7 @@ added/removed, `checksum_changed`, `license_changed`, dependency edges added/rem
 |---|---|---|
 | `check-updates.yml` | daily 03:17 UTC, manual, registry change on `dev` | PR when metadata changed |
 | `source-discovery.yml` | manual (provider, brand, open_pr) | PR when requested and changed |
+| `mirror-lineageos-source.yml` | weekly Wednesday, manual | PR with original CC BY-SA device YAML files and their manifest |
 | `refresh-catalog.yml` | weekly, manual | PR when generated files are stale |
 | `ingest-firmware.yml` | manual | report artifact only |
 | `discover-dumps.yml` | weekly (Mon 04:41 UTC), manual | PR when a dump snapshot changed |
