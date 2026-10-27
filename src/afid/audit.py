@@ -31,7 +31,16 @@ ARCHIVE_EXT = (".zip", ".tgz", ".tar", ".tar.gz", ".tar.md5", ".img", ".bin", ".
 MAX_FILE_BYTES = 5 * 1024 * 1024
 # Generated state must never be scanned as source. A ZIP export has no `.git` index, so the
 # fallback crawler must reproduce Git's usual cache exclusions itself.
-CACHE_DIRS = {"__pycache__", ".pytest_cache", ".mypy_cache", ".ruff_cache", ".afid-cache", ".tox", ".nox", ".venv"}
+CACHE_DIRS = {
+    "__pycache__",
+    ".pytest_cache",
+    ".mypy_cache",
+    ".ruff_cache",
+    ".afid-cache",
+    ".tox",
+    ".nox",
+    ".venv",
+}
 CACHE_SUFFIXES = {".pyc", ".pyo"}
 # Small, self-built test fixtures may contain binaries (see tests/fixtures/README.md).
 FIXTURE_GLOBS = ["tests/fixtures/**"]

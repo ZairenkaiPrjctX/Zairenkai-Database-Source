@@ -1,7 +1,5 @@
 import shutil
 
-import pytest
-
 from afid import audit
 from tests.conftest import ELF64, REPO, write
 
