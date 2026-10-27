@@ -5,16 +5,16 @@
   "codename": "libra",
   "codename_key": "libra",
   "codename_status": "community_reported",
-  "discovered_at": "2026-10-24T08:15:26Z",
+  "discovered_at": "2026-10-27T09:09:14Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "libra.yml (blob fa1300840d8a): codename 'libra', name 'Mi 4c'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-10-24T08:15:27Z",
+      "retrieved_at": "2026-10-27T09:09:16Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/4ef56a3569213665aae9cfcb5afa88a486440d6c/_data/devices/libra.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/7ddd0afd7c4d0a599cda6a4ddb693aa394c78145/_data/devices/libra.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -44,9 +44,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "fa1300840d8ab5f1b54e4c33310b0249a818917a",
-    "snapshot": "4ef56a3569213665aae9cfcb5afa88a486440d6c",
+    "snapshot": "7ddd0afd7c4d0a599cda6a4ddb693aa394c78145",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/4ef56a3569213665aae9cfcb5afa88a486440d6c/_data/devices/libra.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/7ddd0afd7c4d0a599cda6a4ddb693aa394c78145/_data/devices/libra.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {

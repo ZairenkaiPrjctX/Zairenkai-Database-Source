@@ -5,16 +5,16 @@
   "codename": "klimtwifi",
   "codename_key": "klimtwifi",
   "codename_status": "community_reported",
-  "discovered_at": "2026-10-24T08:15:26Z",
+  "discovered_at": "2026-10-27T09:09:14Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "klimtwifi.yml (blob 18efbe4ba4f5): codename 'klimtwifi', name 'Galaxy Tab S 8.4 Wi-Fi'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-10-24T08:15:27Z",
+      "retrieved_at": "2026-10-27T09:09:16Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/4ef56a3569213665aae9cfcb5afa88a486440d6c/_data/devices/klimtwifi.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/7ddd0afd7c4d0a599cda6a4ddb693aa394c78145/_data/devices/klimtwifi.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -46,9 +46,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "18efbe4ba4f5bc2762c8904f541840135a2e8a38",
-    "snapshot": "4ef56a3569213665aae9cfcb5afa88a486440d6c",
+    "snapshot": "7ddd0afd7c4d0a599cda6a4ddb693aa394c78145",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/4ef56a3569213665aae9cfcb5afa88a486440d6c/_data/devices/klimtwifi.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/7ddd0afd7c4d0a599cda6a4ddb693aa394c78145/_data/devices/klimtwifi.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {

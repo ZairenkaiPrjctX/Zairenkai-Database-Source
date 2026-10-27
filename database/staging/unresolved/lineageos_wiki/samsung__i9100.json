@@ -5,16 +5,16 @@
   "codename": "i9100",
   "codename_key": "i9100",
   "codename_status": "community_reported",
-  "discovered_at": "2026-10-24T08:15:26Z",
+  "discovered_at": "2026-10-27T09:09:14Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "i9100.yml (blob 56084e04efa6): codename 'i9100', name 'Galaxy S II'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-10-24T08:15:27Z",
+      "retrieved_at": "2026-10-27T09:09:16Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/4ef56a3569213665aae9cfcb5afa88a486440d6c/_data/devices/i9100.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/7ddd0afd7c4d0a599cda6a4ddb693aa394c78145/_data/devices/i9100.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -50,9 +50,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "56084e04efa6433d673a7a5e5badbd191dd3119a",
-    "snapshot": "4ef56a3569213665aae9cfcb5afa88a486440d6c",
+    "snapshot": "7ddd0afd7c4d0a599cda6a4ddb693aa394c78145",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/4ef56a3569213665aae9cfcb5afa88a486440d6c/_data/devices/i9100.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/7ddd0afd7c4d0a599cda6a4ddb693aa394c78145/_data/devices/i9100.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {

@@ -190,7 +190,7 @@
       "firmware_builds": 0
     }
   },
-  "database_digest": "db4dff39b3bb1518f18f991b73010aee8d41593aa224d94786e17b1d63c3433e",
+  "database_digest": "205d5426ee9bfbd2b7c0dc6402c8deb2c59617d54b88aedad2c0bb8a23dd83d8",
   "dependencies_inferred": 0,
   "dependencies_resolved": 0,
   "dependencies_unresolved": 0,
@@ -208,10 +208,10 @@
     "poco": 17,
     "redmi": 66,
     "samsung": 119,
-    "xiaomi": 59
+    "xiaomi": 60
   },
-  "staging_candidates": 355,
-  "staging_unverified": 355,
+  "staging_candidates": 356,
+  "staging_unverified": 356,
   "thermal_config": 0,
   "thermal_hal": 0,
   "unknown": 0,

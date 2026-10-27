@@ -5,16 +5,16 @@
   "codename": "a21s",
   "codename_key": "a21s",
   "codename_status": "community_reported",
-  "discovered_at": "2026-10-24T08:15:26Z",
+  "discovered_at": "2026-10-27T09:09:14Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
-      "detail": "a21s.yml (blob df984032ddee): codename 'a21s', name 'Galaxy A21s'",
+      "detail": "a21s.yml (blob 2c0d434e30e8): codename 'a21s', name 'Galaxy A21s'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-10-24T08:15:27Z",
+      "retrieved_at": "2026-10-27T09:09:16Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/4ef56a3569213665aae9cfcb5afa88a486440d6c/_data/devices/a21s.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/7ddd0afd7c4d0a599cda6a4ddb693aa394c78145/_data/devices/a21s.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -49,10 +49,10 @@
   },
   "source": {
     "provider_id": "lineageos_wiki",
-    "revision": "df984032ddee482a345eaeab3d9a48b15ba7240a",
-    "snapshot": "4ef56a3569213665aae9cfcb5afa88a486440d6c",
+    "revision": "2c0d434e30e81d71bfe8b5d14de25078e34d858c",
+    "snapshot": "7ddd0afd7c4d0a599cda6a4ddb693aa394c78145",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/4ef56a3569213665aae9cfcb5afa88a486440d6c/_data/devices/a21s.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/7ddd0afd7c4d0a599cda6a4ddb693aa394c78145/_data/devices/a21s.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
