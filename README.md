@@ -16,6 +16,8 @@ classifications, dependencies, provenance). Proprietary firmware is processed lo
 > gitlab.com, dumps.tadiphone.dev) can now be discovered and analyzed without downloading
 > firmware, and pinned DumprX can unpack local firmware offline; both were exercised against
 > real sources into scratch databases ([docs/SOURCE_INTEGRATION.md](docs/SOURCE_INTEGRATION.md#live-results)).
+> Original LineageOS device YAML files are mirrored into `source-files/lineageos_wiki/` with
+> attribution and immutable hashes; weekly Actions refreshes propose reviewed PRs.
 > The committed catalog still has **no verified devices** (354 unverified LineageOS Wiki
 > candidates wait in staging) until the dump workflows run and their PRs are reviewed. No CI
 > badges are shown until the workflows have run on GitHub.
@@ -110,7 +112,7 @@ Details: [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
 .github/workflows/      validate, source-discovery, ingest-firmware, check-updates,
                         refresh-catalog, security-audit, container-images, discover-dumps,
                         plan-firmware-matrix, download-dumps, analyze-components,
-                        reconcile-catalog, dump-and-analyze
+                        reconcile-catalog, dump-and-analyze, mirror-lineageos-source
 .docker/                five Dockerfiles + build helpers (see .docker/README.md)
 .github/actions/        setup-afid (Python + hash-pinned dependencies)
 config/                 settings, brands, provider registry, classification rules,
@@ -121,6 +123,7 @@ tools/                  metadata pipeline: ingest.py, validate.py, publish_manif
 infra/cloudformation/   CodeBuild project + least-privilege role (codebuild.yml)
 buildspec.yml           CodeBuild build: offline dry-run, optional S3 manifest upload
 database/               the catalog (JSON metadata only)
+source-files/            original CC BY-SA LineageOS Wiki device YAML + provenance manifest
 src/afid/               the AFID package (CLI, engine, providers, pipeline/)
 scripts/                setup, validation, refresh, report, PR helper
 tests/                  unit, integration, providers, extraction, schemas, security, fixtures
@@ -362,6 +365,7 @@ through pull requests.
 AFID code, configuration, schemas, documentation and test fixtures: Apache License 2.0
 ([LICENSE](LICENSE), [NOTICE](NOTICE)). Third-party data keeps its own license: the LineageOS
 Wiki candidates in `database/staging/unresolved/lineageos_wiki/` are CC BY-SA 3.0, (c) The
-LineageOS Project. Apache-2.0 does not cover firmware, vendor libraries or vendor
+LineageOS Project. Original device YAML mirrors in `source-files/lineageos_wiki/` retain the
+same attribution and share-alike license. Apache-2.0 does not cover firmware, vendor libraries or vendor
 configuration referenced by the catalog; those belong to their owners and are never
 redistributed by default. Details: [docs/LICENSE_AND_DISTRIBUTION.md](docs/LICENSE_AND_DISTRIBUTION.md).

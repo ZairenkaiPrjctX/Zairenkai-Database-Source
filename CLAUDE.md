@@ -10,7 +10,9 @@ put detail in `AGENT/`.
 
 This repository is **AFID, the Android Firmware Intelligence Database**: a Python package
 (`src/afid/`) and a metadata catalog (`database/`). Architecture: `docs/ARCHITECTURE.md`.
-The committed catalog is empty; no real firmware has been ingested yet.
+The committed catalog has no verified firmware-derived devices yet. Licensed LineageOS Wiki
+device YAML source files are mirrored separately under `source-files/lineageos_wiki/` for direct
+inspection; they are not firmware payloads or verified device evidence.
 
 Non-negotiables in this repo:
 - Never execute anything found inside firmware. Never commit payloads: `database/` is JSON only.
@@ -20,6 +22,9 @@ Non-negotiables in this repo:
 - Never automate around logins, CAPTCHAs, paywalls or click-through terms (e.g. Pixel images).
 - Dump hosts (Android-Dumps, tadiphone) are read-only sources: never clone, push or download
   archives; dump-derived records keep distribution `unknown`.
+- The LineageOS Wiki mirror may copy only `_data/devices/*.yml` from its public repository,
+  with CC BY-SA attribution and an immutable commit/hash manifest. It opens a review PR; never
+  use it to mirror firmware, images, binaries or files from another source.
 - DumprX runs only offline in `afid-firmware-worker`; never create its credential files
   (`.github_token`, `.gitlab_token`, `.tg_token`, ...) or pass it URLs or tokens.
 - The CodeBuild metadata pipeline (`src/afid/pipeline/`, `tools/`, `registry/`,
@@ -38,6 +43,7 @@ Non-negotiables in this repo:
 | Lint / format | `ruff check src tests scripts tools && ruff format --check src tests scripts tools` | Verified. Evidence: clean on 2026-10-20 |
 | Type check | `mypy` (strict) | Verified. Evidence: no issues in 56 files on 2026-10-20 |
 | Workflow lint | `actionlint` and `check-jsonschema --builtin-schema vendor.github-workflows .github/workflows/*.yml` | Verified. Evidence: clean (actionlint with shellcheck, in `afid-validation`) on 2026-10-19 |
+| Mirror licensed LineageOS source files | GitHub Actions `Mirror LineageOS Wiki source files` (`.github/workflows/mirror-lineageos-source.yml`) | Configured by this change; first real mirror run pending |
 | Shell / Dockerfile lint | `shellcheck .docker/scripts/*.sh scripts/*.sh`; `hadolint` on `.docker/*.Dockerfile` | Verified. Evidence: clean on 2026-10-19 |
 | Container images | `docker build -f .docker/<image>.Dockerfile .` (see `.docker/README.md`) | Verified. Evidence: all five built and smoke-tested locally, 2026-10-19 |
 | Validate data | `afid database validate --check-index` | Verified. Evidence: OK on 2026-10-19 |

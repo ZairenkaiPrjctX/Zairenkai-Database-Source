@@ -107,6 +107,7 @@ def test_required_workflows_exist():
         "dump-and-analyze.yml",
         "analyze-components.yml",
         "reconcile-catalog.yml",
+        "mirror-lineageos-source.yml",
     }
 
 

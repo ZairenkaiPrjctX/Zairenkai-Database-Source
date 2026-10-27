@@ -79,6 +79,20 @@ overwritten (`test_conflicting_dump_is_quarantined`).
 AFID never clones these repositories, never downloads firmware archives from them, never
 writes to them and never follows LFS pointers.
 
+## Directly mirrored, licensed source files
+
+The separate `source-files/lineageos_wiki/` directory holds the original `_data/devices/*.yml`
+files from the LineageOS Wiki. Its footer declares CC BY-SA 3.0; each mirror includes attribution,
+the immutable upstream commit, a source URL, Git blob id and SHA-256. These files are copied
+unchanged for maintainers to inspect. They are reference metadata, not firmware, binaries or
+verified device evidence. AFID's transformed candidates remain in `database/staging/`.
+
+The weekly `Mirror LineageOS Wiki source files` workflow checks out only `_data/devices/`, bounds
+the number and size of files, parses them with `yaml.safe_load`, and validates the manifest before
+opening or updating a PR. Its proposal job can change only `source-files/lineageos_wiki/`; it
+creates at most 50 files per GitHub commit so the initial snapshot is processed in manageable
+chunks. A PR review is required before any source snapshot is added to the default branch.
+
 ## Live results
 
 Measured from this environment (real network, scratch copies of the database, never the
