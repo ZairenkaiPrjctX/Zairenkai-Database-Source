@@ -5,14 +5,14 @@
   "codename": "b0s",
   "codename_key": "b0s",
   "codename_status": "community_reported",
-  "discovered_at": "2026-10-26T09:07:19Z",
+  "discovered_at": "2026-10-27T01:18:00Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "b0s.yml (blob 1020af09eb28): codename 'b0s', name 'Galaxy S22 Ultra'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-10-26T09:07:20Z",
+      "retrieved_at": "2026-10-27T01:18:01Z",
       "source": "lineageos_wiki",
       "url": "https://github.com/LineageOS/lineage_wiki/blob/7ddd0afd7c4d0a599cda6a4ddb693aa394c78145/_data/devices/b0s.yml"
     }
