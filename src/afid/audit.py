@@ -80,7 +80,8 @@ def tracked_files(root: Path) -> list[Path]:
     else:
         candidates = list(root.rglob("*"))
     return sorted(
-        p for p in candidates
+        p
+        for p in candidates
         if p.is_file()
         and not p.is_symlink()
         and ".git" not in p.parts
