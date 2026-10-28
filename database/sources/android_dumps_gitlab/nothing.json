@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-19T03:41:19Z",
+  "checked_at": "2026-10-26T10:29:04Z",
   "errors": [],
   "items": [
     {
@@ -18,6 +18,23 @@
       },
       "revision": "05c2691e9f148f6fa2aff212fb5309fe388dba07",
       "url": "https://gitlab.com/Android-Dumps/nothing/Frogger/-/tree/05c2691e9f148f6fa2aff212fb5309fe388dba07"
+    },
+    {
+      "item_id": "nothing/FroggerPro@qssi_64-user-16-BQ2A.250913.001-BP2A.250605.031.A3-2609071153-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi_64-user-16-BQ2A.250913.001-BP2A.250605.031.A3-2609071153-release-keys",
+        "commit": "03b239416432d08bcf43d102466bb9715d95a5f6",
+        "committed_date": "2026-10-19T07:56:03.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-10-19T07:34:03.099Z",
+        "namespace_hint": "nothing",
+        "project_hint": "FroggerPro",
+        "project_id": 87803592,
+        "project_path": "nothing/FroggerPro"
+      },
+      "revision": "03b239416432d08bcf43d102466bb9715d95a5f6",
+      "url": "https://gitlab.com/Android-Dumps/nothing/FroggerPro/-/tree/03b239416432d08bcf43d102466bb9715d95a5f6"
     },
     {
       "item_id": "nothing/Galaga@sys_mssi_64_64only_ww_armv82-user-16-BP2A.250605.031.A3-2512182326-release-keys",
