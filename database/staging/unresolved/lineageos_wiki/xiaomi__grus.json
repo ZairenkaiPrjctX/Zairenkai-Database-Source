@@ -5,16 +5,16 @@
   "codename": "grus",
   "codename_key": "grus",
   "codename_status": "community_reported",
-  "discovered_at": "2026-10-27T09:09:14Z",
+  "discovered_at": "2026-10-29T10:10:31Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "grus.yml (blob 58807d9dc6ec): codename 'grus', name 'Mi 9 SE'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-10-27T09:09:16Z",
+      "retrieved_at": "2026-10-29T10:10:33Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/7ddd0afd7c4d0a599cda6a4ddb693aa394c78145/_data/devices/grus.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/cb91ae11e9d394bcba168d748ed5d339edc67b84/_data/devices/grus.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -47,9 +47,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "58807d9dc6ec912d6641a58bea9251a46d313e2b",
-    "snapshot": "7ddd0afd7c4d0a599cda6a4ddb693aa394c78145",
+    "snapshot": "cb91ae11e9d394bcba168d748ed5d339edc67b84",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/7ddd0afd7c4d0a599cda6a4ddb693aa394c78145/_data/devices/grus.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/cb91ae11e9d394bcba168d748ed5d339edc67b84/_data/devices/grus.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
