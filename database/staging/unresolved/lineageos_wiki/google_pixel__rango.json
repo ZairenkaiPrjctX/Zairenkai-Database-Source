@@ -5,16 +5,16 @@
   "codename": "rango",
   "codename_key": "rango",
   "codename_status": "community_reported",
-  "discovered_at": "2026-10-27T09:09:14Z",
+  "discovered_at": "2026-10-29T10:10:31Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "rango.yml (blob c3722f3132ad): codename 'rango', name 'Pixel 10 Pro Fold'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-10-27T09:09:16Z",
+      "retrieved_at": "2026-10-29T10:10:33Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/7ddd0afd7c4d0a599cda6a4ddb693aa394c78145/_data/devices/rango.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/cb91ae11e9d394bcba168d748ed5d339edc67b84/_data/devices/rango.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -44,9 +44,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "c3722f3132ad28d7858a740f53891ae0f5bed915",
-    "snapshot": "7ddd0afd7c4d0a599cda6a4ddb693aa394c78145",
+    "snapshot": "cb91ae11e9d394bcba168d748ed5d339edc67b84",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/7ddd0afd7c4d0a599cda6a4ddb693aa394c78145/_data/devices/rango.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/cb91ae11e9d394bcba168d748ed5d339edc67b84/_data/devices/rango.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
