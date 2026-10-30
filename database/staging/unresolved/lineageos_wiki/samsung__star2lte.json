@@ -5,16 +5,16 @@
   "codename": "star2lte",
   "codename_key": "star2lte",
   "codename_status": "community_reported",
-  "discovered_at": "2026-10-29T10:10:31Z",
+  "discovered_at": "2026-10-30T10:12:31Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "star2lte.yml (blob 43d055b09440): codename 'star2lte', name 'Galaxy S9+'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-10-29T10:10:33Z",
+      "retrieved_at": "2026-10-30T10:12:32Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/cb91ae11e9d394bcba168d748ed5d339edc67b84/_data/devices/star2lte.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/20b3c8ad33cafe6def85ad77c29809a9c6304d93/_data/devices/star2lte.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -48,9 +48,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "43d055b0944092ed2a4e4dc640bd887910978e3b",
-    "snapshot": "cb91ae11e9d394bcba168d748ed5d339edc67b84",
+    "snapshot": "20b3c8ad33cafe6def85ad77c29809a9c6304d93",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/cb91ae11e9d394bcba168d748ed5d339edc67b84/_data/devices/star2lte.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/20b3c8ad33cafe6def85ad77c29809a9c6304d93/_data/devices/star2lte.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
