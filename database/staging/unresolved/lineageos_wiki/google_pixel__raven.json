@@ -5,16 +5,16 @@
   "codename": "raven",
   "codename_key": "raven",
   "codename_status": "community_reported",
-  "discovered_at": "2026-10-29T10:10:31Z",
+  "discovered_at": "2026-10-31T09:48:12Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "raven.yml (blob 8b2b4b154a03): codename 'raven', name 'Pixel 6 Pro'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-10-29T10:10:33Z",
+      "retrieved_at": "2026-10-31T09:48:13Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/cb91ae11e9d394bcba168d748ed5d339edc67b84/_data/devices/raven.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/aa06ba20f9afdb979b035d1a0063e0bcb17cb020/_data/devices/raven.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -44,9 +44,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "8b2b4b154a036c79e62362e725991509c7d1c55a",
-    "snapshot": "cb91ae11e9d394bcba168d748ed5d339edc67b84",
+    "snapshot": "aa06ba20f9afdb979b035d1a0063e0bcb17cb020",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/cb91ae11e9d394bcba168d748ed5d339edc67b84/_data/devices/raven.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/aa06ba20f9afdb979b035d1a0063e0bcb17cb020/_data/devices/raven.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {

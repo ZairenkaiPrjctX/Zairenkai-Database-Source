@@ -5,16 +5,16 @@
   "codename": "marble",
   "codename_key": "marble",
   "codename_status": "community_reported",
-  "discovered_at": "2026-10-29T10:10:31Z",
+  "discovered_at": "2026-10-31T09:48:12Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "marble_variant1.yml (blob e8eae260f997): codename 'marble', name 'POCO F5 (Global)'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-10-29T10:10:33Z",
+      "retrieved_at": "2026-10-31T09:48:13Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/cb91ae11e9d394bcba168d748ed5d339edc67b84/_data/devices/marble_variant1.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/aa06ba20f9afdb979b035d1a0063e0bcb17cb020/_data/devices/marble_variant1.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -46,9 +46,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "e8eae260f9979776f6447d2fe798b47c6c64e2bd",
-    "snapshot": "cb91ae11e9d394bcba168d748ed5d339edc67b84",
+    "snapshot": "aa06ba20f9afdb979b035d1a0063e0bcb17cb020",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/cb91ae11e9d394bcba168d748ed5d339edc67b84/_data/devices/marble_variant1.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/aa06ba20f9afdb979b035d1a0063e0bcb17cb020/_data/devices/marble_variant1.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
