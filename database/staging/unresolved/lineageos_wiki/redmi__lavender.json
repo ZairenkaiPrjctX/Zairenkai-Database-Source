@@ -5,16 +5,16 @@
   "codename": "lavender",
   "codename_key": "lavender",
   "codename_status": "community_reported",
-  "discovered_at": "2026-10-30T10:12:31Z",
+  "discovered_at": "2026-10-31T09:48:12Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "lavender.yml (blob fc0a79ddedf9): codename 'lavender', name 'Redmi Note 7'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-10-30T10:12:32Z",
+      "retrieved_at": "2026-10-31T09:48:13Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/20b3c8ad33cafe6def85ad77c29809a9c6304d93/_data/devices/lavender.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/aa06ba20f9afdb979b035d1a0063e0bcb17cb020/_data/devices/lavender.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -44,9 +44,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "fc0a79ddedf932646687ddb2adc7212d9d8e0608",
-    "snapshot": "20b3c8ad33cafe6def85ad77c29809a9c6304d93",
+    "snapshot": "aa06ba20f9afdb979b035d1a0063e0bcb17cb020",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/20b3c8ad33cafe6def85ad77c29809a9c6304d93/_data/devices/lavender.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/aa06ba20f9afdb979b035d1a0063e0bcb17cb020/_data/devices/lavender.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
