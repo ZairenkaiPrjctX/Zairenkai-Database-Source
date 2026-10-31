@@ -5,16 +5,16 @@
   "codename": "d2spr",
   "codename_key": "d2spr",
   "codename_status": "community_reported",
-  "discovered_at": "2026-10-30T10:12:31Z",
+  "discovered_at": "2026-10-31T09:48:12Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "d2spr.yml (blob 1ca77b11e8be): codename 'd2spr', name 'Galaxy S III (Sprint)'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-10-30T10:12:32Z",
+      "retrieved_at": "2026-10-31T09:48:13Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/20b3c8ad33cafe6def85ad77c29809a9c6304d93/_data/devices/d2spr.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/aa06ba20f9afdb979b035d1a0063e0bcb17cb020/_data/devices/d2spr.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -46,9 +46,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "1ca77b11e8be2445a8d54ff8489255859936efce",
-    "snapshot": "20b3c8ad33cafe6def85ad77c29809a9c6304d93",
+    "snapshot": "aa06ba20f9afdb979b035d1a0063e0bcb17cb020",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/20b3c8ad33cafe6def85ad77c29809a9c6304d93/_data/devices/d2spr.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/aa06ba20f9afdb979b035d1a0063e0bcb17cb020/_data/devices/d2spr.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
