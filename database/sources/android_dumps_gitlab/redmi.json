@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-19T03:41:19Z",
+  "checked_at": "2026-11-02T12:50:27Z",
   "errors": [],
   "items": [
     {
@@ -1572,6 +1572,23 @@
       "url": "https://gitlab.com/Android-Dumps/redmi/taiko/-/tree/c550757409f38df50e35fbccfdf1ffcad9dffe31"
     },
     {
+      "item_id": "redmi/tanzanite@missi-user-15-AP3A.240905.015.A2-OS2.0.210.0.VOGIDXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-15-AP3A.240905.015.A2-OS2.0.210.0.VOGIDXM-release-keys",
+        "commit": "dc51cc2b3a48e8d5b48dff79fa3f458d29c1e09c",
+        "committed_date": "2026-10-30T07:54:38.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2026-10-30T07:42:05.657Z",
+        "namespace_hint": "redmi",
+        "project_hint": "tanzanite",
+        "project_id": 85730575,
+        "project_path": "redmi/tanzanite"
+      },
+      "revision": "dc51cc2b3a48e8d5b48dff79fa3f458d29c1e09c",
+      "url": "https://gitlab.com/Android-Dumps/redmi/tanzanite/-/tree/dc51cc2b3a48e8d5b48dff79fa3f458d29c1e09c"
+    },
+    {
       "item_id": "redmi/tanzanite@missi-user-16-BP2A.250605.031.A3-OS3.0.302.0.WOGMIXM-release-keys",
       "kind": "firmware",
       "metadata": {
@@ -1579,7 +1596,7 @@
         "commit": "2f1f03ee4adc0bb228e780cc7c7e9445df30b07b",
         "committed_date": "2026-08-25T08:44:38.000+00:00",
         "default_branch": true,
-        "last_activity_at": "2026-08-25T08:23:24.212Z",
+        "last_activity_at": "2026-10-30T07:42:05.657Z",
         "namespace_hint": "redmi",
         "project_hint": "tanzanite",
         "project_id": 85730575,
