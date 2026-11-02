@@ -31,10 +31,16 @@ RUN --mount=type=secret,id=proxy_ca,required=false \
       git fetch -q --depth 1 https://github.com/ShivamKumarJha/android_tools "$ANDROID_TOOLS_COMMIT"; \
       git checkout -q FETCH_HEAD; test "$(git rev-parse HEAD)" = "$ANDROID_TOOLS_COMMIT"; \
       cd /opt/dumprx; \
-      curl -sSfL -o utils/extract-ikconfig \
-        "https://raw.githubusercontent.com/torvalds/linux/$LINUX_COMMIT/scripts/extract-ikconfig"; \
+      git init -q /opt/linux; \
+      git -C /opt/linux remote add origin https://github.com/torvalds/linux.git; \
+      git -C /opt/linux config extensions.partialClone origin; \
+      git -C /opt/linux config remote.origin.promisor true; \
+      git -C /opt/linux config remote.origin.partialclonefilter blob:none; \
+      git -C /opt/linux -c protocol.version=2 fetch -q --depth 1 --filter=blob:none --no-tags origin "$LINUX_COMMIT"; \
+      test "$(git -C /opt/linux rev-parse FETCH_HEAD)" = "$LINUX_COMMIT"; \
+      git -C /opt/linux show "FETCH_HEAD:scripts/extract-ikconfig" > utils/extract-ikconfig; \
       echo "$IKCONFIG_SHA256  utils/extract-ikconfig" | sha256sum -c -; chmod 0755 utils/extract-ikconfig; \
-      rm -rf .git utils/android_tools/.git; \
+      rm -rf .git utils/android_tools/.git /opt/linux; \
       rm -rf utils/downloaders utils/bin/transfer; \
       echo "$DUMPRX_COMMIT" > .afid-dumprx-commit'
 

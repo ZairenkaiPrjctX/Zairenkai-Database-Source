@@ -182,17 +182,19 @@ class FakeRunGitHub(FakeGitHub):
         self.calls.append(("dispatch", branch))
 
 
-def run_main(monkeypatch, gh, added, deleted=()):
+def run_main(monkeypatch, gh, added, deleted=(), source_mirror=False):
     monkeypatch.setattr(odp, "GitHub", lambda repo: gh)
-    monkeypatch.setattr(odp, "changed_files", lambda: (list(added), list(deleted)))
+    monkeypatch.setattr(
+        odp, "changed_files", lambda allowed_prefix=odp.ALLOWED_PREFIX: (list(added), list(deleted))
+    )
     monkeypatch.setattr(odp, "run", lambda *a, **k: "")  # afid validate / policy check
     monkeypatch.setattr(odp, "blob_sha", lambda p: "new" if "changed" in p else "same")
     monkeypatch.setenv("GITHUB_REPOSITORY", "ZairenkaiPrjctX/Zairenkai-Database-Source")
     monkeypatch.setenv("GITHUB_SHA", BASE)
-    monkeypatch.setattr(
-        "sys.argv",
-        ["open_data_pr.py", "--branch", "afid/updates", "--title", "AFID: metadata updates"],
-    )
+    argv = ["open_data_pr.py", "--branch", "afid/updates", "--title", "AFID: metadata updates"]
+    if source_mirror:
+        argv.append("--source-mirror")
+    monkeypatch.setattr("sys.argv", argv)
     assert odp.main() == 0
 
 
@@ -225,3 +227,26 @@ def test_changes_outside_database_are_refused(tmp_path, monkeypatch):
     (tmp_path / "pr-body.md").write_text("x")
     with pytest.raises(SystemExit, match="outside database/"):
         odp.changed_files()
+
+
+def test_source_mirror_prefix_is_separate_and_narrow(tmp_path, monkeypatch):
+    monkeypatch.chdir(tmp_path)
+    subprocess.run(["git", "init", "-q"], check=True)
+    (tmp_path / "source-files/lineageos_wiki/devices").mkdir(parents=True)
+    (tmp_path / "source-files/lineageos_wiki/devices/foo.yml").write_text("codename: foo\n")
+    assert odp.changed_files(odp.SOURCE_MIRROR_PREFIX) == (
+        ["source-files/lineageos_wiki/devices/foo.yml"],
+        [],
+    )
+    (tmp_path / "source-files/lineageos_wiki/other.txt").write_text("no\n")
+    with pytest.raises(SystemExit, match="unsupported LineageOS mirror path"):
+        odp.changed_files(odp.SOURCE_MIRROR_PREFIX)
+
+
+def test_open_data_pr_chunks_large_mirror_commits(monkeypatch):
+    files = [f"source-files/lineageos_wiki/devices/device-{i}.yml" for i in range(105)]
+    gh = FakeRunGitHub({})
+    run_main(monkeypatch, gh, files, source_mirror=True)
+    commits = [call for call in gh.calls if call[0] == "commit"]
+    assert [len(call[3]) for call in commits] == [50, 50, 5]
+    assert [path for call in commits for path in call[3]] == files

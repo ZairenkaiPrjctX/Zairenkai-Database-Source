@@ -18,6 +18,7 @@ and power components, builds a dependency graph, and writes validated JSON metad
 | `src/afid/dependencies/` | dependency edges |
 | `src/afid/catalog/` | storage, validation, index/statistics |
 | `src/afid/providers/` | provider API, registry, brand providers, LineageOS wiki, GitLab client + dump providers, DumprX tool provider |
+| `tools/mirror_lineageos_wiki.py`, `source-files/lineageos_wiki/` | bounded, commit-pinned mirror of original CC BY-SA LineageOS device YAML with per-file hashes |
 | `src/afid/remote.py`, `matrix.py`, `reconcile.py` | remote dump analysis, matrix planning, delta merge + ingestion state |
 | `src/afid/dumprx.py`, `resources.py` | guarded DumprX runner, resource budgets |
 | `.docker/` | five container images (validation, discovery, catalog, firmware-worker, security) |
@@ -25,6 +26,7 @@ and power components, builds a dependency graph, and writes validated JSON metad
 | `src/afid/licensing/`, `audit.py` | distribution policy, repository audit |
 | `src/afid/pipeline/`, `tools/`, `registry/` | CodeBuild metadata pipeline: source registry, URL policy, bounded discovery, records, run manifest, optional S3 upload (`docs/AWS_PIPELINE.md`) |
 | `buildspec.yml`, `infra/cloudformation/codebuild.yml` | CodeBuild build and project/role/log group template (never deployed by this repository) |
+| `.github/workflows/mirror-lineageos-source.yml` | scheduled/manual source-only mirror; proposed changes go through a scoped review PR |
 
 ## 3. Entry points
 `afid` console script (`pyproject.toml`); workflows in `.github/workflows/`;

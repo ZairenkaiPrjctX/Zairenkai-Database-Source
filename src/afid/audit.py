@@ -29,12 +29,35 @@ PAYLOAD_MAGIC = {
 }
 ARCHIVE_EXT = (".zip", ".tgz", ".tar", ".tar.gz", ".tar.md5", ".img", ".bin", ".lz4", ".apk")
 MAX_FILE_BYTES = 5 * 1024 * 1024
+# Generated state must never be scanned as source. A ZIP export has no `.git` index, so the
+# fallback crawler must reproduce Git's usual cache exclusions itself.
+CACHE_DIRS = {
+    "__pycache__",
+    ".pytest_cache",
+    ".mypy_cache",
+    ".ruff_cache",
+    ".afid-cache",
+    ".tox",
+    ".nox",
+    ".venv",
+}
+CACHE_SUFFIXES = {".pyc", ".pyo"}
 # Small, self-built test fixtures may contain binaries (see tests/fixtures/README.md).
 FIXTURE_GLOBS = ["tests/fixtures/**"]
 SELF = {"src/afid/audit.py", "tests/security/test_audit.py"}
 
 
+def _is_generated_cache(path: Path, root: Path) -> bool:
+    """Whether a repository-relative path is generated Python/tool cache, not source."""
+    try:
+        rel = path.relative_to(root)
+    except ValueError:
+        return True
+    return any(part in CACHE_DIRS for part in rel.parts) or path.suffix.lower() in CACHE_SUFFIXES
+
+
 def tracked_files(root: Path) -> list[Path]:
+    candidates: list[Path]
     if shutil.which("git") and (root / ".git").exists():
         proc = subprocess.run(
             [
@@ -51,12 +74,19 @@ def tracked_files(root: Path) -> list[Path]:
             check=False,
         )
         if proc.returncode == 0:
-            return [root / p for p in proc.stdout.decode().split("\0") if p]
-    return [
+            candidates = [root / p for p in proc.stdout.decode().split("\0") if p]
+        else:
+            candidates = list(root.rglob("*"))
+    else:
+        candidates = list(root.rglob("*"))
+    return sorted(
         p
-        for p in root.rglob("*")
-        if p.is_file() and ".git" not in p.parts and ".afid-cache" not in p.parts
-    ]
+        for p in candidates
+        if p.is_file()
+        and not p.is_symlink()
+        and ".git" not in p.parts
+        and not _is_generated_cache(p, root)
+    )
 
 
 def scan(root: Path) -> list[str]:

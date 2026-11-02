@@ -94,6 +94,7 @@ def test_required_workflows_exist():
     names = {p.rsplit("/", 1)[-1] for p in WORKFLOWS}
     assert names == {
         "validate.yml",
+        "artifact-release.yml",
         "source-discovery.yml",
         "ingest-firmware.yml",
         "check-updates.yml",
@@ -106,6 +107,7 @@ def test_required_workflows_exist():
         "dump-and-analyze.yml",
         "analyze-components.yml",
         "reconcile-catalog.yml",
+        "mirror-lineageos-source.yml",
     }
 
 

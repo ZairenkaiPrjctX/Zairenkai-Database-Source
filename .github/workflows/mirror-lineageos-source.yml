@@ -1,0 +1,109 @@
+name: Mirror LineageOS Wiki source files
+
+on:
+  schedule:
+    - cron: "25 7 * * 3"
+  workflow_dispatch:
+    inputs:
+      open_pr:
+        description: Open or update the pull request with mirrored source files
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+
+concurrency:
+  group: lineageos-source-mirror
+  cancel-in-progress: false
+
+jobs:
+  mirror:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    outputs:
+      changed: ${{ steps.diff.outputs.changed }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          repository: LineageOS/lineage_wiki
+          ref: main
+          path: lineage-wiki
+          sparse-checkout: _data/devices
+          persist-credentials: false
+      - uses: ./.github/actions/setup-afid
+      - name: Mirror and validate the licensed device source files
+        run: python tools/mirror_lineageos_wiki.py --upstream-dir lineage-wiki
+      - id: diff
+        name: Package source-only changes
+        run: |
+          git add -A source-files/lineageos_wiki
+          git diff --cached --check
+          git diff --cached --binary > "$RUNNER_TEMP/source-files.patch"
+          if [ -s "$RUNNER_TEMP/source-files.patch" ]; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          fi
+          python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+          m = json.loads(Path("source-files/lineageos_wiki/manifest.json").read_text())
+          Path(os.environ["RUNNER_TEMP"], "source-mirror-report.md").write_text(
+              "## Source snapshot\n\n"
+              f"- Upstream: `{m['source_repository']}`\n"
+              f"- Commit: `{m['source_revision']}`\n"
+              f"- Files: {len(m['files'])}\n"
+              f"- License: {m['license']}\n"
+              "- Distribution: original metadata source files; no firmware payloads\n",
+              encoding="utf-8",
+          )
+          PY
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        if: steps.diff.outputs.changed == 'true'
+        with:
+          name: lineageos-source-mirror
+          path: |
+            ${{ runner.temp }}/source-files.patch
+            ${{ runner.temp }}/source-mirror-report.md
+          if-no-files-found: error
+          retention-days: 7
+
+  propose:
+    needs: mirror
+    if: >-
+      needs.mirror.outputs.changed == 'true' &&
+      (github.event_name == 'schedule' || inputs.open_pr == true)
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    permissions:
+      contents: write
+      pull-requests: write
+      actions: write
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: ./.github/actions/setup-afid
+      - uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
+        with:
+          name: lineageos-source-mirror
+          path: ${{ runner.temp }}/lineageos-source-mirror
+      - name: Apply and verify source-only snapshot
+        run: |
+          git apply --index "$RUNNER_TEMP/lineageos-source-mirror/source-files.patch"
+          python tools/mirror_lineageos_wiki.py --check
+      - name: Open a reviewed data pull request
+        env:
+          GH_TOKEN: ${{ github.token }}
+          AFID_COMMIT_TRAILER: ${{ vars.AFID_COMMIT_TRAILER }}
+        run: >-
+          python scripts/open_data_pr.py
+          --source-mirror
+          --branch afid/lineageos-source-files
+          --title "AFID: mirror LineageOS device source files"
+          --body-file "$RUNNER_TEMP/lineageos-source-mirror/source-mirror-report.md"

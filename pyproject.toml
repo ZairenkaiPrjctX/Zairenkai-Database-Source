@@ -1,5 +1,5 @@
 [build-system]
-requires = ["setuptools>=69"]
+requires = ["setuptools>=84.1.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
@@ -24,7 +24,7 @@ dev = [
     "check-jsonschema>=0.29",
     "actionlint-py>=1.7",
     "pip-audit>=2.7",
-    "setuptools>=69",
+    "setuptools>=84.1.0",
 ]
 
 [project.scripts]

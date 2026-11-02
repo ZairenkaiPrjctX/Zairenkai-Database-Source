@@ -22,7 +22,8 @@
 | JSON Schemas | `schemas/*.schema.json` (11, incl. `state` and the pipeline's `source-registry`, `firmware-record`, `run-manifest`) | Verified. Evidence: meta-validated by `tests/schemas/test_schemas.py` |
 | Container images | `.docker/` (5 Dockerfiles); none published | Verified. Evidence: local build, smoke test, Trivy, Syft 2026-10-19 (`docs/CONTAINER_IMAGES.md`) |
 | Catalog | `database/` (JSON only): 0 verified devices; 354 unverified LineageOS candidates in staging | Verified. Evidence: `database/statistics.json` (`staging_candidates: 354`), 2026-10-22 |
-| Workflows | `.github/workflows/` (13) + `.github/actions/setup-afid` | Verified. Evidence: actionlint (with shellcheck) and check-jsonschema clean, 2026-10-19; **Unverified** on GitHub |
+| Workflows | `.github/workflows/` (14) + `.github/actions/setup-afid` | 13 existing workflows verified with actionlint/check-jsonschema (2026-10-19); the new LineageOS source mirror workflow passes local actionlint/schema checks and awaits GitHub CI |
+| Licensed source files | `source-files/lineageos_wiki/` | **Verified locally:** 769 original device YAML files (1.24 MB) copied from LineageOS Wiki commit `7ddd0afd7c4d0a599cda6a4ddb693aa394c78145`; CC BY-SA attribution, immutable URLs, Git blob IDs and SHA-256 hashes recorded in `manifest.json`. First PR/Actions run pending. |
 | CodeBuild metadata pipeline | `src/afid/pipeline/`, `tools/`, `registry/`, `buildspec.yml`, `infra/cloudformation/codebuild.yml` | Verified locally. Evidence: 58 offline tests, dry-run exit 0, cfn-lint clean, 2026-10-20. **Unverified** in AWS: never deployed or built |
 | Tests | `tests/` (325 tests) | Verified. Evidence: `python -m pytest -q` -> 325 passed, 2026-10-20 |
 | Documentation | `README.md`, `docs/*.md` (19) | Verified. Evidence: links and cited tests checked by `tests/schemas/test_docs.py` |
@@ -56,6 +57,9 @@
   `tests/extraction/test_extraction.py::test_missing_tool_reported_not_faked`.
 - The committed catalog has no verified devices yet: dump results reach `database/` only via
   reviewed PRs from `download-dumps.yml`. Verified. Evidence: no `database/firmware/` records.
+- The LineageOS Wiki source mirror is limited to the source repository's `_data/devices/*.yml`
+  directory and proposes a scoped PR; no firmware payloads are mirrored. **Unverified** until its
+  first successful Actions run and review.
 
 ## Authoritative sources
 
