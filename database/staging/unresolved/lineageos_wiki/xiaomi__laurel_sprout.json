@@ -5,16 +5,16 @@
   "codename": "laurel_sprout",
   "codename_key": "laurel_sprout",
   "codename_status": "community_reported",
-  "discovered_at": "2026-11-01T10:38:00Z",
+  "discovered_at": "2026-11-02T11:24:46Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "laurel_sprout.yml (blob 5d42dc765724): codename 'laurel_sprout', name 'Mi A3'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-11-01T10:38:01Z",
+      "retrieved_at": "2026-11-02T11:24:48Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/aa06ba20f9afdb979b035d1a0063e0bcb17cb020/_data/devices/laurel_sprout.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/bf49224b3a8838ad67f42e014435d5feeae5a668/_data/devices/laurel_sprout.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -47,9 +47,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "5d42dc7657247ec13b8d7756fb69abb3dc580ee4",
-    "snapshot": "aa06ba20f9afdb979b035d1a0063e0bcb17cb020",
+    "snapshot": "bf49224b3a8838ad67f42e014435d5feeae5a668",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/aa06ba20f9afdb979b035d1a0063e0bcb17cb020/_data/devices/laurel_sprout.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/bf49224b3a8838ad67f42e014435d5feeae5a668/_data/devices/laurel_sprout.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {

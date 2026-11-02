@@ -5,16 +5,16 @@
   "codename": "chiron",
   "codename_key": "chiron",
   "codename_status": "community_reported",
-  "discovered_at": "2026-11-01T10:38:00Z",
+  "discovered_at": "2026-11-02T11:24:46Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "chiron.yml (blob 4ea58962d935): codename 'chiron', name 'Mi MIX 2'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-11-01T10:38:01Z",
+      "retrieved_at": "2026-11-02T11:24:48Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/aa06ba20f9afdb979b035d1a0063e0bcb17cb020/_data/devices/chiron.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/bf49224b3a8838ad67f42e014435d5feeae5a668/_data/devices/chiron.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -44,9 +44,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "4ea58962d935fba02646cbcd7bee66bc25fd5abd",
-    "snapshot": "aa06ba20f9afdb979b035d1a0063e0bcb17cb020",
+    "snapshot": "bf49224b3a8838ad67f42e014435d5feeae5a668",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/aa06ba20f9afdb979b035d1a0063e0bcb17cb020/_data/devices/chiron.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/bf49224b3a8838ad67f42e014435d5feeae5a668/_data/devices/chiron.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
