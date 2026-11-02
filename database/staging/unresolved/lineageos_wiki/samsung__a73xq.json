@@ -5,16 +5,16 @@
   "codename": "a73xq",
   "codename_key": "a73xq",
   "codename_status": "community_reported",
-  "discovered_at": "2026-11-01T10:38:00Z",
+  "discovered_at": "2026-11-02T11:24:46Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
-      "detail": "a73xq.yml (blob 55475fe2f091): codename 'a73xq', name 'Galaxy A73 5G'",
+      "detail": "a73xq.yml (blob e3fcdf43fcd1): codename 'a73xq', name 'Galaxy A73 5G'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-11-01T10:38:01Z",
+      "retrieved_at": "2026-11-02T11:24:48Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/aa06ba20f9afdb979b035d1a0063e0bcb17cb020/_data/devices/a73xq.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/bf49224b3a8838ad67f42e014435d5feeae5a668/_data/devices/a73xq.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -46,10 +46,10 @@
   },
   "source": {
     "provider_id": "lineageos_wiki",
-    "revision": "55475fe2f0914af7e2d7999af2e775e6553b4e4d",
-    "snapshot": "aa06ba20f9afdb979b035d1a0063e0bcb17cb020",
+    "revision": "e3fcdf43fcd1d30314b40f2eea6c515d1d4a9068",
+    "snapshot": "bf49224b3a8838ad67f42e014435d5feeae5a668",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/aa06ba20f9afdb979b035d1a0063e0bcb17cb020/_data/devices/a73xq.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/bf49224b3a8838ad67f42e014435d5feeae5a668/_data/devices/a73xq.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
