@@ -5,16 +5,16 @@
   "codename": "i9300",
   "codename_key": "i9300",
   "codename_status": "community_reported",
-  "discovered_at": "2026-11-02T11:24:46Z",
+  "discovered_at": "2026-11-03T11:01:44Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "i9300.yml (blob e90092da6811): codename 'i9300', name 'Galaxy S III (International)'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-11-02T11:24:48Z",
+      "retrieved_at": "2026-11-03T11:01:45Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/bf49224b3a8838ad67f42e014435d5feeae5a668/_data/devices/i9300.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/620b81d1660b9e37ebbc99ae3b24cf56caac2a9e/_data/devices/i9300.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -47,9 +47,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "e90092da6811e6f94272fd1ca3f1b8fd70abeb7c",
-    "snapshot": "bf49224b3a8838ad67f42e014435d5feeae5a668",
+    "snapshot": "620b81d1660b9e37ebbc99ae3b24cf56caac2a9e",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/bf49224b3a8838ad67f42e014435d5feeae5a668/_data/devices/i9300.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/620b81d1660b9e37ebbc99ae3b24cf56caac2a9e/_data/devices/i9300.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
