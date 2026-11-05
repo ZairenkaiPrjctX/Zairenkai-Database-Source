@@ -5,14 +5,14 @@
   "codename": "m20lte",
   "codename_key": "m20lte",
   "codename_status": "community_reported",
-  "discovered_at": "2026-11-03T11:01:44Z",
+  "discovered_at": "2026-11-05T11:10:00Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "m20lte.yml (blob a09175951ab4): codename 'm20lte', name 'Galaxy M20'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-11-03T11:01:45Z",
+      "retrieved_at": "2026-11-05T11:10:01Z",
       "source": "lineageos_wiki",
       "url": "https://github.com/LineageOS/lineage_wiki/blob/620b81d1660b9e37ebbc99ae3b24cf56caac2a9e/_data/devices/m20lte.yml"
     }
