@@ -5,14 +5,14 @@
   "codename": "a7y17lte",
   "codename_key": "a7y17lte",
   "codename_status": "community_reported",
-  "discovered_at": "2026-11-06T11:06:52Z",
+  "discovered_at": "2026-11-07T10:25:56Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "a7y17lte.yml (blob 83cb7b12dd77): codename 'a7y17lte', name 'Galaxy A7 (2017)'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-11-06T11:06:53Z",
+      "retrieved_at": "2026-11-07T10:25:57Z",
       "source": "lineageos_wiki",
       "url": "https://github.com/LineageOS/lineage_wiki/blob/620b81d1660b9e37ebbc99ae3b24cf56caac2a9e/_data/devices/a7y17lte.yml"
     }
