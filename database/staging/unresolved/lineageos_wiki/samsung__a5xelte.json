@@ -5,16 +5,16 @@
   "codename": "a5xelte",
   "codename_key": "a5xelte",
   "codename_status": "community_reported",
-  "discovered_at": "2026-11-07T10:25:56Z",
+  "discovered_at": "2026-11-08T10:33:48Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "a5xelte.yml (blob 08d3ae9a9f7a): codename 'a5xelte', name 'Galaxy A5 (2016)'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-11-07T10:25:57Z",
+      "retrieved_at": "2026-11-08T10:33:49Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/620b81d1660b9e37ebbc99ae3b24cf56caac2a9e/_data/devices/a5xelte.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2ff0d0f57b1145b3a2f6eb1d4bdd21f3fb94415f/_data/devices/a5xelte.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -53,9 +53,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "08d3ae9a9f7a1fa0d3c1cd009854ab12854fe4be",
-    "snapshot": "620b81d1660b9e37ebbc99ae3b24cf56caac2a9e",
+    "snapshot": "2ff0d0f57b1145b3a2f6eb1d4bdd21f3fb94415f",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/620b81d1660b9e37ebbc99ae3b24cf56caac2a9e/_data/devices/a5xelte.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/2ff0d0f57b1145b3a2f6eb1d4bdd21f3fb94415f/_data/devices/a5xelte.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
