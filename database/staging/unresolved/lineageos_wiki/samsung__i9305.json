@@ -5,16 +5,16 @@
   "codename": "i9305",
   "codename_key": "i9305",
   "codename_status": "community_reported",
-  "discovered_at": "2026-11-07T10:25:56Z",
+  "discovered_at": "2026-11-08T10:33:48Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "i9305.yml (blob c44dc63614ae): codename 'i9305', name 'Galaxy S III (LTE / International)'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-11-07T10:25:57Z",
+      "retrieved_at": "2026-11-08T10:33:49Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/620b81d1660b9e37ebbc99ae3b24cf56caac2a9e/_data/devices/i9305.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/2ff0d0f57b1145b3a2f6eb1d4bdd21f3fb94415f/_data/devices/i9305.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -48,9 +48,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "c44dc63614ae533721dbf5807d6709aca19b4bd0",
-    "snapshot": "620b81d1660b9e37ebbc99ae3b24cf56caac2a9e",
+    "snapshot": "2ff0d0f57b1145b3a2f6eb1d4bdd21f3fb94415f",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/620b81d1660b9e37ebbc99ae3b24cf56caac2a9e/_data/devices/i9305.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/2ff0d0f57b1145b3a2f6eb1d4bdd21f3fb94415f/_data/devices/i9305.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
