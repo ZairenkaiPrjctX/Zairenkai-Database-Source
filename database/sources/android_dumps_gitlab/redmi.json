@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-19T03:41:19Z",
+  "checked_at": "2026-11-09T13:19:35Z",
   "errors": [],
   "items": [
     {
@@ -321,7 +321,7 @@
         "commit": "6f9b9558d241d5fa047f1ed19b819dfbf05a509b",
         "committed_date": "2022-07-04T21:29:22.000+05:30",
         "default_branch": false,
-        "last_activity_at": "2022-07-07T07:09:03.860Z",
+        "last_activity_at": "2026-11-03T12:55:37.161Z",
         "namespace_hint": "redmi",
         "project_hint": "curtana",
         "project_id": 35129318,
@@ -338,7 +338,7 @@
         "commit": "2fb41e71d19861bb65e85fe61749c81c5a9a18d6",
         "committed_date": "2022-04-06T15:00:00.000+05:30",
         "default_branch": false,
-        "last_activity_at": "2022-07-07T07:09:03.860Z",
+        "last_activity_at": "2026-11-03T12:55:37.161Z",
         "namespace_hint": "redmi",
         "project_hint": "curtana",
         "project_id": 35129318,
@@ -354,8 +354,8 @@
         "branch": "qssi-user-11-RKQ1.200826.002-V12.5.9.0.RJWINRF-release-keys",
         "commit": "37a8bb226381f162ae402f7eac16b1d85a82adab",
         "committed_date": "2022-07-07T12:31:23.000+05:30",
-        "default_branch": true,
-        "last_activity_at": "2022-07-07T07:09:03.860Z",
+        "default_branch": false,
+        "last_activity_at": "2026-11-03T12:55:37.161Z",
         "namespace_hint": "redmi",
         "project_hint": "curtana",
         "project_id": 35129318,
@@ -363,6 +363,23 @@
       },
       "revision": "37a8bb226381f162ae402f7eac16b1d85a82adab",
       "url": "https://gitlab.com/Android-Dumps/redmi/curtana/-/tree/37a8bb226381f162ae402f7eac16b1d85a82adab"
+    },
+    {
+      "item_id": "redmi/curtana@qssi-user-12-SKQ1.211019.001-V14.0.4.0.SJWMIXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-12-SKQ1.211019.001-V14.0.4.0.SJWMIXM-release-keys",
+        "commit": "96fa7845f6cf61faed930dbfdd9b13f344a4eb18",
+        "committed_date": "2026-11-03T13:05:39.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-11-03T12:55:37.161Z",
+        "namespace_hint": "redmi",
+        "project_hint": "curtana",
+        "project_id": 35129318,
+        "project_path": "redmi/curtana"
+      },
+      "revision": "96fa7845f6cf61faed930dbfdd9b13f344a4eb18",
+      "url": "https://gitlab.com/Android-Dumps/redmi/curtana/-/tree/96fa7845f6cf61faed930dbfdd9b13f344a4eb18"
     },
     {
       "item_id": "redmi/dandelion@dandelion-user-10-QP1A.190711.020-V12.0.22.0.QCDINXM-release-keys",
@@ -652,6 +669,23 @@
       },
       "revision": "21a9f2b432a189cfb0084c526b7c08db3d249b6b",
       "url": "https://gitlab.com/Android-Dumps/redmi/fleur/-/tree/21a9f2b432a189cfb0084c526b7c08db3d249b6b"
+    },
+    {
+      "item_id": "redmi/flute@missi-user-16-BP2A.250605.031.A3-16OS3.1.260727.195010015.QCPDGL.S-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-16-BP2A.250605.031.A3-16OS3.1.260727.195010015.QCPDGL.S-release-keys",
+        "commit": "414982c561fc8644829b0805c59fba921178e1ac",
+        "committed_date": "2026-11-03T19:38:02.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-11-03T19:21:01.373Z",
+        "namespace_hint": "redmi",
+        "project_hint": "flute",
+        "project_id": 88469314,
+        "project_path": "redmi/flute"
+      },
+      "revision": "414982c561fc8644829b0805c59fba921178e1ac",
+      "url": "https://gitlab.com/Android-Dumps/redmi/flute/-/tree/414982c561fc8644829b0805c59fba921178e1ac"
     },
     {
       "item_id": "redmi/fog@V13.0.5.0.SGEMIXM",
@@ -1572,6 +1606,23 @@
       "url": "https://gitlab.com/Android-Dumps/redmi/taiko/-/tree/c550757409f38df50e35fbccfdf1ffcad9dffe31"
     },
     {
+      "item_id": "redmi/tanzanite@missi-user-15-AP3A.240905.015.A2-OS2.0.210.0.VOGIDXM-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-15-AP3A.240905.015.A2-OS2.0.210.0.VOGIDXM-release-keys",
+        "commit": "dc51cc2b3a48e8d5b48dff79fa3f458d29c1e09c",
+        "committed_date": "2026-10-30T07:54:38.000+00:00",
+        "default_branch": false,
+        "last_activity_at": "2026-10-30T07:42:05.657Z",
+        "namespace_hint": "redmi",
+        "project_hint": "tanzanite",
+        "project_id": 85730575,
+        "project_path": "redmi/tanzanite"
+      },
+      "revision": "dc51cc2b3a48e8d5b48dff79fa3f458d29c1e09c",
+      "url": "https://gitlab.com/Android-Dumps/redmi/tanzanite/-/tree/dc51cc2b3a48e8d5b48dff79fa3f458d29c1e09c"
+    },
+    {
       "item_id": "redmi/tanzanite@missi-user-16-BP2A.250605.031.A3-OS3.0.302.0.WOGMIXM-release-keys",
       "kind": "firmware",
       "metadata": {
@@ -1579,7 +1630,7 @@
         "commit": "2f1f03ee4adc0bb228e780cc7c7e9445df30b07b",
         "committed_date": "2026-08-25T08:44:38.000+00:00",
         "default_branch": true,
-        "last_activity_at": "2026-08-25T08:23:24.212Z",
+        "last_activity_at": "2026-10-30T07:42:05.657Z",
         "namespace_hint": "redmi",
         "project_hint": "tanzanite",
         "project_id": 85730575,

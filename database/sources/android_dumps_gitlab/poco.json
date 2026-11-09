@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-19T03:41:19Z",
+  "checked_at": "2026-11-09T13:19:35Z",
   "errors": [],
   "items": [
     {
@@ -375,6 +375,23 @@
       },
       "revision": "01003d75caa992d5db9d1d5188ed282c1a0ff6f9",
       "url": "https://gitlab.com/Android-Dumps/poco/moonstone/-/tree/01003d75caa992d5db9d1d5188ed282c1a0ff6f9"
+    },
+    {
+      "item_id": "poco/onyx@missi-user-16-BP2A.250605.031.A3-16OS3.1.260710.165336570.QCPEGL.S-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "missi-user-16-BP2A.250605.031.A3-16OS3.1.260710.165336570.QCPEGL.S-release-keys",
+        "commit": "88187ff7f60ef2215fd58e875afae0629b5f2f05",
+        "committed_date": "2026-11-05T18:36:11.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-11-05T18:08:26.614Z",
+        "namespace_hint": "poco",
+        "project_hint": "onyx",
+        "project_id": 88564429,
+        "project_path": "poco/onyx"
+      },
+      "revision": "88187ff7f60ef2215fd58e875afae0629b5f2f05",
+      "url": "https://gitlab.com/Android-Dumps/poco/onyx/-/tree/88187ff7f60ef2215fd58e875afae0629b5f2f05"
     },
     {
       "item_id": "poco/peridot@missi-user-16-BP2A.250605.031.A3-OS3.0.4.0.WNPMIXM-release-keys",

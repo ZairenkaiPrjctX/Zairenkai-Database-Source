@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-19T03:41:19Z",
+  "checked_at": "2026-11-09T13:19:35Z",
   "errors": [],
   "items": [
     {
@@ -114,6 +114,23 @@
       },
       "revision": "5cf015b0be4b63eb93bebdb5ebc77857074933d5",
       "url": "https://gitlab.com/Android-Dumps/motorola/berlna/-/tree/5cf015b0be4b63eb93bebdb5ebc77857074933d5"
+    },
+    {
+      "item_id": "motorola/bogota@user-16-W1VO36.88-36-7-014f4-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "user-16-W1VO36.88-36-7-014f4-release-keys",
+        "commit": "74bda3662bfda0568de791274ced80c064614946",
+        "committed_date": "2026-10-27T18:19:54.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-10-27T18:03:44.264Z",
+        "namespace_hint": "motorola",
+        "project_hint": "bogota",
+        "project_id": 88171002,
+        "project_path": "motorola/bogota"
+      },
+      "revision": "74bda3662bfda0568de791274ced80c064614946",
+      "url": "https://gitlab.com/Android-Dumps/motorola/bogota/-/tree/74bda3662bfda0568de791274ced80c064614946"
     },
     {
       "item_id": "motorola/borag@borag-user-12-SOVS32.121-21-3-f5f52-release-keys",
