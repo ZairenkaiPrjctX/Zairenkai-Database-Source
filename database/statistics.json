@@ -190,7 +190,7 @@
       "firmware_builds": 0
     }
   },
-  "database_digest": "557c011174dcff9246af136c708937f8995187a711aeeb2e9b7c846c6711aa19",
+  "database_digest": "01ae39ed1960a8256097a6fca07cfd310b4ae99ec45061cf6ed53f072b659a8e",
   "dependencies_inferred": 0,
   "dependencies_resolved": 0,
   "dependencies_unresolved": 0,
@@ -207,11 +207,11 @@
     "oneplus": 58,
     "poco": 17,
     "redmi": 66,
-    "samsung": 120,
+    "samsung": 121,
     "xiaomi": 60
   },
-  "staging_candidates": 359,
-  "staging_unverified": 359,
+  "staging_candidates": 360,
+  "staging_unverified": 360,
   "thermal_config": 0,
   "thermal_hal": 0,
   "unknown": 0,
