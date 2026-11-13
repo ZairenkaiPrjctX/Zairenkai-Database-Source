@@ -5,16 +5,16 @@
   "codename": "lentislte",
   "codename_key": "lentislte",
   "codename_status": "community_reported",
-  "discovered_at": "2026-11-12T11:28:29Z",
+  "discovered_at": "2026-11-13T11:12:56Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "lentislte.yml (blob 03ee1df3333a): codename 'lentislte', name 'Galaxy S5 LTE-A'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-11-12T11:28:30Z",
+      "retrieved_at": "2026-11-13T11:12:57Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/f33424ecc81eb1125a433419cb88ef4a5fa7f8ca/_data/devices/lentislte.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/9c94b22b249f8b681906f2fe1ecdf59036a520f2/_data/devices/lentislte.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -48,9 +48,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "03ee1df3333ac42c044ac7c980ca52ca506122d6",
-    "snapshot": "f33424ecc81eb1125a433419cb88ef4a5fa7f8ca",
+    "snapshot": "9c94b22b249f8b681906f2fe1ecdf59036a520f2",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/f33424ecc81eb1125a433419cb88ef4a5fa7f8ca/_data/devices/lentislte.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/9c94b22b249f8b681906f2fe1ecdf59036a520f2/_data/devices/lentislte.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
