@@ -5,16 +5,16 @@
   "codename": "garnet",
   "codename_key": "garnet",
   "codename_status": "community_reported",
-  "discovered_at": "2026-11-12T11:28:29Z",
+  "discovered_at": "2026-11-13T11:12:56Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "garnet_variant1.yml (blob 2d4b8a1b8a2d): codename 'garnet', name 'Redmi Note 13 Pro 5G'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-11-12T11:28:30Z",
+      "retrieved_at": "2026-11-13T11:12:57Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/f33424ecc81eb1125a433419cb88ef4a5fa7f8ca/_data/devices/garnet_variant1.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/9c94b22b249f8b681906f2fe1ecdf59036a520f2/_data/devices/garnet_variant1.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -47,9 +47,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "2d4b8a1b8a2d376dc8acbd8d056a6e6eef58c26f",
-    "snapshot": "f33424ecc81eb1125a433419cb88ef4a5fa7f8ca",
+    "snapshot": "9c94b22b249f8b681906f2fe1ecdf59036a520f2",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/f33424ecc81eb1125a433419cb88ef4a5fa7f8ca/_data/devices/garnet_variant1.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/9c94b22b249f8b681906f2fe1ecdf59036a520f2/_data/devices/garnet_variant1.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
