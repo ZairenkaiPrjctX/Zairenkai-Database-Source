@@ -5,16 +5,16 @@
   "codename": "capricorn",
   "codename_key": "capricorn",
   "codename_status": "community_reported",
-  "discovered_at": "2026-11-12T11:28:29Z",
+  "discovered_at": "2026-11-13T11:12:56Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "capricorn.yml (blob 3ab565a1f033): codename 'capricorn', name 'Mi 5s'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-11-12T11:28:30Z",
+      "retrieved_at": "2026-11-13T11:12:57Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/f33424ecc81eb1125a433419cb88ef4a5fa7f8ca/_data/devices/capricorn.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/9c94b22b249f8b681906f2fe1ecdf59036a520f2/_data/devices/capricorn.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -44,9 +44,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "3ab565a1f033f0b472d364413d1191c1382ca744",
-    "snapshot": "f33424ecc81eb1125a433419cb88ef4a5fa7f8ca",
+    "snapshot": "9c94b22b249f8b681906f2fe1ecdf59036a520f2",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/f33424ecc81eb1125a433419cb88ef4a5fa7f8ca/_data/devices/capricorn.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/9c94b22b249f8b681906f2fe1ecdf59036a520f2/_data/devices/capricorn.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
