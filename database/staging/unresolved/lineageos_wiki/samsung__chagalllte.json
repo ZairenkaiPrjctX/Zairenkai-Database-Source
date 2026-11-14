@@ -5,14 +5,14 @@
   "codename": "chagalllte",
   "codename_key": "chagalllte",
   "codename_status": "community_reported",
-  "discovered_at": "2026-11-13T11:12:56Z",
+  "discovered_at": "2026-11-14T10:38:48Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "chagalllte.yml (blob 27eaa3314657): codename 'chagalllte', name 'Galaxy Tab S 10.5 LTE'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-11-13T11:12:57Z",
+      "retrieved_at": "2026-11-14T10:38:50Z",
       "source": "lineageos_wiki",
       "url": "https://github.com/LineageOS/lineage_wiki/blob/9c94b22b249f8b681906f2fe1ecdf59036a520f2/_data/devices/chagalllte.yml"
     }
