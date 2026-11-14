@@ -5,16 +5,16 @@
   "codename": "flame",
   "codename_key": "flame",
   "codename_status": "community_reported",
-  "discovered_at": "2026-10-29T10:10:31Z",
+  "discovered_at": "2026-11-14T10:38:48Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
-      "detail": "flame.yml (blob d3a2954b55ec): codename 'flame', name 'Pixel 4'",
+      "detail": "flame.yml (blob 6021da65c0af): codename 'flame', name 'Pixel 4'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-10-29T10:10:33Z",
+      "retrieved_at": "2026-11-14T10:38:50Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/cb91ae11e9d394bcba168d748ed5d339edc67b84/_data/devices/flame.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/9c94b22b249f8b681906f2fe1ecdf59036a520f2/_data/devices/flame.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -43,10 +43,10 @@
   },
   "source": {
     "provider_id": "lineageos_wiki",
-    "revision": "d3a2954b55ecf1f13ed399d6875bfc2f323f1674",
-    "snapshot": "cb91ae11e9d394bcba168d748ed5d339edc67b84",
+    "revision": "6021da65c0afe9338b7d8ac5dd76d058103c4e0c",
+    "snapshot": "9c94b22b249f8b681906f2fe1ecdf59036a520f2",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/cb91ae11e9d394bcba168d748ed5d339edc67b84/_data/devices/flame.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/9c94b22b249f8b681906f2fe1ecdf59036a520f2/_data/devices/flame.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
