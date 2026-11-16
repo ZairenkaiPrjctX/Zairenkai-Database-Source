@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-09T13:19:35Z",
+  "checked_at": "2026-11-16T13:06:51Z",
   "errors": [],
   "items": [
     {
@@ -52,6 +52,23 @@
       },
       "revision": "6d042637185e6bfc2a24e834541a72fa9c99904d",
       "url": "https://gitlab.com/Android-Dumps/nothing/Galaga/-/tree/6d042637185e6bfc2a24e834541a72fa9c99904d"
+    },
+    {
+      "item_id": "nothing/Pong@qssi-user-16-BQ2A.250721.001-BP2A.250605.031.A3-2606181026-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "qssi-user-16-BQ2A.250721.001-BP2A.250605.031.A3-2606181026-release-keys",
+        "commit": "5f62c6d9e0281aaa2d7995bfe8d2f5b314fa6bc0",
+        "committed_date": "2026-11-10T11:41:37.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-11-10T11:22:57.695Z",
+        "namespace_hint": "nothing",
+        "project_hint": "Pong",
+        "project_id": 88747286,
+        "project_path": "nothing/Pong"
+      },
+      "revision": "5f62c6d9e0281aaa2d7995bfe8d2f5b314fa6bc0",
+      "url": "https://gitlab.com/Android-Dumps/nothing/Pong/-/tree/5f62c6d9e0281aaa2d7995bfe8d2f5b314fa6bc0"
     }
   ],
   "provider_id": "android_dumps_gitlab",
