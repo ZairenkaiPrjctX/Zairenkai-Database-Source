@@ -5,16 +5,16 @@
   "codename": "garnet",
   "codename_key": "garnet",
   "codename_status": "community_reported",
-  "discovered_at": "2026-11-16T11:41:32Z",
+  "discovered_at": "2026-11-17T12:03:58Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "garnet_variant5.yml (blob 7a43ce5e4e1a): codename 'garnet', name 'POCO X6 5G (India)'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-11-16T11:41:33Z",
+      "retrieved_at": "2026-11-17T12:03:59Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/f7633a607b32bf5bc636737db1a84ad1b7bff1df/_data/devices/garnet_variant5.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/7970bb49d850269d59f839d03715c29002baf516/_data/devices/garnet_variant5.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -46,9 +46,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "7a43ce5e4e1a73632b020d1fc306d43ba37c479d",
-    "snapshot": "f7633a607b32bf5bc636737db1a84ad1b7bff1df",
+    "snapshot": "7970bb49d850269d59f839d03715c29002baf516",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/f7633a607b32bf5bc636737db1a84ad1b7bff1df/_data/devices/garnet_variant5.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/7970bb49d850269d59f839d03715c29002baf516/_data/devices/garnet_variant5.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
