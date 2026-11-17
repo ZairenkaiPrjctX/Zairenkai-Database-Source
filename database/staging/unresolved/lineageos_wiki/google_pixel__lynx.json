@@ -5,16 +5,16 @@
   "codename": "lynx",
   "codename_key": "lynx",
   "codename_status": "community_reported",
-  "discovered_at": "2026-11-16T11:41:32Z",
+  "discovered_at": "2026-11-17T12:03:58Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "lynx.yml (blob ef4681f55738): codename 'lynx', name 'Pixel 7a'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-11-16T11:41:33Z",
+      "retrieved_at": "2026-11-17T12:03:59Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/f7633a607b32bf5bc636737db1a84ad1b7bff1df/_data/devices/lynx.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/7970bb49d850269d59f839d03715c29002baf516/_data/devices/lynx.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -44,9 +44,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "ef4681f5573808fb98a53af92a165be43c10bd1a",
-    "snapshot": "f7633a607b32bf5bc636737db1a84ad1b7bff1df",
+    "snapshot": "7970bb49d850269d59f839d03715c29002baf516",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/f7633a607b32bf5bc636737db1a84ad1b7bff1df/_data/devices/lynx.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/7970bb49d850269d59f839d03715c29002baf516/_data/devices/lynx.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
