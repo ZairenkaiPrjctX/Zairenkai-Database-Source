@@ -5,16 +5,16 @@
   "codename": "ido",
   "codename_key": "ido",
   "codename_status": "community_reported",
-  "discovered_at": "2026-11-17T12:03:58Z",
+  "discovered_at": "2026-11-18T11:55:12Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "ido_variant2.yml (blob 9c9af14131b0): codename 'ido', name 'Redmi 3 Prime'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-11-17T12:03:59Z",
+      "retrieved_at": "2026-11-18T11:55:13Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/7970bb49d850269d59f839d03715c29002baf516/_data/devices/ido_variant2.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/97c0feef8838934f170c2d5b22d1d939a47192db/_data/devices/ido_variant2.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -44,9 +44,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "9c9af14131b02fa946ab20b7f468c138a13f74cd",
-    "snapshot": "7970bb49d850269d59f839d03715c29002baf516",
+    "snapshot": "97c0feef8838934f170c2d5b22d1d939a47192db",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/7970bb49d850269d59f839d03715c29002baf516/_data/devices/ido_variant2.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/97c0feef8838934f170c2d5b22d1d939a47192db/_data/devices/ido_variant2.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
