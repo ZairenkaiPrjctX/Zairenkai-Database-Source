@@ -5,16 +5,16 @@
   "codename": "x1s",
   "codename_key": "x1s",
   "codename_status": "community_reported",
-  "discovered_at": "2026-11-17T12:03:58Z",
+  "discovered_at": "2026-11-18T11:55:12Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "x1s.yml (blob c9e6971da8d8): codename 'x1s', name 'Galaxy S20 (4G/5G)'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-11-17T12:03:59Z",
+      "retrieved_at": "2026-11-18T11:55:13Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/7970bb49d850269d59f839d03715c29002baf516/_data/devices/x1s.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/97c0feef8838934f170c2d5b22d1d939a47192db/_data/devices/x1s.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -49,9 +49,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "c9e6971da8d8ea1b3c87ae5848d6ae223e5e8346",
-    "snapshot": "7970bb49d850269d59f839d03715c29002baf516",
+    "snapshot": "97c0feef8838934f170c2d5b22d1d939a47192db",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/7970bb49d850269d59f839d03715c29002baf516/_data/devices/x1s.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/97c0feef8838934f170c2d5b22d1d939a47192db/_data/devices/x1s.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
