@@ -5,16 +5,16 @@
   "codename": "b0s",
   "codename_key": "b0s",
   "codename_status": "community_reported",
-  "discovered_at": "2026-11-18T11:55:12Z",
+  "discovered_at": "2026-11-19T11:52:47Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "b0s.yml (blob 1020af09eb28): codename 'b0s', name 'Galaxy S22 Ultra'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-11-18T11:55:13Z",
+      "retrieved_at": "2026-11-19T11:52:48Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/97c0feef8838934f170c2d5b22d1d939a47192db/_data/devices/b0s.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/d7ea24d86f1ea2b5a3d7e3d037bfd214a2632c32/_data/devices/b0s.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -47,9 +47,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "1020af09eb2874d3ce1de7d1f8f82ae3f68c3393",
-    "snapshot": "97c0feef8838934f170c2d5b22d1d939a47192db",
+    "snapshot": "d7ea24d86f1ea2b5a3d7e3d037bfd214a2632c32",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/97c0feef8838934f170c2d5b22d1d939a47192db/_data/devices/b0s.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/d7ea24d86f1ea2b5a3d7e3d037bfd214a2632c32/_data/devices/b0s.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
