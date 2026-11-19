@@ -5,16 +5,16 @@
   "codename": "oneplus3",
   "codename_key": "oneplus3",
   "codename_status": "community_reported",
-  "discovered_at": "2026-11-18T11:55:12Z",
+  "discovered_at": "2026-11-19T11:52:47Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "oneplus3_variant2.yml (blob 58e4931fd2d1): codename 'oneplus3', name '3T'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-11-18T11:55:13Z",
+      "retrieved_at": "2026-11-19T11:52:48Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/97c0feef8838934f170c2d5b22d1d939a47192db/_data/devices/oneplus3_variant2.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/d7ea24d86f1ea2b5a3d7e3d037bfd214a2632c32/_data/devices/oneplus3_variant2.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -47,9 +47,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "58e4931fd2d1cb0e024ef3071fcf2e16d7c4d6be",
-    "snapshot": "97c0feef8838934f170c2d5b22d1d939a47192db",
+    "snapshot": "d7ea24d86f1ea2b5a3d7e3d037bfd214a2632c32",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/97c0feef8838934f170c2d5b22d1d939a47192db/_data/devices/oneplus3_variant2.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/d7ea24d86f1ea2b5a3d7e3d037bfd214a2632c32/_data/devices/oneplus3_variant2.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
