@@ -5,16 +5,16 @@
   "codename": "shiba",
   "codename_key": "shiba",
   "codename_status": "community_reported",
-  "discovered_at": "2026-10-29T10:10:31Z",
+  "discovered_at": "2026-11-21T11:23:07Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
-      "detail": "shiba.yml (blob 39e536bcbf9a): codename 'shiba', name 'Pixel 8'",
+      "detail": "shiba.yml (blob 8a6383a3471e): codename 'shiba', name 'Pixel 8'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-10-29T10:10:33Z",
+      "retrieved_at": "2026-11-21T11:23:07Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/cb91ae11e9d394bcba168d748ed5d339edc67b84/_data/devices/shiba.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/14a36a07db381f12db16c1a588221181ce1f50df/_data/devices/shiba.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -43,10 +43,10 @@
   },
   "source": {
     "provider_id": "lineageos_wiki",
-    "revision": "39e536bcbf9aa87c2bd39e61c90eb92e424d3250",
-    "snapshot": "cb91ae11e9d394bcba168d748ed5d339edc67b84",
+    "revision": "8a6383a3471ed8b69d04e82fb02afc46b2bdf7b2",
+    "snapshot": "14a36a07db381f12db16c1a588221181ce1f50df",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/cb91ae11e9d394bcba168d748ed5d339edc67b84/_data/devices/shiba.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/14a36a07db381f12db16c1a588221181ce1f50df/_data/devices/shiba.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {

@@ -5,16 +5,16 @@
   "codename": "sargo",
   "codename_key": "sargo",
   "codename_status": "community_reported",
-  "discovered_at": "2026-10-29T10:10:31Z",
+  "discovered_at": "2026-11-21T11:23:07Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "sargo.yml (blob b66c68064225): codename 'sargo', name 'Pixel 3a'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-10-29T10:10:33Z",
+      "retrieved_at": "2026-11-21T11:23:07Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/cb91ae11e9d394bcba168d748ed5d339edc67b84/_data/devices/sargo.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/14a36a07db381f12db16c1a588221181ce1f50df/_data/devices/sargo.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -48,9 +48,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "b66c680642259aa935810f9cfdcfa3c58e943683",
-    "snapshot": "cb91ae11e9d394bcba168d748ed5d339edc67b84",
+    "snapshot": "14a36a07db381f12db16c1a588221181ce1f50df",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/cb91ae11e9d394bcba168d748ed5d339edc67b84/_data/devices/sargo.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/14a36a07db381f12db16c1a588221181ce1f50df/_data/devices/sargo.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
