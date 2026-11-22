@@ -5,16 +5,16 @@
   "codename": "Mi8917",
   "codename_key": "mi8917",
   "codename_status": "community_reported",
-  "discovered_at": "2026-11-21T11:23:07Z",
+  "discovered_at": "2026-11-22T11:39:19Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "Mi8917_variant3.yml (blob 071c154c92b9): codename 'Mi8917', name 'Redmi Note 5A Lite'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-11-21T11:23:07Z",
+      "retrieved_at": "2026-11-22T11:39:20Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/14a36a07db381f12db16c1a588221181ce1f50df/_data/devices/Mi8917_variant3.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/67a8877ab60caccc6a85a2ef039e0bb50c16944f/_data/devices/Mi8917_variant3.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -48,9 +48,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "071c154c92b91847d63dded5b87d35f328602f7b",
-    "snapshot": "14a36a07db381f12db16c1a588221181ce1f50df",
+    "snapshot": "67a8877ab60caccc6a85a2ef039e0bb50c16944f",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/14a36a07db381f12db16c1a588221181ce1f50df/_data/devices/Mi8917_variant3.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/67a8877ab60caccc6a85a2ef039e0bb50c16944f/_data/devices/Mi8917_variant3.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
