@@ -1,17 +1,23 @@
 {
-  "checked_at": "2026-10-19T03:41:19Z",
+  "checked_at": "2026-11-23T15:18:46Z",
   "errors": [],
   "items": [
     {
-      "item_id": "_project/80278706",
-      "kind": "index",
+      "item_id": "oplus/ossi@sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1721271259961-release-keys",
+      "kind": "firmware",
       "metadata": {
-        "last_activity_at": "2026-03-15T09:16:05.270Z",
+        "branch": "sys_mssi_64_cn_armv82-user-13-TP1A.220905.001-1721271259961-release-keys",
+        "commit": "bca28943665fc33b000212b6c834d9991e59905a",
+        "committed_date": "2026-11-12T04:29:26.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-11-12T04:19:24.296Z",
+        "namespace_hint": "oplus",
+        "project_hint": "ossi",
         "project_id": 80278706,
         "project_path": "oplus/ossi"
       },
-      "revision": "2026-03-15T09:16:05.270Z",
-      "url": "https://gitlab.com/Android-Dumps/oplus/ossi"
+      "revision": "bca28943665fc33b000212b6c834d9991e59905a",
+      "url": "https://gitlab.com/Android-Dumps/oplus/ossi/-/tree/bca28943665fc33b000212b6c834d9991e59905a"
     }
   ],
   "provider_id": "android_dumps_gitlab",

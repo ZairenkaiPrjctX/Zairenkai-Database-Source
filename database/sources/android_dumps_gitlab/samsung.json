@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-19T03:41:19Z",
+  "checked_at": "2026-11-23T15:18:46Z",
   "errors": [],
   "items": [
     {
@@ -1428,6 +1428,23 @@
       },
       "revision": "13782ac1d7c577f1b75330c3a2d5bedc7f44c5ef",
       "url": "https://gitlab.com/Android-Dumps/samsung/p3s/-/tree/13782ac1d7c577f1b75330c3a2d5bedc7f44c5ef"
+    },
+    {
+      "item_id": "samsung/pa1q@pa1qxxx-user-16-BP4A.251205.006-S931BXXUACZF1-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "pa1qxxx-user-16-BP4A.251205.006-S931BXXUACZF1-release-keys",
+        "commit": "707fafd5b09024f42b1f03f6c1154e27cb0239f7",
+        "committed_date": "2026-11-10T16:17:02.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-11-10T15:58:12.460Z",
+        "namespace_hint": "samsung",
+        "project_hint": "pa1q",
+        "project_id": 88758791,
+        "project_path": "samsung/pa1q"
+      },
+      "revision": "707fafd5b09024f42b1f03f6c1154e27cb0239f7",
+      "url": "https://gitlab.com/Android-Dumps/samsung/pa1q/-/tree/707fafd5b09024f42b1f03f6c1154e27cb0239f7"
     },
     {
       "item_id": "samsung/pa3q@pa3qxxx-user-16-BP2A.250605.031.A3-S938BXXS8BZC1-release-keys",
