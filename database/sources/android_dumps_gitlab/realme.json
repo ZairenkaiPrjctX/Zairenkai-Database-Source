@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-19T03:41:19Z",
+  "checked_at": "2026-11-23T15:18:46Z",
   "errors": [],
   "items": [
     {
@@ -52,6 +52,23 @@
       },
       "revision": "2f5e6120a5135ee9fd0f3315cba7961953c2c512",
       "url": "https://gitlab.com/Android-Dumps/realme/RE5C6CL1/-/tree/2f5e6120a5135ee9fd0f3315cba7961953c2c512"
+    },
+    {
+      "item_id": "realme/RE6090L1@sys_mssi_64_64only_cn_armv82-user-17-CP2A.260605.016-1793807870822-release-keys",
+      "kind": "firmware",
+      "metadata": {
+        "branch": "sys_mssi_64_64only_cn_armv82-user-17-CP2A.260605.016-1793807870822-release-keys",
+        "commit": "889c2625183b839c4369999843f590ac3dc12a64",
+        "committed_date": "2026-11-18T13:51:43.000+00:00",
+        "default_branch": true,
+        "last_activity_at": "2026-11-18T13:23:33.043Z",
+        "namespace_hint": "realme",
+        "project_hint": "RE6090L1",
+        "project_id": 89108183,
+        "project_path": "realme/RE6090L1"
+      },
+      "revision": "889c2625183b839c4369999843f590ac3dc12a64",
+      "url": "https://gitlab.com/Android-Dumps/realme/RE6090L1/-/tree/889c2625183b839c4369999843f590ac3dc12a64"
     },
     {
       "item_id": "realme/RE646FL1@sys_mssi_64_64only_cn_armv82-user-16-BP2A.250605.015-1768367327963-release-keys",
