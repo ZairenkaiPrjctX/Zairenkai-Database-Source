@@ -5,16 +5,16 @@
   "codename": "felix",
   "codename_key": "felix",
   "codename_status": "community_reported",
-  "discovered_at": "2026-11-23T13:10:24Z",
+  "discovered_at": "2026-11-24T13:56:22Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "felix.yml (blob e1b93867d1be): codename 'felix', name 'Pixel Fold'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-11-23T13:10:26Z",
+      "retrieved_at": "2026-11-24T13:56:23Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/67a8877ab60caccc6a85a2ef039e0bb50c16944f/_data/devices/felix.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/c4d0e3f1c4be30f8a1c1419a36e2ac9cdb4d1af9/_data/devices/felix.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -44,9 +44,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "e1b93867d1be35e3dbd25ad765e0319f8d5cea83",
-    "snapshot": "67a8877ab60caccc6a85a2ef039e0bb50c16944f",
+    "snapshot": "c4d0e3f1c4be30f8a1c1419a36e2ac9cdb4d1af9",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/67a8877ab60caccc6a85a2ef039e0bb50c16944f/_data/devices/felix.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/c4d0e3f1c4be30f8a1c1419a36e2ac9cdb4d1af9/_data/devices/felix.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {

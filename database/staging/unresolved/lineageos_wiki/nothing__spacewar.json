@@ -5,16 +5,16 @@
   "codename": "Spacewar",
   "codename_key": "spacewar",
   "codename_status": "community_reported",
-  "discovered_at": "2026-11-23T13:10:24Z",
+  "discovered_at": "2026-11-24T13:56:22Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "Spacewar.yml (blob 0d534ed5184c): codename 'Spacewar', name 'Phone (1)'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-11-23T13:10:26Z",
+      "retrieved_at": "2026-11-24T13:56:23Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/67a8877ab60caccc6a85a2ef039e0bb50c16944f/_data/devices/Spacewar.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/c4d0e3f1c4be30f8a1c1419a36e2ac9cdb4d1af9/_data/devices/Spacewar.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -46,9 +46,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "0d534ed5184c3f2f4f61e1760ace4368b540e705",
-    "snapshot": "67a8877ab60caccc6a85a2ef039e0bb50c16944f",
+    "snapshot": "c4d0e3f1c4be30f8a1c1419a36e2ac9cdb4d1af9",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/67a8877ab60caccc6a85a2ef039e0bb50c16944f/_data/devices/Spacewar.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/c4d0e3f1c4be30f8a1c1419a36e2ac9cdb4d1af9/_data/devices/Spacewar.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
