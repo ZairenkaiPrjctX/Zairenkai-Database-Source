@@ -5,14 +5,14 @@
   "codename": "shiba",
   "codename_key": "shiba",
   "codename_status": "community_reported",
-  "discovered_at": "2026-11-24T13:56:22Z",
+  "discovered_at": "2026-11-25T13:10:45Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "shiba.yml (blob 8a6383a3471e): codename 'shiba', name 'Pixel 8'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-11-24T13:56:23Z",
+      "retrieved_at": "2026-11-25T13:10:46Z",
       "source": "lineageos_wiki",
       "url": "https://github.com/LineageOS/lineage_wiki/blob/c4d0e3f1c4be30f8a1c1419a36e2ac9cdb4d1af9/_data/devices/shiba.yml"
     }
