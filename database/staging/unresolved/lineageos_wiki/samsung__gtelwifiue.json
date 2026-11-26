@@ -5,16 +5,16 @@
   "codename": "gtelwifiue",
   "codename_key": "gtelwifiue",
   "codename_status": "community_reported",
-  "discovered_at": "2026-11-25T13:10:45Z",
+  "discovered_at": "2026-11-26T12:50:26Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "gtelwifiue.yml (blob 1e91f27ffdee): codename 'gtelwifiue', name 'Galaxy Tab E 9.6 (WiFi)'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-11-25T13:10:46Z",
+      "retrieved_at": "2026-11-26T12:50:27Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/c4d0e3f1c4be30f8a1c1419a36e2ac9cdb4d1af9/_data/devices/gtelwifiue.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/7d09390a69c90b7e6e9bf59e65eb36f73229f7c3/_data/devices/gtelwifiue.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -46,9 +46,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "1e91f27ffdee41cd9728509d26802fd225cd07ff",
-    "snapshot": "c4d0e3f1c4be30f8a1c1419a36e2ac9cdb4d1af9",
+    "snapshot": "7d09390a69c90b7e6e9bf59e65eb36f73229f7c3",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/c4d0e3f1c4be30f8a1c1419a36e2ac9cdb4d1af9/_data/devices/gtelwifiue.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/7d09390a69c90b7e6e9bf59e65eb36f73229f7c3/_data/devices/gtelwifiue.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
