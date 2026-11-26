@@ -5,16 +5,16 @@
   "codename": "Mi8917",
   "codename_key": "mi8917",
   "codename_status": "community_reported",
-  "discovered_at": "2026-11-25T13:10:45Z",
+  "discovered_at": "2026-11-26T12:50:26Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "Mi8917_variant2.yml (blob bb9067a992f8): codename 'Mi8917', name 'Redmi 5A'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-11-25T13:10:46Z",
+      "retrieved_at": "2026-11-26T12:50:27Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/c4d0e3f1c4be30f8a1c1419a36e2ac9cdb4d1af9/_data/devices/Mi8917_variant2.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/7d09390a69c90b7e6e9bf59e65eb36f73229f7c3/_data/devices/Mi8917_variant2.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -49,9 +49,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "bb9067a992f827a7f1ff04206fc8d052b6f7e921",
-    "snapshot": "c4d0e3f1c4be30f8a1c1419a36e2ac9cdb4d1af9",
+    "snapshot": "7d09390a69c90b7e6e9bf59e65eb36f73229f7c3",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/c4d0e3f1c4be30f8a1c1419a36e2ac9cdb4d1af9/_data/devices/Mi8917_variant2.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/7d09390a69c90b7e6e9bf59e65eb36f73229f7c3/_data/devices/Mi8917_variant2.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
