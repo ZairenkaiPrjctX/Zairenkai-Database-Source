@@ -5,16 +5,16 @@
   "codename": "infiniti",
   "codename_key": "infiniti",
   "codename_status": "community_reported",
-  "discovered_at": "2026-11-25T13:10:45Z",
+  "discovered_at": "2026-11-26T12:50:26Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
-      "detail": "infiniti.yml (blob 27c09840e40a): codename 'infiniti', name '15'",
+      "detail": "infiniti.yml (blob 4b954a757b4e): codename 'infiniti', name '15'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-11-25T13:10:46Z",
+      "retrieved_at": "2026-11-26T12:50:27Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/c4d0e3f1c4be30f8a1c1419a36e2ac9cdb4d1af9/_data/devices/infiniti.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/7d09390a69c90b7e6e9bf59e65eb36f73229f7c3/_data/devices/infiniti.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -48,10 +48,10 @@
   },
   "source": {
     "provider_id": "lineageos_wiki",
-    "revision": "27c09840e40a2b0d512e1d97cc10b6bc220f108d",
-    "snapshot": "c4d0e3f1c4be30f8a1c1419a36e2ac9cdb4d1af9",
+    "revision": "4b954a757b4ea7f36a90c1825423b545f1f68599",
+    "snapshot": "7d09390a69c90b7e6e9bf59e65eb36f73229f7c3",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/c4d0e3f1c4be30f8a1c1419a36e2ac9cdb4d1af9/_data/devices/infiniti.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/7d09390a69c90b7e6e9bf59e65eb36f73229f7c3/_data/devices/infiniti.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
