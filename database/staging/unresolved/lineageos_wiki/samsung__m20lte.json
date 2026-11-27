@@ -5,16 +5,16 @@
   "codename": "m20lte",
   "codename_key": "m20lte",
   "codename_status": "community_reported",
-  "discovered_at": "2026-11-26T12:50:26Z",
+  "discovered_at": "2026-11-27T12:43:50Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "m20lte.yml (blob a09175951ab4): codename 'm20lte', name 'Galaxy M20'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-11-26T12:50:27Z",
+      "retrieved_at": "2026-11-27T12:43:51Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/7d09390a69c90b7e6e9bf59e65eb36f73229f7c3/_data/devices/m20lte.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/ac463f2ffd7a98f4ef342c91d88e2d7b0eaa2db5/_data/devices/m20lte.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -50,9 +50,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "a09175951ab408e83259afa7fdf552e935074fa8",
-    "snapshot": "7d09390a69c90b7e6e9bf59e65eb36f73229f7c3",
+    "snapshot": "ac463f2ffd7a98f4ef342c91d88e2d7b0eaa2db5",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/7d09390a69c90b7e6e9bf59e65eb36f73229f7c3/_data/devices/m20lte.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/ac463f2ffd7a98f4ef342c91d88e2d7b0eaa2db5/_data/devices/m20lte.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {

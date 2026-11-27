@@ -5,16 +5,16 @@
   "codename": "j7elte",
   "codename_key": "j7elte",
   "codename_status": "community_reported",
-  "discovered_at": "2026-11-26T12:50:26Z",
+  "discovered_at": "2026-11-27T12:43:50Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "j7elte.yml (blob 8205a4009647): codename 'j7elte', name 'Galaxy J7 (2015)'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-11-26T12:50:27Z",
+      "retrieved_at": "2026-11-27T12:43:51Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/7d09390a69c90b7e6e9bf59e65eb36f73229f7c3/_data/devices/j7elte.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/ac463f2ffd7a98f4ef342c91d88e2d7b0eaa2db5/_data/devices/j7elte.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -49,9 +49,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "8205a4009647be4950dbb9fb34e20059493bdda0",
-    "snapshot": "7d09390a69c90b7e6e9bf59e65eb36f73229f7c3",
+    "snapshot": "ac463f2ffd7a98f4ef342c91d88e2d7b0eaa2db5",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/7d09390a69c90b7e6e9bf59e65eb36f73229f7c3/_data/devices/j7elte.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/ac463f2ffd7a98f4ef342c91d88e2d7b0eaa2db5/_data/devices/j7elte.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
