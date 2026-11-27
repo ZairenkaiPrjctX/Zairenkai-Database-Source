@@ -5,16 +5,16 @@
   "codename": "dre",
   "codename_key": "dre",
   "codename_status": "community_reported",
-  "discovered_at": "2026-11-26T12:50:26Z",
+  "discovered_at": "2026-11-27T12:43:50Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
       "detail": "dre.yml (blob fa615cba5a99): codename 'dre', name 'Nord N200'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-11-26T12:50:27Z",
+      "retrieved_at": "2026-11-27T12:43:51Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/7d09390a69c90b7e6e9bf59e65eb36f73229f7c3/_data/devices/dre.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/ac463f2ffd7a98f4ef342c91d88e2d7b0eaa2db5/_data/devices/dre.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -46,9 +46,9 @@
   "source": {
     "provider_id": "lineageos_wiki",
     "revision": "fa615cba5a99cd77b2e631db81d8a710beb6a2fc",
-    "snapshot": "7d09390a69c90b7e6e9bf59e65eb36f73229f7c3",
+    "snapshot": "ac463f2ffd7a98f4ef342c91d88e2d7b0eaa2db5",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/7d09390a69c90b7e6e9bf59e65eb36f73229f7c3/_data/devices/dre.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/ac463f2ffd7a98f4ef342c91d88e2d7b0eaa2db5/_data/devices/dre.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
