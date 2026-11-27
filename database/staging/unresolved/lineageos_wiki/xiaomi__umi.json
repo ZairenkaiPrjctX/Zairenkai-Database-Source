@@ -5,16 +5,16 @@
   "codename": "umi",
   "codename_key": "umi",
   "codename_status": "community_reported",
-  "discovered_at": "2026-10-29T10:10:31Z",
+  "discovered_at": "2026-11-27T12:43:50Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
-      "detail": "umi.yml (blob bad457c312cb): codename 'umi', name 'Mi 10'",
+      "detail": "umi.yml (blob 9866a95db707): codename 'umi', name 'Mi 10'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-10-29T10:10:33Z",
+      "retrieved_at": "2026-11-27T12:43:51Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/cb91ae11e9d394bcba168d748ed5d339edc67b84/_data/devices/umi.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/ac463f2ffd7a98f4ef342c91d88e2d7b0eaa2db5/_data/devices/umi.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -46,10 +46,10 @@
   },
   "source": {
     "provider_id": "lineageos_wiki",
-    "revision": "bad457c312cb3b13fd321606d06179c0a2505adb",
-    "snapshot": "cb91ae11e9d394bcba168d748ed5d339edc67b84",
+    "revision": "9866a95db707f0d140fe134614b6bd01f1f40b5a",
+    "snapshot": "ac463f2ffd7a98f4ef342c91d88e2d7b0eaa2db5",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/cb91ae11e9d394bcba168d748ed5d339edc67b84/_data/devices/umi.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/ac463f2ffd7a98f4ef342c91d88e2d7b0eaa2db5/_data/devices/umi.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {

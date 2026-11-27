@@ -5,16 +5,16 @@
   "codename": "caihong",
   "codename_key": "caihong",
   "codename_status": "community_reported",
-  "discovered_at": "2026-10-29T10:10:31Z",
+  "discovered_at": "2026-11-27T12:43:50Z",
   "distribution_status": "metadata_only",
   "evidence": [
     {
       "confidence": 0.5,
-      "detail": "caihong_variant2.yml (blob fa8b649ce973): codename 'caihong', name 'Pad 2'",
+      "detail": "caihong_variant2.yml (blob 4c1202eac8c9): codename 'caihong', name 'Pad 2'",
       "evidence_type": "community_repository",
-      "retrieved_at": "2026-10-29T10:10:33Z",
+      "retrieved_at": "2026-11-27T12:43:51Z",
       "source": "lineageos_wiki",
-      "url": "https://github.com/LineageOS/lineage_wiki/blob/cb91ae11e9d394bcba168d748ed5d339edc67b84/_data/devices/caihong_variant2.yml"
+      "url": "https://github.com/LineageOS/lineage_wiki/blob/ac463f2ffd7a98f4ef342c91d88e2d7b0eaa2db5/_data/devices/caihong_variant2.yml"
     }
   ],
   "firmware_payload_ingested": false,
@@ -45,10 +45,10 @@
   },
   "source": {
     "provider_id": "lineageos_wiki",
-    "revision": "fa8b649ce9732a83d8ae6906ad6bad72069ac6d1",
-    "snapshot": "cb91ae11e9d394bcba168d748ed5d339edc67b84",
+    "revision": "4c1202eac8c99d20c8d61db3e9807df303c03f98",
+    "snapshot": "ac463f2ffd7a98f4ef342c91d88e2d7b0eaa2db5",
     "source_type": "community_repository",
-    "url": "https://github.com/LineageOS/lineage_wiki/blob/cb91ae11e9d394bcba168d748ed5d339edc67b84/_data/devices/caihong_variant2.yml"
+    "url": "https://github.com/LineageOS/lineage_wiki/blob/ac463f2ffd7a98f4ef342c91d88e2d7b0eaa2db5/_data/devices/caihong_variant2.yml"
   },
   "unresolved_reason": "community source only; needs firmware build.prop or official source to verify the codename",
   "verification": {
